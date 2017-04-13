@@ -2,7 +2,7 @@
 
 TURTLESHROOM PRODUCTIONS PROUDLY PRESENTS: 
 
-This is the official page for Avrolancaster's Super Mario Mod!
+This is the official page for Avrolancaster's Super Mario Mod for the "Crusader Kings II" video game!
 
 Started many years ago, various participants have created some aspects of it here and there. A map is mostly done, some localization is in place right now. Any man is welcome to participate in this project by creating Forks of their own accord. Avrolancaster and I will have write privileges.
 
