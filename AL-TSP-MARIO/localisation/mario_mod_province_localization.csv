@@ -1,0 +1,1461 @@
+#######################################################
+#      TURTLESHROOM PRODUCTIOSN PROUDLY PRESENTS      #
+# SUPER MARIO MOD COUNTY-LEVEL PROVINCES LOCALIZATION #
+#######################################################
+c_rice_beach;Rice Beach;;;;;;;;;;x
+c_mount_teapot;Mount Teapot;;;;;;;;;;x
+c_sherbert_land;Sherbert Land;;;;;;;;;;x
+c_stove_canyon;Stove Canyon;;;;;;;;;;x
+c_teacup_cove;Teacup Cove;;;;;;;;;;x
+c_parsley_forest;Parsley Forest;;;;;;;;;;x
+c_syrup_castle;Syrup Point;;;;;;;;;;x
+c_mario_castle_zone;Mario's Castle;;;;;;;;;;x
+c_sgc_opening;Introduction Zone;;;;;;;;;;x
+c_mario_zone;Mecha-Mario Zone;;;;;;;;;;x
+c_pumpkin_zone;Pumpkin Zone;;;;;;;;;;x
+c_turtle_zone;Turtle Zone;;;;;;;;;;x
+c_macro_zone;Macro Zone;;;;;;;;;;x
+c_hippo_zone;Hippopotamus Zone;;;;;;;;;;x
+c_tree_zone;Tree Zone;;;;;;;;;;x
+c_yoshi_island_zone_one;The Rolling Prairie;;;;;;;;;;x
+c_yoshi_island_zone_two;Dusky Uplands;;;;;;;;;;x
+c_yoshi_island_zone_three;Ukiksylvania;;;;;;;;;;x
+c_yoshi_island_zone_four;Rolling Sunset Valley;;;;;;;;;;x
+c_yoshi_island_zone_five;Frozen Cliffs;;;;;;;;;;x
+c_donut_plains;Doughnut Plains;;;;;;;;;;x
+c_vanilla_dome;Vanilla Dome;;;;;;;;;;x
+c_twin_bridges;Butter Bridge;;;;;;;;;;x
+c_forest_of_illusion;Forest of Illusion;;;;;;;;;;x
+c_chocolate_island;Chocolate Islands;;;;;;;;;;x
+c_bowser_reef;Valley of Bowser;;;;;;;;;;x
+c_beanbean_castle;Beanbean Capitol;;;;;;;;;;x
+c_beanbean_airport;Beanbean Air Base;;;;;;;;;;x
+c_beanbean_swamp;Beanbean Swamp;;;;;;;;;;x
+c_beanbean_castle;Beanbean Capitol;;;;;;;;;;x
+c_beanbean_airport;Beanbean Air Base;;;;;;;;;;x
+c_beanbean_swamp;Beanbean Swamp;;;;;;;;;;x
+c_stardust_fields;Stardust Fields;;;;;;;;;;x
+c_hoohoo_village;Hoohoo Village;;;;;;;;;;x
+c_hoohoo_mountain;Hoohoo Mountain;;;;;;;;;;x
+c_chateau_de_chucklehuck;Château de Chucklehuck;;;;;;;;;;x
+c_chucklehuck_woods;Bois du Rire;;;;;;;;;;x
+c_woohoo_university;Woohoo University;;;;;;;;;;x
+c_oho_oasis;Oho Oasis;;;;;;;;;;x
+c_teehee_valley;Tee Hee Valley;;;;;;;;;;x
+c_little_fungitown;Little Fungitown;;;;;;;;;;x
+c_guffawha_ruins;Guffawha Ruins;;;;;;;;;;x
+c_gwarhar_lagoon;Gwarhar Lagoon;;;;;;;;;;x
+c_yoshi_theatre;Yoshi Theater;;;;;;;;;;x
+c_joke_end;Joke's End;;;;;;;;;;x
+c_beanbean_meadows;Beanbean Meadows;;;;;;;;;;x
+c_delfino_airstrip;Delfino Air Base;;;;;;;;;;x
+c_delfino_plaza;Delfino;;;;;;;;;;x
+c_bianco_hills;Bianco Hills;;;;;;;;;;x
+c_ricco_harbour;Ricco Harbor;;;;;;;;;;x
+c_gelato_beach;Gelato Beach;;;;;;;;;;x
+c_pinna_island;Pinna Island;;;;;;;;;;x
+c_sirena_beach;Sirena Beach;;;;;;;;;;x
+c_noki_bay;Noki Bay;;;;;;;;;;x
+c_pianta_village;Pianta Village;;;;;;;;;;x
+c_corona_mountain;Corona Mountain;;;;;;;;;;x
+c_peach_beach;Peach Beach;;;;;;;;;;x
+c_big_fish_island;Big Fish Island;;;;;;;;;;x
+c_little_fish_island;Little Fish Island;;;;;;;;;;x
+c_pectoral_fin_peninsula;Pectoral Peninsula;;;;;;;;;;x
+c_dorsal_fin_bay;Dorsal Bay;;;;;;;;;;x
+c_angelo_harbour;Angelo Harbor;;;;;;;;;;x
+c_tailfin_bay;Tailfin;;;;;;;;;;x
+c_grande_artiglio_island;Greater Claw Island;;;;;;;;;;x
+c_piccolo_artiglio_island;Lesser Claw Island;;;;;;;;;;x
+c_bocca_beach;Mouthshore;;;;;;;;;;x
+c_fianco_harbour;Flankside;;;;;;;;;;x
+c_corrazza_mountains;Mount Armor;;;;;;;;;;x
+c_gamba_sinistra_islands;Isles of the Left Leg;;;;;;;;;;x
+c_gamba_destra_islands;Isles of the Right Leg;;;;;;;;;;x
+c_granchio_airport;Fort Crab;;;;;;;;;;x
+c_booty_boardwalk;Big Booty Boardwalk;;;;;;;;;;x
+c_minnow_island;Minnow Island;;;;;;;;;;x
+c_isle_tartaruga;Tortoise Island;;;;;;;;;;x
+c_isle_cuore;Heart Island;;;;;;;;;;x
+c_isle_zuccone;Dunce;;;;;;;;;;x
+c_isle_liuto;Isles of the Lute;;;;;;;;;;x
+c_isle_embricata;Sea Turtle World;;;;;;;;;;x
+c_isle_schiena_piatta;Back;;;;;;;;;;x
+c_koopa_kabana;Koopa Kabana;;;;;;;;;;x
+c_jalapeno_beach;Jalapeño Beach;;;;;;;;;;x
+c_habanero_harbour;Habañero Harbor;;;;;;;;;;x
+c_cayenne_cove;Cayenne Chili Cove;;;;;;;;;;x
+c_banana_bay;Banana Bay;;;;;;;;;;x
+c_serrano_sound;Serrano Sound;;;;;;;;;;x
+c_bell_highlands;Bell Pepper Highlands;;;;;;;;;;x
+c_blood_orange_bay;Blood Orange Bay;;;;;;;;;;x
+c_sweet_orange_island;Sweet Orange Island;;;;;;;;;;x
+c_grapefruit_harbour;Grapefruit Harbor;;;;;;;;;;x
+c_lemon_anchorage;Lemon Anchorage;;;;;;;;;;x
+c_lime_lagoon;Lime Lagoon;;;;;;;;;;x
+c_tangerine_beach;Tangerine Beach;;;;;;;;;;x
+c_lavalava_beach;Lavalava Beach;;;;;;;;;;x
+c_yoshi_village;Yoshi Village;;;;;;;;;;x
+c_mt_lavalava;Mount Lavalava;;;;;;;;;;x
+c_north_jade_jungle;Northern Jade Jungle;;;;;;;;;;x
+c_south_jade_jungle;Southern Jade Jungle
+c_toad_town;Toad Town;;;;;;;;;;x
+c_peach_castle;Peach's Castle Capitol;;;;;;;;;;x
+c_west_goomba_road;Western Goomba Road;;;;;;;;;;x
+c_east_goomba_road;Eastern Goomba Road;;;;;;;;;;x
+c_goomba_fortress;Goomba Fortress;;;;;;;;;;x
+c_goomba_village;Goomba Village;;;;;;;;;;x
+c_miracle_landing;Miracle Landing;;;;;;;;;;x
+c_koopa_village;Koopa Village;;;;;;;;;;x
+c_pleasant_path;Pleasant Path;;;;;;;;;;x
+c_koopa_bros_fortress;Koopa Brothers' Fortress;;;;;;;;;;x
+c_east_forever_forest;Eastern Forever Forest;;;;;;;;;;x
+c_south_forever_forest;Southern Forever Forest;;;;;;;;;;x
+c_mario_house;Mario's House;;;;;;;;;;x
+c_toad_cliffs;Toad Cliffs;;;;;;;;;;x
+c_flower_fields;Flower Fields;;;;;;;;;;x
+c_shooting_star_summit;Shooting Star Summit;;;;;;;;;;x
+c_star_way;Star Way;;;;;;;;;;x
+c_star_haven;Star Haven;;;;;;;;;;x
+c_star_way;Star Way;;;;;;;;;;x
+c_shiver_city;Shiver City;;;;;;;;;;x
+c_shiver_mountain;Shiver Mountain;;;;;;;;;;x
+c_shiver_snowfield;Shiver Plains;;;;;;;;;;x
+c_starborn_valley;Starborn Valley;;;;;;;;;;x
+c_crystal_palace;Crystal Palace;;;;;;;;;;x
+c_hollijolli_village;Hollijolli Village;;;;;;;;;;x
+c_seasons_greens;Season's Greenings;;;;;;;;;;x
+c_hollijolli_mushroom_patch;Hollijolli Fairy Ring;;;;;;;;;;x
+c_luigis_mansion;Luigi's Mansion;;;;;;;;;;x
+c_luigis_new_mansion;Luigi's New Mansion;;;;;;;;;;x
+c_gloomy_manor;Gloomy Manor;;;;;;;;;;x
+c_haunted_towers;Haunted Towers;;;;;;;;;;x
+c_secret_mine;Secret Mine;;;;;;;;;;x
+c_acorn_plains;Acorn Plains;;;;;;;;;;x
+c_layer_cake_desert;Layer Cake Desert;;;;;;;;;;x
+c_sparkling_waters;Sparkling Waters;;;;;;;;;;x
+c_frosted_glacier;Frosted Glacier;;;;;;;;;;x
+c_soda_jungle;Soda Jungle;;;;;;;;;;x
+c_rock_candy_mines;Rock Candy Mines;;;;;;;;;;x
+c_secret_island;Secret Island;;;;;;;;;;x
+c_shivering_mountains;Shivering Mountains;;;;;;;;;;x
+c_chilly_mountain;Chilly Mountain;;;;;;;;;;x
+c_chilly_waters;Chilly Waters;;;;;;;;;;x
+c_creepy_cavern;Creepy Cavern;;;;;;;;;;x
+c_dark_path;Dark Path;;;;;;;;;;x
+c_horror_land;Horror Land;;;;;;;;;;x
+c_haunted_hideaway;Haunted Hideaway;;;;;;;;;;x
+c_tycoon_town;Tycoon Town;;;;;;;;;;x
+c_meadow_road;Meadow Road;;;;;;;;;;x
+c_mushroom_village;Mushroom Village;;;;;;;;;;x
+c_minigame_island;Minigame Island;;;;;;;;;;x
+c_neon_heights;Neon Heights;;;;;;;;;;x
+c_shroom_city;Shroom City;;;;;;;;;;x
+c_toad_road;Toad Road;;;;;;;;;;x
+c_towering_treetop;Towering Treetop;;;;;;;;;;x
+c_frappe_snowland;Frappe Snow Land;;;;;;;;;;x
+c_ghost_valley;Ghost Valley;;;;;;;;;;x
+c_koopa_beach;Koopa Beach;;;;;;;;;;x
+c_koopa_cape;Koopa Cape;;;;;;;;;;x
+c_maple_treeway;Maple Treeway;;;;;;;;;;x
+c_moo_moo_meadows;Moo Moo Meadows;;;;;;;;;;x
+c_mount_wario;Mount Wario;;;;;;;;;;x
+c_mushroom_bridge;Mushroom Bridge;;;;;;;;;;x
+c_mushroom_gorge;Mushroom Gorge;;;;;;;;;;x
+c_music_park;Musical Park;;;;;;;;;;x
+c_peach_gardens;Peach Gardens;;;;;;;;;;x
+c_pipe_plaza;Pipe Plaza;;;;;;;;;;x
+c_rainbow_road;Rainbow Road;;;;;;;;;;x
+c_ribbon_road;Ribbon Road;;;;;;;;;;x
+c_riverside_park;Riverside Park;;;;;;;;;;x
+c_rock_rock_mountain;Rock Rock Mountain;;;;;;;;;;x
+c_shroom_ridge;Shroom Ridge;;;;;;;;;;x
+"c_sweet_sweet_canyon;Sweet, Sweet Canyon;;;;;;;;;;x"
+c_glare_desert;Glare Desert;;;;;;;;;;x
+c_boo_valley;Boo Valley;;;;;;;;;;x
+c_cheep_cheep_falls;Cheep Cheep Falls;;;;;;;;;;x
+c_koopa_park;Koopa Park;;;;;;;;;;x
+c_lakitu_valley;Lakitu Valley;;;;;;;;;;x
+c_marion;Marion;;;;;;;;;;x
+c_mount_mushmore;Mount Mushmore;;;;;;;;;;x
+c_sky_island;Sky Island;;;;;;;;;;x
+c_mushroom_valley;Mushroom Valley;;;;;;;;;;x
+c_battle_fort;Battle Fort;;;;;;;;;;x
+c_big_boos_haunt;Big Boo's Haunt;;;;;;;;;;x
+c_bob_omb_battlefield;Bob-omb Battlefield;;;;;;;;;;x
+c_shifting_sand_land;Shifting Sand Land;;;;;;;;;;x
+"c_tall_tall_mountain;Tall, Tall Mountain;;;;;;;;;;x"
+c_whomps_fortress;Whomp's Fortress;;;;;;;;;;x
+c_crater_field;Crater Field;;;;;;;;;;x
+c_apple_mountain;Apple Mountain;;;;;;;;;;x
+c_caveman_land;Cavemand Land;;;;;;;;;;x
+c_forest_of_perpetual_night_and_terrible_dangers;Forest of Hate;;;;;;;;;;x
+c_dome_city;Dome City;;;;;;;;;;x
+c_spy_land;Spy Land;;;;;;;;;;x
+c_fort_hard_knox;Fort Hard Knox;;;;;;;;;;x
+c_happy_harbour;Happy Harbor;;;;;;;;;;x
+c_koopacropolis;Koopacropolis;;;;;;;;;;x
+c_land_of_ice;Land of Ice;;;;;;;;;;x
+c_land_of_romance;Land of Romance;;;;;;;;;;x
+c_pasta_land;Pasta Land;;;;;;;;;;x
+c_pastadena;Pastadena;;;;;;;;;;x
+c_river_world;River World;;;;;;;;;;x
+c_shamrock_kingdom;Shamrock;;;;;;;;;;x
+c_sharewood_forest;Sharewood Forest;;;;;;;;;;x
+c_sharewood_village;Sharewood Village;;;;;;;;;;x
+c_pudding_wonderland;Pudding Wonderland;;;;;;;;;;x
+c_razor_ridge;Razor Ridge;;;;;;;;;;x
+c_neon_hills;Neon Hills;;;;;;;;;;x
+c_stars_shadow;Star's Shadow;;;;;;;;;;x
+c_chilly_snowfield;Chilly Snowfield;;;;;;;;;;x
+c_pine_peaks;Pine Peaks;;;;;;;;;;x
+c_cedar_hills;Cedar Hills;;;;;;;;;;x
+c_sky_high_mountain;Sky High Mountain;;;;;;;;;;x
+c_shivering_woods;Shivering Woods;;;;;;;;;;x
+c_koopa_hollow;Koopa Hollow;;;;;;;;;;x
+c_steep_steep_cliffs;Steep Steep Cliffs;;;;;;;;;;x
+c_crazed_crag;Crazed Crag;;;;;;;;;;x
+c_golden_plains;Golden Plains;;;;;;;;;;x
+c_meadow_pastures;Meadow Pastures;;;;;;;;;;x
+c_rolling_hills_land;Rolling Hills Land;;;;;;;;;;x
+c_swing_expanse;Swing Expanse;;;;;;;;;;x
+"c_long_long_trail;Long, Long Trail;;;;;;;;;;x"
+c_singing_grassland;Singing Grassland;;;;;;;;;;x
+c_snowflake_hills;Snowflake Hills;;;;;;;;;;x
+c_powder_valley;Powder Valley;;;;;;;;;;x
+c_bar_sands;Bar Sands;;;;;;;;;;x
+c_coldlium;Coldlium;;;;;;;;;;x
+c_frosty_frosty_tundra;Frosty Frosty Tundra;;;;;;;;;;x
+c_snowflake_valley;Snowflake Valley;;;;;;;;;;x
+c_bumpy_mesa;Bumpy Mesa;;;;;;;;;;x
+c_windswept_fields;Windswept Fields;;;;;;;;;;x
+c_breezy_bluff;Breezy Bluff;;;;;;;;;;x
+c_crazy_crag;Crazy Crag;;;;;;;;;;x
+c_floral_peaks;Floral Peaks;;;;;;;;;;x
+c_steel_cliffs;Steel Cliffs;;;;;;;;;;x
+c_hills_of_hate;Hills of Hate;;;;;;;;;;x
+c_last_light;Last Light;;;;;;;;;;x
+c_lake_t;Lake-T;;;;;;;;;;x
+c_jones_ridge;Tyler Jones' Ridge;;;;;;;;;;x
+c_prospectors_prospect;Prospectors' Prospect;;;;;;;;;;x
+c_fungus_badlands;Fungal Badlands;;;;;;;;;;x
+c_antipasto_ridge;Antipasto Ridge;;;;;;;;;;x
+c_stardust_shadowlands;Stardust Shadow Lands;;;;;;;;;;x
+c_misty_marsh;Misty Marsh;;;;;;;;;;x
+c_lucky_hills;Lucky Hills;;;;;;;;;;x
+c_windmill_marsh;Windmill Marsh;;;;;;;;;;x
+c_lollipop_lowlands;Lollipop Lowlands;;;;;;;;;;x
+c_turtles_teeth;Turtle's Teeth;;;;;;;;;;x
+c_dusty_dunes;Dusty Dunes;;;;;;;;;;x
+c_harmony_hills;Harmony Hills;;;;;;;;;;x
+c_crescendo_ridge;Crescendo Ridge;;;;;;;;;;x
+c_decrescendo_swamp;Decrescendo Swamp;;;;;;;;;;x
+c_clamshell_riverbank;Clamshell Riverbank;;;;;;;;;;x
+c_goomba_dunes;Goomba Dunes;;;;;;;;;;x
+c_riverside_ranch;Riverside Ranch;;;;;;;;;;x
+c_orchard_hill;Orchard Hill;;;;;;;;;;x
+c_boulder_canyon;Boulder Canyon;;;;;;;;;;x
+c_koopa_causeway;Koopa Kauseway;;;;;;;;;;x
+c_foggy_fields;Foggy Fields;;;;;;;;;;x
+c_heartbreak_hill;Heartbreak Hill;;;;;;;;;;x
+c_cold_pines;Cold Pines;;;;;;;;;;x
+c_mt_rugged;Mount Rugged;;;;;;;;;;x
+c_high_dry_dry_desert;Greater Dry Dry Desert;;;;;;;;;;x
+c_dry_dry_outpost;Dry Dry Outpost;;;;;;;;;;x
+c_dry_dry_ruins;Mousta's Palace;;;;;;;;;;x
+c_dry_dry_oasis;Dry Dry Oasis;;;;;;;;;;x
+c_parched_dry_dry_desert;Lesser Dry Dry Desert;;;;;;;;;;x
+c_dry_dry_mountains;Dry Dry Mountains;;;;;;;;;;x
+c_dry_dry_outpost_region;Lesser Dry Dry Outposts;;;;;;;;;;x
+c_dry_dry_reaches;Dry Dry Reaches;;;;;;;;;;x
+c_northern_dry_ridge;Northern Dry Dry Ridge;;;;;;;;;;x
+c_eastern_ruin_area;Eastern Mousta;;;;;;;;;;x
+c_western_ruin_area;Western Mousta;;;;;;;;;;x
+c_western_dry_dry_desert;Western Dry Dry Desert;;;;;;;;;;x
+c_southern_dry_dry_desert;Southern Dry Dry Desert;;;;;;;;;;x
+c_windy_mill;Windy Mill;;;;;;;;;;x
+c_gusty_gulch;Lesser Gusty Gulch;;;;;;;;;;x
+c_gusty_gulch_town;Greater Gusty Gulch;;;;;;;;;;x
+c_tubba_blubbas_castle;Tubba Blubba Castle;;;;;;;;;;x
+c_west_forever_forest;Western Forever Forest;;;;;;;;;;x
+c_boos_mansion;Boo Mansion;;;;;;;;;;x
+c_thwomp_volcano;Thwomp Volcano;;;;;;;;;;x
+c_thwomp_highlands;Thwomp Highlands;;;;;;;;;;x
+c_thwomp_foothills;Thwomp Foothills;;;;;;;;;;x
+c_e_gadd_outpost;E. Gadd Outpost;;;;;;;;;;x
+c_bowser_path;Bowser Path;;;;;;;;;;x
+c_western_gritzy_desert;Western Gritzy Desert;;;;;;;;;;x
+c_eastern_gritzy_desert;Eastern Gritzy Desert;;;;;;;;;;x
+c_gritzy_caves;Gritzy Caverns;;;;;;;;;;x
+c_koopaseum;Koopaseum;;;;;;;;;;x
+c_blubble_lake;Blubble Lake;;;;;;;;;;x
+c_tower_of_yikk;Tower of Yikk;;;;;;;;;;x
+c_bubble_islands;Bubble Islands;;;;;;;;;;x
+c_plack_beach;Plack Beach;;;;;;;;;;x
+c_plack_highlands;Plack Highlands;;;;;;;;;;x
+c_east_cavi_cape;Eastern Cavi Cape;;;;;;;;;;x
+c_cavi_planes;Cavi Planes;;;;;;;;;;x
+c_west_cavi_cape;Western Cavi Cape;;;;;;;;;;x
+c_dimple_woods;Dimple Woods;;;;;;;;;;x
+c_warios_woods;Peaceful Woods;;;;;;;;;;x
+c_battle_canyon;Battle Canyon;;;;;;;;;;x
+c_fairy_forest;Fairy Forest;;;;;;;;;;x
+c_yosu_lake;Yosu Lake;;;;;;;;;;x
+c_cloud_bird_mountain;Cloudbird Mountain;;;;;;;;;;x
+c_blaze_cave;Blaze Cave;;;;;;;;;;x
+c_ice_cave;Ice Cave;;;;;;;;;;x
+c_cheep_cheep_waters;Cheep Cheep Waters;;;;;;;;;;x
+c_balloon_bridge;Balloon Bridge;;;;;;;;;;x
+c_warios_garden;Wario Garden;;;;;;;;;;x
+c_warios_house;Wario's House;;;;;;;;;;x
+c_diamond_city;Diamond City;;;;;;;;;;x
+c_temple_of_form;Temple of Form;;;;;;;;;;x
+c_greenhorn_forest;Greenhorn Forest;;;;;;;;;;x
+c_greenhorn_ruins;Greenhorn;;;;;;;;;;x
+c_horror_manor;Horror Manor;;;;;;;;;;x
+c_wonky_circus;Wonky Circus;;;;;;;;;;x
+c_beanstalk_way;Beanstalk Way;;;;;;;;;;x
+c_mirror_mansion;Mirror Mansion;;;;;;;;;;x
+c_decalburg;Decalburg;;;;;;;;;;x
+c_surfshine_harbor;Surfshine Harbor;;;;;;;;;;x
+c_warm_fuzzy_plains;Warm Fuzzy Plains;;;;;;;;;;x
+c_bouquet_plains;Bouquet Plains;;;;;;;;;;x
+c_waters_edge_way;Waters' Edge Way;;;;;;;;;;x
+c_hither_thither_hill;Hither Thither Hill;;;;;;;;;;x
+c_whammino_mountain;Whammino Mountain;;;;;;;;;;x
+c_goomba_fortress;Goomba Fortress;;;;;;;;;;x - POSSIBLE DUPLICATE?
+c_leaflitter_path;Leaflitter Path;;;;;;;;;;x
+c_the_bafflewood;Bafflewood;;;;;;;;;;x
+c_wigglers_woods;Wigglers' Woods;;;;;;;;;;x
+c_strike_lake;Strike Lake;;;;;;;;;;x
+c_loop_loop_river;Loop Loop River;;;;;;;;;;x
+c_outlook_point;Outlook Point;;;;;;;;;;x
+c_rustle_burrow;Rustle Burrow;;;;;;;;;;x
+c_tree_branch_trail;Tree Branch Trail;;;;;;;;;;x
+c_gauntlet_pond;Gauntlet Pond;;;;;;;;;;x
+c_stump_glade;Stump Glade;;;;;;;;;;x
+c_holey_thicket;Holey Thicket;;;;;;;;;;x
+c_whitecap_beach;Whitecap Beach;;;;;;;;;;x
+c_big_city;Big City;;;;;;;;;;x
+c_barrier_mountains;Barrier Mountains;;;;;;;;;;x
+c_blooper_beach;Blooper Beach;;;;;;;;;;x
+c_boo_cemetary;Boo Hollow;;;;;;;;;;x
+c_boos_horror_castle;Horror Castle;;;;;;;;;;x
+c_castaway_bay;Castaway Bay;;;;;;;;;;x
+c_grand_canal;Grand Canal;;;;;;;;;;x
+c_magma_mine;Magma Mine;;;;;;;;;;x
+c_pagoda_peak;Pagoda Peak;;;;;;;;;;x
+c_lower_perilous_palace_path;Lesser Perilous Path;;;;;;;;;;x
+c_upper_perilous_palace_path;Greater Perilous Path;;;;;;;;;;x
+c_perilous_mountain;Perilous Mountain;;;;;;;;;;x
+c_perilous_palace;Perilous Palace;;;;;;;;;;x
+c_pyramid_park;Pyramid Park;;;;;;;;;;x
+c_spiny_desert;Spiny Desert;;;;;;;;;;x
+c_thirsty_gulch;Thirsty Gulch;;;;;;;;;;x
+c_western_land;Western Land;;;;;;;;;;x
+c_windmillville;Windmillville;;;;;;;;;;x
+c_woody_woods;Woody Woods;;;;;;;;;;x
+c_baby_park;Baby Park;;;;;;;;;;x
+c_bone_dry_dunes;Bone-Dry Dunes;;;;;;;;;;x
+c_boo_lake;Boo Lake;;;;;;;;;;x
+c_cheep_cheep_beach;Cheep Cheep Beach;;;;;;;;;;x
+c_desert_hills;Desert Hills;;;;;;;;;;x
+c_dolphin_shoals;Dolphin Shoals;;;;;;;;;;x
+c_honeybee_hive;Honeybee Hive;;;;;;;;;;x
+c_kalimari_desert;Kalimari Desert;;;;;;;;;;x
+c_lakeside_park;Lakeside Park;;;;;;;;;;x
+c_mario_beach;Mario Beach;;;;;;;;;;x
+c_shy_guy_beach;Shy Guy Beach;;;;;;;;;;x
+c_shy_guy_falls;Shy Guy Falls;;;;;;;;;;x
+c_sunset_wilds;Sunset Wilds;;;;;;;;;;x
+c_thwomp_desert;Thwomp Desert;;;;;;;;;;x
+c_thwomp_ruins;Thwomp Dunes;;;;;;;;;;x
+c_toad_harbour;Toad Harbor;;;;;;;;;;x
+c_twilight_house;Twilight House;;;;;;;;;;x
+c_twisted_mansion;Twisted Mansion;;;;;;;;;;x
+c_yoshi_falls;Yoshi Falls;;;;;;;;;;x
+c_yoshi_valley;Yoshi Valley;;;;;;;;;;x
+c_sunset_beach;Sunset Beach;;;;;;;;;;x
+c_shifting_sands;Varying Sands;;;;;;;;;;x
+c_shy_guy_desert;Shy Guy Desert;;;;;;;;;;x
+c_wiggler_park;Wiggler Park;;;;;;;;;;x
+c_yoshi_lake;Yoshi Lake;;;;;;;;;;x
+c_wario_dunes;Wario Dunes;;;;;;;;;;x
+c_crystal_canyon;Crystal Canyon;;;;;;;;;;x
+c_fire_mountain;Fire Mountain;;;;;;;;;;x
+c_mystic_forest;Mystic Forest;;;;;;;;;;x
+c_sandstone_stroll;Sandstone Stroll;;;;;;;;;;x
+c_car_land;Car Land;;;;;;;;;;x
+c_rebel_fort;Rebel Fort;;;;;;;;;;x
+c_crime_land;Crime Land;;;;;;;;;;x
+c_desert_kingdom;Desert Track;;;;;;;;;;x
+c_double_cross_ranch;Double Crossed Ranch;;;;;;;;;;x
+c_grand_koopa_canyon;Grand Koopa Canyon;;;;;;;;;;x
+c_jungle_land;Jungle Land;;;;;;;;;;x
+c_kingdom_of_youth;Land of Youth;;;;;;;;;;x
+c_linguine_land;Linguine Land;;;;;;;;;;x
+c_sudden_death_valley;Sudden Death Valley;;;;;;;;;;x
+c_mushridge;Mushridge;;;;;;;;;;x
+c_mushroom_woods;Mushroom Woods;;;;;;;;;;x
+c_mythis;Mythis;;;;;;;;;;x
+c_rap_land;Rapland;;;;;;;;;;x
+c_robo_land;Roboland;;;;;;;;;;x
+c_rotunda_land;Rotunda Land;;;;;;;;;;x
+c_rotunda_castle;Fort Rotunda;;;;;;;;;;x
+c_wild_west;Wild West;;;;;;;;;;x
+c_wunderland;Wunderland;;;;;;;;;;x
+c_grassy_greens;Grassy Greens;;;;;;;;;;x
+c_chilly_beach;Chilly Beach;;;;;;;;;;x
+c_cold_woods;Cold Cold Woods;;;;;;;;;;x
+c_jolly_plains;Jolly Plains;;;;;;;;;;x
+c_jolly_hills;Jolly Hills;;;;;;;;;;x
+c_jolly_fields;Jolly Fields;;;;;;;;;;x
+c_dry_bake_desert;Drybake Desert;;;;;;;;;;x
+c_yoshi_sphinx;Yoshi Sphinx;;;;;;;;;;x
+c_sandshifter_ruins;Sandshifter Dunes;;;;;;;;;;x
+c_damp_oasis;Damp Oasis;;;;;;;;;;x
+c_drybake_stadium;Drybake Stadium;;;;;;;;;;x
+c_snow_rise;Snow Rise;;;;;;;;;;x
+c_ice_flow;Ice Floe;;;;;;;;;;x
+c_the_enigmansion;Enigmansion;;;;;;;;;;x
+c_shaved_ice_cave;Shaved Ice Cave;;;;;;;;;;x
+c_whiteout_valley;Whiteout Valley;;;;;;;;;;x
+c_snow_fort;Snow Fort;;;;;;;;;;x
+c_shy_guy_jungle;Shy Guy Jungle;;;;;;;;;;x
+c_jungle_rapids;Jungle Rapids;;;;;;;;;;x
+c_long_fall_falls;Long Fall Falls;;;;;;;;;;x
+c_chomp_ruins;Chomplin;;;;;;;;;;x
+c_rugged_road;Rugged Road;;;;;;;;;;x
+c_rumble_volcano;Rumble Volcano;;;;;;;;;;x
+c_gate_cliff;Gate Cliff;;;;;;;;;;x
+c_pipe_plains;Pipe Plains;;;;;;;;;;x
+c_pipe_hills;Pipe Hills;;;;;;;;;;x
+c_coin_plains;Coin Plains;;;;;;;;;;x
+c_coin_cliffs;Coin Cliffs;;;;;;;;;;x
+c_northern_grass_land_toad_house;Northern Grassland Toad House;;;;;;;;;;x
+c_grass_land_fortress;Grassy Fortress;;;;;;;;;;x
+c_grass_land_hills;Grass Land Hills;;;;;;;;;;x
+c_grass_land_cliffs;Grassy Cliffs;;;;;;;;;;x
+c_southern_grass_land_toad_house;Southern Grassland Toad House;;;;;;;;;;x
+c_grass_land_castle;Grass Land Castle;;;;;;;;;;x
+c_pipe_ruins;Pipe Hollows;;;;;;;;;;x
+c_desert_oasis;Desert Land Oasis;;;;;;;;;;x
+c_northern_desert_toad_house;Northern Desert Land Toad House;;;;;;;;;;x
+c_desert_land_fortress;Desert Land Fortress;;;;;;;;;;x
+c_pyramid_flats;Pyramid Flats;;;;;;;;;;x
+c_western_desert_toad_house;Western Desert Land Toad House;;;;;;;;;;x
+c_quicksand;Quicksand Zone;;;;;;;;;;x
+c_palm_oasis;Palm Oasis;;;;;;;;;;x
+c_chomp_pyramids;Chomp Pyramids
+c_pyramid_hill;The Grand Pyramid;;;;;;;;;;x
+c_desert_castle;Desert Land Castle;;;;;;;;;;x
+c_bonus_range;Bonus Ridge;;;;;;;;;;x
+c_southern_desert_toad_house;Southern Desert Toad House;;;;;;;;;;x
+c_ocean_side_castle;Water Land Castle;;;;;;;;;;x
+c_toad_islands;Toad Islands;;;;;;;;;;x
+c_archipelago_fortress;Archipelago Fortress;;;;;;;;;;x
+c_dandy_pier;Dandy Pier;;;;;;;;;;x
+c_cheep_cheep_reef;Cheep Cheep Reef;;;;;;;;;;x
+c_misty_cove;Misty Cove;;;;;;;;;;x
+c_misty_heights;Misty Heights;;;;;;;;;;x
+c_sponge_hills;Sponge Hills;;;;;;;;;;x
+c_toad_sound;Toad Sound;;;;;;;;;;x
+c_boss_bass_bay;Boss Bass Bay;;;;;;;;;;x
+c_peninsular_fortress;Peninsular Fortress;;;;;;;;;;x
+c_cheep_cheep_falls;Cheep Cheep Falls;;;;;;;;;;x - POSSIBLE DUPLICATE?
+c_southern_toad_house;Little Toad House;;;;;;;;;;x
+c_giant_wetlands;Giant Wetlands;;;;;;;;;;x
+c_toad_peninsula;Toad Peninsula;;;;;;;;;;x
+c_giant_pipeland;Giant Pipe Land;;;;;;;;;;x
+c_giant_caverns;Grand Caverns;;;;;;;;;;x
+c_coastal_fortress;Candlelight Fortress;;;;;;;;;;x
+c_giant_coral_cave;Huge Coral Cave;;;;;;;;;;x
+c_toad_point;Big Toad Point;;;;;;;;;;x
+c_island_fortress;Big Island Fortress;;;;;;;;;;x
+c_gargantuan_hills;Gargantuan Hills;;;;;;;;;;x
+c_big_plains;Big Plains;;;;;;;;;;x
+c_western_giant_toad_house;Western Grand Toad House;;;;;;;;;;x
+c_big_castle;Giant Land Castle;;;;;;;;;;x
+c_chomp_stairway;Chomp Stairs;;;;;;;;;;x
+c_cavern_hill;Cavern Hill;;;;;;;;;;x
+c_toad_river;Toad River;;;;;;;;;;x
+c_muncher_canyon;Muncher Canyon;;;;;;;;;;x
+c_river_manor;River Redoubt;;;;;;;;;;x
+c_stairway_to_heaven;Stairway to Heaven;;;;;;;;;;x
+c_coin_cloud_falls;Coin Cloud Falls;;;;;;;;;;x
+c_donut_heights;Doughnut Heights;;;;;;;;;;x
+c_cloud_toad_house;Cloud Toad House;;;;;;;;;;x
+c_cloudy_path;Cloudy Path;;;;;;;;;;x
+c_toad_heights;Toad Heights;;;;;;;;;;x
+c_castle_in_the_clouds;Bastion of the Clouds;;;;;;;;;;x
+c_sky_castle;Sky Land Castle;;;;;;;;;;x
+c_shifting_clouds;Shifting Clouds;;;;;;;;;;x
+c_cloud_stairway;Cloud Stairway;;;;;;;;;;x
+c_ice_castle;Ice Land Castle;;;;;;;;;;x
+c_ice_fortress;Shivering Fortress;;;;;;;;;;x
+c_frigid_forest;Shivering Woods;;;;;;;;;;x
+c_ice_lake;Frosty Lake;;;;;;;;;;x
+c_thawed_hills;Thaw Hills;;;;;;;;;;x
+c_snowy_hills;Snowy Hills;;;;;;;;;;x
+c_icy_lake_fortress;Icy Fortress;;;;;;;;;;x
+c_frozen_toad_house;Ice Cold Toad House;;;;;;;;;;x
+c_ice_caverns;Ice Caverns;;;;;;;;;;x
+c_icy_heights;Icy Heights;;;;;;;;;;x
+c_northern_ice_fortress;Northern Ice Fortress;;;;;;;;;;x
+c_snowy_heights;Snowy Heights;;;;;;;;;;x
+c_chilly_hills;Chilly Hills;;;;;;;;;;x
+c_toad_fjord;Toad Fjord;;;;;;;;;;x
+c_frosty_plains;Windswept Plains;;;;;;;;;;x
+c_northern_pipe_toad_house;Northern Pipe Toad House;;;;;;;;;;x
+c_pipe_maze_castle;Pipe Land Castle;;;;;;;;;;x
+c_pipe_pyramids;Pipe Pyramids;;;;;;;;;;x
+c_piranha_pipe_gardens;Piranha Pipe Gardens;;;;;;;;;;x
+c_muncher_gauntlet;Muncher Gauntlet;;;;;;;;;;x
+c_pipe_chasm;Pipe Chasm;;;;;;;;;;x
+c_western_pipe_fort;Western Pipe Fort;;;;;;;;;;x
+c_pipe_prison;Pipe Prison;;;;;;;;;;x
+c_pipe_reef;Pipe Reef;;;;;;;;;;x
+c_pipe_slopes;Pipe Slopes;;;;;;;;;;x
+c_southern_pipe_toad_house;Southern Pipe Toad House;;;;;;;;;;x
+c_pipe_desert;Pipe Desert;;;;;;;;;;x
+c_pipe_caverns;Pipe Caverns;;;;;;;;;;x
+c_lava_land;Lava Sea;;;;;;;;;;x
+c_skull_land;Skull Proving Grounds;;;;;;;;;;x
+c_dark_world_fortress;Bastion of Bowser;;;;;;;;;;x
+c_skull_hills;Skull Hills;;;;;;;;;;x
+c_skull_desert;Skull Desert;;;;;;;;;;x
+c_the_valley_of_bowser;Valley of Bowser;;;;;;;;;;x
+c_castle_bowser;Castle Bowser;;;;;;;;;;x
+c_world_e_castle;World-E Castle;;;;;;;;;;x
+c_red_toad_peninsula;Red Toad Peninsula;;;;;;;;;;x
+c_blue_toad_woods;Blue Toad Woods;;;;;;;;;;x
+c_yellow_toad_bay;Yellow Toad Bay;;;;;;;;;;x
+c_pecan_sands;Pecan Sands;;;;;;;;;;x
+c_banzai_bills_mad_mountain;Banzai-Mad Mountain;;;;;;;;;;x
+c_bowser_land;Bowser Land;;;;;;;;;;x
+c_bowsers_enchanted_inferno;Bowser's Enchanted Inferno;;;;;;;;;;x
+c_bowsers_magma_mountain;Magma Mountain;;;;;;;;;;x
+c_bowsers_peculiar_peak;Peculiar Peak;;;;;;;;;;x
+c_clockwork_castle;Clockwork Castle;;;;;;;;;;x
+c_infernal_tower;Infernal Tower;;;;;;;;;;x
+c_snowflake_lake;Snowflake Lake;;;;;;;;;;x
+c_big_donut;Big Doughnut;;;;;;;;;;x
+c_block_city;Block City;;;;;;;;;;x
+c_cookie_land;Cookie Land;;;;;;;;;;x
+c_cheese_land;Cheese Land;;;;;;;;;;x
+c_neo_bowser_city;Neo-Bowser City;;;;;;;;;;x
+c_yoshi_desert;Yoshi Desert;;;;;;;;;;x
+c_blooper_bay;Blooper Bay;;;;;;;;;;x
+c_bowser_badlands;Bowser Badlands;;;;;;;;;;x
+c_tiny_huge_island;Tiny/Huge Island;;;;;;;;;;x
+c_thunder_island;Thunder Island;;;;;;;;;;x
+c_seizures_palace;Seizures Palace;;;;;;;;;;x
+c_thump_castle;Thump Castle;;;;;;;;;;x
+c_koopabiza;Koopabiza;;;;;;;;;;x
+c_cannon_cove;Cannon Cove;;;;;;;;;;x
+c_fungusville;Fungusville;;;;;;;;;;x
+c_turtlevania;Turtlevania;;;;;;;;;;x
+c_castle_koopula;Castle Koopula;;;;;;;;;;x
+c_down_under_land;Down-Under Land;;;;;;;;;;x
+c_el_desert_land;El Desierto;;;;;;;;;;x
+c_lava_land;Lava Land;;;;;;;;;;x - DUPLICATE
+c_pirate_port;Pirate Port;;;;;;;;;;x
+c_sayonara;Sayonara;;;;;;;;;;x
+c_victoria;Victoria;;;;;;;;;;x
+c_trouter_bay;Trouter Bay;;;;;;;;;;x
+c_cloud_temple;Cloud Temple;;;;;;;;;;x
+c_bonus_desert;Bonus Desert;;;;;;;;;;x
+c_desert_coast;Desert Coast;;;;;;;;;;x
+c_mirage_mountains;Mirage Mountains;;;;;;;;;;x
+c_thick_palms;Thick Palms;;;;;;;;;;x
+c_channel_sands;Channel Sands;;;;;;;;;;x
+c_icy_bay;Icy Bay;;;;;;;;;;x
+c_frigid_peninsula;Frigid Peninsula;;;;;;;;;;x
+c_frosty_foothills;Frosty Foothills;;;;;;;;;;x
+c_frosty_peaks;Frosty Peaks;;;;;;;;;;x
+c_icicle_coast;Icicle Coast;;;;;;;;;;x
+c_frigid_bay;Frigid Bay;;;;;;;;;;x
+c_cold_coast;Cold Coast;;;;;;;;;;x
+c_snowball_mountain;Snowball Mountain;;;;;;;;;;x
+c_sizzling_coast;Sizzling Coast;;;;;;;;;;x
+c_dark_coast;Dark Coast;;;;;;;;;;x
+c_skeleton_bay;Skeleton Bay;;;;;;;;;;x
+c_shadowland;Shadowland;;;;;;;;;;x
+c_bowser_coast;Bowser Coast;;;;;;;;;;x
+c_koopa_ridge;Koopa Ridge;;;;;;;;;;x
+c_red_cliffs;Red Cliffs;;;;;;;;;;x
+c_goomport;Goomport;;;;;;;;;;x
+c_bonyard;Bonyard;;;;;;;;;;x
+c_traders_bay;Traders' Bay;;;;;;;;;;x
+c_traitors_bay;Traitors' Bay;;;;;;;;;;x
+c_city_of_thieves;City of Thieves;;;;;;;;;;x
+c_icy_heart_peak;Icy Heart Peak;;;;;;;;;;x
+c_rogueport;Rogueport;;;;;;;;;;x
+c_lower_boggly_woods;Lesser Boggly Woods;;;;;;;;;;x
+c_the_great_tree;The Great Tree;;;;;;;;;;x
+c_poshley_heights;Poshley Heights;;;;;;;;;;x
+c_petalburg;Petalburg;;;;;;;;;;x
+c_hooktail_castle;Hooktail;;;;;;;;;;x
+c_fahr_outpost;Fahr Outpost;;;;;;;;;;x
+c_southern_fahr_ridge;Southern Fahr Ridge;;;;;;;;;;x
+c_middle_fahr_ridge;Central Fahr Ridge;;;;;;;;;;x
+c_northern_fahr_ridge;Northern Fahr Ridge;;;;;;;;;;x
+c_creepy_steeple;Creepy Steeple;;;;;;;;;;x
+c_twilight_town;Twilight Town;;;;;;;;;;x
+c_twilight_trail;Twilight Trail;;;;;;;;;;x
+c_twilight_woods;Twilight Woods;;;;;;;;;;x
+c_keelhaul_key;Keelhaul Key;;;;;;;;;;x
+c_pirates_grotto;Pirates' Grotto;;;;;;;;;;x
+c_faire_square;Faire Square;;;;;;;;;;x
+c_pirates_dream;Pirates' Dream;;;;;;;;;;x
+c_dire_dire_docks;Dire Dire Docks;;;;;;;;;;x
+c_hazy_maze_cave;Haze Maze Cave;;;;;;;;;;x
+c_jolly_roger_bay;Jolly Rodger Bay;;;;;;;;;;x
+c_wet_dry_world;Wet/Dry World;;;;;;;;;;x
+c_twilight_city;Twilight City;;;;;;;;;;x
+c_mushville;Mushville;;;;;;;;;;x
+c_north_pole;Geographic North Pole;;;;;;;;;;x
+c_city_of_traitors;City of Traitors;;;;;;;;;;x
+c_penguin_paradise;Penguin Paradise;;;;;;;;;;x
+c_twilight_vale;Twilight Vale;;;;;;;;;;x
+c_boggly_bay;Boggly Bay;;;;;;;;;;x
+c_silent_valley;Silent Valley;;;;;;;;;;x
+c_petal_meadows;Petal Meadows;;;;;;;;;;x
+c_upper_boggly_woods;Greater Boggly Woods;;;;;;;;;;x
+c_silent_mountains;Silent Mountains;;;;;;;;;;x
+c_icicle_town;Icicle Town;;;;;;;;;;x
+c_boggly_reach;Boggly Reach;;;;;;;;;;x
+c_black_meadow;Black Meadow;;;;;;;;;;x
+c_gray_glade;Gray Glade;;;;;;;;;;x
+c_whitevale;Whitevale;;;;;;;;;;x
+c_moonlight_pass;Moonlight Pass;;;;;;;;;;x
+c_last_refuge;Last Refuge;;;;;;;;;;x
+c_ice_rift;Ice Rift;;;;;;;;;;x
+c_crows_rest;Crows' Rest;;;;;;;;;;x
+c_meloncholy_estuary;Meloncholy Estuary;;;;;;;;;;x
+c_starlight_hills;Starlight Hills;;;;;;;;;;x
+c_reindeer_run;Reindeer Run;;;;;;;;;;x
+c_bounty_harbour;Bounty Harbor;;;;;;;;;;x
+c_nights_chill;The Night's Chill;;;;;;;;;;x
+c_meloncholy_fjord;Melancholy Fjord;;;;;;;;;;x
+c_snowfort_mountain;Snowfort Mountain;;;;;;;;;;x
+c_snow_cone_dome;Snow Cone Dome;;;;;;;;;;x
+c_avalance_alley;Avalanche Alley;;;;;;;;;;x
+c_bleak_peak;Bleak Peak;;;;;;;;;;x
+c_hush_valley;Hush Valley;;;;;;;;;;x
+c_mushroom_castle;Mushroom Castle;;;;;;;;;;x
+c_marios_pad;Mario's House;;;;;;;;;;x
+c_mushroom_way;Mushroom Way;;;;;;;;;;x
+c_bandits_way;Bandits' Way;;;;;;;;;;x
+c_mushroom_mountains;Mushroom Mountains;;;;;;;;;;x
+c_kings_pass;King's Pass;;;;;;;;;;x
+c_crownwood_forest;Crownwood Forest;;;;;;;;;;x
+c_mushroom_harbour;Mushroom Harbor;;;;;;;;;;x
+c_crown_bay;Crown Bay;;;;;;;;;;x
+c_hightop_flats;Hightop Flats;;;;;;;;;;x
+c_grand_staircase;Grand Staircase;;;;;;;;;;x
+c_icewater_bay;Icewater Bay;;;;;;;;;;x
+c_square_shore;Square Shore;;;;;;;;;;x
+c_mushroom_thicket;Mushroom Thicket;;;;;;;;;;x
+c_kero_sewers;Kero Sewers;;;;;;;;;;x
+c_midas_river;Midas River;;;;;;;;;;x
+c_tadpole_pond;Tadpole Pond;;;;;;;;;;x
+c_rose_way;Rose Way;;;;;;;;;;x
+c_rose_town;Rose Town;;;;;;;;;;x
+c_pipe_vault;Pipe Vault;;;;;;;;;;x
+c_rose_forest_maze;Rose Forest Maze;;;;;;;;;;x
+c_shore_forest_maze;Shore Forest Maze;;;;;;;;;;x
+c_deep_forest_maze;Deep Forest Maze;;;;;;;;;;x
+c_mole_mountain;Mole Mountain;;;;;;;;;;x
+c_booster_tower;Booster Tower;;;;;;;;;;x
+c_booster_hill;Booster Hill;;;;;;;;;;x
+c_booster_pass;Booster Pass;;;;;;;;;;x
+c_marrymore;Marrymore;;;;;;;;;;x
+c_boulder_field;Boulder Field;;;;;;;;;;x
+c_granite_flats;Granite Flats;;;;;;;;;;x
+c_southport;Southport;;;;;;;;;;x
+c_smugglers_bay;Smugglers' Bay;;;;;;;;;;x
+c_mole_harbour;Mole Harbor;;;;;;;;;;x
+c_star_hill;Star Hill;;;;;;;;;;x
+c_seaside_town;Seaside Town;;;;;;;;;;x
+c_seaside_town_castle;Seaside Fortress;;;;;;;;;;x
+c_salty_path;Salty Path;;;;;;;;;;x
+c_salty_beach;Salty Beach;;;;;;;;;;x
+c_rolling_flatts;Rolling Flats;;;;;;;;;;x
+c_lightning_bay;Lightning Bay;;;;;;;;;;x
+c_harbour_hold;Harbor Hold;;;;;;;;;;x
+c_rocky_fields;Rocky Fields;;;;;;;;;;x
+c_freshwater_beach;Freshwater Beach;;;;;;;;;;x
+c_monstro_town;Monstro Town;;;;;;;;;;x
+c_lands_end;Lands' End;;;;;;;;;;x
+c_bean_valley;Bean Valley;;;;;;;;;;x
+c_nimbus_valley;Nimbus Valley;;;;;;;;;;x
+c_belome_temple;Belome Temple;;;;;;;;;;x
+c_cliff_of_beasts;Cliff of Beasts;;;;;;;;;;x
+c_shadow_bay;Shadow Bay;;;;;;;;;;x
+c_sunrise_coast;Sunrise Coast;;;;;;;;;;x
+c_savage_heights;Savage Heights;;;;;;;;;;x
+c_long_fall_cliffs;Long Fall Cliffs;;;;;;;;;;x
+c_tower_of_sand;Tower of Sand;;;;;;;;;;x
+c_quartz_crag;Quartz Crag;;;;;;;;;;x
+c_mouth_of_the_barrel;Mouth of the Barrel;;;;;;;;;;x
+c_sulphur_coast;Sulphur Coast;;;;;;;;;;x
+c_potash_bay;Potash Bay;;;;;;;;;;x
+c_burning_bush;Burning Bush;;;;;;;;;;x
+c_ashen_slope;Ashen Slope;;;;;;;;;;x
+c_choking_cliffs;Choking Cliffs;;;;;;;;;;x
+c_black_beach;Black Beach;;;;;;;;;;x
+c_caldera_cliff;Caldera Cliff;;;;;;;;;;x
+c_barrel_slope;Barrel Slope;;;;;;;;;;x
+c_lava_hill;Lava Hill;;;;;;;;;;x
+c_vista_hill;Vista Hill;;;;;;;;;;x
+c_bowsers_keep;Bowser's Keep;;;;;;;;;;x
+c_teeth_islands;Teeth Islands;;;;;;;;;;x
+c_bowser_bay;Bowser Bay;;;;;;;;;;x
+c_koopa_bay;Koopa Bay;;;;;;;;;;x
+c_frostbite_islands;Frostbite Islands;;;;;;;;;;x
+c_koopa_cape;Koopa Cape;;;;;;;;;;x - POSSIBLE DUPLICATE
+c_tranquil_bay;Tranquil Bay;;;;;;;;;;x
+c_redstone_reach;Redstone Beach;;;;;;;;;;x
+c_icy_claw;Icy Claw;;;;;;;;;;x
+c_dagger_coast;Dagger Coast;;;;;;;;;;x
+c_shattered_anchor;Shattered Anchorage;;;;;;;;;;x
+c_spikeline_shoreline;Spikeline Shoreline;;;;;;;;;;x
+c_flaming_harbour;Flaming Harbor;;;;;;;;;;x
+c_barren_badlands;Barren Badlands;;;;;;;;;;x
+c_lost_caves;Lost Caves;;;;;;;;;;x
+c_the_shadowlands;Shadowlands;;;;;;;;;;x
+c_the_turtles_spine;The Turtle's Spine;;;;;;;;;;x
+c_thousand_needles;Thousand Needles;;;;;;;;;;x
+c_yoster_island;Yo'ster Island;;;;;;;;;;x
+c_cool_cool_mountain;Cool Cool Mountain;;;;;;;;;;x
+c_cold_cold_forest;Cold Cold Forest;;;;;;;;;;x
+c_raging_ravine;Raging Ravine;;;;;;;;;;x
+c_ice_castle;Ice Castle;;;;;;;;;;x
+c_sherbert_land;Sherbert Land;;;;;;;;;;x - DUPLICATE
+c_snowland;Snowland;;;;;;;;;;x
+c_lethal_lava_land;Lethal Lava Land;;;;;;;;;;x
+c_snowmans_land;Snowman's Land;;;;;;;;;;x
+c_cubyrinth;Cubyrinth;;;;;;;;;;x
+c_frostown;Frostown;;;;;;;;;;x
+c_icepeak;Icepeak;;;;;;;;;;x
+c_polastraits;Polastraits;;;;;;;;;;x
+c_sparkleton;Sparkleton;;;;;;;;;;x
+c_christmas_village;Christmas Village;;;;;;;;;;x
+c_goomstar_temple;Goomstar Temple;;;;;;;;;;x
+c_infernum;Infernum;;;;;;;;;;x
+c_frosty_frontier;Frosty Frontier;;;;;;;;;;x
+c_frostbite_mountain;Frostbite Mountain;;;;;;;;;;x
+c_iceberg_alley;Iceberg Alley;;;;;;;;;;x
+c_lethal_lava_volcano;Lethal Lava Volcano;;;;;;;;;;x
+c_silly_cliff;Silly Cliff;;;;;;;;;;x
+c_icy_cool_forest;Icy Cool Forest;;;;;;;;;;x
+c_frosty_field;Frosty Field;;;;;;;;;;x
+c_biting_slopes;Biting Slopes;;;;;;;;;;x
+c_sulphur_fields;Sulphur Fields;;;;;;;;;;x
+c_bitter_cold_glacier;Bitter Cold Glacier;;;;;;;;;;x
+c_penguin_village;Penguin Village;;;;;;;;;;x
+c_bundle_up_bay;Bundleup Bay;;;;;;;;;;x
+c_blizzardy_badlands;Blizzard Badlands;;;;;;;;;;x
+c_pyramid_plains;Pyramid Plains;;;;;;;;;;x
+c_palm_pyramids;Palm Pyramids;;;;;;;;;;x
+c_sphinx_caverns;Sphinx Caverns;;;;;;;;;;x
+c_bamboo_forest;Bamboo Forest;;;;;;;;;;x
+c_sky_mountain_pass;Sky Mountain Pass;;;;;;;;;;x
+c_sarasa_palace;Sarasa Palace;;;;;;;;;;x
+c_coral_cove;Coral Cove;;;;;;;;;;x
+c_calm_coast;Calm Coast;;;;;;;;;;x
+c_pearl_beach;Pearl Beach;;;;;;;;;;x
+c_moai_flats;Moai Flats;;;;;;;;;;x
+c_easton_caves;Easton Caves;;;;;;;;;;x
+c_tiki_forest;Tiki Forest;;;;;;;;;;x
+c_upper_awazon;Upper Awazon;;;;;;;;;;x
+c_lower_awazon;Lower Awazon;;;;;;;;;;x
+c_deep_mines;Deep Mines;;;;;;;;;;x
+c_shimmer_bank;Shimmer Bank;;;;;;;;;;x
+c_awazon_estuary;Awazon Estuary;;;;;;;;;;x
+c_sifters_island;Sifter's Island;;;;;;;;;;x
+c_dense_awazon_jungle;Dense Awazon Jungle;;;;;;;;;;x
+c_awazon_plateau;Awazon Plateau;;;;;;;;;;x
+c_golden_pyramid;Golden Pyramid;;;;;;;;;;x
+c_daisy_circuit;Daisy Circuit;;;;;;;;;;x
+c_daisy_hills;Daisy Hills;;;;;;;;;;x
+c_flowerkoku;Flowerkoku;;;;;;;;;;x
+c_georges_gorge;George's Gorge;;;;;;;;;;x
+c_salt_coast;Salt Coast;;;;;;;;;;x
+c_copper_coast;Copper Coast;;;;;;;;;;x
+c_gold_coast;Gold Coast;;;;;;;;;;x
+c_iron_coast;Iron Coast;;;;;;;;;;x
+c_spice_coast;Spice Coast;;;;;;;;;;x
+c_easton_range;Easton Range;;;;;;;;;;x
+c_tiki_town;Tiki Town;;;;;;;;;;x
+c_awazon_coast;Awazon Coast;;;;;;;;;;x
+c_wildflower_mountain;Wildflower Mountain;;;;;;;;;;x
+c_kong_village;Kong Village;;;;;;;;;;x
+c_kongo_jungle;Kongo Jungle;;;;;;;;;;x
+c_monkey_mines;Monkey Mines;;;;;;;;;;x
+c_vine_valley;Vine Valley;;;;;;;;;;x
+c_gorilla_glacier;Gorilla Glacier;;;;;;;;;;x
+c_kreamkroc_industries;Kremkroc;;;;;;;;;;x
+c_chimp_caverns;Chimp Caverns;;;;;;;;;;x
+c_banana_fairy_island;Banana Fairy Island;;;;;;;;;;x
+c_bonus_islands;Bonus Islands;;;;;;;;;;x
+c_sun_sun_island;Sun Sun Island;;;;;;;;;;x
+c_lost_island;Lost Island;;;;;;;;;;x
+c_ghost_island;Ghost Island;;;;;;;;;;x
+c_chill_char_island;Chillchar Island;;;;;;;;;;x
+c_high_high_island;High High Island;;;;;;;;;;x
+c_dawn_savannah;Dawn Savannah;;;;;;;;;;x
+c_jungle_deeps;Jungle Deeps;;;;;;;;;;x
+c_silver_snow_peak;Silver Snow Peak;;;;;;;;;;x
+c_sky_garden;Sky Garden;;;;;;;;;;x
+c_mokeyfest;Monkeyfest;;;;;;;;;;x
+c_desert_oasis;Desert Oasis;;;;;;;;;;x - DUPLICATE
+c_massive_canyon;Massive Canyon;;;;;;;;;;x
+c_ice_warren;Icewarren;;;;;;;;;;x
+c_helibird_nest;Helibird Nest;;;;;;;;;;x
+c_spirit_tree;Spirit Tree;;;;;;;;;;x
+c_rumble_falls;Rumble Falls;;;;;;;;;;x
+c_pristine_sea;Pristine Sea;;;;;;;;;;x
+c_chopperbird_race;Chopper Bird Race;;;;;;;;;;x
+c_cactus_mine;Cactus Mine;;;;;;;;;;x
+c_sweet_paradise;Sweet Paradise;;;;;;;;;;x
+c_primeval_ruins;Primeval Ruins;;;;;;;;;;x
+c_aurora_glacier;Aurora Glacier;;;;;;;;;;x
+c_grim_volcano;Grim Volcano;;;;;;;;;;x
+c_arctic_plunge;Arctic Plunge;;;;;;;;;;x
+c_ancient_foundry;Ancient Foundry;;;;;;;;;;x
+c_iguanagon_realm;Iguanagon Realm;;;;;;;;;;x
+c_banshee_swamp;Banshee Swamp;;;;;;;;;;x
+c_storm_hill;Storm Hill;;;;;;;;;;x
+c_aerie_fortress;Aerie Fortress;;;;;;;;;;x
+c_deep_sea_sprint;Deep Sea Sprint;;;;;;;;;;x
+c_clock_tower;Clock Tower;;;;;;;;;;x
+c_helibird_dash;Helibird Dash;;;;;;;;;;x
+c_lava_cavern;Lava Cavern;;;;;;;;;;x
+c_cloudy_heights;Cloudy Heights;;;;;;;;;;x
+c_magma_colliseum;Magma Colliseum;;;;;;;;;;x
+c_ninjape_rally;Ninjape Rally;;;;;;;;;;x
+c_asteroid_belt;Meteoric Way;;;;;;;;;;x
+c_crocodile_cauldron;Crocodile Cauldron;;;;;;;;;;x
+c_krem_quay;Kremquay;;;;;;;;;;x
+c_krazy_kremland;Krazy Kremland;;;;;;;;;;x
+c_gloomy_gulch;Gloomy Gulch;;;;;;;;;;x
+c_k_rools_keep;K. Rool's Keep;;;;;;;;;;x
+c_lost_world;Lost World;;;;;;;;;;x
+c_lake_orangatanga;Lake Orangatanga
+c_kremwood_forest;Kremwood Forest;;;;;;;;;;x
+c_mekanos;Mekanos;;;;;;;;;;x
+c_cotton_top_cove;Cottontop Cove;;;;;;;;;;x
+c_k3;K-3;;;;;;;;;;x
+c_razor_ridge;Razor Ridge;;;;;;;;;;x - POSSIBLE DUPLICATE
+c_kaos_kore;Kaos' Kore;;;;;;;;;;x
+c_pacifica;Pacifica;;;;;;;;;;x
+c_krematoa;Krematoa;;;;;;;;;;x
+c_cape_codswallop;Cape Codswallop;;;;;;;;;;x
+c_ford_knocks;Ford Knocks;;;;;;;;;;x
+c_mill_hill;Mill Hill;;;;;;;;;;x
+c_koco_channel;Koco Channel;;;;;;;;;;x
+c_primate_plains;Primate Plains;;;;;;;;;;x
+c_minkey_woods;Minkey Woods;;;;;;;;;;x
+c_black_ice;Black Ice Mountain;;;;;;;;;;x
+c_riverbank_mill;Riverbank Mill;;;;;;;;;;x
+c_blackforest_plateau;Blackforest Plateau;;;;;;;;;;x
+c_vertigo_verge;Vertigo Verge;;;;;;;;;;x
+c_jeopardy_jungle;Jeopardy Jungle;;;;;;;;;;x
+c_great_ape_lake;Great Ape Lake;;;;;;;;;;x
+c_factory_hill;Factory Hill;;;;;;;;;;x
+c_tin_can_valley;Tin Can Valley;;;;;;;;;;x
+c_tightrope_tropics;Tightrope Tropics;;;;;;;;;;x
+c_stalagmite_caverns;Stalagmite Caverns;;;;;;;;;;x
+c_ductline_flats;Ductline Flats;;;;;;;;;;x
+c_lost_land;Lost Land;;;;;;;;;;x
+c_bazaar_bay;Bazaar Bay;;;;;;;;;;x
+c_funky_cove;Funky Cove;;;;;;;;;;x
+c_bear_forest;Bear Forest;;;;;;;;;;x
+c_bramble_headland;Bramble Headland;;;;;;;;;;x
+c_barter_beach;Barter Beach;;;;;;;;;;x
+c_banana_bird_lake;Banana Bird Lake;;;;;;;;;;x
+c_lockjaw_falls;Lockjaw Falls;;;;;;;;;;x
+c_kremling_kamp;Kremling Kamp;;;;;;;;;;x
+c_neckys_canyon;Necky Canyon;;;;;;;;;;x
+c_cactus_woods;Cactus Woods;;;;;;;;;;x
+c_madcap_mine;Madcap Mine;;;;;;;;;;x
+c_banana_bungalow;Banana Bungalow;;;;;;;;;;x
+c_tropical_treetops;Tropical Treetops;;;;;;;;;;x
+c_contraption_cave;Contraption Cave;;;;;;;;;;x
+c_puzzling_pyramid;Puzzling Pyramid;;;;;;;;;;x
+c_jungle_ruins;Jungle Ruins;;;;;;;;;;x
+c_treetop_temple;Treetop Hallows;;;;;;;;;;x
+c_banana_ruins;Banana Ruins;;;;;;;;;;x
+c_dino_dino_jungle;Dino-Dino Jungle;;;;;;;;;;x
+c_jumpy_jungle;Jumpy Jungle;;;;;;;;;;x
+c_forbidden_forest;Forbidden Forest;;;;;;;;;;x
+c_forbidden_forest_ghost_house;Forbidden Forest Ghost House;;;;;;;;;;x
+c_mount_dynamite;Mount Dynamite;;;;;;;;;;x
+c_scorching_canyon;Scorching Canyon;;;;;;;;;;x
+c_mammoth_glacier;Mammoth Glacier;;;;;;;;;;x
+c_parched_palace;Parched Palace;;;;;;;;;;x
+c_alpine_peak;Alpine Peak;;;;;;;;;;x
+c_bear_pines;Bear Pines;;;;;;;;;;x
+c_grizzly_woods;Grizzly Woods;;;;;;;;;;x
+c_salmon_hill;Salmon Hill;;;;;;;;;;x
+c_trout_river_bend;Trout Riverbend;;;;;;;;;;x
+c_salmon_shoreline;Salmon Shoreline
+c_banana_bird_bay;Banana Bird Bay;;;;;;;;;;x
+c_rocky_heights;Rocky Heights;;;;;;;;;;x
+c_salty_shore;Salty Shore;;;;;;;;;;x
+c_bear_mountain;Bear Mountain;;;;;;;;;;x
+c_rough_scrubland;Rough Scrubland;;;;;;;;;;x
+c_monkey_marsh;Monkey Marsh;;;;;;;;;;x
+c_screaming_peaks;Screaming Peaks;;;;;;;;;;x
+c_fishers_coast;Fisher's Coast;;;;;;;;;;x
+c_eastern_lowlands;Eastern Lowlands;;;;;;;;;;x
+c_sherbert_island;Orange Sherbert Island;;;;;;;;;;x
+c_snowflake_mountain;Snowflake Mountain;;;;;;;;;;x
+c_dino_domain;The Dino Domain;;;;;;;;;;x
+c_dragon_forest;Dragon Forest;;;;;;;;;;x
+c_taj_falls;Taj Falls;;;;;;;;;;x
+c_timber_mountains;Timber Mountains;;;;;;;;;;x
+c_timber_hills;Timber Hills;;;;;;;;;;x
+c_wavy_beach;Wavy Beach
+c_gleam_glacier;Gleam Glacier;;;;;;;;;;x
+c_shriek_mansion;Shriek Mansion;;;;;;;;;;x
+c_ladida_plains;Ladida Plains;;;;;;;;;;x
+c_hoos_wood;Hoo's Woods
+c_fury_volcano;Fury Volcano;;;;;;;;;;x
+c_bowsers_villa;Bowser's Villa;;;;;;;;;;x
+c_lost_mangroves;Lost Mangroves;;;;;;;;;;x
+c_autumn_heights;Autumn Heights;;;;;;;;;;x
+c_groovy_grassland;Groovy Grassland;;;;;;;;;;x
+c_flashfire_fields;Flashfire Fields;;;;;;;;;;x
+c_sea_breeze_cove;Sea Breeze Cove;;;;;;;;;;x
+c_harvest_hill;Harvest Hill;;;;;;;;;;x
+c_fruit_forest;Fruit Forest;;;;;;;;;;x
+c_beehive_hill;Beehive Hill;;;;;;;;;;x
+c_juicy_jungle;Juicy Jungle;;;;;;;;;;x
+c_secret_seclusion;Secret Seclusion;;;;;;;;;;x
+c_warios_island;Wario Island;;;;;;;;;;x
+c_waluigis_island;Waluigi Island;;;;;;;;;;x
+c_piillo_blimport;Pi'illo Zeppelin Air Base;;;;;;;;;;x
+c_piillo_castle;Pi'illo Castle;;;;;;;;;;x
+c_muchrise_park;Muchrise;;;;;;;;;;x
+c_dozing_sands;Dozing Sands;;;;;;;;;;x
+c_wakeport;Wakeport;;;;;;;;;;x
+c_mount_pajamaja;Mount Pajamaja;;;;;;;;;;x
+c_driftwood_shire;Driftwood Shore;;;;;;;;;;x
+c_somnom_woods;Somnom Woods;;;;;;;;;;x
+c_neo_bowser_castle;Neo-Bowser Castle;;;;;;;;;;x
+c_baseball_plaza;Baseball Plaza;;;;;;;;;;x
+c_dk_stadium;DK Stadium;;;;;;;;;;x
+c_bowser_junior_castle;Bowser Junior's Rec Room;;;;;;;;;;x
+c_yoshi_volcano;Yoshi Volcano;;;;;;;;;;x
+c_snowy_hill;Snowy Hills;;;;;;;;;;x
+c_dusty_savannah;Dusty Savannah;;;;;;;;;;x
+c_hot_steamy_jungle;Hot Steamy Jungle;;;;;;;;;;x
+c_dark_forest;Dark Forest;;;;;;;;;;x
+c_grassy_plain;Grassy Plain;;;;;;;;;;x
+c_super_bell_hill;Super Bell Hill;;;;;;;;;;x
+c_mount_beanpole;Mount Beanpole;;;;;;;;;;x
+c_grassland_castle;Grassland Castle;;;;;;;;;;x
+c_toad_hill;Toad Hill;;;;;;;;;;x
+c_plunging_falls;Plunging Falls;;;;;;;;;;x
+c_conkdor_canyon;Conkdor Canyon;;;;;;;;;;x
+c_shadow_play_ally;Shadow Play Ally;;;;;;;;;;x
+c_really_rolling_hills;Really Rolling Hills;;;;;;;;;;x
+c_sand_castle;Sand Castle;;;;;;;;;;x
+c_snowball_park;Snowball Park;;;;;;;;;;x
+c_shifty_boo_mansion;Shifty Boo Mansion;;;;;;;;;;x
+c_rammerhead_beach;Rammerhead Beach;;;;;;;;;;x
+c_marshmellow_fields;Marshmellow Fields;;;;;;;;;;x
+c_switchboard_falls;Switchboard Falls;;;;;;;;;;x
+c_ice_castle;Ice Castle;;;;;;;;;;x - POSSIBLE DUPLICATE
+c_hisstocrat_island;Hisstocrat Island;;;;;;;;;;x
+c_mount_must_dash;Mount Mustdash;;;;;;;;;;x
+c_icy_toad_island;Icy Toad Island;;;;;;;;;;x
+c_chain_link_mountain;Chain Link Mountains;;;;;;;;;;x
+c_ant_trooper_hill;Ant Trooper Hill;;;;;;;;;;x
+c_piranha_creeper_creek;Piranha Creeper Creek;;;;;;;;;;x
+c_brolder_island;Brolder Island;;;;;;;;;;x
+c_brolder_island_toad_house;Brolder Island Toad House;;;;;;;;;;x
+c_beep_block_skyway;Beep Block Skyway;;;;;;;;;;x
+c_big_bounce_byway;Big Bounce Byway;;;;;;;;;;x
+c_mystery_house;Mystery House;;;;;;;;;;x
+c_spikes_lost_city;Lost City of Spike;;;;;;;;;;x
+c_arid_castle;Arid Castle;;;;;;;;;;x
+c_sunshine_seaside;Sunshine Seaside City;;;;;;;;;;x
+c_peekaboo_hill;Peekaboo Hill;;;;;;;;;;x
+c_oceanic_midpoint_island;Oceanic Midpoint Island;;;;;;;;;;x
+c_bustling_city;Bustling City;;;;;;;;;;x
+c_foggy_toad_island;Foggy Island;;;;;;;;;;x
+c_sprawling_savannah;Sprawling Savannah;;;;;;;;;;x
+c_tricky_trapeze_theater;Tricky Trapeze;;;;;;;;;;x
+c_cakewalk_flip;Cakewalk Flip;;;;;;;;;;x
+c_dusty_castle;Dusty Castle;;;;;;;;;;x
+c_toadwood_heart;Toadwood Heart;;;;;;;;;;x
+c_jungle_jam;Jungle Jam;;;;;;;;;;x
+c_grass_land;Jewel Grass Land;;;;;;;;;;x
+c_mushroom_land;Mushroom Land;;;;;;;;;;x
+c_pipe_island;Pipe Island;;;;;;;;;;x
+c_crescent_coast;Crescent Coast;;;;;;;;;;x
+c_spirit_mountain;Spirit Mountain;;;;;;;;;;x
+c_light_float_castle;Lightfloat Castle;;;;;;;;;;x
+c_cornice_cave;Cornice Cave;;;;;;;;;;x
+c_ghost_mansion;Ghost Mansion;;;;;;;;;;x
+c_dark_sea;The Dark Sea;;;;;;;;;;x
+c_dark_float_castle;Darkfloat Castle;;;;;;;;;;x
+c_bowsers_castle;Another Bowser Castle;;;;;;;;;;x
+
+c_lemon_soda_ocean_coast;Lemon Soda Shore;;;;;;;;;;x
+c_lemon_soda_ocean_trench;Lemon Trench;;;;;;;;;;x
+c_yoshis_island_coast;Yoshi Coast;;;;;;;;;;x
+c_donut_coast;Doughnut Shoals;;;;;;;;;;x
+c_vanilla_coast;Vanilla Wash;;;;;;;;;;x
+c_cheese_coast;Cheesy Coast;;;;;;;;;;x
+c_lemon_soda_reach;Lemon Fizz Reach;;;;;;;;;;x
+c_soda_sea;Grand Soda Sea;;;;;;;;;;x
+c_lemon_soda_deep;Soda Deep;;;;;;;;;;x
+c_dinosaurward_coast;Dino Dino Shoreline;;;;;;;;;;x
+c_seaside_ward_coast;Seaside Wharves;;;;;;;;;;x
+c_deep_coast;Deep Deep Shelf;;;;;;;;;;x
+c_marioward_coast;Mario's Ward;;;;;;;;;;x
+c_seaside_coast;Seaside Shoreline;;;;;;;;;;x
+c_frigid_ocean;Shivering Sea;;;;;;;;;;x
+c_beanbean_bay;Beanbean Bay;;;;;;;;;;x
+c_gwarhar_lagoon;Gwarhar Lagoon;;;;;;;;;;x
+c_oho_bay;Oho Bay;;;;;;;;;;x
+c_kero_inlet;Kero Inlet;;;;;;;;;;x
+c_chucklehuck_coast;Chucklehuck Coast;;;;;;;;;;x
+c_anuran_waters;Anuran Waters;;;;;;;;;;x
+c_muda_cove;Muda Cove;;;;;;;;;;x
+c_toad_town_harbour;Toad Town Harbor;;;;;;;;;;x
+c_delfino_sea_lane;Delfino Sea;;;;;;;;;;x
+c_airstrip_straights;Airstrip Straits;;;;;;;;;;x
+c_corona_coast;Corona Coast;;;;;;;;;;x
+c_pianta_coast;Pianta Shore;;;;;;;;;;x
+c_pianta_cove;Pianta Cove;;;;;;;;;;x
+c_sirena_straights;Sirena Straits;;;;;;;;;;x
+c_gelato_bay;Gelato Bay;;;;;;;;;;x
+c_ricco_harbour;Ricco Harbor;;;;;;;;;;x
+c_pinna_bay;Pinna Bay;;;;;;;;;;x
+c_northern_crab_coast;Northern Crab Coast;;;;;;;;;;x
+c_artiglio_bay;Artiglio Bay;;;;;;;;;;x
+c_southern_crab_coast;Southern Crab Coast;;;;;;;;;;x
+c_western_crab_coast;Western Crab Coast;;;;;;;;;;x
+c_minnow_coast;Minnow Coast;;;;;;;;;;x
+c_west_flipper_approach;West Flipper Approach;;;;;;;;;;x
+c_east_flipper_approach;East Flipper Approach;;;;;;;;;;x
+c_south_turtle_sea;South Turtle Sea;;;;;;;;;;x
+c_citrus_eel_bay;Citrus Eel Bay;;;;;;;;;;x
+c_eel_tail_calm;Eel Tail Calm;;;;;;;;;;x
+c_straights_of_the_eel;MY HOVERCRAFT IS FULL OF EELS;;;;;;;;;;x
+c_eels_maw_cove;Eel's Maw Harbor;;;;;;;;;;x
+c_jelly_pepper_approach;Jelly Pepper Approach;;;;;;;;;;x
+c_spice_trader_bay;Spiceflow Bay;;;;;;;;;;x
+c_pepper_inlet;Pepper Inlet;;;;;;;;;;x
+c_tentacle_cove;Tentacle Cove;;;;;;;;;;x
+c_eastern_stinger_approach;Eastern Stinger Approach;;;;;;;;;;x
+c_southern_two_fish_bay;Southern Twofish Bay;;;;;;;;;;x
+c_northern_two_fish_bay;Northern Twofish Bay;;;;;;;;;;x
+c_angelfish_bay;Angelfish Bay;;;;;;;;;;x
+c_fishfin_coast;Fishfin Coast;;;;;;;;;;x
+c_fishhead_approach;Fishhead Approach;;;;;;;;;;x
+c_dorsal_bay;Dorsal Bay;;;;;;;;;;x
+c_sarasa_ocean;Sarasa Sea;;;;;;;;;;x
+c_rare_approach_dead_zone;Rare Approach Dead Zone;;;;;;;;;;x
+"c_western_blue_ocean;The Wide, Wide Ocean;;;;;;;;;;x"
+c_eastern_blue_ocean;Cast Aways Sea;;;;;;;;;;x
+c_northern_blue_ocean;Deep Sea Salvage;;;;;;;;;;x
+c_eastern_arctic_ocean;Eastern Frozen Ocean;;;;;;;;;;x
+c_arctic_ocean;Shivering Ocean;;;;;;;;;;x
+c_toad_cove;Toad Cove;;;;;;;;;;x
+c_north_cavi_cape;North Cavi Cape;;;;;;;;;;x
+c_south_cavi_cape;South Cavi Cape;;;;;;;;;;x
+c_plack_coast;Plack Coast;;;;;;;;;;x
+c_goomba_coast;Goomba Sea;;;;;;;;;;x
+c_koopa_cape;Koopa Cape;;;;;;;;;;x
+c_diamond_bay;Diamond Bay;;;;;;;;;;x
+c_baseball_island;Batterup Island;;;;;;;;;;x
+c_sparkling_waters;Sparkling Waters;;;;;;;;;;x
+c_royal_desert_coast;Royal Desert Coast;;;;;;;;;;x
+c_southern_desert_hill_channel;Southern Desert Hill Channel;;;;;;;;;;x
+c_northern_desert_hill_channel;Northern Desert Hill Channel;;;;;;;;;;x
+c_pipe_maze_straights;Pipe Maze Straits;;;;;;;;;;x
+c_grass_land_coast;Grassland Coast;;;;;;;;;;x
+c_drybake_coast;Dry Bake Coast;;;;;;;;;;x
+c_decalburg_bay;Decalburg Bay;;;;;;;;;;x
+c_leaflitter_inlet;Leaflitter Inlet;;;;;;;;;;x
+c_big_city_bay;Big City Bay;;;;;;;;;;x
+c_castaway_islands;Castaway Islands;;;;;;;;;;x
+c_dolphin_coast;Dolphin Coast;;;;;;;;;;x
+c_eastern_mushroom_cape;Eastern Mushroom Cape;;;;;;;;;;x
+c_southern_mushroom_cape;Southern Mushroom Cape;;;;;;;;;;x
+c_cheep_cheep_approach;Cheep Cheep Approach;;;;;;;;;;x
+c_waluigis_island;Waluigi Island;;;;;;;;;;x
+c_warios_island;Wario Continent;;;;;;;;;;x
+c_fungus_coast;Fungal Coast;;;;;;;;;;x
+c_shroom_bay;Shroom Bay;;;;;;;;;;x
+c_happy_harbour;Happy Harbor;;;;;;;;;;x
+c_southern_fruit_kingdoms;Southern Fruitlands;;;;;;;;;;x
+c_shy_guy_islands;Shy Guy Islands;;;;;;;;;;x
+c_secret_island;Secret Beach;;;;;;;;;;x
+c_secluded_approach;Secluded Approach;;;;;;;;;;x
+c_mangrove_sea;Mangove Sea;;;;;;;;;;x
+c_autumn_isles;Autumn Isles;;;;;;;;;;x
+c_savannah_shoal;Savannah Shoal;;;;;;;;;;x
+c_sea_breeze_current;Sea Breeze Current;;;;;;;;;;x
+c_fruit_juice_approach;Fruit Juice Approach;;;;;;;;;;x
+c_southern_sea_of_kong;Southern Sea of Kong;;;;;;;;;;x
+c_northern_sea_of_kong;Northern Sea of Kong;;;;;;;;;;x
+c_bonus_islands;Bonus Islands;;;;;;;;;;x
+c_banana_fairy_seamounts;Banana Fairy Seamounts;;;;;;;;;;x
+c_crocodile_coast;Crocodile Coast;;;;;;;;;;x
+c_starfruit_and_pepper_islands;Starfruit and Pepper Islands;;;;;;;;;;x
+c_middle_fruit_kingdoms;Middle Fruitlands;;;;;;;;;;x
+c_swinging_straits;Swing Swing Straits;;;;;;;;;;x
+c_northern_swinging_chain;Northern Swinging Chain;;;;;;;;;;x
+c_southern_swinging_chain;Southern Swinging Chain;;;;;;;;;;x
+c_arctic_fruit_kingdoms;Shivering Fruitlands;;;;;;;;;;x
+c_mammoth_coast;Mammoth Coast;;;;;;;;;;x
+c_vibe_timber_channel;Vibetimber Channel;;;;;;;;;;x
+c_vibe_coast;Vibe Coast;;;;;;;;;;x
+c_timber_coast;Timber Coast;;;;;;;;;;x
+c_piscene_coast;Piscene Coast;;;;;;;;;;x
+c_rough_coast;Roughcoast;;;;;;;;;;x
+c_krem_jungle_coast;Krem-Jungle Coast;;;;;;;;;;x
+c_dino_coast;Dino Coast;;;;;;;;;;x
+c_misty_coast;Misty Coast;;;;;;;;;;x
+c_crocodile_bay;Crocodile Bay;;;;;;;;;;x
+c_kremling_seamounts;Kremling Seamounts;;;;;;;;;;x
+c_banana_bird_bay;Bananabird Bay;;;;;;;;;;x
+c_southern_jewelry_islands;Southern Isles of Jewelry;;;;;;;;;;x
+c_northern_jewelry_islands; Northern Isles of Jewelry;;;;;;;;;;x
+c_pillow_islands;Pillow Islands;;;;;;;;;;x
+c_southeast_ocean_side;Southeast Seaside;;;;;;;;;;x
+c_thunder_island;Thunder Island;;;;;;;;;;x
+c_thunderous_straights;Thunderous Straits;;;;;;;;;;x
+c_mouth_of_ocean_side_bay;Mouth of Ocean Bay;;;;;;;;;;x
+c_ocean_side_bay;Oceanside Bay;;;;;;;;;;x
+c_southern_lava_lava_island;Southern Lavalava Island;;;;;;;;;;x
+c_northern_lava_lava_island;Northern Lavalava Island;;;;;;;;;;x
+c_birabuto_bay;Birabuto Bay;;;;;;;;;;x
+c_chai_coast;Chai Coast;;;;;;;;;;x
+c_sprixie_canyon_bay;Sprixie Trench;;;;;;;;;;x
+c_ant_islands;Any Islands;;;;;;;;;;x
+c_sprixie_canyon_approach;Sprixie Approach;;;;;;;;;;x
+c_toadstool_trench;Toadstool Trench;;;;;;;;;;x
+c_cheep_cheep_shoals;Cheep Cheep Shoals;;;;;;;;;;x
+c_blooper_reef;Blooper Reef;;;;;;;;;;x
+c_rugged_countercurrent;Rugged Countercurrent;;;;;;;;;;x
+c_canyon_sprixie_current;Sprixie Current;;;;;;;;;;x
+c_mineral_coast;Mineral Coast;;;;;;;;;;x
+c_floral_coast;Floral Coast;;;;;;;;;;x
+c_muda_coast;Muda Coast;;;;;;;;;;x
+c_yoster_island;Yo'ster Island;;;;;;;;;;x
+c_birabuto_coast;Birabuto Shore;;;;;;;;;;x
+c_daisy_coast;Daisy Coast;;;;;;;;;;x
+c_deep_ocean_trench;Deep Deep Trench;;;;;;;;;;x
+c_southern_cloud_sprixie_coast;Southern Cloudsprixie Waters;;;;;;;;;;x
+c_western_cloud_sprixie_coast;Western Cloudsprixie Waters;;;;;;;;;;x
+c_northern_cloud_sprixie_coast;Northern Cloudsprixie Waters;;;;;;;;;;x
+c_eastern_cloud_sprixie_coast;Eastern Cloudsprixie Waters;;;;;;;;;;x
+c_oceanic_midpoint;TurtleShroomer Sea;;;;;;;;;;x
+c_midpoint_current;Avrolancaster Current;;;;;;;;;;x
+c_dinosaur_ocean_trench;Dinosaur Ocean Trench;;;;;;;;;;x
+c_dinosaur_approach;Dino Dino Approach;;;;;;;;;;x
+c_southern_meadow_sprixie_coast;Southern Meadowsprixie Coast;;;;;;;;;;x
+c_northern_meadow_sprixie_coast;Northern Meadowsprixie Coast;;;;;;;;;;x
+c_western_meadow_sprixie_coast;Western Meadowsprixie Coast;;;;;;;;;;x
+c_eastern_meadow_sprixie_coast;Eastern Meadowsprixie Coast;;;;;;;;;;x
+c_western_desert_sprixie_coast;Western Desertsprixie Fathoms;;;;;;;;;;x
+c_eastern_desert_sprixie_coast;Eastern Desertsprixie Fathoms;;;;;;;;;;x
+c_snowflake_straight;Snowflake Strait;;;;;;;;;;x
+c_brr_bay;Brr Bay;;;;;;;;;;x
+c_blizzard_cove;Blizzard Cove;;;;;;;;;;x
+c_iceberg_alley;Iceberg Aley;;;;;;;;;;x
+c_snowy_sea;Snowy Sea;;;;;;;;;;x
+c_snow_cove;Snowcove;;;;;;;;;;x
+c_flurry_current;Flurry Current;;;;;;;;;;x
+c_ice_cube_coast;Icecube Coast;;;;;;;;;;x
+c_iced_coast;Iced Coast;;;;;;;;;;x
+c_deep_frigid_trench;Deep Shivering Trench;;;;;;;;;;x
+c_great_frozen_bay;Great Shivering Bay;;;;;;;;;;x
+c_sticker_sea;Sticker Sea;;;;;;;;;;x
+c_icewater_cove;Icewater Cove;;;;;;;;;;x
+c_straights_of_bowser;Straits of Bowser;;;;;;;;;;x
+c_pack_ice_coast;Pack Ice Coast;;;;;;;;;;x
+c_frostbite_sea;Frostbite Sea;;;;;;;;;;x
+c_e_bay;E-Bay;;;;;;;;;;x
+c_blackheart_coast;Blackheart Coast;;;;;;;;;;x
+c_sea_of_nightmares;Sea of Nightmares;;;;;;;;;;x
+c_cape_of_bad_hope;Cape of Bad Hope;;;;;;;;;;x
+c_jealous_coast;Jealous Coast;;;;;;;;;;x
+c_coast_of_rage;Sea of Hate;;;;;;;;;;x
+c_straights_of_mist_and_fog;Straits of Mist and Fog;;;;;;;;;;x
+c_cloudy_coast;Cloudy Coast;;;;;;;;;;x
+c_e_trench;E-Trench;;;;;;;;;;x
+c_big_narrows;Big Narrows;;;;;;;;;;x
+c_oceanic_bay;Oceanic Bay;;;;;;;;;;x
+c_cape_of_ocean_side;Cape of Oceanside;;;;;;;;;;x
+c_oceanic_sea_breach;Oceanic Sea Breach;;;;;;;;;;x
+c_cape_of_beaches;Cape of Beaches;;;;;;;;;;x
+c_dusty_coast;Dusty Coast;;;;;;;;;;x
+c_third_coast;Third Coast;;;;;;;;;;x
+c_oceanic_straights;Oceanic Straits;;;;;;;;;;x
+c_blue_water_coast;Bluewater Coast;;;;;;;;;;x
+c_cloudy_straights;Cloudy Straits;;;;;;;;;;x
+c_narrow_bay;Narrow Bay;;;;;;;;;;x
+c_mouth_of_giants;Mouth of Giants;;;;;;;;;;x
+c_mushroom_approach;Mushroom Approach;;;;;;;;;;x
+c_great_mushroom_sea;Great Mushroom Sea;;;;;;;;;;x
+c_rogue_harbour;Rogue Harbour;;;;;;;;;;x
+c_bay_of_petals;Bay of Petals;;;;;;;;;;x
+c_twilight_narrows;Twilight Deep;;;;;;;;;;x
+c_keelhaul_straights;Keelhaul Straits;;;;;;;;;;x
+c_cape_poshley;Cape of Poshley;;;;;;;;;;x
+c_twilight_cove;Twilighter Cove;;;;;;;;;;x
+c_smugglers_cove;Smugglers' Cove;;;;;;;;;;x
+c_quiet_firth;Quiet Firth;;;;;;;;;;x
+c_wet_dry_harbour;Wet-Dry Harbor;;;;;;;;;;x
+c_petal_approach;Petal Approach;;;;;;;;;;x
+c_heavenly_coast;Heavenly Coast;;;;;;;;;;x
+c_twilit_sea;Twilit Sea;;;;;;;;;;x
+c_fruity_current;Lesser Fruity Current;;;;;;;;;;x
+c_fruity_countercurrent;Greater Fruity Current;;;;;;;;;;x
+c_mushroom_deep;Mushroom Deep;;;;;;;;;;x
+c_rare_sea;Rare Sea;;;;;;;;;;x
+c_the_great_calm;The Great Calm;;;;;;;;;;x
+c_boggly_coastline;Boggly Coastline;;;;;;;;;;x
+c_hideaway_bay;Hideaway Bay;;;;;;;;;;x
+c_fahr_coast;Fahr Coast;;;;;;;;;;x
+c_magnetic_coast;Magnetic Coast;;;;;;;;;;x
+c_penguin_coast;Penguin Coast;;;;;;;;;;x
+c_santa_sea;Santa Sea;;;;;;;;;;x
+c_icepeak_coast;Icepeak Coast;;;;;;;;;;x
+c_cool_cool_coastline;Cool Cool Coastline;;;;;;;;;;x
+c_sherbert_coast;Sherbert Coast;;;;;;;;;;x
+c_shivering_coastline;Shivering Coastline;;;;;;;;;;x
+c_ice_koopa_coast;Icekoopa Coast;;;;;;;;;;x
+c_frosty_bay;Frosty Bay;;;;;;;;;;x
+c_toadwood_bay;Toadwood Bay;;;;;;;;;;x
+c_kings_cove;King's Cove;;;;;;;;;;x
+c_shipwrecker_bay;Shipwrecker Bay;;;;;;;;;;x
+c_mole_harbour;Mole Harbor;;;;;;;;;;x
+c_mole_coast;Mole Coast;;;;;;;;;;x
+c_twin_bays;Twinbays;;;;;;;;;;x
+c_shipwreck_sea;Shipwreck Sea;;;;;;;;;;x
+c_monster_cove;Monster Cove;;;;;;;;;;x
+c_bay_of_storms;Bay of Storms;;;;;;;;;;x
+c_sea_of_mario;Sea of Mario;;;;;;;;;;x
+c_marionic_tidal_zone;Marionic Tidal Zone;;;;;;;;;;x
+c_yoshis_approach;Yoshi's Approach;;;;;;;;;;x
+c_nimbus_coast;Nimbus Coast;;;;;;;;;;x
+c_sulphuric_coast;Sulphuric Coast;;;;;;;;;;x
+c_rice_coast;Rice Coast;;;;;;;;;;x
+c_sherbert_ocean_region;Sherbert Ocean Region;;;;;;;;;;x
+c_kitchen_coast;Kitchen Coast;;;;;;;;;;x
+c_kitchen_island_approach;Kitchen Approach;;;;;;;;;;x
+c_sea_of_tranquility;Sea of Rest;;;;;;;;;;x
+c_koopa_coast;Koopa Coast;;;;;;;;;;x
+c_frozen_turtle_coast;Frozen Turtle Coasts;;;;;;;;;;x
+c_eastern_bowser_approach;Eastern Bowser Approach;;;;;;;;;;x
+c_north_coast_of_toadwood;Toadwood Coast;;;;;;;;;;x
+c_hisstocrat_sea;Hisstocrat Sea;;;;;;;;;;x
+c_chain_link_coast;Chainlink Coast;;;;;;;;;;x
+c_frosted_ice_coast;Frosted Ice Coast;;;;;;;;;;x
+c_snowberg_alley;Snowberg Channel;;;;;;;;;;x
+c_northern_sprixie_sea;Northern Sprixie Sea;;;;;;;;;;x
+c_steep_coast;Steep Coast;;;;;;;;;;x
+c_sandy_coast;Sandy Coast;;;;;;;;;;x
+c_continental_dropoff;Continental Dropoff;;;;;;;;;;x
+c_beanbean_cove;Beanbean Cove;;;;;;;;;;x
+c_awazon_river1;Awazon River;;;;;;;;;;x
+c_awazon_river2;Awazon River;;;;;;;;;;x
+c_awazon_river3;Awazon River;;;;;;;;;;x
+c_mouth_of_the_awazon;Awazon Estuary;;;;;;;;;;x
+c_midas_falls;Midas Falls;;;;;;;;;;x
+c_midas_river;Midas River;;;;;;;;;;x
+c_vanilla_falls;Vanilla Falls;;;;;;;;;;x
+c_donut_river;Doughnut River;;;;;;;;;;x
+c_banana_bird_falls;Bananabird Falls;;;;;;;;;;x
+c_bear_river;Bear Bear River;;;;;;;;;;x
+c_razor_falls;Razor Falls;;;;;;;;;;x
+c_bear_falls;Bear Falls;;;;;;;;;;x
+c_blackforest_river1;Greater Blackforest River;;;;;;;;;;x
+c_blackforst_river2;Lesser Blackforest River;;;;;;;;;;x
+c_tropica_river1;Greater Tropica River;;;;;;;;;;x
+c_tropica_river2;Lesser Tropica River;;;;;;;;;;x
+c_tropica_river3;Grand Tropica River;;;;;;;;;;x
+c_tropica_river4;Tropica River;;;;;;;;;;x
+c_verge_river;Verge River;;;;;;;;;;x
+c_monkey_falls;Monkey Falls;;;;;;;;;;x
+c_minke_falls;Minke Falls;;;;;;;;;;x
+c_koco_river1;Greater Koco River;;;;;;;;;;x
+c_koco_river2;Lesser Koco River;;;;;;;;;;x
+c_mill_river;Mill River;;;;;;;;;;x
+c_salmon_river1;Salmon River;;;;;;;;;;x
+c_salmon_river2;Salmon River;;;;;;;;;;x
+c_salmon_river3;Salmon River;;;;;;;;;;x
+c_salmon_river4;Salmon River;;;;;;;;;;x
+c_salmon_river5;Salmon River;;;;;;;;;;x
+c_salmon_river6;Salmon River;;;;;;;;;;x
+c_salmon_river7;Salmon River;;;;;;;;;;x
+c_salmon_river8;Salmon River;;;;;;;;;;x
+c_salmon_river9;Salmon River;;;;;;;;;;x
+c_salt_river;Salt River;;;;;;;;;;x
+c_tylex_river1;Tyler River;;;;;;;;;;x
+c_tylex_river2;Tyler River;;;;;;;;;;x
+c_tylex_river3;Tyler River;;;;;;;;;;x
+c_tylex_river4;Tyler River;;;;;;;;;;x
+c_tylex_river5;Tyler River;;;;;;;;;;x
+c_tylex_river6;Tyler River;;;;;;;;;;x
+c_tylex_river7;Tyler River;;;;;;;;;;x
+c_tylex_river8;Tyler River;;;;;;;;;;x
+c_sprixie_river;Sprixie River;;;;;;;;;;x
+c_star_river1;Star River;;;;;;;;;;x
+c_star_river2;Star River;;;;;;;;;;x
+c_star_river3;Star River;;;;;;;;;;x
+c_star_river4;Star River;;;;;;;;;;x
+c_star_river5;Star River;;;;;;;;;;x
+c_star_river6;Star River;;;;;;;;;;x
+c_star_river7;Star River;;;;;;;;;;x
+c_star_river8;Star River;;;;;;;;;;x
+c_star_river9;Star River;;;;;;;;;;x
+c_star_river10;Star River;;;;;;;;;;x
+c_star_river11;Star River;;;;;;;;;;x
+c_star_river12;Star River;;;;;;;;;;x
+c_star_river13;Star River;;;;;;;;;;x
+c_mushroom_river1;Mushroom River;;;;;;;;;;x
+c_mushroom_river2;Mushroom River;;;;;;;;;;x
+c_mushroom_river3;Mushroom River;;;;;;;;;;x
+c_mushroom_river4;Mushroom River;;;;;;;;;;x
+c_mushroom_river5;Mushroom River;;;;;;;;;;x
+c_mushroom_river6;Mushroom River;;;;;;;;;;x
+c_mushroom_river7;Mushroom River;;;;;;;;;;x
+c_mushroom_river8;Mushroom River;;;;;;;;;;x
+c_mushroom_river9;Mushroom River;;;;;;;;;;x
+c_mushroom_river10;Mushroom River;;;;;;;;;;x
+c_mushroom_river11;Mushroom River;;;;;;;;;;x
+c_mushroom_river12;Mushroom River;;;;;;;;;;x
+c_mushroom_river13;Mushroom River;;;;;;;;;;x
+c_koopa_river1;Koopa River;;;;;;;;;;x
+c_koopa_river2;Koopa River;;;;;;;;;;x
+c_koopa_river3;Koopa River;;;;;;;;;;x
+c_koopa_river4;Koopa River;;;;;;;;;;x
+c_cold_river1;Cold Cold River;;;;;;;;;;x
+c_cold_river2;Cold Cold River;;;;;;;;;;x
+c_cold_river3;Cold Cold River;;;;;;;;;;x
+c_cold_river4;Cold Cold River;;;;;;;;;;x
+c_cold_river5;Cold Cold River;;;;;;;;;;x
+c_cold_river6;Cold Cold River;;;;;;;;;;x
+c_cold_river7;Cold Cold River;;;;;;;;;;x
+c_cold_river8;Cold Cold River;;;;;;;;;;x
+c_cold_river9;Cold Cold River;;;;;;;;;;x
+c_cold_river10;Cold Cold River;;;;;;;;;;x
+c_cold_river11;Cold Cold River;;;;;;;;;;x
+c_cold_river12;Cold Cold River;;;;;;;;;;x
+c_cold_river13;Cold Cold River;;;;;;;;;;x
+c_cold_river14;Cold Cold River;;;;;;;;;;x
+c_cold_river15;Cold Cold River;;;;;;;;;;x
+c_cold_river16;Cold Cold River;;;;;;;;;;x
+c_cold_river17;Cold Cold River;;;;;;;;;;x
+c_cold_river18;Cold Cold River;;;;;;;;;;x
+c_toad_river1;Toad River;;;;;;;;;;x
+c_toad_river2;Toad River;;;;;;;;;;x
+c_toad_river3;Toad River;;;;;;;;;;x
+c_garden_river1;Greater Garden River;;;;;;;;;;x
+c_garden_river2;Lesser Garden River;;;;;;;;;;x
+c_boo_river1;Boo River;;;;;;;;;;x
+c_boo_river2;Boo River;;;;;;;;;;x
+c_boo_river3;Boo River;;;;;;;;;;x
+c_boo_river4;Boo River;;;;;;;;;;x
+c_boo_river5;Boo River;;;;;;;;;;x
+c_boo_river6;Boo River;;;;;;;;;;x
+c_boo_river7;Boo River;;;;;;;;;;x
+c_rapid_river1;Rapid River;;;;;;;;;;x
+c_rapid_river2;Rapid River;;;;;;;;;;x
+c_fairy_river1;Fairy River;;;;;;;;;;x
+c_fairy_river2;Fairy River;;;;;;;;;;x
+c_fairy_river3;Fairy River;;;;;;;;;;x
+c_fairy_river4;Fairy River;;;;;;;;;;x
+c_fairy_river5;Fairy River;;;;;;;;;;x
+c_fairy_river6;Fairy River;;;;;;;;;;x
+c_fairy_river7;Fairy River;;;;;;;;;;x
+c_fairy_river8;Fairy River;;;;;;;;;;x
+c_fairry_river9;Fairy River;;;;;;;;;;x
+c_fairy_river10;Fairy River;;;;;;;;;;x
+c_yosu_rapids;Yosu Rapids;;;;;;;;;;x
+c_diamond_river1;Diamond River;;;;;;;;;;x
+c_diamond_river2;Diamond River;;;;;;;;;;x
+c_pacifica;Pacifica;;;;;;;;;;x
+c_banana_bird_lake;Bananabird Lake;;;;;;;;;;x
+c_lake_orangatanga;Lake Orangatanga;;;;;;;;;;x
+c_kremling_lake1;Kremling Lake;;;;;;;;;;x
+c_kremling_lake2;Kreeps Lake;;;;;;;;;;x
+c_kremling_lake3;Kutlas Lake;;;;;;;;;;x
+c_icy_lake;Shivering Lake;;;;;;;;;;x
+c_lake_lodge;Lake Lodge;;;;;;;;;;x
+c_roolenstein_lake;Lake Roolenstein;;;;;;;;;;x
+c_kroc_pond;Kroc Loch;;;;;;;;;;x
+c_miller_lake;Miller's Lake;;;;;;;;;;x
+c_great_ape_lakes;Great Ape Lakes;;;;;;;;;;x
+c_lake_of_the_vines;Lake of the Vines;;;;;;;;;;x
+c_crocodile_lake1;Crocodile Lake;;;;;;;;;;x
+c_crocodile_lake2;The Crocodile Loch;;;;;;;;;;x
+c_crocodile_lake3;Crocodile Lagoon;;;;;;;;;;x
+c_crocodile_lake4;Alligator Lake;;;;;;;;;;x
+c_crocodile_lake5;Caimán Lake;;;;;;;;;;x
+c_crocodile_lake6;Gharial Lake;;;;;;;;;;x
+c_upper_factory_lake;Greater Factory Lake;;;;;;;;;;x
+c_lower_factory_lake;Lesser Factory Lake;;;;;;;;;;x
+c_timber_lake;Timber Lake;;;;;;;;;;x
+c_joy_lake;Joy Lake;;;;;;;;;;x
+c_lake_of_fire;Boiling Lake;;;;;;;;;;x
+c_big_moat;The Big Moat;;;;;;;;;;x
+c_rough_lake;Rough Lakeshore;;;;;;;;;;x
+c_jungle_pond;Jungle Bond;;;;;;;;;;x
+c_frozen_lake;Frozen Lake;;;;;;;;;;x
+c_lethal_lava_land;Lethal Lava Land;;;;;;;;;;x
+c_third_lake;Third Lake;;;;;;;;;;x
+c_desert_oasis;Desert Oasis;;;;;;;;;;x
+c_grassland_moat;Grassland Moat;;;;;;;;;;x
+c_warm_fuzzy_lake;Warm Fuzzy Lake;;;;;;;;;;x
+c_damp_oasis;Damp Oasis;;;;;;;;;;x
+c_gauntlet_pond;Guantlet Pond;;;;;;;;;;x
+c_strike_lake;Strike Lake;;;;;;;;;;x
+c_snowflake_lake;Snowflake Lake;;;;;;;;;;x
+c_chilly_lakes;Chilly Lakes;;;;;;;;;;x
+c_lake_t;Lake T.;;;;;;;;;;x
+c_yosu_lake;Yosu Lake;;;;;;;;;;x
+c_cheep_cheep_lake;Cheep Cheep Lake;;;;;;;;;;x
+c_park_lake;Park Lake;;;;;;;;;;x
+c_boo_lake;Boo Lake;;;;;;;;;;x
+c_blubble_lake;Blubble Lake;;;;;;;;;;x
+c_yoshi_lake;Yoshi Lake;;;;;;;;;;x
+c_turtleshell_lake;Turtleshell Lake;;;;;;;;;;x
+c_soda_marsh;Soda Marsh;;;;;;;;;;x
+c_fisheye_lake;Fisheye Lake;;;;;;;;;;x
+c_jade_jungle;Jade Jungle;;;;;;;;;;x
+c_canyon_lake;Canyon Basin;;;;;;;;;;x
+c_muda_lake;Muda Loch;;;;;;;;;;x
+c_awazon_basin;Awazon Basin;;;;;;;;;;x
+c_yoshis_island_lake;Yoshi's Insular Lake;;;;;;;;;;x
+c_donut_lake;Doughnut Lake;;;;;;;;;;x
+c_soda_lake;Soda Lake;;;;;;;;;;x
+c_kettle_lake;Kettlelake;;;;;;;;;;x
+c_toadwood_lake;Toadwood Lake;;;;;;;;;;x
+c_turtle_bog;Turtle Bog;;;;;;;;;;x
+c_mushroom_swamp;Mushroom Swamp;;;;;;;;;;x
+c_royal_lake;Royal Lake;;;;;;;;;;x
+c_tadpole_pond;Tadpole Pond;;;;;;;;;;x
+c_mushroom_sea1;Great Mushroom Sea;;;;;;;;;;x
+c_mushroom_sea2;Great Mushroom Sea;;;;;;;;;;x
+c_mushroom_sea3;Great Mushroom Sea;;;;;;;;;;x
+c_mushroom_sea4;Great Mushroom Sea;;;;;;;;;;x
+c_mushroom_sea5;Great Mushroom Sea;;;;;;;;;;x
+c_mushroom_sea6;Great Mushroom Sea;;;;;;;;;;x
+c_mushroom_sea7;Great Mushroom Sea;;;;;;;;;;x
+c_mushroom_sea8;Great Mushroom Sea;;;;;;;;;;x
+c_sulphur_lake;Sulphuric Lake;;;;;;;;;;x
+c_guffawha_lake;Guffawha Lake;;;;;;;;;;x
+c_chucklehuck_lake;Chucklehuch Lake;;;;;;;;;;x
