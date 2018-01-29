@@ -1,0 +1,12 @@
+# 96 - Toad Town
+
+# County Title
+title = c_toad_town
+
+# Settlements
+max_settlements = 1
+b_toad_town = castle
+
+# Misc
+culture = posh
+religion = greed

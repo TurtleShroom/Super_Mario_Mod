@@ -1,0 +1,12 @@
+# 118 - Starborn Valley
+
+# County Title
+title = c_starborn_valley
+
+# Settlements
+max_settlements = 1
+b_starborn_valley = castle
+
+# Misc
+culture = posh
+religion = greed

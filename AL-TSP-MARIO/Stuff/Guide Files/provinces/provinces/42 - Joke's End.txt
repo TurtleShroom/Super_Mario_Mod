@@ -1,0 +1,12 @@
+# 42 - Joke's End
+
+# County Title
+title = c_jokes_end
+
+# Settlements
+max_settlements = 1
+b_jokes_end = castle
+
+# Misc
+culture = fruit_kingdom
+religion = twilight_towner

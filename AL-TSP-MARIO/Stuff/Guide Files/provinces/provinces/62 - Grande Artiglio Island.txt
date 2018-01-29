@@ -1,0 +1,12 @@
+# 62 - Grande Artiglio Island
+
+# County Title
+title = c_grande_artiglio_island
+
+# Settlements
+max_settlements = 1
+b_grande_artiglio_island = castle
+
+# Misc
+culture = posh
+religion = greed

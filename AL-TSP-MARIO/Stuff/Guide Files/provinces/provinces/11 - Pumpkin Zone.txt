@@ -1,0 +1,12 @@
+# 11 - Pumpkin Zone
+
+# County Title
+title = c_pumpkin_zone
+
+# Settlements
+max_settlements = 1
+b_pumpkin_zone = castle
+
+# Misc
+culture = sarasan
+religion = power_star

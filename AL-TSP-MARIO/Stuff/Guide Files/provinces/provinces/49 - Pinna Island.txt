@@ -1,0 +1,12 @@
+# 49 - Pinna Island
+
+# County Title
+title = c_pinna_island
+
+# Settlements
+max_settlements = 1
+b_pinna_island = castle
+
+# Misc
+culture = jewelry_land
+religion = shine_sprites

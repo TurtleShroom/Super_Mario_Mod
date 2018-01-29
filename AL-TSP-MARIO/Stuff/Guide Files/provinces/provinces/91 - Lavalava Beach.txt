@@ -1,0 +1,12 @@
+# 91 - Lavalava Beach
+
+# County Title
+title = c_lavalava_beach
+
+# Settlements
+max_settlements = 1
+b_lavalava_beach = castle
+
+# Misc
+culture = posh
+religion = greed

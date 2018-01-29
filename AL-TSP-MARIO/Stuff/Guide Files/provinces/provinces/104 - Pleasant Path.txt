@@ -1,0 +1,12 @@
+# 104 - Pleasant Path
+
+# County Title
+title = c_pleasant_path
+
+# Settlements
+max_settlements = 1
+b_pleasant_path = castle
+
+# Misc
+culture = posh
+religion = greed

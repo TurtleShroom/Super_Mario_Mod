@@ -1,0 +1,12 @@
+# 126 - Haunted Towers
+
+# County Title
+title = c_haunted_towers
+
+# Settlements
+max_settlements = 1
+b_haunted_towers = castle
+
+# Misc
+culture = posh
+religion = greed

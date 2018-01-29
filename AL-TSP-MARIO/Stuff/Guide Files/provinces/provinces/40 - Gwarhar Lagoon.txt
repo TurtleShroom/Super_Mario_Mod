@@ -1,0 +1,12 @@
+# 40 - Gwarhar Lagoon
+
+# County Title
+title = c_gwarhar_lagoon
+
+# Settlements
+max_settlements = 1
+b_gwarhar_lagoon = castle
+
+# Misc
+culture = fahr
+religion = seven_stars

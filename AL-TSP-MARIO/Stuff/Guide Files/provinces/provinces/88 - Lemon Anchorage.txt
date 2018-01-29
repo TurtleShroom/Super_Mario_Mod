@@ -1,0 +1,12 @@
+# 88 - Lemon Anchorage
+
+# County Title
+title = c_lemon_anchorage
+
+# Settlements
+max_settlements = 1
+b_lemon_anchorage = castle
+
+# Misc
+culture = posh
+religion = greed

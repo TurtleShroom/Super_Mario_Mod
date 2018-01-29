@@ -1,0 +1,12 @@
+# 25 - Chocolate Island
+
+# County Title
+title = c_chocolate_island
+
+# Settlements
+max_settlements = 1
+b_chocolate_island = castle
+
+# Misc
+culture = sarasan
+religion = shine_sprites

@@ -1,0 +1,12 @@
+# 1 - 
+
+# County Title
+title = c_
+
+# Settlements
+max_settlements = 1
+b_ = castle
+
+# Misc
+culture = 
+religion = 

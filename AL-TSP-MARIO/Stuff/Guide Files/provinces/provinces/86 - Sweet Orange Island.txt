@@ -1,0 +1,12 @@
+# 86 - Sweet Orange Island
+
+# County Title
+title = c_sweet_orange_island
+
+# Settlements
+max_settlements = 1
+b_sweet_orange_island = castle
+
+# Misc
+culture = posh
+religion = greed

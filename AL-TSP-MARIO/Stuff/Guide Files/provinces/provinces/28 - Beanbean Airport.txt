@@ -1,0 +1,12 @@
+# 28 - Beanbean Airport
+
+# County Title
+title = c_beanbean_airport
+
+# Settlements
+max_settlements = 1
+b_beanbean_airport = castle
+
+# Misc
+culture = twilight_towner
+religion = kong_religion

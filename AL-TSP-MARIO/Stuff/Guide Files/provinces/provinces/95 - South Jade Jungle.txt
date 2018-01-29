@@ -1,0 +1,12 @@
+# 95 - South Jade Jungle
+
+# County Title
+title = c_south_jade_jungle
+
+# Settlements
+max_settlements = 1
+b_south_jade_jungle = castle
+
+# Misc
+culture = posh
+religion = greed

@@ -1,0 +1,12 @@
+# 150 - Neon Heights (Neon City)
+
+# County Title
+title = c_neon_heights
+
+# Settlements
+max_settlements = 1
+b_neon_heights = castle
+
+# Misc
+culture = posh
+religion = greed

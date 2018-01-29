@@ -1,0 +1,12 @@
+# 130 - Acorn Plains
+
+# County Title
+title = c_acorn_plains
+
+# Settlements
+max_settlements = 1
+b_acorn_plains = castle
+
+# Misc
+culture = posh
+religion = greed

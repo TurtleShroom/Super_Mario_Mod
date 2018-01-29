@@ -1,0 +1,12 @@
+# 133 - Frosted Glacier
+
+# County Title
+title = c_frosted_glacier
+
+# Settlements
+max_settlements = 1
+b_froste_glacier = castle
+
+# Misc
+culture = posh
+religion = greed

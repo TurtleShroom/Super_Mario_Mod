@@ -1,0 +1,12 @@
+# 113 - Star Haven
+
+# County Title
+title = c_star_haven
+
+# Settlements
+max_settlements = 1
+b_star_haven = castle
+
+# Misc
+culture = posh
+religion = greed

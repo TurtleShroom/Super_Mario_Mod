@@ -1,0 +1,12 @@
+# 98 - West Goomba Road
+
+# County Title
+title = c_west_goomba_road
+
+# Settlements
+max_settlements = 1
+b_west_goomba_road = castle
+
+# Misc
+culture = posh
+religion = greed

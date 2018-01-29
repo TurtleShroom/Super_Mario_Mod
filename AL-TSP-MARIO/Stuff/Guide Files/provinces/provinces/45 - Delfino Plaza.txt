@@ -1,0 +1,12 @@
+# 45 - Delfino Plaza
+
+# County Title
+title = c_delfino_plaza
+
+# Settlements
+max_settlements = 1
+b_delfino_plaza = castle
+
+# Misc
+culture = mushroom_world
+religion = ztar_faith

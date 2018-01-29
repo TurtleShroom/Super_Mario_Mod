@@ -1,0 +1,12 @@
+# 120 - Hollijolli Village
+
+# County Title
+title = c_hollijolli_village
+
+# Settlements
+max_settlements = 1
+b_hollijolli_village = castle
+
+# Misc
+culture = posh
+religion = greed

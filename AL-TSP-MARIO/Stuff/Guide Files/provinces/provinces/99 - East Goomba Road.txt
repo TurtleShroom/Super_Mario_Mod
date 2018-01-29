@@ -1,0 +1,12 @@
+# 99 - East Goomba Road
+
+# County Title
+title = c_east_goomba_road
+
+# Settlements
+max_settlements = 1
+b_east_goomba_road = castle
+
+# Misc
+culture = posh
+religion = greed

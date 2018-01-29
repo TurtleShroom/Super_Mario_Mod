@@ -1,0 +1,12 @@
+# 37 - Teehee Valley
+
+# County Title
+title = c_teehee_valley
+
+# Settlements
+max_settlements = 1
+b_teehee_valley = castle
+
+# Misc
+culture = beanbean
+religion = ztar_faith

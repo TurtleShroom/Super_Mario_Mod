@@ -1,0 +1,12 @@
+# 66 - Corrazza Mountains
+
+# County Title
+title = c_corrazza_mountains
+
+# Settlements
+max_settlements = 1
+b_corrazza_mountains = castle
+
+# Misc
+culture = posh
+religion = greed

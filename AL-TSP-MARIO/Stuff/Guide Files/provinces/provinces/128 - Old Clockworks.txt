@@ -1,0 +1,12 @@
+# 128 - Old Clockworks
+
+# County Title
+title = c_old_clockworks
+
+# Settlements
+max_settlements = 1
+b_old_clockworks = castle
+
+# Misc
+culture = posh
+religion = greed

@@ -1,0 +1,12 @@
+# 123 - Luigi's Mansion
+
+# County Title
+title = c_luigis_mansion
+
+# Settlements
+max_settlements = 1
+b_luigis_mansion = castle
+
+# Misc
+culture = posh
+religion = greed

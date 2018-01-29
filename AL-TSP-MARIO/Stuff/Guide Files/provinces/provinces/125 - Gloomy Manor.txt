@@ -1,0 +1,12 @@
+# 125 - Gloomy Manor
+
+# County Title
+title = c_gloomy_manor
+
+# Settlements
+max_settlements = 1
+b_gloomy_manor = castle
+
+# Misc
+culture = posh
+religion = greed

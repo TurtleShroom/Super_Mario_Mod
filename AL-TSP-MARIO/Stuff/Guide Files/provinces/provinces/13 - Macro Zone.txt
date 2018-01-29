@@ -1,0 +1,12 @@
+# 13 - Macro Zone
+
+# County Title
+title = c_macro_zone
+
+# Settlements
+max_settlements = 1
+b_macro_zone = castle
+
+# Misc
+culture = diamond
+religion = gambling

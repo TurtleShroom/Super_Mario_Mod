@@ -1,0 +1,12 @@
+# 94 - North Jade Jungle
+
+# County Title
+title = c_north_jade_jungle
+
+# Settlements
+max_settlements = 1
+b_north_jade_jungle = castle
+
+# Misc
+culture = posh
+religion = greed

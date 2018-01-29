@@ -1,0 +1,12 @@
+# 60 - Angelo Hills
+
+# County Title
+title = c_angelo_hills
+
+# Settlements
+max_settlements = 1
+b_angelo_hills = castle
+
+# Misc
+culture = posh
+religion = greed

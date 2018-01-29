@@ -1,0 +1,12 @@
+# 21 - Donut Plains
+
+# County Title
+title = c_donut_plains
+
+# Settlements
+max_settlements = 1
+b_donut_plains = castle
+
+# Misc
+culture = dryite
+religion = seven_stars

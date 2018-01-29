@@ -1,0 +1,12 @@
+# 108 - Mario's House
+
+# County Title
+title = c_marios_house
+
+# Settlements
+max_settlements = 1
+b_marios_house = castle
+
+# Misc
+culture = posh
+religion = greed

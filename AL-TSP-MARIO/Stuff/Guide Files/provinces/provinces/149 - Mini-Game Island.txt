@@ -1,0 +1,12 @@
+# 149 - Mini-Game Island
+
+# County Title
+title = c_mini_game_island
+
+# Settlements
+max_settlements = 1
+b_mini_game_island = castle
+
+# Misc
+culture = posh
+religion = greed

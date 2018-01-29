@@ -1,0 +1,12 @@
+# 109 - Toad Cliffs
+
+# County Title
+title = c_toad_cliffs
+
+# Settlements
+max_settlements = 1
+b_toad_cliffs = castle
+
+# Misc
+culture = posh
+religion = greed

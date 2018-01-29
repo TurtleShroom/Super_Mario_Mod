@@ -1,0 +1,12 @@
+# 143 - Haunted Hideaway
+
+# County Title
+title = c_haunted_hideaway
+
+# Settlements
+max_settlements = 1
+b_haunted_hideaway = castle
+
+# Misc
+culture = posh
+religion = greed

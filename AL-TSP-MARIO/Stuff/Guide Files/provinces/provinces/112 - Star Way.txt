@@ -1,0 +1,12 @@
+# 112 - Star Way
+
+# County Title
+title = c_star_way
+
+# Settlements
+max_settlements = 1
+b_star_way = castle
+
+# Misc
+culture = posh
+religion = greed

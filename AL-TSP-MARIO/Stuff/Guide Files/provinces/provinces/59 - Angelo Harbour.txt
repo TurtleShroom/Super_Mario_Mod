@@ -1,0 +1,12 @@
+# 59 - Angelo Harbour
+
+# County Title
+title = c_angelo_harbour
+
+# Settlements
+max_settlements = 1
+b_angelo_harbour = castle
+
+# Misc
+culture = posh
+religion = greed

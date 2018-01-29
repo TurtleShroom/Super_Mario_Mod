@@ -1,0 +1,12 @@
+# 131 - Layer Cake Desert
+
+# County Title
+title = c_layer_cake_desert
+
+# Settlements
+max_settlements = 1
+b_layer_cake_desert = castle
+
+# Misc
+culture = posh
+religion = greed

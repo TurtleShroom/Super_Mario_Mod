@@ -1,0 +1,12 @@
+# 142 - Horror Land
+
+# County Title
+title = c_horror_land
+
+# Settlements
+max_settlements = 1
+b_horror_land = castle
+
+# Misc
+culture = posh
+religion = greed

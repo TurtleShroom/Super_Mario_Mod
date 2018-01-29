@@ -1,0 +1,12 @@
+# 30 - Stardust Fields
+
+# County Title
+title = c_stardust_fields
+
+# Settlements
+max_settlements = 1
+b_stardust_fields = castle
+
+# Misc
+culture = rare_islander
+religion = kong_religion

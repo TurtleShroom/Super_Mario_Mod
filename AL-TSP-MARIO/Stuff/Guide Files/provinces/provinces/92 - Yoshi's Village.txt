@@ -1,0 +1,12 @@
+# 92 - Yoshi's Village
+
+# County Title
+title = c_yoshis_village
+
+# Settlements
+max_settlements = 1
+b_yoshis_village = castle
+
+# Misc
+culture = posh
+religion = greed

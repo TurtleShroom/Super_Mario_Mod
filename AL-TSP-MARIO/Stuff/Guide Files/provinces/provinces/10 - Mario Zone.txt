@@ -1,0 +1,12 @@
+# 10 - Mario Zone
+
+# County Title
+title = c_mario_zone
+
+# Settlements
+max_settlements = 1
+b_mario_zone = castle
+
+# Misc
+culture = twilight_towner
+religion = shine_sprites

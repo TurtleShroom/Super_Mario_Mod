@@ -1,0 +1,12 @@
+# 36 - Oho Oasis
+
+# County Title
+title = c_oho_oasis
+
+# Settlements
+max_settlements = 1
+b_oho_oasis = castle
+
+# Misc
+culture = piillo
+religion = gambling

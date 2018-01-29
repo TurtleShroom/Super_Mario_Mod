@@ -1,0 +1,12 @@
+# 85 - Blood Orange Bay
+
+# County Title
+title = c_blood_orange_bay
+
+# Settlements
+max_settlements = 1
+b_blood_orange_bay = castle
+
+# Misc
+culture = posh
+religion = greed

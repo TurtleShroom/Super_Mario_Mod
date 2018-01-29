@@ -1,0 +1,12 @@
+# 76 - Isle Embricata
+
+# County Title
+title = c_isle_embricata
+
+# Settlements
+max_settlements = 1
+b_isle_embricata = castle
+
+# Misc
+culture = posh
+religion = greed

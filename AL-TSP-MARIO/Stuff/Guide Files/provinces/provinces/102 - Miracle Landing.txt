@@ -1,0 +1,12 @@
+# 102 - Miracle Landing
+
+# County Title
+title = c_miracle_landing
+
+# Settlements
+max_settlements = 1
+b_miracle_landing = castle
+
+# Misc
+culture = posh
+religion = greed

@@ -1,0 +1,12 @@
+# 6 - Parsley Forest
+
+# County Title
+title = c_parsley_forest
+
+# Settlements
+max_settlements = 1
+b_parsley_forest = castle
+
+# Misc
+culture = jewelry_land
+religion = twilight_towner

@@ -1,0 +1,12 @@
+# 83 - Serrano Sound
+
+# County Title
+title = c_serrano_sound
+
+# Settlements
+max_settlements = 1
+b_serrano_sound = castle
+
+# Misc
+culture = posh
+religion = greed

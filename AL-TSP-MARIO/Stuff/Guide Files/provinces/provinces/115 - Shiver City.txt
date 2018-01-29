@@ -1,0 +1,12 @@
+# 115 - Shiver City
+
+# County Title
+title = c_shiver_city
+
+# Settlements
+max_settlements = 1
+b_shiver_city = castle
+
+# Misc
+culture = posh
+religion = greed

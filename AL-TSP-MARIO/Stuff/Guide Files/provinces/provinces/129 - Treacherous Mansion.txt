@@ -1,0 +1,12 @@
+# 129 - Treacherous Mansion
+
+# County Title
+title = c_treacherous_mansion
+
+# Settlements
+max_settlements = 1
+b_treacherous_mansion = castle
+
+# Misc
+culture = posh
+religion = greed

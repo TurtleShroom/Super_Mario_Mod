@@ -1,0 +1,12 @@
+# 35 - Woohoo University
+
+# County Title
+title = c_woohoo_university
+
+# Settlements
+max_settlements = 1
+b_woohoo_university = castle
+
+# Misc
+culture = kremling
+religion = alien

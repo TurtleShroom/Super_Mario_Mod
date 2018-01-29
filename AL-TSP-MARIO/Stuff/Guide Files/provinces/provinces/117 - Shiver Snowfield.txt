@@ -1,0 +1,12 @@
+# 117 - Shiver Snowfield
+
+# County Title
+title = c_shiver_snowfield
+
+# Settlements
+max_settlements = 1
+b_shiver_snowfield = castle
+
+# Misc
+culture = posh
+religion = greed

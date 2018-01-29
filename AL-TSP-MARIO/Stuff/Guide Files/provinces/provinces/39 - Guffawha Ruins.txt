@@ -1,0 +1,12 @@
+# 39 - Guffawha Ruins
+
+# County Title
+title = c_guffawha_ruins
+
+# Settlements
+max_settlements = 1
+b_guffawha_ruins = castle
+
+# Misc
+culture = posh
+religion = smithy_religion

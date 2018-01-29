@@ -1,0 +1,12 @@
+# 116 - Shiver Mountain
+
+# County Title
+title = c_shiver_mountain
+
+# Settlements
+max_settlements = 1
+b_shiver_mountain = castle
+
+# Misc
+culture = posh
+religion = greed

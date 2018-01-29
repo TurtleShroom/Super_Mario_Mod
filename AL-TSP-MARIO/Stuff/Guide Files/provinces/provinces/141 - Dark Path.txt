@@ -1,0 +1,12 @@
+# 141 - Dark Path
+
+# County Title
+title = c_dark_path
+
+# Settlements
+max_settlements = 1
+b_dark_path = castle
+
+# Misc
+culture = posh
+religion = greed

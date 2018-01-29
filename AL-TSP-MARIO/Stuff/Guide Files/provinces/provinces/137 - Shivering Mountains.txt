@@ -1,0 +1,12 @@
+# 137 - Shivering Mountains
+
+# County Title
+title = c_shivering_mountains
+
+# Settlements
+max_settlements = 1
+b_shivering_mountains = castle
+
+# Misc
+culture = posh
+religion = greed

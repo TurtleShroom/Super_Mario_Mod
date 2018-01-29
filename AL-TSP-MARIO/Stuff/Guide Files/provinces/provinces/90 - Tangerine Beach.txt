@@ -1,0 +1,12 @@
+# 90 - Tangerine Beach
+
+# County Title
+title = c_tangerine_beach
+
+# Settlements
+max_settlements = 1
+b_tangerine_beach = castle
+
+# Misc
+culture = posh
+religion = greed

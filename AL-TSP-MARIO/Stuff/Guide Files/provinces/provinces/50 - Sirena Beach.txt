@@ -1,0 +1,12 @@
+# 50 - Sirena Beach
+
+# County Title
+title = c_sirena_beach
+
+# Settlements
+max_settlements = 1
+b_sirena_beach = castle
+
+# Misc
+culture = beanbean
+religion = shroob

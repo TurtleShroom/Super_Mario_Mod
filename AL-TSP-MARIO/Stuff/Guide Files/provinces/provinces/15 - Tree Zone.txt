@@ -1,0 +1,12 @@
+# 15 - Tree Zone
+
+# County Title
+title = c_tree_zone
+
+# Settlements
+max_settlements = 1
+b_tree_zone = castle
+
+# Misc
+culture = beanbean
+religion = bowser_religion

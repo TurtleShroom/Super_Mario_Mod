@@ -1,0 +1,12 @@
+# 107 - South Forever Fortress
+
+# County Title
+title = c_south_forever_fortresss
+
+# Settlements
+max_settlements = 1
+b_south_forever_fortress = castle
+
+# Misc
+culture = posh
+religion = greed

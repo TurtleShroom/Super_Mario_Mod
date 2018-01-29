@@ -1,0 +1,12 @@
+# 38 - Little Fungitown
+
+# County Title
+title = c_little_fungitown
+
+# Settlements
+max_settlements = 1
+b_little_fungitown = castle
+
+# Misc
+culture = mushroom_world
+religion = happiness

@@ -1,0 +1,12 @@
+# 70 - Booty Boardwalk
+
+# County Title
+title = c_booty_boardwalk
+
+# Settlements
+max_settlements = 1
+b_booty_boardwalk = castle
+
+# Misc
+culture = posh
+religion = greed

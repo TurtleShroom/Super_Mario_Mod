@@ -1,0 +1,12 @@
+# 16 - Yoshi's Island World 1
+
+# County Title
+title = c_yoshis_island_world_one
+
+# Settlements
+max_settlements = 1
+b_yoshis_island_world_one = castle
+
+# Misc
+culture = dryite
+religion = smithy_religion

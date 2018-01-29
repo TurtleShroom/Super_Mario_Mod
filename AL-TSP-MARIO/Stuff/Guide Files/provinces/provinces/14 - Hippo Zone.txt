@@ -1,0 +1,12 @@
+# 14 - Hippo Zone
+
+# County Title
+title = c_hippo_zone
+
+# Settlements
+max_settlements = 1
+b_hippo_zone = castle
+
+# Misc
+culture = mushroom_kingdom
+religion = ztar_faith

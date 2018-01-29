@@ -1,0 +1,12 @@
+# 82 - Banana Bay
+
+# County Title
+title = c_banana_bay
+
+# Settlements
+max_settlements = 1
+b_banana_bay = castle
+
+# Misc
+culture = posh
+religion = greed

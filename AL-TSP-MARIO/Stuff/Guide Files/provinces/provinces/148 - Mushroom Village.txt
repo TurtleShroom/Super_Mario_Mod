@@ -1,0 +1,12 @@
+# 148 - Mushroom Village
+
+# County Title
+title = c_mushroom_village
+
+# Settlements
+max_settlements = 1
+b_mushroom_village = castle
+
+# Misc
+culture = posh
+religion = greed
