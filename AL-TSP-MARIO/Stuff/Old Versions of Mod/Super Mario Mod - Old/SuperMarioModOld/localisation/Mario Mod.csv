@@ -1,0 +1,96 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#Cultural Buildings
+
+#Cultural Building Description
+
+#Retinue names
+
+#Event descriptions
+EVTDESCSSWISH1;Please, mighty star spirit, hear my wish...;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTDESC_WISHHEALTH;Faithful one, your wish has been granted.  May you enjoy everlasting health!;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTDESC_WISHWEALTH;Faithful one, your wish has been granted.  May you enjoy neverending wealth!;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTDESC_WISHPRESTIGE;Faithful one, your wish has been granted.  May you enjoy untold appreciation!;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTDESC_WISHSTATFARM;Faithful one, your wish has been granted.  May you enjoy undeniable greatness!;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTDESC_WISHDENIED;You try to hold back the tears as you realise there will be no magic tonight. Your tears turn to rage.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTDESC_ZTARRED;Although you have been good and faithful to the Star Spirits, the power of the Ztars is too strong, and before you even had the chance to make them, your wishes have been taken from you.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTDESC_ZTARRED2;Your hard work and dedication to the Ztars has paid off.  That's one wish that will never be granted.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTDESCHAPPINESS;Being a worshipper of happiness comes with certain benefits;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTDESC_WHOOPSHAPPINESS;Somehow you ended up without the happiness trait.  Whoops.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTDESCGREED;Being a worshipper of greed comes with certain benefits;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTDESC_WHOOPSGREED;Somehow you ended up without the greed trait.  Whoops.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+
+#Event options
+EVTOPTYESSSWISH1;I will hear the wish.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTOPTNOSSWISH1;I will hear no wish from this one.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTOPT_YIPPEE;YIPPEE!;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTOPTA_MARIO5;How could I have been so unworthy?;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTOPTB_MARIO5;I will make the star spirits suffer!;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTOPTC_MARIO5;There's nothing I can do.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTOPTD_MARIO5;No longer will I worship the stars!;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTOPT_MARIO6;These heretics are heartless.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTOPT_MARIO7;The Ztars are strong!;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+
+#Names
+seven_stars;Faith of the Seven Stars;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+ztar_faith;Ztar Faith;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+dark_star_faith;Dark Star Faith;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+shine_sprites;Shine Sprite;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+happiness;Happiness;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+astrotheology;Astrotheology;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+primitive;Primitive;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+GOD_THE_STAR_SPIRITS;The Star Spirits;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+GOD_THE_STARS;The Stars;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+GOD_THE_DARK_STAR;The Dark Star;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVIL_SPIRITS;Evil Spirits;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+THE_STARS;The Stars;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+GOD_THE_ZTARS;The Ztars;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+THE_ZTARS;The Ztars;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+THE_PROPHECIES;The Prophecies;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+STAR_SPIRIT;Star Spirit;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+THE_SHINES;The Shines;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+GOD_THE_SHINES;The Shines;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+GOD_THE_SHINE_SPRITES;The Shine Sprites;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+THE_SUPER_HAPPY_TREE;The Super Happy Tree;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+GOD_THE_SUPER_HAPPY_TREE;The Super Happy Tree;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+d_star_spirits;The Seven Stars;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+make_a_wish;Make a wish;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+ztar_a_wish;Invoke a Ztar;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+ztarred_my_wish;Stole my wish;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+happiness_religion_trait;Happiness;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+WISH;Wishes;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+THE_CATALOGUE;The Catalogue;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+GOD_GREED_SPIRIT;Greed Spirit;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+ENVY;Envy;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+greed_religion_trait;Greed;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+greed;Greed;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+STAT_PIETY_WISH;Wishes;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+STAT_PIETY_ENVY;Envy;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+d_greed_spirit;The Greed Spirit;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+GREED_SPIRIT;The Greed Spirit;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+
+
+
+#Religious descriptions
+seven_stars_DESC;The Faith of the Seven Stars revolves around the Seven Star Spirits that reside in Star Haven. Defining features in-game:\n§Y*§! Secular lords may rule over temple holdings\n§Y*§! Seven Star Worshippers can make wishes to the Star Spirits\n§Y*§! Female Seven Star Worshippers are viewed equally to males\n§Y*§! The Seven Stars reward moral behaviour and punish immoral behaviour amongst their followers;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+ztar_faith_DESC;The Ztar Faith revolves around the worship of the dark power of anti-stars known as Ztars.  While Stars are known to grant wishes, Ztars take them away. Defining features in-game:\n§Y*§! Secular lords may rule over temple holdings\n§Y*§! Ztar Worshippers can take away the wishes of Star worshippers\n§Y*§! Female Ztar Worshippers are viewed equally to males;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+dark_star_faith_DESC;The Dark Star Faith is an apocalyptic religion that seeks to restore the Dark Star. Defining features in-game:\n§Y*§! Secular lords may rule over temple holdings\n§Y*§! Dark Star Worshippers can restore the Dark Star and plunge the world into eternal darkness\n§Y*§! Female Dark Star Worshippers are viewed equally to males\n§Y*§! Once the Dark Star is restored it can grant its followers great boons in the fight against the light\n§Y*§! The Dark Star will bring about the apocalypse;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+shine_sprites_DESC;The Shine Sprite Faith centres around the Shine Sprites, beings related to star spirits, but who walk the earth and provide energy to those that they favour. Defining features in-game:\n§Y*§! Secular lords may rule over temple holdings\n§Y*§! Shine Sprite worship has no heresies\n§Y*§! Female Shine Sprite Worshippers are viewed equally to males\n§Y*§! Shine Sprites provide their followers with a steady stream of energy in the form of wealth;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+happiness_DESC;Happiness is a religion that focuses on the pursuit and celebration of happiness. Defining features in-game:\n§Y*§! Secular lords may rule over temple holdings\n§Y*§! Happiness has no heresies\n§Y*§! Characters of the Happiness faith cannot call Holy Wars, or be the target of Holy Wars \n§Y*§! Characters of the happiness faith are well-liked ;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+greed_DESC;Greed is the vice of never being content with one's property or status, and a constant, consuming urge to increase one's status. It is one of the most notorious misdeeds amongst Mushroom Planet denizens as well as the most common. Characters adhering to Greed simply refuse to be comfortable with what they have and will take any risk to acquire more possessions. Defining features in-game:\n§Y*§! Secular lords may rule over temple holdings\n§Y*§! Greedy characters receive gold for their envy in yearly intervals\n§Y*§! Female Greedy characters are viewed equally to males\n§Y*§! The Greed Spirit is the religious head of the Greed faith and will periodically rob independent Greedy characters \n§Y*§! The Greed Spirit can be exorcised (destroyed) if a Greedy character controls 4 of the 5 Greed Holy Sites\n§Y*§! Characters that are devoted to Greed make poor vassals, and may attempt to rob their lieges from time to time;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+
+
+#Trait descriptions
+happiness_religion_trait_desc;This character is a follower of the Happiness faith;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+greed_religion_trait_desc;This character is a follower of the Greed faith;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+
+
+#Title descriptions
+
+#Decision descriptions
+make_a_wish_DESC;Worshippers of the Seven Stars can make wishes, and if they've been good, those wishes may just come true.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+
+#Custom Tooltips
+wish_ask;Make a wish to the Star Spirits.  They may grant your wish, they may not.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+grant_wish;This wish shall be granted.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+deny_wish;The wish shall go unanswered.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+wish_ztar;Weaken the power of the Star Spirits and deny one of their faithful a wish.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x

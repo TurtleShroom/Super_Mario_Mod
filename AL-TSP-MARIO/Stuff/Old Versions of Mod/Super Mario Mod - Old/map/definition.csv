@@ -1,0 +1,1133 @@
+province;red;green;blue;x;x
+1;4;100;255;;Land of Always Winter
+2;152;118;64;;Thenn
+3;133;102;0;;Northern Frostfangs
+4;131;78;192;;The Frozen Shore
+5;35;144;192;;Skirling Pass
+6;24;116;0;;Shivering Forest
+7;151;110;128;;Ice Bay Shore
+8;152;114;255;;Central Frostfangs
+9;24;112;192;;Fist of the First Men
+10;163;146;255;;Antler Vale
+11;23;108;64;;Crasters Keep
+12;151;106;0;;Whitetree
+13;1;52;0;;The Haunted Forest
+14;23;104;255;;Hardhome
+15;35;148;0;;The Gorge
+16;5;108;192;;Shadow Tower
+17;133;110;255;;Castle Black
+18;5;112;0;;Eastwatch
+19;156;42;128;;Brandons Gift
+20;133;114;64;;New Gift
+21;0;36;128;;Crow's Edge
+22;163;150;64;;Arrendell
+23;36;152;128;;Pinesend
+24;164;154;192;;Shadowmoor
+25;134;118;192;;Last Hearth
+26;27;36;255;;Seal Shore
+27;6;116;128;;Aylesvale
+28;155;38;0;;Last River
+29;6;120;255;;Karhold
+30;128;34;64;;Deepdown
+31;24;120;128;;Kingshouse
+32;152;122;192;;Driftwood Hall
+33;0;44;64;;Bear Island
+34;134;126;128;;Sea Dragon Point
+35;6;124;64;;Deepwood
+36;135;142;0;;Blue Hills
+37;26;152;192;;Blackgrove
+38;135;130;255;;King's Grove
+39;164;34;128;;Wolfswood
+40;4;88;192;;Stoney Shore
+41;155;154;255;;The Rills
+42;165;42;64;;Withered Heath
+43;8;144;64;;Blazewater Coast
+44;1;56;128;;Torrhens Square
+45;165;38;255;;Goldgrass
+46;136;146;128;;Barrowton
+47;3;80;255;;Winterfell
+48;36;32;64;;Acorn Grove
+49;37;40;0;;Castle Cerwyn
+50;134;122;0;;Lonely Hills
+51;27;32;128;;Eastmelt
+52;36;156;255;;Weeping Bay
+53;129;54;64;;Dreadfort
+54;7;132;0;;Dawnforest
+55;42;120;0;;Sheepshead Hills
+56;164;158;0;;Overton
+57;36;36;192;;King's Course
+58;155;34;192;;White Knife
+59;27;156;0;;Ethering
+60;135;134;64;;Hornwood
+61;7;140;255;;Whitford
+62;135;138;192;;White Harbor
+63;7;136;128;;Ramsgate
+64;6;128;192;;Widows Watch
+65;132;90;255;;Oldcastle
+66;129;58;192;;Moat Cailin
+67;28;40;64;;Fever
+68;8;148;192;;Greycrann
+69;2;60;255;;Churwell
+70;165;46;192;;Silvereed
+71;8;156;128;;Greywater Watch
+72;136;154;64;;Cape Kraken
+73;136;150;255;;Flints Finger
+74;8;152;0;;Flint Cliffs
+75;37;48;255;;Mistlewood
+76;137;158;192;;Cape of Eagles
+77;9;32;255;;The Twins
+78;9;36;64;;Freylands
+79;137;34;0;;Seagard
+80;165;50;0;;Rushmoor
+81;137;38;128;;Oldstones
+82;38;52;64;;Stillfen
+83;166;54;128;;Erenford
+84;139;70;192;;Wycombe
+85;166;62;64;;Martlet Bay
+86;28;52;128;;Gravesham
+87;167;66;192;;Maidstone
+88;38;64;128;;Blackrush
+89;11;68;128;;Fairmarket
+90;167;70;0;;Blackwood Vale
+91;39;72;64;;Stone Hedge
+92;38;56;192;;Blue Fork
+93;166;58;255;;Red Fork
+94;12;72;255;;Green Fork
+95;38;60;0;;Chiltern
+96;167;74;128;;Medway
+97;140;74;0;;Harroways Town
+98;12;76;64;;Saltpans
+99;156;50;64;;Kanet
+100;39;68;255;;Turnbridge
+101;130;62;0;;Riverrun
+102;156;46;255;;Branstone
+103;167;78;255;;Lolliston
+104;12;80;192;;High Heart
+105;39;76;192;;Wayfarer's Rest
+106;28;44;192;;Goodbrook
+107;140;78;128;;Harrenhal
+108;40;84;128;;Darry
+109;141;90;192;;Maidenpool
+110;12;84;0;;Pinkmaiden
+111;140;82;255;;Acorn Hall
+112;13;88;128;;Stoney Sept
+113;28;248;0;;Willow Wood
+114;40;80;0;;Atranta
+115;157;54;192;;Shoreham
+116;142;102;255;;Esgaroth
+117;131;82;0;;Isle of Faces
+118;24;124;255;;Longsister
+119;153;126;0;;Sweetsister
+120;25;128;64;;Littlesister
+121;153;130;128;;Peeble
+122;25;132;192;;The Paps
+123;42;116;192;;Crow's Barrens
+124;128;38;192;;Scorched Vale
+125;137;42;255;;Bite Coast
+126;10;44;0;;Coldwater Burn
+127;43;128;255;;Wycliffe
+128;171;126;192;;Newton
+129;170;118;255;;Moonsgrey
+130;29;60;64;;Newkeep
+131;138;46;64;;Snakewood
+132;43;124;128;;Sunset Keep
+133;9;40;192;;Strongsong
+134;138;50;192;;Darkmoor
+135;171;130;0;;Crown Crag
+136;4;92;0;;The Eyrie
+137;10;48;128;;Hearts Home
+138;29;56;255;;Upcliff
+139;11;60;192;;Longbow Hall
+140;10;52;255;;Bloody Gate
+141;157;58;0;;Grey Glen
+142;11;64;0;;Ironoaks
+143;139;62;255;;Old Anchor
+144;138;54;0;;Redfort
+145;171;122;64;;Ninestars
+146;157;62;128;;Crabs Shore
+147;139;58;128;;Wickenden
+148;10;56;64;;Ruthermont
+149;132;94;64;;Gulltown
+150;139;66;64;;Runestone
+151;178;98;192;;Sealskin Point
+152;26;140;128;;Hammerhorn
+153;178;94;64;;Pebbleton
+154;154;142;192;;Old Wyk
+155;154;150;128;;Blacktyde
+156;26;144;255;;Orkmont
+157;50;96;128;;Volmark
+158;154;146;0;;Ten Towers
+159;50;100;255;;Stonetree
+160;26;148;64;;Saltcliffe
+161;50;92;0;;Lordsport
+162;129;46;128;;Pyke
+163;141;86;64;;Banefort
+164;143;126;64;;The Crag
+165;42;112;64;;Glitterdell
+166;29;64;192;;Wyndhall
+167;16;140;192;;Fair Isle
+168;16;132;255;;Feastfires
+169;144;130;192;;Kayce
+170;44;136;192;;Maunhill
+171;171;134;128;;Tarbeck Hall
+172;170;114;128;;Thurrock
+173;15;124;0;;Ashemark
+174;143;122;255;;Golden Tooth
+175;170;110;0;;Nunn's Deep
+176;43;132;64;;Oxcross
+177;163;142;128;;Pendric Hills
+178;16;128;128;;Sarsfield
+179;44;140;0;;Goldshire
+180;130;66;128;;Hornvale
+181;44;144;128;;Brent Brook
+182;144;134;0;;Casterly Rock
+183;2;64;64;;Lannisport
+184;172;138;255;;Tendring
+185;30;76;255;;Payne Hall
+186;158;74;192;;Fang Tower
+187;157;66;255;;Castamere
+188;172;142;64;;Greenmont
+189;30;72;128;;Myatt
+190;173;150;0;;Lonmont
+191;15;120;192;;Deep Den
+192;172;146;192;;Drox Castle
+193;158;78;0;;Peckledon
+194;15;116;64;;Hawthorne
+195;143;118;128;;Silverhill
+196;44;148;255;;Redbramble
+197;144;138;128;;Crakehall
+198;45;152;64;;Falwell
+199;16;136;64;;Cornfield
+200;30;68;0;;Greenfield
+201;169;102;64;;Mosborough
+202;14;108;128;;Byford
+203;169;98;255;;Chyttering Brook
+204;30;80;64;;Rayonet
+205;168;82;64;;Sow's Horn
+206;142;106;64;;Byrch Hall
+207;13;96;64;;Antlers
+208;168;86;192;;Brindlewood
+209;159;86;255;;Stokeworth
+210;168;90;0;;Hayford
+211;14;100;192;;Rosby
+212;141;98;128;;Duskendale
+213;40;88;255;;Hollard Hall
+214;31;84;192;;Dyre Den
+215;13;92;255;;Rooks Rest
+216;41;96;192;;Brownhollow
+217;159;82;128;;Sweetport Sound
+218;141;94;0;;Crackclaw Point
+219;153;134;255;;Claw Isle
+220;25;136;0;;Driftmark
+221;129;50;255;;Dragonstone
+222;41;100;0;;Bramsfort
+223;169;106;192;;Farring Cross
+224;40;92;64;;Rollingford
+225;169;94;128;;Edgerton
+226;14;104;0;;Kings Landing
+227;143;114;0;;Dalston Keep
+228;161;118;0;;Greensward
+229;47;60;255;;Attadale
+230;14;112;255;;Woodmere
+231;175;62;0;;Bywater
+232;162;130;64;;Wendwater
+233;146;158;128;;Stonedance
+234;18;32;192;;Sharp Point
+235;4;96;128;;Old Oak
+236;31;88;0;;Redwater Keep
+237;173;154;128;;Redding
+238;160;98;0;;Coldmoat
+239;45;32;0;;Dosk
+240;173;158;255;;Catswold
+241;159;94;192;;Standfast
+242;45;156;192;;Derring Downs
+243;17;144;0;;Goldengrove
+244;158;70;64;;Wythers
+245;32;96;255;;Smithyton
+246;32;100;64;;Ivy Hall
+247;41;104;128;;Alden Keep
+248;33;112;128;;Harpshire
+249;142;110;192;;Tumbleton
+250;161;110;64;;The Ring
+251;175;58;192;;Leygood Keep
+252;161;114;192;;Hammerhal
+253;145;146;64;;Bitterbridge
+254;17;148;128;;Longtable
+255;42;108;255;;Roseford
+256;175;54;64;;Inchfield
+257;160;102;128;;Holyhall
+258;32;108;0;;Appleton
+259;145;154;0;;Grassy Vale
+260;47;52;0;;Hastwyck
+261;145;142;255;;Greenshield
+262;178;102;0;;Greyshield
+263;50;104;64;;Oakenshield
+264;179;106;128;;Southshield
+265;159;90;64;;Westbrook
+266;173;34;64;;Smallwood
+267;130;70;255;;Highgarden
+268;131;86;128;;Cider Hall
+269;32;104;192;;New Barrel
+270;145;150;192;;Ashford
+271;160;106;255;;Manderford
+272;174;38;192;;Norcross
+273;46;40;255;;Dunnsbridge
+274;149;70;128;;Brightwater Keep
+275;31;92;128;;Darkdell
+276;46;48;192;;Middlebury
+277;46;36;128;;Bardshome
+278;175;50;255;;Yelshire
+279;47;56;128;;Starpike
+280;20;68;64;;Horn Hill
+281;46;44;64;;Fawn Crag
+282;21;80;128;;Bandallon
+283;149;82;192;;Honeyholt
+284;174;42;0;;Sommerset
+285;149;78;64;;Blackcrown
+286;132;98;192;;Oldtown
+287;21;72;192;;Uplands
+288;174;46;128;;Hunt Hills
+289;21;76;0;;Three Towers
+290;149;74;255;;Sunhouse
+291;163;138;0;;Torrentpeak
+292;0;40;255;;The Arbor
+293;162;126;255;;Amberly
+294;18;36;0;;Felwood
+295;176;70;255;;Langward Hall
+296;146;34;255;;Bronzegate
+297;176;66;128;;Hadlow Keep
+298;18;156;64;;Haystack Hall
+299;48;244;64;;Parchments
+300;34;128;0;;Harvest Hall
+301;48;68;192;;Galemont
+302;161;122;128;;Grandview
+303;146;38;64;;Griffins Roost
+304;2;68;192;;Storms End
+305;128;42;0;;Tarth
+306;33;116;255;;Fawnton
+307;17;152;255;;Nightsong
+308;49;84;64;;Drakesgrave
+309;34;124;192;;Poddingfield
+310;33;120;64;;Gallowsgrey
+311;2;72;0;;Blackhaven
+312;147;50;128;;Summerhall
+313;48;72;0;;Adderdell
+314;18;40;128;;Crows Nest
+315;49;80;255;;Lonmouth
+316;147;42;192;;Stonehelm
+317;176;74;64;;Lockport
+318;34;132;128;;Broad Arch
+319;48;76;128;;Tudbury Hall
+320;19;44;255;;Rainwood
+321;177;82;0;;Blue Grove
+322;147;46;0;;Mistwood
+323;19;48;64;;Rain House
+324;177;78;192;;Weeping Tower
+325;49;88;192;;Rambton
+326;1;48;192;;Estermont
+327;148;62;192;;Blackmont
+328;20;60;128;;Princes Pass
+329;147;54;255;;Vultures Roost
+330;19;52;192;;Wyl
+331;20;56;0;;Kingsgrave
+332;20;64;255;;High Hermitage
+333;148;58;64;;Skyreach
+334;131;74;64;;Yronwood
+335;148;66;0;;Starfall
+336;34;136;255;;The Elbow
+337;22;84;255;;Sandstone
+338;3;76;128;;Hellholt
+339;177;86;128;;Red Dunes
+340;162;134;192;;Nymerwell
+341;150;86;0;;Scorched Rock
+342;153;138;64;;Ghaston Grey
+343;150;90;128;;The Tor
+344;22;88;64;;The Scourge
+345;22;92;192;;Vaith
+346;150;94;255;;Salt Shore
+347;151;98;64;;Ghost Hill
+348;151;102;192;;Spotswood
+349;23;100;128;;Godsgrace
+350;177;90;255;;Plankytown
+351;22;96;0;;Lemonwood
+352;3;84;64;;Sunspear
+353;35;140;64;;Stepstone #1
+354;168;210;77;Riverspring;
+355;0;0;205;Castlewood;
+356;42;3;78;True Flints;
+357;146;30;21;;Lonely Light
+358;126;9;79;;Bloodstone
+359;168;12;207;;Grey Gallows
+360;0;15;80;;Stepstone #2
+361;42;18;208;;Stepstone #3
+362;84;21;81;;Stepstone #4
+363;126;24;209;;Stepstone #5
+364;168;27;82;;Stepstone #6
+365;0;30;210;;Stepstone #7
+366;42;33;83;;Stepstone #8
+367;84;36;211;;Tyrosh
+368;126;39;84;;Lys
+369;168;42;212;;Disputed Lands #1
+370;0;45;85;;Disputed Lands #2
+371;42;48;213;;Disputed Lands #3
+372;84;51;86;;Disputed Lands #4
+373;126;54;214;;Disputed Lands #5
+374;168;57;87;;Disputed Lands #6
+375;0;60;215;;Disputed Lands #7
+376;42;63;88;;Disputed Lands #8
+377;84;66;216;;Disputed Lands #9
+378;126;69;89;;Myr
+379;168;72;217;;Flatlands #1
+380;0;75;90;;Flatlands #2
+381;42;78;218;;Flatlands #3
+382;84;81;91;;Flatlands #4
+383;126;84;219;;Flatlands #5
+384;168;87;92;;Flatlands #6
+385;0;90;220;;Flatlands #7
+386;42;93;93;;Flatlands #8
+387;84;96;221;;Flatlands #9
+388;126;99;94;;Flatlands #10
+389;168;102;222;;Flatlands #11
+390;0;105;95;;Flatlands #12
+391;42;108;223;;Flatlands #13
+392;84;111;96;;Flatlands #14
+393;126;114;224;;Flatlands #15
+394;168;117;97;;Flatlands #16
+395;0;120;225;;Flatlands #17
+396;42;123;98;;Flatlands #18
+397;84;126;226;;Flatlands #19
+398;126;129;99;;Flatlands #20
+399;168;132;227;;Flatlands #21
+400;0;135;0;;Flatlands #22
+401;42;138;128;;Flatlands #23
+402;84;141;1;;Flatlands #24
+403;126;144;129;;Flatlands #25
+404;168;147;2;;Flatlands #26
+405;0;150;130;;Flatlands #27
+406;42;153;3;;Pentos
+407;84;156;131;;Flatlands #28
+408;126;159;4;;Flatlands #29
+409;168;162;132;;Flatlands #30
+410;0;165;5;;Lhorulu
+411;42;168;133;;The Golden Fields #1
+412;84;171;6;;The Golden Fields #2
+413;126;174;134;;The Sorrows
+414;168;177;7;;Ny Sar
+415;0;180;135;;The Orange Shore #1
+416;42;183;8;;The Orange Shore #2
+417;84;186;136;;Volantis #1
+418;126;189;9;;Volantis #2
+419;168;192;137;;Volantis #3
+420;0;195;10;;Volon Therys
+421;42;198;138;;Sar Mell
+422;84;201;11;;Valysar
+423;126;204;139;;Selhorys
+424;168;207;12;;Rhoyne Lands #1
+425;0;210;140;;Rhoyne Lands #2
+426;42;0;13;;Rhoyne Lands #3
+427;84;3;141;;Rhoyne Lands #4
+428;126;6;14;;Dagger Lake
+429;168;9;142;;Ar Noy
+430;0;12;15;;Rhoyne Lands #5
+431;42;15;143;;Darkwater #1
+432;84;18;16;;Noyne
+433;42;87;63;;Norvos
+434;168;24;17;;Hills of Norvos #1
+435;0;27;145;;Hills of Norvos #2
+436;42;30;18;;Darkwater #2
+437;84;33;146;;Forest of Qohor #1
+438;126;36;19;;Darkwater #3
+439;168;39;147;;Darkwater #4
+440;0;42;20;;Darkwater #5
+441;42;45;148;;Hills of Norvos #3
+442;84;48;21;;Hills of Norvos #4
+443;126;51;149;;Hills of Norvos #5
+444;168;54;22;;Hills of Norvos #5
+445;0;57;150;;Coast of Norvos #1
+446;42;60;23;;Coast of Norvos #2
+447;84;63;151;;Coast of Norvos #3
+448;126;66;24;;Coast of Norvos #4
+449;168;69;152;;Andalos #1
+450;0;72;25;;Goyan Drohe
+451;42;75;153;;Andalos #2
+452;84;78;26;;Andalos #3
+453;126;81;154;;Andalos #4
+454;168;84;27;;Andalos #5
+455;0;87;155;;Andalos #6
+456;42;90;28;;Andalos #7
+457;84;93;156;;Andalos #8
+458;126;96;29;;Andalos #9
+459;168;99;157;;Andalos #10
+460;0;102;30;;Andalos #11
+461;42;105;158;;Braavosian Coastlands #1
+462;84;108;31;;Braavosian Coastlands #2
+463;126;111;159;;Hills of Braavos #1
+464;168;114;32;;Hills of Braavos #2
+465;0;117;160;;Hills of Braavos #3
+466;42;120;33;;Hills of Braavos #4
+467;84;123;161;;Hills of Braavos #5
+468;126;126;34;;Braavosian Fields
+469;168;129;162;;Braavos #1
+470;0;132;35;;Braavos #2
+471;42;135;163;;Lorath
+472;84;138;36;;Darkwater #7
+473;126;141;164;;Darkwater #8
+474;168;144;37;;The Axe #1
+475;0;147;165;;The Axe #2
+476;42;150;38;;Qohor
+477;84;153;166;;Forest of Qohor #2
+478;126;156;39;;Forest of Qohor #3
+479;168;159;167;;Forest of Qohor #4
+480;0;162;40;;Forest of Qohor #5
+481;42;165;168;;Rhoyne Lands #6
+482;84;168;41;;Rhoyne Lands #7
+483;126;171;169;;Coast of Volantis #1
+484;168;174;42;;Coast of Volantis #2
+485;0;177;170;;Coast of Volantis #3
+486;42;180;43;;Selhoru Swamps #1
+487;84;183;171;;Selhoru Swamps #2
+488;126;186;44;;Volaena Marshes #1
+489;168;189;172;;Volaena Marshes #2
+490;0;192;45;;Selhoru Swamps #3
+491;42;195;173;;Stone Head
+492;84;198;46;;Isle of Women
+493;126;201;174;;Last Lament
+494;168;204;47;;Walano #1
+495;0;207;175;;Walano #2
+496;42;210;48;;Lotus Port
+497;84;0;176;;Walano #3
+498;126;3;49;;Walano #4
+499;0;9;50;;Walano #5
+500;84;15;51;;Tall Trees Town
+501;168;21;52;;Walano #6
+502;0;24;180;;Koj
+503;42;27;53;;Isle of Birds
+504;84;30;181;;Omboru #1
+505;168;36;182;;Omboru #2
+506;0;39;55;;Omboru #3
+507;126;48;184;;Omboru #4
+508;168;51;57;;Omboru #5
+509;0;54;185;;Omboru #6
+510;84;60;186;;The Singing Stones
+511;126;63;59;;Exile #1
+512;168;66;187;;Exile #2
+513;0;69;60;;Exile #3
+514;42;72;188;;Isle of Love
+515;84;75;61;;Moluu
+516;126;78;189;;Fragrant Isle
+517;168;81;62;;Ebonhead
+518;0;84;190;;Sweet Lotus Vale #1
+519;126;21;144;;Jhala #1
+520;84;90;191;;Sweet Lotus Vale #2
+521;126;93;64;;Jhala #2
+522;168;96;192;;Jhala #3
+523;0;99;65;;Jhala #4
+524;42;102;193;;Red Flower Vale #1
+525;84;105;66;;Red Flower Vale #2
+526;126;108;194;;Red Flower Vale #3
+527;0;114;195;;Jhala #5
+528;42;117;68;;Red Flower Vale #4
+529;84;120;196;;Jhala #6
+530;126;123;69;;Jhala #7
+531;168;126;197;;Golden Head #1
+532;42;132;198;;Golden Head #2
+533;84;135;71;;Lizard Head
+534;126;138;199;;Xon
+535;168;141;72;;The Bones
+536;0;144;200;;Doquu
+537;42;147;73;;Valley of Essaria #1
+538;84;150;201;;Valley of Essaria #2
+539;126;153;74;;Hills of Essaria #1
+540;168;156;202;;Hills of Essaria #2
+541;0;159;75;;Hills of Essaria #3
+542;42;162;203;;Vaes Khadokh
+543;84;165;76;;Sarnor #1
+544;126;168;204;;Saath
+545;168;171;77;;Morosh
+546;0;174;205;;Vaes Graddakh
+547;42;177;78;;Sarnor #2
+548;84;180;206;;Sarnor #3
+549;126;183;79;;Sarnor #4
+550;168;186;207;;Sarnor #5
+551;0;189;80;;Sarnor #6
+552;42;192;208;;Sarnor #7
+553;84;195;81;;Vaes Khewo
+554;126;198;209;;Hills of Kasath #1
+555;168;201;82;;Vojjor Samui
+556;0;204;210;;Hills of Kasath #2
+557;42;207;83;;Sarnor #8
+558;84;210;211;;Omber #1
+559;126;0;84;;Omber #2
+560;168;3;212;;Omber #3
+561;0;6;85;;Vaes Athjikhari
+562;42;9;213;;Sarnor #9
+563;84;12;86;;Sarnor #10
+564;126;15;214;;Vaes Leqse
+565;168;18;87;;Yalli Qamayi
+566;0;21;215;;Walrus Point
+567;42;24;88;;Ifeqevron Forest #1
+568;84;27;216;;Ifeqevron Forest #2
+569;126;30;89;;Ifeqevron Forest #3
+570;168;33;217;;Ifeqevron Forest #4
+571;0;36;90;;Vaes Leisi
+572;42;39;218;;Ifeqevron Forest #5
+573;84;42;91;;Ifeqevron Forest #6
+574;126;45;219;;Ifeqevron Forest #7
+575;168;48;92;;Ifeqevron Forest #8
+576;0;51;220;;New Ibbish
+577;42;54;93;;Vaes Aresak
+578;84;57;221;;Ifeqevron Forest #9
+579;168;6;177;;Ib #1
+580;42;12;178;;Ib #2
+581;126;18;179;;Ib #3
+582;126;33;54;;Ib Nor
+583;42;42;183;;Ib #4
+584;42;57;58;;Ib #5
+585;168;111;67;;Port of Ibben
+586;0;129;70;;Ib #6
+587;126;60;94;;Ib #7
+588;168;63;222;;Ib #8
+589;0;66;95;;Ib #9
+590;84;45;56;;Whaler's Isles #1
+591;42;69;223;;Whaler's Isles #2
+592;84;72;96;;Whaler's Isles #3
+593;126;75;224;;Whaler's Isles #4
+594;168;78;97;;Far Ib
+595;0;81;225;;Ib Sar
+596;252;134;3;;Lands of the Long Summer
+597;170;68;124;;Valyria
+598;170;167;102;;Western Demon Road
+599;0;145;232;;Mantarys
+600;234;147;60;;Central Demon Road
+601;239;147;54;;Tolos
+602;242;187;201;;Elyria
+603;119;105;9;;Black Cliffs
+604;121;35;6;;Bhorash
+605;201;191;71;;Eastern Demon Road
+606;17;95;238;;Meereen
+607;119;55;9;;Khyzai Pass
+608;121;128;0;;No Man's Land
+609;128;112;0;;Yunkish Hills
+610;240;150;15;;Yunkai
+611;217;243;27;;Yunkish Fields
+612;247;80;23;;Slaver's Road
+613;215;40;45;;Astapor
+614;208;79;47;;Worm River
+615;180;138;92;;Yaros
+616;243;147;75;;Ghiscar Point
+617;214;131;56;;Baked Shore
+618;61;28;3;;Ghiscari Hills
+619;184;103;88;;Old Ghis
+620;233;190;22;;Ghiscari Shore
+621;192;158;80;;Ghozai
+622;188;105;84;;Velos
+623;177;157;95;;Elos
+624;241;160;52;;Ghaen
+625;185;129;87;;New Ghis
+626;83;196;15;;Naath
+627;84;177;141;;Worm River #2
+628;126;180;14;;Worm River #3
+629;168;183;142;;Yunkish Hills #2
+630;0;186;15;;Khyzai Pass #2
+631;42;189;143;;Ghiscar #1
+632;84;192;16;;Ghiscar #2
+633;126;195;144;;Ghiscar #3
+634;168;198;17;;Ghiscar #4
+635;0;201;145;;Ghiscar #5
+636;42;204;18;;Ghiscar #6
+637;84;207;146;;Meereenese Hills
+638;126;210;19;;Hesh
+639;168;0;147;;Lhazosh
+640;0;3;20;;Lhazar #1
+641;42;6;148;;Vaes Orvik
+642;84;9;21;;Port Yhos
+643;126;12;149;;Krazaaj Has
+644;168;15;22;;Vaes Meihah
+645;0;18;150;;Vaes Efe
+646;42;21;23;;Lhazar #2
+647;84;24;151;;Skahazadhan #1
+648;126;27;24;;Kosrak
+649;168;30;152;;Lhazar #3
+650;0;33;25;;Vaes Shirosi
+651;42;36;153;;Western Red Waste
+652;84;39;26;;Old Waste Road
+653;126;42;154;;Vaes Tolorro
+654;168;45;27;;Qarkash
+655;0;48;155;;Cape of Skulls
+656;42;51;28;;Vaes Qosar
+657;84;54;156;;Eastern Red Waste
+658;126;57;29;;Skahazadhan #2
+659;168;60;157;;Adakhakileki
+660;0;63;30;;Vaes Jini
+661;42;66;158;;Western Stone Road
+662;84;69;31;;Qarth #1
+663;126;72;159;;Qarth #2
+664;168;75;32;;Qarth #3
+665;0;78;160;;Southern Sand Road
+666;42;81;33;;Jade Point
+667;84;84;161;;Qal
+668;126;87;34;;Asabhadi Fields
+669;168;90;162;;Asabhad
+670;0;93;35;;Abaj
+671;42;96;163;;Northern Sand Road
+672;84;99;36;;Southern Bone Mountains
+673;126;102;164;;Asabhadi Hills
+674;168;105;37;;Bayasabhad
+675;0;108;165;;Central Bone Mountains
+676;42;111;38;;Bayasabhadi Fields
+677;84;114;166;;Eastern Stone Road
+678;126;117;39;;Samyriana
+679;168;120;167;;Samyrianan Fields
+680;0;123;40;;Kayakayanaya
+681;42;126;168;;Northern Bone Mountains
+682;84;129;41;;Steel Road
+683;126;132;169;;Howling Hills #1
+684;168;135;42;;Howling Hills #2
+685;0;138;170;;Jhogwin #1
+686;42;141;43;;Jhogwin #2
+687;84;144;171;;Jhogwin #3
+688;126;147;44;;Jhogwin #4
+689;168;150;172;;Painted Mountains #1
+690;0;153;45;;Painted Mountains #2
+691;42;156;173;;Painted Mountains #3
+692;84;159;46;;Painted Mountains #4
+693;126;162;174;;Painted Mountains #5
+694;168;165;47;;Dothraki Sea #1
+695;0;168;175;;Dothraki Sea #2
+696;42;171;48;;Dothraki Sea #3
+697;84;174;176;;Dothraki Sea #4
+698;126;177;49;;Dothraki Sea #5
+699;168;180;177;;Dothraki Sea #6
+700;0;183;50;;Vaes Diaf
+701;42;186;178;;Dothraki Sea #7
+702;84;189;51;;Dothraki Sea #8
+703;126;192;179;;Dothraki Sea #9
+704;168;195;52;;Dothraki Sea #10
+705;0;198;180;;Dothraki Sea #11
+706;42;201;53;;Dothraki Sea #12
+707;84;204;181;;Dothraki Sea #13
+708;126;207;54;;Dothraki Sea #14
+709;168;210;182;;Vaes Dothrak
+710;0;0;55;;Dothraki Sea #15
+711;42;3;183;;Dothraki Sea #16
+712;84;6;56;;Dothraki Sea #17
+713;126;9;184;;Dothraki Sea #18
+714;168;12;57;;Dothraki Sea #19
+715;0;15;185;;Dothraki Sea #20
+716;42;18;58;;Dothraki Sea #21
+717;84;21;186;;Dothraki Sea #22
+718;126;24;59;;Dothraki Sea #23
+719;168;27;187;;Faros
+720;0;30;60;;Moraq #1
+721;42;33;188;;Moraq #2
+722;84;36;61;;Moraq #3
+723;126;39;189;;Moraq Jungle #1
+724;168;42;62;;Moraq Jungle #2
+725;0;45;190;;Moraq Jungle #3
+726;42;48;63;;Moraq Jungle #4
+727;84;51;191;;Port Moraq
+728;126;54;64;;Zabhad
+729;168;57;192;;Vahar
+730;0;60;65;;Lesser Moraq #1
+731;42;63;193;;Lesser Moraq #2
+732;84;66;66;;Cinnamon Isles
+733;126;69;194;;Nameless Island #1
+734;168;72;67;;Nameless Island #2
+735;0;75;195;;Wyvern Point
+736;42;78;68;;Gorosh
+737;84;81;196;;Eastern Sothoryos Jungle
+738;126;84;69;;Sothoryos #1
+739;168;87;197;;Sothoryos #2
+740;0;90;70;;Yeen
+741;42;93;198;;Zamettar
+742;84;96;71;;Ax Isle
+743;126;99;199;;Skull Island
+744;168;102;72;;Isle of Toads
+745;0;105;200;;Western Sothoryos Jungle
+746;42;108;73;;Basilisk Point
+747;84;111;201;;Gogossos
+748;126;114;74;;The Lice
+749;168;117;202;;Basilisk Isle #1
+750;0;120;75;;Basilisk Isle #2
+751;42;123;203;;Basilisk Isle #3
+752;84;126;76;;Basilisk Isle #4
+753;126;129;204;;Basilisk Isle #5
+754;168;132;77;;Basilisk Isle #6
+755;0;135;205;;Valyrian Ruin #1
+756;42;138;78;;Tyria
+757;84;141;206;;Valyrian Ruin #2
+758;126;144;79;;Valyrian Ruin #3
+759;168;147;207;;Oros
+760;0;150;80;;Valyrian Ruin #4
+761;42;153;208;;Howling Bogs
+762;42;201;208;;Tyvis
+763;236;52;19;;Jade Road
+764;128;96;0;;Coast of Yin
+765;191;98;81;;Yin
+766;253;173;66;;Hidden City
+767;250;97;5;;Cape of Yin
+768;167;174;30;;Bay of Leng
+769;180;40;24;;The Yi Ti Delta
+770;222;97;44;;Jinqi
+771;223;187;43;;Sarahai
+772;169;244;11;;Darakesh
+773;209;172;46;;Jungle of Vines
+774;198;176;57;;Northern Jungle of Yi Ti
+775;223;128;32;;Gayanayalla
+776;215;67;40;;Southern Jungle of Yi Ti
+777;206;220;35;;Linqi
+778;182;136;73;;Central Jungle of Yi Ti
+779;231;169;24;;Western Jungle of Yi Ti
+780;172;239;16;;Tiqui
+781;115;164;40;;Road of Tiqui
+782;226;92;29;;Telahai
+783;215;193;40;;Hills of Tiqui
+784;160;221;34;;Hidden Jungles
+785;184;100;71;;The Yi Ti Wetlands
+786;69;245;10;;The Jade Jungle
+787;247;180;23;;Isle of Whips
+788;251;114;68;;Marahai
+789;245;186;169;;The Manticore Isles
+790;205;186;50;;Turrani
+791;221;94;51;;Leng Ma
+792;205;170;88;;Leng Yi
+793;221;174;34;;Jade Isle
+794;121;6;30;;Ulthos
+795;104;32;53;;Asshai
+796;188;147;84;;Stygai
+797;240;90;53;;Asshai'i Cost
+798;175;182;56;;Saffron Coast
+799;243;91;27;;Saffron Isle
+800;129;35;7;;Ulos
+801;187;128;83;;Eastern Shadow Mountains
+802;232;97;38;;Eastern Shadow Valley
+803;236;241;29;;Western Shadow Valley
+804;224;228;65;;Western Shadow Mountains
+805;213;170;43;;Shadow Coast
+806;247;104;9;;Shadow Plains
+807;240;167;30;;Southern Mounatins of the Morn
+808;243;122;50;;Carcosa
+809;166;223;32;;Hidden Valley
+810;128;149;62;;Hidden Shore
+811;223;215;43;;City of the Winged Men
+812;225;96;40;;Eastern Mountains of the Morn
+813;225;238;176;;Northern Mountains of the Morn
+814;241;188;216;;Cities of the Bloodless Men
+815;227;163;43;;The Dry Deep
+816;231;54;35;;Bonetown
+817;241;133;14;;Southern Cannibal Sands
+818;109;89;27;;K'Dath
+819;218;186;75;;Land of the Shrykes
+820;224;240;30;;The Five Forts
+821;126;148;63;;The Pass of the Morn
+822;192;175;80;;The Bleeding Marshes
+823;124;12;23;;The Grey Waste
+824;235;240;30;;Northern Cannibal Sands
+825;230;220;185;;Rosovny
+826;108;92;28;;Mosov Point
+827;183;249;45;;Eastern Forest of Mosovny
+828;251;240;43;;Gostov
+829;189;124;77;;Western Forest of Mosovny
+830;208;197;47;;Kosov
+831;245;191;184;;East N'Ghai
+832;243;50;50;;West N'Ghai
+833;222;70;48;;Northpoint
+834;236;189;30;;The Thousand Islands
+835;208;91;62;;Nefer
+836;227;177;28;;Fields of Nefer
+837;234;68;60;;Embonor
+838;203;197;69;;Leviathan Sound
+839;193;84;79;;Howling Point
+840;198;160;72;;Howling Bay
+841;247;183;207;;Howling Hills
+842;240;90;26;;Eastern Steel Road
+843;200;164;55;;Northern Great Sand Sea
+844;162;164;91;;Great Sand Road
+845;152;209;46;;Southern Great Sand Sea
+846;177;138;95;;North Trader Road
+847;200;223;32;;Trader Town
+848;247;217;9;;South Trader Road
+849;228;106;65;;The Shrinking Sea
+850;252;247;18;;Affazhat
+851;210;133;62;;Akkovarat
+852;245;109;10;;Qemmosor
+853;220;248;22;;Ithkoil
+854;185;151;87;;Drekat
+855;251;179;204;;The Bleeding Shore
+856;214;163;105;;Chomokh
+857;253;182;17;;Feshith
+858;245;72;48;;Halashir
+859;206;240;15;;Kazga
+860;108;169;41;;Athzalar
+861;254;175;235;;Melikh
+862;90;208;51;;Lanqoyi
+863;190;211;44;;Moskat
+864;226;128;29;;Nesolat
+865;225;88;30;;Yothnhare
+866;232;201;23;;Zanisshi
+867;109;219;36;;Ramasar
+868;247;151;9;;Qeso
+869;191;64;86;;Oholat
+870;209;62;46;;Hrazeffer
+871;193;247;9;;Fatilat
+872;205;196;50;;Veltor
+873;232;98;34;;Athniqar
+874;197;123;69;;Kolverikh
+875;168;69;36;;Qosarven
+876;230;46;36;;Chafaan
+877;5;200;200;;Old Anchor Bay
+878;6;200;250;;Central Narrow Sea #4
+879;7;220;250;;Shivering Sea #4
+880;8;250;250;;Frozen Lakes
+881;9;200;200;;Long Lake
+882;10;200;250;;Torrhen Lake
+883;11;220;250;;Rills Lakes
+884;12;250;250;;Gods Eye
+885;13;200;200;;Red Lake
+886;17;200;200;;Eastern Sunset Sea #1
+887;18;200;250;;Eastern Sunset Sea #2
+888;19;220;250;;Southern Sunset Sea #1
+889;20;250;250;;Western Dornish Coast
+890;21;200;200;;Eastern Dornish Coast
+891;22;200;250;;Arbor Coast
+892;23;220;250;;Torendine Gulf
+893;24;250;250;;Redwyne Straits
+894;25;200;200;;Central Sunset Sea #2
+895;26;200;250;;Whispering Sound
+896;27;220;250;;Garden Coast
+897;28;250;250;;Shield Sea
+898;29;200;200;;Central Sunset Sea #3
+899;30;200;250;;Coast of the Reach
+900;31;220;250;;Gulf of Lannisport
+901;32;250;250;;Central Sunset Sea #4
+902;33;200;200;;Central Sunset Sea #5
+903;34;200;250;;Cape Feast
+904;35;220;250;;Fair Sea
+905;36;250;250;;Central Sunset Sea #6
+906;37;200;200;;Northern Sunset Sea #1
+907;38;200;250;;Northern Sunset Sea #2
+908;39;220;250;;Northern Sunset Sea #3
+909;40;250;250;;Northern Sunset Sea #4
+910;41;200;200;;Northern Sunset Sea #5
+911;42;200;250;;Western Iron Islands
+912;43;220;250;;Eastern Iron Islands
+913;44;250;250;;Ironmans Bay
+914;45;200;200;;Gulf of The Neck
+915;46;200;250;;Cape Kracken
+916;47;220;250;;Blazewater Bay
+917;48;250;250;;Stoney Coast
+918;49;200;200;;Dragon Cape
+919;50;200;250;;Western Bay of Ice
+920;51;220;250;;Frozen Sea
+921;52;250;250;;Northern Sunset Sea #6
+922;53;200;200;;Broken Sea
+923;54;200;250;;Western Stepstones
+924;55;220;250;;Sea of Estermont
+925;56;250;250;;Eastern Sea of Dorne
+926;57;200;200;;Cape of Rains
+927;59;220;250;;Shipbreaker Bay
+928;60;250;250;;Emerald Sea
+929;61;200;200;;Masseys Hook
+930;63;220;250;;The Gullet
+931;64;250;250;;Eastern Blackwater Bay
+932;65;200;200;;Western Blackwater Bay
+933;66;200;250;;Dragonstone Sea
+934;67;220;250;;Claw Cape
+935;68;250;250;;Eastern Bay of Crabs
+936;69;200;200;;Western Bay of Crabs
+937;71;220;250;;Cape of Runes
+938;72;250;250;;Coast of the Vale
+939;73;200;200;;Southern Finger
+940;74;200;250;;Central Fingers
+941;75;220;250;;Northern Fingers
+942;76;250;250;;Eastern Bite
+943;77;200;200;;Western Bite
+944;78;200;250;;White Bay
+945;80;250;250;;Central Narrow Sea #4
+946;81;200;200;;Northern Narrow Sea #1
+947;82;200;250;;Rams Coast
+948;83;220;250;;Widows Cape
+949;84;250;250;;Sea of Sorrow
+950;85;200;200;;Gulf of Kar
+951;86;200;250;;Northern Narrow Sea #2
+952;87;220;250;;Northern Narrow Sea #3
+953;88;250;250;;Southern Bay of Seals
+954;89;200;200;;Northern Bay of Seals
+955;90;200;250;;Shivering Sea #1
+956;91;220;250;;Shivering Sea #2
+957;92;250;250;;Shivering Sea #3
+958;93;200;200;;Lower Mander
+959;94;200;250;;Greenblood River
+960;1;200;200;;Eastern Bay of Ice
+961;2;200;250;;Saltspear
+962;3;220;250;;Central Sunset Sea #1
+963;95;220;250;;Eastern Stepstones
+964;96;250;250;;Tyroshi Coast
+965;97;200;200;;Western Sea of Myrth
+966;98;200;250;;Flatlands Coast
+967;99;220;250;;Bay of Pentos
+968;100;250;250;;Southern Coast of Andalos
+969;101;200;200;;Northern Coast of Andalos
+970;102;200;250;;Bravoosian Coast
+971;103;220;250;;Cape of Braavos
+972;104;250;250;;Northern Narrow Sea #4
+973;105;200;200;;Lorath Bay
+974;106;200;250;;Sea of Lorath
+975;107;220;250;;Southwestern Shivering Sea #1
+976;108;250;250;;Coast of Norvos
+977;109;200;200;;Cape Axe
+978;110;200;250;;Coast of Qohor
+979;111;220;250;;Cape Morosh
+980;112;250;250;;Gulf of Sarys
+981;113;200;200;;Omber Sea
+982;114;200;250;;Bay of Tusks
+983;115;220;250;;Western Ifeqevron Sea
+984;116;250;250;;Eastern Ifeqevron Sea
+985;117;200;200;;Bay of Whales
+986;118;200;250;;Coast of Jhogwin
+987;119;220;250;;Southwestern Ibbenese Shore
+988;120;250;250;;Northwestern Ibbenese Shore
+989;121;200;200;;Northern Ibbenese Shore
+990;122;200;250;;Eastern Ibbenese Shore
+991;123;220;250;;Eastern Shivering Sea #1
+992;124;250;250;;Southern Shivering Sea #1
+993;125;200;200;;Southern Shivering Sea #2
+994;126;200;250;;Southwestern Shivering Sea #2
+995;127;220;250;;Central Shivering Sea #1
+996;128;250;250;;Central Shivering Sea #2
+997;129;200;200;;Central Shivering Sea #3
+998;130;200;250;;Central Shivering Sea #4
+999;131;220;250;;Central Shivering Sea #5
+1000;132;250;250;;Eastern Shivering Sea #2
+1001;133;200;200;;Eastern Sea of Myrth
+1002;134;200;250;;Central Narrow Sea #2
+1003;135;220;250;;Lysene Coast
+1004;136;250;250;;Orange Sea
+1005;137;200;200;;Gulf of Volantis
+1006;138;200;250;;Rhoyne
+1007;139;220;250;;Western Valyrian Sea
+1008;140;250;250;;Valyrian Straits
+1009;141;200;200;;Tyrian Straits
+1010;142;200;250;;The Smoking Sea
+1011;143;220;250;;Southern Valyrian Sea
+1012;144;250;250;;Western Gulf of Grief
+1013;145;200;200;;Eastern Gulf of Grief
+1014;146;200;250;;Western Slaver's Bay
+1015;147;220;250;;Eastern Slaver's Bay
+1016;148;250;250;;Ghiscari Strait
+1017;149;200;200;;Coast of Ghiscar
+1018;150;200;250;;Crimson Sea
+1019;151;220;250;;Jade Gates
+1020;152;250;250;;Gulf of Asabhad
+1021;153;200;200;;Northern Jade Sea
+1022;154;200;250;;Central Jade Sea #1
+1023;155;220;250;;Central Jade Sea #2
+1024;156;250;250;;Cape Moraq
+1025;157;200;200;;Southern Cinnamon Straits
+1026;158;200;250;;Western Jade Sea #1
+1027;159;220;250;;Northern Cinnamon Straits
+1028;160;250;250;;Coast of Faros
+1029;161;200;200;;Western Jade Sea #2
+1030;162;200;250;;Western Jade Sea #3
+1031;163;220;250;;Western Jade Sea #4
+1032;164;250;250;;Cape Wyvern
+1033;165;200;200;;Eastern Sothoryos Coast
+1034;166;200;250;;Central Sothoryos Coast
+1035;167;220;250;;Zamettar Delta
+1036;168;250;250;;Gulf of Gogossos
+1037;169;200;200;;Basilisk Straits
+1038;170;200;250;;Eastern Sea of the Basilisk
+1039;171;220;250;;Central Sea of the Basilisk
+1040;172;250;250;;Western Sea of the Basilisk
+1041;173;200;200;;Western Sothoryos Coast
+1042;174;200;250;;Coast of Naath
+1043;175;220;250;;Central Summer Sea #1
+1044;176;250;250;;Central Summer Sea #2
+1045;177;200;200;;Eastern Summer Sea #1
+1046;178;200;250;;Eastern Summer Sea #2
+1047;179;220;250;;Eastern Summer Sea #3
+1048;180;250;250;;Central Summer Sea #3
+1049;181;200;200;;Western Summer Sea #1
+1050;182;200;250;;Western Summer Sea #2
+1051;183;220;250;;Western Summer Sea #3
+1052;184;250;250;;Stone Sea
+1053;185;200;200;;Sea of Women
+1054;186;200;250;;Lotus Coast
+1055;187;220;250;;The Smiling Sea
+1056;188;250;250;;Sea of Love
+1057;189;200;200;;Indigo Straits
+1058;190;200;250;;Straits of Moluu
+1059;191;220;250;;Eastern Omboru Shore
+1060;192;250;250;;Western Coast of Jhala
+1061;193;200;200;;Parrot Bay
+1062;194;200;250;;Golden Bay
+1063;195;220;250;;Cape Lizard
+1064;196;250;250;;Western Summer Sea #4
+1065;197;200;200;;Eastern Coast of Jhala
+1066;198;200;250;;Southern Summer Sea #1
+1067;199;220;250;;Eastern Sunset Sea #3
+1068;200;250;250;;The Singing Sea
+1069;201;200;200;;Southeastern Sunset Sea #1
+1070;202;200;250;;Southeastern Sunset Sea #2
+1071;203;220;250;;Southeastern Sunset Sea #3
+1072;204;250;250;;Southeastern Sunset Sea #4
+1073;205;200;200;;Southern Sunset Sea #2
+1074;206;200;250;;Southern Sunset Sea #3
+1075;207;220;250;;Southern Sunset Sea #4
+1076;208;250;250;;The Sea of Sighs
+1077;209;200;200;;Womb of the World
+1078;210;200;250;;Poison Sea
+1079;211;220;250;;Dagger Lake
+1080;212;250;250;;Darkwater
+1081;213;200;200;;Noyne
+1082;4;250;250;;Western Sea of Dorne
+1083;0;223;248;;Mander
+1084;20;223;248;;Upper Mander
+1085;1;248;183;;Blackwater Rush
+1086;2;183;248;;Upper Blackwater
+1087;3;248;183;;God's River
+1088;4;183;248;;The Trident
+1089;5;248;183;;Blue Fork
+1090;6;183;248;;Upper Blue Fork
+1091;7;248;183;;Green Fork
+1092;8;173;255;;Upper Green Fork
+1093;9;248;183;;Red Fork
+1094;10;173;255;;Upper Red Fork
+1095;18;180;214;;Jade Coast
+1096;151;236;227;;Sea of Whips
+1097;5;226;204;;Jade Straits
+1098;149;191;238;;Southern Jade Sea
+1099;60;172;169;;Marahai Coast
+1100;136;162;251;;Central Jade Sea
+1101;154;186;233;;Coast of Yin
+1102;133;226;254;;Straits of Leng
+1103;91;174;164;;Bay of Leng
+1104;148;175;239;;Eastern Coast of Leng
+1105;138;224;249;;Coast of Jinqi
+1106;151;189;236;;Shadow Coast
+1107;155;227;232;;Southern Coast of Leng
+1108;148;166;239;;Central Jade Sea
+1109;152;208;235;;Manticore Sea
+1110;157;157;230;;Central Jade Sea
+1111;165;222;215;;Asshai'i Coast
+1112;143;210;243;;Southern Jade Sea
+1113;1;231;231;;Saffron Straits
+1114;77;137;155;;Saffron Sea
+1115;174;213;210;;Bay of Ulos
+1116;145;184;242;;Howling Coast
+1117;152;226;235;;Leviathan Sound
+1118;174;182;213;;Western Thousand Islands
+1119;47;113;221;;Eastern Thousand Islands
+1120;139;239;248;;Bay of Nefer
+1121;50;205;218;;Mosovny Coast
+1122;155;226;232;;Eastern Shivering Sea
+1123;88;180;177;;Eastern Shivering Sea
+1124;79;181;189;;Eastern Shivering Sea
+1125;150;206;237;;Eastern Shivering Sea
+1126;167;191;220;;Eastern Shivering Sea
+1127;165;219;222;;Hidden Sea
+1128;171;209;216;;Bleeding Sea
+1129;174;213;205;;Shrinking Sea
+1130;140;219;242;;Silver Sea
+1131;126;153;1;;Sunderland
+1132;158;66;254;;Moreland

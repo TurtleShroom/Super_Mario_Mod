@@ -1,0 +1,215 @@
+##########################################################################
+#				Mario Mod events and bugs
+##########################################################################
+#				Written by Shawn Gordon - aka AvroLancaster
+##########################################################################
+namespace = MARIONACTIONS
+# Vassal accepts religious conversion demand. 
+# Fired from 'on_vassal_accepts_religious_conversion'
+# FROMFROM is the demander. FROM is the vassal. ROOT is the character. Fires for the vassal and each of his courtiers and vassals.
+character_event = {
+	id = MARIONACTIONS.0
+	
+	hide_window = yes
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = { religion = FROMFROM }
+		OR = {
+			AND = {
+				is_ruler = no
+				NOT = { trait = zealous }
+				religion = FROM # Will not change religion if already different from the vassal's
+			}
+			character = FROM
+		}
+	}
+	
+	immediate = {
+		if = {
+			limit = {
+				character = FROM
+			}
+			opinion = {
+				who = FROMFROM
+				modifier = opinion_demanded_conversion
+			}
+			if = {
+				limit = {
+					prisoner = yes
+					host = {
+						character = FROMFROM
+					}
+				}
+				imprison = no
+			}
+		}
+	}
+	
+	option = { # No sympathy for the old religion
+		ai_chance = {
+			factor = 100
+		}
+		religion = FROMFROM
+		if = {
+			limit = {
+				religion_group = indian_group
+			}
+			character_event = { id = RoI.120 } # Assign Indian religion branch
+		if = {
+			limit = {
+				religion = happiness	
+			}
+			add_trait = happiness_religion_trait		#Give away the happiness religion's trait hopefully this will one day be unnecessary
+		}
+	}
+	
+	option = { # Sympathy for the old religion
+		ai_chance = {
+			factor = 100
+			modifier = {
+				factor = 0
+				OR = {
+					trait = zealous
+					NOT = { age = 12 }
+				}
+			}
+			modifier = {
+				factor = 10
+				trait = cynical
+				age = 12
+			}
+		}
+		if = {
+			limit = {
+				religion_group = christian
+			}
+			add_trait = sympathy_christendom
+		}
+		if = {
+			limit = {
+				religion_group = muslim
+			}
+			add_trait = sympathy_islam
+		}
+		if = {
+			limit = {
+				religion_group = pagan_group
+			}
+			add_trait = sympathy_pagans
+		}
+		if = {
+			limit = {
+				religion_group = zoroastrian_group
+			}
+			add_trait = sympathy_zoroastrianism
+		}
+		if = {
+			limit = {
+				religion_group = jewish_group
+			}
+			add_trait = sympathy_judaism
+		}
+		
+		religion = FROMFROM
+		if = {
+			limit = {
+				religion_group = indian_group
+			}
+			character_event = { id = RoI.120 } # Assign Indian religion branch
+		if = {
+			limit = {
+				religion = happiness	
+			}
+			add_trait = happiness_religion_trait		#Give away the happiness religion's trait hopefully this will one day be unnecessary
+		}
+		if = {
+			limit = {
+				religion = greed	
+			}
+			add_trait = greed_religion_trait		#Give away the happiness religion's trait hopefully this will one day be unnecessary
+		}
+			
+		}
+	}
+}
+
+character_event = {
+	id = MARIONACTIONS.1
+	desc = "EVTDESCHAPPINESS"
+	picture = "GFX_evt_birth"
+	
+	hide_FROM = yes
+	
+	is_triggered_only = yes 	
+	
+	trigger = {
+		religion = happiness
+		NOT = { trait = happiness_religion_trait }
+	}	
+	
+	option = {
+		name = "EVTOPT_YIPPEE"
+		add_trait = happiness_religion_trait
+	}
+}
+
+character_event = {
+	id = MARIONACTIONS.2
+	desc = "EVTDESCHAPPINESS"
+	picture = "GFX_evt_bishop"
+	
+	hide_FROM = yes
+	
+	is_triggered_only = yes 	
+	
+	trigger = {
+		religion = happiness
+		NOT = { trait = happiness_religion_trait }
+	}	
+	
+	option = {
+		name = "EVTOPT_YIPPEE"
+		add_trait = happiness_religion_trait
+	}
+}
+
+character_event = {
+	id = MARIONACTIONS.3
+	desc = "EVTDESCGREED"
+	picture = "GFX_evt_birth"
+	
+	hide_FROM = yes
+	
+	is_triggered_only = yes 	
+	
+	trigger = {
+		religion = greed
+		NOT = { trait = greed_religion_trait }
+	}	
+	
+	option = {
+		name = "EVTOPT_YIPPEE"
+		add_trait = greed_religion_trait
+	}
+}
+character_event = {
+	id = MARIONACTIONS.4
+	desc = "EVTDESCGREED"
+	picture = "GFX_evt_bishop"
+	
+	hide_FROM = yes
+	
+	is_triggered_only = yes 	
+	
+	trigger = {
+		religion = greed
+		NOT = { trait = greed_religion_trait }
+	}	
+	
+	option = {
+		name = "EVTOPT_YIPPEE"
+		add_trait = greed_religion_trait
+	}
+}

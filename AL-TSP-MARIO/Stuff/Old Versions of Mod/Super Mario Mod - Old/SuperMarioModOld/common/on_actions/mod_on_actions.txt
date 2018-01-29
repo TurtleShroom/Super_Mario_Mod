@@ -1,0 +1,34 @@
+# When a character accepts religious conversion (the diplomatic action)
+# FROMFROM is the demander. FROM is the vassal. ROOT is the character. Fires for the vassal and each of his courtiers and vassals.
+on_vassal_accepts_religious_conversion = {
+	events = {
+		MARIONACTIONS.0 # Hidden event actually changing the religion
+	}
+}
+# Character converts religion, for whatever reason. ROOT is the character after conversion and the FROM scope has the old religion.
+on_character_convert_religion = {
+	events = {
+		CM.10026
+		671 #set rival conversion flag if eligible  -----  This doesn't seem like a real event
+		MARIONACTIONS.2
+		MARIONACTIONS.4
+	}
+}
+# character
+on_birth = {
+	events = {
+		300 # A Bastard is born
+		312 # The child of a consort is born		
+		318 # A Bastard is born, but is not recognized as such by the mother's spouse (cuckoo!)
+		TOG.3206 # Child Perceived to be Demon Born
+		706 # Full House achievement
+		707 # Keeping it in the Family achievement
+		CM.10011 # Chronicle entry
+		MARIONACTIONS.1
+		MARIONACTIONS.3
+	}
+	random_events = {
+		200 = 0
+		1 = RoI.10000 # Reincarnation?
+	}
+}

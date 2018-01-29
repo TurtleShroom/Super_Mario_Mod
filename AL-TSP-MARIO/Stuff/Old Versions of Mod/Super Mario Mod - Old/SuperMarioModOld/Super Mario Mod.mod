@@ -1,0 +1,6 @@
+name = "Super Mario Mod"
+path = "mod/Super Mario Mod"
+user_dir = "Super Mario Mod"
+replace_path = "decisions"
+replace_path = "common\landed_titles"
+replace_path = "common\cb_types"

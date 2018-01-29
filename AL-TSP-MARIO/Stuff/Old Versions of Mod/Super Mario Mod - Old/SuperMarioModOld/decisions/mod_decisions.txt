@@ -1,0 +1,61 @@
+##########################################################################
+#				Mario Mod decisions and bugs
+##########################################################################
+#				Written by Shawn Gordon - aka AvroLancaster
+##########################################################################
+decisions = {
+#Seven Star Astrotheologian asks for a wish - right now wishes aren't specific.  They might get specific later.
+	make_a_wish = {
+		
+		is_high_prio = yes
+	
+		potential = {
+			religion = seven_stars
+		}
+		
+		allow = {
+			piety = 500
+		}
+		
+		effect = {
+			piety = -500
+			rightful_religious_head_scope = {
+				character_event = { id = MARIO.0 days = 5 random = 12 tooltip = "wish_ask" }
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	#Ztar Faith follower is a jackass
+	ztar_a_wish = {
+		
+		is_high_prio = yes
+	
+		potential = {
+			religion = ztar_faith
+		}
+		
+		allow = {
+			piety = 250
+			religion_authority = .5
+			any_realm_character = { religion = seven_stars }
+		}
+		
+		effect = {
+			piety = -500
+			random_realm_character = {
+				limit = { religion = seven_stars 
+						piety = 250 }
+				character_event = { id = MARIO.6 days = 5 random = 12 tooltip = "wish_ztar" }
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+}

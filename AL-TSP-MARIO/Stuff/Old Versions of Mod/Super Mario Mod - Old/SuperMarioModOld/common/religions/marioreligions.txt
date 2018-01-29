@@ -1,0 +1,261 @@
+astrotheology = {
+	has_coa_on_barony_only = yes
+	graphical_culture = westerngfx
+	crusade_cb = crusade
+	playable = yes
+	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
+	
+	ai_convert_same_group = 2 # always try to convert
+	ai_convert_other_group = 2 # always try to convert
+	
+	# Names given only to Astrotheologian characters (base names)
+	male_names = {
+		Star Aster Ash Sirius Aquila Aries Bootes Cancer Canes Canis Capricorn Centaur Cepheus Cetus Coma Borealis Corvus Crater Crux Cygnus Draco
+		Gemini Grus Hercules Hydrus Leo Lepus Lynx Octans Ophiuchus Orion Pavo Pegasus Perseus Phoenix Austrinus Puppis Sagittarius Scorpius 
+		Serpens Taurus Triangulum Australe Acamar Achernar Akrab Acrux Acubens Adhafera Fawaris Giedi Kalb Kurud Minliar Asad Nair Aladfar Alamak
+		Alaraph Alathfar Albaldah Albali Albireo Alchiba Alcor Alcyone Aldebaran Alderamin Aldhanab Aldhibain Aldib Alfecca Alfirk Algedi Algenib 
+		Algol Algorab Alhajoth Alkaid Alkalurops Alkes Almach Alnasl Alnilam Alnitak Alphard Alpheratz Alrai Alsciaukat Alshain Alshat Altair Altais
+		Altarf Alterf Alwaid Alzir Ankaa Antares Arcturus Arich Arkab Armus Arneb Arrakis Primus Secundus Tertius Aspidiske Asterion Asterope Atik 
+		Atlas Baham Baten Kaitos "Baten Kaitos" Becrux Benetnasch Betelgeuse Biham Botein Brachium Canopus Castor Celaeno Chara Cheleb Chertan 
+		Chort Chow Cor Caroli "Cor Caroli" Decrux Deneb "Deneb Algedi" Dulfim "Deneb Dulfim" Okab "Deneb el Okab" "Deneb Kaitos"  
+		"Deneb Kaitos Schemali" Denebola Dheneb Diadem Dnoces Dschubba Dubhe Duhr Etamin Eltanin Fomalhaut Fum "Fum al Samakah" Samakah Furud 
+		Gacrux Garnet Gianfar Gurab Girtab Grumium Haedus Haldus Hamal Ras "Ras Hammel" Hoedus Jabbah Kabdhilinan Kajam Kaus Keid Kochab
+		Kornephoros Kraz Kullat "Kullat Nunu" "La Superba" Superba Marfark Marfik Markab Matar Mekbuda Menkab Menkalinan Menkar Menkent Menkib
+		Merak Minkar Mizar Muliphein Murzim Al Saif "Nair Al Saif" Naos Nash Nekkar Nembus Nihal Nunki Nusakan Okul Polaris Cynosure Lodestar
+		Pollux Procyon Propus Izar Rana Algethi "Ras Algethi" "Ras Alhague" "Ras Elased" "Ras Thaoum" Rasalas Rastaban Regor Regulus Rigel 
+		"Rigil Kentaurus" Rigil Kentaurus Rijl Awwa "Rijl al Awwa" Rotanev Rukbah_Rukbah Rucbah_Rukbah Ksora Sadalmelik Sadalsuud Sadatoni Sadr
+		Salm Sargas Sarir Sceptrum Scheat Scheddi Schedir_Schedir Schedar_Schedir Segin_Segin Seginus_Segin Sham Sheratan Azimech Suhail Sulafat
+		Tegmen Tejat Thabit Theemin Thuban Tien Kwan "Tien Kwan" Torcularis Septentrionalis "Torcularis Septentrionalis" Tureis Tyl Unuk Unukalhai
+		Vega Wasat Wazn Wezen Yed Yildun Zaurak_Zaurak Zaurac_Zaurak Zavijava Zuben-el-Akrab Zuben Zuben-el-Akribi Akribi Zubenelgenubi_Zubenelgenubi
+		Zuben-el-genubi_Zubenelgenubi Genubi Lanx Zubeneschamali_Zubeneschamali Zuben-el-schemali_Zubeneschamali Schemali
+	}
+	female_names = {
+		Star Astrid Sirene Andromeda Aquarius Auriga Venatici Capricorn Carina Cassiopeia Columba Berenices Corona Australis Borealis Delphinus
+		Equuleus Eridanus Hydra Libra Lyra Phoenix Pisces Austrinus Sagitta Ursa Vela Virgo Vulpecula Achird Adhafera Adhara Ain Rai Kaphrah Niyat
+		Thalimain Alcyone Aldhafera Meridiana Algieba Alhena Alioth Alkes Alkurah Alniyat Alphecca Alrai Alrami Alrischa Alsafi Alshain Aludra Alula
+		Alya Ancha Angetenar Ankaa Ascella Asellus Askella Aspidiske Asterope Atria Auva Avior Azaleh Azelfafage Azha Azmidiske Mimosa Beid Bellatrix 
+		Benetnasch Betria Biham Bunda Canopus Capella Caph Cebalrai Chara Cor Caroli "Cor Caroli" Cursa Dabih Denebola Diphda Edasich Electra Elmuthalleth
+		Elnath Enif Errai Etamin "Garnet Star" Garnet Gatria Gemma Gianfar Gienah "Gienah Gurab" Gomeisa Gorgonea Tertia "Gorgonea Tertia" Hadar Hassaleh
+		Heka Heze Homam Hyadum Hydrobius Kaffaljidhma Kastra Media Kitalpha Nunu Kuma La Lesath Lucida Anseris "Lucida Anseris" Maasym Mahasim Maia Mebsuta
+		Megrez Meissa Menchib Merga Merope Mesarthim Miaplacidus Minchir Minelava Minkar Mintaka Mira Mirach Miram Mirfak Mirzam Misam Mothallah Muphrid
+		Mufrid Muscida Navi Nashira Peacock Phad Phecda Phekda Pherkad Pherkard Pleione Porrima Praecipua Pulcherrima Rana Rasalas Rukbat Sabik Sadachbia
+		Sadalbari Saiph Sarin Shaula Sheliak Sheratan Sinistra Situla Skat Spica Sterope Sualocin Subra Syrma Tabit Talitha Tania Tarazet Taygeta 
+		Tegmine Terebellum Beemin Vega Vindemiatrix Zaniah Zosma 
+	}
+	seven_stars = {
+		graphical_culture = westerngfx
+
+		icon = 53
+		heresy_icon = 54
+		
+		color = { 1.0 0.9 0.1 }
+		
+		crusade_name = CRUSADE
+		scripture_name = THE_STARS
+		priest_title = PRIEST
+		god_names = {
+			GOD_THE_STAR_SPIRITS GOD_THE_STARS
+		}
+		
+		evil_god_names = {
+			EVIL_SPIRITS
+		}
+		
+		piety_name = WISH
+		intermarry = happiness
+		intermarry = greed
+		priests_can_marry = yes
+		can_hold_temples = yes
+		female_temple_holders = yes
+		feminist = yes      # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 1
+	}
+	ztar_faith = {
+		graphical_culture = westerngfx
+
+		icon = 55
+		heresy_icon = 56
+		
+		color = { 0.25 0.27 0.38 }
+		parent = seven_stars
+		
+		crusade_name = CRUSADE
+		scripture_name = THE_ZTARS
+		priest_title = PRIEST
+		god_names = {
+			GOD_THE_ZTARS
+		}
+		
+		evil_god_names = {
+			EVIL_SPIRITS
+		}
+		
+		piety_name = WISH
+		intermarry = happiness
+		intermarry = greed
+		priests_can_marry = yes
+		can_hold_temples = yes
+		female_temple_holders = yes
+		feminist = yes      # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 1
+	}
+	
+	dark_star_faith = {
+		graphical_culture = westerngfx
+
+		icon = 57
+		heresy_icon = 58
+		
+		color = { 0 0 0 }
+		parent = seven_stars
+		
+		crusade_name = CRUSADE
+		scripture_name = THE_PROPHECIES
+		priest_title = PRIEST
+		god_names = {
+			GOD_THE_DARK_STAR
+		}
+		
+		evil_god_names = {
+			EVIL_SPIRITS
+		}
+		
+		piety_name = WISH
+		intermarry = happiness
+		intermarry = greed
+		priests_can_marry = yes
+		can_hold_temples = yes
+		female_temple_holders = yes
+		feminist = yes      # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 1
+	}
+	
+	shine_sprites = {
+		graphical_culture = westerngfx
+
+		icon = 59
+		heresy_icon = 60
+		
+		color = { 0.97 0.74 0.16 }
+		
+		crusade_name = CRUSADE
+		scripture_name = THE_SHINES
+		priest_title = PRIEST
+		god_names = {
+			GOD_THE_SHINE_SPRITES GOD_THE_SHINES
+		}
+		
+		evil_god_names = {
+			EVIL_SPIRITS
+		}
+		character_modifier = {
+			monthly_character_wealth = 0.8
+		}
+		
+		intermarry = happiness
+		intermarry = greed
+		priests_can_marry = yes
+		can_hold_temples = yes
+		female_temple_holders = yes
+		feminist = yes      # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 1
+	}
+	
+	}
+	
+primitive = {
+	has_coa_on_barony_only = yes
+	graphical_culture = westerngfx
+	crusade_cb = crusade
+	playable = yes
+	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
+	
+	ai_convert_same_group = 2 # always try to convert
+	ai_convert_other_group = 2 # always try to convert
+	
+	# Names given only to primitive characters (base names)
+	male_names = {
+		
+	}
+	female_names = {
+		
+	}
+	happiness = {
+		graphical_culture = westerngfx
+
+		icon = 61
+		heresy_icon = 62
+		
+		color = { 1 0 0 }
+		
+		crusade_name = CRUSADE
+		scripture_name = THE_SUPER_HAPPY_TREE
+		priest_title = PRIEST
+		god_names = {
+			GOD_THE_SUPER_HAPPY_TREE
+		}
+		
+		evil_god_names = {
+			EVIL_SPIRITS
+		}
+		character_modifier = {
+			general_opinion = 35
+		}
+		
+		aggression = 0.25
+		priests_can_marry = yes
+		can_hold_temples = yes
+		female_temple_holders = yes
+		feminist = yes      # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		
+		intermarry = astrotheology
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 1
+	}
+	greed = {
+		graphical_culture = westerngfx
+
+		icon = 63
+		heresy_icon = 64
+		
+		color = { 1 0 0 }
+		
+		crusade_name = CRUSADE
+		scripture_name = THE_CATALOGUE
+		priest_title = PRIEST
+		god_names = {
+			GOD_GREED_SPIRIT
+		}
+		
+		evil_god_names = {
+			EVIL_SPIRITS
+		}
+		character_modifier = {
+			stewardship = 4
+			diplomacy = -4
+			global_tax_modifier = 0.1
+		}
+		
+		piety_name = ENVY
+		priests_can_marry = yes
+		can_hold_temples = yes
+		female_temple_holders = yes
+		feminist = yes      # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		
+		intermarry = astrotheology
+		intermarry = primitive
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 1
+	}
+	
+	}
