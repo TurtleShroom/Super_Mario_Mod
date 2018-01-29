@@ -1,0 +1,12 @@
+# 4 - Stove Canyon
+
+# County Title
+title = c_stove_canyon
+
+# Settlements
+max_settlements = 1
+b_stove_canyon = castle
+
+# Misc
+culture = pirate
+religion = greed

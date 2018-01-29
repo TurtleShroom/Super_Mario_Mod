@@ -1,0 +1,12 @@
+# 79 - Jalapeno Beach
+
+# County Title
+title = c_jalapeno_beach
+
+# Settlements
+max_settlements = 1
+b_jalapeno_beach = city
+
+# Misc
+culture = jellyfish_islands
+religion = greed

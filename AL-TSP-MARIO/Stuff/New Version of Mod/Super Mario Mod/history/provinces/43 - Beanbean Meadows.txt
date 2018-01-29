@@ -1,0 +1,12 @@
+# 43 - Beanbean Meadows
+
+# County Title
+title = c_beanbean_meadows
+
+# Settlements
+max_settlements = 1
+b_beanbean_meadows = castle
+
+# Misc
+culture = beanbean_kingdom
+religion = seven_stars

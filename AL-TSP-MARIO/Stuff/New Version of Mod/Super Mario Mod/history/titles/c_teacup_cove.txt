@@ -1,0 +1,7 @@
+
+1984.9.13=
+{
+	holder = 9900004
+	liege = d_kitchen_island
+}
+

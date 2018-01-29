@@ -1,0 +1,36 @@
+#Example: Most of Europe north of med.
+mild_winter = {
+	# Kitchen Island
+	1 5 6
+	#Dinosaur Land
+	20
+	#Beanbean Kingdom
+	31 
+	#Isle Delfino
+	
+	
+}
+
+#Example: Inland Europe & Scandinavia
+normal_winter = {
+	# Kitchen Island
+	2 7
+	#Dinosaur Land
+	#Beanbean Kingdom
+	30 32 38 
+	#Isle Delfino
+	
+}
+
+#Example: Russia & Lappland
+severe_winter = {
+	# Kitchen Island
+	3 
+	#Dinosaur Land
+	#Beanbean Kingdom
+	42
+	#Isle Delfino
+	
+	
+	
+}

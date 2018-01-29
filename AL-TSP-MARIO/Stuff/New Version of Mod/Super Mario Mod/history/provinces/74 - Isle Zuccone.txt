@@ -1,0 +1,12 @@
+# 74 - Isle Zuccone
+
+# County Title
+title = c_isle_zuccone
+
+# Settlements
+max_settlements = 1
+b_isle_zuccone = city
+
+# Misc
+culture = turtle_islands
+religion = shine_sprites

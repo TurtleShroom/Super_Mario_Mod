@@ -1,0 +1,110 @@
+9960000 = {
+	name = "Santiago"
+	religion = shine_sprites
+	culture = fish_islands
+	dynasty = 9900600
+
+	
+	
+	1966.1.1 = { 
+		birth = yes
+
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}
+
+9960001 = {
+	name = "Sebastián"
+	religion = greed
+	culture = fish_islands
+	dynasty = 9900603
+
+	
+	
+	1966.1.1 = { 
+		birth = yes
+
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}
+
+9960002 = {
+	name = "Matías"
+	religion = greed
+	culture = fish_islands
+
+	
+	1966.1.1 = { 
+		birth = yes
+
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}
+
+9960003 = {
+	name = "Mateo"
+	religion = shine_sprites
+	culture = fish_islands
+
+	
+	1966.1.1 = { 
+		birth = yes
+
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}
+
+9960004 = {
+	name = "Nicolás"
+	religion = shine_sprites
+	culture = fish_islands
+
+	
+	1966.1.1 = { 
+		birth = yes
+
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}
+
+9960005 = {
+	name = "Alejandro"
+	religion = shine_sprites
+	culture = fish_islands
+
+	
+	1966.1.1 = { 
+		birth = yes
+
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}
+
+9960006 = {
+	name = "Diego"
+	religion = greed
+	culture = fish_islands
+	dynasty = 9900601
+
+	
+	
+	1966.1.1 = { 
+		birth = yes
+
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}

@@ -1,0 +1,12 @@
+# 7 - Syrup Castle
+
+# County Title
+title = c_syrup_castle
+
+# Settlements
+max_settlements = 1
+b_syrup_castle = castle
+
+# Misc
+culture = pirate
+religion = greed

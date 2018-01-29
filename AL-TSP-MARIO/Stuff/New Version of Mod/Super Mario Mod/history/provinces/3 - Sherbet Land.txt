@@ -1,0 +1,12 @@
+# 3 - Sherbet Land
+
+# County Title
+title = c_sherbet_land
+
+# Settlements
+max_settlements = 1
+b_sherbet_land = castle
+
+# Misc
+culture = pirate
+religion = greed

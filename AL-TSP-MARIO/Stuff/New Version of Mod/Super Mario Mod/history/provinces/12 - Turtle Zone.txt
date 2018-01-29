@@ -1,0 +1,12 @@
+# 12 - Turtle Zone
+
+# County Title
+title = c_turtle_zone
+
+# Settlements
+max_settlements = 1
+b_turtle_zone = castle
+
+# Misc
+culture = mushroom_kingdom
+religion = seven_stars

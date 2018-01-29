@@ -1,0 +1,12 @@
+# 64 - Bocca Beach
+
+# County Title
+title = c_bocca_beach
+
+# Settlements
+max_settlements = 1
+b_bocca_beach = city
+
+# Misc
+culture = crab_islands
+religion = shine_sprites

@@ -1,0 +1,6 @@
+name = "Super Mario Mod"
+path = "mod/Super Mario Mod"
+user_dir = "Super Mario Mod"
+replace_path = "map"
+replace_path = "history"
+replace_path = "common\bookmarks"

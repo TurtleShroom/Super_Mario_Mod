@@ -1,0 +1,12 @@
+# 61 - Tailfin Bay
+
+# County Title
+title = c_tailfin_bay
+
+# Settlements
+max_settlements = 1
+b_tailfin_bay = city
+
+# Misc
+culture = fish_islands
+religion = shine_sprites

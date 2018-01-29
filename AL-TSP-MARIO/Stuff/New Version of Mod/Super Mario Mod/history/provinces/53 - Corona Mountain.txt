@@ -1,0 +1,12 @@
+# 53 - Corona Mountain
+
+# County Title
+title = c_corona_mountain
+
+# Settlements
+max_settlements = 1
+b_corona_mountain = city
+
+# Misc
+culture = delfino
+religion = shine_sprites

@@ -1,0 +1,12 @@
+# 52 - Pianta Village
+
+# County Title
+title = c_pianta_village
+
+# Settlements
+max_settlements = 1
+b_pianta_village = city
+
+# Misc
+culture = delfino
+religion = shine_sprites

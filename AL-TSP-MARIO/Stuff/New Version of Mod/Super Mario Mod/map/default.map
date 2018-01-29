@@ -1,0 +1,32 @@
+max_provinces = 1483
+definitions = "definition.csv"
+provinces = "provinces.bmp"
+positions = "positions.txt"
+terrain = "terrain.bmp"
+rivers = "rivers.bmp"
+terrain_definition = "terrain.txt"
+heightmap = "topology.bmp"
+tree_definition = "trees.bmp"
+continent = "continent.txt"
+adjacencies = "adjacencies.csv"
+climate = "climate.txt"
+region = "island_region.txt"
+geographical_region = "geographical_region.txt"
+static = "static.txt"
+seasons = "seasons.txt"
+
+sea_zones = { 1039 1046 }
+sea_zones = { 1048 1052 }
+sea_zones = { 1054 1094 }
+sea_zones = { 1102 1301 }
+
+ocean_region = {	
+	sea_zones = { 1047 }
+	sea_zones = { 1053 }
+	sea_zones = { 1095 1101 }
+}
+
+# Define which indices in trees.bmp palette which should count as trees for automatic terrain assignment
+tree = { 3 4 7 10 }
+
+major_rivers = { 1410 1482 }

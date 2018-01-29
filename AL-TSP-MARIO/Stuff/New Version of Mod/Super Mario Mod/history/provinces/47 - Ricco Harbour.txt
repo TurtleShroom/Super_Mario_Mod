@@ -1,0 +1,12 @@
+# 47 - Ricco Harbour
+
+# County Title
+title = c_ricco_harbour
+
+# Settlements
+max_settlements = 1
+b_ricco_harbour = city
+
+# Misc
+culture = delfino
+religion = shine_sprites

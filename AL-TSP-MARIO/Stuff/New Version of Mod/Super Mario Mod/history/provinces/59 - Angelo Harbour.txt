@@ -1,0 +1,12 @@
+# 59 - Angelo Harbour
+
+# County Title
+title = c_angelo_harbour
+
+# Settlements
+max_settlements = 1
+b_angelo_harbour = city
+
+# Misc
+culture = fish_islands
+religion = shine_sprites

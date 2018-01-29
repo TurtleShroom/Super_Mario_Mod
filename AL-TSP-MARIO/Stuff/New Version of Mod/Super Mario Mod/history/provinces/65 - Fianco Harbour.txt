@@ -1,0 +1,12 @@
+# 65 - Fianco Harbour
+
+# County Title
+title = c_fianco_harbour
+
+# Settlements
+max_settlements = 1
+b_fianco_harbour = city
+
+# Misc
+culture = crab_islands
+religion = shine_sprites

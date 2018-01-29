@@ -1,0 +1,12 @@
+# 55 - Big Fish Island
+
+# County Title
+title = c_big_fish_island
+
+# Settlements
+max_settlements = 1
+b_big_fish_island = city
+
+# Misc
+culture = fish_islands
+religion = greed

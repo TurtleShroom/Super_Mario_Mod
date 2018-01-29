@@ -1,0 +1,12 @@
+# 58 - Dorsal Fin Bay
+
+# County Title
+title = c_dorsal_fin_bay
+
+# Settlements
+max_settlements = 1
+b_dorsal_fin_bay = city
+
+# Misc
+culture = fish_islands
+religion = shine_sprites

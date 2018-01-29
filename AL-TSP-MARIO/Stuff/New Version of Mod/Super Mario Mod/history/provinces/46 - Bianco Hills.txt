@@ -1,0 +1,12 @@
+# 46 - Bianco Hills
+
+# County Title
+title = c_bianco_hills
+
+# Settlements
+max_settlements = 1
+b_bianco_hills = city
+
+# Misc
+culture = delfino
+religion = shine_sprites

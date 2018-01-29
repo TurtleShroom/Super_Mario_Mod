@@ -1,0 +1,207 @@
+##########################################################################
+#				Mario Mod decisions and bugs
+##########################################################################
+#				Written by Shawn Gordon - aka AvroLancaster
+##########################################################################
+decisions = {
+#Seven Star Astrotheologian asks for a wish - right now wishes aren't specific.  They might get specific later.
+	make_a_wish = {
+		
+		is_high_prio = yes
+	
+		potential = {
+			religion = seven_stars
+		}
+		
+		allow = {
+			piety = 500
+		}
+		
+		effect = {
+			piety = -500
+			rightful_religious_head_scope = {
+				character_event = { id = MARIO.0 days = 5 random = 12 tooltip = "wish_ask" }
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	#Ztar Faith follower is a jackass
+	ztar_a_wish = {
+		
+		is_high_prio = yes
+	
+		potential = {
+			religion = ztar_faith
+		}
+		
+		allow = {
+			piety = 250
+			religion_authority = .5
+			any_realm_character = { religion = seven_stars }
+		}
+		
+		effect = {
+			piety = -500
+			random_realm_character = {
+				limit = { religion = seven_stars 
+						piety = 250 }
+				character_event = { id = MARIO.6 days = 5 random = 12 tooltip = "wish_ztar" }
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	#Test decision to see if I understand variable modding
+#	test_variable = {
+#		
+#		is_high_prio = yes
+#	
+#		potential = {
+#			ai = NO
+#		}
+#		
+#		allow = {
+#			always = YES
+#		}
+#		
+#		effect = {
+#			set_variable = { which = fartosaurus value = piety }
+#			wealth = fartosaurus
+#			clear_variable = { which = fartosaurus }
+#			}
+#		}
+#		
+
+	#Steal from liege
+steal_from_liege = {
+		
+		is_high_prio = yes
+	
+		potential = {
+			independent = NO
+			is_landed = YES
+			prisoner = NO
+			religion = greed
+		}
+		
+		allow = {
+			piety = 100
+		}
+		
+		effect = {
+			piety = -100
+			liege = {
+				character_event = { id = MARIO.10 days = 5 random = 12 tooltip = "steal" }
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				trait = craven
+			}
+			modifier = {
+				factor = 0.01
+				trait = content
+			}
+			modifier = {
+				factor = 0.5
+				wealth = 50
+			}
+			modifier = {
+				factor = 0.1
+				wealth = 100
+			}
+			modifier = {
+				factor = 0.5
+				opinion = { who = liege value = 0 }
+			}
+			modifier = {
+				factor = 0.5
+				opinion = { who = liege value = 25 }
+			}
+			modifier = {
+				factor = 0.5
+				opinion = { who = liege value = 50 }
+			}
+			modifier = {
+				factor = 0.5
+				opinion = { who = liege value = 75 }
+			}
+			modifier = {
+				factor = 0.5
+				opinion = { who = liege value = 100 }
+			}
+		}
+	}
+
+#Gambling Decision
+gamble_decision = {
+		
+		is_high_prio = yes
+	
+		potential = {
+			religion = gambling
+			NOT = { has_landed_title = d_gambling }
+		}
+		
+		allow = {
+		wealth = -500
+		}
+		
+		effect = {
+				character_event = { id = MARIO.11 tooltip = "gamble_tooltip" }
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				trait = craven
+			}
+			modifier = {
+				factor = 0.01
+				trait = content
+			}
+			modifier = {
+				factor = 1.5
+				wealth = 10
+			}
+			modifier = {
+				factor = 1.5
+				wealth = 100
+			}
+			modifier = {
+				factor = 1.5
+				wealth = 1000
+			}
+		}
+	}
+
+	
+#	#lololol
+#fuck_shit_up = {
+#		
+#		is_high_prio = yes
+#	
+#		potential = {
+#			ai = no
+#		}
+#		
+#		allow = {
+#		always = yes
+#		}
+#		
+#		effect = {
+#				any_independent_ruler = { character_event = { id = MARIO.1337 days = 31 random = 31 tooltip = "dang" } }
+#		}
+#	}
+}

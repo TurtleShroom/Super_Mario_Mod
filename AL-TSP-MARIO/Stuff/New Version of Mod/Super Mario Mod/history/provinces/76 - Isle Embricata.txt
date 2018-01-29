@@ -1,0 +1,12 @@
+# 76 - Isle Embricata
+
+# County Title
+title = c_isle_embricata
+
+# Settlements
+max_settlements = 1
+b_isle_embricata = city
+
+# Misc
+culture = turtle_islands
+religion = shine_sprites

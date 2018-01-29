@@ -1,0 +1,15 @@
+start_date = 1985.9.13
+last_start_date = 1985.9.13
+end_date = 9999.12.12
+
+character = {
+}
+
+diplomacy = {
+}
+
+economy = {
+}
+
+military = {
+}

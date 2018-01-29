@@ -1,0 +1,12 @@
+# 54 - Peach Beach
+
+# County Title
+title = c_peach_beach
+
+# Settlements
+max_settlements = 1
+b_peach_beach = city
+
+# Misc
+culture = delfino
+religion = shine_sprites

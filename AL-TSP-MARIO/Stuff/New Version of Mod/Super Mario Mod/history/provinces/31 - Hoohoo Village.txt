@@ -1,0 +1,12 @@
+# 31 - Hoohoo Village
+
+# County Title
+title = c_hoohoo_village
+
+# Settlements
+max_settlements = 1
+b_hoohoo_village = castle
+
+# Misc
+culture = hoohooligan
+religion = seven_stars

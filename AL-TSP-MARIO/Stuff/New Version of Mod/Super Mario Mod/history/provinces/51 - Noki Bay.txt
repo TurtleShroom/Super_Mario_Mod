@@ -1,0 +1,12 @@
+# 51 - Noki Bay
+
+# County Title
+title = c_noki_bay
+
+# Settlements
+max_settlements = 1
+b_noki_bay = city
+
+# Misc
+culture = delfino
+religion = shine_sprites

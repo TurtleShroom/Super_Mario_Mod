@@ -1,0 +1,12 @@
+# 73 - Isle Cuore
+
+# County Title
+title = c_isle_cuore
+
+# Settlements
+max_settlements = 1
+b_isle_cuore = city
+
+# Misc
+culture = turtle_islands
+religion = shine_sprites

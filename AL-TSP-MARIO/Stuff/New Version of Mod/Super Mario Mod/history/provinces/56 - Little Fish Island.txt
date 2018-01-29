@@ -1,0 +1,12 @@
+# 56 - Little Fish Island
+
+# County Title
+title = c_little_fish_island
+
+# Settlements
+max_settlements = 1
+b_little_fish_island = city
+
+# Misc
+culture = fish_islands
+religion = greed

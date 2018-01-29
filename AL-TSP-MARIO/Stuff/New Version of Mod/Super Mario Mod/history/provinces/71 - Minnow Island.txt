@@ -1,0 +1,12 @@
+# 71 - Minnow Island
+
+# County Title
+title = c_minnow_island
+
+# Settlements
+max_settlements = 1
+b_minnow_island = city
+
+# Misc
+culture = fish_islands
+religion = greed

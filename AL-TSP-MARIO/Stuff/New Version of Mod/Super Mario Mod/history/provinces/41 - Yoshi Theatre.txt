@@ -1,0 +1,12 @@
+# 41 - Yoshi Theatre
+
+# County Title
+title = c_yoshi_theatre
+
+# Settlements
+max_settlements = 1
+b_yoshi_theatre = castle
+
+# Misc
+culture = beanbean_kingdom
+religion = seven_stars

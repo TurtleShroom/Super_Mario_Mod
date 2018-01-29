@@ -1,0 +1,7 @@
+
+1984.9.13=
+{
+	holder = 9960002
+	liege = d_big_little_fish
+}
+

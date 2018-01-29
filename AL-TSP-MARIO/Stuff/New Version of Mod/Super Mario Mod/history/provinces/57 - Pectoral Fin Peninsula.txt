@@ -1,0 +1,12 @@
+# 57 - Pectoral Fin Peninsula
+
+# County Title
+title = c_pectoral_fin_peninsula
+
+# Settlements
+max_settlements = 1
+b_pectoral_fin_peninsula = city
+
+# Misc
+culture = fish_islands
+religion = shine_sprites

@@ -1,0 +1,12 @@
+# 72 - Isle Tartaruga
+
+# County Title
+title = c_isle_tartaruga
+
+# Settlements
+max_settlements = 1
+b_isle_tartaruga = city
+
+# Misc
+culture = turtle_islands
+religion = shine_sprites

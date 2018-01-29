@@ -1,0 +1,12 @@
+# 2 - Mount Teapot
+
+# County Title
+title = c_mount_teapot
+
+# Settlements
+max_settlements = 1
+b_mount_teapot = castle
+
+# Misc
+culture = pirate
+religion = greed
