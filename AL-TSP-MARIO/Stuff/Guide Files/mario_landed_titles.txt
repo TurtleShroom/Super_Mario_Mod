@@ -1,0 +1,8655 @@
+k_kitchen_island = {
+		color={ 193 208 24 }
+		color2={ 255 255 255 }
+		
+		d_kitchen_island = {
+			color={ 193 208 24 }
+			color2={ 255 255 255 }
+			
+			c_rice_beach = {
+				color={ 193 208 24 }
+				color2={ 255 255 255 }
+				
+				b_rice_beach = {
+				}
+			}
+				
+			c_mount_teapot = {
+				color={ 203 206 34 }
+				color2={ 255 255 255 }
+				
+				b_mount_teapot = {
+				}
+			}
+				
+			c_sherbet_land = {
+				color={ 206 200 44 }
+				color2={ 255 255 255 }
+				
+				b_sherbet_land = {
+				}
+			}
+				
+			c_stove_canyon = {
+				color={ 204 189 54 }
+				color2={ 255 255 255 }
+				
+				b_stove_canyon = {
+				}
+			}
+			
+			c_teacup_cove = {
+				color={ 204 180 64 }
+				color2={ 255 255 255 }
+				
+				b_teacup_cove = {
+				}
+			}
+			
+			c_parsley_forest = {
+				color={ 204 171 74 }
+				color2={ 255 255 255 }
+				
+				b_parsley_forest = {
+				}
+			}
+			
+			c_syrup_castle = {
+				color={ 204 162 84 }
+				color2={ 255 255 255 }
+				
+				b_syrup_castle = {
+				}
+			}
+		}
+	}
+	
+k_mario_land = {
+		color={ 127 0 0 }
+		color2={ 255 255 255 }
+				
+		d_mario_land = {
+			color={ 127 0 0 }
+			color2={ 255 255 255 }
+			
+			c_mario_castle = {
+				color={ 127 0 0 }
+				color2={ 255 255 255 }
+				
+				b_mario_castle = {
+				}
+				
+			c_toad_house = {
+				color={ 122 6 10 }
+				color2={ 255 255 255 }
+				
+				b_toad_house = {
+				}
+			}
+			
+			c_mario_zone = {
+				color={ 117 11 20 }
+				color2={ 255 255 255 }
+				
+				b_mario_zone = {
+				}
+			}
+			
+			c_pumpkin_zone = {
+				color={ 117 17 30 }
+				color2={ 255 255 255 }
+				
+				b_pumpkin_zone = {
+				}
+			}
+			
+			c_turtle_zone = {
+				color={ 114 22 40 }
+				color2={ 255 255 255 }
+				
+				b_turtle_zone = {
+				}
+			}
+			
+			c_macro_zone = {
+				color={ 112 28 50 }
+				color2={ 255 255 255 }
+				
+				b_macro_zone = {
+				}
+			}
+			
+			c_hippo_zone = {
+				color={ 109 32 60 }
+				color2={ 255 255 255 }
+				
+				b_hippo_zone = {
+				}
+			}
+			
+			c_tree_zone = {
+				color={ 109 38 70 }
+				color2={ 255 255 255 }
+				
+				b_tree_zone = {
+				}
+			}
+		}
+	}
+	
+k_dinosaur_island = {
+		color={ 118 38 6 }
+		color2={ 255 255 255 }
+		
+		d_dinosaur_island = {
+			color={ 118 38 6 }
+			color2={ 255 255 255 }
+			
+			c_yoshis_island_world_1 = {
+				color={ 118 38 6 }
+				color2={ 255 255 255 }
+				
+				b_yoshis_island_world_1 = {
+				}
+			}
+			
+			c_yoshis_island_world_2 = {
+				color={ 117 43 17 }
+				color2={ 255 255 255 }
+				
+				b_yoshis_island_world_2 = {
+				}
+			}
+			
+			c_yoshis_island_world_3 = {
+				color={ 114 48 26 }
+				color2={ 255 255 255 }
+				
+				b_yoshis_island_world_3 = {
+				}
+			}
+			
+			c_yoshis_island_world_4 = {
+				color={ 114 54 36 }
+				color2={ 255 255 255 }
+				
+				b_yoshis_island_world_4 = {
+				}
+			}
+			
+			c_yoshis_island_world_5 = {
+				color={ 114 59 46 }
+				color2={ 255 255 255 }
+				
+				b_yoshis_island_world_5 = {
+				}
+			}
+			
+			c_donut_plains = {
+				color={ 112 62 56 }
+				color2={ 255 255 255 }
+				
+				b_donut_plains = {
+				}
+			}
+			
+			c_vanilla_dome = {
+				color={ 112 68 66 }
+				color2={ 255 255 255 }
+				
+				b_vanilla_dome = {
+				}
+			}
+			
+			c_twin_bridges = {
+				color={ 112 73 76 }
+				color2={ 255 255 255 }
+				
+				b_twin_bridges = {
+				}
+			}
+			
+			c_forest_of_illusion = {
+				color={ 112 78 86 }
+				color2={ 255 255 255 }
+				
+				b_forest_of_illusion = {
+				}
+			}
+			
+			c_chocolate_island = {
+				color={ 112 84 96 }
+				color2={ 255 255 255 }
+				
+				b_chocolate_island = {
+				}
+			}
+			
+			c_bowsers_reef = {
+				color={ 112 89 106 }
+				color2={ 255 255 255 }
+				
+				b_bowsers_reef = {
+				}
+			}
+		}
+	}
+
+k_beanbean_kingdom = {
+		color={ 11 94 9 }
+		color2={ 255 255 255 }
+	
+		d_beanbean_kingdom = {
+			color={ 11 94 9 }
+			color2={ 255 255 255 }
+		
+			c_beanbean_castle = {
+				color={ 11 94 9 }
+				color2={ 255 255 255 }
+				
+				b_beanbean_castle = {
+				}
+			}
+			
+			c_beanbean_airport = {
+				color={ 16 91 19 }
+				color2={ 255 255 255 }
+				
+				b_beanbean_airport = {
+				}
+			}
+			
+			c_beanbean_swamp = {
+				color={ 20 89 28 }
+				color2={ 255 255 255 }
+				
+				b_beanbean_swamp = {
+				}
+			}
+			
+			c_stardust_fields = {
+				color={ 29 89 38 }
+				color2={ 255 255 255 }
+				
+				b_stardust_fields = {
+				}
+			}
+			
+			c_hoohoo_village = {
+				color={ 33 89 48 }
+				color2={ 255 255 255 }
+				
+				b_hoohoo_village {
+				}
+			}
+			
+			c_hoohoo_mountain = {
+				color={ 36 86 57 }
+				color2={ 255 255 255 }
+				
+				b_hoohoo_mountain = {
+				}
+			}
+			
+			c_chateau_de_chucklehuck = {
+				color={ 40 86 67 }
+				color2={ 255 255 255 }
+				
+				b_chateau_de_chucklehuck = {
+				}
+			}
+			
+			c_chucklehuck_woods = {
+				color={ 44 84 77 }
+				color2={ 255 255 255 }
+				
+				b_chucklehuck_woods = {
+				}
+			}
+			
+			c_woohoo_university = {
+				color={ 46 81 87 }
+				color2={ 255 255 255 }
+				
+				b_woohoo_university = {
+				}
+			}
+			
+			c_oho_oasis = {
+				color={ 50 81 97 }
+				color2={ 255 255 255 }
+				
+				b_oho_oasis = {
+				}
+			}
+			
+			c_teehee_valley = {
+				color={ 52 79 107 }
+				color2={ 255 255 255 }
+				
+				b_teehee_valley {
+				}
+			}
+			
+			c_little_fungitown = {
+				color={ 56 79 117 }
+				color2={ 255 255 255 }
+				
+				b_little_fungitown = {
+				}
+			}
+			
+			c_guffawha_ruins = {
+				color={ 59 79 127 }
+				color2={ 255 255 255 }
+				
+				b_guffawha_ruins = {
+				}
+			}
+			
+			c_gwarhar_lagoon = {
+				color={ 63 79 137 }
+				color2={ 255 255 255 }
+				
+				b_gwarhar_lagoon = {
+				}
+			}
+			
+			c_yoshi_theatre = {
+				color={ 64 76 146 }
+				color2={ 255 255 255 }
+				
+				b_yoshi_theatre = {
+				}
+			}
+			
+			c_jokes_end = {
+				color={ 68 76 156 }
+				color2={ 255 255 255 }
+				
+				b_jokes_end = {
+				}
+			}
+			
+			c_beanbean_meadows = {
+				color={ 71 76 166 }
+				color2={ 255 255 255 }
+				
+				b_beanbean_meadows = {
+				}
+			}
+		}
+	}
+	
+k_isle_delfino = {
+		color={ 255 150 0 }
+		color2={ 255 255 255 }
+	
+		d_isle_delfino = {
+			color={ 255 150 0 }
+			color2={ 255 255 255 }
+		
+			c_delfino_airstrip = {
+				color={ 255 150 0 }
+				color2={ 255 255 255 }
+				
+				b_delfino_airstrip = {
+				}
+			}
+			
+			c_delfino_plaza ={
+				color={ 232 175 20 }
+				color2={ 255 255 255 }
+				
+				b_delfino_plaza = {
+				}
+			}
+			
+			c_bianco_hills = {
+				color={ 206 183 37 }
+				color2={ 255 255 255 }
+				
+				c_bianco_hills = {
+				}
+			}
+			
+			c_ricco_harbour = {
+				color={ 181 183 49 }
+				color2={ 255 255 255 }
+				
+				b_ricco_harbour = {
+				}
+			}
+			
+			c_gelato_beach = {
+				color={ 142 158 56 }
+				color2={ 255 255 255 }
+				
+				b_gelato_beach = {
+				}
+			}
+			
+			c_pinna_island = {
+				color={ 112 135 60 }
+				color2={ 255 255 255 }
+				
+				b_pinna_island = {
+				}
+			}
+			
+			c_sirena_beach = {
+				color={ 86 109 59 }
+				color2={ 255 255 255 }
+				
+				b_sirena_beach = {
+				}
+			}
+			
+			c_noki_bay = {
+				color={ 69 86 57 }
+				color2={ 255 255 255 }
+				
+				b_noki_bay = {
+				}
+			}
+			
+			c_pianta_village = {
+				color={ 51 63 47 }
+				color2={ 255 255 255 }
+				
+				b_pianta_village = {
+				}
+			}
+			
+			c_corona_mountain = {
+				color={ 34 40 34 }
+				color2={ 255 255 255 }
+				
+				b_corona_mountain = {
+				}
+			}
+			
+			c_peach_beach = {
+				color={ 213 158 156 }
+				color2={ 255 255 255 }
+				
+				b_peach_beach = {
+				}
+			}
+		}
+	}
+
+k_fish_islands = {
+		color={ 255 150 50 }
+		color2={ 255 255 255 }
+		
+		d_fish_islands = {
+			color={ 255 150 50 }
+			color2={ 255 255 255 }
+			
+			c_big_fish_island = {
+				color={ 255 150 50 }
+				color2={ 255 255 255 }
+				
+				b_big_fish_island = {
+				}
+			}
+			
+			c_little_fish_island = {
+				color={ 255 150 100 }
+				color2={ 255 255 255 }
+				
+				b_little_fish_island = {
+				}
+			}
+			
+			c_pectoral_fin_peninsula = {
+				color={ 255 150 150 }
+				color2={ 255 255 255 }
+				
+				b_pectoral_fin_peninsula = {
+				}
+			}
+			
+			c_dorsal_fin_bay = {
+				color={ 255 150 200 }
+				color2={ 255 255 255 }
+				
+				b_dorsal_fin_bay = {
+				}
+			}
+			
+			c_angelo_harbour = {
+				color={ 255 150 250 }
+				color2={ 255 255 255 }
+				
+				b_angelo_harbour = {
+				}
+			}
+			
+			c_angelo_hills = {
+				color={ 250 100 255 }
+				color2={ 255 255 255 }
+				
+				b_angelo_hills = {
+				}
+			}
+			
+			c_tailfin_bay = {
+				color={ 200 50 255 }
+				color2={ 255 255 255 }
+				
+				b_tailfin_bay = {
+				}
+			}
+		}
+		
+		d_minnow_island = {
+			color={ 255 125 25 }
+			color2={ 255 255 255 }
+			
+			c_minnow_island = {
+				color={ 255 125 25 }
+				color2={ 255 255 255 }
+				
+				b_minnow_island = {
+				}
+			}
+		}
+	}
+
+k_crab_islands = {
+		color={ 255 130 0 }
+		color2={ 255 255 255 }
+		
+		d_crab_islands = {
+			color={ 255 130 0 }
+			color2={ 255 255 255 }
+			
+			c_grande_artiglio_island = {
+				color={ 255 130 0 }
+				color2={ 255 255 255 }
+				
+				b_grande_artiglio_island = {
+				}
+			}
+			
+			c_piccolo_artiglio_island = {
+				color={ 255 110 0 }
+				color2={ 255 255 255 }
+				
+				b_piccolo_artiglio_island = {
+				}
+			}
+			
+			c_bocca_beach = {
+				color={ 255 90 0 }
+				color2={ 255 255 255 }
+				
+				b_bocca_beach = {
+				}
+			}
+			
+			c_fianco_harbour = {
+				color={ 255 70 0 }
+				color2={ 255 255 255 }
+				
+				b_fianco_harbour = {
+				}
+			}
+			
+			c_corrazza_mountains = {
+				color={ 255 50 0 }
+				color2={ 255 255 255 }
+				
+				b_corrazza_mountains = {
+				}
+			}
+			
+			c_gamba_sinistra_islands = {
+				color={ 255 30 0 }
+				color2={ 255 255 255 }
+				
+				b_gamba_sinistra_islands = {
+				}
+			}
+			
+			c_gamba_destra_islands = {
+				color={ 255 10 0 }
+				color2={ 255 255 255 }
+				
+				b_gamba_destra_islands = {
+				}
+			}
+			
+			c_granchio_airport = {
+				color={ 245 0 0 }
+				color2={ 255 255 255 }
+				
+				b_granchio_airport = {
+				}
+			}
+			
+			c_booty_boardwalk = {
+				color={ 245 0 10 }
+				color2={ 255 255 255 }
+				
+				b_booty_boardwalk = {
+				}
+			}
+		}
+	}
+	
+k_turtle_islands = {
+		color={ 235 150 0 }
+		color2={ 255 255 255 }
+		
+		d_turtle_islands = {
+			color={ 235 150 0 }
+			color2={ 255 255 255 }
+			
+			c_isle_tartaruga = {
+				color={ 235 150 0 }
+				color2={ 255 255 255 }
+				
+				b_isle_tartaruga = {
+				}
+			}
+			
+			c_isle_cuore = {
+				color={ 215 150 0 }
+				color2={ 255 255 255 }
+				
+				b_isle_cuore = {
+				}
+			}
+			
+			c_isle_zuccone = {
+				color={ 195 150 0 }
+				color2={ 255 255 255 }
+				
+				b_isle_zuccone = {
+				}
+			}
+			
+			c_isle_liuto = {
+				color={ 175 150 0 }
+				color2={ 255 255 255 }
+				
+				b_isle_liuto = {
+				}
+			}
+			
+			c_isle_embricata = {
+				color={ 155 150 0 }
+				color2={ 255 255 255 }
+				
+				b_isle_embricata = {
+				}
+			}
+			
+			c_isle_schiena_piatta = {
+				color={ 135 150 0 }
+				color2={ 255 255 255 }
+				
+				b_isle_schiena_piatta = {
+				}
+			}
+			
+			c_koopa_kabana = {
+				color={ 145 150 0 }
+				color2={ 255 255 255 }
+				
+				b_koopa_kabana = {
+				}
+			}
+		}
+	}
+	
+k_jellyfish_island = {
+		color={ 255 158 22 }
+		color2={ 255 255 255 }
+		
+		d_jellyfish_island = {
+			color={ 255 158 22 }
+			color2={ 255 255 255 }
+			
+			c_jalapeno_beach = {
+				color={ 255 158 22 }
+				color2={ 255 255 255 }
+				
+				b_jalapeno_beach = {
+				}
+			}
+			
+			c_habanero_harbour = {
+				color={ 255 171 53 }
+				color2={ 255 255 255 }
+				
+				b_habanero_harbour = {
+				}
+			}
+			
+			c_cayenne_cove = {
+				color={ 255 183 84 }
+				color2={ 255 255 255 }
+				
+				b_cayenne_cove = {
+				}
+			}
+			
+			c_banana_bay = {
+				color={ 255 196 114 }
+				color2={ 255 255 255 }
+				
+				b_banana_bay = {
+				}
+			}
+			
+			c_serrano_sound = {
+				color={ 255 207 145 }
+				color2={ 255 255 255 }
+				
+				b_serrano_sound = {
+				}
+			}
+			
+			c_bell_highlands = {
+				color={ 255 219 175 }
+				color2={ 255 255 255 }
+				
+				b_bell_highlands = {
+				}
+			}
+		}
+	}
+
+k_eel_islands = {
+		color={ 224 130 0 }
+		color2={ 255 255 255 }
+		
+		d_eel_islands = {
+			color={ 224 130 0 }
+			color2={ 255 255 255 }
+			
+			c_blood_orange_bay = {
+				color={ 224 130 0 }
+				color2={ 255 255 255 }
+				
+				b_blood_orange_bay = {
+				}
+			}
+			
+			c_sweet_orange_island = {
+				color={ 193 113 0 }
+				color2={ 255 255 255 }
+				
+				b_sweet_orange_island = {
+				}
+			}
+			
+			c_grapefruit_harbour = {
+				color={ 163 95 0 }
+				color2={ 255 255 255 }
+				
+				b_grapefruit_harbour = {
+				}
+			}
+			
+			c_lemon_archorage = {
+				color={ 132 77 0 }
+				color2={ 255 255 255 }
+				
+				b_lemon_archorage = {
+				}
+			}
+			
+			c_lime_lagoon = {
+				color={ 102 59 0 }
+				color2={ 255 255 255 }
+				
+				b_lime_lagoon = {
+				}
+			}
+			
+			c_tangerine_beach = {
+				color={ 71 41 0 }
+				color2={ 255 255 255 }
+				
+				b_tangerine_beach = {
+				}
+			}
+		}
+	}
+	
+k_mushroom_kingdom = {
+		color={ 255 100 255 }
+		color2={ 255 255 255 }
+		
+		d_mushroom_kingdom = {
+			color={ 255 100 255 }
+			color2={ 255 255 255 }
+			
+			c_lavalava_beach = {
+				color={ 255 100 255 }
+				color2={ 255 255 255 }
+				
+				b_lavalava_beach = {
+				}
+			}
+			
+			c_yoshis_village = {
+				color={ 255 110 255 }
+				color2={ 255 255 255 }
+				
+				b_yoshis_village = {
+				}
+			}
+			
+			c_mt_lavalava = {
+				color={ 255 120 255 }
+				color2={ 255 255 255 }
+				
+				b_mt_lavalava = {
+				}
+			}
+			
+			c_north_jade_jungle = {
+				color={ 255 130 255 }
+				color2={ 255 255 255 }
+				
+				b_north_jade_jungle = {
+				}
+			}	
+			
+			c_south_jade_jungle = {
+				color={ 255 140 255 }
+				color2={ 255 255 255 }
+				
+				b_south_jade_jungle = {
+				}
+			
+			c_toad_town = {
+				color={ 255 0 255 }
+				color2={ 255 255 255 }
+				
+				b_toad_town = {
+				}
+			}
+			
+			c_peachs_castle = {
+				color={ 255 10 255 }
+				color2={ 255 255 255 }
+				
+				b_peachs_castle = {
+				}
+			}
+			
+			c_west_goomba_road = {
+				color={ 255 20 255 }
+				color2={ 255 255 255 }
+				
+				b_west_goomba_road = {
+				}
+			}
+			
+			c_east_goomba_road = {
+				color={ 255 2 255 }
+				color2={ 255 255 255 }
+				
+				b_east_goomba_road = {
+				}
+			}
+			
+			c_goomba_fortress = {
+				color={ 255 12 255 }
+				color2={ 255 255 255 }
+				
+				b_goomba_fortress = {
+				}
+			}
+			
+			c_goomba_village = {
+				color={ 255 30 255 }
+				color2={ 255 255 255 }
+				
+				b_goomba_village = {
+				}
+				
+			c_miracle_landing = {
+				color={ 255 91 255 }
+				color2={ 255 255 255 }
+				
+				b_miracle_landing = {
+				}
+			}
+			
+			c_koopa_village = {
+				color={ 255 40 255 }
+				color2={ 255 255 255 }
+				
+				b_koopa_village = {
+				}
+			}
+			
+			c_pleasant_path - {
+				color={ 55 40 55 }
+				color2={ 255 255 255 }
+				
+				b_pleasant_path = {
+				}	
+			}
+			
+			c_koopa_bros_fortress = {
+				color={ 255 50 255 }
+				color2={ 255 255 255 }
+				
+				b_koopa_bros_fortress = {
+				}
+			}
+			
+			c_east_forever_forest = {
+				color={ 255 80 255 }
+				color2={ 255 255 255 }
+				
+				b_east_forever_forest = {
+				}
+			}
+			
+			c_south_forever_forest = {
+				color={ 55 80 55 }
+				color2={ 255 255 255 }
+				
+				b_south_forever_forest = {
+				}
+			}
+			
+			c_marios_house = {
+				color={ 255 90 255 }
+				color2={ 255 255 255 }
+				
+				b_marios_house = {
+				}
+			}
+			
+			c_toad_cliff = {
+				color={ 255 131 255 }
+				color2={ 255 255 255 }
+				
+				b_toad_cliff = {
+				}
+			}
+			
+			c_flower_fields = {
+				color={ 255 21 255 }
+				color2={ 255 255 255 }
+				
+				b_flower_fields = {
+				}
+			}
+			
+			c_shooting_star_summit = {
+				color={ 255 71 255 }
+				color2={ 255 255 255 }
+				
+				b_shooting_star_summit = {
+				}
+			}
+			
+			c_star_way = {
+				color={ 255 81 255 }
+				color2={ 255 255 255 }
+				
+				b_star_way = {
+				}
+			}
+			
+			c_star_haven = {
+				color={ 255 22 255 }
+				color2={ 255 255 255 }
+				
+				b_star_haven = {
+				}
+			}
+			
+			c_star_way_2 = {
+				color={ 255 32 255 }
+				color2={ 255 255 255 }
+
+				b_star_way_2 = {
+				}
+			}
+			
+			c_shiver_city = {
+				color={ 255 31 255 }
+				color2={ 255 255 255 }
+				
+				b_shiver_city = {
+				}
+			}
+			
+			c_shiver_mountain = {
+				color={ 255 41 255 }
+				color2={ 255 255 255 }
+				
+				b_shiver_mountain = {
+				}
+			}
+			
+			c_shiver_snowfield = {
+				color={ 255 51 255 }
+				color2={ 255 255 255 }
+				
+				b_shiver_snowfield = {
+				}
+			}
+			
+			c_starborn_valley = {
+				color={ 255 81 255 }
+				color2={ 255 255 255 }
+				
+				b_starborn_valley = {
+				}
+			}
+			
+			c_crystal_palace = {
+				color={ 255 77 255 }
+				color2={ 255 255 255 }
+				
+				b_crystal_palace = {
+				}
+			}
+			
+			c_hollijolli_village = {
+				color={ 255 101 255 }
+				color2={ 255 255 255 }
+				
+				b_hollijolli_village = {
+				}
+			}
+			
+			c_seasons_greens = {
+				color={ 255 111 255 }
+				color2={ 255 255 255 }
+				
+				b_seasons_greens = {
+				}
+			}
+			
+			c_hollijolli_mushroom_patch = {
+				color={ 255 121 255 }
+				color2={ 255 255 255 }
+				
+				b_hollijolli_mushroom_patch ={
+				}
+			}
+			
+			c_luigis_mansion = {
+				color={ 255 141 255 }
+				color2={ 255 255 255 }
+				
+				b_luigis_mansion = {
+				}
+			}
+			
+			c_luigis_new_mansion = {
+				color={ 255 151 255 }
+				color2={ 255 255 255 }
+				
+				b_luigis_new_mansion = {
+				}
+			}
+			
+			c_gloomy_manor = {
+				color={ 255 161 255 }
+				color2={ 255 255 255 }
+				
+				b_gloomy_manor = {
+				}
+			}
+			
+			c_haunted_towers = {
+				color={ 255 171 255 }
+				color2={ 255 255 255 }
+				
+				b_haunted_towers = {
+				}
+			}
+			
+			c_secret_mine = {
+				color={ 255 181 255 }
+				color2={ 255 255 255 }
+				
+				b_secret_mine = {
+				}
+			}
+			
+			c_old_clockworks = {
+				color={ 255 191 255 }
+				color2={ 255 255 255 }
+				
+				b_old_clockworks = {
+				}
+			}
+			
+			c_treacherous_mansion = {
+				color={ 255 201 255 }
+				color2={ 255 255 255 }
+				
+				b_treacherous_mansion = {
+				}
+			}
+			
+			c_acorn_plains = {
+				color={ 255 211 255 }
+				color2={ 255 255 255 }
+				
+				b_acorn_plains = {
+				}
+			}
+			
+			c_layer_cake_desert = {
+				color={ 255 221 255 }
+				color2={ 255 255 255 }
+				
+				b_layer_cake_desert = {
+				}
+			}
+			
+			c_sparkling_waters = {
+				color={ 255 231 255 }
+				color2={ 255 255 255 }
+				
+				b_sparkling_waters = {
+				}
+			}
+			
+			c_frosted_glacier = {
+				color={ 255 241 255 }
+				color2={ 255 255 255 }
+				
+				b_frosted_glacier = {
+				}
+			}
+			
+			c_soda_jungle = {
+				color={ 255 251 255 }
+				color2={ 255 255 255 }
+				
+				b_soda_jungle = {
+				}
+			}
+			
+			c_rock_candy_mines = {
+				color={ 255 1 255 }
+				color2={ 255 255 255 }
+				
+				b_rock_candy_mines = {
+				}
+			}
+			
+			c_secret_island = {
+				color={ 255 11 255 }
+				color2={ 255 255 255 }
+				
+				b_secret_island = {
+				}
+			}
+			
+			c_shivering_mountains = {
+				color={ 255 42 255 }
+				color2={ 255 255 255 }
+				
+				b_shivering_mountains = {
+				}
+			}
+			
+			c_chilly_mountains = {
+				color={ 255 52 255 }
+				color2={ 255 255 255 }
+				
+				b_chilly_mountains = {
+				}
+			}
+			
+			c_chilly_waters = {
+				color={ 255 62 255 }
+				color2={ 255 255 255 }
+				
+				b_chilly_waters = {
+				}
+			}
+			
+			c_creepy_cavern = {
+				color={ 255 72 255 }
+				color2={ 255 255 255 }
+				
+				b_creepy_cavern = {
+				}
+			}
+			
+			c_dark_path = {
+				color={ 255 82 255 }
+				color2={ 255 255 255 }
+				
+				b_dark_path = {
+				}
+			}
+			
+			c_horror_land = {
+				color={ 255 92 255 }
+				color2={ 255 255 255 }
+				
+				b_horror_land = {
+				}
+			}
+			
+			c_haunted_hideaway = {
+				color={ 255 102 255 }
+				color2={ 255 255 255 }
+				
+				b_haunted_hideaway = {
+				}
+			}
+			
+			c_tycoon_town = {
+				color={ 255 112 255 }
+				color2={ 255 255 255 }
+				
+				b_tycoon_town = {
+				}
+			}
+			
+			c_rainbow_castle = {
+				color={ 255 122 255 }
+				color2={ 255 255 255 }
+				
+				b_rainbow_castle = {
+				}
+			}
+			
+			c_meadow_road = {
+				color={ 255 132 255 }
+				color2={ 255 255 255 }
+				
+				b_meadow_road = {
+				}
+			}
+			
+			c_minigame_house = {
+				color={ 255 142 255 }
+				color2={ 255 255 255 }
+				
+				b_minigame_house = {
+				}
+			}
+			
+			c_mushroom_village = {
+				color={ 255 152 255 }
+				color2={ 255 255 255 }
+				
+				b_mushroom_village = {
+				}
+			}
+			
+			c_minigame_island = {
+				color={ 255 162 255 }
+				color2={ 255 255 255 }
+				
+				b_minigame_island = {
+				}
+			}
+			
+			c_neon_heights = {
+				color={ 255 172 255 }
+				color2={ 255 255 255 }
+				
+				b_neon_heights = {
+				}
+			}
+			
+			c_shroom_city = {
+				color={ 255 182 255 }
+				color2={ 255 255 255 }
+				
+				b_shroom_city = {
+				}
+			}
+			
+			c_toad_road = {
+				color={ 255 192 255 }
+				color2={ 255 255 255 }
+				
+				b_toad_road = {
+				}
+			}
+			
+			c_towering_treetop = {
+				color={ 255 202 255 }
+				color2={ 255 255 255 }
+				
+				b_towering_treetop = {
+				}
+			}
+			
+			c_frappe_snowland = {
+				color={ 255 212 255 }
+				color2={ 255 255 255 }
+				
+				b_frappe_snowland = {
+				}
+			}
+			
+			c_ghost_valley = {
+				color={ 255 222 255 }
+				color2={ 255 255 255 }
+				
+				b_ghost_valley = {
+				}
+			}
+			
+			c_koopa_beach = {
+				color={ 255 232 255 }
+				color2={ 255 255 255 }
+				
+				b_koopa_beach = {
+				}
+			}
+			
+			c_koopa_cape = {
+				color={ 255 242 255 }
+				color2={ 255 255 255 }
+				
+				b_koopa_cape = {
+				}
+			}
+			
+			c_maple_treeway = {
+				color={ 255 252 255 }
+				color2={ 255 255 255 }
+				
+				b_maple_treeway = {
+				}
+			}
+			
+			c_moo_moo_meadows = {
+				color={ 255 3 255 }
+				color2={ 255 255 255 }
+				
+				b_moo_moo_meadows = {
+				}
+			}
+			
+			c_mount_wario = {
+				color={ 255 13 255 }
+				color2={ 255 255 255 }
+				
+				b_mount_wario = {
+				}
+			}
+			
+			c_mushroom_bridge = {
+				color={ 255 23 255 }
+				color2={ 255 255 255 }
+				
+				b_mushroom_bridge = {
+				}
+			}
+			
+			c_mushroom_gorge = {
+				color={ 255 33 255 }
+				color2={ 255 255 255 }
+				
+				b_mushroom_gorge = {
+				}
+			}
+			
+			c_music_park = {
+				color={ 255 43 255 }
+				color2={ 255 255 255 }
+				
+				b_music_park = {
+				}
+			}
+			
+			c_peach_gardens = {
+				color={ 255 53 255 }
+				color2={ 255 255 255 }
+				
+				b_peach_gardens = {
+				}
+			}
+			
+			c_pipe_plaza = {
+				color={ 255 63 255 }
+				color2={ 255 255 255 }
+				
+				b_pipe_plaza = {
+				}
+			}
+			
+			c_rainbow_road = {
+				color={ 255 73 255 }
+				color2={ 255 255 255 }
+				
+				b_rainbow_road = {
+				}
+			}
+			
+			c_ribbon_road = {
+				color={ 255 83 255 }
+				color2={ 255 255 255 }
+				
+				b_ribbon_road = {
+				}
+			}
+			
+			c_riverside_park = {
+				color={ 255 93 255 }
+				color2={ 255 255 255 }
+				
+				b_riverside_park = {
+				}
+			}
+			
+			c_rock_rock_mountain = {
+				color={ 255 103 255 }
+				color2={ 255 255 255 }
+				
+				b_rock_rock_mountain = {
+				}
+			}
+			
+			c_royal_raceway = {
+				color={ 255 113 255 }
+				color2={ 255 255 255 }
+				
+				b_royal_raceway = {
+				}
+			}
+			
+			c_shroom_bridge = {
+				color={ 255 123 255 }
+				color2={ 255 255 255 }
+				
+				b_shroom_bridge = {
+				}
+			}
+			
+			c_sky_garden = {
+				color={ 255 153 255 }
+				color2={ 255 255 255 }
+				
+				b_sky_garden = {
+				}
+			}
+			
+			c_sweet_sweet_canyon = {
+				color={ 255 163 255 }
+				color2={ 255 255 255 }
+				
+				b_sweet_sweet_canyon = {
+				}
+			}
+			
+			c_glare_desert = {
+				color={ 255 173 255 }
+				color2={ 255 255 255 }
+				
+				b_glare_desert = {
+				}
+			}
+			
+			c_boo_valley = {
+				color={ 255 183 255 }
+				color2={ 255 255 255 }
+				
+				b_boo_valley = {
+				}
+			}
+			
+			c_cheep_cheep_falls = {
+				color={ 255 193 255 }
+				color2={ 255 255 255 }
+				
+				b_cheep_cheep_falls = {
+				}
+			}
+			
+			c_koopa_park = {
+				color={ 255 203 255 }
+				color2={ 255 255 255 }
+				
+				b_koopa_park = {
+				}
+			}
+			
+			c_lakitu_valley = {
+				color={ 255 213 255 }
+				color2={ 255 255 255 }
+				
+				b_lakitu_valley = {
+				}
+			}
+			
+			c_marion = {
+				color={ 255 223 255 }
+				color2={ 255 255 255 }
+				
+				b_marion = {
+				}
+			}
+			
+			c_mount_mushmore = {
+				color={ 255 233 255 }
+				color2={ 255 255 255 }
+				
+				b_mount_mushmore = {
+				}
+			}
+			
+			c_sky_island = {
+				color={ 255 243 255 }
+				color2={ 255 255 255 }
+				
+				b_sky_island = {
+				}
+			}
+			
+			c_toad_highlands = {
+				color={ 255 253 255 }
+				color2={ 255 255 255 }
+				
+				b_toad_highlands = {
+				}
+			}
+			
+			c_mushroom_valley = {
+				color={ 255 4 255 }
+				color2={ 255 255 255 }
+				
+				b_mushroom_valley = {
+				}
+			}
+			
+			c_battle_fort = {
+				color={ 255 14 255 }
+				color2={ 255 255 255 }
+				
+				b_battle_fort = {
+				}
+			}
+			
+			c_big_boos_haunt = {
+				color={ 255 24 255 }
+				color2={ 255 255 255 }
+				
+				b_big_boos_haunt = {
+				}
+			}
+			
+			c_bomomb_battlefield = {
+				color={ 255 34 255 }
+				color2={ 255 255 255 }
+				
+				b_bomomb_battlefield = {
+				}
+			}
+			
+			c_shifting_sand_land = {
+				color={ 255 44 255 }
+				color2={ 255 255 255 }
+				
+				b_shifting_sand_land = {
+				}
+			}
+			
+			c_tall_tall_mountain = {
+				color={ 255 54 255 }
+				color2={ 255 255 255 }
+				
+				b_tall_tall_mountain = {
+				}
+			}
+			
+			c_whomps_fortress = {
+				color={ 255 64 255 }
+				color2={ 255 255 255 }
+				
+				b_whomps_fortress = {
+				}
+			}
+			
+			c_crater_field = {
+				color={ 255 74 255 }
+				color2={ 255 255 255 }
+				
+				b_crater_field = {
+				}
+			}
+			
+			c_apple_mountains = {
+				color={ 255 84 255 }
+				color2={ 255 255 255 }
+				
+				b_apple_mountains = {
+				}
+			}
+			
+			c_caveman_land = {
+				color={ 255 94 255 }
+				color2={ 255 255 255 }
+				
+				b_caveman_land = {
+				}
+			}
+			
+			c_cramalot = {
+				color={ 255 104 255 }
+				color2={ 255 255 255 }
+				
+				b_cramalot = {
+				}
+			}
+			
+			c_forest_of_perpetual_night_and_terrible_dangers = {
+				color={ 255 114 255 }
+				color2={ 255 255 255 }
+				
+				b_forest_of_perpetual_night_and_terrible_dangers = {
+				}
+			}
+			
+			c_dome_city = {
+				color={ 255 124 255 }
+				color2={ 255 255 255 }
+				
+				b_dome_city = {
+				}
+			}
+			
+			c_spy_land = {
+				color={ 255 134 255 }
+				color2={ 255 255 255 }
+				
+				b_spy_land = {
+				}
+			}
+			
+			c_fort_hard_knox = {
+				color={ 255 144 255 }
+				color2={ 255 255 255 }
+				
+				b_fort_hard_knox = {
+				}
+			}
+			
+			c_happy_harbour = {
+				color={ 255 154 255 }
+				color2={ 255 255 255 }
+				
+				b_happy_harbour = {
+				}
+			}
+			
+			c_koopacropolis = {
+				color={ 255 164 255 }
+				color2={ 255 255 255 }
+				
+				b_koopacropolis = {
+				}
+			}
+			
+			c_land_of_ice = {
+				color={ 255 174 255 }
+				color2={ 255 255 255 }
+				
+				b_land_of_ice = {
+				}
+			}
+			
+			c_land_of_romance = {
+				color={ 255 184 255 }
+				color2={ 255 255 255 }
+				
+				b_land_of_romance = {
+				}
+			}
+			
+			c_pasta_land = {
+				color={ 255 194 255 }
+				color2={ 255 255 255 }
+				
+				b_pasta_land = {
+				}
+			}
+			
+			c_pastadena = {
+				color={ 255 204 255 }
+				color2={ 255 255 255 }
+				
+				b_pastadena = {
+				}
+			}
+			
+			c_river_world = {
+				color={ 255 214 255 }
+				color2={ 255 255 255 }
+				
+				b_river_world = {
+				}
+			}
+			
+			c_shamrock_kingdom = {
+				color={ 255 224 255 }
+				color2={ 255 255 255 }
+				
+				b_shamrock_kingdom = {
+				}
+			}
+			
+			c_sharewood_forest = {
+				color={ 255 234 255 }
+				color2={ 255 255 255 }
+				
+				b_sharewood_forest = {
+				}
+			}
+			
+			c_sharewood_village = {
+				color={ 255 244 255 }
+				color2={ 255 255 255 }
+				
+				b_sharewood_village = {
+				}
+			}
+			
+			c_pudding_wonderland = {
+				color={ 255 254 255 }
+				color2={ 255 255 255 }
+				
+				b_pudding_wonderland = {
+				}
+			}
+			
+			c_razor_ridge = {
+				color={ 255 5 255 }
+				color2={ 255 255 255 }
+				
+				b_razor_ridge = {
+				}
+			}
+			
+			c_neon_hills = {
+				color={ 255 15 255 }
+				color2={ 255 255 255 }
+				
+				b_neon_hills = {
+				}
+			}
+			
+			c_stars_shadow = {
+				color={ 255 25 255 }
+				color2={ 255 255 255 }
+				
+				b_stars_shadow = {
+				}
+			}
+			
+			c_chilly_snowfield = {
+				color={ 255 35 255 }
+				color2={ 255 255 255 }
+				
+				b_chilly_snowfield = {
+				}
+			}
+			
+			c_pine_peaks = {
+				color={ 255 45 255 }
+				color2={ 255 255 255 }
+				
+				b_pine_peaks = {
+				}
+			}
+			
+			c_cedar_hills = {
+				color={ 255 55 255 }
+				color2={ 255 255 255 }
+				
+				b_cedar_hills = {
+				}
+			}
+			
+			c_sky_high_mountains = {
+				color={ 255 65 255 }
+				color2={ 255 255 255 }
+				
+				b_sky_high_mountains = {
+				}
+			}
+			
+			c_shivering_woods = {
+				color={ 255 75 255 }
+				color2={ 255 255 255 }
+				
+				b_shivering_woods = {
+				}
+			}
+			
+			c_toad_rift = {
+				color={ 255 85 255 }
+				color2={ 255 255 255 }
+				
+				b_toad_rift = {
+				}
+			}
+			
+			c_koopa_hollow = {
+				color={ 255 95 255 }
+				color2={ 255 255 255 }
+				
+				b_koopa_hollow = {
+				}
+			}
+			
+			c_steep_steep_cliffs = {
+				color={ 255 105 255 }
+				color2={ 255 255 255 }
+				
+				b_steep_steep_cliffs = {
+				}
+			}
+			
+			c_crazed_crag = {
+				color={ 255 115 255 }
+				color2={ 255 255 255 }
+				
+				b_crazed_crag = {
+				}
+			}
+			
+			c_golden_plains = {
+				color={ 255 125 255 }
+				color2={ 255 255 255 }
+				
+				b_golden_plains = {
+				}
+			}
+			
+			c_meadow_pastures = {
+				color={ 255 135 255 }
+				color2={ 255 255 255 }
+				
+				b_meadow_pastures = {
+				}
+			}
+			
+			c_rolling_hills_land = {
+				color={ 255 145 255 }
+				color2={ 255 255 255 }
+				
+				b_rolling_hills_land = {
+				}
+			}
+			
+			c_swing_expanse = {
+				color={ 255 155 255 }
+				color2={ 255 255 255 }
+				
+				b_swing_expanse = {
+				}
+			}
+			
+			c_long_long_trail = {
+				color={ 255 165 255 }
+				color2={ 255 255 255 }
+				
+				b_long_long_trail = {
+				}
+			}
+			
+			c_singing_grassland = {
+				color={ 255 175 255 }
+				color2={ 255 255 255 }
+				
+				b_singing_grassland = {
+				}
+			}
+			
+			c_snowflake_hills = {
+				color={ 255 185 255 }
+				color2={ 255 255 255 }
+				
+				b_snowflake_hills = {
+				}
+			}
+			
+			c_powder_valley = {
+				color={ 255 195 255 }
+				color2={ 255 255 255 }
+				
+				b_powder_valley = {
+				}
+			}
+			
+			c_bar_sands = {
+				color={ 255 205 255 }
+				color2={ 255 255 255 }
+				
+				b_bar_sands = {
+				}
+			}
+			
+			c_coldlium = {
+				color={ 255 215 255 }
+				color2={ 255 255 255 }
+				
+				b_coldlium = {
+				}
+			}
+			
+			c_frosty_frosty_tundra = {
+				color={ 255 225 255 }
+				color2={ 255 255 255 }
+				
+				b_frosty_frosty_tundra = {
+				}
+			}
+			
+			c_snowflake_valley = {
+				color={ 255 235 255 }
+				color2={ 255 255 255 }
+				
+				b_snowflake_valley = {
+				}
+			}
+			
+			c_bumpy_mesa = {
+				color={ 255 245 255 }
+				color2={ 255 255 255 }
+				
+				b_bumpy_mesa = {
+				}
+			}
+			
+			c_windswept_fields = {
+				color={ 255 6 255 }
+				color2={ 255 255 255 }
+				
+				b_windswept_fields = {
+				}
+			}
+			
+			c_breezy_bluff = {
+				color={ 255 16 255 }
+				color2={ 255 255 255 }
+				
+				b_breezy_bluff = {
+				}
+			}
+			
+			c_crazy_crag = {
+				color={ 255 26 255 }
+				color2={ 255 255 255 }
+				
+				b_crazy_crag = {
+				}
+			}
+			
+			c_floral_peaks = {
+				color={ 255 36 255 }
+				color2={ 255 255 255 }
+				
+				b_floral_peaks = {
+				}
+			}
+			
+			c_steel_cliffs = {
+				color={ 255 46 255 }
+				color2={ 255 255 255 }
+				
+				b_steel_cliffs = {
+				}
+			}
+			
+			c_hills_of_hate = {
+				color={ 255 56 255 }
+				color2={ 255 255 255 }
+				
+				b_hills_of_hate = {
+				}
+			}
+			
+			c_last_light = {
+				color={ 255 66 255 }
+				color2={ 255 255 255 }
+				
+				b_last_light = {
+				}
+			}
+			
+			c_lake_t = {
+				color={ 255 76 255 }
+				color2={ 255 255 255 }
+				
+				b_lake_t = {
+				}
+			}
+			
+			c_jones_ridge = {
+				color={ 255 86 255 }
+				color2={ 255 255 255 }
+				
+				b_jones_ridge = {
+				}
+			}
+			
+			c_prospectors_prospect = {
+				color={ 255 96 255 }
+				color2={ 255 255 255 }
+				
+				b_prospectors_prospect = {
+				}
+			}
+			
+			c_fungus_badlands = {
+				color={ 255 106 255 }
+				color2={ 255 255 255 }
+				
+				b_fungus_badlands = {
+				}
+			}
+			
+			c_antipasto_ridge = {
+				color={ 255 116 255 }
+				color2={ 255 255 255 }
+				
+				b_antipasto_ridge = {
+				}
+			}
+			
+			c_stardust_shadowlands = {
+				color={ 255 126 255 }
+				color2={ 255 255 255 }
+				
+				b_stardust_shadowlands = {
+				}
+			}
+			
+			c_misty_marsh = {
+				color={ 255 136 255 }
+				color2={ 255 255 255 }
+				
+				b_misty_marsh = {
+				}
+			}
+			
+			c_lucky_hills = {
+				color={ 255 146 255 }
+				color2={ 255 255 255 }
+				
+				b_lucky_hills = {
+				}
+			}
+			
+			c_windmill_marsh = {
+				color={ 255 156 255 }
+				color2={ 255 255 255 }
+				
+				b_windmill_marsh = {
+				}
+			}
+			
+			c_lollipop_lowlands = {
+				color={ 255 166 255 }
+				color2={ 255 255 255 }
+				
+				b_lollipop_lowlands = {
+				}
+			}
+			
+			c_turtles_teeth = {
+				color={ 255 176 255 }
+				color2={ 255 255 255 }
+				
+				b_turtles_teeth = {
+				}
+			}
+			
+			c_dusty_dunes = {
+				color={ 255 186 255 }
+				color2={ 255 255 255 }
+				
+				b_dusty_dunes = {
+				}
+			}
+			
+			c_harmony_hills = {
+				color={ 255 196 255 }
+				color2={ 255 255 255 }
+				
+				b_harmony_hills = {
+				}
+			}
+			
+			c_crescendo_ridge = {
+				color={ 255 206 255 }
+				color2={ 255 255 255 }
+				
+				b_crescendo_ridge = {
+				}
+			}
+			
+			c_decrescendo_swamp = {
+				color={ 255 216 255 }
+				color2={ 255 255 255 }
+				
+				b_decrescendo_swamp = {
+				}
+			}
+			
+			c_clamshell_riverbank = {
+				color={ 255 226 255 }
+				color2={ 255 255 255 }
+				
+				b_clamshell_riverbank = {
+				}
+			}
+			
+			c_goomba_dunes = {
+				color={ 255 236 255 }
+				color2={ 255 255 255 }
+				
+				b_goomba_dunes = {
+				}
+			}
+			
+			c_riverside_ranch = {
+				color={ 255 246 255 }
+				color2={ 255 255 255 }
+				
+				b_riverside_ranch = {
+				}
+			}
+			
+			c_orchard_hill = {
+				color={ 255 7 255 }
+				color2={ 255 255 255 }
+				
+				b_orchard_hill = {
+				}
+			}
+			
+			c_boulder_canyon = {
+				color={ 255 17 255 }
+				color2={ 255 255 255 }
+				
+				b_boulder_canyon = {
+				}
+			}
+			
+			c_koopa_causeway = {
+				color={ 255 27 255 }
+				color2={ 255 255 255 }
+				
+				b_koopa_causeway = {
+				}
+			}
+			
+			c_foogy_fields = {
+				color={ 255 37 255 }
+				color2={ 255 255 255 }
+				
+				b_foogy_fields = {
+				}
+			}
+			
+			c_autumn_grove = {
+				color={ 255 47 255 }
+				color2={ 255 255 255 }
+				
+				b_autumn_grove = {
+				}
+			}
+			
+			c_heartbreak_hill = {
+				color={ 255 57 255 }
+				color2={ 255 255 255 }
+				
+				b_heartbreak_hill = {
+				}
+			}
+			
+			c_cold_pines = {
+				color={ 255 67 255 }
+				color2={ 255 255 255 }
+				
+				b_cold_pines = {
+				}
+			}
+			
+			c_west_forever_forest = {
+				color={ 255 60 255 }
+				color2={ 255 255 255 }
+				
+				b_west_forever_forest = {
+				}
+			}
+			
+			c_boos_mansion = {
+				color={ 255 70 255 }
+				color2={ 255 255 255 }
+				
+				b_boos_mansion = {
+				}
+			}
+			
+			c_ice_cave = {
+				color={ 255 21 255 }
+				color2={ 255 255 255 }
+				
+				b_ice_cave = {
+				}
+			}
+		}
+	}
+k_mushroom_kingdom_south = {
+		color={ 255 0 175 }
+		color2={ 255 255 255 }
+		
+		d_mushroom_kingdom_south = {
+			color={ 255 0 175 }
+			color2={ 255 255 255 }
+		
+			c_mt_rugged = {
+				color={ 255 0 175 }
+				color2={ 255 255 255 }
+				
+				b_mt_rugged = {
+				}	
+			}
+			
+			c_high_dry_dry_desert = {
+				color={ 255 10 175 }
+				color2={ 255 255 255 }
+				
+				b_high_dry_dry_desert = {
+				}
+			}
+			
+			c_dry_dry_outpost = {
+				color={ 255 20 175 }
+				color2={ 255 255 255 }
+				
+				b_dry_dry_outpost = {
+				}
+			}
+			
+			c_dry_dry_temple_ruins = {
+				color={ 255 30 175 }
+				color2={ 255 255 255 }
+				
+				b_dry_dry_temple_ruins = {
+				}
+			}
+			
+			c_dry_dry_oasis = {
+				color={ 255 115 175 }
+				color2={ 255 255 255 }
+				
+				b_dry_dry_oasis = {
+				}
+			}
+			
+			c_parched_dry_dry_desert = {
+				color={ 255 125 175 }
+				color2={ 255 255 255 }
+				
+				b_parched_dry_dry_desert = {
+				}
+			}
+			
+			c_dry_dry_mountains = {
+				color={ 255 135 175 }
+				color2={ 255 255 255 }
+				
+				b_dry_dry_mountains = {
+				}
+			}
+			
+			c_dry_dry_outpost_region = {
+				color={ 255 145 175 }
+				color2={ 255 255 255 }
+				
+				b_dry_dry_outpost_region = {
+				}
+			}
+			
+			c_dry_dry_reaches = {
+				color={ 255 155 175 }
+				color2={ 255 255 255 }
+				
+				b_dry_dry_reaches = {
+				}
+			}
+			
+			c_northern_dry_ridge = {
+				color={ 255 165 175 }
+				color2={ 255 255 255 }
+				
+				b_northern_dry_ridge = {
+				}
+			}
+			
+			c_eastern_dry_area = {
+				color={ 255 175 175 }
+				color2={ 255 255 255 }
+				
+				b_eastern_dry_area = {
+				}
+			}
+			
+			c_western_ruin_area = {
+				color={ 255 185 175 }
+				color2={ 255 255 255 }
+				
+				b_western_ruin_area = {
+				}
+			}
+			
+			c_western_dry_dry_desert = {
+				color={ 255 195 175 }
+				color2={ 255 255 255 }
+				
+				b_western_dry_dry_desert = {
+				}
+			}
+			
+			c_southern_dry_dry_desert = {
+				color={ 255 205 175 }
+				color2={ 255 255 255 }
+				
+				b_southern_dry_dry_desert = {
+				}
+			}
+			
+			c_windy_mill = {
+				color={ 255 40 175 }
+				color2={ 255 255 255 }
+				
+				b_windy_mill = {
+				}
+			}
+			
+			c_gusty_gultch_town = {
+				color={ 255 50 175 }
+				color2={ 255 255 255 }
+				
+				b_gusty_gultch_town = {
+				}
+			}
+			
+			c_gusty_gultch = {
+				color={ 255 60 175 }
+				color2={ 255 255 255 }
+				
+				b_gusty_gultch = {
+				}
+			}
+			
+			c_tubba_blubbas_castle = {
+				color={ 255 70 175 }
+				color2={ 255 255 255 }
+				
+				b_tubba_blubbas_castle = {
+				}
+			}
+			
+			c_thwomp_volcano = {
+				color={ 255 80 175 }
+				color2={ 255 255 255 }
+				
+				b_thwomp_volcano = {
+				}
+			}
+			
+			c_thwomp_highlands = {
+				color={ 255 90 175 }
+				color2={ 255 255 255 }
+				
+				b_thwomp_highlands = {
+				}
+			}
+			
+			c_thwomp_foothills = {
+				color={ 255 100 175 }
+				color2={ 255 255 255 }
+				
+				b_thwomp_foothills = {
+				}
+			}
+			
+			c_e_gadd_outpost = {
+				color={ 255 110 175 }
+				color2={ 255 255 255 }
+				
+				b_e_gadd_outpost = {
+				}
+			}
+			
+			c_bowser_path = {
+				color={ 255 240 175 }
+				color2={ 255 255 255 }
+				
+				b_bowser_path = {
+				}
+			}
+			
+			c_western_gritzy_desert = {
+				color={ 255 120 175 }
+				color2={ 255 255 255 }
+				
+				b_western_gritzy_desert = {
+				}
+			}
+			
+			c_eastern_gritzy_desert = {
+				color={ 255 215 175 }
+				color2={ 255 255 255 }
+				
+				b_eastern_gritzy_desert = {
+				}
+			}
+			
+			c_gritzy_caves = {
+				color={ 255 130 175 }
+				color2={ 255 255 255 }
+				
+				b_gritzy_caves = {
+				}
+			}
+			
+			c_koopaseum = {
+				color={ 255 140 175 }
+				color2={ 255 255 255 }
+				
+				b_koopaseum = {
+				}
+			}
+			
+			c_blubble_lake = {
+				color={ 255 150 175 }
+				color2={ 255 255 255 }
+				
+				b_blubble_lake = {
+				}
+			}
+			
+			c_tower_of_yikk = {
+				color={ 255 160 175 }
+				color2={ 255 255 255 }
+				
+				b_tower_of_yikk = {
+				}
+			}
+			
+			c_blubble_islands = {
+				color={ 255 170 175 }
+				color2={ 255 255 255 }
+				
+				b_blubble_islands = {
+				}
+			}
+			
+			c_plack_beach = {
+				color={ 255 180 175 }
+				color2={ 255 255 255 }
+				
+				b_plack_beach = {
+				}
+			}
+			
+			c_plack_highlands = {
+				color={ 255 220 175 }
+				color2={ 255 255 255 }
+				
+				b_plack_highlands = {
+				}
+			}
+			
+			c_east_cavi_cape = {
+				color={ 255 190 175 }
+				color2={ 255 255 255 }
+				
+				b_east_cavi_cape = {
+				}
+			}
+			
+			c_cavi_plains = {
+				color={ 255 200 175 }
+				color2={ 255 255 255 }
+				
+				b_cavi_plains = {
+				}
+			}
+			
+			c_west_cavi_cape = {
+				color={ 255 210 175 }
+				color2={ 255 255 255 }
+				
+				b_west_cavi_cape = {
+				}
+			}
+			
+			c_dimple_woods = {
+				color={ 255 230 175 }
+				color2={ 255 255 255 }
+				
+				b_dimple_woods = {
+				}
+			}
+			
+			c_peaceful_warios_woods = {
+				color={ 255 161 175 }
+				color2={ 255 255 255 }
+				
+				b_peaceful_warios_woods = {
+				}
+			}
+			
+			c_battle_canyon = {
+				color={ 255 171 175 }
+				color2={ 255 255 255 }
+				
+				b_battle_canyon = {
+				}
+			}
+			
+			c_fairys_forest = {
+				color={ 255 181 175 }
+				color2={ 255 255 255 }
+				
+				b_fairys_forest = {
+				}
+			}
+			
+			c_yosu_lake = {
+				color={ 255 191 175 }
+				color2={ 255 255 255 }
+				
+				b_yosu_lake = {
+				}
+			}
+			
+			c_cloud_bird_mountain = {
+				color={ 255 201 175 }
+				color2={ 255 255 255 }
+				
+				b_cloud_bird_mountain = {
+				}
+			}
+			
+			c_blaze_cave = {
+				color={ 255 211 175 }
+				color2={ 255 255 255 }
+				
+				b_blaze_cave = {
+				}
+			}
+			
+			c_cheep_cheep_waters = {
+				color={ 255 221 175 }
+				color2={ 255 255 255 }
+				
+				b_cheep_cheep_waters = {
+				}
+			}
+			
+			c_balloon_bridge = {
+				color={ 255 231 175 }
+				color2={ 255 255 255 }
+				
+				b_balloon_bridge = {
+				}
+			}
+			
+			c_warios_garden = {
+				color={ 255 241 175 }
+				color2={ 255 255 255 }
+				
+				b_warios_garden = {
+				}
+			}
+			
+			c_warios_house = {
+				color={ 255 251 175 }
+				color2={ 255 255 255 }
+				
+				b_warios_house = {
+				}
+			}
+			
+			c_diamond_city = {
+				color={ 255 2 175 }
+				color2={ 255 255 255 }
+				
+				b_diamond_city = {
+				}
+			}
+			
+			c_temple_of_form = {
+				color={ 255 32 175 }
+				color2={ 255 255 255 }
+				
+				b_temple_of_form = {
+				}
+			}
+			
+			c_greenhorn_forest = {
+				color={ 255 42 175 }
+				color2={ 255 255 255 }
+				
+				b_greenhorn_forest = {
+				}
+			}
+			
+			c_greenhorn_ruins = {
+				color={ 255 52 175 }
+				color2={ 255 255 255 }
+				
+				b_greenhorn_ruins = {
+				}
+			}
+			
+			c_horror_mansion = {
+				color={ 255 62 175 }
+				color2={ 255 255 255 }
+				
+				b_horror_mansion = {
+				}
+			}
+			
+			c_wonky_circus = {
+				color={ 255 72 175 }
+				color2={ 255 255 255 }
+				
+				b_wonky_circus = {
+				}
+			}
+			
+			c_beanstalk_way = {
+				color={ 255 82 175 }
+				color2={ 255 255 255 }
+				
+				b_beanstalk_way = {
+				}
+			}
+			
+			c_mirror_mansion = {
+				color={ 255 92 175 }
+				color2={ 255 255 255 }
+				
+				b_mirror_mansion = {
+				}
+			}
+			
+			c_decalburg = {
+				color={ 255 240 175 }
+				color2={ 255 255 255 }
+				
+				b_decalburg = {
+				}
+			}
+			
+			c_surfshine_harbour = {
+				color={ 255 250 175 }
+				color2={ 255 255 255 }
+				
+				b_surfshine_harbour = {
+				}
+			}
+			
+			c_warm_fuzzy_plains = {
+				color={ 255 1 175 }
+				color2={ 255 255 255 }
+				
+				b_warm_fuzzy_plains = {
+				}
+			}
+			
+			c_bouquet_gardens = {
+				color={ 255 11 175 }
+				color2={ 255 255 255 }
+				
+				b_bouquet_gardens = {
+				}
+			}
+			
+			c_waters_edge_way = {
+				color={ 255 21 175 }
+				color2={ 255 255 255 }
+				
+				b_waters_edge_way = {
+				}
+			}
+			
+			c_hither_thither_hill = {
+				color={ 255 31 175 }
+				color2={ 255 255 255 }
+				
+				b_hither_thither_hill - {
+				}
+			}
+			
+			c_leaflitter_path = {
+				color={ 255 41 175 }
+				color2={ 255 255 255 }
+				
+				b_leaflitter_path = {
+				}
+			}
+			
+			c_the_bafflewood = {
+				color={ 255 51 175 }
+				color2={ 255 255 255 }
+				
+				b_the_bafflewood = {
+				}
+			}
+			
+			c_wigglers_woods = {
+				color={ 255 61 175 }
+				color2={ 255 255 255 }
+				
+				b_wigglers_woods = {
+				}
+			}
+			
+			c_strike_lake = {
+				color={ 255 71 175 }
+				color2={ 255 255 255 }
+				
+				b_strike_lake = {
+				}
+			}
+			
+			c_loop_loop_river = {
+				color={ 255 81 175 }
+				color2={ 255 255 255 }
+				
+				b_loop_loop_river = {
+				}
+			}
+			
+			c_outlook_point= {
+				color={ 255 91 175 }
+				color2={ 255 255 255 }
+				
+				b_outlook_point = {
+				}
+			}
+			
+			c_rustle_burrow = {
+				color={ 255 101 175 }
+				color2={ 255 255 255 }
+				
+				b_rustle_burrow = {
+				}
+			}
+			
+			c_tree_branch_trail = {
+				color={ 255 111 175 }
+				color2={ 255 255 255 }
+				
+				b_tree_branch_trail = {
+				}
+			}
+			
+			c_gauntlet_pond = {
+				color={ 255 121 175 }
+				color2={ 255 255 255 }
+				
+				b_gauntlet_pond = {
+				}
+			}
+			
+			c_stump_glade = {
+				color={ 255 131 175 }
+				color2={ 255 255 255 }
+				
+				b_stump_glade = {
+				}
+			}
+			
+			c_holey_thicket = {
+				color={ 255 141 175 }
+				color2={ 255 255 255 }
+				
+				b_holey_thicket = {
+				}
+			}
+			
+			c_whitecap_beach = {
+				color={ 255 151 175 }
+				color2={ 255 255 255 }
+				
+				b_whitecap_beach = {
+				}
+			}
+			
+			c_big_city = {
+				color={ 255 12 175 }
+				color2={ 255 255 255 }
+				
+				b_big_city = {
+				}
+			}
+			
+			c_barrier_mountains = {
+				color={ 255 22 175 }
+				color2={ 255 255 255 }
+				
+				b_barrier_mountains = {
+				}
+			}
+			
+			c_blooper_beach = {
+				color={ 255 102 175 }
+				color2={ 255 255 255 }
+				
+				b_blooper_beach = {
+				}
+			}
+			
+			c_boo_cemetery = {
+				color={ 255 112 175 }
+				color2={ 255 255 255 }
+				
+				b_boo_cemetery = {
+				}
+			}
+			
+			c_boos_horror_castle = {
+				color={ 255 122 175 }
+				color2={ 255 255 255 }
+				
+				b_boos_horror_castle = {
+				}
+			}
+			
+			c_castaway_bay = {
+				color={ 255 132 175 }
+				color2={ 255 255 255 }
+				
+				b_castaway_bay = {
+				}
+			}
+			
+			c_grand_canal = {
+				color={ 255 142 175 }
+				color2={ 255 255 255 }
+				
+				b_grand_canal = {
+				}
+			}
+			
+			c_magma_mine = {
+				color={ 255 152 175 }
+				color2={ 255 255 255 }
+				
+				b_magma_mine = {
+				}
+			}
+			
+			c_pagoda_peak = {
+				color={ 255 162 175 }
+				color2={ 255 255 255 }
+				
+				b_pagoda_peak = {
+				}
+			}
+			
+			c_lower_perilous_palace_path = {
+				color={ 255 172 175 }
+				color2={ 255 255 255 }
+				
+				b_lower_perilous_palace_path = {
+				}
+			}
+			
+			c_upper_perilous_palace_path = {
+				color={ 255 182 175 }
+				color2={ 255 255 255 }
+				
+				b_upper_perilous_palace_path = {
+				}
+			}
+			
+			c_perilous_mountain = {
+				color={ 255 192 175 }
+				color2={ 255 255 255 }
+				
+				b_perilous_mountain = {
+				}
+			}
+			
+			c_perilous_palace = {
+				color={ 255 202 175 }
+				color2={ 255 255 255 }
+				
+				b_perilous_palace = {
+				}
+			}
+			
+			c_pyramid_park = {
+				color={ 255 212 175 }
+				color2={ 255 255 255 }
+				
+				b_pyramid_park = {
+				}
+			}
+			
+			c_spiny_desert = {
+				color={ 255 222 175 }
+				color2={ 255 255 255 }
+				
+				b_spiny_desert = {
+				}
+			}
+			
+			c_thirsty_gultch = {
+				color={ 255 232 175 }
+				color2={ 255 255 255 }
+				
+				b_thirsty_gultch = {
+				}
+			}
+			
+			c_western_land = {
+				color={ 255 242 175 }
+				color2={ 255 255 255 }
+				
+				b_western_land = {
+				}
+			}
+			
+			c_windmillville = {
+				color={ 255 252 175 }
+				color2={ 255 255 255 }
+				
+				b_windmillville = {
+				}
+			}
+			
+			c_woody_woods = {
+				color={ 255 3 175 }
+				color2={ 255 255 255 }
+				
+				b_woody_woods = {
+				}
+			}
+			
+			c_baby_park = {
+				color={ 255 13 175 }
+				color2={ 255 255 255 }
+				
+				b_baby_park = {
+				}
+			}
+			
+			c_bonedry_dunes = {
+				color={ 255 23 175 }
+				color2={ 255 255 255 }
+				
+				b_bonedry_dunes = {
+				}
+			}
+			
+			c_boo_lake = {
+				color={ 255 33 175 }
+				color2={ 255 255 255 }
+				
+				b_boo_lake = {
+				}
+			}
+			
+			c_cheep_cheep_beach = {
+				color={ 255 43 175 }
+				color2={ 255 255 255 }
+				
+				b_cheep_cheep_beach = {
+				}
+			}
+			
+			c_cheep_cheep_island = {
+				color={ 255 53 175 }
+				color2={ 255 255 255 }
+				
+				b_cheep_cheep_island = {
+				}
+			}
+			
+			c_desert_hills = {
+				color={ 255 63 175 }
+				color2={ 255 255 255 }
+				
+				b_desert_hills = {
+				}
+			}
+			
+			c_dolphin_shoals = {
+				color={ 255 73 175 }
+				color2={ 255 255 255 }
+				
+				b_dolphin_shoals = {
+				}
+			}
+			c_grumble_volcano = {
+				color={ 255 83 175 }
+				color2={ 255 255 255 }
+				
+				b_grumble_volcano = {
+				}
+			}
+			
+			c_honeybee_hive = {
+				color={ 255 93 175 }
+				color2={ 255 255 255 }
+				
+				b_honeybee_hive = {
+				}
+			}
+			
+			c_kalimari_desert = {
+				color={ 255 103 175 }
+				color2={ 255 255 255 }
+				
+				b_kalimari_desert = {
+				}
+			}
+			
+			c_lakeside_park = {
+				color={ 255 113 175 }
+				color2={ 255 255 255 }
+				
+				b_lakeside_park = {
+				}
+			}
+			
+			c_mario_beach = {
+				color={ 255 123 175 }
+				color2={ 255 255 255 }
+				
+				b_mario_beach = {
+				}
+			}
+			
+			c_shy_guy_beach = {
+				color={ 255 133 175 }
+				color2={ 255 255 255 }
+				
+				b_shy_guy_beach = {
+				}
+			}
+			
+			c_shy_guy_falls = {
+				color={ 255 143 175 }
+				color2={ 255 255 255 }
+				
+				b_shy_guy_falls = {
+				}
+			}
+			
+			c_sunset_wilds = {
+				color={ 255 153 175 }
+				color2={ 255 255 255 }
+				
+				b_sunset_wilds = {
+				}
+			}
+			
+			c_thwomp_desert = {
+				color={ 255 163 175 }
+				color2={ 255 255 255 }
+				
+				b_thwomp_desert = {
+				}
+			}
+			
+			c_thwomp_ruins = {
+				color={ 255 173 175 }
+				color2={ 255 255 255 }
+				
+				b_thwomp_ruins = {
+				}
+			}
+			
+			c_toad_harbour = {
+				color={ 255 183 175 }
+				color2={ 255 255 255 }
+				
+				b_toad_harbour = {
+				}
+			}
+			
+			c_twilight_house = {
+				color={ 255 193 175 }
+				color2={ 255 255 255 }
+				
+				b_twilight_house = {
+				}
+			}
+			
+			c_twisted_mansion = {
+				color={ 255 203 175 }
+				color2={ 255 255 255 }
+				
+				b_twisted_mansion = {
+				}
+			}
+			
+			c_yoshi_falls = {
+				color={ 255 213 175 }
+				color2={ 255 255 255 }
+				
+				b_yoshi_falls = {
+				}
+			}
+			
+			c_yoshi_valley = {
+				color={ 255 223 175 }
+				color2={ 255 255 255 }
+				
+				b_yoshi_valley = {
+				}
+			}
+			
+			c_sunset_beach = {
+				color={ 255 233 175 }
+				color2={ 255 255 255 }
+				
+				b_sunset_beach = {
+				}
+			}
+			
+			c_shifting_sands = {
+				color={ 255 243 175 }
+				color2={ 255 255 255 }
+				
+				b_shifting_sands = {
+				}
+			}
+			
+			c_shy_guy_desert = {
+				color={ 255 253 175 }
+				color2={ 255 255 255 }
+				
+				b_shy_guy_desert = {
+				}
+			}
+			
+			c_wiggler_park = {
+				color={ 255 4 175 }
+				color2={ 255 255 255 }
+				
+				b_wiggler_park = {
+				}
+			}
+			
+			c_yoshi_lake = {
+				color={ 255 14 175 }
+				color2={ 255 255 255 }
+				
+				b_yoshi_lake = {
+				}
+			}
+			
+			c_wario_dunes = {
+				color={ 255 24 175 }
+				color2={ 255 255 255 }
+				
+				b_wario_dunes = {
+				}
+			}
+			
+			c_crystal_canyon = {
+				color={ 255 84 175 }
+				color2={ 255 255 255 }
+				
+				b_crystal_canyon = {
+				}
+			}
+			
+			c_fire_mountain = {
+				color={ 255 94 175 }
+				color2={ 255 255 255 }
+				
+				b_fire_mountain = {
+				}
+			}
+			
+			c_mystic_forest = {
+				color={ 255 104 175 }
+				color2={ 255 255 255 }
+				
+				b_mystic_forest = {
+				}
+			}
+			
+			c_sandstone_stroll = {
+				color={ 255 114 175 }
+				color2={ 255 255 255 }
+				
+				b_sandstone_stroll = {
+				}
+			}
+			
+			c_car_land = {
+				color={ 255 124 175 }
+				color2={ 255 255 255 }
+				
+				b_car_land = {
+				}
+			}
+			
+			c_rebel_fort = {
+				color={ 255 134 175 }
+				color2={ 255 255 255 }
+				
+				b_rebel_fort = {
+				}
+			}
+			
+			c_crime_land = {
+				color={ 255 144 175 }
+				color2={ 255 255 255 }
+				
+				b_crime_land = {
+				}
+			}
+			
+			c_desert_kingdom = {
+				color={ 255 154 175 }
+				color2={ 255 255 255 }
+				
+				b_desert_kingdom = {
+				}
+			}
+			
+			c_double_cross_ranch = {
+				color={ 255 164 175 }
+				color2={ 255 255 255 }
+				
+				b_double_cross_ranch = {
+				}
+			}
+			
+			c_grand_koopa_canyon = {
+				color={ 255 174 175 }
+				color2={ 255 255 255 }
+				
+				b_grand_koopa_canyon = {
+				}
+			}
+			
+			c_jungle_land = {
+				color={ 255 184 175 }
+				color2={ 255 255 255 }
+				
+				b_jungle_land = {
+				}
+			}
+			
+			c_kingdom_of_youth = {
+				color={ 255 194 175 }
+				color2={ 255 255 255 }
+				
+				b_kingdom_of_youth = {
+				}
+			}
+			
+			c_linguine_land = {
+				color={ 255 204 175 }
+				color2={ 255 255 255 }
+				
+				b_linguine_land = {
+				}
+			}
+			
+			c_sudden_death_valley = {
+				color={ 255 214 175 }
+				color2={ 255 255 255 }
+				
+				b_sudden_death_valley = {
+				}
+			}
+			
+			c_mushridge = {
+				color={ 255 224 175 }
+				color2={ 255 255 255 }
+				
+				b_mushridge = {
+				}
+			}
+			
+			c_mushroom_woods = {
+				color={ 255 234 175 }
+				color2={ 255 255 255 }
+				
+				b_mushroom_woods = {
+				}
+			}
+			
+			c_mythis = {
+				color={ 255 244 175 }
+				color2={ 255 255 255 }
+				
+				b_mythis = {
+				}
+			}
+			
+			c_rap_land = {
+				color={ 255 254 175 }
+				color2={ 255 255 255 }
+				
+				b_rap_land = {
+				}
+			}
+			
+			c_robo_land = {
+				color={ 255 5 175 }
+				color2={ 255 255 255 }
+				
+				b_robo_land = {
+				}
+			}
+			
+			c_rotunda_land = {
+				color={ 255 15 175 }
+				color2={ 255 255 255 }
+				
+				b_rotunda_land = {
+				}
+			}
+			
+			c_rotunda_castle = {
+				color={ 255 25 175 }
+				color2={ 255 255 255 }
+				
+				b_rotunda_castle = {
+				}
+			}
+			
+			c_wild_west = {
+				color={ 255 35 175 }
+				color2={ 255 255 255 }
+				
+				b_wild_west = {
+				}
+			}
+			
+			c_wunderland = {
+				color={ 255 45 175 }
+				color2={ 255 255 255 }
+				
+				b_wunderland = {
+				}
+			}
+			
+			c_grassy_greens = {
+				color={ 255 55 175 }
+				color2={ 255 255 255 }
+				
+				b_grassy_greens = {
+				}
+			}
+			
+			c_chilly_beach = {
+				color={ 255 65 175 }
+				color2={ 255 255 255 }
+				
+				b_chilly_beach = {
+				}
+			}
+			
+			c_cold_woods = {
+				color={ 255 75 175 }
+				color2={ 255 255 255 }
+				
+				b_cold_woods = {
+				}
+			}
+			
+			c_jolly_plains = {
+				color={ 255 85 175 }
+				color2={ 255 255 255 }
+				
+				b_jolly_plains = {
+				}
+			}
+			
+			c_jolly_hills = {
+				color={ 255 95 175 }
+				color2={ 255 255 255 }
+				
+				b_jolly_hills = {
+				}
+			}
+			
+			c_jolly_fields = {
+				color={ 255 105 175 }
+				color2={ 255 255 255 }
+				
+				b_jolly_fields = {
+				}
+			}
+		}
+	}
+
+k_mushroom_world = {
+		color={ 246 220 30 }
+		color2={ 255 255 255 }
+		
+		d_mushroom_world = {
+			color={ 246 220 30 }
+			color2={ 255 255 255 }
+			
+			c_dry_bake_desert = {
+				color={ 246 220 30 }
+				color2={ 255 255 255 }
+				
+				b_dry_bake_desert = {
+				}
+			}
+			
+			c_whammino_mountain = {
+				color={ 246 220 10 }
+				color2={ 255 255 255 }
+				
+				b_whammino_mountain = {
+				}
+			}
+			
+			c_goomba_fortress2 = {
+				color={ 246 220 20 }
+				color2={ 255 255 255 }
+				
+				b_goomba_fortress2 = {
+				}
+			}
+			
+			c_yoshi_sphynix = {
+				color={ 246 220 40 }
+				color2={ 255 255 255 }
+				
+				b_yoshi_sphynix = {
+				}
+			}
+			
+			c_sandshifter_ruins = {
+				color={ 246 220 50 }
+				color2={ 255 255 255 }
+				
+				b_sandshifter_ruins = {
+				}
+			}
+			
+			c_damp_oasis = {
+				color={ 246 220 60 }
+				color2={ 255 255 255 }
+				
+				b_damp_oasis = {
+				}
+			}
+			
+			c_dry_bake_stadium = {
+				color={ 46 220 70 }
+				color2={ 255 255 255 }
+			
+				b_dry_bake_stadium = {
+				}
+			}
+			
+			c_snow_rise = {
+				color={ 246 220 80 }
+				color2={ 255 255 255 }
+				
+				b_snow_rise = {
+				}
+			}
+			
+			c_ice_flow = {
+				color={ 246 220 90 }
+				color2={ 255 255 255 }
+				
+				b_ice_flow = {
+				}
+			}
+			
+			c_the_enigmansion = {
+				color={ 246 220 100 }
+				color2={ 255 255 255 }
+				
+				b_the_enigmansion = {
+				}
+			}
+			
+			c_shaved_ice_cave = {
+				color={ 246 220 110 }
+				color2={ 255 255 255 }
+				
+				b_shaved_ice_cave = {
+				}
+			}
+			
+			c_whiteout_valley = {
+				color={ 246 220 120 }
+				color2={ 255 255 255 }
+				
+				b_whiteout_valley = {
+				}
+			}
+			
+			c_snow_fort = {
+				color={ 246 220 130 }
+				color2={ 255 255 255 }
+				
+				b_snow_fort = {
+				}
+			}
+			
+			c_shy_guy_jungle = {
+				color={ 246 220 140 }
+				color2={ 255 255 255 }
+				
+				b_shy_guy_jungle = {
+				}
+			}
+			
+			c_jungle_rapids = {
+				color={ 246 220 150 }
+				color2={ 255 255 255 }
+				
+				b_jungle_rapids = {
+				}
+			}
+			
+			c_long_fall_falls = {
+				color={ 246 220 160 }
+				color2={ 255 255 255 }
+				
+				b_long_fall_falls = {
+				}
+			}
+			
+			c_chomp_ruins = {
+				color={ 246 220 170 }
+				color2={ 255 255 255 }
+				
+				b_chomp_ruins = {
+				}
+			}
+			
+			c_rugged_road = {
+				color={ 246 220 180 }
+				color2={ 255 255 255 }
+				
+				b_rugged_road = {
+				}
+			}
+			
+			c_rumble_volcano = {
+				color={ 246 220 190 }
+				color2={ 255 255 255 }
+				
+				b_rumble_volcano = {
+				}
+			}
+			
+			c_gate_cliff = {
+				color={ 246 220 200 }
+				color2={ 255 255 255 }
+				
+				b_gate_cliff = {
+				}
+			}
+			
+			c_pipe_plains = {
+				color={ 246 220 210 }
+				color2={ 255 255 255 }
+				
+				b_pipe_plains = {
+				}
+			}
+			
+			c_pipe_hills = {
+				color={ 246 220 220 }
+				color2={ 255 255 255 }
+				
+				b_pipe_hills = {
+				}
+			}
+			
+			c_coin_plains = {
+				color={ 246 220 230 }
+				color2={ 255 255 255 }
+				
+				b_coin_plains = {
+				}
+			}
+			
+			c_coin_cliffs = {
+				color={ 246 220 240 }
+				color2={ 255 255 255 }
+				
+				b_coin_cliffs = {
+				}
+			}
+			
+			c_northern_grass_land_toad_house = {
+				color={ 246 220 250 }
+				color2={ 255 255 255 }
+				
+				b_northern_grass_land_toad_house = {
+				}
+			}
+			
+			c_grass_land_fortress = {
+				color={ 246 220 1 }
+				color2={ 255 255 255 }
+				
+				b_grass_land_fortress = {
+				}
+			}
+			
+			c_grass_land_hills = {
+				color={ 246 220 11 }
+				color2={ 255 255 255 }
+				
+				b_grass_land_hills = {
+				}
+			}
+			
+			c_grass_land_cliffs = {
+				color={ 246 220 21 }
+				color2={ 255 255 255 }
+				
+				b_grass_land_hills = {
+				}
+			}
+			
+			c_southern_grass_land_toad_house = {
+				color={ 246 220 31 }
+				color2={ 255 255 255 }
+				
+				b_southern_grass_land_toad_house = {
+				}
+			}
+			
+			c_grass_land_castle = {
+				color={ 246 220 41 }
+				color2={ 255 255 255 }
+				
+				b_grass_land_castle = {
+				}
+			}
+			
+			c_pipe_ruins = {
+				color={ 246 220 51 }
+				color2={ 255 255 255 }
+				
+				b_pipe_ruins = {
+				}
+			}
+			
+			c_desert_oasis = {
+				color={ 246 220 61 }
+				color2={ 255 255 255 }
+				
+				b_desert_oasis = {
+				}
+			}
+			
+			c_northern_desert_toad_house = {
+				color={ 246 220 71 }
+				color2={ 255 255 255 }
+				
+				b_northern_desert_toad_house = {
+				}
+			}
+			
+			c_desert_land_fortress = {
+				color={ 246 220 81 }
+				color2={ 255 255 255 }
+				
+				b_desert_land_fortress = {
+				}
+			}
+			
+			c_pyramid_flats = {
+				color={ 246 220 91 }
+				color2={ 255 255 255 }
+				
+				b_pyramid_flats = {
+				}
+			}
+			
+			c_western_desert_toad_house = {
+				color={ 246 220 101 }
+				color2={ 255 255 255 }
+				
+				b_western_desert_toad_house = {
+				}
+			}
+			
+			c_quicksand = {
+				color={ 246 220 111 }
+				color2={ 255 255 255 }
+				
+				b_quicksand = {
+				}
+			}
+			
+			c_palm_oasis = {
+				color={ 246 220 121 }
+				color2={ 255 255 255 }
+				
+				b_palm_oasis = {
+				}
+			}
+			
+			c_chomp_pyramids = {
+				color={ 246 220 131 }
+				color2={ 255 255 255 }
+				
+				b_chomp_pyramids = {
+				}
+			}
+			
+			c_pyramid_hill = {
+				color={ 246 220 141 }
+				color2={ 255 255 255 }
+				
+				b_pyramid_hill = {
+				}
+			}
+			
+			c_desert_castle = {
+				color={ 246 220 151 }
+				color2={ 255 255 255 }
+				
+				b_desert_castle = {
+				}
+			}
+			
+			c_bonus_ridge = {
+				color={ 246 220 161 }
+				color2={ 255 255 255 }
+				
+				b_bonus_ridge = {
+				}
+			}
+			
+			c_southern_desert_toad_house = {
+				color={ 246 220 171 }
+				color2={ 255 255 255 }
+				
+				b_southern_desert_toad_house = {
+				}
+			}
+			
+			c_ocean_side_castle = {
+				color={ 246 220 181 }
+				color2={ 255 255 255 }
+				
+				b_ocean_side_castle = {
+				}
+			}
+			
+			c_toad_islands = {
+				color={ 246 220 191 }
+				color2={ 255 255 255 }
+				
+				b_toad_islands = {
+				}
+			}
+			
+			c_archipelago_fortress = {
+				color={ 246 220 201 }
+				color2={ 255 255 255 }
+				
+				b_archipelago_fortress = {
+				}
+			}
+			
+			c_dandy_pier = {
+				color={ 246 220 211 }
+				color2={ 255 255 255 }
+				
+				b_dandy_pier = {
+				}
+			}
+			
+			c_cheep_cheep_reef = {
+				color={ 246 220 221 }
+				color2={ 255 255 255 }
+				
+				b_cheep_cheep_reef = {
+				}
+			}
+			
+			c_misty_cove = {
+				color={ 246 220 231 }
+				color2={ 255 255 255 }
+				
+				b_misty_cove = {
+				}
+			}
+			
+			c_misty_heights = {
+				color={ 246 220 241 }
+				color2={ 255 255 255 }
+				
+				b_misty_cove = {
+				}
+			}
+			
+			c_sponge_hills = {
+				color={ 246 220 251 }
+				color2={ 255 255 255 }
+				
+				b_sponge_hills = {
+				}
+			}
+			
+			c_toad_sound = {
+				color={ 246 220 2 }
+				color2={ 255 255 255 }
+				
+				b_toad_sound = {
+				}
+			}
+			
+			c_boss_bass_bay = {
+				color={ 246 220 12 }
+				color2={ 255 255 255 }
+				
+				b_boss_bass_bay = {
+				}
+			}
+			
+			c_peninsular_fortress = {
+				color={ 246 220 22 }
+				color2={ 255 255 255 }
+				
+				b_peninsular_fortress = {
+				}
+			}
+			
+			c_cheep_cheep_falls2 = {
+				color={ 246 220 32 }
+				color2={ 255 255 255 }
+				
+				b_cheep_cheep_falls2 = {
+				}
+			}
+			
+			c_southern_toad_house = {
+				color={ 246 220 42 }
+				color2={ 255 255 255 }
+				
+				b_southern_toad_house = {
+				}
+			}
+			
+			c_giant_wetlands = {
+				color={ 246 220 52 }
+				color2={ 255 255 255 }
+				
+				b_giant_wetlands = {
+				}
+			}
+			
+			c_toad_peninsula = {
+				color={ 246 220 62 }
+				color2={ 255 255 255 }
+				
+				b_toad_peninsula = {
+				}
+			}
+			
+			c_giant_pipeland = {
+				color={ 246 220 72 }
+				color2={ 255 255 255 }
+				
+				b_giant_pipeland = {
+				}
+			}
+			
+			c_giant_caverns = {
+				color={ 246 220 82 }
+				color2={ 255 255 255 }
+				
+				b_giant_caverns = {
+				}
+			}
+			
+			c_coastal_fortress = {
+				color={ 246 220 92 }
+				color2={ 255 255 255 }
+				
+				b_coastal_fortress = {
+				}
+			}
+			
+			c_giant_coral_cove = {
+				color={ 246 220 102 }
+				color2={ 255 255 255 }
+				
+				b_giant_coral_cove = {
+				}
+			}
+			
+			c_toad_point = {
+				color={ 246 220 112 }
+				color2={ 255 255 255 }
+				
+				b_toad_point = {
+				}
+			}
+			
+			c_island_fortress = {
+				color={ 246 220 122 }
+				color2={ 255 255 255 }
+				
+				b_island_fortress = {
+				}
+			}
+			
+			c_gargantuan_hills = {
+				color={ 246 220 132 }
+				color2={ 255 255 255 }
+				
+				b_gargantuan_hills = {
+				}
+			}
+			
+			c_big_plains = {
+				color={ 246 220 142 }
+				color2={ 255 255 255 }
+				
+				b_big_plains = {
+				}
+			}
+			
+			c_western_giant_toad_house = {
+				color={ 246 220 152 }
+				color2={ 255 255 255 }
+				
+				b_western_giant_toad_house = {
+				}
+			}
+			
+			c_big_castle = {
+				color={ 246 220 162 }
+				color2={ 255 255 255 }
+				
+				b_big_castle = {
+				}
+			}
+			
+			c_chomp_stairway = {
+				color={ 246 220 172 }
+				color2={ 255 255 255 }
+				
+				b_chomp_stairway = {
+				}
+			}
+			
+			c_cavern_hill = {
+				color={ 246 220 182 }
+				color2={ 255 255 255 }
+				
+				b_cavern_hill = {
+				}
+			}
+			
+			c_toad_river = {
+				color={ 246 220 192 }
+				color2={ 255 255 255 }
+				
+				b_toad_river = {
+				}
+			}
+			
+			c_muncher_canyon = {
+				color={ 246 220 202 }
+				color2={ 255 255 255 }
+				
+				b_muncher_canyon = {
+				}
+			}
+			
+			c_river_manor = {
+				color={ 246 220 212 }
+				color2={ 255 255 255 }
+				
+				b_river_manor = {
+				}
+			}
+			
+			c_stairway_to_heaven = {
+				color={ 246 220 222 }
+				color2={ 255 255 255 }
+				
+				b_stairway_to_heaven = {
+				}
+			}
+			
+			c_coin_cloud_falls = {
+				color={ 246 220 232 }
+				color2={ 255 255 255 }
+				
+				b_coin_cloud_falls = {
+				}
+			}
+			
+			c_donut_heights = {
+				color={ 246 220 242 }
+				color2={ 255 255 255 }
+				
+				b_donut_heights = {
+				}
+			}
+			
+			c_cloud_toad_house = {
+				color={ 246 220 252 }
+				color2={ 255 255 255 }
+				
+				b_cloud_toad_house = {
+				}
+			}
+			
+			c_cloudy_path = {
+				color={ 246 220 3 }
+				color2={ 255 255 255 }
+				
+				b_cloudy_path = {
+				}
+			}
+			
+			c_tall_heights = {
+				color={ 246 220 13 }
+				color2={ 255 255 255 }
+				
+				b_tall_heights = {
+				}
+			}
+			
+			c_toad_heights = {
+				color={ 246 220 23 }
+				color2={ 255 255 255 }
+				
+				b_toad_heights = {
+				}
+			}
+			
+			c_castle_in_the_clouds = {
+				color={ 246 220 33 }
+				color2={ 255 255 255 }
+				
+				b_castle_in_the_clouds = {
+				}
+			}
+			
+			c_sky_castle = {
+				color={ 246 220 43 }
+				color2={ 255 255 255 }
+				
+				b_sky_castle = {
+				}
+			}
+			
+			c_shifting_clouds = {
+				color={ 246 220 53 }
+				color2={ 255 255 255 }
+				
+				b_shifting_clouds = {
+				}
+			}
+			
+			c_cloud_stairway = {
+				color={ 246 220 63 }
+				color2={ 255 255 255 }
+				
+				b_cloud_stairway = {
+				}
+			}
+			
+			c_ice_castle = {
+				color={ 246 220 73 }
+				color2={ 255 255 255 }
+				
+				b_ice_castle = {
+				}
+			}
+			
+			c_ice_fortress = {
+				color={ 246 220 83 }
+				color2={ 255 255 255 }
+				
+				b_ice_fortress = {
+				}
+			}
+			
+			c_frigid_forest = {
+				color={ 246 220 93 }
+				color2={ 255 255 255 }
+				
+				b_frigid_forest = {
+				}
+			}
+			
+			c_ice_lake = {
+				color={ 246 220 103 }
+				color2={ 255 255 255 }
+				
+				b_ice_lake = {
+				}
+			}
+			
+			c_thawed_hills = {
+				color={ 246 220 113 }
+				color2={ 255 255 255 }
+				
+				b_thawed_hills = {
+				}
+			}
+			
+			c_snowy_hills = {
+				color={ 246 220 123 }
+				color2={ 255 255 255 }
+				
+				b_snowy_hills = {
+				}
+			}
+			
+			c_icy_lake_fortress = {
+				color={ 246 220 133 }
+				color2={ 255 255 255 }
+				
+				b_icy_lake_fortress = {
+				}
+			}
+			
+			c_ice_field = {
+				color={ 246 220 143 }
+				color2={ 255 255 255 }
+				
+				b_ice_field = {
+				}
+			}
+			
+			c_frozen_toad_house = {
+				color={ 246 220 153 }
+				color2={ 255 255 255 }
+				
+				b_frozen_toad_house = {
+				}
+			}
+			
+			c_ice_caverns = {
+				color={ 246 220 163 }
+				color2={ 255 255 255 }
+				
+				b_ice_caverns = {
+				}
+			}
+			
+			c_icy_heights = {
+				color={ 246 220 173 }
+				color2={ 255 255 255 }
+				
+				b_icy_heights = {
+				}
+			}
+			
+			c_northern_ice_fortress = {
+				color={ 246 220 183 }
+				color2={ 255 255 255 }
+				
+				b_northern_ice_fortress = {
+				}
+			}
+			
+			c_snowy_heights = {
+				color={ 246 220 193 }
+				color2={ 255 255 255 }
+				
+				b_snowy_heights  ={
+				}
+			}
+			
+			c_chilly_hills = {
+				color={ 246 220 203 }
+				color2={ 255 255 255 }
+				
+				b_chilly_hills = {
+				}
+			}
+			
+			c_toad_fjord = {
+				color={ 246 220 213 }
+				color2={ 255 255 255 }
+				
+				b_toad_fjord = {
+				}
+			}
+			
+			c_frosty_plains = {
+				color={ 246 220 223 }
+				color2={ 255 255 255 }
+				
+				b_frosty_plains = {
+				}
+			}
+			
+			c_northern_pipe_toad_house = {
+				color={ 246 220 233 }
+				color2={ 255 255 255 }
+				
+				b_northern_pipe_toad_house = {
+				}
+			}
+			
+			c_eastern_pipe_fort = {
+				color={ 246 220 243 }
+				color2={ 255 255 255 }
+				
+				b_eastern_pipe_fort = {
+				}
+			}
+			
+			c_pipe_maze_castle = {
+				color={ 246 220 253 }
+				color2={ 255 255 255 }
+				
+				b_pipe_maze_castle = {
+				}
+			}
+			
+			c_pipe_pyramids = {
+				color={ 246 220 4 }
+				color2={ 255 255 255 }
+				
+				b_pipe_pyramids = {
+				}
+			}
+			
+			c_piranha_pipe_garden = {
+				color={ 246 220 14 }
+				color2={ 255 255 255 }
+				
+				b_piranha_pipe_garden = {
+				}
+			}
+			
+			c_muncher_gauntlet = {
+				color={ 246 220 24 }
+				color2={ 255 255 255 }
+				
+				b_muncher_gauntlet = {
+				}
+			}
+			
+			c_pipe_chasm = {
+				color={ 246 220 34 }
+				color2={ 255 255 255 }
+				
+				b_pipe_chasm = {
+				}
+			}
+			
+			c_western_pipe_fort = {
+				color={ 246 220 44 }
+				color2={ 255 255 255 }
+				
+				b_western_pipe_fort = {
+				}
+			}
+			
+			c_pipe_prison = {
+				color={ 246 220 54 }
+				color2={ 255 255 255 }
+				
+				b_pipe_prison = {
+				}
+			}
+			
+			c_pipe_reef = {
+				color={ 246 220 64 }
+				color2={ 255 255 255 }
+				
+				b_pipe_reef = {
+				}
+			}
+			
+			c_pipe_slopes = {
+				color={ 246 220 74 }
+				color2={ 255 255 255 }
+				
+				b_pipe_slopes = {
+				}
+			}
+			
+			c_toad_pipe_island = {
+				color={ 246 220 84 }
+				color2={ 255 255 255 }
+				
+				b_toad_pipe_island = {
+				}
+			}
+			
+			c_southern_pipe_toad_house = {
+				color={ 246 220 94 }
+				color2={ 255 255 255 }
+				
+				b_southern_pipe_toad_house = {
+				}
+			}
+			
+			c_pipe_desert = {
+				color={ 246 220 104 }
+				color2={ 255 255 255 }
+				
+				b_pipe_desert = {
+				}
+			}
+			
+			c_pipe_caverns = {
+				color={ 246 220 114 }
+				color2={ 255 255 255 }
+				
+				b_pipe_caverns = {
+				}
+			}
+			
+			c_lava_land = {
+				color={ 246 220 124 }
+				color2={ 255 255 255 }
+				
+				b_lava_land = {
+				}
+			}
+			
+			c_skull_land = {
+				color={ 246 220 134 }
+				color2={ 255 255 255 }
+				
+				b_skull_land = {
+				}
+			}
+			
+			c_dark_world_fortress = {
+				color={ 246 220 144 }
+				color2={ 255 255 255 }
+				
+				b_dark_world_fortress = {
+				}
+			}
+			
+			c_skull_hills = {
+				color={ 246 220 154 }
+				color2={ 255 255 255 }
+				
+				b_skull_hills = {
+				}
+			}
+			
+			c_skull_desert = {
+				color={ 246 220 164 }
+				color2={ 255 255 255 }
+				
+				b_skull_desert = {
+				}
+			}
+			
+			c_the_valley_of_bowser = {
+				color={ 246 220 174 }
+				color2={ 255 255 255 }
+				
+				b_the_valley_of_bowser = {
+				}
+			}
+			
+			c_castle_bowser = {
+				color={ 246 220 184 }
+				color2={ 255 255 255 }
+				
+				b_castle_bowser = {
+				}
+			}
+			
+			c_worlde_castle = {
+				color={ 246 220 194 }
+				color2={ 255 255 255 }
+				
+				b_worlde_castle = {
+				}
+			}
+			
+			c_red_toad_peninsula = {
+				color={ 246 220 204 }
+				color2={ 255 255 255 }
+				
+				b_red_toad_peninsula = {
+				}
+			}
+			
+			c_blue_toad_woods = {
+				color={ 246 220 214 }
+				color2={ 255 255 255 }
+				
+				b_blue_toad_woods = {
+				}
+			}
+			
+			c_yellow_toad_bay = {
+				color={ 246 220 224 }
+				color2={ 255 255 255 }
+				
+				b_yellow_toad_bay = {
+				}
+			}
+			
+			c_pecan_sands = {
+				color={ 246 220 234 }
+				color2={ 255 255 255 }
+				
+				b_pecan_sands = {
+				}
+			}
+			
+			c_banzai_bills_mad_mountain = {
+				color={ 246 220 244 }
+				color2={ 255 255 255 }
+				
+				b_banzai_bills_mad_mountain = {
+				}
+			}
+			
+			c_bowser_land = {
+				color={ 246 220 254 }
+				color2={ 255 255 255 }
+				
+				b_bowser_land = {
+				}
+			}
+			
+			c_bowsers_enchanted_inferno = {
+				color={ 246 220 5 }
+				color2={ 255 255 255 }
+				
+				b_bowsers_enchanted_inferno = {
+				}
+			}
+			
+			c_bowsers_magma_mountain = {
+				color={ 246 220 15 }
+				color2={ 255 255 255 }
+				
+				b_bowsers_magma_mountain = {
+				}
+			}
+			
+			c_bowsers_peculiar_peak = {
+				color={ 246 220 25 }
+				color2={ 255 255 255 }
+				
+				b_bowsers_peculiar_peak = {
+				}
+			}
+			
+			c_clockwork_castle = {
+				color={ 246 220 35 }
+				color2={ 255 255 255 }
+				
+				b_clockwork_castle = {
+				}
+			}
+			
+			c_infernal_tower = {
+				color={ 246 220 45 }
+				color2={ 255 255 255 }
+				
+				b_infernal_tower = {
+				}
+			}
+			
+			c_snowflake_lake = {
+				color={ 246 220 55 }
+				color2={ 255 255 255 }
+				
+				b_snowflake_lake = {
+				}
+			}
+			
+			c_big_donut = {
+				color={ 246 220 65 }
+				color2={ 255 255 255 }
+				
+				b_big_donut = {
+				}
+			}
+			
+			c_block_city = {
+				color={ 246 220 75 }
+				color2={ 255 255 255 }
+				
+				b_block_city = {
+				}
+			}
+			
+			c_cookie_land = {
+				color={ 246 220 95 }
+				color2={ 255 255 255 }
+				
+				b_cookie_land = {
+				}
+			}
+			
+			c_cheese_land = {
+				color={ 246 220 95 }
+				color2={ 255 255 255 }
+				
+				b_cheese_land = {
+				}
+			}
+			
+			c_neo_bowser_city = {
+				color={ 246 220 105 }
+				color2={ 255 255 255 }
+				
+				b_neo_bowser_city = {
+				}
+			}
+			
+			c_yoshi_desert = {
+				color={ 246 220 115 }
+				color2={ 255 255 255 }
+				
+				b_yoshi_desert = {
+				}
+			}
+			
+			c_blooper_bay = {
+				color={ 246 220 125 }
+				color2={ 255 255 255 }
+				
+				b_blooper_bay = {
+				}
+			}
+			
+			c_bowser_badlands = {
+				color={ 246 220 135 }
+				color2={ 255 255 255 }
+				
+				b_bowser_badlands = {
+				}
+			}
+			
+			c_tinyhuge_island = {
+				color={ 246 220 145 }
+				color2={ 255 255 255 }
+				
+				b_tinyhuge_island = {
+				}
+			}
+			
+			c_thunder_island = {
+				color={ 246 220 155 }
+				color2={ 255 255 255 }
+				
+				b_thunder_island = {
+				}
+			}
+			
+			c_seizures_palace = {
+				color={ 246 220 165 }
+				color2={ 255 255 255 }
+				
+				b_seizures_palace = {
+				}
+			}
+			
+			c_thump_castle = {
+				color={ 246 220 175 }
+				color2={ 255 255 255 }
+				
+				b_thump_castle = {
+				}
+			}
+			
+			c_koopabiza = {
+				color={ 246 220 185 }
+				color2={ 255 255 255 }
+				
+				b_koopabiza = {
+				}
+			}
+			
+			c_cannon_cove = {
+				color={ 246 220 195 }
+				color2={ 255 255 255 }
+				
+				b_cannon_cove = {
+				}
+			}
+			
+			c_fungusville = {
+				color={ 246 220 205 }
+				color2={ 255 255 255 }
+				
+				b_fungusville = {
+				}
+			}
+			
+			c_turtlevania = {
+				color={ 246 220 215 }
+				color2={ 255 255 255 }
+				
+				b_turtlevania = {
+				}
+			}
+			
+			c_castle_koopula = {
+				color={ 246 220 225 }
+				color2={ 255 255 255 }
+				
+				b_castle_koopula = {
+				}
+			}
+			
+			c_down_under_land = {
+				color={ 246 220 235 }
+				color2={ 255 255 255 }
+				
+				b_down_under_land = {
+				}
+			}
+			
+			c_el_desert_land = {
+				color={ 246 220 245 }
+				color2={ 255 255 255 }
+				
+				b_el_desert_land = {
+				}
+			}
+			
+			c_lava_land2 = {
+				color={ 246 220 255 }
+				color2={ 255 255 255 }
+				
+				b_lava_land2 = {
+				}
+			}
+			
+			c_pirate_port = {
+				color={ 246 220 6 }
+				color2={ 255 255 255 }
+				
+				b_pirate_port = {
+				}
+			}
+			
+			c_sayonara = {
+				color={ 246 220 16 }
+				color2={ 255 255 255 }
+				
+				b_sayonara = {
+				}
+			}
+			
+			c_victoria = {
+				color={ 246 220 26 }
+				color2={ 255 255 255 }
+				
+				b_victoria = {
+				}
+			}
+			
+			c_trouter_bay = {
+				color={ 246 220 36 }
+				color2={ 255 255 255 }
+				
+				b_trouter_bay = {
+				}
+			}
+			
+			c_cloud_temple = {
+				color={ 246 220 46 }
+				color2={ 255 255 255 }
+				
+				b_cloud_temple = {
+				}
+			}
+			
+			c_bonus_desert = {
+				color={ 246 220 56 }
+				color2={ 255 255 255 }
+				
+				b_bonus_desert = {
+				}
+			}
+			
+			c_desert_coast = {
+				color={ 246 220 66 }
+				color2={ 255 255 255 }
+				
+				b_desert_coast = {
+				}
+			}
+			
+			c_desolate_sands = {
+				color={ 246 220 76 }
+				color2={ 255 255 255 }
+				
+				b_desolate_sands = {
+				}
+			}
+			
+			c_dusty_coast = {
+				color={ 246 220 86 }
+				color2={ 255 255 255 }
+				
+				b_dusty_coast = {
+				}
+			}
+			
+			c_mirage_mountains = {
+				color={ 246 220 96 }
+				color2={ 255 255 255 }
+				
+				b_mirage_mountains = {
+				}
+			}
+			
+			c_thick_palms = {
+				color={ 246 220 106 }
+				color2={ 255 255 255 }
+				
+				b_thick_palms = {
+				}
+			}
+			
+			c_channel_sands = {
+				color={ 246 220 116 }
+				color2={ 255 255 255 }
+				
+				b_channel_sands = {
+				}
+			}
+			
+			c_icy_bay = {
+				color={ 246 220 126 }
+				color2={ 255 255 255 }
+				
+				b_icy_bay = {
+				}
+			}
+			
+			c_frigid_peninsula = {
+				color={ 246 220 136 }
+				color2={ 255 255 255 }
+				
+				b_frigid_peninsula = {
+				}
+			}
+			
+			c_frosty_foothills = {
+				color={ 246 220 146 }
+				color2={ 255 255 255 }
+				
+				b_frosty_foothills = {
+				}
+			}
+			
+			c_frosty_peaks = {
+				color={ 246 220 156 }
+				color2={ 255 255 255 }
+				
+				b_frosty_peaks = {
+				}
+			}
+			
+			c_icicle_coast = {
+				color={ 246 220 166 }
+				color2={ 255 255 255 }
+				
+				b_icicle_coast = {
+				}
+			}
+			
+			c_frigid_bay = {
+				color={ 246 220 176 }
+				color2={ 255 255 255 }
+				
+				b_frigid_bay = {
+				}
+			}
+			
+			c_cold_coast = {
+				color={ 246 220 186 }
+				color2={ 255 255 255 }
+				
+				b_cold_coast = {
+				}
+			}
+			
+			c_snowball_mountain = {
+				color={ 246 220 196 }
+				color2={ 255 255 255 }
+				
+				b_snowball_mountain = {
+				}
+			}
+			
+			c_sizzling_coast = {
+				color={ 246 220 206 }
+				color2={ 255 255 255 }
+				
+				b_sizzling_coast = {
+				}
+			}
+			
+			c_dark_coast = {
+				color={ 246 220 216 }
+				color2={ 255 255 255 }
+				
+				b_dark_coast = {
+				}
+			}
+			
+			c_skeleton_bay = {
+				color={ 246 220 226 }
+				color2={ 255 255 255 }
+				
+				b_skeleton_bay = {
+				}
+			}
+			
+			c_shadowland = {
+				color={ 246 220 236 }
+				color2={ 255 255 255 }
+				
+				b_shadowland = {
+				}
+			}
+			
+			c_bowser_coast = {
+				color={ 246 220 246 }
+				color2={ 255 255 255 }
+				
+				b_bowser_coast = {
+				}
+			}
+			
+			c_koopa_ridge = {
+				color={ 246 220 7 }
+				color2={ 255 255 255 }
+				
+				b_koopa_ridge = {
+				}
+			}
+			
+			c_dark_valley = {
+				color={ 246 220 17 }
+				color2={ 255 255 255 }
+				
+				b_dark_valley = {
+				}
+			}
+			
+			c_red_cliffs = {
+				color={ 246 220 27 }
+				color2={ 255 255 255 }
+				
+				b_red_cliffs = {
+				}
+			}
+			
+			c_goomport = {
+				color={ 246 220 37 }
+				color2={ 255 255 255 }
+				
+				b_goomport = {
+				}
+			}
+			
+			c_bonyard = {
+				color={ 246 220 47 }
+				color2={ 255 255 255 }
+				
+				b_bonyard = {
+				}
+			}
+			
+			c_traders_bay = {
+				color={ 246 220 57 }
+				color2={ 255 255 255 }
+				
+				b_traders_bay = {
+				}
+			}
+			c_traitors_bay = {
+				color={ 246 220 67 }
+				color2={ 255 255 255 }
+				
+				b_traitors_bay = {
+				}
+			}
+			
+			c_city_of_thieves = {
+				color={ 246 220 77 }
+				color2={ 255 255 255 }
+				
+				b_city_of_traitors = {
+				}
+			}
+			
+			c_icy_heart_peak = {
+				color={ 246 220 87 }
+				color2={ 255 255 255 }
+				
+				b_icy_heart_peak = {
+				}
+			}
+		}
+	}
+
+k_rogueport = {
+		color={ 115 0 203 }
+		color2={ 255 255 255 }
+		
+		d_rogueport = {
+			color={ 115 0 203 }
+			color2={ 255 255 255 }
+			
+			c_rogueport = {
+				color={ 115 0 203 }
+				color2={ 255 255 255 }
+				
+				b_rogueport = {
+				}
+			}
+			
+			c_lower_boggly_woods = {
+				color={ 115 10 203 }
+				color2={ 255 255 255 }
+				
+				b_lower_boggly_woods = {
+				}
+			}
+			
+			c_the_great_tree = {
+				color={ 115 20 203 }
+				color2={ 255 255 255 }
+				
+				b_the_great_tree = {
+				}
+			}
+			
+			c_poshley_heights = {
+				color={ 115 30 203 }
+				color2={ 255 255 255 }
+				
+				b_poshley_heights = {
+				}
+			}
+			
+			c_petalburg = {
+				color={ 115 40 203 }
+				color2={ 255 255 255 }
+				
+				b_petalburg = {
+				}
+			}
+			
+			c_hooktail_castle = {
+				color={ 115 50 203 }
+				color2={ 255 255 255 }
+				
+				b_hooktail_castle = {
+				}
+			}
+			
+			c_fahr_outpost = {
+				color={ 115 60 203 }
+				color2={ 255 255 255 }
+				
+				b_fahr_outpost = {
+				}
+			}
+			
+			c_southern_fahr_ridge = {
+				color={ 115 70 203 }
+				color2={ 255 255 255 }
+				
+				b_southern_fahr_ridge = {
+				}
+			}
+			
+			c_middle_fahr_ridge = {
+				color={ 115 80 203 }
+				color2={ 255 255 255 }
+				
+				b_middle_fahr_ridge = {
+				}
+			}
+			
+			c_northern_fahr_ridge = {
+				color={ 115 90 203 }
+				color2={ 255 255 255 }
+				
+				b_northern_fahr_ridge = {
+				}
+			}
+			
+			c_creepy_steeple = {
+				color={ 115 100 203 }
+				color2={ 255 255 255 }
+				
+				b_creepy_steeple = {
+				}
+			}
+			
+			c_twilight_town = {
+				color={ 115 110 203 }
+				color2={ 255 255 255 }
+				
+				b_twilight_house = {
+				}
+			}
+			
+			c_twilight_trail = {
+				color={ 115 120 203 }
+				color2={ 255 255 255 }
+				
+				b_twilight_trail = {
+				}
+			}
+			
+			c_twilight_woods = {
+				color={ 115 130 203 }
+				color2={ 255 255 255 }
+				
+				b_twilight_woods = {
+				}
+			}
+			
+			c_keehaul_key = {
+				color={ 115 140 203 }
+				color2={ 255 255 255 }
+				
+				b_keehaul_key = {
+				}
+			}
+			
+			c_pirates_grotto = {
+				color={ 115 150 203 }
+				color2={ 255 255 255 }
+				
+				b_pirates_grotto = {
+				}
+			}
+			
+			c_faire_square = {
+				color={ 115 160 203 }
+				color2={ 255 255 255 }
+				
+				b_faire_square = {
+				}
+			}
+			
+			c_pirates_dream = {
+				color={ 115 170 203 }
+				color2={ 255 255 255 }
+				
+				b_pirates_dream = {
+				}
+			}
+			
+			c_dire_dire_docks = {
+				color={ 115 180 203 }
+				color2={ 255 255 255 }
+				
+				b_dire_dire_docks = {
+				}
+			}
+			
+			c_hazy_maze_cave = {
+				color={ 115 190 203 }
+				color2={ 255 255 255 }
+				
+				b_hazy_maze_cave = {
+				}
+			}
+			
+			c_jolly_roger_cave = {
+				color={ 115 200 203 }
+				color2={ 255 255 255 }
+				
+				b_jolly_roger_cave = {
+				}
+			}
+			
+			c_wetdry_world = {
+				color={ 115 210 203 }
+				color2={ 255 255 255 }
+				
+				b_wetdry_world = {
+				}
+			}
+			
+			c_twilight_city = {
+				color={ 115 220 203 }
+				color2={ 255 255 255 }
+				
+				b_twilight_city = {
+				}
+			}
+			
+			c_mushville = {
+				color={ 115 230 203 }
+				color2={ 255 255 255 }
+				
+				b_mushville = {
+				}
+			}
+			
+			c_north_pole = {
+				color={ 115 240 203 }
+				color2={ 255 255 255 }
+				
+				b_north_pole = {
+				}
+			}
+			
+			c_city_of_traitors = {
+				color={ 115 250 203 }
+				color2={ 255 255 255 }
+				
+				b_city_of_traitors = {
+				}
+			}
+			
+			c_penguin_paradise = {
+				color={ 115 1 203 }
+				color2={ 255 255 255 }
+				
+				b_penguin_paradise = {
+				}
+			}
+			
+			c_twilight_vale = {
+				color={ 115 11 203 }
+				color2={ 255 255 255 }
+				
+				b_twilight_vale = {
+				}
+			}
+			
+			c_boggly_bay = {
+				color={ 115 21 203 }
+				color2={ 255 255 255 }
+				
+				b_boggly_bay = {
+				}
+			}
+			
+			c_silent_valley = {
+				color={ 115 31 203 }
+				color2={ 255 255 255 }
+				
+				b_silent_valley = {
+				}
+			}
+			
+			c_petal_meadows = {
+				color={ 115 41 203 }
+				color2={ 255 255 255 }
+				
+				b_petal_meadows = {
+				}
+			}
+			
+			c_upper_boggly_woods = {
+				color={ 115 51 203 }
+				color2={ 255 255 255 }
+				
+				b_upper_boggly_woods = {
+				}
+			}
+			
+			c_silent_mountains = {
+				color={ 115 61 203 }
+				color2={ 255 255 255 }
+				
+				b_silent_mountains = {
+				}
+			}
+			
+			c_icicle_town = {
+				color={ 115 71 203 }
+				color2={ 255 255 255 }
+				
+				b_icicle_town = {
+				}
+			}
+			
+			c_boggly_reach = {
+				color={ 115 81 203 }
+				color2={ 255 255 255 }
+				
+				b_boggly_reach = {
+				}
+			}
+			
+			c_black_meadow = {
+				color={ 115 91 203 }
+				color2={ 255 255 255 }
+				
+				b_black_meadow = {
+				}
+			}
+			
+			c_gray_glade = {
+				color={ 115 101 203 }
+				color2={ 255 255 255 }
+				
+				b_gray_glade = {
+				}
+			}
+			
+			c_whitevale = {
+				color={ 115 111 203 }
+				color2={ 255 255 255 }
+				
+				b_whitevale = {
+				}
+			}
+			
+			c_moonlight_pass = {
+				color={ 115 121 203 }
+				color2={ 255 255 255 }
+				
+				b_moonlight_pass = {
+				}
+			}
+			
+			c_last_refuge = {
+				color={ 115 131 203 }
+				color2={ 255 255 255 }
+				
+				b_last_refuge = {
+				}
+			}
+			
+			c_ice_rift = {
+				color={ 115 141 203 }
+				color2={ 255 255 255 }
+				
+				b_ice_rift = {
+				}
+			}
+			
+			c_crows_nest = {
+				color={ 115 151 203 }
+				color2={ 255 255 255 }
+				
+				b_crows_nest = {
+				}
+			}
+			
+			c_meloncholy_estuary = {
+				color={ 115 161 203 }
+				color2={ 255 255 255 }
+				
+				b_meloncholy_estuary = {
+				}
+			}
+			
+			c_tylex_peak = {
+				color={ 115 171 203 }
+				color2={ 255 255 255 }
+				
+				b_tylex_peak = {
+				}
+			}
+			
+			c_starlight_hills = {
+				color={ 115 181 203 }
+				color2={ 255 255 255 }
+				
+				b_starlight_hills = {
+				}
+			}
+			
+			c_reindeer_run = {
+				color={ 115 191 203 }
+				color2={ 255 255 255 }
+				
+				b_reindeer_run = {
+				}
+			}
+			
+			c_bounty_harbour = {
+				color={ 115 201 203 }
+				color2={ 255 255 255 }
+				
+				b_bounty_harbour = {
+				}
+			}
+			
+			c_nights_chill = {
+				color={ 115 211 203 }
+				color2={ 255 255 255 }
+				
+				b_nights_chill = {
+				}
+			}
+			
+			c_meloncholy_fjord = {
+				color={ 115 221 203 }
+				color2={ 255 255 255 }
+				
+				b_meloncholy_fjord = {
+				}
+			}
+			
+			c_snowfort_mountain = {
+				color={ 115 231 203 }
+				color2={ 255 255 255 }
+				
+				b_snowfort_mountain = {
+				}
+			}
+			
+			c_snow_cone_dome = {
+				color={ 115 241 203 }
+				color2={ 255 255 255 }
+				
+				b_snow_cone_dome = {
+				}
+			}
+			
+			c_avalanche_alley = {
+				color={ 115 251 203 }
+				color2={ 255 255 255 }
+				
+				b_avalanche_alley = {
+				}
+			}
+			
+			c_bleak_peak = {
+				color={ 115 2 203 }
+				color2={ 255 255 255 }
+				
+				b_bleak_peak = {
+				}
+			}
+			
+			c_hush_valley = {
+				color={ 115 12 203 }
+				color2={ 255 255 255 }
+				
+				b_hush_valley = {
+				}
+			}
+		}
+	}
+
+k_mushroom_land = {
+		color={ 0 73 14 }
+		color2={ 255 255 255 }
+		
+		d_mushroom_land = {
+			color={ 0 73 14 }
+			color2={ 255 255 255 }
+			
+			c_mushroom_castle = {
+				color={ 0 73 14 }
+				color2={ 255 255 255 }
+				
+				b_mushroom_castle = {
+				}
+			}
+			
+			c_marios_pad = {
+				color={ 10 73 14 }
+				color2={ 255 255 255 }
+				
+				b_marios_pad = {
+				}
+			}
+			
+			c_mushroom_way = {
+				color={ 20 73 14 }
+				color2={ 255 255 255 }
+				
+				b_mushroom_way = {
+				}
+			}
+			
+			c_bandits_way = {
+				color={ 30 73 14 }
+				color2={ 255 255 255 }
+				
+				b_bandits_way = {
+				}
+			}
+			
+			c_mushroom_mountains = {
+				color={ 40 73 14 }
+				color2={ 255 255 255 }
+				
+				b_mushroom_mountains = {
+				}
+			}
+			
+			c_kings_pass = {
+				color={ 50 73 14 }
+				color2={ 255 255 255 }
+				
+				b_kings_pass = {
+				}
+			}
+			
+			c_crownwood_forest = {
+				color={ 60 73 14 }
+				color2={ 255 255 255 }
+				
+				b_crownwood_forest = {
+				}
+			}
+			
+			c_mushroom_harbour = {
+				color={ 70 73 14 }
+				color2={ 255 255 255 }
+				
+				b_mushroom_harbour = {
+				}
+			}
+			
+			c_crown_bay = {
+				color={ 80 73 14 }
+				color2={ 255 255 255 }
+				
+				b_crown_bay = {
+				}
+			}
+			
+			c_hightop_flats = {
+				color={ 90 73 14 }
+				color2={ 255 255 255 }
+				
+				b_hightop_flats = {
+				}
+			}
+			
+			c_grand_staircase = {
+				color={ 100 73 14 }
+				color2={ 255 255 255 }
+				
+				b_grand_staircase = {
+				}
+			}
+			
+			c_icewater_bay = {
+				color={ 110 73 14 }
+				color2={ 255 255 255 }
+				
+				b_icewater_bay = {
+				}
+			}
+			
+			c_square_shore = {
+				color={ 120 73 14 }
+				color2={ 255 255 255 }
+				
+				b_square_shore = {
+				}
+			}
+			
+			c_mushroom_island = {
+				color={ 130 73 14 }
+				color2={ 255 255 255 }
+				
+				b_mushroom_island = {
+				}
+			}
+			
+			c_kero_sewers = {
+				color={ 0 45 8 }
+				color2={ 255 255 255 }
+				
+				b_kero_sewers = {
+				}
+			}
+			
+			c_midas_river = {
+				color={ 10 45 8 }
+				color2={ 255 255 255 }
+				
+				b_midas_river = {
+				}
+			}
+			
+			c_tadpole_pond = {
+				color={ 20 45 8 }
+				color2={ 255 255 255 }
+				
+				b_tadpole_pond = {
+				}
+			}
+			
+			c_rose_way = {
+				color={ 60 45 8 }
+				color2={ 255 255 255 }
+				
+				b_rose_way = {
+				}
+			}
+			
+			c_rose_town = {
+				color={ 30 45 8 }
+				color2={ 255 255 255 }
+				
+				b_rose_town = {
+				}
+			}
+			
+			c_pipe_vault = {
+				color={ 40 45 8 }
+				color2={ 255 255 255 }
+				
+				b_pipe_vault = {
+				}
+			}
+			
+			c_rose_forest_maze = {
+				color={ 50 45 8 }
+				color2={ 255 255 255 }
+				
+				b_rose_forest_maze = {
+				}
+			}
+			
+			c_shore_forest_maze = {
+				color={ 70 45 8 }
+				color2={ 255 255 255 }
+				
+				b_shore_forest_maze = {
+				}
+			}
+			
+			c_deep_forest_maze = {
+				color={ 80 45 8 }
+				color2={ 255 255 255 }
+				
+				b_deep_forest_maze = {
+				}
+			}
+			
+			c_mole_mountain = {
+				color={ 0 66 18 }
+				color2={ 255 255 255 }
+				
+				b_mole_mountain = {
+				}
+			}
+			
+			c_booster_tower = {
+				color={ 10 66 18 }
+				color2={ 255 255 255 }
+				
+				b_booster_tower = {
+				}
+			}
+			
+			c_booster_hill = {
+				color={ 20 66 18 }
+				color2={ 255 255 255 }
+				
+				b_booster_hill = {
+				}
+			}
+			
+			c_booster_pass = {
+				color={ 30 66 18 }
+				color2={ 255 255 255 }
+				
+				b_booster_pass = {
+				}
+			}
+			
+			c_marrymore = {
+				color={ 40 66 18 }
+				color2={ 255 255 255 }
+				
+				b_marrymore = {
+				}
+			}
+			
+			c_boulder_field = {
+				color={ 50 66 18 }
+				color2={ 255 255 255 }
+				
+				b_boulder_field = {
+				}
+			}
+			
+			c_booster_field = {
+				color={ 60 66 18 }
+				color2={ 255 255 255 }
+				
+				b_booster_field = {
+				}
+			}
+			
+			c_granite_flats = {
+				color={ 70 66 18 }
+				color2={ 255 255 255 }
+				
+				b_granite_flats = {
+				}
+			}
+			
+			c_southport = {
+				color={ 80 66 18 }
+				color2={ 255 255 255 }
+				
+				b_southport = {
+				}
+			}
+			
+			c_pirates_bluff = {
+				color={ 90 66 18 }
+				color2={ 255 255 255 }
+				
+				b_pirates_bluff = {
+				}
+			}
+			
+			c_smugglers_bay = {
+				color={ 100 66 18 }
+				color2={ 255 255 255 }
+				
+				b_smugglers_bay = {
+				}
+			}
+			
+			c_mole_harbour = {
+				color={ 110 66 18 }
+				color2={ 255 255 255 }
+				
+				b_mole_harbour = {
+				}
+			}
+			
+			c_star_hill = {
+				color={ 0 40 6 }
+				color2={ 255 255 255 }
+				
+				b_star_hill = {
+				}
+			}
+			
+			c_seaside_town = {
+				color={ 10 40 6 }
+				color2={ 255 255 255 }
+				
+				b_seaside_town = {
+				}
+			}
+			
+			c_salty_path = {
+				color={ 20 40 6 }
+				color2={ 255 255 255 }
+				
+				b_salty_path = {
+				}
+			}
+			
+			c_salty_beach = {
+				color={ 30 40 6 }
+				color2={ 255 255 255 }
+				
+				b_salty_beach = {
+				}
+			}
+			
+			c_rolling_flats = {
+				color={ 40 40 6 }
+				color2={ 255 255 255 }
+				
+				b_rolling_flats = {
+				}
+			}
+			
+			c_lightning_bay = {
+				color={ 50 40 6 }
+				color2={ 255 255 255 }
+				
+				b_lightning_bay = {
+				}
+			}
+			
+			c_harbour_hold = {
+				color={ 60 40 6 }
+				color2={ 255 255 255 }
+				
+				b_harbour_hold = {
+				}
+			}
+			
+			c_rocky_fields = {
+				color={ 70 40 6 }
+				color2={ 255 255 255 }
+				
+				b_rocky_fields = {
+				}
+			}
+			
+			c_freshwater_beach = {
+				color={ 80 40 6 }
+				color2={ 255 255 255 }
+				
+				b_freshwater_beach = {
+				}
+			}
+			
+			c_monstro_town = {
+				color={ 0 25 8 }
+				color2={ 255 255 255 }
+				
+				b_monstro_town = {
+				}
+			}
+			
+			c_lands_end = {
+				color={ 10 25 8 }
+				color2={ 255 255 255 }
+				
+				b_lands_end = {
+				}
+			}
+			
+			c_bean_valley = {
+				color={ 20 25 8 }
+				color2={ 255 255 255 }
+				
+				b_bean_valley = {
+				}
+			}
+			
+			c_nimbus_land = {
+				color={ 30 25 8 }
+				color2={ 255 255 255 }
+				
+				b_nimbus_land = {
+				}
+			}
+			
+			c_belome_temple = {
+				color={ 40 25 8 }
+				color2={ 255 255 255 }
+				
+				b_belome_temple = {
+				}
+			}
+			
+			c_cliff_of_beasts = {
+				color={ 50 25 8 }
+				color2={ 255 255 255 }
+				
+				b_cliff_of_beasts = {
+				}
+			}
+			
+			c_shadow_bay = {
+				color={ 60 25 8 }
+				color2={ 255 255 255 }
+				
+				b_shadow_bay = {
+				}
+			}
+			
+			c_sunrise_coast = {
+				color={ 70 25 8 }
+				color2={ 255 255 255 }
+				
+				b_sunrise_coast = {
+				}
+			}
+			
+			c_savage_heights = {
+				color={ 80 25 8 }
+				color2={ 255 255 255 }
+				
+				b_savage_heights = {
+				}
+			}
+			
+			c_long_fall_cliffs = {
+				color={ 90 25 8 }
+				color2={ 255 255 255 }
+				
+				b_long_fall_cliffs = {
+				}
+			}
+			
+			c_tower_of_sand = {
+				color={ 100 25 8 }
+				color2={ 255 255 255 }
+				
+				b_tower_of_sand = {
+				}
+			}
+			
+			c_quartz_crag = {
+				color={ 110 25 8 }
+				color2={ 255 255 255 }
+				
+				b_quartz_crag = {
+				}
+			}
+			
+			c_mouth_of_the_barrel = {
+				color={ 0 48 9 }
+				color2={ 255 255 255 }
+				
+				b_mouth_of_the_barrel = {
+				}
+			}
+			
+			c_sulphur_coast = {
+				color={ 10 48 9 }
+				color2={ 255 255 255 }
+				
+				b_sulphur_coast = {
+				}
+			}
+			
+			c_potash_bay = {
+				color={ 20 48 9 }
+				color2={ 255 255 255 }
+				
+				b_potash_bay = {
+				}
+			}
+			
+			c_burning_beach = {
+				color={ 30 48 9 }
+				color2={ 255 255 255 }
+				
+				b_burning_beach = {
+				}
+			}
+			
+			c_ashen_slope = {
+				color={ 40 48 9 }
+				color2={ 255 255 255 }
+				
+				b_ashen_slope = {
+				}
+			}
+			
+			c_choking_cliffs = {
+				color={ 50 48 9 }
+				color2={ 255 255 255 }
+				
+				b_choking_cliffs = {
+				}
+			}
+			
+			c_black_beach = {
+				color={ 60 48 9 }
+				color2={ 255 255 255 }
+				
+				b_black_beach = {
+				}
+			}
+			
+			c_caldera_cliff = {
+				color={ 70 48 9 }
+				color2={ 255 255 255 }
+				
+				b_caldera_cliff = {
+				}
+			}
+			
+			c_barrel_slope = {
+				color={ 80 48 9 }
+				color2={ 255 255 255 }
+				
+				b_barrel_slope = {
+				}
+			}
+			
+			c_lava_hill = {
+				color={ 90 48 9 }
+				color2={ 255 255 255 }
+				
+				b_lava_hill = {
+				}
+			}
+			
+			c_vista_hill = {
+				color={ 0 22 4 }
+				color2={ 255 255 255 }
+				
+				b_vista_hill = {
+				}
+			}
+			
+			c_bowsers_bay = {
+				color={ 10 22 4 }
+				color2={ 255 255 255 }
+				
+				b_bowsers_bay = {
+				}
+			}
+			
+			c_teeth_islands = {
+				color={ 20 22 4 }
+				color2={ 255 255 255 }
+				
+				b_teeth_islands = {
+				}
+			}
+			
+			c_bowser_bay = {
+				color={ 30 22 4 }
+				color2={ 255 255 255 }
+				
+				b_bowser_bay = {
+				}
+			}
+			
+			c_koopa_bay = {
+				color={ 40 22 4 }
+				color2={ 255 255 255 }
+				
+				b_koopa_bay = {
+				}
+			}
+			
+			c_frostbite_islands = {
+				color={ 50 22 4 }
+				color2={ 255 255 255 }
+				
+				b_frostbite_islands = {
+				}
+			}
+			
+			c_koopa_cape2 = {
+				color={ 60 22 4 }
+				color2={ 255 255 255 }
+				
+				b_koopa_cape2 = {
+				}
+			}
+			
+			c_tranquil_bay = {
+				color={ 70 22 4 }
+				color2={ 255 255 255 }
+				
+				b_tranquil_bay = {
+				}
+			}
+			
+			c_redstone_beach = {
+				color={ 80 22 4 }
+				color2={ 255 255 255 }
+				
+				b_redstone_beach = {
+				}
+			}
+			
+			c_icy_claw = {
+				color={ 90 22 4 }
+				color2={ 255 255 255 }
+				
+				b_icy_claw = {
+				}
+			}
+			
+			c_dagger_coast = {
+				color={ 100 22 4 }
+				color2={ 255 255 255 }
+				
+				b_dagger_coast = {
+				}
+			}
+			
+			c_shattered_anchor = {
+				color={ 110 22 4 }
+				color2={ 255 255 255 }
+				
+				b_shattered_anchor = {
+				}
+			}
+			
+			c_spikeline_shoreline = {
+				color={ 120 22 4 }
+				color2={ 255 255 255 }
+				
+				b_spikeline_shoreline = {
+				}
+			}
+			
+			c_flaming_harbour = {
+				color={ 130 22 4 }
+				color2={ 255 255 255 }
+				
+				b_flaming_harbour = {
+				}
+			}
+			
+			c_barren_badlands = {
+				color={ 140 22 4 }
+				color2={ 255 255 255 }
+				
+				b_barren_badlands = {
+				}
+			}
+			
+			c_lost_caves = {
+				color={ 150 22 4 }
+				color2={ 255 255 255 }
+				
+				b_lost_caves = {
+				}
+			}
+			
+			c_the_shadowlands = {
+				color={ 160 22 4 }
+				color2={ 255 255 255 }
+				
+				b_the_shadowlands = {
+				}
+			}
+			
+			c_the_turtles_spine = {
+				color={ 170 22 4 }
+				color2={ 255 255 255 }
+				
+				b_the_turtles_spine = {
+				}
+			}
+			
+			c_thousand_needles = {
+				color={ 180 22 4 }
+				color2={ 255 255 255 }
+				
+				b_thousand_needles = {
+				}
+			}
+			
+			c_yoster_island = {
+				color={ 85 140 61 }
+				color2={ 255 255 255 }
+				
+				b_yoster_island = {
+				}
+			}
+		}
+	}
+
+k_shiver_land = {
+		color={ 0 223 237 }
+		color2={ 255 255 255 }
+		
+		d_shiver_land = {
+			color={ 0 223 237 }
+			color2={ 255 255 255 }
+			
+			c_cool_cool_mountain = {
+				color={ 0 223 237 }
+				color2={ 255 255 255 }
+				
+				b_cool_cool_mountain = {
+				}
+			}
+			
+			c_cold_cold_forest = {
+				color={ 10 223 237 }
+				color2={ 255 255 255 }
+				
+				b_cold_cold_forest = {
+				}
+			}
+			
+			c_raging_ravine = {
+				color={ 20 223 237 }
+				color2={ 255 255 255 }
+				
+				b_raging_ravine = {
+				}
+			}
+			
+			c_ice_castle2 = {
+				color={ 30 223 237 }
+				color2={ 255 255 255 }
+				
+				b_ice_castle2 = {
+				}
+			}
+			
+			c_sherbet_land2= {
+				color={ 40 223 237 }
+				color2={ 255 255 255 }
+				
+				b_sherbet_land2 = {
+				}
+			}
+			
+			c_snow_land = {
+				color={ 50 223 237 }
+				color2={ 255 255 255 }
+				
+				b_snow_land = {
+				}
+			}
+			
+			c_lethal_lava_land = {
+				color={ 60 223 237 }
+				color2={ 255 255 255 }
+				
+				b_lethal_lava_land = {
+				}
+			}
+			
+			c_snowmans_land = {
+				color={ 70 223 237 }
+				color2={ 255 255 255 }
+				
+				b_snowmans_land = {
+				}
+			}
+			
+			c_cubyrinth = {
+				color={ 80 223 237 }
+				color2={ 255 255 255 }
+				
+				b_cubyrinth = {
+				}
+			}
+			
+			c_frostown = {
+				color={ 90 223 237 }
+				color2={ 255 255 255 }
+				
+				b_frostown = {
+				}
+			}
+			
+			c_polastraits = {
+				color={ 100 223 237 }
+				color2={ 255 255 255 }
+				
+				b_polastraits = {
+				}
+			}
+			
+			c_sparkleton = {
+				color={ 120 223 237 }
+				color2={ 255 255 255 }
+				
+				b_sparkleton = {
+				}
+			}
+			
+			c_christmas_village = {
+				color={ 130 223 237 }
+				color2={ 255 255 255 }
+				
+				b_christmas_village = {
+				}
+			}
+			
+			c_goomstar_temple = {
+				color={ 140 223 237 }
+				color2={ 255 255 255 }
+				
+				b_goomstar_temple = {
+				}
+			}
+			
+			c_infernum = {
+				color={ 150 223 237 }
+				color2={ 255 255 255 }
+				
+				b_infernum = {
+				}
+			}
+			
+			c_frosty_frontier = {
+				color={ 160 223 237 }
+				color2={ 255 255 255 }
+				
+				b_frosty_frontier = {
+				}
+			}
+			
+			c_frostbite_mountain = {
+				color={ 170 223 237 }
+				color2={ 255 255 255 }
+				
+				b_frostbite_mountain = {
+				}
+			}
+			
+			c_iceburg_alley = {
+				color={ 180 223 237 }
+				color2={ 255 255 255 }
+				
+				b_iceburg_alley = {
+				}
+			}
+			
+			c_snow_cone_tundra = {
+				color={ 190 223 237 }
+				color2={ 255 255 255 }
+				
+				b_snow_cone_tundra = {
+				}
+			}
+			
+			c_lethal_lava_volcano = {
+				color={ 200 223 237 }
+				color2={ 255 255 255 }
+				
+				b_lethal_lava_volcano = {
+				}
+			}
+			
+			c_silly_cliff = {
+				color={ 210 223 237 }
+				color2={ 255 255 255 }
+				
+				b_silly_cliff = {
+				}
+			}
+			
+			c_icy_cool_coast = {
+				color={ 220 223 237 }
+				color2={ 255 255 255 }
+				
+				b_icy_cool_coast = {
+				}
+			}
+			
+			c_frosty_field = {
+				color={ 230 223 237 }
+				color2={ 255 255 255 }
+				
+				b_frosty_field = {
+				}
+			}
+			
+			c_biting_slopes = {
+				color={ 240 223 237 }
+				color2={ 255 255 255 }
+				
+				b_biting_slopes = {
+				}
+			}
+			
+			c_sulphur_fields = {
+				color={ 250 223 237 }
+				color2={ 255 255 255 }
+				
+				b_sulphur_fields = {
+				}
+			}
+			
+			c_bitter_cold_glacier = {
+				color={ 1 223 237 }
+				color2={ 255 255 255 }
+				
+				b_bitter_cold_glacier = {
+				}
+			}
+			
+			c_penguin_village = {
+				color={ 11 223 237 }
+				color2={ 255 255 255 }
+				
+				b_penguin_village = {
+				}
+			}
+			
+			c_bundleup_bay = {
+				color={ 21 223 237 }
+				color2={ 255 255 255 }
+				
+				b_bundleup_bay = {
+				}
+			}
+			
+			c_blizzardy_badlands = {
+				color={ 31 223 237 }
+				color2={ 255 255 255 }
+				
+				b_blizzardy_badlands = {
+				}
+			}
+		}
+	}
+
+k_sarsaland = {
+		color={ 255 253 0 }
+		color2={ 255 255 255 }
+		
+		d_sarsaland = {
+			color={ 255 253 0 }
+			color2={ 255 255 255 }
+			
+			c_pyramind_plains = {
+				color={ 255 253 0 }
+				color2={ 255 255 255 }
+				
+				b_pyramind_plains = {
+				}
+			}
+			
+			c_palm_pyramids = {
+				color={ 255 253 10 }
+				color2={ 255 255 255 }
+				
+				b_palm_pyramids = {
+				}
+			}
+			
+			c_sphinx_caverns = {
+				color={ 255 253 20 }
+				color2={ 255 255 255 }
+				
+				b_sphinx_caverns = {
+				}
+			}
+			
+			c_bamboo_forest = {
+				color={ 255 253 50 }
+				color2={ 255 255 255 }
+				
+				b_bamboo_forest = {
+				}
+			}
+			
+			c_sky_mountain_pass = {
+				color={ 255 253 60 }
+				color2={ 255 255 255 }
+				
+				b_sky_mountain_pass = {
+				}
+			}
+			
+			c_sarasa_palace = {
+				color={ 255 253 70 }
+				color2={ 255 255 255 }
+				
+				b_sarasa_palace = {
+				}
+			}
+			
+			c_coral_cove = {
+				color={ 255 253 100 }
+				color2={ 255 255 255 }
+				
+				b_coral_cove = {
+				}
+			}
+			
+			c_calm_coast = {
+				color={ 255 253 110 }
+				color2={ 255 255 255 }
+				
+				b_calm_coast = {
+				}
+			}
+			
+			c_pearl_beach = {
+				color={ 255 253 120 }
+				color2={ 255 255 255 }
+				
+				b_pearl_beach = {
+				}
+			}
+			
+			c_moai_flats = {
+				color={ 255 253 150 }
+				color2={ 255 255 255 }
+				
+				b_moai_flats = {
+				}
+			}
+			
+			c_easton_caves = {
+				color={ 255 253 160 }
+				color2={ 255 255 255 }
+				
+				b_easton_caves = {
+				}
+			}
+			
+			c_tiki_forest = {
+				color={ 255 253 170 }
+				color2={ 255 255 255 }
+			
+				b_tiki_forest = {
+				}
+			}
+			
+			c_upper_awazon = {
+				color={ 245 243 0 }
+				color2={ 255 255 255 }
+				
+				b_upper_awazon = {
+				}
+			}
+			
+			c_lower_awazon = {
+				color={ 235 233 0 }
+				color2={ 255 255 255 }
+				
+				b_lower_awazon = {
+				}
+			}
+			
+			c_deep_mines = {
+				color={ 225 223 0 }
+				color2={ 255 255 255 }
+				
+				b_deep_mines = {
+				}
+			}
+			
+			c_shimmer_bank = {
+				color={ 215 213 0 }
+				color2={ 255 255 255 }
+				
+				b_shimmer_bank = {
+				}
+			}
+			
+			c_awazon_estuary = {
+				color={ 205 203 0 }
+				color2={ 255 255 255 }
+				
+				b_awazon_estuary = {
+				}
+			}
+			
+			c_sifters_island = {
+				color={ 195 193 0 }
+				color2={ 255 255 255 }
+				
+				b_sifters_island = {
+				}
+			}
+			
+			c_dense_awazon_jungle = {
+				color={ 193 193 10 }
+				color2={ 255 255 255 }
+				
+				b_dense_awazon_jungle = {
+				}
+			}
+			
+			c_awazon_plateau = {
+				color={ 195 193 20 }
+				color2={ 255 255 255 }
+				
+				b_awazon_plateau = {
+				}
+			}
+			
+			c_golden_pyramid = {
+				color={ 195 193 30 }
+				color2={ 255 255 255 }
+				
+				b_golden_pyramid = {
+				}
+			}
+			
+			c_daisy_circuit = {
+				color={ 255 253 180 }
+				color2={ 255 255 255 }
+				
+				b_daisy_circuit = {
+				}
+			}
+			
+			c_daisy_hills = {
+				color={ 255 253 190 }
+				color2={ 255 255 255 }
+				
+				b_daisy_hills = {
+				}
+			}
+			
+			c_flowerkoku = {
+				color={ 255 253 200 }
+				color2={ 255 255 255 }
+				
+				b_flowerkoku = {
+				}
+			}
+			
+			c_georges_gorge = {
+				color={ 255 253 210 }
+				color2={ 255 255 255 }
+				
+				b_georges_gorge = {
+				}
+			}
+			
+			c_salt_coast = {
+				color={ 195 193 40 }
+				color2={ 255 255 255 }
+				
+				b_salt_coast = {
+				}
+			}
+			
+			c_copper_coast = {
+				color={ 195 193 50 }
+				color2={ 255 255 255 }
+				
+				b_copper_coast = {
+				}
+			}
+			
+			c_gold_coast = {
+				color={ 195 193 60 }
+				color2={ 255 255 255 }
+				
+				b_gold_coast = {
+				}
+			}
+			
+			c_iron_coast = {
+				color={ 195 193 70 }
+				color2={ 255 255 255 }
+				
+				b_iron_coast = {
+				}
+			}
+			
+			c_spice_coast = {
+				color={ 195 193 80 }
+				color2={ 255 255 255 }
+				
+				b_spice_coast ={
+				}
+			}
+			
+			c_easton_range = {
+				color={ 255 253 220 }
+				color2={ 255 255 255 }
+				
+				b_easton_range = {
+				}
+			}
+			
+			c_tiki_town = {
+				color={ 255 253 230 }
+				color2={ 255 255 255 }
+				
+				b_tiki_town = {
+				}
+			}
+			
+			c_awazon_coast = {
+				color={ 245 243 10 }
+				color2={ 255 255 255 }
+				
+				b_awazon_coast = {
+				}
+			}
+			
+			c_wildflower_mountain = {
+				color={ 245 243 20 }
+				color2={ 255 255 255 }
+				
+				b_wildflower_mountain = {
+				}
+			}
+		}
+	}
+	
+k_donkey_kong_country = {
+		color={ 196 181 0 }
+		color2={ 255 255 255 }
+		
+		d_donkey_kong_country = {
+			color={ 196 181 0 }
+			color2={ 255 255 255 }
+			
+			c_kong_village = {
+				color={ 196 181 0 }
+				color2={ 255 255 255 }
+				
+				b_kong_village = {
+				}
+			}
+			
+			c_kongo_jungle = {
+				color={ 196 181 10 }
+				color2={ 255 255 255 }
+				
+				b_kongo_jungle = {
+				}
+			}
+			
+			c_monkey_mines = {
+				color={ 196 181 20 }
+				color2={ 255 255 255 }
+				
+				b_monkey_mines = {
+				}
+			}
+			
+			c_vine_valley = {
+				color={ 196 181 30 }
+				color2={ 255 255 255 }
+				
+				b_vine_valley = {
+				}
+			}
+			
+			c_gorilla_glacier = {
+				color={ 196 181 40 }
+				color2={ 255 255 255 }
+				
+				b_gorilla_glacier = {
+				}
+			}
+			
+			c_kremkroc_industries = {
+				color={ 196 181 50 }
+				color2={ 255 255 255 }
+				
+				b_kremkroc_industries = {
+				}
+			}
+			
+			c_chimp_caverns = {
+				color={ 196 181 60 }
+				color2={ 255 255 255 }
+				
+				b_chimp_caverns = {
+				}
+			}
+			
+			c_banana_fairy_island = {
+				color={ 196 181 70 }
+				color2={ 255 255 255 }
+				
+				b_banana_fairy_island = {
+				}
+			}
+			
+			c_bonus_islands = {
+				color={ 196 181 80 }
+				color2={ 255 255 255 }
+				
+				b_bonus_islands = {
+				}
+			}
+			
+			c_sun_sun_island = {
+				color={ 104 117 0 }
+				color2={ 255 255 255 }
+				
+				b_sun_sun_island = {
+				}
+			}
+			
+			c_lost_island = {
+				color={ 104 117 10 }
+				color2={ 255 255 255 }
+				
+				b_lost_island = {
+				}
+			}
+			
+			c_ghost_island = {
+				color={ 104 117 20 }
+				color2={ 255 255 255 }
+				
+				b_ghost_island = {
+				}
+			}
+			
+			c_chill_n_char_island = {
+				color={ 104 117 30 }
+				color2={ 255 255 255 }
+				
+				b_chill_n_char_island = {
+				}
+			}
+			
+			c_highhigh_island = {
+				color={ 104 117 40 }
+				color2={ 255 255 255 }
+				
+				b_highhigh_island = {
+				}
+			}
+		}
+	}
+	
+k_fruit_islands = {
+		color={ 232 213 0 }
+		color2={ 255 255 255 }
+		
+		d_banana_kingdom = {
+			color={ 232 213 0 }
+			color2={ 255 255 255 }
+			
+			c_dawn_savanna = {
+				color={ 232 213 0 }
+				color2={ 255 255 255 }
+				
+				b_dawn_savanna = {
+				}
+			}
+			
+			c_jungle_deeps = {
+				color={ 232 213 10 }
+				color2={ 255 255 255 }
+				
+				b_jungle_deeps = {
+				}
+			}
+		}
+		
+		d_orange_kingdom = {
+			color={ 237 123 0 }
+			color2={ 255 255 255 }
+			
+			c_silver_snow_peak = {
+				color={ 237 123 0 }
+				color2={ 255 255 255 }
+				
+				b_silver_snow_peak = {
+				}
+			}
+			
+			c_sky_garden2 = {
+				color={ 237 123 10 }
+				color2={ 255 255 255 }
+				
+				b_sky_garden2 = {
+				}
+			}
+		}
+		
+		d_watermelon_kingdom = {
+			color={ 200 215 100 }
+			color2={ 255 255 255 }
+			
+			c_monkey_fest = {
+				color={ 200 215 100 }
+				color2={ 255 255 255 }
+				
+				b_monkey_fest = {
+				}
+			}
+			
+			c_desert_oasis2 = {
+				color={ 200 215 110 }
+				color2={ 255 255 255 }
+				
+				b_desert_oasis2 = {
+				}
+			}
+		}
+		
+		d_apple_kingdom = {
+			color={ 110 7 10 }
+			color2={ 255 255 255 }
+			
+			c_massive_canyon = {
+				color={ 110 7 10 }
+				color2={ 255 255 255 }
+				
+				b_massive_canyon = {
+				}
+			}
+			
+			c_ice_warren = {
+				color={ 110 7 20 }
+				color2={ 255 255 255 }
+				
+				b_ice_warren = {
+				}
+			}
+		}
+		
+		d_strawberry_kingdom = {
+			color={ 231 52 50 }
+			color2={ 255 255 255 }
+			
+			c_helibird_nest = {
+				color={ 231 52 50 }
+				color2={ 255 255 255 }
+				
+				b_helibird_nest = {
+				}
+			}
+			
+			c_spirit_tree = {
+				color={ 231 52 60 }
+				color2={ 255 255 255 }
+				
+				b_spirit_tree = {
+				}
+			}
+		}
+		
+		d_pineapple_kingdom = {
+			color={ 207 147 0 }
+			color2={ 255 255 255 }
+			
+			c_rumble_falls = {
+				color={ 207 147 0 }
+				color2={ 255 255 255 }
+				
+				b_rumble_falls = {
+				}
+			}
+			
+			c_pristine_sea = {
+				color={ 207 147 10 }
+				color2={ 255 255 255 }
+				
+				b_pristine_sea = {
+				}
+			}
+		}
+		
+		d_lemon_kingdom = {
+			color={ 251 190 0 }
+			color2={ 255 255 255 }
+			
+			c_chopperbird_race = {
+				color={ 251 190 0 }
+				color2={ 255 255 255 }
+				
+				b_chopperbird_race = {
+				}
+			}
+			
+			c_cactus_mine = {
+				color={ 251 190 10 }
+				color2={ 255 255 255 }
+				
+				b_cactus_mine = {
+				}
+			}
+		}
+		
+		d_grape_kingdom = {
+			color={ 97 80 100 }
+			color2={ 255 255 255 }
+			
+			c_sweet_paradise = {
+				color={ 97 80 100 }
+				color2={ 255 255 255 }
+				
+				b_sweet_paradise = {
+				}
+			}
+			
+			c_primeval_ruins = {
+				color={ 97 80 110 }
+				color2={ 255 255 255 }
+				
+				b_primeval_ruins = {
+				}
+			}
+		}
+		
+		d_cherry_kingdom = {
+			color={ 210 18 30 }
+			color2={ 255 255 255 }
+			
+			c_aurora_glacier = {
+				color={ 210 18 30 }
+				color2={ 255 255 255 }
+				
+				b_aurora_glacier = {
+				}
+			}
+			
+			c_grim_volcano = {
+				color={ 210 18 40 }
+				color2={ 255 255 255 }
+				
+				b_grim_volcano = {
+				}
+			}
+		}
+		
+		d_peach_kingdom = {
+			color={ 253 183 20 }
+			color2={ 255 255 255 }
+			
+			c_artic_plunge = {
+				color={ 253 183 20 }
+				color2={ 255 255 255 }
+				
+				b_artic_plunge = {
+				}
+			}
+			
+			c_ancient_foundry = {
+				color={ 253 183 30 }
+				color2={ 255 255 255 }
+				
+				b_ancient_foundry = {
+				}
+			}
+		}
+		
+		d_melon_kingdom = {
+			color={ 139 161 80 }
+			color2={ 255 255 255 }
+			
+			c_iguanagons_realm = {
+				color={ 139 161 80 }
+				color2={ 255 255 255 }
+				
+				b_iguanagons_realm = {
+				}
+			}
+			
+			c_banshee_swamp = {
+				color={ 139 161 90 }
+				color2={ 255 255 255 }
+				
+				b_banshee_swamp = {
+				}
+			}
+		}
+		
+		d_durian_kingdom = {
+			color={ 188 166 80 }
+			color2={ 255 255 255 }
+			
+			c_storm_hill = {
+				color={ 188 166 80 }
+				color2={ 255 255 255 }
+				
+				b_storm_hill = {
+				}
+			}
+			
+			c_aerie_fortress = {
+				color={ 188 166 90 }
+				color2={ 255 255 255 }
+				
+				b_aerie_fortress = {
+				}
+			}
+		}
+		
+		d_pear_kingdom = {
+			color={ 228 230 100 }
+			color2={ 255 255 255 }
+			
+			c_deep_sea_spirit = {
+				color={ 228 230 100 }
+				color2={ 255 255 255 }
+				
+				b_deep_sea_spirit = {
+				}
+			}
+			
+			c_clock_tower = {
+				color={ 228 230 110 }
+				color2={ 255 255 255 }
+				
+				b_clock_tower = {
+				}
+			}
+		}
+		
+		d_lychee_kingdom = {
+			color={ 229 52 40 }
+			color2={ 255 255 255 }
+			
+			c_helibird_dash = {
+				color={ 229 52 40 }
+				color2={ 255 255 255 }
+				
+				b_helibird_dash = {
+				}
+			}
+			
+			c_lava_cavern = {
+				color={ 229 52 50 }
+				color2={ 255 255 255 }
+				
+				b_lava_cavern = {
+				}
+			}
+		}
+		
+		d_chili_pepper_kingdom = {
+			color={ 239 49 40 }
+			color2={ 255 255 255 }
+			
+			c_cloudy_heights = {
+				color={ 239 49 40 }
+				color2={ 255 255 255 }
+				
+				b_cloudy_heights = {
+				}
+			}
+			
+			c_magma_colliseum = {
+				color={ 239 49 50 }
+				color2={ 255 255 255 }
+				
+				b_magma_colliseum = {
+				}
+			}
+		}
+		
+		d_star_fruit_kingdom = {
+			color={ 250 188 70 }
+			color2={ 255 255 255 }
+			
+			c_ninjape_rappy = {
+				color={ 250 188 70 }
+				color2={ 255 255 255 }
+				
+				b_ninjape_rappy = {
+				}
+			}
+			
+			c_asteroid_belt = {
+				color={ 250 188 80 }
+				color2={ 255 255 255 }
+				
+				b_asteroid_belt = {
+				}
+			}
+		}
+	}
+	
+k_crocodile_isle = {
+		color={ 120 196 0 }
+		color2={ 255 255 255 }
+		
+		d_crocodile_isle = {
+			color={ 120 196 0 }
+			color2={ 255 255 255 }
+			
+			c_crocodile_canyon = {
+				color={ 120 196 0 }
+				color2={ 255 255 255 }
+				
+				b_crocodile_canyon = {
+				}
+			}
+			
+			c_krem_quay = {
+				color={ 120 196 10 }
+				color2={ 255 255 255 }
+				
+				b_krem_quay = {
+				}
+			}
+			
+			c_krazy_kremland = {
+				color={ 120 196 20 }
+				color2={ 255 255 255 }
+				
+				b_krazy_kremland = {
+				}
+			}
+			
+			c_gloomy_gulch = {
+				color={ 120 196 30 }
+				color2={ 255 255 255 }
+				
+				b_gloomy_gulch = {
+				}
+			}
+			
+			c_k_rools_keep = {
+				color={ 120 196 40 }
+				color2={ 255 255 255 }
+				
+				b_k_rools_keep = {
+				}
+			}
+			
+			c_the_lost_world = {
+				color={ 120 196 50 }
+				color2={ 255 255 255 }
+				
+				b_the_lost_world = {
+				}
+			}
+		}
+	}
+	
+k_northern_kremisphere = {
+		color={ 19 196 0 }
+		color2={ 255 255 255 }
+		
+		d_northern_kremisphere = {
+			color={ 19 196 0 }
+			color2={ 255 255 255 }
+			
+			c_lake_orangatanga = {
+				color={ 19 196 0 }
+				color2={ 255 255 255 }
+				
+				b_lake_orangatanga = {
+				}
+			}
+			
+			c_kremwood_forest = {
+				color={ 19 196 10 }
+				color2={ 255 255 255 }
+				
+				b_kremwood_forest = {
+				}
+			}
+			
+			c_mekanos = {
+				color={ 19 196 20 }
+				color2={ 255 255 255 }
+				
+				b_mekanos = {
+				}
+			}
+			
+			c_cottontop_cove = {
+				color={ 19 196 30 }
+				color2={ 255 255 255 }
+				
+				b_cottontop_cove = {
+				}
+			}
+			
+			c_k3 = {
+				color={ 19 196 40 }
+				color2={ 255 255 255 }
+				
+				b_k3 = {
+				}
+			}
+			
+			c_razor_ridge = {
+				color={ 19 196 50 }
+				color2={ 255 255 255 }
+				
+				b_razor_ridge = {
+				}
+			}
+			
+			c_kaos_kore = {
+				color={ 19 196 60 }
+				color2={ 255 255 255 }
+				
+				b_kaos_kore = {
+				}
+			}
+			
+			c_pacifica = {
+				color={ 19 196 70 }
+				color2={ 255 255 255 }
+				
+				b_pacifica = {
+				}
+			}
+			
+			c_krematoa = {
+				color={ 19 196 80 }
+				color2={ 255 255 255 }
+				
+				b_krematoa = {
+				}
+			}
+			
+			c_cape_codswallop = {
+				color={ 19 196 90 }
+				color2={ 255 255 255 }
+				
+				b_cape_codswallop = {
+				}
+			}
+			
+			c_ford_knocks = {
+				color={ 19 196 100 }
+				color2={ 255 255 255 }
+				
+				b_ford_knocks = {
+				}
+			}
+			
+			c_mill_hill = {
+				color={ 19 196 110 }
+				color2={ 255 255 255 }
+				
+				b_mill_hill = {
+				}
+			}
+			
+			c_koco_channel = {
+				color={ 19 196 120 }
+				color2={ 255 255 255 }
+				
+				b_koco_channel = {
+				}
+			}
+			
+			c_primate_plains = {
+				color={ 19 196 130 }
+				color2={ 255 255 255 }
+				
+				b_primate_plains = {
+				}
+			}
+			
+			c_minkey_woods = {
+				color={ 19 196 140 }
+				color2={ 255 255 255 }
+				
+				b_minkey_woods = {
+				}
+			}
+			
+			c_black_ice_mountains = {
+				color={ 19 196 150 }
+				color2={ 255 255 255 }
+				
+				b_black_ice_mountains = {
+				}
+			}
+			
+			c_riverbank_mill = {
+				color={ 19 196 160 }
+				color2={ 255 255 255 }
+				
+				b_riverbank_mill = {
+				}
+			}
+			
+			c_blackforest_plateau = {
+				color={ 19 196 170 }
+				color2={ 255 255 255 }
+				
+				b_blackforest_plateau = {
+				}
+			}
+			
+			c_vertigo_verge = {
+				color={ 19 196 180 }
+				color2={ 255 255 255 }
+				
+				b_vertigo_verge = {
+				}
+			}
+			
+			c_jeopardy_jungle = {
+				color={ 19 196 190 }
+				color2={ 255 255 255 }
+				
+				b_jeopardy_jungle = {
+				}
+			}
+			
+			c_great_ape_lake = {
+				color={ 19 196 200 }
+				color2={ 255 255 255 }
+				
+				b_great_ape_lake = {
+				}
+			}
+			
+			c_factory_hill = {
+				color={ 19 196 210 }
+				color2={ 255 255 255 }
+				
+				b_factory_hill = {
+				}
+			}
+			
+			c_tin_can_valley = {
+				color={ 19 196 220 }
+				color2={ 255 255 255 }
+				
+				b_tin_can_valley = {
+				}
+			}
+			
+			c_tightrope_tropics = {
+				color={ 19 196 230 }
+				color2={ 255 255 255 }
+				
+				b_tightrope_tropics = {
+				}
+			}
+			
+			c_stalgamite_caverns = {
+				color={ 19 196 240 }
+				color2={ 255 255 255 }
+				
+				b_stalagmite_caverns = {
+				}
+			}
+			
+			c_ductline_flats = {
+				color={ 19 196 250 }
+				color2={ 255 255 255 }
+				
+				b_ductline_flats = {
+				}
+			}
+			
+			c_the_lost_land = {
+				color={ 19 196 255 }
+				color2={ 255 255 255 }
+				
+				b_the_lost_land = {
+				}
+			}
+			
+			c_bazaar_bay = {
+				color={ 19 196 1 }
+				color2={ 255 255 255 }
+				
+				b_bazaar_bay = {
+				}
+			}
+			
+			c_funky_cove = {
+				color={ 19 196 11 }
+				color2={ 255 255 255 }
+				
+				b_funky_cove = {
+				}
+			}
+			
+			c_bear_forest = {
+				color={ 19 196 21 }
+				color2={ 255 255 255 }
+				
+				b_bear_forest = {
+				}
+			}
+			
+			c_bramble_headland = {
+				color={ 19 196 31 }
+				color2={ 255 255 255 }
+				
+				b_bramble_headland = {
+				}
+			}
+			
+			c_barter_beach = {
+				color={ 19 196 41 }
+				color2={ 255 255 255 }
+				
+				b_barter_beach = {
+				}
+			}
+			
+			c_banana_bird_lake = {
+				color={ 19 196 51 }
+				color2={ 255 255 255 }
+				
+				b_banana_bird_lake = {
+				}
+			}
+			
+			c_lockjaw_falls = {
+				color={ 19 196 61 }
+				color2={ 255 255 255 }
+				
+				b_lockjaw_falls = {
+				}
+			}
+			
+			c_kremling_kamp = {
+				color={ 19 196 71 }
+				color2={ 255 255 255 }
+				
+				b_kremling_kamp = {
+				}
+			}
+			
+			c_neckys_canyon = {
+				color={ 19 196 81 }
+				color2={ 255 255 255 }
+				
+				b_neckys_canyon = {
+				}
+			}
+			
+			c_cactus_woods = {
+				color={ 19 196 91 }
+				color2={ 255 255 255 }
+				
+				b_cactus_woods = {
+				}
+			}
+			
+			c_madcap_mine = {
+				color={ 19 196 101 }
+				color2={ 255 255 255 }
+				
+				b_madcap_mine = {
+				}
+			}
+			
+			c_banana_bungalow = {
+				color={ 19 196 111 }
+				color2={ 255 255 255 }
+				
+				b_banana_bungalow = {
+				}
+			}
+			
+			c_tropical_treetops = {
+				color={ 19 196 121 }
+				color2={ 255 255 255 }
+				
+				b_tropical_treetops = {
+				}
+			}
+			
+			c_contraption_cave = {
+				color={ 19 196 131 }
+				color2={ 255 255 255 }
+				
+				b_contraption_cave = {
+				}
+			}
+			
+			c_puzzling_pyramid = {
+				color={ 19 196 141 }
+				color2={ 255 255 255 }
+				
+				b_puzzling_pyramid = {
+				}
+			}
+			
+			c_jungle_ruins = {
+				color={ 19 196 151 }
+				color2={ 255 255 255 }
+				
+				b_jungle_ruins = {
+				}
+			}
+			
+			c_treetop_temple = {
+				color={ 19 196 161 }
+				color2={ 255 255 255 }
+				
+				b_treetop_temple = {
+				}
+			}
+			
+			c_banana_ruins = {
+				color={ 19 196 171 }
+				color2={ 255 255 255 }
+				
+				b_banana_ruins = {
+				}
+			}
+			
+			c_dino_dino_jungle = {
+				color={ 19 196 181 }
+				color2={ 255 255 255 }
+				
+				b_dino_dino_jungle = {
+				}
+			}
+			
+			c_jumpy_jungle = {
+				color={ 19 196 191 }
+				color2={ 255 255 255 }
+				
+				b_jumpy_jungle = {
+				}
+			}
+			
+			c_forbidden_jungle = {
+				color={ 19 196 201 }
+				color2={ 255 255 255 }
+				
+				b_forbidden_jungle = {
+				}
+			}
+			
+			c_mt_dynamite = {
+				color={ 19 196 211 }
+				color2={ 255 255 255 }
+				
+				b_mt_dynamite = {
+				}
+			}
+			
+			c_scorching_canyon = {
+				color={ 19 196 221 }
+				color2={ 255 255 255 }
+				
+				b_scorching_canyon = {
+				}
+			}
+			
+			c_mammoth_glacier = {
+				color={ 19 196 231 }
+				color2={ 255 255 255 }
+				
+				b_mammoth_glacier = {
+				}
+			}
+			
+			c_parched_palace = {
+				color={ 19 196 241 }
+				color2={ 255 255 255 }
+				
+				b_parched_palace = {
+				}
+			}
+			
+			c_alpine_peak = {
+				color={ 19 196 251 }
+				color2={ 255 255 255 }
+				
+				b_alpine_peak = {
+				}
+			}
+			
+			c_bear_pines = {
+				color={ 19 196 2 }
+				color2={ 255 255 255 }
+				
+				b_bear_pines = {
+				}
+			}
+			
+			c_grizzly_woods = {
+				color={ 19 196 12 }
+				color2={ 255 255 255 }
+				
+				b_grizzly_woods = {
+				}
+			}
+			
+			c_salmon_hill = {
+				color={ 19 196 22 }
+				color2={ 255 255 255 }
+				
+				b_salmon_hill = {
+				}
+			}
+			
+			c_trout_river_bend = {
+				color={ 19 196 32 }
+				color2={ 255 255 255 }
+				
+				b_trout_river_bend = {
+				}
+			}
+			
+			c_salmon_shoreline = {
+				color={ 19 196 42 }
+				color2={ 255 255 255 }
+				
+				b_salmon_shoreline = {
+				}
+			}
+			
+			c_banana_bird_bay = {
+				color={ 19 196 52 }
+				color2={ 255 255 255 }
+				
+				b_banana_bird_bay = {
+				}
+			}
+			
+			c_rocky_heights = {
+				color={ 19 196 62 }
+				color2={ 255 255 255 }
+				
+				b_rocky_heights = {
+				}
+			}
+			
+			c_salty_shore = {
+				color={ 19 196 72 }
+				color2={ 255 255 255 }
+				
+				b_salty_shore = {
+				}
+			}
+			
+			c_bear_mountain = {
+				color={ 19 196 82 }
+				color2={ 255 255 255 }
+				
+				b_bear_mountain = {
+				}
+			}
+			
+			c_rough_scrubland = {
+				color={ 19 196 92 }
+				color2={ 255 255 255 }
+				
+				b_rough_scrubland = {
+				}
+			}
+			
+			c_monkey_march = {
+				color={ 19 196 102 }
+				color2={ 255 255 255 }
+				
+				b_monkey_march = {
+				}
+			}
+			
+			c_screaming_peaks = {
+				color={ 19 196 112 }
+				color2={ 255 255 255 }
+				
+				b_screaming_peaks = {
+				}
+			}
+			
+			c_fishers_coast = {
+				color={ 19 196 122 }
+				color2={ 255 255 255 }
+				
+				b_fishers_coast = {
+				}
+			}
+			
+			c_eastern_lowlands = {
+				color={ 19 196 132 }
+				color2={ 255 255 255 }
+				
+				b_eastern_lowlands = {
+				}
+			}
+		}
+	}
+	
+k_timber_island = {
+		color={ 188 39 0 }
+		color2={ 255 255 255 }
+		
+		d_timber_island = {
+			color={ 188 39 0 }
+			color2={ 255 255 255 }
+			
+			c_sherbet_island = {
+				color={ 188 39 0 }
+				color2={ 255 255 255 }
+				
+				b_sherbet_island = {
+				}
+			}
+			
+			c_snowflake_mountain = {
+				color={ 188 39 10 }
+				color2={ 255 255 255 }
+				
+				b_snowflake_mountain = {
+				}
+			}
+			
+			c_dino_domain = {
+				color={ 188 39 20 }
+				color2={ 255 255 255 }
+				
+				b_dino_domain = {
+				}
+			}
+			
+			c_dragon_forest = {
+				color={ 188 39 30 }
+				color2={ 255 255 255 }
+				
+				b_dragon_forest = {
+				}
+			}
+			
+			c_taj_falls = {
+				color={ 188 39 40 }
+				color2={ 255 255 255 }
+				
+				b_taj_falls = {
+				}
+			}
+			
+			c_timber_mountains = {
+				color={ 188 39 50 }
+				color2={ 255 255 255 }
+				
+				b_timber_mountains = {
+				}
+			}
+			
+			c_timber_hills = {
+				color={ 188 39 60 }
+				color2={ 255 255 255 }
+				
+				b_timber_hills = {
+				}
+			}
+		}
+	}
+	
+k_vibe_island = {
+		color={ 247 0 214 }
+		color2={ 255 255 255 }
+		
+		d_vibe_island = {
+			color={ 247 0 214 }
+			color2={ 255 255 255 }
+			
+			c_wavy_beach = {
+				color={ 247 0 214 }
+				color2={ 255 255 255 }
+				
+				b_wavy_beach = {
+				}
+			}
+			
+			c_gleam_glacier = {
+				color={ 247 10 214 }
+				color2={ 255 255 255 }
+				
+				b_gleam_glacier = {
+				}
+			}
+			
+			c_shriek_mansion = {
+				color={ 247 20 214 }
+				color2={ 255 255 255 }
+				
+				b_shriek_mansion = {
+				}
+			}
+			
+			c_ladida_plains = {
+				color={ 247 30 214 }
+				color2={ 255 255 255 }
+				
+				b_ladida_plains = {
+				}
+			}
+			
+			c_hoos_wood = {
+				color={ 247 40 214 }
+				color2={ 255 255 255 }
+				
+				b_hoos_wood = {
+				}
+			}
+			
+			c_fury_volcano = {
+				color={ 247 50 214 }
+				color2={ 255 255 255 }
+				
+				b_fury_volcano = {
+				}
+			}
+			
+			c_bowsers_villa = {
+				color={ 247 60 214 }
+				color2={ 255 255 255 }
+				
+				b_bowsers_villa = {
+				}
+			}
+		}
+	}
+	
+k_tropical_freeze_islands = {
+		color={ 196 181 100 }
+		color2={ 255 255 255 }
+		
+		d_tropical_freeze_islands = {
+			color={ 196 181 100 }
+			color2={ 255 255 255 }
+			
+			c_lost_mangroves = {
+				color={ 196 181 100 }
+				color2={ 255 255 255 }
+				
+				b_lost_mangroves = {
+				}
+			}
+			
+			c_autumn_heights = {
+				color={ 196 181 110 }
+				color2={ 255 255 255 }
+				
+				b_autumn_heights = {
+				}
+			}
+			
+			c_groovey_grassland = {
+				color={ 196 181 120 }
+				color2={ 255 255 255 }
+				
+				b_groovey_grassland = {
+				}
+			}
+			
+			c_flashfire_fields = {
+				color={ 196 181 130 }
+				color2={ 255 255 255 }
+				
+				b_flashfire_fields = {
+				}
+			}
+			
+			c_sea_breeze_cove = {
+				color={ 196 181 140 }
+				color2={ 255 255 255 }
+				
+				b_sea_breeze_cove = {
+				}
+			}
+			
+			c_harvest_hill = {
+				color={ 196 181 150 }
+				color2={ 255 255 255 }
+				
+				b_harvest_hill = {
+				}
+			}
+			
+			c_fruit_forest = {
+				color={ 196 181 160 }
+				color2={ 255 255 255 }
+				
+				b_fruit_forest = {
+				}
+			}
+			
+			c_beehive_hill = {
+				color={ 196 181 170 }
+				color2={ 255 255 255 }
+				
+				b_beehive_hill = {
+				}
+			}
+			
+			c_juicy_jungle = {
+				color={ 196 181 180 }
+				color2={ 255 255 255 }
+				
+				b_juicy_jungle = {
+				}
+			}
+			
+			c_secret_seclusion = {
+				color={ 196 181 190 }
+				color2={ 255 255 255 }
+				
+				b_secret_seclusion = {
+				}
+			}
+		}
+	}
+	
+k_warios_island = {
+		color={ 193 208 0 }
+		color2={ 255 255 255 }
+		
+		d_warios_island = {
+			color={ 193 208 0 }
+			color2={ 255 255 255 }
+			
+			c_warios_island = {
+				color={ 193 208 0 }
+				color2={ 255 255 255 }
+				
+				b_warios_island = {
+				}
+			}
+			
+			c_waluigis_island = {
+				color={ 193 208 10 }
+				color2={ 255 255 255 }
+				
+				b_waluigis_island = {
+				}
+			}
+		}
+	}
+	
+k_piillo_island = {
+		color={ 0 251 255 }
+		color2={ 255 255 255 }
+		
+		d_piillo_island = {
+			color={ 0 251 255 }
+			color2={ 255 255 255 }
+			
+			c_piillo_blimport = {
+				color={ 0 251 255 }
+				color2={ 255 255 255 }
+				
+				b_piillo_blimport = {
+				}
+			}
+			
+			c_piillo_castle = {
+				color={ 10 251 255 }
+				color2={ 255 255 255 }
+				
+				b_piillo_castle = {
+				}
+			}
+			
+			c_muchrise_park = {
+				color={ 20 251 255 }
+				color2={ 255 255 255 }
+				
+				b_muchrise_park = {
+				}
+			}
+			
+			c_dozing_sands = {
+				color={ 30 251 255 }
+				color2={ 255 255 255 }
+				
+				b_dozing_sands = {
+				}
+			}
+			
+			c_wakeport = {
+				color={ 40 251 255 }
+				color2={ 255 255 255 }
+				
+				b_wakeport = {
+				}
+			}
+			
+			c_mount_pajamaja = {
+				color={ 50 251 255 }
+				color2={ 255 255 255 }
+				
+				b_mount_pajamaja = {
+				}
+			}
+			
+			c_driftwood_shore = {
+				color={ 60 251 255 }
+				color2={ 255 255 255 }
+				
+				b_driftwood_shore = {
+				}
+			}
+			
+			c_somnom_woods = {
+				color={ 70 251 255 }
+				color2={ 255 255 255 }
+				
+				b_somnom_woods = {
+				}
+			}
+			
+			c_neo_bowser_castle = {
+				color={ 80 251 255 }
+				color2={ 255 255 255 }
+				
+				b_neo_bowser_castle = {
+				}
+			}
+		}
+	}
+	
+k_baseball_kingdom = {
+		color={ 255 0 114 }
+		color2={ 255 255 255 }
+		
+		d_baseball_kingdom = {
+			color={ 255 0 114 }
+			color2={ 255 255 255 }
+			
+			c_baseball_plaza = {
+				color={ 255 0 114 }
+				color2={ 255 255 255 }
+				
+				b_baseball_plaza = {
+				}
+			}
+			
+			c_dk_stadium = {
+				color={ 255 10 114 }
+				color2={ 255 255 255 }
+				
+				b_dk_stadium = {
+				}
+			}
+			
+			c_bowser_jr_castle = {
+				color={ 255 20 114 }
+				color2={ 255 255 255 }
+				
+				b_bowser_jr_castle = {
+				}
+			}
+			
+			c_peachs_stadium = {
+				color={ 255 30 114 }
+				color2={ 255 255 255 }
+				
+				b_peachs_stadium = {
+				}
+			}
+		}
+	}
+	
+k_yoshis_new_island = {
+		color={ 46 255 0}
+		color2={ 255 255 255 }
+		
+		d_yoshis_new_island = {
+			color={ 46 255 0 }
+			color2={ 255 255 255 }
+			
+			c_yoshi_volcano = {
+				color={ 46 255 0 }
+				color2={ 255 255 255 }
+				
+				b_yoshi_volcano = {
+				}
+			}
+			
+			c_snowy_hill = {
+				color={ 46 255 10 }
+				color2={ 255 255 255 }
+				
+				b_snowy_hill = {
+				}
+			}
+			
+			c_dusty_savannah = {
+				color={ 46 255 20 }
+				color2={ 255 255 255 }
+				
+				b_dusty_savannah = {
+				}
+			}
+			
+			c_hot_steamy_jungle = {
+				color={ 46 255 30 }
+				color2={ 255 255 255 }
+				
+				b_hot_steamy_jungle = {
+				}
+			}
+			
+			c_dark_forest = {
+				color={ 46 255 40 }
+				color2={ 255 255 255 }
+				
+				b_dark_forest = {
+				}
+			}
+			
+			c_grassy_plain = {
+				color={ 46 255 50 }
+				color2={ 255 255 255 }
+				
+				b_grassy_plain = {
+				}
+			}
+		}
+	}
+	
+k_sprixie_kingdoms = {
+		color={ 184 244 0 }
+		color2={ 255 255 255 }
+		
+		d_sprixie_kingdoms = {
+			color={ 184 244 0 }
+			color2={ 255 255 255 }
+			
+			c_super_bell_hill = {
+				color={ 184 244 0 }
+				color2={ 255 255 255 }
+				
+				b_super_bell_hill = {
+				}
+			}
+			
+			c_mount_beanpole = {
+				color={ 184 244 10 }
+				color2={ 255 255 255 }
+				
+				b_mount_beanpole = {
+				}
+			}
+			
+			c_grassland_castle = {
+				color={ 184 244 20 }
+				color2={ 255 255 255 }
+				
+				b_grassland_castle = {
+				}
+			}
+			
+			c_toad_hill = {
+				color={ 184 244 31 }
+				color2={ 255 255 255 }
+				
+				b_toad_hill = {
+				}
+			}
+			
+			c_plunging_falls = {
+				color={ 184 244 41 }
+				color2={ 255 255 255 }
+				
+				b_plunging_falls = {
+				}
+			}
+			
+			c_conkdor_canyon = {
+				color={ 184 244 30 }
+				color2={ 255 255 255 }
+				
+				b_conkdor_canyon = {
+				}
+			}
+			
+			c_shadowplay_alley = {
+				color={ 184 244 40 }
+				color2={ 255 255 255 }
+				
+				b_shadowplay_alley = {
+				}
+			}
+			
+			c_really_rolling_hills = {
+				color={ 184 244 50 }
+				color2={ 255 255 255 }
+				
+				b_really_rolling_hills = {
+				}
+			}
+			
+			c_sand_castle = {
+				color={ 184 244 60 }
+				color2={ 255 255 255 }
+				
+				b_sand_castle = {
+				}
+			}
+			
+			c_snowball_park = {
+				color={ 184 244 70 }
+				color2={ 255 255 255 }
+				
+				b_snowball_park = {
+				}
+			}
+			
+			c_shifty_boo_mansion = {
+				color={ 184 244 80 }
+				color2={ 255 255 255 }
+				
+				b_shifty_boo_mansion = {
+				}
+			}
+			
+			c_rammerhead_beach = {
+				color={ 184 244 90 }
+				color2={ 255 255 255 }
+				
+				b_rammerhead_beach = {
+				}
+			}
+			
+			c_marshmallow_fields = {
+				color={ 184 244 100 }
+				color2={ 255 255 255 }
+				
+				b_marshmallow_fields = {
+				}
+			}
+			
+			c_pipeline_lagoon = {
+				color={ 184 244 110 }
+				color2={ 255 255 255 }
+				
+				b_pipeline_lagoon = {
+				}
+			}
+			
+			c_switchboard_falls = {
+				color={ 184 244 120 }
+				color2={ 255 255 255 }
+				
+				b_switchboard_falls = {
+				}
+			}
+			
+			c_ice_castle3 = {
+				color={ 184 244 130 }
+				color2={ 255 255 255 }
+				
+				b_ice_castle3 = {
+				}
+			}
+			
+			c_hisstocrat_island = {
+				color={ 184 244 140 }
+				color2={ 255 255 255 }
+				
+				b_hisstocrat_island = {
+				}
+			}
+			
+			c_mount_must_dash = {
+				color={ 184 244 150 }
+				color2={ 255 255 255 }
+				
+				b_mount_must_dash = {
+				}
+			}
+			
+			c_icy_toad_island = {
+				color={ 184 244 160 }
+				color2={ 255 255 255 }
+				
+				b_icy_toad_island = {
+				}
+			}
+				
+			c_chain_link_mountain = {
+				color={ 184 244 111 }
+				color2={ 255 255 255 }
+				
+				b_chain_link_mountain = {
+				}
+			}
+			
+			c_ant_trooper_hill = {
+				color={ 184 244 170 }
+				color2={ 255 255 255 }
+				
+				b_ant_trooper_hill = {
+				}
+			}
+			
+			c_piranha_creeper_creek = {
+				color={ 184 244 180 }
+				color2={ 255 255 255 }
+				
+				b_piranha_creeper_creek = {
+				}
+			}
+			
+			c_brolder_island = {
+				color={ 184 244 190 }
+				color2={ 255 255 255 }
+				
+				b_brolder_island = {
+				}
+			}
+			
+			c_brolder_toad_house = {
+				color={ 184 244 200 }
+				color2={ 255 255 255 }
+				
+				b_brolder_toad_house = {
+				}
+			}
+			
+			c_beep_block_skyway = {
+				color={ 184 244 210 }
+				color2={ 255 255 255 }
+				
+				b_beep_block_skyway = {
+				}
+			}
+			
+			c_big_bounce_byway = {
+				color={ 184 244 220 }
+				color2={ 255 255 255 }
+				
+				b_big_bounce_byway = {
+				}
+			}
+			
+			c_mystery_house = {
+				color={ 184 244 230 }
+				color2={ 255 255 255 }
+				
+				b_mystery_house = {
+				}
+			}
+			
+			c_spikes_lost_city = {
+				color={ 184 244 240 }
+				color2={ 255 255 255 }
+				
+				b_spikes_lost_city = {
+				}
+			}
+			
+			c_arid_castle = {
+				color={ 184 244 250 }
+				color2={ 255 255 255 }
+				
+				b_arid_castle = {
+				}
+			}
+			
+			c_sunshine_seaside = {
+				color={ 184 244 1 }
+				color2={ 255 255 255 }
+				
+				b_sunshine_seaside = {
+				}
+			}
+			
+			c_peekaboo_hill = {
+				color={ 184 244 11 }
+				color2={ 255 255 255 }
+				
+				b_peekaboo_hill = {
+				}
+			}
+			
+			c_oceanic_midpoint_island = {
+				color={ 184 244 21 }
+				color2={ 255 255 255 }
+				
+				b_oceanic_midpoint_island = {
+				}
+			}
+			
+			c_bustling_city = {
+				color={ 184 244 51 }
+				color2={ 255 255 255 }
+				
+				b_bustling_city = {
+				}
+			}
+			
+			c_foggy_toad_island = {
+				color={ 184 244 61 }
+				color2={ 255 255 255 }
+				
+				b_foggy_toad_island = {
+				}
+			}
+			
+			c_sprawling_savannah = {
+				color={ 184 244 71 }
+				color2={ 255 255 255 }
+				
+				b_sprawling_savannah = {
+				}
+			}
+			
+			c_tricky_trapeze_theater = {
+				color={ 184 244 81 }
+				color2={ 255 255 255 }
+				
+				b_tricky_trapeze_theater = {
+				}
+			}
+			
+			c_cakewalk_flip = {
+				color={ 184 244 91 }
+				color2={ 255 255 255 }
+				
+				b_cakewalk_flip = {
+				}
+			}
+			
+			c_dusty_castle = {
+				color={ 184 244 101 }
+				color2={ 255 255 255 }
+				
+				b_dusty_castle = {
+				}
+			}
+		}
+	}
+	
+k_toadwood_forest = {
+		color={ 255 0 0 }
+		color2={ 255 255 255 }
+		
+		d_toadwood_forest = {
+			color={ 255 0 0 }
+			color2={ 255 255 255 }
+			
+			c_toadwood_heart = {
+				color={ 255 0 0 }
+				color2={ 255 255 255 }
+				
+				b_toadwood_heart = {
+				}
+			}
+			
+			c_jungle_jam = {
+				color={ 255 10 0 }
+				color2={ 255 255 255 }
+				
+				b_jungle_jam = {
+				}
+			}
+			
+			c_upper_toadwood = {
+				color={ 255 20 0 }
+				color2={ 255 255 255 }
+				
+				b_upper_toadwood = {
+				}
+			}
+			
+			c_chimewood = {
+				color={ 255 30 0 }
+				color2={ 255 255 255 }
+				
+				b_chimewood = {
+				}
+			}
+			
+			c_haunted_toadwood = {
+				color={ 255 40 0 }
+				color2={ 255 255 255 }
+				
+				b_haunted_toadwood = {
+				}
+			}
+			
+			c_lower_toadwood = {
+				color={ 255 50 0 }
+				color2={ 255 255 255 }
+				
+				b_lower_toadwood = {
+				}
+			}
+			
+			c_urnwood = {
+				color={ 255 60 0 }
+				color2={ 255 255 255 }
+				
+				b_urnwood = {
+				}
+			}
+			
+			c_misery_clearing = {
+				color={ 255 70 0 }
+				color2={ 255 255 255 }
+				
+				b_misery_clearing = {
+				}
+			}
+			
+			c_thickwood = {
+				color={ 255 80 0 }
+				color2={ 255 255 255 }
+				
+				b_thickwood = {
+				}
+			}
+			
+			c_toadwood_beach = {
+				color={ 255 90 0 }
+				color2={ 255 255 255 }
+				
+				b_toadwood_beach = {
+				}
+			}
+			
+			c_toadwood_bay = {
+				color={ 255 100 0 }
+				color2={ 255 255 255 }
+				
+				b_toadwood_bay = {
+				}
+			}
+			
+			c_toadwood_flats = {
+				color={ 255 110 0 }
+				color2={ 255 255 255 }
+				
+				b_toadwood_flats = {
+				}
+			}
+			
+			c_toadwood_hill = {
+				color={ 255 120 0 }
+				color2={ 255 255 255 }
+				
+				b_toadwood_hill = {
+				}
+			}
+		}
+	}
+	
+k_jewelry_land = {
+		color={ 255 175 0 }
+		color2={ 255 255 255 }
+		
+		d_jewelry_land = {
+			color={ 255 175 0 }
+			color2={ 255 255 255 }
+			
+			c_grass_land = {
+				color={ 255 175 0 }
+				color2={ 255 255 255 }
+				
+				b_grass_land = {
+				}
+			}
+			
+			c_mushroom_land = {
+				color={ 255 175 10 }
+				color2={ 255 255 255 }
+				
+				b_mushroom_land = {
+				}
+			}
+			
+			c_pipe_island = {
+				color={ 255 175 20 }
+				color2={ 255 255 255 }
+				
+				b_pipe_island = {
+				}
+			}
+			
+			c_crescent_coast = {
+				color={ 255 175 30 }
+				color2={ 255 255 255 }
+				
+				b_crescent_coast = {
+				}
+			}
+			
+			c_spirit_mountain = {
+				color={ 255 175 40 }
+				color2={ 255 255 255 }
+				
+				b_spirit_mountain = {
+				}
+			}
+			
+			c_light_float_castle = {
+				color={ 255 175 50 }
+				color2={ 255 255 255 }
+				
+				b_light_float_castle = {
+				}
+			}
+			
+			c_cornice_cave = {
+				color={ 255 175 60 }
+				color2={ 255 255 255 }
+				
+				b_cornice_cave = {
+				}
+			}
+			
+			c_ghost_mansion = {
+				color={ 255 175 70 }
+				color2={ 255 255 255 }
+				
+				b_ghost_mansion = {
+				}
+			}
+			
+			c_dark_sea = {
+				color={ 255 175 80 }
+				color2={ 255 255 255 }
+				
+				b_dark_sea = {
+				}
+			}
+			
+			c_dark_float_castle = {
+				color={ 255 175 90 }
+				color2={ 255 255 255 }
+				
+				b_dark_float_castle = {
+				}
+			}
+			
+			c_bowsers_castle = {
+				color={ 255 175 100 }
+				color2={ 255 255 255 }
+				
+				b_bowsers_castle = {
+				}
+			}
+		}
+	}
