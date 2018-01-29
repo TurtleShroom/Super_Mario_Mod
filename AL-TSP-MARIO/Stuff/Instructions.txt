@@ -1,0 +1,9 @@
+So, here's what you'll find in the zip folder.
+
+Old Versions of Mod - This is a version of the mod that I had working back when we first started making the mod.  It was current for Old Gods, but is broken.
+New Version of Mod - This is the most recent working version of the mod that I had working before I quit.  This would be back around Charlemagne.  It is broken for the current version of the game.
+Guide Files - These files are not files that the game reads, but files that I was using to organise my work with the mod.
+
+If you have any questions, email me: Avro-Lancaster@hotmail.com.
+
+Good luck.  I still plan on coming back when CK2 stops getting updated.  Every update breaks the mod, and when you only have one coder that means most of that coder's work is wasted re-doing things that have already been done just to get the mod working again.  If you don't have an extreme passion for the project, you're going to waste a lot of time doing this.
