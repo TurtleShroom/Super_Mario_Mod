@@ -1,4 +1,4 @@
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#CODE;ENGLISH;;;;;;;;;;;;;x
 PROV1;Rice Beach;Vesturland;Vestisland;;Isla Vest;;;;;;;;;x
 PROV2;Mount Teapot;Austurland;Austisland;;Austisland;;;;;;;;;x
 PROV3;Sherbet Land;Tyrconnell;Tyrconnell;;Tyrconnell;;;;;;;;;x
@@ -279,7 +279,7 @@ PROV277;Western Ruin Area;Namdale;Naumadal;;Naumadal;;;;;;;;;x
 PROV278;Western Dry Dry Desert;Hålogaland;Hålogaland;;Hålogaland;;;;;;;;;x
 PROV279;Southern Dry Dry Desert;Laponie;Lappland;;Laponia;;;;;;;;;x
 PROV280;Windy Mill;Västerbotten;Västerbotten;;Vestrobothnia;;;;;;;;;x
-PROV281;Gusty Gultch Town;Ångermanland;Ångermanland;;Angermannia;;;;;;;;;x
+PROV281;Gusty Gultch Town;Ånland;Ånland;;Annia;;;;;;;;;x
 PROV282;Gusty Gultch;Jämtland;Jämtland;;Jemtia;;;;;;;;;x
 PROV283;Tubba Blubba's Castle;Medelpad;Medelpad;;Medelpad;;;;;;;;;x
 PROV284;West Forever Forest;Härjedalen;Herjedalen;;Herjedalen;;;;;;;;;x
@@ -1039,450 +1039,450 @@ PROV1037;Bowser's Castle;Mer Ionienne;Ionisches Meer;;Mar Jónico;;;;;;;;;x
 #PROV1038;UNASSIGNED;Détroit d'Otrante;Straße von Otranto;;Estrecho de Otranto;;;;;;;;;x
 
 
-PROV1039;Lemon Soda Ocean Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1040;Lemon Soda Ocean Trench;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1041;Yoshi's Island Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1042;Donut Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1043;Vanilla Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1044;Cheese Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1045;Lemon Soda Reach;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1046;Soda Sea;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1047;Lemon Soda Deep;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1048;Dinosaurward Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1049;Seasideward Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1050;Deep Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1051;Marioward Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1052;Seaside Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1053;Frigid Ocean;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1054;Beanbean Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1055;Gwarhar Lagoon;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1056;Oho Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1057;Kero Inlet;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1058;Chucklehuck Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1059;Anuran Waters;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1060;Muda Cove;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1061;Toad Town Harbour;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1062;Delfino Sea Lane;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1063;Airstrip Straights;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1064;Corona Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1065;Pianta Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1066;Pianta Cove;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1067;Sirena Straights;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1068;Gelato Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1069;Ricco Harbour;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1070;Pinna Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1071;Northern Crab Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1072;Artiglio Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1073;Southern Crab Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1074;Western Crab Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1075;Minnow Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1076;West Flipper Approach;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1077;Northern Turtle Approach;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1078;East Flipper Approach;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1079;South Turtle Sea;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1080;Citrus Eel Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1081;Eel Tail Calm;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1082;Straights of the Eel;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1083;Eel's Maw Cove;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1084;Jelly Pepper Approach;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1085;Spice Trader Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1086;Pepper Inlet;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1087;Tentacle Cove;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1088;Eastern Stinger Approach;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1089;Southern Two Fish Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1090;Northern Two Fish Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1091;Angelfish Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1092;Fishfin Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1093;Fishhead Approach;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1094;Dorsal Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1095;Sarasa Ocean;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1096;Rare Approach Dead Zone;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1097;Western Blue Ocean;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1098;Eastern Blue Ocean;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1099;Northern Blue Ocean;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1100;Eastern Arctic Ocean;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1101;Arctic Ocean;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1102;Toad Cove;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1103;North Cavi Cape;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1104;South Cavi Cape;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1105;Plack Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1106;Goomba Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1107;Koopa Cape;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1108;Diamond Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1109;Baseball Island;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1110;Sparkling Waters;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1111;Royal Desert Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1112;Southern Desert Hill Channel;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1113;Northern Desert Hill Channel;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1114;Pipe Maze Straights;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1115;Grass Land Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1116;Drybake Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1117;Decalburg Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1118;Leaflitter Inlet;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1119;Big City Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1120;Castaway Islands;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1121;Dolphin Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1122;Eastern Mushroom Cape;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1123;Southern Mushroom Cape;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1124;Cheep Cheep Approach;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1125;Waluigi's Island;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1126;Wario's Island;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1127;Fungus Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1128;Shroom Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1129;Happy Harbour;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1130;Southern Fruit Kingdoms;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1131;Shy Guy Islands;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1132;Secret Island;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1133;Secluded Approach;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1134;Mangrove Sea;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1135;Autumn Isles;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1136;Savannah Shoal;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1137;Sea Breeze Current;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1138;Fruit Juice Approach;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1139;Southern Sea of Kong;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1140;Northern Sea of Kong;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1141;Bonus Islands;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1142;Banana Fairy Seamounts;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1143;Crocodile Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1144;Starfruit and Pepper Islands;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1145;Middle Fruit Kingdoms;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1146;Swingin' Straights;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1147;Northern Swingin' Chain;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1148;Southern Swingin' Chain;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1149;Arctic Fruit Kingdoms;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1150;Mammoth Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1151;Vibe-Timber Channel;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1152;Vibe Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1153;Timber Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1154;Piscene Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1155;Rough Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1156;Krem Jungle Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1157;Dino Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1158;Misty Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1159;Crocodile Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1160;Kremling Seamounts;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1161;Banana Bird Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1162;Southern Jewelry Islands;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1163;Northern Jewelry Islands;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1164;Pillow Islands;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1165;Southeast Ocean Side;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1166;Thunder Island;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1167;Thunderous Straits;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1168;Mouth of Ocean Side Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1169;Ocean Side Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1170;Southern Lava Lava Island;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1171;Northern Lava Lava Island;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1172;Birabuto Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1173;Chai Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1174;Sprixie Canyon Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1175;Ant Islands;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1176;Sprixie Canyon Approach;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1177;Toadstool Trench;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1178;Cheep Cheep Shoals;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1179;Blooper Reef;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1180;Rugged Countercurrent;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1181;Canyon Sprixie Current;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1182;Mineral Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1183;Floral Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1184;Muda Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1185;Yo'ster Island;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1186;Birabuto Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1187;Daisy Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1188;Deep Ocean Trench;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1189;Southern Cloud Sprixie Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1190;Western Cloud Sprixie Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1191;Northern Cloud Sprixie Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1192;Eastern Cloud Sprixie Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1193;Oceanic Midpoint;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1194;Midpoint Current;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1195;Dinosaur Ocean Trench;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1196;Dinosaur Approacht;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1197;Southern Meadow Sprixie Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1198;Northern Meadow Sprixie Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1199;Western Desert Sprixie Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1200;Eastern Desert Sprixie Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1201;Straights of Gordon;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1202;Snowflake Straight;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1203;Brr Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1204;Blizzard Cove;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1205;Iceberg Alley;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1206;Snowy Sea;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1207;Snow Cove;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1208;Flurry Current;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1209;Ice Cube Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1210;Iced Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1211;Deep Frigid Trench;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1212;Great Frozen Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1213;Sticker Sea;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1214;Icewater Cove;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1215;Straights of Bowser;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1216;Pack Ice Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1217;Frostbite Sea;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1218;e Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1219;Blackheart Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1220;Sea of Nightmares;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1221;Cape of Bad Hope;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1222;Jealous Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1223;Coast of Rage;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1224;Straights of Mist and Fog;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1225;Cloudy Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1226;e Trench;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1227;Big Narrows;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1228;Oceanic Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1229;Cape of Ocean Side;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1230;Oceanic Sea Breach;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1231;Cape of Beaches;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1232;Dusty Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1233;Third Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1234;Oceanic Straights;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1235;Blue Water Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1236;Cloudy Straights;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1237;Narrow Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1238;Mouth of Giants;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1239;Mushroom Approach;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1240;Great Mushroom Sea;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1241;Rogue Harbour;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1242;Bay of Petals;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1243;Twighlight Narrows;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1244;Keelhaul Straights;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1245;Cape Poshley;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1246;Twighlight Cove;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1247;Smuggler's Cove;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1248;Quiet Firth;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1249;Wet-Dry Harbour;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1250;Petal Approach;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1251;Heavenly Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1252;Twilit Sea;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1253;Fruity Current;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1254;Fruity Countercurrent;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1255;Mushroom Deep;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1256;Rare Sea;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1257;The Great Calm;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1258;Boggly Coastline;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1259;Hideaway Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1260;Fahr Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1261;Magnetic Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1262;Penguin Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1263;Santa Sea;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1264;Icepeak Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1265;Cool, Cool Coastline;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1266;Sherbet Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1267;Shivering Coastline;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1268;Ice Koopa Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1269;Frosty Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1270;Toadwood Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1271;King's Cove;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1272;Shipwrecker Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1273;Mole Harbour;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1274;Mole Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1275;Twin Bays;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1276;Shipwreck Sea;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1277;Monster Cove;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1278;Bay of Storms;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1279;Sea of Mario;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1280;Marionic Tidal Zone;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1281;Yoshi's Approach;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1282;Nimbus Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1283;Sulphuric Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1284;Rice Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1285;Sherbet Ocean Region;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1286;Kitchen Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1287;Kitchen Island Approach;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1288;Sea of Tranquility;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1289;Koopa Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1290;Frozen Turtle Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1291;Eastern Bowser Approach;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1292;North Coast of Toadwood;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1293;Hisstocrat Sea;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1294;Chain Link Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1295;Frosted Ice Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1296;Snowberg Alley;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1297;Northern Sprixie Sea;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1298;Steep Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1299;Sandy Coast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1300;Continental Dropoff;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1301;Beanbean Cove;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1302;Awazon River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1303;Awazon River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1304;Awazon River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1305;Mouth of the Awazon;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1306;Midas Falls;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1307;Midas River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1308;Vanilla Falls;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1309;Donut River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1310;Banana Bird Falls;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1311;Bear River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1312;Razor Falls;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1313;Bear Falls;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1314;Blackforest River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1315;Blackforest River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1316;Tropica River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1317;Tropica River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1318;Tropica River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1319;Tropica River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1320;Verge River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1321;Monkey Falls;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1322;Minke Falls;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1323;Koco River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1324;Koco River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1325;Mill River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1326;Salmon River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1327;Salmon River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1328;Salmon River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1329;Salmon River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1330;Salmon River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1331;Salmon River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1332;Salmon River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1333;Salmon River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1334;Salt River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1335;Tyler River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1336;Tyler River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1337;Tyler River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1338;Tyler River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1339;Tyler River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1340;Tyler River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1341;Tyler River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1342;Sprixie River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1343;Star River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1344;Star River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1345;Star River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1346;Star River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1347;Star River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1348;Star River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1349;Star River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1350;Star River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1351;Star River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1352;Star River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1353;Star River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1354;Star River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1355;Mushroom River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1356;Mushroom River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1357;Mushroom River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1358;Mushroom River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1359;Mushroom River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1360;Mushroom River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1361;Mushroom River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1362;Mushroom River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1363;Mushroom River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1364;Mushroom River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1365;Mushroom River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1366;Mushroom River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1367;Koopa River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1368;Koopa River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1369;Koopa River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1370;Koopa River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1371;Cold River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1372;Cold River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1373;Cold River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1374;Cold River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1375;Cold River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1376;Cold River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1377;Cold River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1378;Cold River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1379;Cold River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1380;Cold River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1381;Cold River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1382;Cold River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1383;Cold River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1384;Cold River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1385;Cold River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1386;Toad River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1387;Toad River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1388;Toad River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1389;Garden River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1390;Garden River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1391;Boo River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1392;Boo River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1393;Boo River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1394;Boo River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1395;Boo River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1396;Boo River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1397;Rapid River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1398;Rapid River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1399;Fairy River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1400;Fairy River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1401;Fairy River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1402;Fairy River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1403;Fairy River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1404;Fairy River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1405;Fairy River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1406;Fairy River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1407;Yosu Rapids;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1408;Diamond River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1409;Diamond River;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1410;Pacifica;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1411;Banana Bird Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1412;Lake Orangatanga;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1413;Kremling Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1414;Kremling Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1415;Kremling Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1416;Icy Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1417;Lake Lodge;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1418;Roolenstein Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1419;Kroc Pond;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1420;Miller Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1421;Great Ape Lakes;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1422;Lake of the Vines;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1423;Crocodile Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1424;Crocodile Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1425;Crocodile Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1426;Crocodile Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1427;Crocodile Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1428;Crocodile Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1429;Upper Factory Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1430;Lower Factory Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1431;Timber Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1432;Joy Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1433;Lake of Fire;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1434;Big Moat;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1435;Rough Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1436;Jungle Pond;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1437;Frozen Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1438;Lethal Lava Land;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1439;Third Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1440;Desert Oasis;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1441;Grassland Moat;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1442;Warm Fuzzy Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1443;Damp Oasis;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1444;Gauntlet Pond;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1445;Strike Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1446;Snowflake Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1447;Chilly Lakes;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1448;Lake T;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1449;Yosu Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1450;Cheep Cheep Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1451;Park Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1452;Boo Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1453;Blubble Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1454;Yoshi Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1455;Turtleshell Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1456;Soda Marsh;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1457;Fisheye Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1458;Jade Jungle;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1459;Canyon Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1460;Muda Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1461;Awazon Basin;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1462;Yoshi's Island Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1463;Donut Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1464;Soda Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1465;Kettle Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1466;Toadwood Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1467;Turtle Bog;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1468;Mushroom Swamp;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1469;Royal Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1470;Tadpole Pond;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1471;Mushroom Sea;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1472;Mushroom Sea;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1473;Mushroom Sea;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1474;Mushroom Sea;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1475;Mushroom Sea;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1476;Mushroom Sea;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1477;Mushroom Sea;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1478;Sulphur Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1479;Guffawha Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1480;Chucklehuck Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1481;Crab Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1482;Tartaruga Lake;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+PROV1039;Lemon Soda Ocean Coast;;;;;;;;;;;;;x
+PROV1040;Lemon Soda Ocean Trench;;;;;;;;;;;;;x
+PROV1041;Yoshi's Island Coast;;;;;;;;;;;;;x
+PROV1042;Donut Coast;;;;;;;;;;;;;x
+PROV1043;Vanilla Coast;;;;;;;;;;;;;x
+PROV1044;Cheese Coast;;;;;;;;;;;;;x
+PROV1045;Lemon Soda Reach;;;;;;;;;;;;;x
+PROV1046;Soda Sea;;;;;;;;;;;;;x
+PROV1047;Lemon Soda Deep;;;;;;;;;;;;;x
+PROV1048;Dinosaurward Coast;;;;;;;;;;;;;x
+PROV1049;Seasideward Coast;;;;;;;;;;;;;x
+PROV1050;Deep Coast;;;;;;;;;;;;;x
+PROV1051;Marioward Coast;;;;;;;;;;;;;x
+PROV1052;Seaside Coast;;;;;;;;;;;;;x
+PROV1053;Frigid Ocean;;;;;;;;;;;;;x
+PROV1054;Beanbean Bay;;;;;;;;;;;;;x
+PROV1055;Gwarhar Lagoon;;;;;;;;;;;;;x
+PROV1056;Oho Bay;;;;;;;;;;;;;x
+PROV1057;Kero Inlet;;;;;;;;;;;;;x
+PROV1058;Chucklehuck Coast;;;;;;;;;;;;;x
+PROV1059;Anuran Waters;;;;;;;;;;;;;x
+PROV1060;Muda Cove;;;;;;;;;;;;;x
+PROV1061;Toad Town Harbour;;;;;;;;;;;;;x
+PROV1062;Delfino Sea Lane;;;;;;;;;;;;;x
+PROV1063;Airstrip Straights;;;;;;;;;;;;;x
+PROV1064;Corona Coast;;;;;;;;;;;;;x
+PROV1065;Pianta Coast;;;;;;;;;;;;;x
+PROV1066;Pianta Cove;;;;;;;;;;;;;x
+PROV1067;Sirena Straights;;;;;;;;;;;;;x
+PROV1068;Gelato Bay;;;;;;;;;;;;;x
+PROV1069;Ricco Harbour;;;;;;;;;;;;;x
+PROV1070;Pinna Bay;;;;;;;;;;;;;x
+PROV1071;Northern Crab Coast;;;;;;;;;;;;;x
+PROV1072;Artiglio Bay;;;;;;;;;;;;;x
+PROV1073;Southern Crab Coast;;;;;;;;;;;;;x
+PROV1074;Western Crab Coast;;;;;;;;;;;;;x
+PROV1075;Minnow Coast;;;;;;;;;;;;;x
+PROV1076;West Flipper Approach;;;;;;;;;;;;;x
+PROV1077;Northern Turtle Approach;;;;;;;;;;;;;x
+PROV1078;East Flipper Approach;;;;;;;;;;;;;x
+PROV1079;South Turtle Sea;;;;;;;;;;;;;x
+PROV1080;Citrus Eel Bay;;;;;;;;;;;;;x
+PROV1081;Eel Tail Calm;;;;;;;;;;;;;x
+PROV1082;Straights of the Eel;;;;;;;;;;;;;x
+PROV1083;Eel's Maw Cove;;;;;;;;;;;;;x
+PROV1084;Jelly Pepper Approach;;;;;;;;;;;;;x
+PROV1085;Spice Trader Bay;;;;;;;;;;;;;x
+PROV1086;Pepper Inlet;;;;;;;;;;;;;x
+PROV1087;Tentacle Cove;;;;;;;;;;;;;x
+PROV1088;Eastern Stinger Approach;;;;;;;;;;;;;x
+PROV1089;Southern Two Fish Bay;;;;;;;;;;;;;x
+PROV1090;Northern Two Fish Bay;;;;;;;;;;;;;x
+PROV1091;Angelfish Bay;;;;;;;;;;;;;x
+PROV1092;Fishfin Coast;;;;;;;;;;;;;x
+PROV1093;Fishhead Approach;;;;;;;;;;;;;x
+PROV1094;Dorsal Bay;;;;;;;;;;;;;x
+PROV1095;Sarasa Ocean;;;;;;;;;;;;;x
+PROV1096;Rare Approach Dead Zone;;;;;;;;;;;;;x
+PROV1097;Western Blue Ocean;;;;;;;;;;;;;x
+PROV1098;Eastern Blue Ocean;;;;;;;;;;;;;x
+PROV1099;Northern Blue Ocean;;;;;;;;;;;;;x
+PROV1100;Eastern Arctic Ocean;;;;;;;;;;;;;x
+PROV1101;Arctic Ocean;;;;;;;;;;;;;x
+PROV1102;Toad Cove;;;;;;;;;;;;;x
+PROV1103;North Cavi Cape;;;;;;;;;;;;;x
+PROV1104;South Cavi Cape;;;;;;;;;;;;;x
+PROV1105;Plack Coast;;;;;;;;;;;;;x
+PROV1106;Goomba Coast;;;;;;;;;;;;;x
+PROV1107;Koopa Cape;;;;;;;;;;;;;x
+PROV1108;Diamond Bay;;;;;;;;;;;;;x
+PROV1109;Baseball Island;;;;;;;;;;;;;x
+PROV1110;Sparkling Waters;;;;;;;;;;;;;x
+PROV1111;Royal Desert Coast;;;;;;;;;;;;;x
+PROV1112;Southern Desert Hill Channel;;;;;;;;;;;;;x
+PROV1113;Northern Desert Hill Channel;;;;;;;;;;;;;x
+PROV1114;Pipe Maze Straights;;;;;;;;;;;;;x
+PROV1115;Grass Land Coast;;;;;;;;;;;;;x
+PROV1116;Drybake Coast;;;;;;;;;;;;;x
+PROV1117;Decalburg Bay;;;;;;;;;;;;;x
+PROV1118;Leaflitter Inlet;;;;;;;;;;;;;x
+PROV1119;Big City Bay;;;;;;;;;;;;;x
+PROV1120;Castaway Islands;;;;;;;;;;;;;x
+PROV1121;Dolphin Coast;;;;;;;;;;;;;x
+PROV1122;Eastern Mushroom Cape;;;;;;;;;;;;;x
+PROV1123;Southern Mushroom Cape;;;;;;;;;;;;;x
+PROV1124;Cheep Cheep Approach;;;;;;;;;;;;;x
+PROV1125;Waluigi's Island;;;;;;;;;;;;;x
+PROV1126;Wario's Island;;;;;;;;;;;;;x
+PROV1127;Fungus Coast;;;;;;;;;;;;;x
+PROV1128;Shroom Bay;;;;;;;;;;;;;x
+PROV1129;Happy Harbour;;;;;;;;;;;;;x
+PROV1130;Southern Fruit Kingdoms;;;;;;;;;;;;;x
+PROV1131;Shy Guy Islands;;;;;;;;;;;;;x
+PROV1132;Secret Island;;;;;;;;;;;;;x
+PROV1133;Secluded Approach;;;;;;;;;;;;;x
+PROV1134;Mangrove Sea;;;;;;;;;;;;;x
+PROV1135;Autumn Isles;;;;;;;;;;;;;x
+PROV1136;Savannah Shoal;;;;;;;;;;;;;x
+PROV1137;Sea Breeze Current;;;;;;;;;;;;;x
+PROV1138;Fruit Juice Approach;;;;;;;;;;;;;x
+PROV1139;Southern Sea of Kong;;;;;;;;;;;;;x
+PROV1140;Northern Sea of Kong;;;;;;;;;;;;;x
+PROV1141;Bonus Islands;;;;;;;;;;;;;x
+PROV1142;Banana Fairy Seamounts;;;;;;;;;;;;;x
+PROV1143;Crocodile Coast;;;;;;;;;;;;;x
+PROV1144;Starfruit and Pepper Islands;;;;;;;;;;;;;x
+PROV1145;Middle Fruit Kingdoms;;;;;;;;;;;;;x
+PROV1146;Swingin' Straights;;;;;;;;;;;;;x
+PROV1147;Northern Swingin' Chain;;;;;;;;;;;;;x
+PROV1148;Southern Swingin' Chain;;;;;;;;;;;;;x
+PROV1149;Arctic Fruit Kingdoms;;;;;;;;;;;;;x
+PROV1150;Mammoth Coast;;;;;;;;;;;;;x
+PROV1151;Vibe-Timber Channel;;;;;;;;;;;;;x
+PROV1152;Vibe Coast;;;;;;;;;;;;;x
+PROV1153;Timber Coast;;;;;;;;;;;;;x
+PROV1154;Piscene Coast;;;;;;;;;;;;;x
+PROV1155;Rough Coast;;;;;;;;;;;;;x
+PROV1156;Krem Jungle Coast;;;;;;;;;;;;;x
+PROV1157;Dino Coast;;;;;;;;;;;;;x
+PROV1158;Misty Coast;;;;;;;;;;;;;x
+PROV1159;Crocodile Bay;;;;;;;;;;;;;x
+PROV1160;Kremling Seamounts;;;;;;;;;;;;;x
+PROV1161;Banana Bird Bay;;;;;;;;;;;;;x
+PROV1162;Southern Jewelry Islands;;;;;;;;;;;;;x
+PROV1163;Northern Jewelry Islands;;;;;;;;;;;;;x
+PROV1164;Pillow Islands;;;;;;;;;;;;;x
+PROV1165;Southeast Ocean Side;;;;;;;;;;;;;x
+PROV1166;Thunder Island;;;;;;;;;;;;;x
+PROV1167;Thunderous Straits;;;;;;;;;;;;;x
+PROV1168;Mouth of Ocean Side Bay;;;;;;;;;;;;;x
+PROV1169;Ocean Side Bay;;;;;;;;;;;;;x
+PROV1170;Southern Lava Lava Island;;;;;;;;;;;;;x
+PROV1171;Northern Lava Lava Island;;;;;;;;;;;;;x
+PROV1172;Birabuto Bay;;;;;;;;;;;;;x
+PROV1173;Chai Coast;;;;;;;;;;;;;x
+PROV1174;Sprixie Canyon Bay;;;;;;;;;;;;;x
+PROV1175;Ant Islands;;;;;;;;;;;;;x
+PROV1176;Sprixie Canyon Approach;;;;;;;;;;;;;x
+PROV1177;Toadstool Trench;;;;;;;;;;;;;x
+PROV1178;Cheep Cheep Shoals;;;;;;;;;;;;;x
+PROV1179;Blooper Reef;;;;;;;;;;;;;x
+PROV1180;Rugged Countercurrent;;;;;;;;;;;;;x
+PROV1181;Canyon Sprixie Current;;;;;;;;;;;;;x
+PROV1182;Mineral Coast;;;;;;;;;;;;;x
+PROV1183;Floral Coast;;;;;;;;;;;;;x
+PROV1184;Muda Coast;;;;;;;;;;;;;x
+PROV1185;Yo'ster Island;;;;;;;;;;;;;x
+PROV1186;Birabuto Coast;;;;;;;;;;;;;x
+PROV1187;Daisy Coast;;;;;;;;;;;;;x
+PROV1188;Deep Ocean Trench;;;;;;;;;;;;;x
+PROV1189;Southern Cloud Sprixie Coast;;;;;;;;;;;;;x
+PROV1190;Western Cloud Sprixie Coast;;;;;;;;;;;;;x
+PROV1191;Northern Cloud Sprixie Coast;;;;;;;;;;;;;x
+PROV1192;Eastern Cloud Sprixie Coast;;;;;;;;;;;;;x
+PROV1193;Oceanic Midpoint;;;;;;;;;;;;;x
+PROV1194;Midpoint Current;;;;;;;;;;;;;x
+PROV1195;Dinosaur Ocean Trench;;;;;;;;;;;;;x
+PROV1196;Dinosaur Approacht;;;;;;;;;;;;;x
+PROV1197;Southern Meadow Sprixie Coast;;;;;;;;;;;;;x
+PROV1198;Northern Meadow Sprixie Coast;;;;;;;;;;;;;x
+PROV1199;Western Desert Sprixie Coast;;;;;;;;;;;;;x
+PROV1200;Eastern Desert Sprixie Coast;;;;;;;;;;;;;x
+PROV1201;Straights of Gordon;;;;;;;;;;;;;x
+PROV1202;Snowflake Straight;;;;;;;;;;;;;x
+PROV1203;Brr Bay;;;;;;;;;;;;;x
+PROV1204;Blizzard Cove;;;;;;;;;;;;;x
+PROV1205;Iceberg Alley;;;;;;;;;;;;;x
+PROV1206;Snowy Sea;;;;;;;;;;;;;x
+PROV1207;Snow Cove;;;;;;;;;;;;;x
+PROV1208;Flurry Current;;;;;;;;;;;;;x
+PROV1209;Ice Cube Coast;;;;;;;;;;;;;x
+PROV1210;Iced Coast;;;;;;;;;;;;;x
+PROV1211;Deep Frigid Trench;;;;;;;;;;;;;x
+PROV1212;Great Frozen Bay;;;;;;;;;;;;;x
+PROV1213;Sticker Sea;;;;;;;;;;;;;x
+PROV1214;Icewater Cove;;;;;;;;;;;;;x
+PROV1215;Straights of Bowser;;;;;;;;;;;;;x
+PROV1216;Pack Ice Coast;;;;;;;;;;;;;x
+PROV1217;Frostbite Sea;;;;;;;;;;;;;x
+PROV1218;e Bay;;;;;;;;;;;;;x
+PROV1219;Blackheart Coast;;;;;;;;;;;;;x
+PROV1220;Sea of Nightmares;;;;;;;;;;;;;x
+PROV1221;Cape of Bad Hope;;;;;;;;;;;;;x
+PROV1222;Jealous Coast;;;;;;;;;;;;;x
+PROV1223;Coast of Rage;;;;;;;;;;;;;x
+PROV1224;Straights of Mist and Fog;;;;;;;;;;;;;x
+PROV1225;Cloudy Coast;;;;;;;;;;;;;x
+PROV1226;e Trench;;;;;;;;;;;;;x
+PROV1227;Big Narrows;;;;;;;;;;;;;x
+PROV1228;Oceanic Bay;;;;;;;;;;;;;x
+PROV1229;Cape of Ocean Side;;;;;;;;;;;;;x
+PROV1230;Oceanic Sea Breach;;;;;;;;;;;;;x
+PROV1231;Cape of Beaches;;;;;;;;;;;;;x
+PROV1232;Dusty Coast;;;;;;;;;;;;;x
+PROV1233;Third Coast;;;;;;;;;;;;;x
+PROV1234;Oceanic Straights;;;;;;;;;;;;;x
+PROV1235;Blue Water Coast;;;;;;;;;;;;;x
+PROV1236;Cloudy Straights;;;;;;;;;;;;;x
+PROV1237;Narrow Bay;;;;;;;;;;;;;x
+PROV1238;Mouth of Giants;;;;;;;;;;;;;x
+PROV1239;Mushroom Approach;;;;;;;;;;;;;x
+PROV1240;Great Mushroom Sea;;;;;;;;;;;;;x
+PROV1241;Rogue Harbour;;;;;;;;;;;;;x
+PROV1242;Bay of Petals;;;;;;;;;;;;;x
+PROV1243;Twighlight Narrows;;;;;;;;;;;;;x
+PROV1244;Keelhaul Straights;;;;;;;;;;;;;x
+PROV1245;Cape Poshley;;;;;;;;;;;;;x
+PROV1246;Twighlight Cove;;;;;;;;;;;;;x
+PROV1247;Smuggler's Cove;;;;;;;;;;;;;x
+PROV1248;Quiet Firth;;;;;;;;;;;;;x
+PROV1249;Wet-Dry Harbour;;;;;;;;;;;;;x
+PROV1250;Petal Approach;;;;;;;;;;;;;x
+PROV1251;Heavenly Coast;;;;;;;;;;;;;x
+PROV1252;Twilit Sea;;;;;;;;;;;;;x
+PROV1253;Fruity Current;;;;;;;;;;;;;x
+PROV1254;Fruity Countercurrent;;;;;;;;;;;;;x
+PROV1255;Mushroom Deep;;;;;;;;;;;;;x
+PROV1256;Rare Sea;;;;;;;;;;;;;x
+PROV1257;The Great Calm;;;;;;;;;;;;;x
+PROV1258;Boggly Coastline;;;;;;;;;;;;;x
+PROV1259;Hideaway Bay;;;;;;;;;;;;;x
+PROV1260;Fahr Coast;;;;;;;;;;;;;x
+PROV1261;Magnetic Coast;;;;;;;;;;;;;x
+PROV1262;Penguin Coast;;;;;;;;;;;;;x
+PROV1263;Santa Sea;;;;;;;;;;;;;x
+PROV1264;Icepeak Coast;;;;;;;;;;;;;x
+PROV1265;Cool, Cool Coastline;;;;;;;;;;;;;x
+PROV1266;Sherbet Coast;;;;;;;;;;;;;x
+PROV1267;Shivering Coastline;;;;;;;;;;;;;x
+PROV1268;Ice Koopa Coast;;;;;;;;;;;;;x
+PROV1269;Frosty Bay;;;;;;;;;;;;;x
+PROV1270;Toadwood Bay;;;;;;;;;;;;;x
+PROV1271;King's Cove;;;;;;;;;;;;;x
+PROV1272;Shipwrecker Bay;;;;;;;;;;;;;x
+PROV1273;Mole Harbour;;;;;;;;;;;;;x
+PROV1274;Mole Coast;;;;;;;;;;;;;x
+PROV1275;Twin Bays;;;;;;;;;;;;;x
+PROV1276;Shipwreck Sea;;;;;;;;;;;;;x
+PROV1277;Monster Cove;;;;;;;;;;;;;x
+PROV1278;Bay of Storms;;;;;;;;;;;;;x
+PROV1279;Sea of Mario;;;;;;;;;;;;;x
+PROV1280;Marionic Tidal Zone;;;;;;;;;;;;;x
+PROV1281;Yoshi's Approach;;;;;;;;;;;;;x
+PROV1282;Nimbus Coast;;;;;;;;;;;;;x
+PROV1283;Sulphuric Coast;;;;;;;;;;;;;x
+PROV1284;Rice Coast;;;;;;;;;;;;;x
+PROV1285;Sherbet Ocean Region;;;;;;;;;;;;;x
+PROV1286;Kitchen Coast;;;;;;;;;;;;;x
+PROV1287;Kitchen Island Approach;;;;;;;;;;;;;x
+PROV1288;Sea of Tranquility;;;;;;;;;;;;;x
+PROV1289;Koopa Coast;;;;;;;;;;;;;x
+PROV1290;Frozen Turtle Coast;;;;;;;;;;;;;x
+PROV1291;Eastern Bowser Approach;;;;;;;;;;;;;x
+PROV1292;North Coast of Toadwood;;;;;;;;;;;;;x
+PROV1293;Hisstocrat Sea;;;;;;;;;;;;;x
+PROV1294;Chain Link Coast;;;;;;;;;;;;;x
+PROV1295;Frosted Ice Coast;;;;;;;;;;;;;x
+PROV1296;Snowberg Alley;;;;;;;;;;;;;x
+PROV1297;Northern Sprixie Sea;;;;;;;;;;;;;x
+PROV1298;Steep Coast;;;;;;;;;;;;;x
+PROV1299;Sandy Coast;;;;;;;;;;;;;x
+PROV1300;Continental Dropoff;;;;;;;;;;;;;x
+PROV1301;Beanbean Cove;;;;;;;;;;;;;x
+PROV1302;Awazon River;;;;;;;;;;;;;x
+PROV1303;Awazon River;;;;;;;;;;;;;x
+PROV1304;Awazon River;;;;;;;;;;;;;x
+PROV1305;Mouth of the Awazon;;;;;;;;;;;;;x
+PROV1306;Midas Falls;;;;;;;;;;;;;x
+PROV1307;Midas River;;;;;;;;;;;;;x
+PROV1308;Vanilla Falls;;;;;;;;;;;;;x
+PROV1309;Donut River;;;;;;;;;;;;;x
+PROV1310;Banana Bird Falls;;;;;;;;;;;;;x
+PROV1311;Bear River;;;;;;;;;;;;;x
+PROV1312;Razor Falls;;;;;;;;;;;;;x
+PROV1313;Bear Falls;;;;;;;;;;;;;x
+PROV1314;Blackforest River;;;;;;;;;;;;;x
+PROV1315;Blackforest River;;;;;;;;;;;;;x
+PROV1316;Tropica River;;;;;;;;;;;;;x
+PROV1317;Tropica River;;;;;;;;;;;;;x
+PROV1318;Tropica River;;;;;;;;;;;;;x
+PROV1319;Tropica River;;;;;;;;;;;;;x
+PROV1320;Verge River;;;;;;;;;;;;;x
+PROV1321;Monkey Falls;;;;;;;;;;;;;x
+PROV1322;Minke Falls;;;;;;;;;;;;;x
+PROV1323;Koco River;;;;;;;;;;;;;x
+PROV1324;Koco River;;;;;;;;;;;;;x
+PROV1325;Mill River;;;;;;;;;;;;;x
+PROV1326;Salmon River;;;;;;;;;;;;;x
+PROV1327;Salmon River;;;;;;;;;;;;;x
+PROV1328;Salmon River;;;;;;;;;;;;;x
+PROV1329;Salmon River;;;;;;;;;;;;;x
+PROV1330;Salmon River;;;;;;;;;;;;;x
+PROV1331;Salmon River;;;;;;;;;;;;;x
+PROV1332;Salmon River;;;;;;;;;;;;;x
+PROV1333;Salmon River;;;;;;;;;;;;;x
+PROV1334;Salt River;;;;;;;;;;;;;x
+PROV1335;Tyler River;;;;;;;;;;;;;x
+PROV1336;Tyler River;;;;;;;;;;;;;x
+PROV1337;Tyler River;;;;;;;;;;;;;x
+PROV1338;Tyler River;;;;;;;;;;;;;x
+PROV1339;Tyler River;;;;;;;;;;;;;x
+PROV1340;Tyler River;;;;;;;;;;;;;x
+PROV1341;Tyler River;;;;;;;;;;;;;x
+PROV1342;Sprixie River;;;;;;;;;;;;;x
+PROV1343;Star River;;;;;;;;;;;;;x
+PROV1344;Star River;;;;;;;;;;;;;x
+PROV1345;Star River;;;;;;;;;;;;;x
+PROV1346;Star River;;;;;;;;;;;;;x
+PROV1347;Star River;;;;;;;;;;;;;x
+PROV1348;Star River;;;;;;;;;;;;;x
+PROV1349;Star River;;;;;;;;;;;;;x
+PROV1350;Star River;;;;;;;;;;;;;x
+PROV1351;Star River;;;;;;;;;;;;;x
+PROV1352;Star River;;;;;;;;;;;;;x
+PROV1353;Star River;;;;;;;;;;;;;x
+PROV1354;Star River;;;;;;;;;;;;;x
+PROV1355;Mushroom River;;;;;;;;;;;;;x
+PROV1356;Mushroom River;;;;;;;;;;;;;x
+PROV1357;Mushroom River;;;;;;;;;;;;;x
+PROV1358;Mushroom River;;;;;;;;;;;;;x
+PROV1359;Mushroom River;;;;;;;;;;;;;x
+PROV1360;Mushroom River;;;;;;;;;;;;;x
+PROV1361;Mushroom River;;;;;;;;;;;;;x
+PROV1362;Mushroom River;;;;;;;;;;;;;x
+PROV1363;Mushroom River;;;;;;;;;;;;;x
+PROV1364;Mushroom River;;;;;;;;;;;;;x
+PROV1365;Mushroom River;;;;;;;;;;;;;x
+PROV1366;Mushroom River;;;;;;;;;;;;;x
+PROV1367;Koopa River;;;;;;;;;;;;;x
+PROV1368;Koopa River;;;;;;;;;;;;;x
+PROV1369;Koopa River;;;;;;;;;;;;;x
+PROV1370;Koopa River;;;;;;;;;;;;;x
+PROV1371;Cold River;;;;;;;;;;;;;x
+PROV1372;Cold River;;;;;;;;;;;;;x
+PROV1373;Cold River;;;;;;;;;;;;;x
+PROV1374;Cold River;;;;;;;;;;;;;x
+PROV1375;Cold River;;;;;;;;;;;;;x
+PROV1376;Cold River;;;;;;;;;;;;;x
+PROV1377;Cold River;;;;;;;;;;;;;x
+PROV1378;Cold River;;;;;;;;;;;;;x
+PROV1379;Cold River;;;;;;;;;;;;;x
+PROV1380;Cold River;;;;;;;;;;;;;x
+PROV1381;Cold River;;;;;;;;;;;;;x
+PROV1382;Cold River;;;;;;;;;;;;;x
+PROV1383;Cold River;;;;;;;;;;;;;x
+PROV1384;Cold River;;;;;;;;;;;;;x
+PROV1385;Cold River;;;;;;;;;;;;;x
+PROV1386;Toad River;;;;;;;;;;;;;x
+PROV1387;Toad River;;;;;;;;;;;;;x
+PROV1388;Toad River;;;;;;;;;;;;;x
+PROV1389;Garden River;;;;;;;;;;;;;x
+PROV1390;Garden River;;;;;;;;;;;;;x
+PROV1391;Boo River;;;;;;;;;;;;;x
+PROV1392;Boo River;;;;;;;;;;;;;x
+PROV1393;Boo River;;;;;;;;;;;;;x
+PROV1394;Boo River;;;;;;;;;;;;;x
+PROV1395;Boo River;;;;;;;;;;;;;x
+PROV1396;Boo River;;;;;;;;;;;;;x
+PROV1397;Rapid River;;;;;;;;;;;;;x
+PROV1398;Rapid River;;;;;;;;;;;;;x
+PROV1399;Fairy River;;;;;;;;;;;;;x
+PROV1400;Fairy River;;;;;;;;;;;;;x
+PROV1401;Fairy River;;;;;;;;;;;;;x
+PROV1402;Fairy River;;;;;;;;;;;;;x
+PROV1403;Fairy River;;;;;;;;;;;;;x
+PROV1404;Fairy River;;;;;;;;;;;;;x
+PROV1405;Fairy River;;;;;;;;;;;;;x
+PROV1406;Fairy River;;;;;;;;;;;;;x
+PROV1407;Yosu Rapids;;;;;;;;;;;;;x
+PROV1408;Diamond River;;;;;;;;;;;;;x
+PROV1409;Diamond River;;;;;;;;;;;;;x
+PROV1410;Pacifica;;;;;;;;;;;;;x
+PROV1411;Banana Bird Lake;;;;;;;;;;;;;x
+PROV1412;Lake Orangatanga;;;;;;;;;;;;;x
+PROV1413;Kremling Lake;;;;;;;;;;;;;x
+PROV1414;Kremling Lake;;;;;;;;;;;;;x
+PROV1415;Kremling Lake;;;;;;;;;;;;;x
+PROV1416;Icy Lake;;;;;;;;;;;;;x
+PROV1417;Lake Lodge;;;;;;;;;;;;;x
+PROV1418;Roolenstein Lake;;;;;;;;;;;;;x
+PROV1419;Kroc Pond;;;;;;;;;;;;;x
+PROV1420;Miller Lake;;;;;;;;;;;;;x
+PROV1421;Great Ape Lakes;;;;;;;;;;;;;x
+PROV1422;Lake of the Vines;;;;;;;;;;;;;x
+PROV1423;Crocodile Lake;;;;;;;;;;;;;x
+PROV1424;Crocodile Lake;;;;;;;;;;;;;x
+PROV1425;Crocodile Lake;;;;;;;;;;;;;x
+PROV1426;Crocodile Lake;;;;;;;;;;;;;x
+PROV1427;Crocodile Lake;;;;;;;;;;;;;x
+PROV1428;Crocodile Lake;;;;;;;;;;;;;x
+PROV1429;Upper Factory Lake;;;;;;;;;;;;;x
+PROV1430;Lower Factory Lake;;;;;;;;;;;;;x
+PROV1431;Timber Lake;;;;;;;;;;;;;x
+PROV1432;Joy Lake;;;;;;;;;;;;;x
+PROV1433;Lake of Fire;;;;;;;;;;;;;x
+PROV1434;Big Moat;;;;;;;;;;;;;x
+PROV1435;Rough Lake;;;;;;;;;;;;;x
+PROV1436;Jungle Pond;;;;;;;;;;;;;x
+PROV1437;Frozen Lake;;;;;;;;;;;;;x
+PROV1438;Lethal Lava Land;;;;;;;;;;;;;x
+PROV1439;Third Lake;;;;;;;;;;;;;x
+PROV1440;Desert Oasis;;;;;;;;;;;;;x
+PROV1441;Grassland Moat;;;;;;;;;;;;;x
+PROV1442;Warm Fuzzy Lake;;;;;;;;;;;;;x
+PROV1443;Damp Oasis;;;;;;;;;;;;;x
+PROV1444;Gauntlet Pond;;;;;;;;;;;;;x
+PROV1445;Strike Lake;;;;;;;;;;;;;x
+PROV1446;Snowflake Lake;;;;;;;;;;;;;x
+PROV1447;Chilly Lakes;;;;;;;;;;;;;x
+PROV1448;Lake T;;;;;;;;;;;;;x
+PROV1449;Yosu Lake;;;;;;;;;;;;;x
+PROV1450;Cheep Cheep Lake;;;;;;;;;;;;;x
+PROV1451;Park Lake;;;;;;;;;;;;;x
+PROV1452;Boo Lake;;;;;;;;;;;;;x
+PROV1453;Blubble Lake;;;;;;;;;;;;;x
+PROV1454;Yoshi Lake;;;;;;;;;;;;;x
+PROV1455;Turtleshell Lake;;;;;;;;;;;;;x
+PROV1456;Soda Marsh;;;;;;;;;;;;;x
+PROV1457;Fisheye Lake;;;;;;;;;;;;;x
+PROV1458;Jade Jungle;;;;;;;;;;;;;x
+PROV1459;Canyon Lake;;;;;;;;;;;;;x
+PROV1460;Muda Lake;;;;;;;;;;;;;x
+PROV1461;Awazon Basin;;;;;;;;;;;;;x
+PROV1462;Yoshi's Island Lake;;;;;;;;;;;;;x
+PROV1463;Donut Lake;;;;;;;;;;;;;x
+PROV1464;Soda Lake;;;;;;;;;;;;;x
+PROV1465;Kettle Lake;;;;;;;;;;;;;x
+PROV1466;Toadwood Lake;;;;;;;;;;;;;x
+PROV1467;Turtle Bog;;;;;;;;;;;;;x
+PROV1468;Mushroom Swamp;;;;;;;;;;;;;x
+PROV1469;Royal Lake;;;;;;;;;;;;;x
+PROV1470;Tadpole Pond;;;;;;;;;;;;;x
+PROV1471;Mushroom Sea;;;;;;;;;;;;;x
+PROV1472;Mushroom Sea;;;;;;;;;;;;;x
+PROV1473;Mushroom Sea;;;;;;;;;;;;;x
+PROV1474;Mushroom Sea;;;;;;;;;;;;;x
+PROV1475;Mushroom Sea;;;;;;;;;;;;;x
+PROV1476;Mushroom Sea;;;;;;;;;;;;;x
+PROV1477;Mushroom Sea;;;;;;;;;;;;;x
+PROV1478;Sulphur Lake;;;;;;;;;;;;;x
+PROV1479;Guffawha Lake;;;;;;;;;;;;;x
+PROV1480;Chucklehuck Lake;;;;;;;;;;;;;x
+PROV1481;Crab Lake;;;;;;;;;;;;;x
+PROV1482;Tartaruga Lake;;;;;;;;;;;;;x
 
 city_emperor_delfino_islands;El Presidente;Grand Prince;Grand Prinz;;Gran Príncipe;;;;;;;;;x
 city_king_delfino_islands;Captain-General;Doge Sérénissime;Durchlauchter Doge;;Duque Sereno;;;;;;;;;x
@@ -1510,7 +1510,7 @@ temple_baron;Judge;Bourgmestre;Bürgermeister;;Alcalde;;;;;;;;;x
 
 
 
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#CODE;ENGLISH;;;;;;;;;;;;;x
 #Cultural Buildings
 
 #Cultural Building Description
@@ -1518,158 +1518,158 @@ temple_baron;Judge;Bourgmestre;Bürgermeister;;Alcalde;;;;;;;;;x
 #Retinue names
 
 #Event descriptions
-EVTDESCSSWISH1;Please, mighty star spirit, hear my wish...;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTDESC_WISHHEALTH;Faithful one, your wish has been granted.  May you enjoy everlasting health!;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTDESC_WISHWEALTH;Faithful one, your wish has been granted.  May you enjoy neverending wealth!;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTDESC_WISHPRESTIGE;Faithful one, your wish has been granted.  May you enjoy untold appreciation!;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTDESC_WISHSTATFARM;Faithful one, your wish has been granted.  May you enjoy undeniable greatness!;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTDESC_WISHDENIED;You try to hold back the tears as you realise there will be no magic tonight. Your tears turn to rage.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTDESC_ZTARRED;Although you have been good and faithful to the Star Spirits, the power of the Ztars is too strong, and before you even had the chance to make them, your wishes have been taken from you.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTDESC_ZTARRED2;Your hard work and dedication to the Ztars has paid off.  That's one wish that will never be granted.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTDESCHAPPINESS;Being a worshipper of happiness comes with certain benefits;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTDESC_WHOOPSHAPPINESS;Somehow you ended up without the happiness trait.  Whoops.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTDESCGREED;Being a worshipper of greed comes with certain benefits;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTDESC_WHOOPSGREED;Somehow you ended up without the greed trait.  Whoops.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTDESCYEARGREED;Your devotion to Greed pays dividends;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTDESCGREEDSTHEFT;It's time to rob some foolish faithful!;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTDESCGREEDSTHEFT2;The Greed Spirit has visited us in the night! We have been robbed!;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTDESC_VASSALTHEFT;Your vassal has robbed you!;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTDESCYEARLYGAMB;The impulse to gamble is too strong, you must indulge, you can't stop yourself.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTDESCSSWISH1;Please, mighty star spirit, hear my wish...;;;;;;;;;;;;;x
+EVTDESC_WISHHEALTH;Faithful one, your wish has been granted.  May you enjoy everlasting health!;;;;;;;;;;;;;x
+EVTDESC_WISHWEALTH;Faithful one, your wish has been granted.  May you enjoy neverending wealth!;;;;;;;;;;;;;x
+EVTDESC_WISHPRESTIGE;Faithful one, your wish has been granted.  May you enjoy untold appreciation!;;;;;;;;;;;;;x
+EVTDESC_WISHSTATFARM;Faithful one, your wish has been granted.  May you enjoy undeniable greatness!;;;;;;;;;;;;;x
+EVTDESC_WISHDENIED;You try to hold back the tears as you realise there will be no magic tonight. Your tears turn to rage.;;;;;;;;;;;;;x
+EVTDESC_ZTARRED;Although you have been good and faithful to the Star Spirits, the power of the Ztars is too strong, and before you even had the chance to make them, your wishes have been taken from you.;;;;;;;;;;;;;x
+EVTDESC_ZTARRED2;Your hard work and dedication to the Ztars has paid off.  That's one wish that will never be granted.;;;;;;;;;;;;;x
+EVTDESCHAPPINESS;Being a worshipper of happiness comes with certain benefits;;;;;;;;;;;;;x
+EVTDESC_WHOOPSHAPPINESS;Somehow you ended up without the happiness trait.  Whoops.;;;;;;;;;;;;;x
+EVTDESCGREED;Being a worshipper of greed comes with certain benefits;;;;;;;;;;;;;x
+EVTDESC_WHOOPSGREED;Somehow you ended up without the greed trait.  Whoops.;;;;;;;;;;;;;x
+EVTDESCYEARGREED;Your devotion to Greed pays dividends;;;;;;;;;;;;;x
+EVTDESCGREEDSTHEFT;It's time to rob some foolish faithful!;;;;;;;;;;;;;x
+EVTDESCGREEDSTHEFT2;The Greed Spirit has visited us in the night! We have been robbed!;;;;;;;;;;;;;x
+EVTDESC_VASSALTHEFT;Your vassal has robbed you!;;;;;;;;;;;;;x
+EVTDESCYEARLYGAMB;The impulse to gamble is too strong, you must indulge, you can't stop yourself.;;;;;;;;;;;;;x
 
 #Event options
-EVTOPTYESSSWISH1;I will hear the wish.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTOPTNOSSWISH1;I will hear no wish from this one.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTOPT_YIPPEE;YIPPEE!;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTOPT_BWAHAHAHA;BWAHAHAHA!;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTOPTA_MARIO5;How could I have been so unworthy?;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTOPTB_MARIO5;I will make the star spirits suffer!;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTOPTC_MARIO5;There's nothing I can do.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTOPTD_MARIO5;No longer will I worship the stars!;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTOPT_MARIO6;These heretics are heartless.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTOPT_MARIO7;The Ztars are strong!;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTOPT_OHWO;OH WOAH WOAH WOAH!;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTOPLOW;I'll just place a small bet;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTOPMID;Well, let's make things interesting...;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTOPHIGH;Go big or go home!;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTOPTYESSSWISH1;I will hear the wish.;;;;;;;;;;;;;x
+EVTOPTNOSSWISH1;I will hear no wish from this one.;;;;;;;;;;;;;x
+EVTOPT_YIPPEE;YIPPEE!;;;;;;;;;;;;;x
+EVTOPT_BWAHAHAHA;BWAHAHAHA!;;;;;;;;;;;;;x
+EVTOPTA_MARIO5;How could I have been so unworthy?;;;;;;;;;;;;;x
+EVTOPTB_MARIO5;I will make the star spirits suffer!;;;;;;;;;;;;;x
+EVTOPTC_MARIO5;There's nothing I can do.;;;;;;;;;;;;;x
+EVTOPTD_MARIO5;No longer will I worship the stars!;;;;;;;;;;;;;x
+EVTOPT_MARIO6;These heretics are heartless.;;;;;;;;;;;;;x
+EVTOPT_MARIO7;The Ztars are strong!;;;;;;;;;;;;;x
+EVTOPT_OHWO;OH WOAH WOAH WOAH!;;;;;;;;;;;;;x
+EVTOPLOW;I'll just place a small bet;;;;;;;;;;;;;x
+EVTOPMID;Well, let's make things interesting...;;;;;;;;;;;;;x
+EVTOPHIGH;Go big or go home!;;;;;;;;;;;;;x
 
 #Names
-seven_stars;Faith of the Seven Stars;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-ztar_faith;Ztar Faith;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-dark_star_faith;Dark Star Faith;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-shine_sprites;Shine Sprite;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-happiness;Happiness;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-astrotheology;Astrotheology;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-primitive;Primitive;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-personality_cult;Cult of Personality;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-bowser_religion;Bowser;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-GOD_THE_STAR_SPIRITS;The Star Spirits;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-GOD_THE_STARS;The Stars;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-GOD_THE_DARK_STAR;The Dark Star;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVIL_SPIRITS;Evil Spirits;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-THE_STARS;The Stars;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-GOD_THE_ZTARS;The Ztars;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-THE_ZTARS;The Ztars;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-THE_PROPHECIES;The Prophecies;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-STAR_SPIRIT;Star Spirit;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-THE_SHINES;The Shines;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-GOD_THE_SHINES;The Shines;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-GOD_THE_SHINE_SPRITES;The Shine Sprites;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-THE_SUPER_HAPPY_TREE;The Super Happy Tree;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-GOD_THE_SUPER_HAPPY_TREE;The Super Happy Tree;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-d_star_spirits;The Seven Stars;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-make_a_wish;Make a wish;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-ztar_a_wish;Invoke a Ztar;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-ztarred_my_wish;Stole my wish;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-robbed_me_blind;Robbed me blind;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-happiness_religion_trait;Happiness;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-WISH;Wishes;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-THE_CATALOGUE;The Catalogue;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-GOD_GREED_SPIRIT;Greed Spirit;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-ENVY;Envy;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-greed_religion_trait;Greed;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-greed;Greed;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-STAT_PIETY_WISH;Wishes;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-STAT_PIETY_ENVY;Envy;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-STAT_PIETY_LUCK;Luck;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-STAT_PIETY_STRENGTH;Strength;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-STAT_PIETY_VIM;Vim;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-d_greed_spirit;The Greed Spirit;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-GREED_SPIRIT;The Greed Spirit;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-steal_from_liege;Steal from liege;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-steal;Your liege will be robbed;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-THE_CASINO;The Casino;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PIT_BOSS;Pit Boss;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-GOD_GAMBLER;The Gambler;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-LUCK;Luck;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-STRENGTH;Strength;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-gambling;Gambling;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-GAMBLING_MASTER;Gambling Master;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-d_gambling;The Casino Master;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-small_lucky;Lucky;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-unlucky;Unlucky;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-mid_lucky;Lucky;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-very_lucky;Lucky;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-gamble_decision;Gamble;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-THE_BOSS;The Boss;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-SOLDIER;Soldier;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-GOD_BOWSER;Bowser;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-KING_BOWSER;Great King;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-d_cult_of_bowser;The Cult of Bowser;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-d_cult_of_smithy;The Cult of Smithy;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-bowser_invasion;Invasion;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-lunatheology;Lunatheology;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-THE_LUNAR;The Book of the Moon;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-GOD_LUNAR;The Moon;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-GOD_LUNAR2;Luna;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-GOD_LUNAR3;Selene;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-d_twilight_towner;Twilit Papacy;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-twilight_towner;Twilight Towner;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-GOD_SMITHY;Smithy;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-smithy_religion;Smithy;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-KING_SMITHY;The Great Smith;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-extraterrestrial;Extraterrestrial;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-shroob;Shroob;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-THE_SHROOK;The Good Shrook;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-SHRIEST;Shriest;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-GOD_FIRST_SHROOB;The First Shroob;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-VIM;Vim;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-KING_COMMANDER;Shroob Commander;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-d_shroob;The Shroob High Command;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-fuck_shit_up;Make a mess;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+seven_stars;Faith of the Seven Stars;;;;;;;;;;;;;x
+ztar_faith;Ztar Faith;;;;;;;;;;;;;x
+dark_star_faith;Dark Star Faith;;;;;;;;;;;;;x
+shine_sprites;Shine Sprite;;;;;;;;;;;;;x
+happiness;Happiness;;;;;;;;;;;;;x
+astrotheology;Astrotheology;;;;;;;;;;;;;x
+primitive;Primitive;;;;;;;;;;;;;x
+personality_cult;Cult of Personality;;;;;;;;;;;;;x
+bowser_religion;Bowser;;;;;;;;;;;;;x
+GOD_THE_STAR_SPIRITS;The Star Spirits;;;;;;;;;;;;;x
+GOD_THE_STARS;The Stars;;;;;;;;;;;;;x
+GOD_THE_DARK_STAR;The Dark Star;;;;;;;;;;;;;x
+EVIL_SPIRITS;Evil Spirits;;;;;;;;;;;;;x
+THE_STARS;The Stars;;;;;;;;;;;;;x
+GOD_THE_ZTARS;The Ztars;;;;;;;;;;;;;x
+THE_ZTARS;The Ztars;;;;;;;;;;;;;x
+THE_PROPHECIES;The Prophecies;;;;;;;;;;;;;x
+STAR_SPIRIT;Star Spirit;;;;;;;;;;;;;x
+THE_SHINES;The Shines;;;;;;;;;;;;;x
+GOD_THE_SHINES;The Shines;;;;;;;;;;;;;x
+GOD_THE_SHINE_SPRITES;The Shine Sprites;;;;;;;;;;;;;x
+THE_SUPER_HAPPY_TREE;The Super Happy Tree;;;;;;;;;;;;;x
+GOD_THE_SUPER_HAPPY_TREE;The Super Happy Tree;;;;;;;;;;;;;x
+d_star_spirits;The Seven Stars;;;;;;;;;;;;;x
+make_a_wish;Make a wish;;;;;;;;;;;;;x
+ztar_a_wish;Invoke a Ztar;;;;;;;;;;;;;x
+ztarred_my_wish;Stole my wish;;;;;;;;;;;;;x
+robbed_me_blind;Robbed me blind;;;;;;;;;;;;;x
+happiness_religion_trait;Happiness;;;;;;;;;;;;;x
+WISH;Wishes;;;;;;;;;;;;;x
+THE_CATALOGUE;The Catalogue;;;;;;;;;;;;;x
+GOD_GREED_SPIRIT;Greed Spirit;;;;;;;;;;;;;x
+ENVY;Envy;;;;;;;;;;;;;x
+greed_religion_trait;Greed;;;;;;;;;;;;;x
+greed;Greed;;;;;;;;;;;;;x
+STAT_PIETY_WISH;Wishes;;;;;;;;;;;;;x
+STAT_PIETY_ENVY;Envy;;;;;;;;;;;;;x
+STAT_PIETY_LUCK;Luck;;;;;;;;;;;;;x
+STAT_PIETY_STRENGTH;Strength;;;;;;;;;;;;;x
+STAT_PIETY_VIM;Vim;;;;;;;;;;;;;x
+d_greed_spirit;The Greed Spirit;;;;;;;;;;;;;x
+GREED_SPIRIT;The Greed Spirit;;;;;;;;;;;;;x
+steal_from_liege;Steal from liege;;;;;;;;;;;;;x
+steal;Your liege will be robbed;;;;;;;;;;;;;x
+THE_CASINO;The Casino;;;;;;;;;;;;;x
+PIT_BOSS;Pit Boss;;;;;;;;;;;;;x
+GOD_GAMBLER;The Gambler;;;;;;;;;;;;;x
+LUCK;Luck;;;;;;;;;;;;;x
+STRENGTH;Strength;;;;;;;;;;;;;x
+gambling;Gambling;;;;;;;;;;;;;x
+GAMBLING_MASTER;Gambling Master;;;;;;;;;;;;;x
+d_gambling;The Casino Master;;;;;;;;;;;;;x
+small_lucky;Lucky;;;;;;;;;;;;;x
+unlucky;Unlucky;;;;;;;;;;;;;x
+mid_lucky;Lucky;;;;;;;;;;;;;x
+very_lucky;Lucky;;;;;;;;;;;;;x
+gamble_decision;Gamble;;;;;;;;;;;;;x
+THE_BOSS;The Boss;;;;;;;;;;;;;x
+SOLDIER;Soldier;;;;;;;;;;;;;x
+GOD_BOWSER;Bowser;;;;;;;;;;;;;x
+KING_BOWSER;Great King;;;;;;;;;;;;;x
+d_cult_of_bowser;The Cult of Bowser;;;;;;;;;;;;;x
+d_cult_of_smithy;The Cult of Smithy;;;;;;;;;;;;;x
+bowser_invasion;Invasion;;;;;;;;;;;;;x
+lunatheology;Lunatheology;;;;;;;;;;;;;x
+THE_LUNAR;The Book of the Moon;;;;;;;;;;;;;x
+GOD_LUNAR;The Moon;;;;;;;;;;;;;x
+GOD_LUNAR2;Luna;;;;;;;;;;;;;x
+GOD_LUNAR3;Selene;;;;;;;;;;;;;x
+d_twilight_towner;Twilit Papacy;;;;;;;;;;;;;x
+twilight_towner;Twilight Towner;;;;;;;;;;;;;x
+GOD_SMITHY;Smithy;;;;;;;;;;;;;x
+smithy_religion;Smithy;;;;;;;;;;;;;x
+KING_SMITHY;The Great Smith;;;;;;;;;;;;;x
+extraterrestrial;Extraterrestrial;;;;;;;;;;;;;x
+shroob;Shroob;;;;;;;;;;;;;x
+THE_SHROOK;The Good Shrook;;;;;;;;;;;;;x
+SHRIEST;Shriest;;;;;;;;;;;;;x
+GOD_FIRST_SHROOB;The First Shroob;;;;;;;;;;;;;x
+VIM;Vim;;;;;;;;;;;;;x
+KING_COMMANDER;Shroob Commander;;;;;;;;;;;;;x
+d_shroob;The Shroob High Command;;;;;;;;;;;;;x
+fuck_shit_up;Make a mess;;;;;;;;;;;;;x
 
 
 #Religious descriptions
-seven_stars_DESC;The Faith of the Seven Stars revolves around the Seven Star Spirits that reside in Star Haven. Defining features in-game:\n§Y*§! Secular lords may rule over temple holdings\n§Y*§! Seven Star Worshippers can make wishes to the Star Spirits\n§Y*§! Female Seven Star Worshippers are viewed equally to males\n§Y*§! The Seven Stars reward moral behaviour and punish immoral behaviour amongst their followers;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-ztar_faith_DESC;The Ztar Faith revolves around the worship of the dark power of anti-stars known as Ztars.  While Stars are known to grant wishes, Ztars take them away. Defining features in-game:\n§Y*§! Secular lords may rule over temple holdings\n§Y*§! Ztar Worshippers can take away the wishes of Star worshippers\n§Y*§! Female Ztar Worshippers are viewed equally to males;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-dark_star_faith_DESC;The Dark Star Faith is an apocalyptic religion that seeks to restore the Dark Star. Defining features in-game:\n§Y*§! Secular lords may rule over temple holdings\n§Y*§! Dark Star Worshippers can restore the Dark Star and plunge the world into eternal darkness\n§Y*§! Female Dark Star Worshippers are viewed equally to males\n§Y*§! Once the Dark Star is restored it can grant its followers great boons in the fight against the light\n§Y*§! The Dark Star will bring about the apocalypse;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-shine_sprites_DESC;The Shine Sprite Faith centres around the Shine Sprites, beings related to star spirits, but who walk the earth and provide energy to those that they favour. Defining features in-game:\n§Y*§! Secular lords may rule over temple holdings\n§Y*§! Shine Sprite worship has no heresies\n§Y*§! Female Shine Sprite Worshippers are viewed equally to males\n§Y*§! Shine Sprites provide their followers with a steady stream of energy in the form of wealth;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-happiness_DESC;Happiness is a religion that focuses on the pursuit and celebration of happiness. Defining features in-game:\n§Y*§! Secular lords may rule over temple holdings\n§Y*§! Happiness has no heresies\n§Y*§! Characters of the Happiness faith cannot call Holy Wars, or be the target of Holy Wars \n§Y*§! Characters of the happiness faith are well-liked ;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-greed_DESC;Greed is the vice of never being content with one's property or status, and a constant, consuming urge to increase one's status. It is one of the most notorious misdeeds amongst Mushroom Planet denizens as well as the most common. Characters adhering to Greed simply refuse to be comfortable with what they have and will take any risk to acquire more possessions. Defining features in-game:\n§Y*§! Secular lords may rule over temple holdings\n§Y*§! Greedy characters receive gold for their envy in yearly intervals\n§Y*§! Female Greedy characters are viewed equally to males\n§Y*§! The Greed Spirit is the religious head of the Greed faith and will periodically rob independent Greedy characters \n§Y*§! The Greed Spirit can be exorcised (destroyed) if a Greedy character controls 4 of the 5 Greed Holy Sites\n§Y*§! Characters that are devoted to Greed make poor vassals, and may attempt to rob their lieges from time to time;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-gambling_DESC;The prevalence of Casinos throughout the world has led to a large population with gambling addictions. Gamblers love to risk their entire life savings in the hopes of one day winning it all. Defining features in-game:\n§Y*§! Secular lords may not rule directly over temple holdings (casinos)\n§Y*§! Gambling characters may gamble as long as they have the money to do so and will be forced to gamble if they abstain too long\n§Y*§! Female Gamblers are viewed equally to males\n§Y*§! The religious head of Gambling is a secular title and may cease to exist \n§Y*§! If the religious head title is held then the holder becomes the 'bank' and will benefit from house odds ;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-bowser_religion_DESC;The Cult of Bowser is one of the most important social movements in the history of the Mushroom Kingdom. Bowser, King of the Koopas, commands the respect and loyalty of legions of desperate devoted followers. Defining features in-game:\n§Y*§! The head of the faith, Bowser, may freely invade any realm as long as he is strong enough \n§Y*§! Secular lords may rule directly over temple holdings \n§Y*§! Female Bowser Cultists are viewed equally to males\n§Y*§! The religious head of the Bowser Cult is a secular title and may cease to exist ;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-smithy_religion_DESC;The Cult of Smithy is the faith of the followers of Smithy, who believe him to be a living god.  Defining features in-game:\n§Y*§! The head of the faith, Smithy, may freely invade any realm as long as he is strong enough \n§Y*§! Secular lords may rule directly over temple holdings \n§Y*§! Female Smithy Cultists are viewed equally to males\n§Y*§! The religious head of the Smithy Cult is a secular title and may cease to exist ;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-twilight_towner_DESC;The religion of the people of Twilight Town is organised into a traditional church structure, and centred around the worship of the source of all life, the Moon. Defining features in-game:\n§Y*§! The Twilit Pope may excommunicate Twilight Towner faithful \n§Y*§! The Twilit Pope may grant divorces \n§Y*§! The Twilit Pope may grant claims and sanction invasions \n§Y*§! Secular lords may not rule directly over temple holdings \n§Y*§! Only males may be priests \n§Y*§! Priests are excluded from the line of succession \n§Y*§! In the secular realm Female Twilight Towners are viewed equally to males \n§Y*§! Even if the Twilit Pope holds no land, the title will exist forever ;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-shroob_DESC;The alien Shroobs brought their alien religion with them when they attacked the Mushroom Kingdom.  Defining features in-game:\n§Y*§! Members of the Shroob faith may freely invade realms \n§Y*§! Secular lords may rule directly over temple holdings \n§Y*§! Female Shroob faithful are viewed equally to males\n§Y*§! The religious head of the Shroob faith is a secular title and may cease to exist ;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-kong_religion_DESC;The religion of the Kongs.  Defining features in-game:\n§Y*§! Members of the Shroob faith may freely invade realms \n§Y*§! Secular lords may rule directly over temple holdings \n§Y*§! Female Shroob faithful are viewed equally to males\n§Y*§! The religious head of the Shroob faith is a secular title and may cease to exist ;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+seven_stars_DESC;The Faith of the Seven Stars revolves around the Seven Star Spirits that reside in Star Haven. Defining features in-game:\n§Y*§! Secular lords may rule over temple holdings\n§Y*§! Seven Star Worshippers can make wishes to the Star Spirits\n§Y*§! Female Seven Star Worshippers are viewed equally to males\n§Y*§! The Seven Stars reward moral behaviour and punish immoral behaviour amongst their followers;;;;;;;;;;;;;x
+ztar_faith_DESC;The Ztar Faith revolves around the worship of the dark power of anti-stars known as Ztars.  While Stars are known to grant wishes, Ztars take them away. Defining features in-game:\n§Y*§! Secular lords may rule over temple holdings\n§Y*§! Ztar Worshippers can take away the wishes of Star worshippers\n§Y*§! Female Ztar Worshippers are viewed equally to males;;;;;;;;;;;;;x
+dark_star_faith_DESC;The Dark Star Faith is an apocalyptic religion that seeks to restore the Dark Star. Defining features in-game:\n§Y*§! Secular lords may rule over temple holdings\n§Y*§! Dark Star Worshippers can restore the Dark Star and plunge the world into eternal darkness\n§Y*§! Female Dark Star Worshippers are viewed equally to males\n§Y*§! Once the Dark Star is restored it can grant its followers great boons in the fight against the light\n§Y*§! The Dark Star will bring about the apocalypse;;;;;;;;;;;;;x
+shine_sprites_DESC;The Shine Sprite Faith centres around the Shine Sprites, beings related to star spirits, but who walk the earth and provide energy to those that they favour. Defining features in-game:\n§Y*§! Secular lords may rule over temple holdings\n§Y*§! Shine Sprite worship has no heresies\n§Y*§! Female Shine Sprite Worshippers are viewed equally to males\n§Y*§! Shine Sprites provide their followers with a steady stream of energy in the form of wealth;;;;;;;;;;;;;x
+happiness_DESC;Happiness is a religion that focuses on the pursuit and celebration of happiness. Defining features in-game:\n§Y*§! Secular lords may rule over temple holdings\n§Y*§! Happiness has no heresies\n§Y*§! Characters of the Happiness faith cannot call Holy Wars, or be the target of Holy Wars \n§Y*§! Characters of the happiness faith are well-liked ;;;;;;;;;;;;;x
+greed_DESC;Greed is the vice of never being content with one's property or status, and a constant, consuming urge to increase one's status. It is one of the most notorious misdeeds amongst Mushroom Planet denizens as well as the most common. Characters adhering to Greed simply refuse to be comfortable with what they have and will take any risk to acquire more possessions. Defining features in-game:\n§Y*§! Secular lords may rule over temple holdings\n§Y*§! Greedy characters receive gold for their envy in yearly intervals\n§Y*§! Female Greedy characters are viewed equally to males\n§Y*§! The Greed Spirit is the religious head of the Greed faith and will periodically rob independent Greedy characters \n§Y*§! The Greed Spirit can be exorcised (destroyed) if a Greedy character controls 4 of the 5 Greed Holy Sites\n§Y*§! Characters that are devoted to Greed make poor vassals, and may attempt to rob their lieges from time to time;;;;;;;;;;;;;x
+gambling_DESC;The prevalence of Casinos throughout the world has led to a large population with gambling addictions. Gamblers love to risk their entire life savings in the hopes of one day winning it all. Defining features in-game:\n§Y*§! Secular lords may not rule directly over temple holdings (casinos)\n§Y*§! Gambling characters may gamble as long as they have the money to do so and will be forced to gamble if they abstain too long\n§Y*§! Female Gamblers are viewed equally to males\n§Y*§! The religious head of Gambling is a secular title and may cease to exist \n§Y*§! If the religious head title is held then the holder becomes the 'bank' and will benefit from house odds ;;;;;;;;;;;;;x
+bowser_religion_DESC;The Cult of Bowser is one of the most important social movements in the history of the Mushroom Kingdom. Bowser, King of the Koopas, commands the respect and loyalty of legions of desperate devoted followers. Defining features in-game:\n§Y*§! The head of the faith, Bowser, may freely invade any realm as long as he is strong enough \n§Y*§! Secular lords may rule directly over temple holdings \n§Y*§! Female Bowser Cultists are viewed equally to males\n§Y*§! The religious head of the Bowser Cult is a secular title and may cease to exist ;;;;;;;;;;;;;x
+smithy_religion_DESC;The Cult of Smithy is the faith of the followers of Smithy, who believe him to be a living god.  Defining features in-game:\n§Y*§! The head of the faith, Smithy, may freely invade any realm as long as he is strong enough \n§Y*§! Secular lords may rule directly over temple holdings \n§Y*§! Female Smithy Cultists are viewed equally to males\n§Y*§! The religious head of the Smithy Cult is a secular title and may cease to exist ;;;;;;;;;;;;;x
+twilight_towner_DESC;The religion of the people of Twilight Town is organised into a traditional church structure, and centred around the worship of the source of all life, the Moon. Defining features in-game:\n§Y*§! The Twilit Pope may excommunicate Twilight Towner faithful \n§Y*§! The Twilit Pope may grant divorces \n§Y*§! The Twilit Pope may grant claims and sanction invasions \n§Y*§! Secular lords may not rule directly over temple holdings \n§Y*§! Only males may be priests \n§Y*§! Priests are excluded from the line of succession \n§Y*§! In the secular realm Female Twilight Towners are viewed equally to males \n§Y*§! Even if the Twilit Pope holds no land, the title will exist forever ;;;;;;;;;;;;;x
+shroob_DESC;The alien Shroobs brought their alien religion with them when they attacked the Mushroom Kingdom.  Defining features in-game:\n§Y*§! Members of the Shroob faith may freely invade realms \n§Y*§! Secular lords may rule directly over temple holdings \n§Y*§! Female Shroob faithful are viewed equally to males\n§Y*§! The religious head of the Shroob faith is a secular title and may cease to exist ;;;;;;;;;;;;;x
+kong_religion_DESC;The religion of the Kongs.  Defining features in-game:\n§Y*§! Members of the Shroob faith may freely invade realms \n§Y*§! Secular lords may rule directly over temple holdings \n§Y*§! Female Shroob faithful are viewed equally to males\n§Y*§! The religious head of the Shroob faith is a secular title and may cease to exist ;;;;;;;;;;;;;x
 
 
 
 #Trait descriptions
-happiness_religion_trait_desc;This character is a follower of the Happiness faith;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-greed_religion_trait_desc;This character is a follower of the Greed faith;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+happiness_religion_trait_desc;This character is a follower of the Happiness faith;;;;;;;;;;;;;x
+greed_religion_trait_desc;This character is a follower of the Greed faith;;;;;;;;;;;;;x
 
 #Decision descriptions
-fuck_shit_up_desc;Give the Mario Universe religions a try...;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+fuck_shit_up_desc;Give the Mario Universe religions a try...;;;;;;;;;;;;;x
 
 #Title descriptions
 
 #Decision descriptions
-make_a_wish_DESC;Worshippers of the Seven Stars can make wishes, and if they've been good, those wishes may just come true.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-steal_from_liege_DESC;Characters of the Greed religion may attempt to rob their lieges of valuables.  This is a high-risk endeavour that will likely end in imprisonment.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-gamble_tooltip;You will have the option to risk it all on a game of chance.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+make_a_wish_DESC;Worshippers of the Seven Stars can make wishes, and if they've been good, those wishes may just come true.;;;;;;;;;;;;;x
+steal_from_liege_DESC;Characters of the Greed religion may attempt to rob their lieges of valuables.  This is a high-risk endeavour that will likely end in imprisonment.;;;;;;;;;;;;;x
+gamble_tooltip;You will have the option to risk it all on a game of chance.;;;;;;;;;;;;;x
 
 #Custom Tooltips
-wish_ask;Make a wish to the Star Spirits.  They may grant your wish, they may not.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-grant_wish;This wish shall be granted.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-deny_wish;The wish shall go unanswered.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-wish_ztar;Weaken the power of the Star Spirits and deny one of their faithful a wish.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+wish_ask;Make a wish to the Star Spirits.  They may grant your wish, they may not.;;;;;;;;;;;;;x
+grant_wish;This wish shall be granted.;;;;;;;;;;;;;x
+deny_wish;The wish shall go unanswered.;;;;;;;;;;;;;x
+wish_ztar;Weaken the power of the Star Spirits and deny one of their faithful a wish.;;;;;;;;;;;;;x
