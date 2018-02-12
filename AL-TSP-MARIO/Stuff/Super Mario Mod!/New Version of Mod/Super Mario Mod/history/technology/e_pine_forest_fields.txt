@@ -1,0 +1,19 @@
+#PINE FOREST FIELDS
+technology = {
+	titles = {
+		d_bob_omb_land
+		d_cramopolis
+		d_forestland
+		d_sharepeaks
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+	9999 = {
+		military = 8.0
+		economy = 8.0
+		culture = 8.0
+	}
+}

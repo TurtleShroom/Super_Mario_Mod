@@ -17,14 +17,16 @@ e_empire_of_land_and_sea;Empire of Land and Sea;Empire of Land and Sea;Empire of
 e_empire_of_land_and_sea_adj;Empire of Landian;;Empire of Land and Ser;;;;;;;;;;;x
 e_grand_delfino_isles;Grand Delfino Isles;Grand Delfino Isles;Grand Delfino Isles;;Grand Delfino Isles;;;;;;;;;x
 e_grand_delfino_isles_adj;Grand Delfino Islesian;;Grand Delfino Isleser;;;;;;;;;;;x
-e_greater_bubblelands;Greater Bubblelands;Greater Bubblelands;Greater Bubblelands;;Greater Bubblelands;;;;;;;;;x
-e_greater_bubblelands_adj;Greater Bubblelandsian;;Greater Bubblelandser;;;;;;;;;;;x
+e_heartbreak_lands;Heartbreak Lands;Heartbreak Lands;Heartbreak Lands;;Heartbreak Lands;;;;;;;;;x
+e_heartbreak_lands_adj;Heartbreak Landsian;;Heartbreak Landser;;;;;;;;;;;x
 e_junglesaltlands;Junglesaltlands;Junglesaltlands;Junglesaltlands;;Junglesaltlands;;;;;;;;;x
 e_junglesaltlands_adj;Junglesaltlandsian;;junglesaltlandser;;;;;;;;;;;x
 e_koopa_waylands;Koopa Waylands;Koopa Waylands;Koopa Waylands;;Koopa Waylands;;;;;;;;;x
 e_koopa_waylands_adj;Koopa Waylandsian;;Koopa Waylandser;;;;;;;;;;;x
 e_lightbrightice;LightbrightIce;LightbrightIce;LightbrightIce;;LightbrightIce;;;;;;;;;x
 e_lightbrightice_adj;LightbrightIcean;;lightbrighticer;;;;;;;;;;;x
+e_maple_mountains;Maple Mountains;Maple Mountains;Maple Mountains;;Maple Mountains;;;;;;;;;x
+e_maple_mountains_adj;Maple Mountainsian;;Maple Mountainser;;;;;;;;;;;x
 e_marios_empire;Mario's Empire;Mario's Empire;Mario's Empire;;Mario's Empire;;;;;;;;;x
 e_marios_empire_adj;Marios Empirean;;Mario's Empirer;;;;;;;;;;;x
 e_marshlands;Marshlands;Marshlands;Marshlands;;Marshlands;;;;;;;;;x
@@ -33,8 +35,12 @@ e_mountlands;Mountlands;Mountlands;Mountlands;;Mountlands;;;;;;;;;x
 e_mountlands_adj;Mountlandsian;;mountlandser;;;;;;;;;;;x
 e_mountmineland;Mountmineland;Mountmineland;Mountmineland;;Mountmineland;;;;;;;;;x
 e_mountmineland_adj;Mountminelandian;;mountminelander;;;;;;;;;;;x
+e_mushmole_world;Mushmole World;Mushmole World;Mushmole World;;Mushmole World;;;;;;;;;x
+e_mushmole_world_adj;Mushmole Worldian;;Mushmole Worlder;;;;;;;;;;;x
 e_northern_fruitlandia;Northern Fruitlandia;Northern Fruitlandia;Northern Fruitlandia;;Northern Fruitlandia;;;;;;;;;x
 e_northern_fruitlandia_adj;Northern Fruitlandian;;Northern Fruitlander;;;;;;;;;;;x
+e_pine_forest_fields;Pine Forest Fields;Pine Forest Fields;Pine Forest Fields;;Pine Forest Fields;;;;;;;;;x
+e_pine_forest_fields_adj;Pine Forest Fieldsian;;Pine Forest Fieldser;;;;;;;;;;;x
 e_plaintree_lands;Plaintree Lands;Plaintree Lands;Plaintree Lands;;Plaintree Lands;;;;;;;;;x
 e_plaintree_lands_adj;Plaintree Landsian;;Plaintree Landser;;;;;;;;;;;x
 e_rice_meadowlands;Rice Meadowlands;Rice Meadowlands;Rice Meadowlands;;Rice Meadowlands;;;;;;;;;x
@@ -43,6 +49,8 @@ e_royal_seamounts;Royal Seamounts;Royal Seamounts;Royal Seamounts;;Royal Seamoun
 e_royal_seamounts_adj;Royal Seamountsian;;Royal Seamountser;;;;;;;;;;;x
 e_shiver_lands;Shiver Lands;Shiver Lands;Shiver Lands;;Shiver Lands;;;;;;;;;x
 e_shiver_lands_adj;Shiver Landsian;;Shiver Landser;;;;;;;;;;;x
+e_sky_high_lights;Sky High Lights;Sky High Lights;Sky High Lights;;Sky High Lights;;;;;;;;;x
+e_sky_high_lights_adj;Sky High Lightsian;;Sky High Lightser;;;;;;;;;;;x
 e_southern_fruitlandia;Southern Fruitlandia;Southern Fruitlandia;Southern Fruitlandia;;Southern Fruitlandia;;;;;;;;;x
 e_southern_fruitlandia_adj;Southern Fruitlandian;;Southern Fruitlander;;;;;;;;;;;x
 e_the_crab_and_the_sea;The Crab and the Sea;The Crab and the Sea;The Crab and the Sea;;The Crab and the Sea;;;;;;;;;x

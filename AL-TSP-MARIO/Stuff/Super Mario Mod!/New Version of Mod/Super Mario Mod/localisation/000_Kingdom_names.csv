@@ -5,6 +5,8 @@ k_barrier_pathland;Barrier Pathland;Barrier Pathland;Barrier Pathland;;Barrier P
 k_barrier_pathland_adj;Barrier Pathlandian;;Barrier Pathlander;;;;;;;;;;;x
 k_baseegg_park;BaseEgg Park;BaseEgg Park;BaseEgg Park;;BaseEgg Park;;;;;;;;;x
 k_baseegg_park_adj;BaseEgg Parkian;;BaseEgg Parker;;;;;;;;;;;x
+k_big_gardens;Big Gardens;Big Gardens;Big Gardens;;Big Gardens;;;;;;;;;x
+k_big_gardens_adj;Big Gardensian;;Big Gardenser;;;;;;;;;;;x
 k_big_sea_heights;Big Sea Heights;Big Sea Heights;Big Sea Heights;;Big Sea Heights;;;;;;;;;x
 k_big_sea_heights_adj;Big Sea Heightsian;;Big Sea Heightser;;;;;;;;;;;x
 k_blueleaf_ocean;Blueleaf Ocean;Blueleaf Ocean;Blueleaf Ocean;;Blueleaf Ocean;;;;;;;;;x
@@ -23,6 +25,8 @@ k_cape_of_the_current;Cape of The Current;Cape of The Current;Cape of The Curren
 k_cape_of_the_current_adj;Cape of The Currentian;;Cape of The Currenter;;;;;;;;;;;x
 k_coastal_canyons;Coastal Canyons;Coastal Canyons;Coastal Canyons;;Coastal Canyons;;;;;;;;;x
 k_coastal_canyons_adj;Coastal Canyonsian;;Coastal Canyonser;;;;;;;;;;;x
+k_cold_riverbanks;Cold Riverbanks;Cold Riverbanks;Cold Riverbanks;;Cold Riverbanks;;;;;;;;;x
+k_cold_riverbanks_adj;Cold Riverbanksian;;Cold Riverbankser;;;;;;;;;;;x
 k_cold_townlands;Cold Townlands;Cold Townlands;Cold Townlands;;Cold Townlands;;;;;;;;;x
 k_cold_townlands_adj;Cold Townlandsian;;Cold Townlandser;;;;;;;;;;;x
 k_cooland;Cooland;Cooland;Cooland;;Cooland;;;;;;;;;x
@@ -33,6 +37,8 @@ k_dark_pipeland;Dark Pipeland;Dark Pipeland;Dark Pipeland;;Dark Pipeland;;;;;;;;
 k_dark_pipeland_adj;Dark Pipelandian;;Dark Pipelander;;;;;;;;;;;x
 k_delfino_bay;Delfino Bay;Delfino Bay;Delfino Bay;;Delfino Bay;;;;;;;;;x
 k_delfino_bay_adj;Delfino Baian;;Delfino Baer;;;;;;;;;;;x
+k_descent_ridge;Descent Ridge;Descent Ridge;Descent Ridge;;Descent Ridge;;;;;;;;;x
+k_descent_ridge_adj;Descent Ridgean;;Descent Ridger;;;;;;;;;;;x
 k_deserted_jungle;Deserted Jungle;Deserted Jungle;Deserted Jungle;;Deserted Jungle;;;;;;;;;x
 k_deserted_jungle_adj;Deserted Junglean;;Deserted Jungler;;;;;;;;;;;x
 k_dks_jungle;DK's Jungle;DK's Jungle;DK's Jungle;;DK's Jungle;;;;;;;;;x
@@ -61,6 +67,10 @@ k_jungle_gorge;Jungle Gorge;Jungle Gorge;Jungle Gorge;;Jungle Gorge;;;;;;;;;x
 k_jungle_gorge_adj;Jungle Gorgean;;Jungle Gorger;;;;;;;;;;;x
 k_koopa_beach;Koopa Beach;Koopa Beach;Koopa Beach;;Koopa Beach;;;;;;;;;x
 k_koopa_beach_adj;Koopa Beachian;;Koopa Beacher;;;;;;;;;;;x
+k_koopa_fields;Koopa Fields;Koopa Fields;Koopa Fields;;Koopa Fields;;;;;;;;;x
+k_koopa_fields_adj;Koopa Fieldsian;;Koopa Fieldser;;;;;;;;;;;x
+k_lake_valley;Lake Valley;Lake Valley;Lake Valley;;Lake Valley;;;;;;;;;x
+k_lake_valley_adj;Lake Valleian;;Lake Valleer;;;;;;;;;;;x
 k_lavalava_way;Lavalava Way;Lavalava Way;Lavalava Way;;Lavalava Way;;;;;;;;;x
 k_lavalava_way_adj;Lavalava Waian;;Lavalava Waer;;;;;;;;;;;x
 k_lcs_fruitlands;LCS Fruitlands;LCS Fruitlands;LCS Fruitlands;;LCS Fruitlands;;;;;;;;;x
@@ -79,8 +89,12 @@ k_mount_mansions;Mount Mansions;Mount Mansions;Mount Mansions;;Mount Mansions;;;
 k_mount_mansions_adj;Mount Mansionsian;;Mount Mansionser;;;;;;;;;;;x
 k_mt_croc;Mt. Croc;Mt. Croc;Mt. Croc;;Mt. Croc;;;;;;;;;x
 k_mt_croc_adj;Mt. Crocian;;Mt. Crocer;;;;;;;;;;;x
+k_mushroom_cities;Mushroom Cities;Mushroom Cities;Mushroom Cities;;Mushroom Cities;;;;;;;;;x
+k_mushroom_cities_adj;Mushroom Citiesian;;Mushroom Citieser;;;;;;;;;;;x
 k_owa_fruitland;OWA Fruitland;OWA Fruitland;OWA Fruitland;;OWA Fruitland;;;;;;;;;x
 k_owa_fruitland_adj;OWA Fruitlandian;;OWA Fruitlander;;;;;;;;;;;x
+k_pineice;Pineice;Pineice;Pineice;;Pineice;;;;;;;;;x
+k_pineice_adj;Pineicean;;pineicer;;;;;;;;;;;x
 k_pyramid_island;Pyramid Island;Pyramid Island;Pyramid Island;;Pyramid Island;;;;;;;;;x
 k_pyramid_island_adj;Pyramid Islandian;;Pyramid Islander;;;;;;;;;;;x
 k_rice_zone;Rice Zone;Rice Zone;Rice Zone;;Rice Zone;;;;;;;;;x
@@ -89,8 +103,12 @@ k_seasides;Seasides;Seasides;Seasides;;Seasides;;;;;;;;;x
 k_seasides_adj;Seasidesian;;seasideser;;;;;;;;;;;x
 k_shiver_patch;Shiver Patch;Shiver Patch;Shiver Patch;;Shiver Patch;;;;;;;;;x
 k_shiver_patch_adj;Shiver Patchian;;Shiver Patcher;;;;;;;;;;;x
+k_shroom_way;Shroom Way;Shroom Way;Shroom Way;;Shroom Way;;;;;;;;;x
+k_shroom_way_adj;Shroom Waian;;Shroom Waer;;;;;;;;;;;x
 k_snow_deserts;Snow Deserts;Snow Deserts;Snow Deserts;;Snow Deserts;;;;;;;;;x
 k_snow_deserts_adj;Snow Desertsian;;Snow Desertser;;;;;;;;;;;x
+k_snowflake_hills;Snowflake Hills;Snowflake Hills;Snowflake Hills;;Snowflake Hills;;;;;;;;;x
+k_snowflake_hills_adj;Snowflake Hillsian;;Snowflake Hillser;;;;;;;;;;;x
 k_snowy_islands;Snowy Islands;Snowy Islands;Snowy Islands;;Snowy Islands;;;;;;;;;x
 k_snowy_islands_adj;Snowy Islandsian;;Snowy Islandser;;;;;;;;;;;x
 k_south_royal_isle;South Royal Isle;South Royal Isle;South Royal Isle;;South Royal Isle;;;;;;;;;x
