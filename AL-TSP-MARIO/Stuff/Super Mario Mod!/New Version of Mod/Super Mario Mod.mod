@@ -1,6 +1,10 @@
 name = "Super Mario Mod"
 path = "mod/Super Mario Mod"
 user_dir = "Super Mario Mod"
-replace_path = "map"
-replace_path = "history"
-replace_path = "common\bookmarks"
+
+replace_path = "history/provinces"
+replace_path = "history/titles"
+replace_path = "history/wars"
+replace_path = "history/technology"
+replace_path = "history/characters"
+replace_path = "common/landed_titles"
