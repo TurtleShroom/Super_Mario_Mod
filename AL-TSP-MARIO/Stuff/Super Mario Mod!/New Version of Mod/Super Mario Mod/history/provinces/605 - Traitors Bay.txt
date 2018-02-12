@@ -1,0 +1,15 @@
+# c_traitors_bay
+
+# County Title
+title = c_traitors_bay
+
+# Settlements
+max_settlements = 1
+
+b_traitors_bay = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

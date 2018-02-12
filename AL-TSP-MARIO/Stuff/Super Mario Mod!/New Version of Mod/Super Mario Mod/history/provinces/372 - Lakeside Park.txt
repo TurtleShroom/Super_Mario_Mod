@@ -1,0 +1,15 @@
+# c_lakeside_park
+
+# County Title
+title = c_lakeside_park
+
+# Settlements
+max_settlements = 1
+
+b_lakeside_park = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

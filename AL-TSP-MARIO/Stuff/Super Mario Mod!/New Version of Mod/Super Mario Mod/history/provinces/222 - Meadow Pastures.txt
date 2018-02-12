@@ -1,0 +1,15 @@
+# c_meadow_pastures
+
+# County Title
+title = c_meadow_pastures
+
+# Settlements
+max_settlements = 1
+
+b_meadow_pastures = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

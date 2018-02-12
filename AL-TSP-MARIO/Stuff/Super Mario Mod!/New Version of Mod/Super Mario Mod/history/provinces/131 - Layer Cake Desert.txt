@@ -1,0 +1,15 @@
+# c_layer_cake_desert
+
+# County Title
+title = c_layer_cake_desert
+
+# Settlements
+max_settlements = 1
+
+b_layer_cake_desert = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

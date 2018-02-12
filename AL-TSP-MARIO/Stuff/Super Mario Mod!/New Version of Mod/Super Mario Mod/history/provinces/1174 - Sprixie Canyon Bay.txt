@@ -1,0 +1,15 @@
+# c_sprixie_canyon_bay
+
+# County Title
+title = c_sprixie_canyon_bay
+
+# Settlements
+max_settlements = 1
+
+b_sprixie_canyon_bay = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

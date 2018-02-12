@@ -1,0 +1,15 @@
+# c_sunshine_seaside
+
+# County Title
+title = c_sunshine_seaside
+
+# Settlements
+max_settlements = 1
+
+b_sunshine_seaside = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

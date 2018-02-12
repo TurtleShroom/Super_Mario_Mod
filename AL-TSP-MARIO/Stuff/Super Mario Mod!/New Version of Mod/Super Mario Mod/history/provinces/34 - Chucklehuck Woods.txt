@@ -1,12 +1,15 @@
-# 34 - Chucklehuck Woods
+# c_chucklehuck_woods
 
 # County Title
 title = c_chucklehuck_woods
 
 # Settlements
 max_settlements = 1
+
 b_chucklehuck_woods = castle
 
 # Misc
-culture = beanbean_kingdom
+culture = pirate
 religion = seven_stars
+
+#History

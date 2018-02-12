@@ -1,12 +1,15 @@
-# 51 - Noki Bay
+# c_noki_bay
 
 # County Title
 title = c_noki_bay
 
 # Settlements
 max_settlements = 1
-b_noki_bay = city
+
+b_noki_bay = castle
 
 # Misc
-culture = delfino
-religion = shine_sprites
+culture = pirate
+religion = seven_stars
+
+#History

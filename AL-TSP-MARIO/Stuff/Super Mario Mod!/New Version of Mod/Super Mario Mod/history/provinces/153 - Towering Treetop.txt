@@ -1,0 +1,15 @@
+# c_towering_treetop
+
+# County Title
+title = c_towering_treetop
+
+# Settlements
+max_settlements = 1
+
+b_towering_treetop = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

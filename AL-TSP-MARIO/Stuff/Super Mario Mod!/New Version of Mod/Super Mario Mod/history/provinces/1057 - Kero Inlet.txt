@@ -1,0 +1,15 @@
+# c_kero_inlet
+
+# County Title
+title = c_kero_inlet
+
+# Settlements
+max_settlements = 1
+
+b_kero_inlet = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

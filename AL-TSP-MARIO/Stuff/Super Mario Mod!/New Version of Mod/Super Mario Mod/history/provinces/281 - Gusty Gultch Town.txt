@@ -1,0 +1,15 @@
+# c_gusty_gultch_town
+
+# County Title
+title = c_gusty_gultch_town
+
+# Settlements
+max_settlements = 1
+
+b_gusty_gultch_town = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

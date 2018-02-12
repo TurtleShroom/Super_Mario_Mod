@@ -1,0 +1,15 @@
+# c_black_ice_mountain
+
+# County Title
+title = c_black_ice_mountain
+
+# Settlements
+max_settlements = 1
+
+b_black_ice_mountain = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

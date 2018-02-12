@@ -1,12 +1,15 @@
-# 82 - Banana Bay
+# c_banana_bay
 
 # County Title
 title = c_banana_bay
 
 # Settlements
 max_settlements = 1
-b_banana_bay = city
+
+b_banana_bay = castle
 
 # Misc
-culture = jellyfish_islands
-religion = greed
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_lime_lagoon
+
+# County Title
+title = c_lime_lagoon
+
+# Settlements
+max_settlements = 1
+
+b_lime_lagoon = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

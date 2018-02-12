@@ -1,0 +1,15 @@
+# c_oceanic_sea_breach
+
+# County Title
+title = c_oceanic_sea_breach
+
+# Settlements
+max_settlements = 1
+
+b_oceanic_sea_breach = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

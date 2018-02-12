@@ -1,12 +1,15 @@
-# 44 - Delfino Airstrip
+# c_delfino_airstrip
 
 # County Title
 title = c_delfino_airstrip
 
 # Settlements
 max_settlements = 1
-b_delfino_airstrip = city
+
+b_delfino_airstrip = castle
 
 # Misc
-culture = delfino
-religion = shine_sprites
+culture = pirate
+religion = seven_stars
+
+#History

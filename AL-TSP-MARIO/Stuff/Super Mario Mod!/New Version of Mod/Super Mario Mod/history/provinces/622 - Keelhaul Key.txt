@@ -1,0 +1,15 @@
+# c_keelhaul_key
+
+# County Title
+title = c_keelhaul_key
+
+# Settlements
+max_settlements = 1
+
+b_keelhaul_key = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_frigid_ocean
+
+# County Title
+title = c_frigid_ocean
+
+# Settlements
+max_settlements = 1
+
+b_frigid_ocean = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

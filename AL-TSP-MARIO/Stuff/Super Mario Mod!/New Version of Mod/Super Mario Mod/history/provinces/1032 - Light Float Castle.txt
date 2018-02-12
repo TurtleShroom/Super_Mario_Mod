@@ -1,0 +1,15 @@
+# c_light_float_castle
+
+# County Title
+title = c_light_float_castle
+
+# Settlements
+max_settlements = 1
+
+b_light_float_castle = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

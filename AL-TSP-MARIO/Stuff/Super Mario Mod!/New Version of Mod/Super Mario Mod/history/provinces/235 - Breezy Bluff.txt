@@ -1,0 +1,15 @@
+# c_breezy_bluff
+
+# County Title
+title = c_breezy_bluff
+
+# Settlements
+max_settlements = 1
+
+b_breezy_bluff = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

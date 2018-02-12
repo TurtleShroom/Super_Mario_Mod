@@ -1,0 +1,15 @@
+# c_neo_bowser_city
+
+# County Title
+title = c_neo_bowser_city
+
+# Settlements
+max_settlements = 1
+
+b_neo_bowser_city = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

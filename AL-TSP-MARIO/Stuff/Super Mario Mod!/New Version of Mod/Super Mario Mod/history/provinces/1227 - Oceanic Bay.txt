@@ -1,0 +1,15 @@
+# c_oceanic_bay
+
+# County Title
+title = c_oceanic_bay
+
+# Settlements
+max_settlements = 1
+
+b_oceanic_bay = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

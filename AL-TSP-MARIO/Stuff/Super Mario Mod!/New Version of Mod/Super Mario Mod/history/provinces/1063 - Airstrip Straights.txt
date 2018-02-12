@@ -1,0 +1,15 @@
+# c_airstrip_straights
+
+# County Title
+title = c_airstrip_straights
+
+# Settlements
+max_settlements = 1
+
+b_airstrip_straights = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

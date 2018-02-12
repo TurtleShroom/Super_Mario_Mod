@@ -1,0 +1,15 @@
+# c_barren_badlands
+
+# County Title
+title = c_barren_badlands
+
+# Settlements
+max_settlements = 1
+
+b_barren_badlands = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

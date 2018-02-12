@@ -1,0 +1,15 @@
+# c_rogue_harbor
+
+# County Title
+title = c_rogue_harbor
+
+# Settlements
+max_settlements = 1
+
+b_rogue_harbor = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

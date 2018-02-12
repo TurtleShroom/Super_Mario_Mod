@@ -1,0 +1,15 @@
+# c_sparkling_waters
+
+# County Title
+title = c_sparkling_waters
+
+# Settlements
+max_settlements = 1
+
+b_sparkling_waters = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

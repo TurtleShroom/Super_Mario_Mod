@@ -1,0 +1,15 @@
+# c_black_beach
+
+# County Title
+title = c_black_beach
+
+# Settlements
+max_settlements = 1
+
+b_black_beach = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

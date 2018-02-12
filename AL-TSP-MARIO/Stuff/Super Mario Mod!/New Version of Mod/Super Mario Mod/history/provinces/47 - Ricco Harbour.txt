@@ -1,12 +1,15 @@
-# 47 - Ricco Harbour
+# c_ricco_harbour
 
 # County Title
 title = c_ricco_harbour
 
 # Settlements
 max_settlements = 1
-b_ricco_harbour = city
+
+b_ricco_harbour = castle
 
 # Misc
-culture = delfino
-religion = shine_sprites
+culture = pirate
+religion = seven_stars
+
+#History

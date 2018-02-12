@@ -1,0 +1,15 @@
+# c_giant_wetlands
+
+# County Title
+title = c_giant_wetlands
+
+# Settlements
+max_settlements = 1
+
+b_giant_wetlands = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

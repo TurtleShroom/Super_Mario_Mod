@@ -1,0 +1,15 @@
+# c_sayonara
+
+# County Title
+title = c_sayonara
+
+# Settlements
+max_settlements = 1
+
+b_sayonara = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

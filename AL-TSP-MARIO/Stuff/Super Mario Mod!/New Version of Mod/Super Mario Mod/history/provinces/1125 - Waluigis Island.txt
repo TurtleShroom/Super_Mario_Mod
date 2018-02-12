@@ -1,0 +1,15 @@
+# c_waluigis_island
+
+# County Title
+title = c_waluigis_island
+
+# Settlements
+max_settlements = 1
+
+b_waluigis_island = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

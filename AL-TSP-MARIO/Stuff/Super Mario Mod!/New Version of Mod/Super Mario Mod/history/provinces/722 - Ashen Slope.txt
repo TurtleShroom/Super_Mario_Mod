@@ -1,0 +1,15 @@
+# c_ashen_slope
+
+# County Title
+title = c_ashen_slope
+
+# Settlements
+max_settlements = 1
+
+b_ashen_slope = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

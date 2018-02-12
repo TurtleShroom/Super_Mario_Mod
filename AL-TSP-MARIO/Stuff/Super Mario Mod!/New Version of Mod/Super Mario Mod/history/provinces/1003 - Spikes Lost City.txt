@@ -1,0 +1,15 @@
+# c_spikes_lost_city
+
+# County Title
+title = c_spikes_lost_city
+
+# Settlements
+max_settlements = 1
+
+b_spikes_lost_city = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

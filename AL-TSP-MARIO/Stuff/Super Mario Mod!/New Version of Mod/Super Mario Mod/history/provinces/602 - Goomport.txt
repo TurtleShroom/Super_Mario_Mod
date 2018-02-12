@@ -1,0 +1,15 @@
+# c_goomport
+
+# County Title
+title = c_goomport
+
+# Settlements
+max_settlements = 1
+
+b_goomport = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

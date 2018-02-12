@@ -1,12 +1,15 @@
-# 58 - Dorsal Fin Bay
+# c_dorsal_fin_bay
 
 # County Title
 title = c_dorsal_fin_bay
 
 # Settlements
 max_settlements = 1
-b_dorsal_fin_bay = city
+
+b_dorsal_fin_bay = castle
 
 # Misc
-culture = fish_islands
-religion = shine_sprites
+culture = pirate
+religion = seven_stars
+
+#History

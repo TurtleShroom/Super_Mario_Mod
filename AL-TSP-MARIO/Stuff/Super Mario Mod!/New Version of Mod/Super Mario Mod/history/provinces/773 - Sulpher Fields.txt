@@ -1,0 +1,15 @@
+# c_sulpher_fields
+
+# County Title
+title = c_sulpher_fields
+
+# Settlements
+max_settlements = 1
+
+b_sulpher_fields = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

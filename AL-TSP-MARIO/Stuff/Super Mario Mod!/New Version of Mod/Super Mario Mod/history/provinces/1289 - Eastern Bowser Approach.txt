@@ -1,0 +1,15 @@
+# c_eastern_bowser_approach
+
+# County Title
+title = c_eastern_bowser_approach
+
+# Settlements
+max_settlements = 1
+
+b_eastern_bowser_approach = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

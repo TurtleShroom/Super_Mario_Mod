@@ -1,0 +1,15 @@
+# c_upper_perilous_palace_path
+
+# County Title
+title = c_upper_perilous_palace_path
+
+# Settlements
+max_settlements = 1
+
+b_upper_perilous_palace_path = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

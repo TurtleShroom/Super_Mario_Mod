@@ -1,0 +1,15 @@
+# c_salty_path
+
+# County Title
+title = c_salty_path
+
+# Settlements
+max_settlements = 1
+
+b_salty_path = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

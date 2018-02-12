@@ -1,12 +1,15 @@
-# 84 - Bell Highlands
+# c_bell_highlands
 
 # County Title
 title = c_bell_highlands
 
 # Settlements
 max_settlements = 1
-b_bell_highlands = city
+
+b_bell_highlands = castle
 
 # Misc
-culture = jellyfish_islands
-religion = greed
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_wild_west
+
+# County Title
+title = c_wild_west
+
+# Settlements
+max_settlements = 1
+
+b_wild_west = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_frappe_snowland
+
+# County Title
+title = c_frappe_snowland
+
+# Settlements
+max_settlements = 1
+
+b_frappe_snowland = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

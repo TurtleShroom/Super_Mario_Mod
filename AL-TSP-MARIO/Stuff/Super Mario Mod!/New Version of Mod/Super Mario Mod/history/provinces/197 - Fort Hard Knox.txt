@@ -1,0 +1,15 @@
+# c_fort_hard_knox
+
+# County Title
+title = c_fort_hard_knox
+
+# Settlements
+max_settlements = 1
+
+b_fort_hard_knox = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_shamrock_kingdom
+
+# County Title
+title = c_shamrock_kingdom
+
+# Settlements
+max_settlements = 1
+
+b_shamrock_kingdom = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

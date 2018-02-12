@@ -1,12 +1,15 @@
-# 80 - Habanero Harbour
+# c_habanero_harbour
 
 # County Title
 title = c_habanero_harbour
 
 # Settlements
 max_settlements = 1
-b_habanero_harbour = city
+
+b_habanero_harbour = castle
 
 # Misc
-culture = jellyfish_islands
-religion = greed
+culture = pirate
+religion = seven_stars
+
+#History

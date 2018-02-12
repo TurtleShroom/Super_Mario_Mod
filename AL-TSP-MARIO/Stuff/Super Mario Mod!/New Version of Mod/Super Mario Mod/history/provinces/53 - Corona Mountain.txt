@@ -1,12 +1,15 @@
-# 53 - Corona Mountain
+# c_corona_mountain
 
 # County Title
 title = c_corona_mountain
 
 # Settlements
 max_settlements = 1
-b_corona_mountain = city
+
+b_corona_mountain = castle
 
 # Misc
-culture = delfino
-religion = shine_sprites
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_ricco_harbour_2
+
+# County Title
+title = c_ricco_harbour_2
+
+# Settlements
+max_settlements = 1
+
+b_ricco_harbour_2 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

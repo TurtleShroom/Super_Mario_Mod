@@ -1,0 +1,15 @@
+# c_pipe_pyramids
+
+# County Title
+title = c_pipe_pyramids
+
+# Settlements
+max_settlements = 1
+
+b_pipe_pyramids = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_rose_way
+
+# County Title
+title = c_rose_way
+
+# Settlements
+max_settlements = 1
+
+b_rose_way = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

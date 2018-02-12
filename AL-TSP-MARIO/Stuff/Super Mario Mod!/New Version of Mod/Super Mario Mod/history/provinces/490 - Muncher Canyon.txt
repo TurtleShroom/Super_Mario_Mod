@@ -1,0 +1,15 @@
+# c_muncher_canyon
+
+# County Title
+title = c_muncher_canyon
+
+# Settlements
+max_settlements = 1
+
+b_muncher_canyon = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

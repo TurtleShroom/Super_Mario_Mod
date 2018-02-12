@@ -1,0 +1,15 @@
+# c_rugged_countercurrent
+
+# County Title
+title = c_rugged_countercurrent
+
+# Settlements
+max_settlements = 1
+
+b_rugged_countercurrent = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

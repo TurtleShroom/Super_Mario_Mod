@@ -1,0 +1,15 @@
+# c_toad_road
+
+# County Title
+title = c_toad_road
+
+# Settlements
+max_settlements = 1
+
+b_toad_road = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,12 +1,15 @@
-# 77 - Isle Schiena Piatta
+# c_isle_schiena_piatta
 
 # County Title
 title = c_isle_schiena_piatta
 
 # Settlements
 max_settlements = 1
-b_isle_schiena_piatta = city
+
+b_isle_schiena_piatta = castle
 
 # Misc
-culture = turtle_islands
-religion = shine_sprites
+culture = pirate
+religion = seven_stars
+
+#History

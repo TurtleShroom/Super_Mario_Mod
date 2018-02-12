@@ -1,0 +1,15 @@
+# c_chucklehuck_coast
+
+# County Title
+title = c_chucklehuck_coast
+
+# Settlements
+max_settlements = 1
+
+b_chucklehuck_coast = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

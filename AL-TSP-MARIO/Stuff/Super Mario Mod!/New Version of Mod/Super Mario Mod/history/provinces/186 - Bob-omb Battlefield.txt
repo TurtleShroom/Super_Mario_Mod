@@ -1,0 +1,15 @@
+# c_bob_omb_battlefield
+
+# County Title
+title = c_bob_omb_battlefield
+
+# Settlements
+max_settlements = 1
+
+b_bob_omb_battlefield = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

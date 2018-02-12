@@ -1,0 +1,15 @@
+# c_sprawling_savannah
+
+# County Title
+title = c_sprawling_savannah
+
+# Settlements
+max_settlements = 1
+
+b_sprawling_savannah = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

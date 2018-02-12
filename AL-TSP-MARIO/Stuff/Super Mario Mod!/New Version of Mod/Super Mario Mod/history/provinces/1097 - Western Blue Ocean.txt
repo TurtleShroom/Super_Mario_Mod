@@ -1,0 +1,15 @@
+# c_western_blue_ocean
+
+# County Title
+title = c_western_blue_ocean
+
+# Settlements
+max_settlements = 1
+
+b_western_blue_ocean = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,12 +1,15 @@
-# 23 - Twin Bridges
+# c_twin_bridges
 
 # County Title
 title = c_twin_bridges
 
 # Settlements
 max_settlements = 1
+
 b_twin_bridges = castle
 
 # Misc
-culture = yoshi
-religion = happiness
+culture = pirate
+religion = seven_stars
+
+#History

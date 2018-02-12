@@ -1,0 +1,15 @@
+# c_spice_trader_bay
+
+# County Title
+title = c_spice_trader_bay
+
+# Settlements
+max_settlements = 1
+
+b_spice_trader_bay = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

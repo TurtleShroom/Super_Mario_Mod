@@ -1,0 +1,15 @@
+# c_swingin_straits
+
+# County Title
+title = c_swingin_straits
+
+# Settlements
+max_settlements = 1
+
+b_swingin_straits = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

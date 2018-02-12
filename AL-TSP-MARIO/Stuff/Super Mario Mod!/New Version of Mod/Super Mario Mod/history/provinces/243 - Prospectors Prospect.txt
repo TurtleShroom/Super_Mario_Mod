@@ -1,0 +1,15 @@
+# c_prospectors_prospect
+
+# County Title
+title = c_prospectors_prospect
+
+# Settlements
+max_settlements = 1
+
+b_prospectors_prospect = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

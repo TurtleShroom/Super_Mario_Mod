@@ -1,0 +1,15 @@
+# c_sandstone_stroll
+
+# County Title
+title = c_sandstone_stroll
+
+# Settlements
+max_settlements = 1
+
+b_sandstone_stroll = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

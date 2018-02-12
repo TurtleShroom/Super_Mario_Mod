@@ -1,0 +1,15 @@
+# c_deep_frigid_trench
+
+# County Title
+title = c_deep_frigid_trench
+
+# Settlements
+max_settlements = 1
+
+b_deep_frigid_trench = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

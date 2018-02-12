@@ -1,12 +1,15 @@
-# 59 - Angelo Harbour
+# c_angelo_harbour
 
 # County Title
 title = c_angelo_harbour
 
 # Settlements
 max_settlements = 1
-b_angelo_harbour = city
+
+b_angelo_harbour = castle
 
 # Misc
-culture = fish_islands
-religion = shine_sprites
+culture = pirate
+religion = seven_stars
+
+#History

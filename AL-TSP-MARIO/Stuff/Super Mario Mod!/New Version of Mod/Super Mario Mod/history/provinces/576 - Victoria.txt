@@ -1,0 +1,15 @@
+# c_victoria
+
+# County Title
+title = c_victoria
+
+# Settlements
+max_settlements = 1
+
+b_victoria = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

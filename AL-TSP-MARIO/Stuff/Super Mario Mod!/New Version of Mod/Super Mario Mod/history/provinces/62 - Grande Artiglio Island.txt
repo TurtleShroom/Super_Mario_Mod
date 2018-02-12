@@ -1,12 +1,15 @@
-# 62 - Grande Artiglio Island
+# c_grande_artiglio_island
 
 # County Title
 title = c_grande_artiglio_island
 
 # Settlements
 max_settlements = 1
-b_grande_artiglio_island = city
+
+b_grande_artiglio_island = castle
 
 # Misc
-culture = crab_islands
-religion = shine_sprites
+culture = pirate
+religion = seven_stars
+
+#History

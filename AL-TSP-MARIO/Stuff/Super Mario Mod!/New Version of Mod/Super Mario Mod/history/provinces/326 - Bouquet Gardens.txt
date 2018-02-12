@@ -1,0 +1,15 @@
+# c_bouquet_gardens
+
+# County Title
+title = c_bouquet_gardens
+
+# Settlements
+max_settlements = 1
+
+b_bouquet_gardens = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

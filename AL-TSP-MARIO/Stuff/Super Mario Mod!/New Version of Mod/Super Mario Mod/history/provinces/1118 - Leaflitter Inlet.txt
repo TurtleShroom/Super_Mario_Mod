@@ -1,0 +1,15 @@
+# c_leaflitter_inlet
+
+# County Title
+title = c_leaflitter_inlet
+
+# Settlements
+max_settlements = 1
+
+b_leaflitter_inlet = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

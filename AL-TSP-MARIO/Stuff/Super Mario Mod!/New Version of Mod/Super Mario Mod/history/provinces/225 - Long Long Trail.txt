@@ -1,0 +1,15 @@
+# c_long_long_trail
+
+# County Title
+title = c_long_long_trail
+
+# Settlements
+max_settlements = 1
+
+b_long_long_trail = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

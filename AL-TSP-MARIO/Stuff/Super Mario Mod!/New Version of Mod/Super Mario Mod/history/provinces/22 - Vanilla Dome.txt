@@ -1,12 +1,15 @@
-# 22 - Vanilla Dome
+# c_vanilla_dome
 
 # County Title
 title = c_vanilla_dome
 
 # Settlements
 max_settlements = 1
+
 b_vanilla_dome = castle
 
 # Misc
-culture = yoshi
-religion = happiness
+culture = pirate
+religion = seven_stars
+
+#History

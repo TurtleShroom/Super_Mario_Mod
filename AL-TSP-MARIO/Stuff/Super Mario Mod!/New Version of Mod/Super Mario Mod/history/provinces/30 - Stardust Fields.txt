@@ -1,12 +1,15 @@
-# 30 - Stardust Fields
+# c_stardust_fields
 
 # County Title
 title = c_stardust_fields
 
 # Settlements
 max_settlements = 1
+
 b_stardust_fields = castle
 
 # Misc
-culture = beanbean_kingdom
+culture = pirate
 religion = seven_stars
+
+#History

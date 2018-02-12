@@ -1,0 +1,15 @@
+# c_shroom_ridge
+
+# County Title
+title = c_shroom_ridge
+
+# Settlements
+max_settlements = 1
+
+b_shroom_ridge = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

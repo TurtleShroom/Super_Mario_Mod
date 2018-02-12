@@ -1,0 +1,15 @@
+# c_eastern_mushroom_cape
+
+# County Title
+title = c_eastern_mushroom_cape
+
+# Settlements
+max_settlements = 1
+
+b_eastern_mushroom_cape = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

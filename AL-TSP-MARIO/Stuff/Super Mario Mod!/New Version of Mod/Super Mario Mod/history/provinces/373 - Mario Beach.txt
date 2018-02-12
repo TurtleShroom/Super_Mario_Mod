@@ -1,0 +1,15 @@
+# c_mario_beach
+
+# County Title
+title = c_mario_beach
+
+# Settlements
+max_settlements = 1
+
+b_mario_beach = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

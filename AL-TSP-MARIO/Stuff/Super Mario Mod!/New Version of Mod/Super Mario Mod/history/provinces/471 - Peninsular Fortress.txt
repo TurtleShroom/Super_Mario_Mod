@@ -1,0 +1,15 @@
+# c_peninsular_fortress
+
+# County Title
+title = c_peninsular_fortress
+
+# Settlements
+max_settlements = 1
+
+b_peninsular_fortress = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

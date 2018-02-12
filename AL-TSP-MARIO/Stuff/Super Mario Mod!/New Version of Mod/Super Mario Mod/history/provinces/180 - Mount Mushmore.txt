@@ -1,0 +1,15 @@
+# c_mount_mushmore
+
+# County Title
+title = c_mount_mushmore
+
+# Settlements
+max_settlements = 1
+
+b_mount_mushmore = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_smugglers_cove
+
+# County Title
+title = c_smugglers_cove
+
+# Settlements
+max_settlements = 1
+
+b_smugglers_cove = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

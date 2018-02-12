@@ -1,0 +1,15 @@
+# c_damp_oasis
+
+# County Title
+title = c_damp_oasis
+
+# Settlements
+max_settlements = 1
+
+b_damp_oasis = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

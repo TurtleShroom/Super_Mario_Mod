@@ -1,12 +1,15 @@
-# 79 - Jalapeno Beach
+# c_jalapeno_beach
 
 # County Title
 title = c_jalapeno_beach
 
 # Settlements
 max_settlements = 1
-b_jalapeno_beach = city
+
+b_jalapeno_beach = castle
 
 # Misc
-culture = jellyfish_islands
-religion = greed
+culture = pirate
+religion = seven_stars
+
+#History

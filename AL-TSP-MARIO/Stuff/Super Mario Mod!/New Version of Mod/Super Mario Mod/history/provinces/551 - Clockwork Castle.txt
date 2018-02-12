@@ -1,0 +1,15 @@
+# c_clockwork_castle
+
+# County Title
+title = c_clockwork_castle
+
+# Settlements
+max_settlements = 1
+
+b_clockwork_castle = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,12 +1,15 @@
-# 33 - Chateau de Chucklehuck
+# c_chateau_de_chucklehuck
 
 # County Title
 title = c_chateau_de_chucklehuck
 
 # Settlements
 max_settlements = 1
+
 b_chateau_de_chucklehuck = castle
 
 # Misc
-culture = beanbean_kingdom
+culture = pirate
 religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_rocky_fields
+
+# County Title
+title = c_rocky_fields
+
+# Settlements
+max_settlements = 1
+
+b_rocky_fields = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

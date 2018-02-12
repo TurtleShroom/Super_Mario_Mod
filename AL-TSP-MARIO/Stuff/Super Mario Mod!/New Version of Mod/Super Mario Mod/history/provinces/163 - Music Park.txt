@@ -1,0 +1,15 @@
+# c_music_park
+
+# County Title
+title = c_music_park
+
+# Settlements
+max_settlements = 1
+
+b_music_park = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

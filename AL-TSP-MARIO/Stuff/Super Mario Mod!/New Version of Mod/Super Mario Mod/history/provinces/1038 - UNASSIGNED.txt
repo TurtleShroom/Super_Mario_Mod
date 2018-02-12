@@ -1,0 +1,15 @@
+# c_unassigned
+
+# County Title
+title = c_unassigned
+
+# Settlements
+max_settlements = 1
+
+b_unassigned = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

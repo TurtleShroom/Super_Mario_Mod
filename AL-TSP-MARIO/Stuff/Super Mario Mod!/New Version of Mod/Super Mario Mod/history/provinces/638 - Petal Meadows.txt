@@ -1,0 +1,15 @@
+# c_petal_meadows
+
+# County Title
+title = c_petal_meadows
+
+# Settlements
+max_settlements = 1
+
+b_petal_meadows = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_castaway_islands
+
+# County Title
+title = c_castaway_islands
+
+# Settlements
+max_settlements = 1
+
+b_castaway_islands = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

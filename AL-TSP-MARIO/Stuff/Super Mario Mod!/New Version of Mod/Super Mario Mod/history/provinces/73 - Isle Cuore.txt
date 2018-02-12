@@ -1,12 +1,15 @@
-# 73 - Isle Cuore
+# c_isle_cuore
 
 # County Title
 title = c_isle_cuore
 
 # Settlements
 max_settlements = 1
-b_isle_cuore = city
+
+b_isle_cuore = castle
 
 # Misc
-culture = turtle_islands
-religion = shine_sprites
+culture = pirate
+religion = seven_stars
+
+#History

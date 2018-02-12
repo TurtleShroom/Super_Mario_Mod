@@ -1,0 +1,15 @@
+# c_jolly_fields
+
+# County Title
+title = c_jolly_fields
+
+# Settlements
+max_settlements = 1
+
+b_jolly_fields = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

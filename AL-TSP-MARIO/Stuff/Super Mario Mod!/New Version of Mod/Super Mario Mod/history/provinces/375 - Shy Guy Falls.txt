@@ -1,0 +1,15 @@
+# c_shy_guy_falls
+
+# County Title
+title = c_shy_guy_falls
+
+# Settlements
+max_settlements = 1
+
+b_shy_guy_falls = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

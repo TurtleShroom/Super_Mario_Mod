@@ -1,0 +1,15 @@
+# c_banana_bird_bay_2
+
+# County Title
+title = c_banana_bird_bay_2
+
+# Settlements
+max_settlements = 1
+
+b_banana_bird_bay_2 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

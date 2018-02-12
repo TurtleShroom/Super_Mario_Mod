@@ -1,0 +1,15 @@
+# c_tranquil_bay
+
+# County Title
+title = c_tranquil_bay
+
+# Settlements
+max_settlements = 1
+
+b_tranquil_bay = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

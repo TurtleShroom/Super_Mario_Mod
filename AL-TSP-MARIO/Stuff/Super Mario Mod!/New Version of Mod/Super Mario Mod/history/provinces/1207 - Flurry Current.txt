@@ -1,0 +1,15 @@
+# c_flurry_current
+
+# County Title
+title = c_flurry_current
+
+# Settlements
+max_settlements = 1
+
+b_flurry_current = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_lands_end
+
+# County Title
+title = c_lands_end
+
+# Settlements
+max_settlements = 1
+
+b_lands_end = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

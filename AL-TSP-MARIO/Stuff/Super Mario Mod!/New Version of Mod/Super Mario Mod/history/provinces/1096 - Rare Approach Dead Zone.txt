@@ -1,0 +1,15 @@
+# c_rare_approach_dead_zone
+
+# County Title
+title = c_rare_approach_dead_zone
+
+# Settlements
+max_settlements = 1
+
+b_rare_approach_dead_zone = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

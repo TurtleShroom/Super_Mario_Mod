@@ -1,0 +1,15 @@
+# c_misery_clearing
+
+# County Title
+title = c_misery_clearing
+
+# Settlements
+max_settlements = 1
+
+b_misery_clearing = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

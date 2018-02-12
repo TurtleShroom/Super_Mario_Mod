@@ -1,0 +1,15 @@
+# c_dark_world_fortress
+
+# County Title
+title = c_dark_world_fortress
+
+# Settlements
+max_settlements = 1
+
+b_dark_world_fortress = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

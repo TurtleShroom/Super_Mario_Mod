@@ -1,0 +1,15 @@
+# c_beanbean_bay
+
+# County Title
+title = c_beanbean_bay
+
+# Settlements
+max_settlements = 1
+
+b_beanbean_bay = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

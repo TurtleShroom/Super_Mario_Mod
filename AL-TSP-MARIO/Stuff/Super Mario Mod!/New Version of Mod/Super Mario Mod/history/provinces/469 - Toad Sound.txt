@@ -1,0 +1,15 @@
+# c_toad_sound
+
+# County Title
+title = c_toad_sound
+
+# Settlements
+max_settlements = 1
+
+b_toad_sound = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

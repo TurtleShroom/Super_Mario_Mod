@@ -1,12 +1,15 @@
-# 66 - Corrazza Mountains
+# c_corrazza_mountains
 
 # County Title
 title = c_corrazza_mountains
 
 # Settlements
 max_settlements = 1
-b_corrazza_mountains = city
+
+b_corrazza_mountains = castle
 
 # Misc
-culture = crab_islands
-religion = shine_sprites
+culture = pirate
+religion = seven_stars
+
+#History

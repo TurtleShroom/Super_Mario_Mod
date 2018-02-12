@@ -1,12 +1,15 @@
-# 14 - Hippo Zone
+# c_hippo_zone
 
 # County Title
 title = c_hippo_zone
 
 # Settlements
 max_settlements = 1
+
 b_hippo_zone = castle
 
 # Misc
-culture = mushroom_kingdom
+culture = pirate
 religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_surfshine_harbour
+
+# County Title
+title = c_surfshine_harbour
+
+# Settlements
+max_settlements = 1
+
+b_surfshine_harbour = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

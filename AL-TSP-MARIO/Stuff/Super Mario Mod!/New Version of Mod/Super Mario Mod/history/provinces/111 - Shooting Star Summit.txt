@@ -1,0 +1,15 @@
+# c_shooting_star_summit
+
+# County Title
+title = c_shooting_star_summit
+
+# Settlements
+max_settlements = 1
+
+b_shooting_star_summit = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

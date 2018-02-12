@@ -1,0 +1,15 @@
+# c_twighlight_cove
+
+# County Title
+title = c_twighlight_cove
+
+# Settlements
+max_settlements = 1
+
+b_twighlight_cove = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

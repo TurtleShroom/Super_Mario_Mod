@@ -1,0 +1,15 @@
+# c_straights_of_the_eel
+
+# County Title
+title = c_straights_of_the_eel
+
+# Settlements
+max_settlements = 1
+
+b_straights_of_the_eel = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

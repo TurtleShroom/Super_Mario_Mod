@@ -1,0 +1,15 @@
+# c_tall,_tall_mountain
+
+# County Title
+title = c_tall,_tall_mountain
+
+# Settlements
+max_settlements = 1
+
+b_tall,_tall_mountain = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

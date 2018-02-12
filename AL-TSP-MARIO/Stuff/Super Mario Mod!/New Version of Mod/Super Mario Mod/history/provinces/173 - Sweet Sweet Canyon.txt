@@ -1,0 +1,15 @@
+# c_sweet_sweet_canyon
+
+# County Title
+title = c_sweet_sweet_canyon
+
+# Settlements
+max_settlements = 1
+
+b_sweet_sweet_canyon = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

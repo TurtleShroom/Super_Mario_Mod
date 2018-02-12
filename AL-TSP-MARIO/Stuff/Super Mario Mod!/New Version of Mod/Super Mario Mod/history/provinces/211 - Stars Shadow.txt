@@ -1,0 +1,15 @@
+# c_stars_shadow
+
+# County Title
+title = c_stars_shadow
+
+# Settlements
+max_settlements = 1
+
+b_stars_shadow = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_waters_edge_way
+
+# County Title
+title = c_waters_edge_way
+
+# Settlements
+max_settlements = 1
+
+b_waters_edge_way = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_mushroom_deep
+
+# County Title
+title = c_mushroom_deep
+
+# Settlements
+max_settlements = 1
+
+b_mushroom_deep = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

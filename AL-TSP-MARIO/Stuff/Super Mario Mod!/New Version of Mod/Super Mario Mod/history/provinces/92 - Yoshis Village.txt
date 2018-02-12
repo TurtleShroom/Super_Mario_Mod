@@ -1,0 +1,15 @@
+# c_yoshis_village
+
+# County Title
+title = c_yoshis_village
+
+# Settlements
+max_settlements = 1
+
+b_yoshis_village = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_northern_blue_ocean
+
+# County Title
+title = c_northern_blue_ocean
+
+# Settlements
+max_settlements = 1
+
+b_northern_blue_ocean = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

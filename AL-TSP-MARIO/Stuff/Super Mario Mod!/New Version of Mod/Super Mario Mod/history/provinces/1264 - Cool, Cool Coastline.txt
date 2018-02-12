@@ -1,0 +1,15 @@
+# c_cool,_cool_coastline
+
+# County Title
+title = c_cool,_cool_coastline
+
+# Settlements
+max_settlements = 1
+
+b_cool,_cool_coastline = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

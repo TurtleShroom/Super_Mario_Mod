@@ -1,0 +1,15 @@
+# c_vibe_timber_channel
+
+# County Title
+title = c_vibe_timber_channel
+
+# Settlements
+max_settlements = 1
+
+b_vibe_timber_channel = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

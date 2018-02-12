@@ -1,12 +1,15 @@
-# 65 - Fianco Harbour
+# c_fianco_harbour
 
 # County Title
 title = c_fianco_harbour
 
 # Settlements
 max_settlements = 1
-b_fianco_harbour = city
+
+b_fianco_harbour = castle
 
 # Misc
-culture = crab_islands
-religion = shine_sprites
+culture = pirate
+religion = seven_stars
+
+#History

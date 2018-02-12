@@ -1,0 +1,15 @@
+# c_mirror_mansion
+
+# County Title
+title = c_mirror_mansion
+
+# Settlements
+max_settlements = 1
+
+b_mirror_mansion = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_crystal_palace
+
+# County Title
+title = c_crystal_palace
+
+# Settlements
+max_settlements = 1
+
+b_crystal_palace = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

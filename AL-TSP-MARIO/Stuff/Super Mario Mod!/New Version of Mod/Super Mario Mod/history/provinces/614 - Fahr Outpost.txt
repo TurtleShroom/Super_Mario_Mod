@@ -1,0 +1,15 @@
+# c_fahr_outpost
+
+# County Title
+title = c_fahr_outpost
+
+# Settlements
+max_settlements = 1
+
+b_fahr_outpost = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

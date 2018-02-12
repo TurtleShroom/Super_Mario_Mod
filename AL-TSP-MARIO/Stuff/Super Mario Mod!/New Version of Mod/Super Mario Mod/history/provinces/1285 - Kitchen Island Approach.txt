@@ -1,0 +1,15 @@
+# c_kitchen_island_approach
+
+# County Title
+title = c_kitchen_island_approach
+
+# Settlements
+max_settlements = 1
+
+b_kitchen_island_approach = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

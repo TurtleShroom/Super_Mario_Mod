@@ -1,12 +1,15 @@
-# 45 - Delfino Plaza
+# c_delfino_plaza
 
 # County Title
 title = c_delfino_plaza
 
 # Settlements
 max_settlements = 1
-b_delfino_plaza = city
+
+b_delfino_plaza = castle
 
 # Misc
-culture = delfino
-religion = shine_sprites
+culture = pirate
+religion = seven_stars
+
+#History

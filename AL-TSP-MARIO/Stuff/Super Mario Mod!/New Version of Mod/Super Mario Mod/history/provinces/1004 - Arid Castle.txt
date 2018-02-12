@@ -1,0 +1,15 @@
+# c_arid_castle
+
+# County Title
+title = c_arid_castle
+
+# Settlements
+max_settlements = 1
+
+b_arid_castle = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

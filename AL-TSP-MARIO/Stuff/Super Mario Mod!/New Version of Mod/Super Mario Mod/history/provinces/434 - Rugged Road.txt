@@ -1,0 +1,15 @@
+# c_rugged_road
+
+# County Title
+title = c_rugged_road
+
+# Settlements
+max_settlements = 1
+
+b_rugged_road = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_archipelago_fortress
+
+# County Title
+title = c_archipelago_fortress
+
+# Settlements
+max_settlements = 1
+
+b_archipelago_fortress = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

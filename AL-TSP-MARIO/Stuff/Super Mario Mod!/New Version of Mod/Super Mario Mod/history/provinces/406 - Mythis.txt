@@ -1,0 +1,15 @@
+# c_mythis
+
+# County Title
+title = c_mythis
+
+# Settlements
+max_settlements = 1
+
+b_mythis = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

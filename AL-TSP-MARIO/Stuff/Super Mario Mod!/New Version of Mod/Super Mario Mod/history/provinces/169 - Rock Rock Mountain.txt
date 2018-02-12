@@ -1,0 +1,15 @@
+# c_rock_rock_mountain
+
+# County Title
+title = c_rock_rock_mountain
+
+# Settlements
+max_settlements = 1
+
+b_rock_rock_mountain = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

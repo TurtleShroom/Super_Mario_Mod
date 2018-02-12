@@ -1,0 +1,15 @@
+# c_booster_pass
+
+# County Title
+title = c_booster_pass
+
+# Settlements
+max_settlements = 1
+
+b_booster_pass = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

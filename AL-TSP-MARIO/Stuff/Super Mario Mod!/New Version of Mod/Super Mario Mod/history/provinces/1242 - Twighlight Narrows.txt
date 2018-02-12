@@ -1,0 +1,15 @@
+# c_twighlight_narrows
+
+# County Title
+title = c_twighlight_narrows
+
+# Settlements
+max_settlements = 1
+
+b_twighlight_narrows = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

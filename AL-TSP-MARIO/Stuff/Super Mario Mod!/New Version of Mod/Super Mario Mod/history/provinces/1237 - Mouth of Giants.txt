@@ -1,0 +1,15 @@
+# c_mouth_of_giants
+
+# County Title
+title = c_mouth_of_giants
+
+# Settlements
+max_settlements = 1
+
+b_mouth_of_giants = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_harbour_hold
+
+# County Title
+title = c_harbour_hold
+
+# Settlements
+max_settlements = 1
+
+b_harbour_hold = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

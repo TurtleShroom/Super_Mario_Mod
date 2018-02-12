@@ -1,0 +1,15 @@
+# c_southeast_ocean_side
+
+# County Title
+title = c_southeast_ocean_side
+
+# Settlements
+max_settlements = 1
+
+b_southeast_ocean_side = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

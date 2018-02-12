@@ -1,12 +1,15 @@
-# 69 - Granchio Airport
+# c_granchio_airport
 
 # County Title
 title = c_granchio_airport
 
 # Settlements
 max_settlements = 1
-b_granchio_airport = city
+
+b_granchio_airport = castle
 
 # Misc
-culture = crab_islands
-religion = greed
+culture = pirate
+religion = seven_stars
+
+#History

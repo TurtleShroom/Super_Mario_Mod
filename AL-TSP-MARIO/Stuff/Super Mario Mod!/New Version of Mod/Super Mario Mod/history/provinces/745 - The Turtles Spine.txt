@@ -1,0 +1,15 @@
+# c_the_turtles_spine
+
+# County Title
+title = c_the_turtles_spine
+
+# Settlements
+max_settlements = 1
+
+b_the_turtles_spine = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

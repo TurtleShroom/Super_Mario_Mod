@@ -1,0 +1,15 @@
+# c_tubba_blubbas_castle
+
+# County Title
+title = c_tubba_blubbas_castle
+
+# Settlements
+max_settlements = 1
+
+b_tubba_blubbas_castle = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_decalburg
+
+# County Title
+title = c_decalburg
+
+# Settlements
+max_settlements = 1
+
+b_decalburg = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

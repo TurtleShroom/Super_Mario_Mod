@@ -1,12 +1,15 @@
-# 74 - Isle Zuccone
+# c_isle_zuccone
 
 # County Title
 title = c_isle_zuccone
 
 # Settlements
 max_settlements = 1
-b_isle_zuccone = city
+
+b_isle_zuccone = castle
 
 # Misc
-culture = turtle_islands
-religion = shine_sprites
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_thunderous_straits
+
+# County Title
+title = c_thunderous_straits
+
+# Settlements
+max_settlements = 1
+
+b_thunderous_straits = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

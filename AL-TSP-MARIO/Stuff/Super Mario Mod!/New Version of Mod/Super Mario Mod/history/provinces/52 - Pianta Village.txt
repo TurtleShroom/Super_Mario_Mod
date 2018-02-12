@@ -1,12 +1,15 @@
-# 52 - Pianta Village
+# c_pianta_village
 
 # County Title
 title = c_pianta_village
 
 # Settlements
 max_settlements = 1
-b_pianta_village = city
+
+b_pianta_village = castle
 
 # Misc
-culture = delfino
-religion = shine_sprites
+culture = pirate
+religion = seven_stars
+
+#History

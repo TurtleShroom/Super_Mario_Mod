@@ -1,0 +1,15 @@
+# c_black_meadow
+
+# County Title
+title = c_black_meadow
+
+# Settlements
+max_settlements = 1
+
+b_black_meadow = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

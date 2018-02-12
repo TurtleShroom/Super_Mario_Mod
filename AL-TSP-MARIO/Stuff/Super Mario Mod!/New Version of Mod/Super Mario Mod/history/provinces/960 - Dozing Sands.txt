@@ -1,0 +1,15 @@
+# c_dozing_sands
+
+# County Title
+title = c_dozing_sands
+
+# Settlements
+max_settlements = 1
+
+b_dozing_sands = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

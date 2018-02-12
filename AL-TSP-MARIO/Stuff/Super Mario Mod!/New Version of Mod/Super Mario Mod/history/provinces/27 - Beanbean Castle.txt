@@ -1,12 +1,15 @@
-# 27 - Beanbean Castle
+# c_beanbean_castle
 
 # County Title
 title = c_beanbean_castle
 
 # Settlements
 max_settlements = 1
+
 b_beanbean_castle = castle
 
 # Misc
-culture = beanbean_kingdom
+culture = pirate
 religion = seven_stars
+
+#History

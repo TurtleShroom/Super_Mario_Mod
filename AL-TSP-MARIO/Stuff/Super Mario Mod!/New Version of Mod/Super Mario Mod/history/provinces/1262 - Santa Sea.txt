@@ -1,0 +1,15 @@
+# c_santa_sea
+
+# County Title
+title = c_santa_sea
+
+# Settlements
+max_settlements = 1
+
+b_santa_sea = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

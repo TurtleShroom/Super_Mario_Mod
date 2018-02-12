@@ -1,0 +1,15 @@
+# c_boo_lake
+
+# County Title
+title = c_boo_lake
+
+# Settlements
+max_settlements = 1
+
+b_boo_lake = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

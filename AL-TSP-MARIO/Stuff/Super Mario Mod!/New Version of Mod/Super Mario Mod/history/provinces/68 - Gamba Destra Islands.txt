@@ -1,12 +1,15 @@
-# 68 - Gamba Destra Islands
+# c_gamba_destra_islands
 
 # County Title
 title = c_gamba_destra_islands
 
 # Settlements
 max_settlements = 1
-b_gamba_destra_islands = city
+
+b_gamba_destra_islands = castle
 
 # Misc
-culture = crab_islands
-religion = greed
+culture = pirate
+religion = seven_stars
+
+#History

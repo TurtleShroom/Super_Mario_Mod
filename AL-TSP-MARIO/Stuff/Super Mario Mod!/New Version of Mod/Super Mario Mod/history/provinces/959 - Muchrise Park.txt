@@ -1,0 +1,15 @@
+# c_muchrise_park
+
+# County Title
+title = c_muchrise_park
+
+# Settlements
+max_settlements = 1
+
+b_muchrise_park = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

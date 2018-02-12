@@ -1,0 +1,15 @@
+# c_toad_rift
+
+# County Title
+title = c_toad_rift
+
+# Settlements
+max_settlements = 1
+
+b_toad_rift = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

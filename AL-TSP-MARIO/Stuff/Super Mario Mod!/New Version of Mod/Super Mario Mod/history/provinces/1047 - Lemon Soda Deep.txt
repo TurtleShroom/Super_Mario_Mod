@@ -1,0 +1,15 @@
+# c_lemon_soda_deep
+
+# County Title
+title = c_lemon_soda_deep
+
+# Settlements
+max_settlements = 1
+
+b_lemon_soda_deep = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

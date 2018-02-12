@@ -1,12 +1,15 @@
-# 57 - Pectoral Fin Peninsula
+# c_pectoral_fin_peninsula
 
 # County Title
 title = c_pectoral_fin_peninsula
 
 # Settlements
 max_settlements = 1
-b_pectoral_fin_peninsula = city
+
+b_pectoral_fin_peninsula = castle
 
 # Misc
-culture = fish_islands
-religion = shine_sprites
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,12 +1,15 @@
-# 28 - Beanbean Airport
+# c_beanbean_airport
 
 # County Title
 title = c_beanbean_airport
 
 # Settlements
 max_settlements = 1
+
 b_beanbean_airport = castle
 
 # Misc
-culture = beanbean_kingdom
+culture = pirate
 religion = seven_stars
+
+#History

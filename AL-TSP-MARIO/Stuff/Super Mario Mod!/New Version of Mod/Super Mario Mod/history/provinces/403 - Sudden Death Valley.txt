@@ -1,0 +1,15 @@
+# c_sudden_death_valley
+
+# County Title
+title = c_sudden_death_valley
+
+# Settlements
+max_settlements = 1
+
+b_sudden_death_valley = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

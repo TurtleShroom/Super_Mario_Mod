@@ -1,12 +1,15 @@
-# 32 - Hoohoo Mountain
+# c_hoohoo_mountain
 
 # County Title
 title = c_hoohoo_mountain
 
 # Settlements
 max_settlements = 1
+
 b_hoohoo_mountain = castle
 
 # Misc
-culture = hoohooligan
+culture = pirate
 religion = seven_stars
+
+#History

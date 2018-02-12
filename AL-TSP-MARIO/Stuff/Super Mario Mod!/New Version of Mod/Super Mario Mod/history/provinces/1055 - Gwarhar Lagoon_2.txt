@@ -1,0 +1,15 @@
+# c_gwarhar_lagoon_2
+
+# County Title
+title = c_gwarhar_lagoon_2
+
+# Settlements
+max_settlements = 1
+
+b_gwarhar_lagoon_2 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

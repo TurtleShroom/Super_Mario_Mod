@@ -1,0 +1,15 @@
+# c_monstro_town
+
+# County Title
+title = c_monstro_town
+
+# Settlements
+max_settlements = 1
+
+b_monstro_town = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_cheep_cheep_island
+
+# County Title
+title = c_cheep_cheep_island
+
+# Settlements
+max_settlements = 1
+
+b_cheep_cheep_island = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

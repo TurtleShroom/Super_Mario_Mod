@@ -1,0 +1,15 @@
+# c_grassland_castle
+
+# County Title
+title = c_grassland_castle
+
+# Settlements
+max_settlements = 1
+
+b_grassland_castle = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

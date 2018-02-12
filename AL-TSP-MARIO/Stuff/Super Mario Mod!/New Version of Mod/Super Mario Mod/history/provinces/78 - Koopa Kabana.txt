@@ -1,12 +1,15 @@
-# 78 - Koopa Kabana
+# c_koopa_kabana
 
 # County Title
 title = c_koopa_kabana
 
 # Settlements
 max_settlements = 1
-b_koopa_kabana = city
+
+b_koopa_kabana = castle
 
 # Misc
-culture = mushroom_kingdom
-religion = greed
+culture = pirate
+religion = seven_stars
+
+#History

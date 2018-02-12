@@ -1,0 +1,15 @@
+# c_coast_of_rage
+
+# County Title
+title = c_coast_of_rage
+
+# Settlements
+max_settlements = 1
+
+b_coast_of_rage = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

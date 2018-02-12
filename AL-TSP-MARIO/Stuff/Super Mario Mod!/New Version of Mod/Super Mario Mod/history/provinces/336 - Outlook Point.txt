@@ -1,0 +1,15 @@
+# c_outlook_point
+
+# County Title
+title = c_outlook_point
+
+# Settlements
+max_settlements = 1
+
+b_outlook_point = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

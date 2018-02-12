@@ -1,12 +1,15 @@
-# 83 - Serrano Sound
+# c_serrano_sound
 
 # County Title
 title = c_serrano_sound
 
 # Settlements
 max_settlements = 1
-b_serrano_sound = city
+
+b_serrano_sound = castle
 
 # Misc
-culture = jellyfish_islands
-religion = greed
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_loop_loop_river
+
+# County Title
+title = c_loop_loop_river
+
+# Settlements
+max_settlements = 1
+
+b_loop_loop_river = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

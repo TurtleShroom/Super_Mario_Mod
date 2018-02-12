@@ -1,0 +1,15 @@
+# c_yellow_toad_bay
+
+# County Title
+title = c_yellow_toad_bay
+
+# Settlements
+max_settlements = 1
+
+b_yellow_toad_bay = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

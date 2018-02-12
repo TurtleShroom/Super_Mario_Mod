@@ -1,0 +1,15 @@
+# c_straights_of_gordon
+
+# County Title
+title = c_straights_of_gordon
+
+# Settlements
+max_settlements = 1
+
+b_straights_of_gordon = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

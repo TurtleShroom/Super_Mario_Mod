@@ -1,0 +1,15 @@
+# c_seasons_greens
+
+# County Title
+title = c_seasons_greens
+
+# Settlements
+max_settlements = 1
+
+b_seasons_greens = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

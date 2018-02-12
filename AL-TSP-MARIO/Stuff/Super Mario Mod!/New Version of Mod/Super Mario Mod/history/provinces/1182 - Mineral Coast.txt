@@ -1,0 +1,15 @@
+# c_mineral_coast
+
+# County Title
+title = c_mineral_coast
+
+# Settlements
+max_settlements = 1
+
+b_mineral_coast = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

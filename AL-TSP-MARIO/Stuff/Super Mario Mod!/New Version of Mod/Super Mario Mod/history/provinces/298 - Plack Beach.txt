@@ -1,0 +1,15 @@
+# c_plack_beach
+
+# County Title
+title = c_plack_beach
+
+# Settlements
+max_settlements = 1
+
+b_plack_beach = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

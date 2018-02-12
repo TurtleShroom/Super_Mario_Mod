@@ -1,0 +1,15 @@
+# c_meloncholy_fjord
+
+# County Title
+title = c_meloncholy_fjord
+
+# Settlements
+max_settlements = 1
+
+b_meloncholy_fjord = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

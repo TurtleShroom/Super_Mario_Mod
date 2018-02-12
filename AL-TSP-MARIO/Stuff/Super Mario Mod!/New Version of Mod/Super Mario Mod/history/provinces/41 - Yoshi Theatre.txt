@@ -1,12 +1,15 @@
-# 41 - Yoshi Theatre
+# c_yoshi_theatre
 
 # County Title
 title = c_yoshi_theatre
 
 # Settlements
 max_settlements = 1
+
 b_yoshi_theatre = castle
 
 # Misc
-culture = beanbean_kingdom
+culture = pirate
 religion = seven_stars
+
+#History

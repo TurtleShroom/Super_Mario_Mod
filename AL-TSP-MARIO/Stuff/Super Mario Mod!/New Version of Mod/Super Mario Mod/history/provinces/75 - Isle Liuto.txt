@@ -1,12 +1,15 @@
-# 75 - Isle Liuto
+# c_isle_liuto
 
 # County Title
 title = c_isle_liuto
 
 # Settlements
 max_settlements = 1
-b_isle_liuto = city
+
+b_isle_liuto = castle
 
 # Misc
-culture = turtle_islands
-religion = shine_sprites
+culture = pirate
+religion = seven_stars
+
+#History

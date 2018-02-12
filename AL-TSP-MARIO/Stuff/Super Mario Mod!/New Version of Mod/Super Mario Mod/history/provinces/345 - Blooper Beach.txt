@@ -1,0 +1,15 @@
+# c_blooper_beach
+
+# County Title
+title = c_blooper_beach
+
+# Settlements
+max_settlements = 1
+
+b_blooper_beach = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

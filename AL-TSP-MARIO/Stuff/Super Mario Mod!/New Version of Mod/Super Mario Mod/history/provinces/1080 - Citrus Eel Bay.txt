@@ -1,0 +1,15 @@
+# c_citrus_eel_bay
+
+# County Title
+title = c_citrus_eel_bay
+
+# Settlements
+max_settlements = 1
+
+b_citrus_eel_bay = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

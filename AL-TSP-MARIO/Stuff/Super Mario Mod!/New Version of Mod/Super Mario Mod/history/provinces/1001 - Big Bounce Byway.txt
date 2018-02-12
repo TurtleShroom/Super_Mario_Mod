@@ -1,0 +1,15 @@
+# c_big_bounce_byway
+
+# County Title
+title = c_big_bounce_byway
+
+# Settlements
+max_settlements = 1
+
+b_big_bounce_byway = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

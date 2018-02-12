@@ -1,0 +1,15 @@
+# c_coastal_fortress
+
+# County Title
+title = c_coastal_fortress
+
+# Settlements
+max_settlements = 1
+
+b_coastal_fortress = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

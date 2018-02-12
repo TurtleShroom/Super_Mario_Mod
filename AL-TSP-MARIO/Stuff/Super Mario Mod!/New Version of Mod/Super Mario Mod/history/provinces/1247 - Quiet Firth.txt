@@ -1,0 +1,15 @@
+# c_quiet_firth
+
+# County Title
+title = c_quiet_firth
+
+# Settlements
+max_settlements = 1
+
+b_quiet_firth = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

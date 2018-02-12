@@ -1,0 +1,15 @@
+# c_middle_fruit_kingdoms
+
+# County Title
+title = c_middle_fruit_kingdoms
+
+# Settlements
+max_settlements = 1
+
+b_middle_fruit_kingdoms = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History
