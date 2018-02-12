@@ -4,9 +4,15 @@
 title = c_mushroom_woods
 
 # Settlements
-max_settlements = 1
+max_settlements = 7
 
 b_mushroom_woods = castle
+#b_mushroom_woods_2 = city
+#b_mushroom_woods_3 = temple
+#b_mushroom_woods_4 = castle
+#b_mushroom_woods_5 = city
+#b_mushroom_woods_6 = temple
+#b_mushroom_woods_7 = castle
 
 # Misc
 culture = pirate

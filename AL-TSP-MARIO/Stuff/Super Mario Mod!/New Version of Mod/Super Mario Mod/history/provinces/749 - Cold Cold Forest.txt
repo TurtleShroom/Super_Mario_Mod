@@ -4,9 +4,15 @@
 title = c_cold_cold_forest
 
 # Settlements
-max_settlements = 1
+max_settlements = 7
 
 b_cold_cold_forest = castle
+#b_cold_cold_forest_2 = city
+#b_cold_cold_forest_3 = temple
+#b_cold_cold_forest_4 = castle
+#b_cold_cold_forest_5 = city
+#b_cold_cold_forest_6 = temple
+#b_cold_cold_forest_7 = castle
 
 # Misc
 culture = pirate

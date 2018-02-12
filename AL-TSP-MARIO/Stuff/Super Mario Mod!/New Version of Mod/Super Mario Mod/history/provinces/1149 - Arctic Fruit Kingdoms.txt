@@ -4,9 +4,15 @@
 title = c_arctic_fruit_kingdoms
 
 # Settlements
-max_settlements = 1
+max_settlements = 7
 
 b_arctic_fruit_kingdoms = castle
+#b_arctic_fruit_kingdoms_2 = city
+#b_arctic_fruit_kingdoms_3 = temple
+#b_arctic_fruit_kingdoms_4 = castle
+#b_arctic_fruit_kingdoms_5 = city
+#b_arctic_fruit_kingdoms_6 = temple
+#b_arctic_fruit_kingdoms_7 = castle
 
 # Misc
 culture = pirate

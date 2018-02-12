@@ -1,8 +1,7 @@
 #1.0
 technology = {
 	titles = {
-		d_(mario_kart)_fish_islands
-		d_(mario_party)_minnow_island
+		d_1_0
 		d_apple_kingdom
 		d_banana_kingdom
 		d_barrel_volcano
@@ -18,7 +17,6 @@ technology = {
 		d_cherry_kingdom
 		d_chili_pepper_kingdom
 		d_christmas_approach
-		d_crab_islands
 		d_crabs_shore
 		d_dark_world
 		d_desert_land
@@ -81,7 +79,6 @@ technology = {
 		d_toadwood_forest_area
 		d_total_rekoil_+_liftshaft_lottery
 		d_tropical_freeze_islands
-		d_turtle_islands
 		d_unnamed
 		d_vibrant_isles
 		d_virtual_boy_wario_land

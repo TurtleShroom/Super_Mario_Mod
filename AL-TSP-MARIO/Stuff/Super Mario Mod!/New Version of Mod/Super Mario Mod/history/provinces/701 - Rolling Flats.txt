@@ -4,9 +4,15 @@
 title = c_rolling_flats
 
 # Settlements
-max_settlements = 1
+max_settlements = 7
 
 b_rolling_flats = castle
+#b_rolling_flats_2 = city
+#b_rolling_flats_3 = temple
+#b_rolling_flats_4 = castle
+#b_rolling_flats_5 = city
+#b_rolling_flats_6 = temple
+#b_rolling_flats_7 = castle
 
 # Misc
 culture = pirate

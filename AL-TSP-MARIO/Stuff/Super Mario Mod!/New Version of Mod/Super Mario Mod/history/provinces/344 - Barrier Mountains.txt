@@ -4,9 +4,15 @@
 title = c_barrier_mountains
 
 # Settlements
-max_settlements = 1
+max_settlements = 7
 
 b_barrier_mountains = castle
+#b_barrier_mountains_2 = city
+#b_barrier_mountains_3 = temple
+#b_barrier_mountains_4 = castle
+#b_barrier_mountains_5 = city
+#b_barrier_mountains_6 = temple
+#b_barrier_mountains_7 = castle
 
 # Misc
 culture = pirate

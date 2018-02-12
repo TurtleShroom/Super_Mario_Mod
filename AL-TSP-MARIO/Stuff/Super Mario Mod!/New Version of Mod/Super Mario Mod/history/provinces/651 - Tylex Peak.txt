@@ -4,9 +4,15 @@
 title = c_tylex_peak
 
 # Settlements
-max_settlements = 1
+max_settlements = 7
 
 b_tylex_peak = castle
+#b_tylex_peak_2 = city
+#b_tylex_peak_3 = temple
+#b_tylex_peak_4 = castle
+#b_tylex_peak_5 = city
+#b_tylex_peak_6 = temple
+#b_tylex_peak_7 = castle
 
 # Misc
 culture = pirate

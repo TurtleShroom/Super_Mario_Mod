@@ -4,9 +4,15 @@
 title = c_reindeer_run
 
 # Settlements
-max_settlements = 1
+max_settlements = 7
 
 b_reindeer_run = castle
+#b_reindeer_run_2 = city
+#b_reindeer_run_3 = temple
+#b_reindeer_run_4 = castle
+#b_reindeer_run_5 = city
+#b_reindeer_run_6 = temple
+#b_reindeer_run_7 = castle
 
 # Misc
 culture = pirate

@@ -4,9 +4,15 @@
 title = c_bay_of_petals
 
 # Settlements
-max_settlements = 1
+max_settlements = 7
 
 b_bay_of_petals = castle
+#b_bay_of_petals_2 = city
+#b_bay_of_petals_3 = temple
+#b_bay_of_petals_4 = castle
+#b_bay_of_petals_5 = city
+#b_bay_of_petals_6 = temple
+#b_bay_of_petals_7 = castle
 
 # Misc
 culture = pirate

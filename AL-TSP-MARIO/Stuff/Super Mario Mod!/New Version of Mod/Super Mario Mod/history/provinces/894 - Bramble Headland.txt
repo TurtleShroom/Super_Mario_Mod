@@ -4,9 +4,15 @@
 title = c_bramble_headland
 
 # Settlements
-max_settlements = 1
+max_settlements = 7
 
 b_bramble_headland = castle
+#b_bramble_headland_2 = city
+#b_bramble_headland_3 = temple
+#b_bramble_headland_4 = castle
+#b_bramble_headland_5 = city
+#b_bramble_headland_6 = temple
+#b_bramble_headland_7 = castle
 
 # Misc
 culture = pirate

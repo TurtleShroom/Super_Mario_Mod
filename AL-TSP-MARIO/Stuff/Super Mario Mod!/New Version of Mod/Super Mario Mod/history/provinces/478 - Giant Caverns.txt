@@ -4,9 +4,15 @@
 title = c_giant_caverns
 
 # Settlements
-max_settlements = 1
+max_settlements = 7
 
 b_giant_caverns = castle
+#b_giant_caverns_2 = city
+#b_giant_caverns_3 = temple
+#b_giant_caverns_4 = castle
+#b_giant_caverns_5 = city
+#b_giant_caverns_6 = temple
+#b_giant_caverns_7 = castle
 
 # Misc
 culture = pirate

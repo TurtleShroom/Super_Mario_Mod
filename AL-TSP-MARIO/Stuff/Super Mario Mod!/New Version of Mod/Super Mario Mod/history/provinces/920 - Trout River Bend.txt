@@ -4,9 +4,15 @@
 title = c_trout_river_bend
 
 # Settlements
-max_settlements = 1
+max_settlements = 7
 
 b_trout_river_bend = castle
+#b_trout_river_bend_2 = city
+#b_trout_river_bend_3 = temple
+#b_trout_river_bend_4 = castle
+#b_trout_river_bend_5 = city
+#b_trout_river_bend_6 = temple
+#b_trout_river_bend_7 = castle
 
 # Misc
 culture = pirate

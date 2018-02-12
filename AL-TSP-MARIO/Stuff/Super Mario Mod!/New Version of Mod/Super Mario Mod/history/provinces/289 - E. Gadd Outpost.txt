@@ -4,9 +4,15 @@
 title = c_e_gadd_outpost
 
 # Settlements
-max_settlements = 1
+max_settlements = 7
 
 b_e_gadd_outpost = castle
+#b_e_gadd_outpost_2 = city
+#b_e_gadd_outpost_3 = temple
+#b_e_gadd_outpost_4 = castle
+#b_e_gadd_outpost_5 = city
+#b_e_gadd_outpost_6 = temple
+#b_e_gadd_outpost_7 = castle
 
 # Misc
 culture = pirate

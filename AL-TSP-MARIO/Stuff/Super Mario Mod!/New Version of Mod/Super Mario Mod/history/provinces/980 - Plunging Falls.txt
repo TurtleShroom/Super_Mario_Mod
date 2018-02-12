@@ -4,9 +4,15 @@
 title = c_plunging_falls
 
 # Settlements
-max_settlements = 1
+max_settlements = 7
 
 b_plunging_falls = castle
+#b_plunging_falls_2 = city
+#b_plunging_falls_3 = temple
+#b_plunging_falls_4 = castle
+#b_plunging_falls_5 = city
+#b_plunging_falls_6 = temple
+#b_plunging_falls_7 = castle
 
 # Misc
 culture = pirate

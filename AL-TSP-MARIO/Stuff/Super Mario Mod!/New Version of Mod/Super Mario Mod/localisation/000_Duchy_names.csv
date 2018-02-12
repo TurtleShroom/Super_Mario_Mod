@@ -1,10 +1,6 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-d_(mario_kart)_fish_islands;(Mario Kart) Fish Islands;(Mario Kart) Fish Islands;(Mario Kart) Fish Islands;;(Mario Kart) Fish Islands;;;;;;;;;x
-d_(mario_kart)_fish_islands_adj;(Mario Kart) Fish Islandsian;;(Mario Kart) Fish Islandser;;;;;;;;;;;x
 d_(mario_party)_jellyfish_island;(Mario Party) Jellyfish Island;(Mario Party) Jellyfish Island;(Mario Party) Jellyfish Island;;(Mario Party) Jellyfish Island;;;;;;;;;x
 d_(mario_party)_jellyfish_island_adj;(Mario Party) Jellyfish Islandian;;(Mario Party) Jellyfish Islander;;;;;;;;;;;x
-d_(mario_party)_minnow_island;(Mario Party) Minnow Island;(Mario Party) Minnow Island;(Mario Party) Minnow Island;;(Mario Party) Minnow Island;;;;;;;;;x
-d_(mario_party)_minnow_island_adj;(Mario Party) Minnow Islandian;;(Mario Party) Minnow Islander;;;;;;;;;;;x
 d_1_0;1.0;1.0;1.0;;1.0;;;;;;;;;x
 d_1_0_adj;1.0ian;;1.0er;;;;;;;;;;;x
 d_apple_kingdom;Apple Kingdom;Apple Kingdom;Apple Kingdom;;Apple Kingdom;;;;;;;;;x
@@ -79,6 +75,8 @@ d_eel_islands;Eel Islands;Eel Islands;Eel Islands;;Eel Islands;;;;;;;;;x
 d_eel_islands_adj;Eel Islandsian;;Eel Islandser;;;;;;;;;;;x
 d_evershade_valley;Evershade Valley;Evershade Valley;Evershade Valley;;Evershade Valley;;;;;;;;;x
 d_evershade_valley_adj;Evershade Valleian;;Evershade Valleer;;;;;;;;;;;x
+d_fish_islands;Fish Islands;Fish Islands;Fish Islands;;Fish Islands;;;;;;;;;x
+d_fish_islands_adj;Fish Islandsian;;Fish Islandser;;;;;;;;;;;x
 d_flurries_of_the_bay;Flurries of the Bay;Flurries of the Bay;Flurries of the Bay;;Flurries of the Bay;;;;;;;;;x
 d_flurries_of_the_bay_adj;Flurries of the Baian;;Flurries of the Baer;;;;;;;;;;;x
 d_grape_kingdom;Grape Kingdom;Grape Kingdom;Grape Kingdom;;Grape Kingdom;;;;;;;;;x
@@ -137,6 +135,8 @@ d_melon_kingdom;Melon Kingdom;Melon Kingdom;Melon Kingdom;;Melon Kingdom;;;;;;;;
 d_melon_kingdom_adj;Melon Kingdomian;;Melon Kingdomer;;;;;;;;;;;x
 d_minkey_mischief_+_jetty_jitters;Minkey Mischief + Jetty Jitters;Minkey Mischief + Jetty Jitters;Minkey Mischief + Jetty Jitters;;Minkey Mischief + Jetty Jitters;;;;;;;;;x
 d_minkey_mischief_+_jetty_jitters_adj;Minkey Mischief + Jetty Jittersian;;Minkey Mischief + Jetty Jitterser;;;;;;;;;;;x
+d_minnow_island;Minnow Island;Minnow Island;Minnow Island;;Minnow Island;;;;;;;;;x
+d_minnow_island_adj;Minnow Islandian;;Minnow Islander;;;;;;;;;;;x
 d_mole_mountains;Mole Mountains;Mole Mountains;Mole Mountains;;Mole Mountains;;;;;;;;;x
 d_mole_mountains_adj;Mole Mountainsian;;Mole Mountainser;;;;;;;;;;;x
 d_mushroom_kingdom_proper;Mushroom Kingdom Proper;Mushroom Kingdom Proper;Mushroom Kingdom Proper;;Mushroom Kingdom Proper;;;;;;;;;x

@@ -4,9 +4,15 @@
 title = c_monkey_marsh
 
 # Settlements
-max_settlements = 1
+max_settlements = 7
 
 b_monkey_marsh = castle
+#b_monkey_marsh_2 = city
+#b_monkey_marsh_3 = temple
+#b_monkey_marsh_4 = castle
+#b_monkey_marsh_5 = city
+#b_monkey_marsh_6 = temple
+#b_monkey_marsh_7 = castle
 
 # Misc
 culture = pirate

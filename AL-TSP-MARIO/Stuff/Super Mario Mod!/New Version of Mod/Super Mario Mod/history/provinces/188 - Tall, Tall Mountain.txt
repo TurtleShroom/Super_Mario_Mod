@@ -4,9 +4,15 @@
 title = c_tall,_tall_mountain
 
 # Settlements
-max_settlements = 1
+max_settlements = 7
 
 b_tall,_tall_mountain = castle
+#b_tall,_tall_mountain_2 = city
+#b_tall,_tall_mountain_3 = temple
+#b_tall,_tall_mountain_4 = castle
+#b_tall,_tall_mountain_5 = city
+#b_tall,_tall_mountain_6 = temple
+#b_tall,_tall_mountain_7 = castle
 
 # Misc
 culture = pirate

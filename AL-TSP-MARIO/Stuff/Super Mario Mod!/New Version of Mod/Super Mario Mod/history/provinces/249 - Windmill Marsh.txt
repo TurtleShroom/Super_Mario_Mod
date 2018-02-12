@@ -4,9 +4,15 @@
 title = c_windmill_marsh
 
 # Settlements
-max_settlements = 1
+max_settlements = 7
 
 b_windmill_marsh = castle
+#b_windmill_marsh_2 = city
+#b_windmill_marsh_3 = temple
+#b_windmill_marsh_4 = castle
+#b_windmill_marsh_5 = city
+#b_windmill_marsh_6 = temple
+#b_windmill_marsh_7 = castle
 
 # Misc
 culture = pirate

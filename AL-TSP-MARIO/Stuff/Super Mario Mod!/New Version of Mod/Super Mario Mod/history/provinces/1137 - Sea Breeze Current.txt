@@ -4,9 +4,15 @@
 title = c_sea_breeze_current
 
 # Settlements
-max_settlements = 1
+max_settlements = 7
 
 b_sea_breeze_current = castle
+#b_sea_breeze_current_2 = city
+#b_sea_breeze_current_3 = temple
+#b_sea_breeze_current_4 = castle
+#b_sea_breeze_current_5 = city
+#b_sea_breeze_current_6 = temple
+#b_sea_breeze_current_7 = castle
 
 # Misc
 culture = pirate

@@ -4,9 +4,15 @@
 title = c_daisy_hills
 
 # Settlements
-max_settlements = 1
+max_settlements = 7
 
 b_daisy_hills = castle
+#b_daisy_hills_2 = city
+#b_daisy_hills_3 = temple
+#b_daisy_hills_4 = castle
+#b_daisy_hills_5 = city
+#b_daisy_hills_6 = temple
+#b_daisy_hills_7 = castle
 
 # Misc
 culture = pirate

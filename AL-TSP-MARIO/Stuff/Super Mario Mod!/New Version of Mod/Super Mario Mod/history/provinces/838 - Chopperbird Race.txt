@@ -4,9 +4,15 @@
 title = c_chopperbird_race
 
 # Settlements
-max_settlements = 1
+max_settlements = 7
 
 b_chopperbird_race = castle
+#b_chopperbird_race_2 = city
+#b_chopperbird_race_3 = temple
+#b_chopperbird_race_4 = castle
+#b_chopperbird_race_5 = city
+#b_chopperbird_race_6 = temple
+#b_chopperbird_race_7 = castle
 
 # Misc
 culture = pirate

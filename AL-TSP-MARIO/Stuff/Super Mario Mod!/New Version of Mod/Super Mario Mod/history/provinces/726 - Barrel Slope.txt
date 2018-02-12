@@ -4,9 +4,15 @@
 title = c_barrel_slope
 
 # Settlements
-max_settlements = 1
+max_settlements = 7
 
 b_barrel_slope = castle
+#b_barrel_slope_2 = city
+#b_barrel_slope_3 = temple
+#b_barrel_slope_4 = castle
+#b_barrel_slope_5 = city
+#b_barrel_slope_6 = temple
+#b_barrel_slope_7 = castle
 
 # Misc
 culture = pirate

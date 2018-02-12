@@ -4,9 +4,15 @@
 title = c_nights_chill
 
 # Settlements
-max_settlements = 1
+max_settlements = 7
 
 b_nights_chill = castle
+#b_nights_chill_2 = city
+#b_nights_chill_3 = temple
+#b_nights_chill_4 = castle
+#b_nights_chill_5 = city
+#b_nights_chill_6 = temple
+#b_nights_chill_7 = castle
 
 # Misc
 culture = pirate

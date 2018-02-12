@@ -4,9 +4,15 @@
 title = c_gusty_gultch
 
 # Settlements
-max_settlements = 1
+max_settlements = 7
 
 b_gusty_gultch = castle
+#b_gusty_gultch_2 = city
+#b_gusty_gultch_3 = temple
+#b_gusty_gultch_4 = castle
+#b_gusty_gultch_5 = city
+#b_gusty_gultch_6 = temple
+#b_gusty_gultch_7 = castle
 
 # Misc
 culture = pirate

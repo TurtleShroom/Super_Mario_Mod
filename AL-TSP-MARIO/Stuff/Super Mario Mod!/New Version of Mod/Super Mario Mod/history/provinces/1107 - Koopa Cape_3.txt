@@ -4,9 +4,15 @@
 title = c_koopa_cape_3
 
 # Settlements
-max_settlements = 1
+max_settlements = 7
 
-b_koopa_cape_3 = castle
+b_koopa_cape_15 = castle
+#b_koopa_cape_16 = city
+#b_koopa_cape_17 = temple
+#b_koopa_cape_18 = castle
+#b_koopa_cape_19 = city
+#b_koopa_cape_20 = temple
+#b_koopa_cape_21 = castle
 
 # Misc
 culture = pirate

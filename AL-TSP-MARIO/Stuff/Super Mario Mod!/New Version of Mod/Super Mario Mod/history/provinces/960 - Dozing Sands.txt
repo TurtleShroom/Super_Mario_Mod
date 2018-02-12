@@ -4,9 +4,15 @@
 title = c_dozing_sands
 
 # Settlements
-max_settlements = 1
+max_settlements = 7
 
 b_dozing_sands = castle
+#b_dozing_sands_2 = city
+#b_dozing_sands_3 = temple
+#b_dozing_sands_4 = castle
+#b_dozing_sands_5 = city
+#b_dozing_sands_6 = temple
+#b_dozing_sands_7 = castle
 
 # Misc
 culture = pirate

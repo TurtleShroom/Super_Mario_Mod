@@ -1,7 +1,6 @@
 #RICE MEADOWLANDS
 technology = {
 	titles = {
-		d_1_0
 		d_beanbean_kingdom
 		d_dinosaur_land
 		d_kitchen_island

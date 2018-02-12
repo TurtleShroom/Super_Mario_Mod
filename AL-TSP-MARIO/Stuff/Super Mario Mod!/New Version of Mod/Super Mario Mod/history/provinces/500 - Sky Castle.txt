@@ -4,9 +4,15 @@
 title = c_sky_castle
 
 # Settlements
-max_settlements = 1
+max_settlements = 7
 
 b_sky_castle = castle
+#b_sky_castle_2 = city
+#b_sky_castle_3 = temple
+#b_sky_castle_4 = castle
+#b_sky_castle_5 = city
+#b_sky_castle_6 = temple
+#b_sky_castle_7 = castle
 
 # Misc
 culture = pirate

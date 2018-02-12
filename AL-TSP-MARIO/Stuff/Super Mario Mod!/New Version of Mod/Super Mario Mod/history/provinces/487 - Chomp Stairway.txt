@@ -4,9 +4,15 @@
 title = c_chomp_stairway
 
 # Settlements
-max_settlements = 1
+max_settlements = 7
 
 b_chomp_stairway = castle
+#b_chomp_stairway_2 = city
+#b_chomp_stairway_3 = temple
+#b_chomp_stairway_4 = castle
+#b_chomp_stairway_5 = city
+#b_chomp_stairway_6 = temple
+#b_chomp_stairway_7 = castle
 
 # Misc
 culture = pirate

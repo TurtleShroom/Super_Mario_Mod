@@ -4,9 +4,15 @@
 title = c_marioward_coast
 
 # Settlements
-max_settlements = 1
+max_settlements = 7
 
 b_marioward_coast = castle
+#b_marioward_coast_2 = city
+#b_marioward_coast_3 = temple
+#b_marioward_coast_4 = castle
+#b_marioward_coast_5 = city
+#b_marioward_coast_6 = temple
+#b_marioward_coast_7 = castle
 
 # Misc
 culture = pirate
