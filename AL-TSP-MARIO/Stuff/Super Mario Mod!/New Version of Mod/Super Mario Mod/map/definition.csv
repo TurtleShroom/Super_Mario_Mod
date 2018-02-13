@@ -7,7 +7,7 @@ province;red;green;blue;x;x
 6;204;171;74;Parsley Forest;x
 7;204;162;84;Syrup Castle;x
 8;127;0;0;Marios Castle;x
-9;122;6;10;Toad House (Mario Land);x
+9;122;6;10;Toad House;x
 10;117;11;20;Mario Zone;x
 11;117;17;30;Pumpkin Zone;x
 12;114;22;40;Turtle Zone;x
@@ -186,7 +186,7 @@ province;red;green;blue;x;x
 185;255;24;255;Big Boos Haunt;x
 186;255;34;255;Bob-omb Battlefield;x
 187;255;44;255;Shifting Sand Land;x
-188;255;54;255;Tall, Tall Mountain;x
+188;255;54;255;Tall Tall Mountain;x
 189;1;1;1;PLACEHOLDER189;x
 190;255;74;255;Crater Field;x
 191;255;84;255;Apple Mountain;x
@@ -302,7 +302,7 @@ province;red;green;blue;x;x
 301;255;200;175;Cavi Plains;x
 302;255;210;175;West Cavi Cape;x
 303;255;230;175;Dimple Woods;x
-304;255;161;175;Peaceful/Warios Woods;x
+304;255;161;175;Peaceful Warios Woods;x
 305;255;171;175;Battle Canyon;x
 306;255;181;175;Fairys Forest;x
 307;255;191;175;Yosu Lake;x
@@ -624,7 +624,7 @@ province;red;green;blue;x;x
 623;115;150;203;Pirates Grotto;x
 624;115;160;203;Faire Square;x
 625;115;170;203;Pirates Dream;x
-626;115;180;203;Dire, Dire Docks;x
+626;115;180;203;Dire Dire Docks;x
 627;115;190;203;Hazy Maze Cave;x
 628;115;200;203;Jolly Roger Bay;x
 629;115;210;203;Wet-Dry World;x
@@ -746,7 +746,7 @@ province;red;green;blue;x;x
 745;170;22;4;The Turtles Spine;x
 746;180;22;4;Thousand Needles;x
 747;85;140;61;Yoster Island;x
-748;0;223;237;Cool, Cool Mountain;x
+748;0;223;237;Cool Cool Mountain;x
 749;10;223;237;Cold Cold Forest;x
 750;20;223;237;Raging Ravine;x
 751;30;223;237;Ice Castle_2;x
@@ -1262,7 +1262,7 @@ province;red;green;blue;x;x
 1261;168;91;186;Penguin Coast;x
 1262;178;91;186;Santa Sea;x
 1263;188;91;186;Icepeak Coast;x
-1264;198;91;186;Cool, Cool Coastline;x
+1264;198;91;186;Cool Cool Coastline;x
 1265;208;91;186;Sherbet Coast;x
 1266;218;91;186;Shivering Coastline;x
 1267;228;91;186;Ice Koopa Coast;x

@@ -459,10 +459,10 @@ c_contraption_cave;Contraption Cave;Contraption Cave;Contraption Cave;;Contrapti
 c_contraption_cave_adj;Contraption Cavean;;Contraption Caver;;;;;;;;;;;x
 c_cookie_land;Cookie Land;Cookie Land;Cookie Land;;Cookie Land;;;;;;;;;x
 c_cookie_land_adj;Cookie Landian;;Cookie Lander;;;;;;;;;;;x
-c_cool,_cool_coastline;Cool, Cool Coastline;Cool, Cool Coastline;Cool, Cool Coastline;;Cool, Cool Coastline;;;;;;;;;x
-c_cool,_cool_coastline_adj;Cool, Cool Coastlinean;;Cool, Cool Coastliner;;;;;;;;;;;x
-c_cool,_cool_mountain;Cool, Cool Mountain;Cool, Cool Mountain;Cool, Cool Mountain;;Cool, Cool Mountain;;;;;;;;;x
-c_cool,_cool_mountain_adj;Cool, Cool Mountainian;;Cool, Cool Mountainer;;;;;;;;;;;x
+c_cool_cool_coastline;Cool Cool Coastline;Cool Cool Coastline;Cool Cool Coastline;;Cool Cool Coastline;;;;;;;;;x
+c_cool_cool_coastline_adj;Cool Cool Coastlinean;;Cool Cool Coastliner;;;;;;;;;;;x
+c_cool_cool_mountain;Cool Cool Mountain;Cool Cool Mountain;Cool Cool Mountain;;Cool Cool Mountain;;;;;;;;;x
+c_cool_cool_mountain_adj;Cool Cool Mountainian;;Cool Cool Mountainer;;;;;;;;;;;x
 c_copper_coast;Copper Coast;Copper Coast;Copper Coast;;Copper Coast;;;;;;;;;x
 c_copper_coast_adj;Copper Coastian;;Copper Coaster;;;;;;;;;;;x
 c_coral_cove;Coral Cove;Coral Cove;Coral Cove;;Coral Cove;;;;;;;;;x
@@ -601,8 +601,8 @@ c_dinosaur_ocean_trench;Dinosaur Ocean Trench;Dinosaur Ocean Trench;Dinosaur Oce
 c_dinosaur_ocean_trench_adj;Dinosaur Ocean Trenchian;;Dinosaur Ocean Trencher;;;;;;;;;;;x
 c_dinosaurward_coast;Dinosaurward Coast;Dinosaurward Coast;Dinosaurward Coast;;Dinosaurward Coast;;;;;;;;;x
 c_dinosaurward_coast_adj;Dinosaurward Coastian;;Dinosaurward Coaster;;;;;;;;;;;x
-c_dire,_dire_docks;Dire, Dire Docks;Dire, Dire Docks;Dire, Dire Docks;;Dire, Dire Docks;;;;;;;;;x
-c_dire,_dire_docks_adj;Dire, Dire Docksian;;Dire, Dire Dockser;;;;;;;;;;;x
+c_dire_dire_docks;Dire Dire Docks;Dire Dire Docks;Dire Dire Docks;;Dire Dire Docks;;;;;;;;;x
+c_dire_dire_docks_adj;Dire Dire Docksian;;Dire Dire Dockser;;;;;;;;;;;x
 c_dk_stadium;DK Stadium;DK Stadium;DK Stadium;;DK Stadium;;;;;;;;;x
 c_dk_stadium_adj;DK Stadiumian;;DK Stadiumer;;;;;;;;;;;x
 c_dolphin_coast;Dolphin Coast;Dolphin Coast;Dolphin Coast;;Dolphin Coast;;;;;;;;;x
@@ -1587,8 +1587,8 @@ c_pasta_land;Pasta Land;Pasta Land;Pasta Land;;Pasta Land;;;;;;;;;x
 c_pasta_land_adj;Pasta Landian;;Pasta Lander;;;;;;;;;;;x
 c_pastadena;Pastadena;Pastadena;Pastadena;;Pastadena;;;;;;;;;x
 c_pastadena_adj;Pastadenan;;pastadener;;;;;;;;;;;x
-c_peaceful/warios_woods;Peaceful/Wario's Woods;Peaceful/Wario's Woods;Peaceful/Wario's Woods;;Peaceful/Wario's Woods;;;;;;;;;x
-c_peaceful/warios_woods_adj;Peaceful/Warios Woodsian;;Peaceful/Wario's Woodser;;;;;;;;;;;x
+c_peaceful_warios_woods;Peaceful Wario's Woods;Peaceful Wario's Woods;Peaceful Wario's Woods;;Peaceful Wario's Woods;;;;;;;;;x
+c_peaceful_warios_woods_adj;Peaceful Warios Woodsian;;Peaceful Wario's Woodser;;;;;;;;;;;x
 c_peach_beach;Peach Beach;Peach Beach;Peach Beach;;Peach Beach;;;;;;;;;x
 c_peach_beach_adj;Peach Beachian;;Peach Beacher;;;;;;;;;;;x
 c_peach_gardens;Peach Gardens;Peach Gardens;Peach Gardens;;Peach Gardens;;;;;;;;;x
@@ -2223,10 +2223,10 @@ c_tailfin_bay;Tailfin Bay;Tailfin Bay;Tailfin Bay;;Tailfin Bay;;;;;;;;;x
 c_tailfin_bay_adj;Tailfin Baian;;Tailfin Baer;;;;;;;;;;;x
 c_taj_falls;Taj Falls;Taj Falls;Taj Falls;;Taj Falls;;;;;;;;;x
 c_taj_falls_adj;Taj Fallsian;;Taj Fallser;;;;;;;;;;;x
-c_tall,_tall_mountain;Tall, Tall Mountain;Tall, Tall Mountain;Tall, Tall Mountain;;Tall, Tall Mountain;;;;;;;;;x
-c_tall,_tall_mountain_adj;Tall, Tall Mountainian;;Tall, Tall Mountainer;;;;;;;;;;;x
 c_tall_heights;Tall Heights;Tall Heights;Tall Heights;;Tall Heights;;;;;;;;;x
 c_tall_heights_adj;Tall Heightsian;;Tall Heightser;;;;;;;;;;;x
+c_tall_tall_mountain;Tall Tall Mountain;Tall Tall Mountain;Tall Tall Mountain;;Tall Tall Mountain;;;;;;;;;x
+c_tall_tall_mountain_adj;Tall Tall Mountainian;;Tall Tall Mountainer;;;;;;;;;;;x
 c_tangerine_beach;Tangerine Beach;Tangerine Beach;Tangerine Beach;;Tangerine Beach;;;;;;;;;x
 c_tangerine_beach_adj;Tangerine Beachian;;Tangerine Beacher;;;;;;;;;;;x
 c_teacup_cove;Teacup Cove;Teacup Cove;Teacup Cove;;Teacup Cove;;;;;;;;;x
@@ -2317,8 +2317,8 @@ c_toad_highlands;Toad Highlands;Toad Highlands;Toad Highlands;;Toad Highlands;;;
 c_toad_highlands_adj;Toad Highlandsian;;Toad Highlandser;;;;;;;;;;;x
 c_toad_hill;Toad Hill;Toad Hill;Toad Hill;;Toad Hill;;;;;;;;;x
 c_toad_hill_adj;Toad Hillian;;Toad Hiller;;;;;;;;;;;x
-c_toad_house_(mario_land);Toad House (Mario Land);Toad House (Mario Land);Toad House (Mario Land);;Toad House (Mario Land);;;;;;;;;x
-c_toad_house_(mario_land)_adj;Toad House (Mario Land)ian;;Toad House (Mario Land)er;;;;;;;;;;;x
+c_toad_house;Toad House;Toad House;Toad House;;Toad House;;;;;;;;;x
+c_toad_house_adj;Toad Housean;;Toad Houser;;;;;;;;;;;x
 c_toad_islands;Toad Islands;Toad Islands;Toad Islands;;Toad Islands;;;;;;;;;x
 c_toad_islands_adj;Toad Islandsian;;Toad Islandser;;;;;;;;;;;x
 c_toad_peninsula;Toad Peninsula;Toad Peninsula;Toad Peninsula;;Toad Peninsula;;;;;;;;;x
