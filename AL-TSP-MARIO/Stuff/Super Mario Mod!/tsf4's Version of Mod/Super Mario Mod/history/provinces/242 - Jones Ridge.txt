@@ -1,0 +1,21 @@
+# c_jones_ridge
+
+# County Title
+title = c_jones_ridge
+
+# Settlements
+max_settlements = 7
+
+b_jones_ridge = castle
+#b_jones_ridge_2 = city
+#b_jones_ridge_3 = temple
+#b_jones_ridge_4 = castle
+#b_jones_ridge_5 = city
+#b_jones_ridge_6 = temple
+#b_jones_ridge_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_rock_rock_mountain
+
+# County Title
+title = c_rock_rock_mountain
+
+# Settlements
+max_settlements = 7
+
+b_rock_rock_mountain = castle
+#b_rock_rock_mountain_2 = city
+#b_rock_rock_mountain_3 = temple
+#b_rock_rock_mountain_4 = castle
+#b_rock_rock_mountain_5 = city
+#b_rock_rock_mountain_6 = temple
+#b_rock_rock_mountain_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

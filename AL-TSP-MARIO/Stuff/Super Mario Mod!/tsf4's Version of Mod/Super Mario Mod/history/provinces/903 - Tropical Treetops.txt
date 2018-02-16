@@ -1,0 +1,21 @@
+# c_tropical_treetops
+
+# County Title
+title = c_tropical_treetops
+
+# Settlements
+max_settlements = 7
+
+b_tropical_treetops = castle
+#b_tropical_treetops_2 = city
+#b_tropical_treetops_3 = temple
+#b_tropical_treetops_4 = castle
+#b_tropical_treetops_5 = city
+#b_tropical_treetops_6 = temple
+#b_tropical_treetops_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

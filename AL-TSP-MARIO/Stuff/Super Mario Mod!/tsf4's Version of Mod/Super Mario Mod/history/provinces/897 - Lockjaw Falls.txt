@@ -1,0 +1,21 @@
+# c_lockjaw_falls
+
+# County Title
+title = c_lockjaw_falls
+
+# Settlements
+max_settlements = 7
+
+b_lockjaw_falls = castle
+#b_lockjaw_falls_2 = city
+#b_lockjaw_falls_3 = temple
+#b_lockjaw_falls_4 = castle
+#b_lockjaw_falls_5 = city
+#b_lockjaw_falls_6 = temple
+#b_lockjaw_falls_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

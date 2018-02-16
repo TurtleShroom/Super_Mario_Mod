@@ -1,0 +1,21 @@
+# c_north_pole
+
+# County Title
+title = c_north_pole
+
+# Settlements
+max_settlements = 7
+
+b_north_pole = castle
+#b_north_pole_2 = city
+#b_north_pole_3 = temple
+#b_north_pole_4 = castle
+#b_north_pole_5 = city
+#b_north_pole_6 = temple
+#b_north_pole_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

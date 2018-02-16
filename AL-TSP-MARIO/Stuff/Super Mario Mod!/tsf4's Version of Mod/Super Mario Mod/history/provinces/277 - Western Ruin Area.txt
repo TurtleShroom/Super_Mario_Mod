@@ -1,0 +1,21 @@
+# c_western_ruin_area
+
+# County Title
+title = c_western_ruin_area
+
+# Settlements
+max_settlements = 7
+
+b_western_ruin_area = castle
+#b_western_ruin_area_2 = city
+#b_western_ruin_area_3 = temple
+#b_western_ruin_area_4 = castle
+#b_western_ruin_area_5 = city
+#b_western_ruin_area_6 = temple
+#b_western_ruin_area_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

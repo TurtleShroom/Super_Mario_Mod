@@ -1,0 +1,21 @@
+# c_west_flipper_approach
+
+# County Title
+title = c_west_flipper_approach
+
+# Settlements
+max_settlements = 7
+
+b_west_flipper_approach = castle
+#b_west_flipper_approach_2 = city
+#b_west_flipper_approach_3 = temple
+#b_west_flipper_approach_4 = castle
+#b_west_flipper_approach_5 = city
+#b_west_flipper_approach_6 = temple
+#b_west_flipper_approach_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_salty_shore
+
+# County Title
+title = c_salty_shore
+
+# Settlements
+max_settlements = 7
+
+b_salty_shore = castle
+#b_salty_shore_2 = city
+#b_salty_shore_3 = temple
+#b_salty_shore_4 = castle
+#b_salty_shore_5 = city
+#b_salty_shore_6 = temple
+#b_salty_shore_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

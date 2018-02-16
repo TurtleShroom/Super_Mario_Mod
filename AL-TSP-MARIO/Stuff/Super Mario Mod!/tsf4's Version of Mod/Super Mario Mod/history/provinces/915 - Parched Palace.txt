@@ -1,0 +1,21 @@
+# c_parched_palace
+
+# County Title
+title = c_parched_palace
+
+# Settlements
+max_settlements = 7
+
+b_parched_palace = castle
+#b_parched_palace_2 = city
+#b_parched_palace_3 = temple
+#b_parched_palace_4 = castle
+#b_parched_palace_5 = city
+#b_parched_palace_6 = temple
+#b_parched_palace_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

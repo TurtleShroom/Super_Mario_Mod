@@ -1,0 +1,21 @@
+# c_boos_mansion
+
+# County Title
+title = c_boos_mansion
+
+# Settlements
+max_settlements = 7
+
+b_boos_mansion = castle
+#b_boos_mansion_2 = city
+#b_boos_mansion_3 = temple
+#b_boos_mansion_4 = castle
+#b_boos_mansion_5 = city
+#b_boos_mansion_6 = temple
+#b_boos_mansion_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

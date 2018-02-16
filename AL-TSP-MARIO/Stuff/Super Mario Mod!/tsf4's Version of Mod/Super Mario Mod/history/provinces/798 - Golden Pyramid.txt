@@ -1,0 +1,21 @@
+# c_golden_pyramid
+
+# County Title
+title = c_golden_pyramid
+
+# Settlements
+max_settlements = 7
+
+b_golden_pyramid = castle
+#b_golden_pyramid_2 = city
+#b_golden_pyramid_3 = temple
+#b_golden_pyramid_4 = castle
+#b_golden_pyramid_5 = city
+#b_golden_pyramid_6 = temple
+#b_golden_pyramid_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

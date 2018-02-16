@@ -1,0 +1,21 @@
+# c_pecan_sands
+
+# County Title
+title = c_pecan_sands
+
+# Settlements
+max_settlements = 7
+
+b_pecan_sands = castle
+#b_pecan_sands_2 = city
+#b_pecan_sands_3 = temple
+#b_pecan_sands_4 = castle
+#b_pecan_sands_5 = city
+#b_pecan_sands_6 = temple
+#b_pecan_sands_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

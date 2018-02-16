@@ -1,0 +1,21 @@
+# c_chucklehuck_woods
+
+# County Title
+title = c_chucklehuck_woods
+
+# Settlements
+max_settlements = 7
+
+b_chucklehuck_woods = castle
+#b_chucklehuck_woods_2 = city
+#b_chucklehuck_woods_3 = temple
+#b_chucklehuck_woods_4 = castle
+#b_chucklehuck_woods_5 = city
+#b_chucklehuck_woods_6 = temple
+#b_chucklehuck_woods_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

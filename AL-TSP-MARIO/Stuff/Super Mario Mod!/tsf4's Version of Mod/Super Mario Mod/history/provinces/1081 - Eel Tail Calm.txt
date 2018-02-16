@@ -1,0 +1,21 @@
+# c_eel_tail_calm
+
+# County Title
+title = c_eel_tail_calm
+
+# Settlements
+max_settlements = 7
+
+b_eel_tail_calm = castle
+#b_eel_tail_calm_2 = city
+#b_eel_tail_calm_3 = temple
+#b_eel_tail_calm_4 = castle
+#b_eel_tail_calm_5 = city
+#b_eel_tail_calm_6 = temple
+#b_eel_tail_calm_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

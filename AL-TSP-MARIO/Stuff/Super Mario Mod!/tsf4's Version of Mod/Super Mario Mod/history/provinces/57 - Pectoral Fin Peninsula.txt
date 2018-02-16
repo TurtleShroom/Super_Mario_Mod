@@ -1,0 +1,21 @@
+# c_pectoral_fin_peninsula
+
+# County Title
+title = c_pectoral_fin_peninsula
+
+# Settlements
+max_settlements = 7
+
+b_pectoral_fin_peninsula = castle
+#b_pectoral_fin_peninsula_2 = city
+#b_pectoral_fin_peninsula_3 = temple
+#b_pectoral_fin_peninsula_4 = castle
+#b_pectoral_fin_peninsula_5 = city
+#b_pectoral_fin_peninsula_6 = temple
+#b_pectoral_fin_peninsula_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

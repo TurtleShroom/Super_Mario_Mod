@@ -1,0 +1,21 @@
+# c_dino_dino_jungle
+
+# County Title
+title = c_dino_dino_jungle
+
+# Settlements
+max_settlements = 7
+
+b_dino_dino_jungle = castle
+#b_dino_dino_jungle_2 = city
+#b_dino_dino_jungle_3 = temple
+#b_dino_dino_jungle_4 = castle
+#b_dino_dino_jungle_5 = city
+#b_dino_dino_jungle_6 = temple
+#b_dino_dino_jungle_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

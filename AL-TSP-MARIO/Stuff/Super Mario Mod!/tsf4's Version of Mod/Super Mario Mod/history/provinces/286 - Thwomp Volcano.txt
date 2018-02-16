@@ -1,0 +1,21 @@
+# c_thwomp_volcano
+
+# County Title
+title = c_thwomp_volcano
+
+# Settlements
+max_settlements = 7
+
+b_thwomp_volcano = castle
+#b_thwomp_volcano_2 = city
+#b_thwomp_volcano_3 = temple
+#b_thwomp_volcano_4 = castle
+#b_thwomp_volcano_5 = city
+#b_thwomp_volcano_6 = temple
+#b_thwomp_volcano_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

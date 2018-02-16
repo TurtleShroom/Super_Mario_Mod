@@ -1,0 +1,21 @@
+# c_rock_candy_mines
+
+# County Title
+title = c_rock_candy_mines
+
+# Settlements
+max_settlements = 7
+
+b_rock_candy_mines = castle
+#b_rock_candy_mines_2 = city
+#b_rock_candy_mines_3 = temple
+#b_rock_candy_mines_4 = castle
+#b_rock_candy_mines_5 = city
+#b_rock_candy_mines_6 = temple
+#b_rock_candy_mines_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_freshwater_beach
+
+# County Title
+title = c_freshwater_beach
+
+# Settlements
+max_settlements = 7
+
+b_freshwater_beach = castle
+#b_freshwater_beach_2 = city
+#b_freshwater_beach_3 = temple
+#b_freshwater_beach_4 = castle
+#b_freshwater_beach_5 = city
+#b_freshwater_beach_6 = temple
+#b_freshwater_beach_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

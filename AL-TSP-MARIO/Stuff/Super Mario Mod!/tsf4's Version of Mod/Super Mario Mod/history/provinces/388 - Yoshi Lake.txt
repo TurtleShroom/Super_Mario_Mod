@@ -1,0 +1,21 @@
+# c_yoshi_lake
+
+# County Title
+title = c_yoshi_lake
+
+# Settlements
+max_settlements = 7
+
+b_yoshi_lake = castle
+#b_yoshi_lake_2 = city
+#b_yoshi_lake_3 = temple
+#b_yoshi_lake_4 = castle
+#b_yoshi_lake_5 = city
+#b_yoshi_lake_6 = temple
+#b_yoshi_lake_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

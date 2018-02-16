@@ -1,0 +1,21 @@
+# c_madcap_mine
+
+# County Title
+title = c_madcap_mine
+
+# Settlements
+max_settlements = 7
+
+b_madcap_mine = castle
+#b_madcap_mine_2 = city
+#b_madcap_mine_3 = temple
+#b_madcap_mine_4 = castle
+#b_madcap_mine_5 = city
+#b_madcap_mine_6 = temple
+#b_madcap_mine_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

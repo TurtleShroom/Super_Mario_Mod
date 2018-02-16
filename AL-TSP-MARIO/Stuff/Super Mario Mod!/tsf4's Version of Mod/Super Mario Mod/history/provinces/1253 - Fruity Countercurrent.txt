@@ -1,0 +1,21 @@
+# c_fruity_countercurrent
+
+# County Title
+title = c_fruity_countercurrent
+
+# Settlements
+max_settlements = 7
+
+b_fruity_countercurrent = castle
+#b_fruity_countercurrent_2 = city
+#b_fruity_countercurrent_3 = temple
+#b_fruity_countercurrent_4 = castle
+#b_fruity_countercurrent_5 = city
+#b_fruity_countercurrent_6 = temple
+#b_fruity_countercurrent_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_last_refuge
+
+# County Title
+title = c_last_refuge
+
+# Settlements
+max_settlements = 7
+
+b_last_refuge = castle
+#b_last_refuge_2 = city
+#b_last_refuge_3 = temple
+#b_last_refuge_4 = castle
+#b_last_refuge_5 = city
+#b_last_refuge_6 = temple
+#b_last_refuge_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

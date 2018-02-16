@@ -1,0 +1,21 @@
+# c_jeopardy_jungle
+
+# County Title
+title = c_jeopardy_jungle
+
+# Settlements
+max_settlements = 7
+
+b_jeopardy_jungle = castle
+#b_jeopardy_jungle_2 = city
+#b_jeopardy_jungle_3 = temple
+#b_jeopardy_jungle_4 = castle
+#b_jeopardy_jungle_5 = city
+#b_jeopardy_jungle_6 = temple
+#b_jeopardy_jungle_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

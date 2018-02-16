@@ -1,0 +1,21 @@
+# c_cheep_cheep_shoals
+
+# County Title
+title = c_cheep_cheep_shoals
+
+# Settlements
+max_settlements = 7
+
+b_cheep_cheep_shoals = castle
+#b_cheep_cheep_shoals_2 = city
+#b_cheep_cheep_shoals_3 = temple
+#b_cheep_cheep_shoals_4 = castle
+#b_cheep_cheep_shoals_5 = city
+#b_cheep_cheep_shoals_6 = temple
+#b_cheep_cheep_shoals_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

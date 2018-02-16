@@ -1,0 +1,21 @@
+# c_cayenne_cove
+
+# County Title
+title = c_cayenne_cove
+
+# Settlements
+max_settlements = 7
+
+b_cayenne_cove = castle
+#b_cayenne_cove_2 = city
+#b_cayenne_cove_3 = temple
+#b_cayenne_cove_4 = castle
+#b_cayenne_cove_5 = city
+#b_cayenne_cove_6 = temple
+#b_cayenne_cove_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_wigglers_woods
+
+# County Title
+title = c_wigglers_woods
+
+# Settlements
+max_settlements = 7
+
+b_wigglers_woods = castle
+#b_wigglers_woods_2 = city
+#b_wigglers_woods_3 = temple
+#b_wigglers_woods_4 = castle
+#b_wigglers_woods_5 = city
+#b_wigglers_woods_6 = temple
+#b_wigglers_woods_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_koopa_cape_2
+
+# County Title
+title = c_koopa_cape_2
+
+# Settlements
+max_settlements = 7
+
+b_koopa_cape_8 = castle
+#b_koopa_cape_9 = city
+#b_koopa_cape_10 = temple
+#b_koopa_cape_11 = castle
+#b_koopa_cape_12 = city
+#b_koopa_cape_13 = temple
+#b_koopa_cape_14 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

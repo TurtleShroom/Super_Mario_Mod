@@ -1,0 +1,21 @@
+# c_kremwood_forest
+
+# County Title
+title = c_kremwood_forest
+
+# Settlements
+max_settlements = 7
+
+b_kremwood_forest = castle
+#b_kremwood_forest_2 = city
+#b_kremwood_forest_3 = temple
+#b_kremwood_forest_4 = castle
+#b_kremwood_forest_5 = city
+#b_kremwood_forest_6 = temple
+#b_kremwood_forest_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

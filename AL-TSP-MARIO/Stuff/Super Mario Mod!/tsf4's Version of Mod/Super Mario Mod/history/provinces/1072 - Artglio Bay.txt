@@ -1,0 +1,21 @@
+# c_artglio_bay
+
+# County Title
+title = c_artglio_bay
+
+# Settlements
+max_settlements = 7
+
+b_artglio_bay = castle
+#b_artglio_bay_2 = city
+#b_artglio_bay_3 = temple
+#b_artglio_bay_4 = castle
+#b_artglio_bay_5 = city
+#b_artglio_bay_6 = temple
+#b_artglio_bay_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

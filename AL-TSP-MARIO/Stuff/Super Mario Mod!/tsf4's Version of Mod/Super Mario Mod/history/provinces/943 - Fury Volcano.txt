@@ -1,0 +1,21 @@
+# c_fury_volcano
+
+# County Title
+title = c_fury_volcano
+
+# Settlements
+max_settlements = 7
+
+b_fury_volcano = castle
+#b_fury_volcano_2 = city
+#b_fury_volcano_3 = temple
+#b_fury_volcano_4 = castle
+#b_fury_volcano_5 = city
+#b_fury_volcano_6 = temple
+#b_fury_volcano_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

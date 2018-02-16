@@ -1,0 +1,21 @@
+# c_guffawha_ruins
+
+# County Title
+title = c_guffawha_ruins
+
+# Settlements
+max_settlements = 7
+
+b_guffawha_ruins = castle
+#b_guffawha_ruins_2 = city
+#b_guffawha_ruins_3 = temple
+#b_guffawha_ruins_4 = castle
+#b_guffawha_ruins_5 = city
+#b_guffawha_ruins_6 = temple
+#b_guffawha_ruins_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

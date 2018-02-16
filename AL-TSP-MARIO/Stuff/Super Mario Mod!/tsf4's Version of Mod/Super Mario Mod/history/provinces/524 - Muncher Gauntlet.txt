@@ -1,0 +1,21 @@
+# c_muncher_gauntlet
+
+# County Title
+title = c_muncher_gauntlet
+
+# Settlements
+max_settlements = 7
+
+b_muncher_gauntlet = castle
+#b_muncher_gauntlet_2 = city
+#b_muncher_gauntlet_3 = temple
+#b_muncher_gauntlet_4 = castle
+#b_muncher_gauntlet_5 = city
+#b_muncher_gauntlet_6 = temple
+#b_muncher_gauntlet_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

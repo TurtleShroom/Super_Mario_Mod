@@ -1,0 +1,21 @@
+# c_rare_approach_dead_zone
+
+# County Title
+title = c_rare_approach_dead_zone
+
+# Settlements
+max_settlements = 7
+
+b_rare_approach_dead_zone = castle
+#b_rare_approach_dead_zone_2 = city
+#b_rare_approach_dead_zone_3 = temple
+#b_rare_approach_dead_zone_4 = castle
+#b_rare_approach_dead_zone_5 = city
+#b_rare_approach_dead_zone_6 = temple
+#b_rare_approach_dead_zone_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

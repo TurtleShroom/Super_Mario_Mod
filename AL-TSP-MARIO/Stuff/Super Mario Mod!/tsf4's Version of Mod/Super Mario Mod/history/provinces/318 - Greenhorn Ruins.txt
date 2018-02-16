@@ -1,0 +1,21 @@
+# c_greenhorn_ruins
+
+# County Title
+title = c_greenhorn_ruins
+
+# Settlements
+max_settlements = 7
+
+b_greenhorn_ruins = castle
+#b_greenhorn_ruins_2 = city
+#b_greenhorn_ruins_3 = temple
+#b_greenhorn_ruins_4 = castle
+#b_greenhorn_ruins_5 = city
+#b_greenhorn_ruins_6 = temple
+#b_greenhorn_ruins_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

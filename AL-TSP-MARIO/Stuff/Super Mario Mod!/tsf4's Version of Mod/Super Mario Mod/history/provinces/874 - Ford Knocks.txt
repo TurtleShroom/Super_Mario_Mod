@@ -1,0 +1,21 @@
+# c_ford_knocks
+
+# County Title
+title = c_ford_knocks
+
+# Settlements
+max_settlements = 7
+
+b_ford_knocks = castle
+#b_ford_knocks_2 = city
+#b_ford_knocks_3 = temple
+#b_ford_knocks_4 = castle
+#b_ford_knocks_5 = city
+#b_ford_knocks_6 = temple
+#b_ford_knocks_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

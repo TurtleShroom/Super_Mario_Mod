@@ -1,0 +1,21 @@
+# c_booster_tower
+
+# County Title
+title = c_booster_tower
+
+# Settlements
+max_settlements = 7
+
+b_booster_tower = castle
+#b_booster_tower_2 = city
+#b_booster_tower_3 = temple
+#b_booster_tower_4 = castle
+#b_booster_tower_5 = city
+#b_booster_tower_6 = temple
+#b_booster_tower_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

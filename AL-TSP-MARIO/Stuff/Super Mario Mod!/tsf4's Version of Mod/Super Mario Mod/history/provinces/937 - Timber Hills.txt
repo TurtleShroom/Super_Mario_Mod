@@ -1,0 +1,21 @@
+# c_timber_hills
+
+# County Title
+title = c_timber_hills
+
+# Settlements
+max_settlements = 7
+
+b_timber_hills = castle
+#b_timber_hills_2 = city
+#b_timber_hills_3 = temple
+#b_timber_hills_4 = castle
+#b_timber_hills_5 = city
+#b_timber_hills_6 = temple
+#b_timber_hills_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

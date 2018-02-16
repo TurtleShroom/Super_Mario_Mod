@@ -1,0 +1,21 @@
+# c_north_cavi_cape
+
+# County Title
+title = c_north_cavi_cape
+
+# Settlements
+max_settlements = 7
+
+b_north_cavi_cape = castle
+#b_north_cavi_cape_2 = city
+#b_north_cavi_cape_3 = temple
+#b_north_cavi_cape_4 = castle
+#b_north_cavi_cape_5 = city
+#b_north_cavi_cape_6 = temple
+#b_north_cavi_cape_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

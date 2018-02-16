@@ -1,0 +1,21 @@
+# c_mount_pajamaja
+
+# County Title
+title = c_mount_pajamaja
+
+# Settlements
+max_settlements = 7
+
+b_mount_pajamaja = castle
+#b_mount_pajamaja_2 = city
+#b_mount_pajamaja_3 = temple
+#b_mount_pajamaja_4 = castle
+#b_mount_pajamaja_5 = city
+#b_mount_pajamaja_6 = temple
+#b_mount_pajamaja_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

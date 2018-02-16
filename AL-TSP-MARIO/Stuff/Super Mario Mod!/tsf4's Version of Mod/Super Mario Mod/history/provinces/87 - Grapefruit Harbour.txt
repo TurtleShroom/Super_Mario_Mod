@@ -1,0 +1,21 @@
+# c_grapefruit_harbour
+
+# County Title
+title = c_grapefruit_harbour
+
+# Settlements
+max_settlements = 7
+
+b_grapefruit_harbour = castle
+#b_grapefruit_harbour_2 = city
+#b_grapefruit_harbour_3 = temple
+#b_grapefruit_harbour_4 = castle
+#b_grapefruit_harbour_5 = city
+#b_grapefruit_harbour_6 = temple
+#b_grapefruit_harbour_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

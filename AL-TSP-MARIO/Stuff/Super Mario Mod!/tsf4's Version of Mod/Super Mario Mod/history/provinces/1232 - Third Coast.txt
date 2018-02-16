@@ -1,0 +1,21 @@
+# c_third_coast
+
+# County Title
+title = c_third_coast
+
+# Settlements
+max_settlements = 7
+
+b_third_coast = castle
+#b_third_coast_2 = city
+#b_third_coast_3 = temple
+#b_third_coast_4 = castle
+#b_third_coast_5 = city
+#b_third_coast_6 = temple
+#b_third_coast_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

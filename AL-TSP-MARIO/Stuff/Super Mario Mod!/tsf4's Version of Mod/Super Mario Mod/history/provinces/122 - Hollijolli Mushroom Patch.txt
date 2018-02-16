@@ -1,0 +1,21 @@
+# c_hollijolli_mushroom_patch
+
+# County Title
+title = c_hollijolli_mushroom_patch
+
+# Settlements
+max_settlements = 7
+
+b_hollijolli_mushroom_patch = castle
+#b_hollijolli_mushroom_patch_2 = city
+#b_hollijolli_mushroom_patch_3 = temple
+#b_hollijolli_mushroom_patch_4 = castle
+#b_hollijolli_mushroom_patch_5 = city
+#b_hollijolli_mushroom_patch_6 = temple
+#b_hollijolli_mushroom_patch_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

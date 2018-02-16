@@ -1,0 +1,21 @@
+# c_sky_garden
+
+# County Title
+title = c_sky_garden
+
+# Settlements
+max_settlements = 7
+
+b_sky_garden = castle
+#b_sky_garden_2 = city
+#b_sky_garden_3 = temple
+#b_sky_garden_4 = castle
+#b_sky_garden_5 = city
+#b_sky_garden_6 = temple
+#b_sky_garden_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

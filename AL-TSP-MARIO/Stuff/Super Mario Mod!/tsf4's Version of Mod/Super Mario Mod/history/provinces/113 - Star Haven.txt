@@ -1,0 +1,21 @@
+# c_star_haven
+
+# County Title
+title = c_star_haven
+
+# Settlements
+max_settlements = 7
+
+b_star_haven = castle
+#b_star_haven_2 = city
+#b_star_haven_3 = temple
+#b_star_haven_4 = castle
+#b_star_haven_5 = city
+#b_star_haven_6 = temple
+#b_star_haven_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

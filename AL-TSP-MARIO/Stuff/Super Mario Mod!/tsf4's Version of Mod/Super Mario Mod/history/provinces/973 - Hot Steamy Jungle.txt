@@ -1,0 +1,21 @@
+# c_hot_steamy_jungle
+
+# County Title
+title = c_hot_steamy_jungle
+
+# Settlements
+max_settlements = 7
+
+b_hot_steamy_jungle = castle
+#b_hot_steamy_jungle_2 = city
+#b_hot_steamy_jungle_3 = temple
+#b_hot_steamy_jungle_4 = castle
+#b_hot_steamy_jungle_5 = city
+#b_hot_steamy_jungle_6 = temple
+#b_hot_steamy_jungle_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

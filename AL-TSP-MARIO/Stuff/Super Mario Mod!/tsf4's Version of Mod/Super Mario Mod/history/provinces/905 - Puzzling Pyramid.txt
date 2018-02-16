@@ -1,0 +1,21 @@
+# c_puzzling_pyramid
+
+# County Title
+title = c_puzzling_pyramid
+
+# Settlements
+max_settlements = 7
+
+b_puzzling_pyramid = castle
+#b_puzzling_pyramid_2 = city
+#b_puzzling_pyramid_3 = temple
+#b_puzzling_pyramid_4 = castle
+#b_puzzling_pyramid_5 = city
+#b_puzzling_pyramid_6 = temple
+#b_puzzling_pyramid_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

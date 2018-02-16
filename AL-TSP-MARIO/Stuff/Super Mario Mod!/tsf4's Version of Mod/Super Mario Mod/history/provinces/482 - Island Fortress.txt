@@ -1,0 +1,21 @@
+# c_island_fortress
+
+# County Title
+title = c_island_fortress
+
+# Settlements
+max_settlements = 7
+
+b_island_fortress = castle
+#b_island_fortress_2 = city
+#b_island_fortress_3 = temple
+#b_island_fortress_4 = castle
+#b_island_fortress_5 = city
+#b_island_fortress_6 = temple
+#b_island_fortress_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

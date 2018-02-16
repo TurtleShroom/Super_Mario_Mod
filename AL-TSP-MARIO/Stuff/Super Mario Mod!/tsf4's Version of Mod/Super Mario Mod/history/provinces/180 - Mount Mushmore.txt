@@ -1,0 +1,21 @@
+# c_mount_mushmore
+
+# County Title
+title = c_mount_mushmore
+
+# Settlements
+max_settlements = 7
+
+b_mount_mushmore = castle
+#b_mount_mushmore_2 = city
+#b_mount_mushmore_3 = temple
+#b_mount_mushmore_4 = castle
+#b_mount_mushmore_5 = city
+#b_mount_mushmore_6 = temple
+#b_mount_mushmore_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

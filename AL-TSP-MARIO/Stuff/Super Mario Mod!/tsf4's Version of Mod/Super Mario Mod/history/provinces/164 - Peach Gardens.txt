@@ -1,0 +1,21 @@
+# c_peach_gardens
+
+# County Title
+title = c_peach_gardens
+
+# Settlements
+max_settlements = 7
+
+b_peach_gardens = castle
+#b_peach_gardens_2 = city
+#b_peach_gardens_3 = temple
+#b_peach_gardens_4 = castle
+#b_peach_gardens_5 = city
+#b_peach_gardens_6 = temple
+#b_peach_gardens_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

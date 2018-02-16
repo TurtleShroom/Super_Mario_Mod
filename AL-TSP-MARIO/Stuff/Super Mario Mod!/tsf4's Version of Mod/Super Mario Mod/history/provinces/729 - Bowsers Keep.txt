@@ -1,0 +1,21 @@
+# c_bowsers_keep
+
+# County Title
+title = c_bowsers_keep
+
+# Settlements
+max_settlements = 7
+
+b_bowsers_keep = castle
+#b_bowsers_keep_2 = city
+#b_bowsers_keep_3 = temple
+#b_bowsers_keep_4 = castle
+#b_bowsers_keep_5 = city
+#b_bowsers_keep_6 = temple
+#b_bowsers_keep_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

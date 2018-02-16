@@ -1,0 +1,21 @@
+# c_hollijolli_village
+
+# County Title
+title = c_hollijolli_village
+
+# Settlements
+max_settlements = 7
+
+b_hollijolli_village = castle
+#b_hollijolli_village_2 = city
+#b_hollijolli_village_3 = temple
+#b_hollijolli_village_4 = castle
+#b_hollijolli_village_5 = city
+#b_hollijolli_village_6 = temple
+#b_hollijolli_village_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

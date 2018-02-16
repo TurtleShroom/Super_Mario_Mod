@@ -1,0 +1,21 @@
+# c_jungle_ruins
+
+# County Title
+title = c_jungle_ruins
+
+# Settlements
+max_settlements = 7
+
+b_jungle_ruins = castle
+#b_jungle_ruins_2 = city
+#b_jungle_ruins_3 = temple
+#b_jungle_ruins_4 = castle
+#b_jungle_ruins_5 = city
+#b_jungle_ruins_6 = temple
+#b_jungle_ruins_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

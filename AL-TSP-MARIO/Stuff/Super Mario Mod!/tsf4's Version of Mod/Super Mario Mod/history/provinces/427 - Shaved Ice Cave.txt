@@ -1,0 +1,21 @@
+# c_shaved_ice_cave
+
+# County Title
+title = c_shaved_ice_cave
+
+# Settlements
+max_settlements = 7
+
+b_shaved_ice_cave = castle
+#b_shaved_ice_cave_2 = city
+#b_shaved_ice_cave_3 = temple
+#b_shaved_ice_cave_4 = castle
+#b_shaved_ice_cave_5 = city
+#b_shaved_ice_cave_6 = temple
+#b_shaved_ice_cave_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

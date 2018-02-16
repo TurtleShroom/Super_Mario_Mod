@@ -1,0 +1,21 @@
+# c_chilly_waters
+
+# County Title
+title = c_chilly_waters
+
+# Settlements
+max_settlements = 7
+
+b_chilly_waters = castle
+#b_chilly_waters_2 = city
+#b_chilly_waters_3 = temple
+#b_chilly_waters_4 = castle
+#b_chilly_waters_5 = city
+#b_chilly_waters_6 = temple
+#b_chilly_waters_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

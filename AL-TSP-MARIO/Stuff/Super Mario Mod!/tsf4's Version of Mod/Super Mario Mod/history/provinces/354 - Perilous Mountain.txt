@@ -1,0 +1,21 @@
+# c_perilous_mountain
+
+# County Title
+title = c_perilous_mountain
+
+# Settlements
+max_settlements = 7
+
+b_perilous_mountain = castle
+#b_perilous_mountain_2 = city
+#b_perilous_mountain_3 = temple
+#b_perilous_mountain_4 = castle
+#b_perilous_mountain_5 = city
+#b_perilous_mountain_6 = temple
+#b_perilous_mountain_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

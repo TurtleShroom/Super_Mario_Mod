@@ -1,0 +1,21 @@
+# c_tree_zone
+
+# County Title
+title = c_tree_zone
+
+# Settlements
+max_settlements = 7
+
+b_tree_zone = castle
+#b_tree_zone_2 = city
+#b_tree_zone_3 = temple
+#b_tree_zone_4 = castle
+#b_tree_zone_5 = city
+#b_tree_zone_6 = temple
+#b_tree_zone_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

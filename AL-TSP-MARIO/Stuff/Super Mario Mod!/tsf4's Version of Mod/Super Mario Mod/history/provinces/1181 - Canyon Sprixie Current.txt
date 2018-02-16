@@ -1,0 +1,21 @@
+# c_canyon_sprixie_current
+
+# County Title
+title = c_canyon_sprixie_current
+
+# Settlements
+max_settlements = 7
+
+b_canyon_sprixie_current = castle
+#b_canyon_sprixie_current_2 = city
+#b_canyon_sprixie_current_3 = temple
+#b_canyon_sprixie_current_4 = castle
+#b_canyon_sprixie_current_5 = city
+#b_canyon_sprixie_current_6 = temple
+#b_canyon_sprixie_current_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

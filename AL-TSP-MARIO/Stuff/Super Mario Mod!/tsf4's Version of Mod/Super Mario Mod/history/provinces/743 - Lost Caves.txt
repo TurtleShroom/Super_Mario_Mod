@@ -1,0 +1,21 @@
+# c_lost_caves
+
+# County Title
+title = c_lost_caves
+
+# Settlements
+max_settlements = 7
+
+b_lost_caves = castle
+#b_lost_caves_2 = city
+#b_lost_caves_3 = temple
+#b_lost_caves_4 = castle
+#b_lost_caves_5 = city
+#b_lost_caves_6 = temple
+#b_lost_caves_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

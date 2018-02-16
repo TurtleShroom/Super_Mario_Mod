@@ -1,0 +1,21 @@
+# c_pumpkin_zone
+
+# County Title
+title = c_pumpkin_zone
+
+# Settlements
+max_settlements = 7
+
+b_pumpkin_zone = castle
+#b_pumpkin_zone_2 = city
+#b_pumpkin_zone_3 = temple
+#b_pumpkin_zone_4 = castle
+#b_pumpkin_zone_5 = city
+#b_pumpkin_zone_6 = temple
+#b_pumpkin_zone_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

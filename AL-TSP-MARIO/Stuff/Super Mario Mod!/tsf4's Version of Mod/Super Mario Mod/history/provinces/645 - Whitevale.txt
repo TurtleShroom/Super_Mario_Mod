@@ -1,0 +1,21 @@
+# c_whitevale
+
+# County Title
+title = c_whitevale
+
+# Settlements
+max_settlements = 7
+
+b_whitevale = castle
+#b_whitevale_2 = city
+#b_whitevale_3 = temple
+#b_whitevale_4 = castle
+#b_whitevale_5 = city
+#b_whitevale_6 = temple
+#b_whitevale_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

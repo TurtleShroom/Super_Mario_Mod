@@ -1,0 +1,7 @@
+
+1984.9.13=
+{
+	holder = 9960004
+	liege = d_angelfish_island
+}
+

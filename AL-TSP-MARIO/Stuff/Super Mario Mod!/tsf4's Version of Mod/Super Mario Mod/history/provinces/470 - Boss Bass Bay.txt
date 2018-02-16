@@ -1,0 +1,21 @@
+# c_boss_bass_bay
+
+# County Title
+title = c_boss_bass_bay
+
+# Settlements
+max_settlements = 7
+
+b_boss_bass_bay = castle
+#b_boss_bass_bay_2 = city
+#b_boss_bass_bay_3 = temple
+#b_boss_bass_bay_4 = castle
+#b_boss_bass_bay_5 = city
+#b_boss_bass_bay_6 = temple
+#b_boss_bass_bay_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

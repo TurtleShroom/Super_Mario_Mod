@@ -1,0 +1,21 @@
+# c_clamshell_riverbank
+
+# County Title
+title = c_clamshell_riverbank
+
+# Settlements
+max_settlements = 7
+
+b_clamshell_riverbank = castle
+#b_clamshell_riverbank_2 = city
+#b_clamshell_riverbank_3 = temple
+#b_clamshell_riverbank_4 = castle
+#b_clamshell_riverbank_5 = city
+#b_clamshell_riverbank_6 = temple
+#b_clamshell_riverbank_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

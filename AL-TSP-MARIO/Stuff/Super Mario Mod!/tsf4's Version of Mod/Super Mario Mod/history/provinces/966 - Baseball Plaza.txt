@@ -1,0 +1,21 @@
+# c_baseball_plaza
+
+# County Title
+title = c_baseball_plaza
+
+# Settlements
+max_settlements = 7
+
+b_baseball_plaza = castle
+#b_baseball_plaza_2 = city
+#b_baseball_plaza_3 = temple
+#b_baseball_plaza_4 = castle
+#b_baseball_plaza_5 = city
+#b_baseball_plaza_6 = temple
+#b_baseball_plaza_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_grand_canal
+
+# County Title
+title = c_grand_canal
+
+# Settlements
+max_settlements = 7
+
+b_grand_canal = castle
+#b_grand_canal_2 = city
+#b_grand_canal_3 = temple
+#b_grand_canal_4 = castle
+#b_grand_canal_5 = city
+#b_grand_canal_6 = temple
+#b_grand_canal_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

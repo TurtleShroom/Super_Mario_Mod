@@ -1,0 +1,21 @@
+# c_frostown
+
+# County Title
+title = c_frostown
+
+# Settlements
+max_settlements = 7
+
+b_frostown = castle
+#b_frostown_2 = city
+#b_frostown_3 = temple
+#b_frostown_4 = castle
+#b_frostown_5 = city
+#b_frostown_6 = temple
+#b_frostown_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

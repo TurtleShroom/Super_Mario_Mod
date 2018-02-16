@@ -1,0 +1,21 @@
+# c_maple_treeway
+
+# County Title
+title = c_maple_treeway
+
+# Settlements
+max_settlements = 7
+
+b_maple_treeway = castle
+#b_maple_treeway_2 = city
+#b_maple_treeway_3 = temple
+#b_maple_treeway_4 = castle
+#b_maple_treeway_5 = city
+#b_maple_treeway_6 = temple
+#b_maple_treeway_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

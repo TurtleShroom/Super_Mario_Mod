@@ -1,0 +1,21 @@
+# c_yoster_island
+
+# County Title
+title = c_yoster_island
+
+# Settlements
+max_settlements = 7
+
+b_yoster_island = castle
+#b_yoster_island_2 = city
+#b_yoster_island_3 = temple
+#b_yoster_island_4 = castle
+#b_yoster_island_5 = city
+#b_yoster_island_6 = temple
+#b_yoster_island_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

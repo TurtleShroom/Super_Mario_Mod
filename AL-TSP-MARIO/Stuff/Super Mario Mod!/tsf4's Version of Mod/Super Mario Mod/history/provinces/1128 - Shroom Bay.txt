@@ -1,0 +1,21 @@
+# c_shroom_bay
+
+# County Title
+title = c_shroom_bay
+
+# Settlements
+max_settlements = 7
+
+b_shroom_bay = castle
+#b_shroom_bay_2 = city
+#b_shroom_bay_3 = temple
+#b_shroom_bay_4 = castle
+#b_shroom_bay_5 = city
+#b_shroom_bay_6 = temple
+#b_shroom_bay_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

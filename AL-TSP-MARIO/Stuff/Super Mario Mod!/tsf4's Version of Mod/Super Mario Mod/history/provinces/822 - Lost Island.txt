@@ -1,0 +1,21 @@
+# c_lost_island
+
+# County Title
+title = c_lost_island
+
+# Settlements
+max_settlements = 7
+
+b_lost_island = castle
+#b_lost_island_2 = city
+#b_lost_island_3 = temple
+#b_lost_island_4 = castle
+#b_lost_island_5 = city
+#b_lost_island_6 = temple
+#b_lost_island_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

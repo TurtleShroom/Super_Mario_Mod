@@ -1,0 +1,21 @@
+# c_mount_wario
+
+# County Title
+title = c_mount_wario
+
+# Settlements
+max_settlements = 7
+
+b_mount_wario = castle
+#b_mount_wario_2 = city
+#b_mount_wario_3 = temple
+#b_mount_wario_4 = castle
+#b_mount_wario_5 = city
+#b_mount_wario_6 = temple
+#b_mount_wario_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

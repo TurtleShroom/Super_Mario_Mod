@@ -1,0 +1,21 @@
+# c_isle_embricata
+
+# County Title
+title = c_isle_embricata
+
+# Settlements
+max_settlements = 7
+
+b_isle_embricata = castle
+#b_isle_embricata_2 = city
+#b_isle_embricata_3 = temple
+#b_isle_embricata_4 = castle
+#b_isle_embricata_5 = city
+#b_isle_embricata_6 = temple
+#b_isle_embricata_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

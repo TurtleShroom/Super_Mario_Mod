@@ -1,0 +1,21 @@
+# c_yosu_lake
+
+# County Title
+title = c_yosu_lake
+
+# Settlements
+max_settlements = 7
+
+b_yosu_lake = castle
+#b_yosu_lake_2 = city
+#b_yosu_lake_3 = temple
+#b_yosu_lake_4 = castle
+#b_yosu_lake_5 = city
+#b_yosu_lake_6 = temple
+#b_yosu_lake_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

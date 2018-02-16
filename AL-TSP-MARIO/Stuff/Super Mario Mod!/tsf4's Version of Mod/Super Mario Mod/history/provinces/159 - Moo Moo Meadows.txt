@@ -1,0 +1,21 @@
+# c_moo_moo_meadows
+
+# County Title
+title = c_moo_moo_meadows
+
+# Settlements
+max_settlements = 7
+
+b_moo_moo_meadows = castle
+#b_moo_moo_meadows_2 = city
+#b_moo_moo_meadows_3 = temple
+#b_moo_moo_meadows_4 = castle
+#b_moo_moo_meadows_5 = city
+#b_moo_moo_meadows_6 = temple
+#b_moo_moo_meadows_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

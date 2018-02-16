@@ -1,0 +1,21 @@
+# c_linguine_land
+
+# County Title
+title = c_linguine_land
+
+# Settlements
+max_settlements = 7
+
+b_linguine_land = castle
+#b_linguine_land_2 = city
+#b_linguine_land_3 = temple
+#b_linguine_land_4 = castle
+#b_linguine_land_5 = city
+#b_linguine_land_6 = temple
+#b_linguine_land_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

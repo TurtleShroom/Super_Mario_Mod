@@ -1,0 +1,21 @@
+# c_silent_mountains
+
+# County Title
+title = c_silent_mountains
+
+# Settlements
+max_settlements = 7
+
+b_silent_mountains = castle
+#b_silent_mountains_2 = city
+#b_silent_mountains_3 = temple
+#b_silent_mountains_4 = castle
+#b_silent_mountains_5 = city
+#b_silent_mountains_6 = temple
+#b_silent_mountains_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_western_land
+
+# County Title
+title = c_western_land
+
+# Settlements
+max_settlements = 7
+
+b_western_land = castle
+#b_western_land_2 = city
+#b_western_land_3 = temple
+#b_western_land_4 = castle
+#b_western_land_5 = city
+#b_western_land_6 = temple
+#b_western_land_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

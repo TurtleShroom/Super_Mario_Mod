@@ -1,0 +1,29 @@
+##########################################################################
+#				Mario Mod traits and bugs
+##########################################################################
+#				Written by Shawn Gordon - aka AvroLancaster
+##########################################################################
+
+happiness_religion_trait = {
+
+	potential = {
+		religion = happiness
+	}
+	religious = yes
+	#infidel_opinion = 35
+	#same_religion_opinion = 40
+	ai_ambition = -50
+	same_opinion = 5  #Same trait works, the rest of the opinion modifiers are bugged to shit
+}
+
+greed_religion_trait = {
+
+	potential = {
+		religion = greed
+	}
+	religious = yes
+	ai_greed = 50
+	infidel_opinion = -10
+	same_opinion = 5 
+}
+

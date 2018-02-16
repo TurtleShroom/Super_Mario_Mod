@@ -1,0 +1,21 @@
+# c_city_of_thieves
+
+# County Title
+title = c_city_of_thieves
+
+# Settlements
+max_settlements = 7
+
+b_city_of_thieves = castle
+#b_city_of_thieves_2 = city
+#b_city_of_thieves_3 = temple
+#b_city_of_thieves_4 = castle
+#b_city_of_thieves_5 = city
+#b_city_of_thieves_6 = temple
+#b_city_of_thieves_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

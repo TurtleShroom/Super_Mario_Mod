@@ -1,0 +1,21 @@
+# c_temple_of_form
+
+# County Title
+title = c_temple_of_form
+
+# Settlements
+max_settlements = 7
+
+b_temple_of_form = castle
+#b_temple_of_form_2 = city
+#b_temple_of_form_3 = temple
+#b_temple_of_form_4 = castle
+#b_temple_of_form_5 = city
+#b_temple_of_form_6 = temple
+#b_temple_of_form_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

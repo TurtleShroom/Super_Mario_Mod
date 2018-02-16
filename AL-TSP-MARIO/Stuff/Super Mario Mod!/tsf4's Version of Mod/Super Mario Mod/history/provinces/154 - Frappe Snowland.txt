@@ -1,0 +1,21 @@
+# c_frappe_snowland
+
+# County Title
+title = c_frappe_snowland
+
+# Settlements
+max_settlements = 7
+
+b_frappe_snowland = castle
+#b_frappe_snowland_2 = city
+#b_frappe_snowland_3 = temple
+#b_frappe_snowland_4 = castle
+#b_frappe_snowland_5 = city
+#b_frappe_snowland_6 = temple
+#b_frappe_snowland_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

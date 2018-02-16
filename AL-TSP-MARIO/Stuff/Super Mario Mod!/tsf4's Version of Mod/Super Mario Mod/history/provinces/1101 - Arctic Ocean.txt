@@ -1,0 +1,21 @@
+# c_arctic_ocean
+
+# County Title
+title = c_arctic_ocean
+
+# Settlements
+max_settlements = 7
+
+b_arctic_ocean = castle
+#b_arctic_ocean_2 = city
+#b_arctic_ocean_3 = temple
+#b_arctic_ocean_4 = castle
+#b_arctic_ocean_5 = city
+#b_arctic_ocean_6 = temple
+#b_arctic_ocean_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

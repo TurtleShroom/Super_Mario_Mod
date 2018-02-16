@@ -1,0 +1,21 @@
+# c_rebel_fort
+
+# County Title
+title = c_rebel_fort
+
+# Settlements
+max_settlements = 7
+
+b_rebel_fort = castle
+#b_rebel_fort_2 = city
+#b_rebel_fort_3 = temple
+#b_rebel_fort_4 = castle
+#b_rebel_fort_5 = city
+#b_rebel_fort_6 = temple
+#b_rebel_fort_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

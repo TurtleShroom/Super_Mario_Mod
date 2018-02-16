@@ -1,0 +1,21 @@
+# c_snowflake_straight
+
+# County Title
+title = c_snowflake_straight
+
+# Settlements
+max_settlements = 7
+
+b_snowflake_straight = castle
+#b_snowflake_straight_2 = city
+#b_snowflake_straight_3 = temple
+#b_snowflake_straight_4 = castle
+#b_snowflake_straight_5 = city
+#b_snowflake_straight_6 = temple
+#b_snowflake_straight_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

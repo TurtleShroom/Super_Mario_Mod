@@ -1,0 +1,21 @@
+# c_cheep_cheep_island
+
+# County Title
+title = c_cheep_cheep_island
+
+# Settlements
+max_settlements = 7
+
+b_cheep_cheep_island = castle
+#b_cheep_cheep_island_2 = city
+#b_cheep_cheep_island_3 = temple
+#b_cheep_cheep_island_4 = castle
+#b_cheep_cheep_island_5 = city
+#b_cheep_cheep_island_6 = temple
+#b_cheep_cheep_island_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

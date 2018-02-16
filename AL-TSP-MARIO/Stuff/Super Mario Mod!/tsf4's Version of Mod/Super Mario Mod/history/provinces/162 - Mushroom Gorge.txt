@@ -1,0 +1,21 @@
+# c_mushroom_gorge
+
+# County Title
+title = c_mushroom_gorge
+
+# Settlements
+max_settlements = 7
+
+b_mushroom_gorge = castle
+#b_mushroom_gorge_2 = city
+#b_mushroom_gorge_3 = temple
+#b_mushroom_gorge_4 = castle
+#b_mushroom_gorge_5 = city
+#b_mushroom_gorge_6 = temple
+#b_mushroom_gorge_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

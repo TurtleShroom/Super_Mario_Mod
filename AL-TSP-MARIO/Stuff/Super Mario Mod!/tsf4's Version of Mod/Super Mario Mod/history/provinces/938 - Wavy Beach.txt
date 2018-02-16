@@ -1,0 +1,21 @@
+# c_wavy_beach
+
+# County Title
+title = c_wavy_beach
+
+# Settlements
+max_settlements = 7
+
+b_wavy_beach = castle
+#b_wavy_beach_2 = city
+#b_wavy_beach_3 = temple
+#b_wavy_beach_4 = castle
+#b_wavy_beach_5 = city
+#b_wavy_beach_6 = temple
+#b_wavy_beach_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

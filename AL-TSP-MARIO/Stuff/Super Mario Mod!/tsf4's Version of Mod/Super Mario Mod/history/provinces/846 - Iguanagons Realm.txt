@@ -1,0 +1,21 @@
+# c_iguanagons_realm
+
+# County Title
+title = c_iguanagons_realm
+
+# Settlements
+max_settlements = 7
+
+b_iguanagons_realm = castle
+#b_iguanagons_realm_2 = city
+#b_iguanagons_realm_3 = temple
+#b_iguanagons_realm_4 = castle
+#b_iguanagons_realm_5 = city
+#b_iguanagons_realm_6 = temple
+#b_iguanagons_realm_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

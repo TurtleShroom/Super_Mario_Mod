@@ -1,0 +1,21 @@
+# c_twilight_town
+
+# County Title
+title = c_twilight_town
+
+# Settlements
+max_settlements = 7
+
+b_twilight_town = castle
+#b_twilight_town_2 = city
+#b_twilight_town_3 = temple
+#b_twilight_town_4 = castle
+#b_twilight_town_5 = city
+#b_twilight_town_6 = temple
+#b_twilight_town_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

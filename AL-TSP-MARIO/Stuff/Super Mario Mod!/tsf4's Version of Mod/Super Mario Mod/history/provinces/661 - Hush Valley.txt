@@ -1,0 +1,21 @@
+# c_hush_valley
+
+# County Title
+title = c_hush_valley
+
+# Settlements
+max_settlements = 7
+
+b_hush_valley = castle
+#b_hush_valley_2 = city
+#b_hush_valley_3 = temple
+#b_hush_valley_4 = castle
+#b_hush_valley_5 = city
+#b_hush_valley_6 = temple
+#b_hush_valley_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

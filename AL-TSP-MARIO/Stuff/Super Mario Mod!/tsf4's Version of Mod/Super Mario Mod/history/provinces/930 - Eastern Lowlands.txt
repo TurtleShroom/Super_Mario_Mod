@@ -1,0 +1,21 @@
+# c_eastern_lowlands
+
+# County Title
+title = c_eastern_lowlands
+
+# Settlements
+max_settlements = 7
+
+b_eastern_lowlands = castle
+#b_eastern_lowlands_2 = city
+#b_eastern_lowlands_3 = temple
+#b_eastern_lowlands_4 = castle
+#b_eastern_lowlands_5 = city
+#b_eastern_lowlands_6 = temple
+#b_eastern_lowlands_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

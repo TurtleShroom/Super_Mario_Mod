@@ -1,0 +1,21 @@
+# c_sand_castle
+
+# County Title
+title = c_sand_castle
+
+# Settlements
+max_settlements = 7
+
+b_sand_castle = castle
+#b_sand_castle_2 = city
+#b_sand_castle_3 = temple
+#b_sand_castle_4 = castle
+#b_sand_castle_5 = city
+#b_sand_castle_6 = temple
+#b_sand_castle_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

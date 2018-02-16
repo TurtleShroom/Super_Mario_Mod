@@ -1,0 +1,21 @@
+# c_aurora_glacier
+
+# County Title
+title = c_aurora_glacier
+
+# Settlements
+max_settlements = 7
+
+b_aurora_glacier = castle
+#b_aurora_glacier_2 = city
+#b_aurora_glacier_3 = temple
+#b_aurora_glacier_4 = castle
+#b_aurora_glacier_5 = city
+#b_aurora_glacier_6 = temple
+#b_aurora_glacier_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

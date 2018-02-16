@@ -1,0 +1,21 @@
+# c_grass_land_cliffs
+
+# County Title
+title = c_grass_land_cliffs
+
+# Settlements
+max_settlements = 7
+
+b_grass_land_cliffs = castle
+#b_grass_land_cliffs_2 = city
+#b_grass_land_cliffs_3 = temple
+#b_grass_land_cliffs_4 = castle
+#b_grass_land_cliffs_5 = city
+#b_grass_land_cliffs_6 = temple
+#b_grass_land_cliffs_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

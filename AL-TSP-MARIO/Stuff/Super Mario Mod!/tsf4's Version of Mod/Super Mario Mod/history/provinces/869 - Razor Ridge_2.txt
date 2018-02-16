@@ -1,0 +1,21 @@
+# c_razor_ridge_2
+
+# County Title
+title = c_razor_ridge_2
+
+# Settlements
+max_settlements = 7
+
+b_razor_ridge_8 = castle
+#b_razor_ridge_9 = city
+#b_razor_ridge_10 = temple
+#b_razor_ridge_11 = castle
+#b_razor_ridge_12 = city
+#b_razor_ridge_13 = temple
+#b_razor_ridge_14 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

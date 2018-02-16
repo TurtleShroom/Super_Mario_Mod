@@ -1,0 +1,21 @@
+# c_yoshis_approach
+
+# County Title
+title = c_yoshis_approach
+
+# Settlements
+max_settlements = 7
+
+b_yoshis_approach = castle
+#b_yoshis_approach_2 = city
+#b_yoshis_approach_3 = temple
+#b_yoshis_approach_4 = castle
+#b_yoshis_approach_5 = city
+#b_yoshis_approach_6 = temple
+#b_yoshis_approach_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

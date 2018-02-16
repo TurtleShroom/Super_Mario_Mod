@@ -1,0 +1,21 @@
+# c_cape_codswallop
+
+# County Title
+title = c_cape_codswallop
+
+# Settlements
+max_settlements = 7
+
+b_cape_codswallop = castle
+#b_cape_codswallop_2 = city
+#b_cape_codswallop_3 = temple
+#b_cape_codswallop_4 = castle
+#b_cape_codswallop_5 = city
+#b_cape_codswallop_6 = temple
+#b_cape_codswallop_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

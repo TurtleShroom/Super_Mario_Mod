@@ -1,0 +1,21 @@
+# c_dandy_pier
+
+# County Title
+title = c_dandy_pier
+
+# Settlements
+max_settlements = 7
+
+b_dandy_pier = castle
+#b_dandy_pier_2 = city
+#b_dandy_pier_3 = temple
+#b_dandy_pier_4 = castle
+#b_dandy_pier_5 = city
+#b_dandy_pier_6 = temple
+#b_dandy_pier_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

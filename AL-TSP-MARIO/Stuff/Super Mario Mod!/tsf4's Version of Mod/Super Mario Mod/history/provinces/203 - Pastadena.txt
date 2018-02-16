@@ -1,0 +1,21 @@
+# c_pastadena
+
+# County Title
+title = c_pastadena
+
+# Settlements
+max_settlements = 7
+
+b_pastadena = castle
+#b_pastadena_2 = city
+#b_pastadena_3 = temple
+#b_pastadena_4 = castle
+#b_pastadena_5 = city
+#b_pastadena_6 = temple
+#b_pastadena_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

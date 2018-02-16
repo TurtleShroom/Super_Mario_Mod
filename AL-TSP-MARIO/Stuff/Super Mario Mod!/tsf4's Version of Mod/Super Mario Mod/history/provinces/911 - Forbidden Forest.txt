@@ -1,0 +1,21 @@
+# c_forbidden_forest
+
+# County Title
+title = c_forbidden_forest
+
+# Settlements
+max_settlements = 7
+
+b_forbidden_forest = castle
+#b_forbidden_forest_2 = city
+#b_forbidden_forest_3 = temple
+#b_forbidden_forest_4 = castle
+#b_forbidden_forest_5 = city
+#b_forbidden_forest_6 = temple
+#b_forbidden_forest_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

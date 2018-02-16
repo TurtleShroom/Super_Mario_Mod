@@ -1,0 +1,21 @@
+# c_kremling_seamounts
+
+# County Title
+title = c_kremling_seamounts
+
+# Settlements
+max_settlements = 7
+
+b_kremling_seamounts = castle
+#b_kremling_seamounts_2 = city
+#b_kremling_seamounts_3 = temple
+#b_kremling_seamounts_4 = castle
+#b_kremling_seamounts_5 = city
+#b_kremling_seamounts_6 = temple
+#b_kremling_seamounts_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

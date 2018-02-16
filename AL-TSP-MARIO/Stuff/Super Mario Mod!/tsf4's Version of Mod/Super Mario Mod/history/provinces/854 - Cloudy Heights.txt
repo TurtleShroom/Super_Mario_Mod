@@ -1,0 +1,21 @@
+# c_cloudy_heights
+
+# County Title
+title = c_cloudy_heights
+
+# Settlements
+max_settlements = 7
+
+b_cloudy_heights = castle
+#b_cloudy_heights_2 = city
+#b_cloudy_heights_3 = temple
+#b_cloudy_heights_4 = castle
+#b_cloudy_heights_5 = city
+#b_cloudy_heights_6 = temple
+#b_cloudy_heights_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

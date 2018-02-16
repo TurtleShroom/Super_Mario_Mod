@@ -1,0 +1,21 @@
+# c_honeybee_hive
+
+# County Title
+title = c_honeybee_hive
+
+# Settlements
+max_settlements = 7
+
+b_honeybee_hive = castle
+#b_honeybee_hive_2 = city
+#b_honeybee_hive_3 = temple
+#b_honeybee_hive_4 = castle
+#b_honeybee_hive_5 = city
+#b_honeybee_hive_6 = temple
+#b_honeybee_hive_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

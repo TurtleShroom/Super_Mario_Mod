@@ -1,0 +1,21 @@
+# c_goomba_fortress_2
+
+# County Title
+title = c_goomba_fortress_2
+
+# Settlements
+max_settlements = 7
+
+b_goomba_fortress_8 = castle
+#b_goomba_fortress_9 = city
+#b_goomba_fortress_10 = temple
+#b_goomba_fortress_11 = castle
+#b_goomba_fortress_12 = city
+#b_goomba_fortress_13 = temple
+#b_goomba_fortress_14 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

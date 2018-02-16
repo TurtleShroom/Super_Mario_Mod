@@ -1,0 +1,21 @@
+# c_stairway_to_heaven
+
+# County Title
+title = c_stairway_to_heaven
+
+# Settlements
+max_settlements = 7
+
+b_stairway_to_heaven = castle
+#b_stairway_to_heaven_2 = city
+#b_stairway_to_heaven_3 = temple
+#b_stairway_to_heaven_4 = castle
+#b_stairway_to_heaven_5 = city
+#b_stairway_to_heaven_6 = temple
+#b_stairway_to_heaven_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_ant_trooper_hill
+
+# County Title
+title = c_ant_trooper_hill
+
+# Settlements
+max_settlements = 7
+
+b_ant_trooper_hill = castle
+#b_ant_trooper_hill_2 = city
+#b_ant_trooper_hill_3 = temple
+#b_ant_trooper_hill_4 = castle
+#b_ant_trooper_hill_5 = city
+#b_ant_trooper_hill_6 = temple
+#b_ant_trooper_hill_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

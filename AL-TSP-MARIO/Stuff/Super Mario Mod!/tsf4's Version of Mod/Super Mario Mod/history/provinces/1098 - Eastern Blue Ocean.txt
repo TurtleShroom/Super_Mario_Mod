@@ -1,0 +1,21 @@
+# c_eastern_blue_ocean
+
+# County Title
+title = c_eastern_blue_ocean
+
+# Settlements
+max_settlements = 7
+
+b_eastern_blue_ocean = castle
+#b_eastern_blue_ocean_2 = city
+#b_eastern_blue_ocean_3 = temple
+#b_eastern_blue_ocean_4 = castle
+#b_eastern_blue_ocean_5 = city
+#b_eastern_blue_ocean_6 = temple
+#b_eastern_blue_ocean_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

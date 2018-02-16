@@ -1,0 +1,21 @@
+# c_artic_plunge
+
+# County Title
+title = c_artic_plunge
+
+# Settlements
+max_settlements = 7
+
+b_artic_plunge = castle
+#b_artic_plunge_2 = city
+#b_artic_plunge_3 = temple
+#b_artic_plunge_4 = castle
+#b_artic_plunge_5 = city
+#b_artic_plunge_6 = temple
+#b_artic_plunge_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

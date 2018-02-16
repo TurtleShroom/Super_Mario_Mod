@@ -1,0 +1,21 @@
+# c_mushroom_castle
+
+# County Title
+title = c_mushroom_castle
+
+# Settlements
+max_settlements = 7
+
+b_mushroom_castle = castle
+#b_mushroom_castle_2 = city
+#b_mushroom_castle_3 = temple
+#b_mushroom_castle_4 = castle
+#b_mushroom_castle_5 = city
+#b_mushroom_castle_6 = temple
+#b_mushroom_castle_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

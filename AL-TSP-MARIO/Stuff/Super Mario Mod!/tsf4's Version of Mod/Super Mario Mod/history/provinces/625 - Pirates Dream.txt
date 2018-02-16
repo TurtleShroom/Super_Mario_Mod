@@ -1,0 +1,21 @@
+# c_pirates_dream
+
+# County Title
+title = c_pirates_dream
+
+# Settlements
+max_settlements = 7
+
+b_pirates_dream = castle
+#b_pirates_dream_2 = city
+#b_pirates_dream_3 = temple
+#b_pirates_dream_4 = castle
+#b_pirates_dream_5 = city
+#b_pirates_dream_6 = temple
+#b_pirates_dream_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

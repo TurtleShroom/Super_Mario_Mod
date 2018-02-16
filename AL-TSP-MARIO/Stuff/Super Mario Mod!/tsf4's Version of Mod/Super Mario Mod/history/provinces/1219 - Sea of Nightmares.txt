@@ -1,0 +1,21 @@
+# c_sea_of_nightmares
+
+# County Title
+title = c_sea_of_nightmares
+
+# Settlements
+max_settlements = 7
+
+b_sea_of_nightmares = castle
+#b_sea_of_nightmares_2 = city
+#b_sea_of_nightmares_3 = temple
+#b_sea_of_nightmares_4 = castle
+#b_sea_of_nightmares_5 = city
+#b_sea_of_nightmares_6 = temple
+#b_sea_of_nightmares_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

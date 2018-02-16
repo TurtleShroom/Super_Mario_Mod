@@ -1,0 +1,21 @@
+# c_haunted_hideaway
+
+# County Title
+title = c_haunted_hideaway
+
+# Settlements
+max_settlements = 7
+
+b_haunted_hideaway = castle
+#b_haunted_hideaway_2 = city
+#b_haunted_hideaway_3 = temple
+#b_haunted_hideaway_4 = castle
+#b_haunted_hideaway_5 = city
+#b_haunted_hideaway_6 = temple
+#b_haunted_hideaway_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

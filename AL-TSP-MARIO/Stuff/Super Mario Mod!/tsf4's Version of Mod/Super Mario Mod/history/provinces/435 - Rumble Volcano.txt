@@ -1,0 +1,21 @@
+# c_rumble_volcano
+
+# County Title
+title = c_rumble_volcano
+
+# Settlements
+max_settlements = 7
+
+b_rumble_volcano = castle
+#b_rumble_volcano_2 = city
+#b_rumble_volcano_3 = temple
+#b_rumble_volcano_4 = castle
+#b_rumble_volcano_5 = city
+#b_rumble_volcano_6 = temple
+#b_rumble_volcano_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

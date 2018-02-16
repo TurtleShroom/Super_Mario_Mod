@@ -1,0 +1,21 @@
+# c_eastern_gritzy_desert
+
+# County Title
+title = c_eastern_gritzy_desert
+
+# Settlements
+max_settlements = 7
+
+b_eastern_gritzy_desert = castle
+#b_eastern_gritzy_desert_2 = city
+#b_eastern_gritzy_desert_3 = temple
+#b_eastern_gritzy_desert_4 = castle
+#b_eastern_gritzy_desert_5 = city
+#b_eastern_gritzy_desert_6 = temple
+#b_eastern_gritzy_desert_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

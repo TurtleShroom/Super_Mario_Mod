@@ -1,0 +1,21 @@
+# c_haunted_towers
+
+# County Title
+title = c_haunted_towers
+
+# Settlements
+max_settlements = 7
+
+b_haunted_towers = castle
+#b_haunted_towers_2 = city
+#b_haunted_towers_3 = temple
+#b_haunted_towers_4 = castle
+#b_haunted_towers_5 = city
+#b_haunted_towers_6 = temple
+#b_haunted_towers_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

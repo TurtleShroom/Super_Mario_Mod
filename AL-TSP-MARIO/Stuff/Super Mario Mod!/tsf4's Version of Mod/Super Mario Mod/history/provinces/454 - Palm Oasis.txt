@@ -1,0 +1,21 @@
+# c_palm_oasis
+
+# County Title
+title = c_palm_oasis
+
+# Settlements
+max_settlements = 7
+
+b_palm_oasis = castle
+#b_palm_oasis_2 = city
+#b_palm_oasis_3 = temple
+#b_palm_oasis_4 = castle
+#b_palm_oasis_5 = city
+#b_palm_oasis_6 = temple
+#b_palm_oasis_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_magma_colliseum
+
+# County Title
+title = c_magma_colliseum
+
+# Settlements
+max_settlements = 7
+
+b_magma_colliseum = castle
+#b_magma_colliseum_2 = city
+#b_magma_colliseum_3 = temple
+#b_magma_colliseum_4 = castle
+#b_magma_colliseum_5 = city
+#b_magma_colliseum_6 = temple
+#b_magma_colliseum_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

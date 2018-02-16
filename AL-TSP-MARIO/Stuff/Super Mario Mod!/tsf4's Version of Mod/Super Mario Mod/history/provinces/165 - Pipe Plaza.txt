@@ -1,0 +1,21 @@
+# c_pipe_plaza
+
+# County Title
+title = c_pipe_plaza
+
+# Settlements
+max_settlements = 7
+
+b_pipe_plaza = castle
+#b_pipe_plaza_2 = city
+#b_pipe_plaza_3 = temple
+#b_pipe_plaza_4 = castle
+#b_pipe_plaza_5 = city
+#b_pipe_plaza_6 = temple
+#b_pipe_plaza_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_sky_mountain_pass
+
+# County Title
+title = c_sky_mountain_pass
+
+# Settlements
+max_settlements = 7
+
+b_sky_mountain_pass = castle
+#b_sky_mountain_pass_2 = city
+#b_sky_mountain_pass_3 = temple
+#b_sky_mountain_pass_4 = castle
+#b_sky_mountain_pass_5 = city
+#b_sky_mountain_pass_6 = temple
+#b_sky_mountain_pass_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

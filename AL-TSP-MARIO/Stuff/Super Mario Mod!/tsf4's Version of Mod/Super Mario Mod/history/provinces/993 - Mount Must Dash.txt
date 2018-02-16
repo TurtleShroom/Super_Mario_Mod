@@ -1,0 +1,21 @@
+# c_mount_must_dash
+
+# County Title
+title = c_mount_must_dash
+
+# Settlements
+max_settlements = 7
+
+b_mount_must_dash = castle
+#b_mount_must_dash_2 = city
+#b_mount_must_dash_3 = temple
+#b_mount_must_dash_4 = castle
+#b_mount_must_dash_5 = city
+#b_mount_must_dash_6 = temple
+#b_mount_must_dash_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

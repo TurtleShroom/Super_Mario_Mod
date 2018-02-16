@@ -1,0 +1,21 @@
+# c_shiver_mountain
+
+# County Title
+title = c_shiver_mountain
+
+# Settlements
+max_settlements = 7
+
+b_shiver_mountain = castle
+#b_shiver_mountain_2 = city
+#b_shiver_mountain_3 = temple
+#b_shiver_mountain_4 = castle
+#b_shiver_mountain_5 = city
+#b_shiver_mountain_6 = temple
+#b_shiver_mountain_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

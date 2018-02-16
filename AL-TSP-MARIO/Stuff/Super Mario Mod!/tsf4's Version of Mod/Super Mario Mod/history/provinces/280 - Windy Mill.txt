@@ -1,0 +1,21 @@
+# c_windy_mill
+
+# County Title
+title = c_windy_mill
+
+# Settlements
+max_settlements = 7
+
+b_windy_mill = castle
+#b_windy_mill_2 = city
+#b_windy_mill_3 = temple
+#b_windy_mill_4 = castle
+#b_windy_mill_5 = city
+#b_windy_mill_6 = temple
+#b_windy_mill_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

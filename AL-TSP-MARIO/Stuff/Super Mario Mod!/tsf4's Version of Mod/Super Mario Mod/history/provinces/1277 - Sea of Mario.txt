@@ -1,0 +1,21 @@
+# c_sea_of_mario
+
+# County Title
+title = c_sea_of_mario
+
+# Settlements
+max_settlements = 7
+
+b_sea_of_mario = castle
+#b_sea_of_mario_2 = city
+#b_sea_of_mario_3 = temple
+#b_sea_of_mario_4 = castle
+#b_sea_of_mario_5 = city
+#b_sea_of_mario_6 = temple
+#b_sea_of_mario_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_desert_oasis
+
+# County Title
+title = c_desert_oasis
+
+# Settlements
+max_settlements = 7
+
+b_desert_oasis = castle
+#b_desert_oasis_2 = city
+#b_desert_oasis_3 = temple
+#b_desert_oasis_4 = castle
+#b_desert_oasis_5 = city
+#b_desert_oasis_6 = temple
+#b_desert_oasis_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

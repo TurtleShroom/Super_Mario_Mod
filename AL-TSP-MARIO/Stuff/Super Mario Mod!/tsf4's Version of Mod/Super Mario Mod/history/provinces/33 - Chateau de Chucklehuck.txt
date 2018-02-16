@@ -1,0 +1,21 @@
+# c_chateau_de_chucklehuck
+
+# County Title
+title = c_chateau_de_chucklehuck
+
+# Settlements
+max_settlements = 7
+
+b_chateau_de_chucklehuck = castle
+#b_chateau_de_chucklehuck_2 = city
+#b_chateau_de_chucklehuck_3 = temple
+#b_chateau_de_chucklehuck_4 = castle
+#b_chateau_de_chucklehuck_5 = city
+#b_chateau_de_chucklehuck_6 = temple
+#b_chateau_de_chucklehuck_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

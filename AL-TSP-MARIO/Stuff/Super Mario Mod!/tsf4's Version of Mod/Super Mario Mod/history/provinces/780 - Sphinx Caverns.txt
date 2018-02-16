@@ -1,0 +1,21 @@
+# c_sphinx_caverns
+
+# County Title
+title = c_sphinx_caverns
+
+# Settlements
+max_settlements = 7
+
+b_sphinx_caverns = castle
+#b_sphinx_caverns_2 = city
+#b_sphinx_caverns_3 = temple
+#b_sphinx_caverns_4 = castle
+#b_sphinx_caverns_5 = city
+#b_sphinx_caverns_6 = temple
+#b_sphinx_caverns_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

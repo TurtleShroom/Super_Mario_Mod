@@ -1,0 +1,21 @@
+# c_neon_heights_(neon_city)
+
+# County Title
+title = c_neon_heights_(neon_city)
+
+# Settlements
+max_settlements = 7
+
+b_neon_heights = castle
+b_neon_heights_2 = city
+b_neon_heights_3 = temple
+b_neon_heights_4 = castle
+b_neon_heights_5 = city
+b_neon_heights_6 = temple
+b_neon_heights_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_cape_poshley
+
+# County Title
+title = c_cape_poshley
+
+# Settlements
+max_settlements = 7
+
+b_cape_poshley = castle
+#b_cape_poshley_2 = city
+#b_cape_poshley_3 = temple
+#b_cape_poshley_4 = castle
+#b_cape_poshley_5 = city
+#b_cape_poshley_6 = temple
+#b_cape_poshley_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

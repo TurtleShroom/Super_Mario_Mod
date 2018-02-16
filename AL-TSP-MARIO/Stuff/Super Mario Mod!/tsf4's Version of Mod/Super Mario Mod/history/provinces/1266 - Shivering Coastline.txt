@@ -1,0 +1,21 @@
+# c_shivering_coastline
+
+# County Title
+title = c_shivering_coastline
+
+# Settlements
+max_settlements = 7
+
+b_shivering_coastline = castle
+#b_shivering_coastline_2 = city
+#b_shivering_coastline_3 = temple
+#b_shivering_coastline_4 = castle
+#b_shivering_coastline_5 = city
+#b_shivering_coastline_6 = temple
+#b_shivering_coastline_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_toadwood_bay_2
+
+# County Title
+title = c_toadwood_bay_2
+
+# Settlements
+max_settlements = 7
+
+b_toadwood_bay_8 = castle
+#b_toadwood_bay_9 = city
+#b_toadwood_bay_10 = temple
+#b_toadwood_bay_11 = castle
+#b_toadwood_bay_12 = city
+#b_toadwood_bay_13 = temple
+#b_toadwood_bay_14 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

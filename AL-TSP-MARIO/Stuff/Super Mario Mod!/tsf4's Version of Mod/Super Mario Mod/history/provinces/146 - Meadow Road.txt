@@ -1,0 +1,21 @@
+# c_meadow_road
+
+# County Title
+title = c_meadow_road
+
+# Settlements
+max_settlements = 7
+
+b_meadow_road = castle
+#b_meadow_road_2 = city
+#b_meadow_road_3 = temple
+#b_meadow_road_4 = castle
+#b_meadow_road_5 = city
+#b_meadow_road_6 = temple
+#b_meadow_road_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

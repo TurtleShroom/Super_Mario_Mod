@@ -1,0 +1,21 @@
+# c_snowberg_alley
+
+# County Title
+title = c_snowberg_alley
+
+# Settlements
+max_settlements = 7
+
+b_snowberg_alley = castle
+#b_snowberg_alley_2 = city
+#b_snowberg_alley_3 = temple
+#b_snowberg_alley_4 = castle
+#b_snowberg_alley_5 = city
+#b_snowberg_alley_6 = temple
+#b_snowberg_alley_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

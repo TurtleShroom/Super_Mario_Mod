@@ -1,0 +1,21 @@
+# c_isle_cuore
+
+# County Title
+title = c_isle_cuore
+
+# Settlements
+max_settlements = 7
+
+b_isle_cuore = castle
+#b_isle_cuore_2 = city
+#b_isle_cuore_3 = temple
+#b_isle_cuore_4 = castle
+#b_isle_cuore_5 = city
+#b_isle_cuore_6 = temple
+#b_isle_cuore_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

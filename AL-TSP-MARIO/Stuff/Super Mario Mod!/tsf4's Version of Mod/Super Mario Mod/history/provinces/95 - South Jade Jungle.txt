@@ -1,0 +1,21 @@
+# c_south_jade_jungle
+
+# County Title
+title = c_south_jade_jungle
+
+# Settlements
+max_settlements = 7
+
+b_south_jade_jungle = castle
+#b_south_jade_jungle_2 = city
+#b_south_jade_jungle_3 = temple
+#b_south_jade_jungle_4 = castle
+#b_south_jade_jungle_5 = city
+#b_south_jade_jungle_6 = temple
+#b_south_jade_jungle_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

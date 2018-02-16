@@ -1,0 +1,21 @@
+# c_fishers_coast
+
+# County Title
+title = c_fishers_coast
+
+# Settlements
+max_settlements = 7
+
+b_fishers_coast = castle
+#b_fishers_coast_2 = city
+#b_fishers_coast_3 = temple
+#b_fishers_coast_4 = castle
+#b_fishers_coast_5 = city
+#b_fishers_coast_6 = temple
+#b_fishers_coast_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

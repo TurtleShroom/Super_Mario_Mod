@@ -1,0 +1,21 @@
+# c_koco_channel
+
+# County Title
+title = c_koco_channel
+
+# Settlements
+max_settlements = 7
+
+b_koco_channel = castle
+#b_koco_channel_2 = city
+#b_koco_channel_3 = temple
+#b_koco_channel_4 = castle
+#b_koco_channel_5 = city
+#b_koco_channel_6 = temple
+#b_koco_channel_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

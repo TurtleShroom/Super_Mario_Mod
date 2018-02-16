@@ -1,0 +1,21 @@
+# c_chilly_beach
+
+# County Title
+title = c_chilly_beach
+
+# Settlements
+max_settlements = 7
+
+b_chilly_beach = castle
+#b_chilly_beach_2 = city
+#b_chilly_beach_3 = temple
+#b_chilly_beach_4 = castle
+#b_chilly_beach_5 = city
+#b_chilly_beach_6 = temple
+#b_chilly_beach_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

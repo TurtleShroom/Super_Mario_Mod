@@ -1,0 +1,21 @@
+# c_mt_rugged
+
+# County Title
+title = c_mt_rugged
+
+# Settlements
+max_settlements = 7
+
+b_mt_rugged = castle
+#b_mt_rugged_2 = city
+#b_mt_rugged_3 = temple
+#b_mt_rugged_4 = castle
+#b_mt_rugged_5 = city
+#b_mt_rugged_6 = temple
+#b_mt_rugged_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

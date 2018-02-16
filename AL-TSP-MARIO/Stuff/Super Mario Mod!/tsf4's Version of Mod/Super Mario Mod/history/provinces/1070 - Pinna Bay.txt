@@ -1,0 +1,21 @@
+# c_pinna_bay
+
+# County Title
+title = c_pinna_bay
+
+# Settlements
+max_settlements = 7
+
+b_pinna_bay = castle
+#b_pinna_bay_2 = city
+#b_pinna_bay_3 = temple
+#b_pinna_bay_4 = castle
+#b_pinna_bay_5 = city
+#b_pinna_bay_6 = temple
+#b_pinna_bay_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

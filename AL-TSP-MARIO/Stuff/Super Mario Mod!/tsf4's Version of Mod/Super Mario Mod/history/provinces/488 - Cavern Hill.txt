@@ -1,0 +1,21 @@
+# c_cavern_hill
+
+# County Title
+title = c_cavern_hill
+
+# Settlements
+max_settlements = 7
+
+b_cavern_hill = castle
+#b_cavern_hill_2 = city
+#b_cavern_hill_3 = temple
+#b_cavern_hill_4 = castle
+#b_cavern_hill_5 = city
+#b_cavern_hill_6 = temple
+#b_cavern_hill_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

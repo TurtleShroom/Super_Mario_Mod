@@ -1,0 +1,21 @@
+# c_happy_harbour_2
+
+# County Title
+title = c_happy_harbour_2
+
+# Settlements
+max_settlements = 7
+
+b_happy_harbour_8 = castle
+#b_happy_harbour_9 = city
+#b_happy_harbour_10 = temple
+#b_happy_harbour_11 = castle
+#b_happy_harbour_12 = city
+#b_happy_harbour_13 = temple
+#b_happy_harbour_14 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

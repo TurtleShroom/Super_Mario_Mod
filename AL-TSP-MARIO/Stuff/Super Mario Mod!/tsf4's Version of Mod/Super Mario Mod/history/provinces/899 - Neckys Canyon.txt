@@ -1,0 +1,21 @@
+# c_neckys_canyon
+
+# County Title
+title = c_neckys_canyon
+
+# Settlements
+max_settlements = 7
+
+b_neckys_canyon = castle
+#b_neckys_canyon_2 = city
+#b_neckys_canyon_3 = temple
+#b_neckys_canyon_4 = castle
+#b_neckys_canyon_5 = city
+#b_neckys_canyon_6 = temple
+#b_neckys_canyon_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_treacherous_mansion
+
+# County Title
+title = c_treacherous_mansion
+
+# Settlements
+max_settlements = 7
+
+b_treacherous_mansion = castle
+#b_treacherous_mansion_2 = city
+#b_treacherous_mansion_3 = temple
+#b_treacherous_mansion_4 = castle
+#b_treacherous_mansion_5 = city
+#b_treacherous_mansion_6 = temple
+#b_treacherous_mansion_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

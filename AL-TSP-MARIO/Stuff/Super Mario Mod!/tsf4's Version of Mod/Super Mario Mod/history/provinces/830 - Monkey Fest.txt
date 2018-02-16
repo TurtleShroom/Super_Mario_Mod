@@ -1,0 +1,21 @@
+# c_monkey_fest
+
+# County Title
+title = c_monkey_fest
+
+# Settlements
+max_settlements = 7
+
+b_monkey_fest = castle
+#b_monkey_fest_2 = city
+#b_monkey_fest_3 = temple
+#b_monkey_fest_4 = castle
+#b_monkey_fest_5 = city
+#b_monkey_fest_6 = temple
+#b_monkey_fest_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

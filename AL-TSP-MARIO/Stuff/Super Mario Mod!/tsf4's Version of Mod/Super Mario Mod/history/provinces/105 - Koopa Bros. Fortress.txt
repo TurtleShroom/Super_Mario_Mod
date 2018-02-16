@@ -1,0 +1,21 @@
+# c_koopa_bros_fortress
+
+# County Title
+title = c_koopa_bros_fortress
+
+# Settlements
+max_settlements = 7
+
+b_koopa_bros_fortress = castle
+#b_koopa_bros_fortress_2 = city
+#b_koopa_bros_fortress_3 = temple
+#b_koopa_bros_fortress_4 = castle
+#b_koopa_bros_fortress_5 = city
+#b_koopa_bros_fortress_6 = temple
+#b_koopa_bros_fortress_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

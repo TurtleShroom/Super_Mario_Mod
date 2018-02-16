@@ -1,0 +1,21 @@
+# c_toad_highlands
+
+# County Title
+title = c_toad_highlands
+
+# Settlements
+max_settlements = 7
+
+b_toad_highlands = castle
+#b_toad_highlands_2 = city
+#b_toad_highlands_3 = temple
+#b_toad_highlands_4 = castle
+#b_toad_highlands_5 = city
+#b_toad_highlands_6 = temple
+#b_toad_highlands_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

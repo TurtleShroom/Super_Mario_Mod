@@ -1,0 +1,21 @@
+# c_boo_cemetery
+
+# County Title
+title = c_boo_cemetery
+
+# Settlements
+max_settlements = 7
+
+b_boo_cemetery = castle
+#b_boo_cemetery_2 = city
+#b_boo_cemetery_3 = temple
+#b_boo_cemetery_4 = castle
+#b_boo_cemetery_5 = city
+#b_boo_cemetery_6 = temple
+#b_boo_cemetery_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

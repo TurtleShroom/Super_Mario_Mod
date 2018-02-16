@@ -1,0 +1,21 @@
+# c_warios_island
+
+# County Title
+title = c_warios_island
+
+# Settlements
+max_settlements = 7
+
+b_warios_island = castle
+#b_warios_island_2 = city
+#b_warios_island_3 = temple
+#b_warios_island_4 = castle
+#b_warios_island_5 = city
+#b_warios_island_6 = temple
+#b_warios_island_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

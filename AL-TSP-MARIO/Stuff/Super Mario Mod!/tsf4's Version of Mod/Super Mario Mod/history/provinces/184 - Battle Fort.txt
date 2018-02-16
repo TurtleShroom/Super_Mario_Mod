@@ -1,0 +1,21 @@
+# c_battle_fort
+
+# County Title
+title = c_battle_fort
+
+# Settlements
+max_settlements = 7
+
+b_battle_fort = castle
+#b_battle_fort_2 = city
+#b_battle_fort_3 = temple
+#b_battle_fort_4 = castle
+#b_battle_fort_5 = city
+#b_battle_fort_6 = temple
+#b_battle_fort_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

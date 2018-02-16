@@ -1,0 +1,21 @@
+# c_screaming_peaks
+
+# County Title
+title = c_screaming_peaks
+
+# Settlements
+max_settlements = 7
+
+b_screaming_peaks = castle
+#b_screaming_peaks_2 = city
+#b_screaming_peaks_3 = temple
+#b_screaming_peaks_4 = castle
+#b_screaming_peaks_5 = city
+#b_screaming_peaks_6 = temple
+#b_screaming_peaks_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

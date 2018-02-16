@@ -1,0 +1,21 @@
+# c_grassy_greens
+
+# County Title
+title = c_grassy_greens
+
+# Settlements
+max_settlements = 7
+
+b_grassy_greens = castle
+#b_grassy_greens_2 = city
+#b_grassy_greens_3 = temple
+#b_grassy_greens_4 = castle
+#b_grassy_greens_5 = city
+#b_grassy_greens_6 = temple
+#b_grassy_greens_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

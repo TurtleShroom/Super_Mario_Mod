@@ -1,0 +1,21 @@
+# c_sarasa_palace
+
+# County Title
+title = c_sarasa_palace
+
+# Settlements
+max_settlements = 7
+
+b_sarasa_palace = castle
+#b_sarasa_palace_2 = city
+#b_sarasa_palace_3 = temple
+#b_sarasa_palace_4 = castle
+#b_sarasa_palace_5 = city
+#b_sarasa_palace_6 = temple
+#b_sarasa_palace_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

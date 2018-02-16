@@ -1,0 +1,21 @@
+# c_muda_coast
+
+# County Title
+title = c_muda_coast
+
+# Settlements
+max_settlements = 7
+
+b_muda_coast = castle
+#b_muda_coast_2 = city
+#b_muda_coast_3 = temple
+#b_muda_coast_4 = castle
+#b_muda_coast_5 = city
+#b_muda_coast_6 = temple
+#b_muda_coast_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

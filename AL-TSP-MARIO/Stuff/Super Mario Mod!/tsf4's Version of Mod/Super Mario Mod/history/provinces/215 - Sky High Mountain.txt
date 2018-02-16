@@ -1,0 +1,21 @@
+# c_sky_high_mountain
+
+# County Title
+title = c_sky_high_mountain
+
+# Settlements
+max_settlements = 7
+
+b_sky_high_mountain = castle
+#b_sky_high_mountain_2 = city
+#b_sky_high_mountain_3 = temple
+#b_sky_high_mountain_4 = castle
+#b_sky_high_mountain_5 = city
+#b_sky_high_mountain_6 = temple
+#b_sky_high_mountain_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

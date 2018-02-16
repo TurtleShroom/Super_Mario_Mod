@@ -1,0 +1,21 @@
+# c_toadstool_trench
+
+# County Title
+title = c_toadstool_trench
+
+# Settlements
+max_settlements = 7
+
+b_toadstool_trench = castle
+#b_toadstool_trench_2 = city
+#b_toadstool_trench_3 = temple
+#b_toadstool_trench_4 = castle
+#b_toadstool_trench_5 = city
+#b_toadstool_trench_6 = temple
+#b_toadstool_trench_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

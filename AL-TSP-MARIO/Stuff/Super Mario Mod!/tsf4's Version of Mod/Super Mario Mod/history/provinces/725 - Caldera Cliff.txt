@@ -1,0 +1,21 @@
+# c_caldera_cliff
+
+# County Title
+title = c_caldera_cliff
+
+# Settlements
+max_settlements = 7
+
+b_caldera_cliff = castle
+#b_caldera_cliff_2 = city
+#b_caldera_cliff_3 = temple
+#b_caldera_cliff_4 = castle
+#b_caldera_cliff_5 = city
+#b_caldera_cliff_6 = temple
+#b_caldera_cliff_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

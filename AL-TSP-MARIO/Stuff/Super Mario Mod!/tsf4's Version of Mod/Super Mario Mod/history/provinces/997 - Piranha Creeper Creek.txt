@@ -1,0 +1,21 @@
+# c_piranha_creeper_creek
+
+# County Title
+title = c_piranha_creeper_creek
+
+# Settlements
+max_settlements = 7
+
+b_piranha_creeper_creek = castle
+#b_piranha_creeper_creek_2 = city
+#b_piranha_creeper_creek_3 = temple
+#b_piranha_creeper_creek_4 = castle
+#b_piranha_creeper_creek_5 = city
+#b_piranha_creeper_creek_6 = temple
+#b_piranha_creeper_creek_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_stalagmite_caverns
+
+# County Title
+title = c_stalagmite_caverns
+
+# Settlements
+max_settlements = 7
+
+b_stalagmite_caverns = castle
+#b_stalagmite_caverns_2 = city
+#b_stalagmite_caverns_3 = temple
+#b_stalagmite_caverns_4 = castle
+#b_stalagmite_caverns_5 = city
+#b_stalagmite_caverns_6 = temple
+#b_stalagmite_caverns_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

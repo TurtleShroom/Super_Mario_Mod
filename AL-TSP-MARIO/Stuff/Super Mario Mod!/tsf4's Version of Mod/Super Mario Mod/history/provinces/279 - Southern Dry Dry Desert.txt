@@ -1,0 +1,21 @@
+# c_southern_dry_dry_desert
+
+# County Title
+title = c_southern_dry_dry_desert
+
+# Settlements
+max_settlements = 7
+
+b_southern_dry_dry_desert = castle
+#b_southern_dry_dry_desert_2 = city
+#b_southern_dry_dry_desert_3 = temple
+#b_southern_dry_dry_desert_4 = castle
+#b_southern_dry_dry_desert_5 = city
+#b_southern_dry_dry_desert_6 = temple
+#b_southern_dry_dry_desert_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_kongo_jungle
+
+# County Title
+title = c_kongo_jungle
+
+# Settlements
+max_settlements = 7
+
+b_kongo_jungle = castle
+#b_kongo_jungle_2 = city
+#b_kongo_jungle_3 = temple
+#b_kongo_jungle_4 = castle
+#b_kongo_jungle_5 = city
+#b_kongo_jungle_6 = temple
+#b_kongo_jungle_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

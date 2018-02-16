@@ -1,0 +1,5 @@
+1984.9.13={
+	holding_dynasty = 9900601 # Minnow - makes this a FAMILY_PALACE type Holding
+	liege = d_minnow_island
+	holder=9960006
+}

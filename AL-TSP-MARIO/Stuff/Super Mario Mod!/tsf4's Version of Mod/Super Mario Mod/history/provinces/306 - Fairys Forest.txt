@@ -1,0 +1,21 @@
+# c_fairys_forest
+
+# County Title
+title = c_fairys_forest
+
+# Settlements
+max_settlements = 7
+
+b_fairys_forest = castle
+#b_fairys_forest_2 = city
+#b_fairys_forest_3 = temple
+#b_fairys_forest_4 = castle
+#b_fairys_forest_5 = city
+#b_fairys_forest_6 = temple
+#b_fairys_forest_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

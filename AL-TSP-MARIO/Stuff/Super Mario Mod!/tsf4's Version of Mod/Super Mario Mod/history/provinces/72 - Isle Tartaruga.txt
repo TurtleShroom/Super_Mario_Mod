@@ -1,0 +1,21 @@
+# c_isle_tartaruga
+
+# County Title
+title = c_isle_tartaruga
+
+# Settlements
+max_settlements = 7
+
+b_isle_tartaruga = castle
+#b_isle_tartaruga_2 = city
+#b_isle_tartaruga_3 = temple
+#b_isle_tartaruga_4 = castle
+#b_isle_tartaruga_5 = city
+#b_isle_tartaruga_6 = temple
+#b_isle_tartaruga_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

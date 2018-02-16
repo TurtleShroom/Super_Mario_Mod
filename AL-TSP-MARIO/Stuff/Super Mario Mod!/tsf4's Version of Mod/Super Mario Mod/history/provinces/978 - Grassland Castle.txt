@@ -1,0 +1,21 @@
+# c_grassland_castle
+
+# County Title
+title = c_grassland_castle
+
+# Settlements
+max_settlements = 7
+
+b_grassland_castle = castle
+#b_grassland_castle_2 = city
+#b_grassland_castle_3 = temple
+#b_grassland_castle_4 = castle
+#b_grassland_castle_5 = city
+#b_grassland_castle_6 = temple
+#b_grassland_castle_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

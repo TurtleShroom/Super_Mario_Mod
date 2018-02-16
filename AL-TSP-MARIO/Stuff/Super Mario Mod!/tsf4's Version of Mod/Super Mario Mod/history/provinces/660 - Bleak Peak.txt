@@ -1,0 +1,21 @@
+# c_bleak_peak
+
+# County Title
+title = c_bleak_peak
+
+# Settlements
+max_settlements = 7
+
+b_bleak_peak = castle
+#b_bleak_peak_2 = city
+#b_bleak_peak_3 = temple
+#b_bleak_peak_4 = castle
+#b_bleak_peak_5 = city
+#b_bleak_peak_6 = temple
+#b_bleak_peak_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

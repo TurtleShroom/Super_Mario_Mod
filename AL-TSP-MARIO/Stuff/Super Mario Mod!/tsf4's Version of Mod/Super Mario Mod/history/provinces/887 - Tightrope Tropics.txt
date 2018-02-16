@@ -1,0 +1,21 @@
+# c_tightrope_tropics
+
+# County Title
+title = c_tightrope_tropics
+
+# Settlements
+max_settlements = 7
+
+b_tightrope_tropics = castle
+#b_tightrope_tropics_2 = city
+#b_tightrope_tropics_3 = temple
+#b_tightrope_tropics_4 = castle
+#b_tightrope_tropics_5 = city
+#b_tightrope_tropics_6 = temple
+#b_tightrope_tropics_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

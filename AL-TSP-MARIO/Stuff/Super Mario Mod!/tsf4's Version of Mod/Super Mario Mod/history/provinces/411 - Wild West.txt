@@ -1,0 +1,21 @@
+# c_wild_west
+
+# County Title
+title = c_wild_west
+
+# Settlements
+max_settlements = 7
+
+b_wild_west = castle
+#b_wild_west_2 = city
+#b_wild_west_3 = temple
+#b_wild_west_4 = castle
+#b_wild_west_5 = city
+#b_wild_west_6 = temple
+#b_wild_west_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

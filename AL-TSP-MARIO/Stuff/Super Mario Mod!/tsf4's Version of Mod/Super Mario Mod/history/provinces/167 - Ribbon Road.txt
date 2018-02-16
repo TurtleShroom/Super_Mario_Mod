@@ -1,0 +1,21 @@
+# c_ribbon_road
+
+# County Title
+title = c_ribbon_road
+
+# Settlements
+max_settlements = 7
+
+b_ribbon_road = castle
+#b_ribbon_road_2 = city
+#b_ribbon_road_3 = temple
+#b_ribbon_road_4 = castle
+#b_ribbon_road_5 = city
+#b_ribbon_road_6 = temple
+#b_ribbon_road_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

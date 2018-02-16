@@ -1,0 +1,21 @@
+# c_raging_ravine
+
+# County Title
+title = c_raging_ravine
+
+# Settlements
+max_settlements = 7
+
+b_raging_ravine = castle
+#b_raging_ravine_2 = city
+#b_raging_ravine_3 = temple
+#b_raging_ravine_4 = castle
+#b_raging_ravine_5 = city
+#b_raging_ravine_6 = temple
+#b_raging_ravine_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

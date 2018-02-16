@@ -1,0 +1,21 @@
+# c_coin_cloud_falls
+
+# County Title
+title = c_coin_cloud_falls
+
+# Settlements
+max_settlements = 7
+
+b_coin_cloud_falls = castle
+#b_coin_cloud_falls_2 = city
+#b_coin_cloud_falls_3 = temple
+#b_coin_cloud_falls_4 = castle
+#b_coin_cloud_falls_5 = city
+#b_coin_cloud_falls_6 = temple
+#b_coin_cloud_falls_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

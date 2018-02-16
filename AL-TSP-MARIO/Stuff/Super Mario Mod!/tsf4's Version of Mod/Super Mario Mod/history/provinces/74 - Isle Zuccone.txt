@@ -1,0 +1,21 @@
+# c_isle_zuccone
+
+# County Title
+title = c_isle_zuccone
+
+# Settlements
+max_settlements = 7
+
+b_isle_zuccone = castle
+#b_isle_zuccone_2 = city
+#b_isle_zuccone_3 = temple
+#b_isle_zuccone_4 = castle
+#b_isle_zuccone_5 = city
+#b_isle_zuccone_6 = temple
+#b_isle_zuccone_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

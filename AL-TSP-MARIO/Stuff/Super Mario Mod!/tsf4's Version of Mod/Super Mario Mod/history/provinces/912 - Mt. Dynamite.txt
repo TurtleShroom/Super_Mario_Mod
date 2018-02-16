@@ -1,0 +1,21 @@
+# c_mt_dynamite
+
+# County Title
+title = c_mt_dynamite
+
+# Settlements
+max_settlements = 7
+
+b_mt_dynamite = castle
+#b_mt_dynamite_2 = city
+#b_mt_dynamite_3 = temple
+#b_mt_dynamite_4 = castle
+#b_mt_dynamite_5 = city
+#b_mt_dynamite_6 = temple
+#b_mt_dynamite_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_rose_forest_maze
+
+# County Title
+title = c_rose_forest_maze
+
+# Settlements
+max_settlements = 7
+
+b_rose_forest_maze = castle
+#b_rose_forest_maze_2 = city
+#b_rose_forest_maze_3 = temple
+#b_rose_forest_maze_4 = castle
+#b_rose_forest_maze_5 = city
+#b_rose_forest_maze_6 = temple
+#b_rose_forest_maze_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

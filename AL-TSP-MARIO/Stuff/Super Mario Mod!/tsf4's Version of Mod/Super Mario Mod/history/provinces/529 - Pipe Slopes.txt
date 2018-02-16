@@ -1,0 +1,21 @@
+# c_pipe_slopes
+
+# County Title
+title = c_pipe_slopes
+
+# Settlements
+max_settlements = 7
+
+b_pipe_slopes = castle
+#b_pipe_slopes_2 = city
+#b_pipe_slopes_3 = temple
+#b_pipe_slopes_4 = castle
+#b_pipe_slopes_5 = city
+#b_pipe_slopes_6 = temple
+#b_pipe_slopes_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

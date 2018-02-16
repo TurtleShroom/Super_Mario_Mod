@@ -1,0 +1,21 @@
+# c_flower_koku
+
+# County Title
+title = c_flower_koku
+
+# Settlements
+max_settlements = 7
+
+b_flower_koku = castle
+#b_flower_koku_2 = city
+#b_flower_koku_3 = temple
+#b_flower_koku_4 = castle
+#b_flower_koku_5 = city
+#b_flower_koku_6 = temple
+#b_flower_koku_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

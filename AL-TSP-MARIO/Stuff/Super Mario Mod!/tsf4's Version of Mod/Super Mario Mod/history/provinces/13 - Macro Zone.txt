@@ -1,0 +1,21 @@
+# c_macro_zone
+
+# County Title
+title = c_macro_zone
+
+# Settlements
+max_settlements = 7
+
+b_macro_zone = castle
+#b_macro_zone_2 = city
+#b_macro_zone_3 = temple
+#b_macro_zone_4 = castle
+#b_macro_zone_5 = city
+#b_macro_zone_6 = temple
+#b_macro_zone_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_piillo_blimport
+
+# County Title
+title = c_piillo_blimport
+
+# Settlements
+max_settlements = 7
+
+b_piillo_blimport = castle
+#b_piillo_blimport_2 = city
+#b_piillo_blimport_3 = temple
+#b_piillo_blimport_4 = castle
+#b_piillo_blimport_5 = city
+#b_piillo_blimport_6 = temple
+#b_piillo_blimport_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

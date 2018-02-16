@@ -1,0 +1,21 @@
+# c_woohoo_university
+
+# County Title
+title = c_woohoo_university
+
+# Settlements
+max_settlements = 7
+
+b_woohoo_university = castle
+#b_woohoo_university_2 = city
+#b_woohoo_university_3 = temple
+#b_woohoo_university_4 = castle
+#b_woohoo_university_5 = city
+#b_woohoo_university_6 = temple
+#b_woohoo_university_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

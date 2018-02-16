@@ -1,0 +1,21 @@
+# c_pirates_bluff
+
+# County Title
+title = c_pirates_bluff
+
+# Settlements
+max_settlements = 7
+
+b_pirates_bluff = castle
+#b_pirates_bluff_2 = city
+#b_pirates_bluff_3 = temple
+#b_pirates_bluff_4 = castle
+#b_pirates_bluff_5 = city
+#b_pirates_bluff_6 = temple
+#b_pirates_bluff_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

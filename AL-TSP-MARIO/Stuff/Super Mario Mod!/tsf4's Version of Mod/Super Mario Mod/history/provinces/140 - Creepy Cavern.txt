@@ -1,0 +1,21 @@
+# c_creepy_cavern
+
+# County Title
+title = c_creepy_cavern
+
+# Settlements
+max_settlements = 7
+
+b_creepy_cavern = castle
+#b_creepy_cavern_2 = city
+#b_creepy_cavern_3 = temple
+#b_creepy_cavern_4 = castle
+#b_creepy_cavern_5 = city
+#b_creepy_cavern_6 = temple
+#b_creepy_cavern_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

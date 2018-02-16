@@ -1,0 +1,21 @@
+# c_easton_caves
+
+# County Title
+title = c_easton_caves
+
+# Settlements
+max_settlements = 7
+
+b_easton_caves = castle
+#b_easton_caves_2 = city
+#b_easton_caves_3 = temple
+#b_easton_caves_4 = castle
+#b_easton_caves_5 = city
+#b_easton_caves_6 = temple
+#b_easton_caves_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

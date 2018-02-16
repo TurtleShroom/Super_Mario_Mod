@@ -1,0 +1,21 @@
+# c_awazon_estuary
+
+# County Title
+title = c_awazon_estuary
+
+# Settlements
+max_settlements = 7
+
+b_awazon_estuary = castle
+#b_awazon_estuary_2 = city
+#b_awazon_estuary_3 = temple
+#b_awazon_estuary_4 = castle
+#b_awazon_estuary_5 = city
+#b_awazon_estuary_6 = temple
+#b_awazon_estuary_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

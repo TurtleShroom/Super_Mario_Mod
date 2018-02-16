@@ -1,0 +1,21 @@
+# c_tailfin_bay
+
+# County Title
+title = c_tailfin_bay
+
+# Settlements
+max_settlements = 7
+
+b_tailfin_bay = castle
+#b_tailfin_bay_2 = city
+#b_tailfin_bay_3 = temple
+#b_tailfin_bay_4 = castle
+#b_tailfin_bay_5 = city
+#b_tailfin_bay_6 = temple
+#b_tailfin_bay_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

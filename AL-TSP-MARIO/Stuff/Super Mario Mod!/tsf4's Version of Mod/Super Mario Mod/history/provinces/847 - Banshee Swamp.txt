@@ -1,0 +1,21 @@
+# c_banshee_swamp
+
+# County Title
+title = c_banshee_swamp
+
+# Settlements
+max_settlements = 7
+
+b_banshee_swamp = castle
+#b_banshee_swamp_2 = city
+#b_banshee_swamp_3 = temple
+#b_banshee_swamp_4 = castle
+#b_banshee_swamp_5 = city
+#b_banshee_swamp_6 = temple
+#b_banshee_swamp_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

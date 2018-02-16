@@ -1,0 +1,21 @@
+# c_easton_range
+
+# County Title
+title = c_easton_range
+
+# Settlements
+max_settlements = 7
+
+b_easton_range = castle
+#b_easton_range_2 = city
+#b_easton_range_3 = temple
+#b_easton_range_4 = castle
+#b_easton_range_5 = city
+#b_easton_range_6 = temple
+#b_easton_range_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

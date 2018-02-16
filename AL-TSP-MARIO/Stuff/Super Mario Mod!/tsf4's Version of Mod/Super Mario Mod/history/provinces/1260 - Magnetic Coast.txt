@@ -1,0 +1,21 @@
+# c_magnetic_coast
+
+# County Title
+title = c_magnetic_coast
+
+# Settlements
+max_settlements = 7
+
+b_magnetic_coast = castle
+#b_magnetic_coast_2 = city
+#b_magnetic_coast_3 = temple
+#b_magnetic_coast_4 = castle
+#b_magnetic_coast_5 = city
+#b_magnetic_coast_6 = temple
+#b_magnetic_coast_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

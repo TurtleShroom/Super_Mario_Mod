@@ -1,0 +1,21 @@
+# c_acorn_plains
+
+# County Title
+title = c_acorn_plains
+
+# Settlements
+max_settlements = 7
+
+b_acorn_plains = castle
+#b_acorn_plains_2 = city
+#b_acorn_plains_3 = temple
+#b_acorn_plains_4 = castle
+#b_acorn_plains_5 = city
+#b_acorn_plains_6 = temple
+#b_acorn_plains_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

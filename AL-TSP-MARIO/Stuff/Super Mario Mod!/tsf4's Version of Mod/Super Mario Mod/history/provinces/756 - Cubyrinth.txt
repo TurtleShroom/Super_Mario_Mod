@@ -1,0 +1,21 @@
+# c_cubyrinth
+
+# County Title
+title = c_cubyrinth
+
+# Settlements
+max_settlements = 7
+
+b_cubyrinth = castle
+#b_cubyrinth_2 = city
+#b_cubyrinth_3 = temple
+#b_cubyrinth_4 = castle
+#b_cubyrinth_5 = city
+#b_cubyrinth_6 = temple
+#b_cubyrinth_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

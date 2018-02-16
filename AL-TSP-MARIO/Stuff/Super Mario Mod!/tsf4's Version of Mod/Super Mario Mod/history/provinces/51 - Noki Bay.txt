@@ -1,0 +1,21 @@
+# c_noki_bay
+
+# County Title
+title = c_noki_bay
+
+# Settlements
+max_settlements = 7
+
+b_noki_bay = castle
+#b_noki_bay_2 = city
+#b_noki_bay_3 = temple
+#b_noki_bay_4 = castle
+#b_noki_bay_5 = city
+#b_noki_bay_6 = temple
+#b_noki_bay_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

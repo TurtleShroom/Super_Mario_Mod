@@ -1,0 +1,21 @@
+# c_delfino_airstrip
+
+# County Title
+title = c_delfino_airstrip
+
+# Settlements
+max_settlements = 7
+
+b_delfino_airstrip = castle
+#b_delfino_airstrip_2 = city
+#b_delfino_airstrip_3 = temple
+#b_delfino_airstrip_4 = castle
+#b_delfino_airstrip_5 = city
+#b_delfino_airstrip_6 = temple
+#b_delfino_airstrip_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_koopacropolis
+
+# County Title
+title = c_koopacropolis
+
+# Settlements
+max_settlements = 7
+
+b_koopacropolis = castle
+#b_koopacropolis_2 = city
+#b_koopacropolis_3 = temple
+#b_koopacropolis_4 = castle
+#b_koopacropolis_5 = city
+#b_koopacropolis_6 = temple
+#b_koopacropolis_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

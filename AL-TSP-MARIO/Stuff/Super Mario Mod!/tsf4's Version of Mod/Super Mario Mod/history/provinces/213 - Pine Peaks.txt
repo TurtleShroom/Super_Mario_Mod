@@ -1,0 +1,21 @@
+# c_pine_peaks
+
+# County Title
+title = c_pine_peaks
+
+# Settlements
+max_settlements = 7
+
+b_pine_peaks = castle
+#b_pine_peaks_2 = city
+#b_pine_peaks_3 = temple
+#b_pine_peaks_4 = castle
+#b_pine_peaks_5 = city
+#b_pine_peaks_6 = temple
+#b_pine_peaks_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

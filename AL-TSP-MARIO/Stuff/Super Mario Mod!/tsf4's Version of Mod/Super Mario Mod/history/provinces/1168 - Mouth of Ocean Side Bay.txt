@@ -1,0 +1,21 @@
+# c_mouth_of_ocean_side_bay
+
+# County Title
+title = c_mouth_of_ocean_side_bay
+
+# Settlements
+max_settlements = 7
+
+b_mouth_of_ocean_side_bay = castle
+#b_mouth_of_ocean_side_bay_2 = city
+#b_mouth_of_ocean_side_bay_3 = temple
+#b_mouth_of_ocean_side_bay_4 = castle
+#b_mouth_of_ocean_side_bay_5 = city
+#b_mouth_of_ocean_side_bay_6 = temple
+#b_mouth_of_ocean_side_bay_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

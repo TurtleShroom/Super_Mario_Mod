@@ -1,0 +1,21 @@
+# c_shy_guy_beach
+
+# County Title
+title = c_shy_guy_beach
+
+# Settlements
+max_settlements = 7
+
+b_shy_guy_beach = castle
+#b_shy_guy_beach_2 = city
+#b_shy_guy_beach_3 = temple
+#b_shy_guy_beach_4 = castle
+#b_shy_guy_beach_5 = city
+#b_shy_guy_beach_6 = temple
+#b_shy_guy_beach_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

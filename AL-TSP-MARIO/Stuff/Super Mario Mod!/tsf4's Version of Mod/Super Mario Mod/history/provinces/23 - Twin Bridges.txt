@@ -1,0 +1,21 @@
+# c_twin_bridges
+
+# County Title
+title = c_twin_bridges
+
+# Settlements
+max_settlements = 7
+
+b_twin_bridges = castle
+#b_twin_bridges_2 = city
+#b_twin_bridges_3 = temple
+#b_twin_bridges_4 = castle
+#b_twin_bridges_5 = city
+#b_twin_bridges_6 = temple
+#b_twin_bridges_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

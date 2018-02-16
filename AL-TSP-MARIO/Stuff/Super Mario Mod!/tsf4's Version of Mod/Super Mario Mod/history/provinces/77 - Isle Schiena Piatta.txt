@@ -1,0 +1,21 @@
+# c_isle_schiena_piatta
+
+# County Title
+title = c_isle_schiena_piatta
+
+# Settlements
+max_settlements = 7
+
+b_isle_schiena_piatta = castle
+#b_isle_schiena_piatta_2 = city
+#b_isle_schiena_piatta_3 = temple
+#b_isle_schiena_piatta_4 = castle
+#b_isle_schiena_piatta_5 = city
+#b_isle_schiena_piatta_6 = temple
+#b_isle_schiena_piatta_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

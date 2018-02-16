@@ -1,0 +1,21 @@
+# c_switchboard_falls
+
+# County Title
+title = c_switchboard_falls
+
+# Settlements
+max_settlements = 7
+
+b_switchboard_falls = castle
+#b_switchboard_falls_2 = city
+#b_switchboard_falls_3 = temple
+#b_switchboard_falls_4 = castle
+#b_switchboard_falls_5 = city
+#b_switchboard_falls_6 = temple
+#b_switchboard_falls_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

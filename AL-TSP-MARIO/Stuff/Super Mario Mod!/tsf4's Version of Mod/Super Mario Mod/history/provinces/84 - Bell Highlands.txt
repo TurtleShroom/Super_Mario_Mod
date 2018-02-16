@@ -1,0 +1,21 @@
+# c_bell_highlands
+
+# County Title
+title = c_bell_highlands
+
+# Settlements
+max_settlements = 7
+
+b_bell_highlands = castle
+#b_bell_highlands_2 = city
+#b_bell_highlands_3 = temple
+#b_bell_highlands_4 = castle
+#b_bell_highlands_5 = city
+#b_bell_highlands_6 = temple
+#b_bell_highlands_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

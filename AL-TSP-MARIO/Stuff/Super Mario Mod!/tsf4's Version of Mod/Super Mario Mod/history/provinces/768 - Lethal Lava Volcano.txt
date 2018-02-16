@@ -1,0 +1,21 @@
+# c_lethal_lava_volcano
+
+# County Title
+title = c_lethal_lava_volcano
+
+# Settlements
+max_settlements = 7
+
+b_lethal_lava_volcano = castle
+#b_lethal_lava_volcano_2 = city
+#b_lethal_lava_volcano_3 = temple
+#b_lethal_lava_volcano_4 = castle
+#b_lethal_lava_volcano_5 = city
+#b_lethal_lava_volcano_6 = temple
+#b_lethal_lava_volcano_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

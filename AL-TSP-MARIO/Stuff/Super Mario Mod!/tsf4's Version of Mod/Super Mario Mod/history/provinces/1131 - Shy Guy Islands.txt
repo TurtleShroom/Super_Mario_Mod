@@ -1,0 +1,21 @@
+# c_shy_guy_islands
+
+# County Title
+title = c_shy_guy_islands
+
+# Settlements
+max_settlements = 7
+
+b_shy_guy_islands = castle
+#b_shy_guy_islands_2 = city
+#b_shy_guy_islands_3 = temple
+#b_shy_guy_islands_4 = castle
+#b_shy_guy_islands_5 = city
+#b_shy_guy_islands_6 = temple
+#b_shy_guy_islands_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

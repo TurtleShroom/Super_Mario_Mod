@@ -1,0 +1,21 @@
+# c_savage_heights
+
+# County Title
+title = c_savage_heights
+
+# Settlements
+max_settlements = 7
+
+b_savage_heights = castle
+#b_savage_heights_2 = city
+#b_savage_heights_3 = temple
+#b_savage_heights_4 = castle
+#b_savage_heights_5 = city
+#b_savage_heights_6 = temple
+#b_savage_heights_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

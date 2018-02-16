@@ -1,0 +1,182 @@
+d_star_spirits = {
+	color={ 255 255 0 }
+	color2={ 225 225 0 }
+	
+	capital = 333 # Rome
+	
+	title = "STAR_SPIRIT"
+	short_name = yes
+	location_ruler_title = yes
+	
+	# Always exists
+	landless = yes
+	
+	# Controls a religion
+	controls_religion = seven_stars
+	
+	religion = seven_stars
+	
+	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+	
+	# Regnal names
+	male_names = {
+		Eldstar
+	}
+	female_names = {
+		Eldstar
+	}
+}
+
+d_greed_spirit = {
+	color={ 0 132 4 }
+	color2={ 0 84 1 }
+	
+	capital = 32 # Middlesex
+	
+	title = "GREED_SPIRIT"
+	short_name = yes
+	location_ruler_title = yes
+	
+	# Always exists
+	landless = yes
+	
+	# Controls a religion
+	controls_religion = greed
+	
+	religion = greed
+	
+	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+	
+}
+
+d_gambling = {
+	color={ 255 199 0 }
+	color2={ 250 184 1 }
+	
+	capital = 107 # Anjou
+	
+	title = "GAMBLING_MASTER"
+	
+	creation_requires_capital = no
+	
+	allow = {
+		religion = gambling
+		num_of_holy_sites = 5
+		piety = 500
+	}
+	
+	short_name = yes
+	
+	dignity = 100 # Counted as having this many more counties than it does
+	
+	# Controls a religion
+	controls_religion = gambling
+	
+	religion = gambling
+	
+	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+}
+
+d_cult_of_bowser = {
+	color={ 4 78 0 }
+	color2={ 8 122 0 }
+	
+	capital = 510 # Constantia
+	
+	title = "KING_BOWSER"
+	
+	creation_requires_capital = no
+	
+	allow = {
+		religion = bowser_religion
+		#dynasty = BOWSER
+		#trait = bowser
+		piety = 500
+	}
+	
+	short_name = yes
+	
+	# Controls a religion
+	controls_religion = bowser_religion
+	
+	religion = bowser_religion
+	
+	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+}
+
+d_cult_of_smithy = {
+	color={ 192 192 192 }
+	color2={ 96 96 96 }
+	
+	capital = 149 # Bordeaux
+	
+	title = "KING_SMITHY"
+	
+	creation_requires_capital = no
+	
+	allow = {
+		religion = smithy_religion
+		#dynasty = BOWSER
+		#trait = bowser
+		piety = 500
+	}
+	
+	short_name = yes
+	
+	# Controls a religion
+	controls_religion = smithy_religion
+	
+	religion = smithy_religion
+	
+	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+}
+
+d_twilight_towner = {
+	color={ 66 162 255 }
+	color2={ 0 255 255 }
+	
+	capital = 135 # Bourgogne
+	
+	title = "POPE"
+	foa = "POPE_FOA"
+	short_name = yes
+	location_ruler_title = yes
+	
+	# Always exists
+	landless = yes
+	
+	# Controls a religion
+	controls_religion = twilight_towner
+	
+	religion = twilight_towner
+	
+	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+	
+}
+
+d_shroob = {
+	color={ 255 0 255 }
+	color2={ 200 0 200 }
+	
+	capital = 382 # Suomi
+	
+	title = "KING_COMMANDER"
+	
+	creation_requires_capital = no
+	
+	allow = {
+		religion = shroob
+		#dynasty = BOWSER
+		#trait = bowser
+		piety = 500
+	}
+	
+	short_name = yes
+	
+	# Controls a religion
+	controls_religion = shroob
+	
+	religion = shroob
+	
+	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+}

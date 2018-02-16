@@ -1,0 +1,21 @@
+# c_mini_game_house
+
+# County Title
+title = c_mini_game_house
+
+# Settlements
+max_settlements = 7
+
+b_mini_game_house = castle
+#b_mini_game_house_2 = city
+#b_mini_game_house_3 = temple
+#b_mini_game_house_4 = castle
+#b_mini_game_house_5 = city
+#b_mini_game_house_6 = temple
+#b_mini_game_house_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

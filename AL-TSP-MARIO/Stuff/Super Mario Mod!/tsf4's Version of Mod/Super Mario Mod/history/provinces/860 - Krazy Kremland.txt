@@ -1,0 +1,21 @@
+# c_krazy_kremland
+
+# County Title
+title = c_krazy_kremland
+
+# Settlements
+max_settlements = 7
+
+b_krazy_kremland = castle
+#b_krazy_kremland_2 = city
+#b_krazy_kremland_3 = temple
+#b_krazy_kremland_4 = castle
+#b_krazy_kremland_5 = city
+#b_krazy_kremland_6 = temple
+#b_krazy_kremland_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

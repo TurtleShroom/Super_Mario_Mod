@@ -1,0 +1,21 @@
+# c_northern_sea_of_kong
+
+# County Title
+title = c_northern_sea_of_kong
+
+# Settlements
+max_settlements = 7
+
+b_northern_sea_of_kong = castle
+#b_northern_sea_of_kong_2 = city
+#b_northern_sea_of_kong_3 = temple
+#b_northern_sea_of_kong_4 = castle
+#b_northern_sea_of_kong_5 = city
+#b_northern_sea_of_kong_6 = temple
+#b_northern_sea_of_kong_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

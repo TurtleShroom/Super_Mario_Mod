@@ -1,0 +1,302 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or cultures, make sure they are unique.
+
+scallywag = {
+	graphical_cultures = { westerngfx }
+
+	pirate = {
+		graphical_cultures = { frankishgfx }
+		
+		color = { 0 0 0 }
+		male_names = {
+			Spike_Spike Bifun Hinyari Funfun Bobo Zenisuki Genie Snake_Snake Dunk Kamukamu Awabo Kuri Morgan_Morgan Henry_Henry Hector_Hector Barrett John_John Roger_Roger Robert_Robert Richard_Richard Bart_Bartholomew
+		}
+		female_names = {
+			Maple_Maple Teuta Rusila Stikla Alvid Wigbiorg Hetha Wisna Alfhild Ladgerda Ealhflæd Jeanne_Joan Elise_Elisabeth Gráinne Sayyida Mary_Maria Elizabeth_Elisabeth Jacquotte Christina_Christina Anna_Anna 
+		}
+		from_dynasty_prefix = "de "
+		grammar_transform = french
+		founder_named_dynasties = yes
+		modifier = default_culture_modifier
+		dukes_called_kings = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+	}
+
+}
+
+
+mushroom = {
+	graphical_cultures = { westerngfx }
+
+	mushroom_kingdom = {
+		graphical_cultures = { frankishgfx }
+		
+		color = { 1 0 1 }
+		male_names = {
+			Mario_Mario Luigi_Luigi Chuck_Charles Russ_Russell Muss Chet_Chester Rip Harry_Henry Fice Fishmael Frost Mort_Morton Dane Toad Shroomlock Mushbert Toadbert Perry Har Frail
+		}
+		female_names = {
+			Maple_Maple Tayce Chanterelle Frost Minh Vanna Dane Toadette Toadiko Divini Trini Bit Frail
+		}
+		from_dynasty_prefix = "de "
+		grammar_transform = french
+		founder_named_dynasties = yes
+		modifier = default_culture_modifier
+		dukes_called_kings = yes
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+	}
+
+}
+
+
+yoshi = {
+	graphical_cultures = { westerngfx }
+
+	yoshi_island = {
+		graphical_cultures = { frankishgfx }
+		
+		color = { 0.06 0.53 0 }
+		male_names = {
+			Yoshi_Yoshi Green Red Yellow Blue Pink "Light Blue" Purple Brown Black White Orange Magenta Yoshisaur
+		}
+		female_names = {
+			Yoshi_Yoshi Green Red Yellow Blue Pink "Light Blue" Purple Brown Black White Orange Magenta Yoshisaur
+		}
+		from_dynasty_prefix = "de "
+		grammar_transform = french
+		founder_named_dynasties = yes
+		modifier = default_culture_modifier
+		dukes_called_kings = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+	}
+
+}
+
+beanish = {
+	graphical_cultures = { westerngfx }
+
+	beanbean_kingdom = {
+		graphical_cultures = { frankishgfx }
+		
+		color = { 0.29 0.97 0.25 }
+		male_names = {
+			Fava_Fava Boddle Cork Cask Harhall Popple Fawful Vetches_Vetch Fuscicornis Pug Flame Blackneck Vetch_Vetch Cracco Dumetorum Ervil Menziesii Nigricans Orobus Tare Sepium Bush Wood Lentil Hairy Fodder Winter Faba_Fava Broad Field Tic Horse Wild Tepary Acutifolius Coccineus Runner Lunatus String Flageolet French Garden Green Vulgaris Snap Mat Moth Turk Dew Mungo_Mung "Urad Dal" Mung_Mung Moong_Mung Groundnut Congo Goober Hog Ricebean Rice Blackeye Yardlong Asparagus Snake Cicer Garbanzo Lathyrus Vetchling Tuberous Earthnut Aardaker Lens Lablab Purpureus Bonavist Dolichos Seim Lablab Kidney Soy Psophocarpus Wing Mauritius Cajan Cajanus Deereye "Donkey eye" Oxeye Hamburger Lyon Guar Cluster Cyamopsis Haricot Navy Pork Arachis Lupinus_Lupin Albus Mutabilis Lupin_Lupin "Horse Gram" Macrotyloma Uniflorum Sword Ensiformis Jack_John Tetragonoloba Castor Cannellini Pinto Coco
+		}
+		female_names = {
+			Bubbles Lima Vicia Cracella Pandalis Lugubrella Alcetas Amandus Flame Pastinum "Angle Shades" Colias Sinapis Nigricana Americana Benghalensis Caroliniana Cracca Ervilia Hassei Hirsuta Lathyroides Lutea Menziesia Pannonica Pyrenaica Sativa Sepia Sylvatica Tetrasperma Sparrow Villosa Winter Broad Bell Phaseolus Acutifolia Coccinea Scarlet  Multiflora Butter Fine Aconitifolia Moth Matki Adzuki Minumulu Vigna Bambara Pea Subterranea Umbellata Cowpea Unguiculata Sesquipedalis Bora Bodi Cicerea Chickpea Ceci Cece Chana Kabuli Arietinum Pisum Hyacinth Bonavista Egypt India Bataw Australia Glycine Soy Goa Manila Pigeon Mucuna Prurien Velvet Bengal Florida Yokohama Cowage Cowitch Lacuna Cyamopsis Guar Fasolada Kuru Fasulye Fasoulia Fagiolata Peanut Lupine_Lupin Canavalia Gladiata Canavalia Ricinus Coco
+		}
+		from_dynasty_prefix = "de "
+		grammar_transform = french
+		founder_named_dynasties = yes
+		modifier = default_culture_modifier
+		dukes_called_kings = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+	}
+
+	hoohooligan = {
+		graphical_cultures = { frankishgfx }
+		
+		color = { 0.52 0.73 0.19 }
+		male_names = {
+			Sledge Mallet Noam Thoreau Emiliano Zeno Xeno Derrick Mikhail Justice Rand Viktor Zero Ike Karl Alexander_Alexander Alex_Alexander Murray Texas Adversus Anarcho Az Banksy Bartolomeo Buenaventura Fiasco Jello Kropotkin Libertine Menshevik Nihil Sham Sinner Solo Stza V Voltaire X Pietro Acciarito Francisco Ascaso Berkman Berneri Marie_Maria Louise_Louise Berneri Bookchin Georges_George Gaetano Bresci Carlo_Charles Cafiero Marco Camenisch Geronimo Caserio Lev Chomsky Leon Jacques Luigi_Luigi Francisco Ferrer Juan_John Oliver Goldman William_William Godwin Woody Harrelson Pëtr_Peter Kropotkin Gino Lucetti Saverio Merlino Michel Johann_John Most Tresca Carlo_Charles Benjamin_Benjamin Tucker John_John Zerzan Imier Nestor Makhno Brad_Bradley Will_William Mikhaïlo Enckell Keith Eaton Brian Feigenbaum Lawrence Butler Jessie Constable Bill Haywood Mikhail Alexandrovich Bakunin James_James Guillaume Henri Tolain Albert Parsons August Spies Sam Mbah Henry Glasse Vladimir Shatoff Andrew Nellis Brent Taylor Doug Stewart Gerry Errico Malatesta Tepito Barrio "Kom boa" Ervin Lorenzo Ricardo Guerrero Martin Capetillo Durruti Column Anarkismo CrimethInc "Curious George" Joel Olson Todd Cassius Cook Sprading Clarence Lee Swartz Cohen Hans Rossner Thomas Bell Jim_James Bumpas Ben Morea Dan_Daniel Georgakas Amiri Baraka Abbie Hoffman Tom Neumann Herbert Marcuse Sundstrom Alan Phillips Bogle Hugo Chávez Joaquin Antonio Huang Xing Liu Shipei Satoshi Akao 
+		}
+		female_names = {
+			Emma Ayn Liberty Antigone Millicent Soledad Valerie Victory Ron Morrigan Evie Adversa Anarchazelie Anemy Azelie Vanzetti Catalonia Decency Decency Discordia Dissidence Equality Inimica Libertine Messie Mononoke Nicola Sacco Rebel Sham Sinner Stza Valourie Voltairine X Brassens Sante Chernyi Czolgosz Alexandra_Alexander Durruti Ellul Fabbri Guardia Garcia Ursula "Le Guin" Louise_Louise Most Elisée_Elise Reclus Ferrua Marie-Christine  Marianne_Marie Jo Mira Amy Susan Jessie Rothstien Auca Sam Zabalaza  Ann Hansen Juliet Caroline Belmas Hannah Malatesta Lucy Parsons Flores Magón Práxedis Sostre Luisa Dumba Cindy Milstein Harsha Walia May Mujeres Creando María Galindo Mónica Mendoza Julieta Paredes Penina Pellicer Paraire Huang Xing He-Yin Zhen 
+		}
+		from_dynasty_prefix = "de "
+		grammar_transform = french
+		founder_named_dynasties = yes
+		modifier = default_culture_modifier
+		dukes_called_kings = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+	}
+	
+	
+}
+
+
+delfino_islands = {
+	graphical_cultures = { westerngfx }
+
+	delfino = {
+		graphical_cultures = { frankishgfx }
+		
+		color = { 1 0.5 0 }
+		male_names = {
+			"Big Daddy" Joey_Joseph Fingers_Francis "The King" "Big Sam" "Joey Batters" "Big Tuna" Tumac_Anthony Carmine Tipp_Thomas Phil_Philip Felix_Philip "The Hook" Jimmy_James Vincent_Vincent Benny_Benjamin Benedetto_Benjamin Vinny_Vincent Smokes "Two-Knife" Jake Giacomo Frank_Francis Samuzzo_Samuel Samoots_Samuel "Little Vic" Victor_Victor Albert_Albert "Mad Hatter" "Tough Tony" Salvatore Tony_Anthony Joe_Joseph Donald_Donald Don_Donald Tico_Anthony Ignacio John_John Buster_John "Joe Piney" Steve_Stephen Stephen_Stephen Vinnie_Vincent "Louie Ha Ha" Louis_Louis Lou_Louis Alphonse_Alphonse "Mr. Big" Nicholas_Nicholas Nick_Nicholas Nicky_Nicholas Johnny_John Barney Teets_Samuel "The Wig" "The Toupee" "The Doberman" "Zombie Bilotti" "The Pitbull" Tommy_Thomas Charlie_Charles Charles_Charles "Little Rabbit" Tillio_Attila Attila_Attila Attilio_Attila "The Shadow" Richie_Richard Richard_Richard "The Tall Guy" Caesare_Caesar Giovanni_John Rosario Bartholomew_Bartholomew Bobby_Robert Robert_Robert Al_Alphonse "The Horse" Willie_William Shellackhead "The Breeze" Dominick Sylvestro Scarface Ray_Raymond Raymond_Raymond Lucky Gino Mario_Mario
+		}
+		female_names = {
+			Theresa Kristy_Christina Christina_Christina Bonnie_Bonne Stephanie_Stephen Opal Helen_Helen Ma Pearl "Pretty Pants" Virginia Arlyne Evelyn Rosetta Erminia Maria_Maria Pupetta Giusy Enedina Griselda Jennifer_Jennifer Drita Carla_Carla Karen Renee Angela_Angela Ramona_Ramona Love Natalie_Natalie Alicia Giada Giulia Allegra Arabella Clara Cosima Elena Emiliana Lucia Sylvia Ariana Bianca Elisa Emilia Lea Marisa Siena Abriana Alonza Bianca Camila Cara Claudina Columbine Constanza Contessa Donatella Donna Fabia Flavia Gia Gina Isabella_Isabella Leonora Liliana Lucia Madonna Mona Octavia Regina Rosa Rosalina_Rosalina Serena Terra Valentina Zarah
+		}
+		from_dynasty_prefix = "de "
+		grammar_transform = french
+
+		modifier = default_culture_modifier
+
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+	}
+	
+	fish_islands = {
+		graphical_cultures = { frankishgfx }
+		
+		color = { 1 0.51 0.76 }
+		male_names = {
+			Santiago Sebastián Matías Mateo Nicolás_Nicholas Alejandro_Alexander Diego Samuel_Samuel Benjamín_Benjamin Daniel_Daniel Joaquín Lucas_Luke Tomas_Thomas Gabriel Martín David_David Emiliano Jerónimo Emmanuel Agustín "Juan Pablo" "Juan José" Andrés Thiago Leonardo_Leonardo Felipe_Phillip Ángel Maximiliano Christopher_Christopher "Juan Diego" Adrián_Adrian Pablo "Miguel Ángel" Rodrigo Alexander_Alexander Ignacio Emilio Dylan Bruno Carlos_Charles Vicente_Vincent Valentino Santino Julián "Juan Sebastián" Aarón Lautaro Axel Fernando Ian_John Christian Javier Manuel Luciano Francisco_Francis "Juan David" Iker Facundo Rafael Alex_Alexander Franco_Francis Antonio_Anthony Luis_Louis Isaac Máximo Pedro Ricardo_Richard Sergio Eduardo Bautista Miguel Cristóbal Kevin Jorge_George Alonso Anthony_Anthony Simón_Simon Juan_John Joshua "Diego Alejandro" "Juan Manuel" Mario_Mario Alan Josué Gael Hugo Matthew_Matthew Ivan_John Damián Lorenzo "Juan Martín" Esteban_Stephen Álvaro Valentín Dante Jacobo_Jacob Jesús Camilo "Juan Esteban" Elías
+		}
+		female_names = {
+			Sofia_Sophia Isabella_Isabella Camila Valentina Valeria_Valerie Mariana Luciana Daniela_Danielle Gabriela Victoria Martina Lucia Ximena_Jimena Jimena_Jimena Sara Samantha "Maria José" Emma Catalina Julieta Mía Antonella Renata Emilia Natalia_Natalie Zoe Nicole_Nichole Paula Amanda "María Fernanda" Emily Antonia Alejandra Juana Andrea Manuela "Ana Sofia" Guadalupe Agustina Elena María Bianca Ariana Ivanna Abril Florencia Carolina Maite Rafaela Regina Adriana_Adriana Michelle Alma Violeta Salomé Abigail Juliana Valery Isabel_Isabella Montserrat Allison Jazmín Julia Lola Luna Ana Delfina Alessandra Ashley Olivia Constanza Paulina Rebeca Carla "María Paula" Micaela Fabiana Miranda Josefina Laura Alexa_Alexandra "María Alejandra" Luana Fátima "Sara Sofía" Isidora Malena Romina "Ana Paula" Mariangel Amelia Elizabeth Aitana Ariadna "María Camila" Irene Silvana Clara Magdalena Sophie_Sophia Josefa
+			}
+		from_dynasty_prefix = "de "
+		grammar_transform = french
+
+		modifier = default_culture_modifier
+
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+	}
+	
+ crab_islands = {
+		graphical_cultures = { frankishgfx }
+		
+		color = { 1 0 0 }
+		male_names = {
+			Pietro_Peter Valerio Lindo Antonio_Anthony Lauro Lucio Silvano Rosso Mario_Mario Angelo Luciano_Luke Giacomo Alessandro Elisabetto Alberto_Albert Hans Alessio Anno Nitto Piero Ferdinando Nicolo_Nicholas Mauro Marino Andreo_Andrew Altero Roberto_Robert Massimo Maurizio_Maurice Emilio Giuseppe Francesco_Francis Marinello Vannino Dario Stefano_Stephen Luisello_Louis Teo Vincenzo_Vincent Seso Sofio Michelo_Michael Ileano Tiziano Cristino Davide_David Demetrio Tereso Gianlucco Paolo Mariastello Matteo Ross Caterino Franco Tamaro Luigi_Luigi Gianpieri Lorenzo Simon Fulvio Enrico Luiso_Louis Chiaro Giorgio_George Gianclaudio Micaelo Emanuele Salvatore Sabrino Ernesto Daniel_Daniel Renzo Eleno Maro Marco_Mark Piergiorgio Ezio Floriano Bruno Khalid Eleonoro Miriamo Filippo_Phillip Diego Magdo Gian_John Cesare_Caesar Umberto Caro Roger Vittorio_Victor Ettore 
+		}
+		female_names = {
+			Pietra Valeria_Valerie Linda Antonia Laura_Laura Lucia Silvana Rosa Maria_Maria Angelica Luciana Giacoma Alessandra Elisabetta_Elizabeth Alberta Hanna_Hannah Alessia Anna_Anna Nitta Piera Ferdinanda Nicola_Nichole Maura Marina Andrea Altera Roberta Massima Maurizia Emilia_Emily Giusepa Francesca Marinella Vanna Daria Stefanie_Stephanie Luisella Tea Vincenza Sesa Sofia_Sophia Michele_Michele Ileana Tiziana Cristina_Christine Davida Demetria Teresa Gianluca Paola Mariastella Mattea Rosy_Rosalina Caterina Franca Tamara Luigia Gianpieria Lorenza Simona Fulvia Enrica Luisa_Louise Chiara Giorgia Gianclaudia Micaela Emanuella Salvatoria Sabrina Ernesta Daniela Renza Elena Mara Marca Piergiorgia Ezia Floriana Bruna Khalida Eleonora Miriam_Maria Filippa Diega Magda Gianna Cesarra Umberta Cara Rogeria Vittoria_Victoria Ettora
+			}
+		from_dynasty_prefix = "de "
+		grammar_transform = french
+
+		modifier = default_culture_modifier
+
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+	}
+
+
+turtle_islands = {
+		graphical_cultures = { frankishgfx }
+		
+		color = { 0.84 0.59 0 }
+		male_names = {
+			Andrea_Andrew Marco_Mark Francesco_Francis Luca_Luke Matteo_Matthew Alessandro_Alexander Davide_David Lorenzo_Laurence Federico_Frederick Stefano_Stephen Riccardo_Richard Giuseppe Simone_Simon Daniele_Daniel Mattia Antonio_Anthony Gabriele_Gabriel Fabio Alberto_Albert Christian Emanuele Roberto_Robert Filippo_Phillip Giovanni_John Edoardo_Edward Michele_Michael Nicola_Nicholas Leonardo Alex_Alexander Claudio Giorgio_George Giacomo Domenico_Dominique Gianluca Alessio Mario_Mario Salvatore Raffaele_Raphael Nicolò_Nicholas Vincenzo_Vincent Carlo_Charles Luigi_Luigi Cristian Samuele_Samuel Pietro_Peter Michael_Michael Giulio Mauro Ivan_Stephen Nicholas_Nicholas Enrico_Henry Vito Paolo_Paul Thomas_Thomas Mirko Manuel Dario Kevin Tommaso_Thomas Leo Angelo Cyril Gianmarco Pier Gabriel_Gabriel Piero Flavio Guido Samuel_Samuel Vittorio Carmine Rosario Fabrizio Elia Eugenio_Eugene Mike_Michael Diego Massimo Tiziano Saverio Luciano Niccolò_Nicholas Max Elias Maurizio Patrick_Patrick Cristiano Daniel_Daniel Alfredo_Alfred Nicolas_Nicholas Damiano Simo_Simon Giordano_Jordan Martin_Martin David_David Rocco Emiliano Tom_Thomas Sergio Mark_Mark
+		}
+		female_names = {
+			Giulia_Julia Chiara Sara_Sarah Martina Francesca_Francine Silvia Elisa Laura_Laura Federica Alessia Alice Valentina Elèna Giorgia Eleonora Anna_Anna Claudia Sofia_Sophia Marta_Martha Ilaria Arianna Beatrice Irene Roberta Michela_Michelle Valeria_Valerie Gaia Alessandra_Alexandra Giada Simona Aurora Noemi Rebecca_Rebecca Cristina_Christina Maria_Maria Veronica Serena Benedetta Camilla Ludovica Paola_Paula Lisa_Lisa Greta Elisabetta_Elizabeth Caterina_Catherine Carlotta Lucrezia Jessica_Jessica Miriam_Maria Margherita_Margaret Annalisa Daniela_Danielle Letizia Sabrina Lucia Giovanna Ginevra Barbara Mary_Maria Sarah_Sarah Gloria Linda Cecilia Emma_Emma Monica Angela Matilde Vanessa Rachele_Rachel Marika Erika_Erica Nicole_Nichole Debora_Deborah Antonella Gabriella Viola Adele Stefania_Stephanie Diana_Diane Manuela Giusy Rosa Bianca Samantha Julia_Julia Angelica Luisa_Louise Teresa_Theresa Ilenia Emanuela Nadia Sonia Melissa_Melissa Isabella_Isabella Virginia_Virginia Marina Nicoletta Vale Marzia Eva
+			}
+		from_dynasty_prefix = "de "
+		grammar_transform = french
+
+		modifier = default_culture_modifier
+
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+	}
+	
+jellyfish_islands = {
+		graphical_cultures = { frankishgfx }
+		
+		color = { 0.95 0.88 0.18 }
+		male_names = {
+			João_John Luís_Louis Pedro Ricardo_Richard Tiago Rui Emanuel André_Andrew Ruben_Ruben Guilherme Miguel_Michael Bruno Afonso Francisco_Francis Michael_Michael "Tiago Fidalgo" Nuno Giorgi_George Marco_Mark Filipe_Phillip António_Anthony Jorge_George "Anjo-Thomas" Carlos_Charles Fernando Carlosp_Charles Cristiano Carina Bernardo "Diogo Amaral" Rodrigo_Roderick Mikael_Michael Tomás_Thomas Fabio Nikita Pedroj Hélder Renato Alfredo_Alfred Ronaldo_Ronald Johnson Beatriz Sam_Samuel Torres "Rui Brandão" Xavier Diallorahul Gustavo Diogo_Diaco Nort Hugo Zè Gonçalo "Gonçalo Pereira" "Daniel Costa" Anthony_Anthony "Luis Vasco" Marcos_Mark Thomas_Thomas "João Baptista" "Micael Gomes Silva" Manel Dillon "João Francisco Luís" "Paulo Batatel" Duarte Dylan Vasco Alex_Alexander "Maria João" "Bruno Ferreira" Simao Ferraz Dias Henry_Henry Alexis_Alexander "Adriano Moura" Jonh_John Martim_Martin "Taigo Sousa" "Diogo Martins" Jhon_John Lenz "José Nuno" Jesuina Danielo_Daniel David_David Gabriel_Gabriel Sérgio Claudio Rüstem Hazard Nils_Nigel Marcus_Mark Junius Brutus
+		}
+		female_names = {
+			Ana_Anna Inês Mariana_Maria Beatriz_Beatrice Catarina_Katrina Maria_Maria Rita_Rita Sofia_Sophia Sara_Sarah Joana_Joannah Margarida_Margaret Andreia_Andrea Carolina_Caroline Raquel_Rachel Isabel_Isabella Daniela_Danielle Patrícia_Patricia Filipa Diana_Diane Teresa_Theresa Adriana_Adriana Bárbara_Barbara Cátia Jessica_Jessica Marta_Martha Liliana Laura_Laura Alexandra_Alexandra Tatiana Matilde_Matilda Carina Márcia Liah_Leah Luisa_Louise Madalena_Madeline Angélica_Angelica Flávia Alice_Alice Nádia Juliana_Julia Carla "Ana Sofia" Susana_Susan Steph_Stephanie "Rita Calvinho Sousa" Bella 	Cristina_Christine "Renata Inácio" Marlene "Joana Pinto" Rafaela Fanny "Maria José Samapio" "Sara Sousa" "Luisa Vitória" Cheila "Juka Cross" Carol_Carol Ashley_Ashley "Ana Francisca Neto" "Sara Cardoso" "Ana Filipa" Li Marii_Maria Joanna_Joannah Dália Aurélaine Maya "Catarina Pacheco" Nara Vanda Pernette Iara Ida Sveta "Marlene Martins" "Priscila Oliveira" Sarav Lidia_Lydia Eduarda "Soraia Silva" "María Gomes" "Daniela Filipa" Zadelaide "Patrícia Bastos" Marina Danny_Danielle Nelma Marisa Vanessa "Joana Coelho" Océane Helena_Helen Shara Bianca "Emmy Ferreira" Lucianaa Vera_Vera Cláudia Fernanda
+			}
+		from_dynasty_prefix = "de "
+		grammar_transform = french
+
+		modifier = default_culture_modifier
+
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+	}
+	
+}

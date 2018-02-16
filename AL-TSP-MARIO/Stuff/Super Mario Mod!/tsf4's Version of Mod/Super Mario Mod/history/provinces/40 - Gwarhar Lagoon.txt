@@ -1,0 +1,21 @@
+# c_gwarhar_lagoon
+
+# County Title
+title = c_gwarhar_lagoon
+
+# Settlements
+max_settlements = 7
+
+b_gwarhar_lagoon = castle
+#b_gwarhar_lagoon_2 = city
+#b_gwarhar_lagoon_3 = temple
+#b_gwarhar_lagoon_4 = castle
+#b_gwarhar_lagoon_5 = city
+#b_gwarhar_lagoon_6 = temple
+#b_gwarhar_lagoon_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

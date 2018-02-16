@@ -1,0 +1,21 @@
+# c_quicksand
+
+# County Title
+title = c_quicksand
+
+# Settlements
+max_settlements = 7
+
+b_quicksand = castle
+#b_quicksand_2 = city
+#b_quicksand_3 = temple
+#b_quicksand_4 = castle
+#b_quicksand_5 = city
+#b_quicksand_6 = temple
+#b_quicksand_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

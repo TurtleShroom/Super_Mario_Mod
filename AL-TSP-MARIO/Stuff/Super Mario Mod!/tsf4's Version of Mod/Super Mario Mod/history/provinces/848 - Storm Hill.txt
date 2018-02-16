@@ -1,0 +1,21 @@
+# c_storm_hill
+
+# County Title
+title = c_storm_hill
+
+# Settlements
+max_settlements = 7
+
+b_storm_hill = castle
+#b_storm_hill_2 = city
+#b_storm_hill_3 = temple
+#b_storm_hill_4 = castle
+#b_storm_hill_5 = city
+#b_storm_hill_6 = temple
+#b_storm_hill_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_coral_cove
+
+# County Title
+title = c_coral_cove
+
+# Settlements
+max_settlements = 7
+
+b_coral_cove = castle
+#b_coral_cove_2 = city
+#b_coral_cove_3 = temple
+#b_coral_cove_4 = castle
+#b_coral_cove_5 = city
+#b_coral_cove_6 = temple
+#b_coral_cove_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

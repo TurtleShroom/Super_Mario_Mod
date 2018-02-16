@@ -1,0 +1,21 @@
+# c_vine_valley
+
+# County Title
+title = c_vine_valley
+
+# Settlements
+max_settlements = 7
+
+b_vine_valley = castle
+#b_vine_valley_2 = city
+#b_vine_valley_3 = temple
+#b_vine_valley_4 = castle
+#b_vine_valley_5 = city
+#b_vine_valley_6 = temple
+#b_vine_valley_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

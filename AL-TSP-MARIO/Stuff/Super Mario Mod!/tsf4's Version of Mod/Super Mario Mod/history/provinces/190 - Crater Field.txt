@@ -1,0 +1,21 @@
+# c_crater_field
+
+# County Title
+title = c_crater_field
+
+# Settlements
+max_settlements = 7
+
+b_crater_field = castle
+#b_crater_field_2 = city
+#b_crater_field_3 = temple
+#b_crater_field_4 = castle
+#b_crater_field_5 = city
+#b_crater_field_6 = temple
+#b_crater_field_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

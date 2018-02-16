@@ -1,0 +1,21 @@
+# c_chilly_mountain
+
+# County Title
+title = c_chilly_mountain
+
+# Settlements
+max_settlements = 7
+
+b_chilly_mountain = castle
+#b_chilly_mountain_2 = city
+#b_chilly_mountain_3 = temple
+#b_chilly_mountain_4 = castle
+#b_chilly_mountain_5 = city
+#b_chilly_mountain_6 = temple
+#b_chilly_mountain_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

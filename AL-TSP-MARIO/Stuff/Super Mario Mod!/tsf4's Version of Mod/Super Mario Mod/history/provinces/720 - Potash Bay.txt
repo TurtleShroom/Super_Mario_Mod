@@ -1,0 +1,21 @@
+# c_potash_bay
+
+# County Title
+title = c_potash_bay
+
+# Settlements
+max_settlements = 7
+
+b_potash_bay = castle
+#b_potash_bay_2 = city
+#b_potash_bay_3 = temple
+#b_potash_bay_4 = castle
+#b_potash_bay_5 = city
+#b_potash_bay_6 = temple
+#b_potash_bay_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

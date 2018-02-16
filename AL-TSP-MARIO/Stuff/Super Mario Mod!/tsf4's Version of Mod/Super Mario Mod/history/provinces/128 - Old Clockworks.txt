@@ -1,0 +1,21 @@
+# c_old_clockworks
+
+# County Title
+title = c_old_clockworks
+
+# Settlements
+max_settlements = 7
+
+b_old_clockworks = castle
+#b_old_clockworks_2 = city
+#b_old_clockworks_3 = temple
+#b_old_clockworks_4 = castle
+#b_old_clockworks_5 = city
+#b_old_clockworks_6 = temple
+#b_old_clockworks_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

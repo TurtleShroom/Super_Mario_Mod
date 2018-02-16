@@ -1,0 +1,21 @@
+# c_jungle_rapids
+
+# County Title
+title = c_jungle_rapids
+
+# Settlements
+max_settlements = 7
+
+b_jungle_rapids = castle
+#b_jungle_rapids_2 = city
+#b_jungle_rapids_3 = temple
+#b_jungle_rapids_4 = castle
+#b_jungle_rapids_5 = city
+#b_jungle_rapids_6 = temple
+#b_jungle_rapids_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

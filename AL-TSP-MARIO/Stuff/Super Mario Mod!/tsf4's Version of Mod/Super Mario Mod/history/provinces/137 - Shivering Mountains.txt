@@ -1,0 +1,21 @@
+# c_shivering_mountains
+
+# County Title
+title = c_shivering_mountains
+
+# Settlements
+max_settlements = 7
+
+b_shivering_mountains = castle
+#b_shivering_mountains_2 = city
+#b_shivering_mountains_3 = temple
+#b_shivering_mountains_4 = castle
+#b_shivering_mountains_5 = city
+#b_shivering_mountains_6 = temple
+#b_shivering_mountains_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

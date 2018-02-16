@@ -1,0 +1,21 @@
+# c_cape_of_bad_hope
+
+# County Title
+title = c_cape_of_bad_hope
+
+# Settlements
+max_settlements = 7
+
+b_cape_of_bad_hope = castle
+#b_cape_of_bad_hope_2 = city
+#b_cape_of_bad_hope_3 = temple
+#b_cape_of_bad_hope_4 = castle
+#b_cape_of_bad_hope_5 = city
+#b_cape_of_bad_hope_6 = temple
+#b_cape_of_bad_hope_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

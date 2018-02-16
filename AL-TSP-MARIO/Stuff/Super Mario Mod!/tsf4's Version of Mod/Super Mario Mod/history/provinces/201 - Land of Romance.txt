@@ -1,0 +1,21 @@
+# c_land_of_romance
+
+# County Title
+title = c_land_of_romance
+
+# Settlements
+max_settlements = 7
+
+b_land_of_romance = castle
+#b_land_of_romance_2 = city
+#b_land_of_romance_3 = temple
+#b_land_of_romance_4 = castle
+#b_land_of_romance_5 = city
+#b_land_of_romance_6 = temple
+#b_land_of_romance_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_banana_fairy_island
+
+# County Title
+title = c_banana_fairy_island
+
+# Settlements
+max_settlements = 7
+
+b_banana_fairy_island = castle
+#b_banana_fairy_island_2 = city
+#b_banana_fairy_island_3 = temple
+#b_banana_fairy_island_4 = castle
+#b_banana_fairy_island_5 = city
+#b_banana_fairy_island_6 = temple
+#b_banana_fairy_island_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

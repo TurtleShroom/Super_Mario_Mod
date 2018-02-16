@@ -1,0 +1,21 @@
+# c_faire_square
+
+# County Title
+title = c_faire_square
+
+# Settlements
+max_settlements = 7
+
+b_faire_square = castle
+#b_faire_square_2 = city
+#b_faire_square_3 = temple
+#b_faire_square_4 = castle
+#b_faire_square_5 = city
+#b_faire_square_6 = temple
+#b_faire_square_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

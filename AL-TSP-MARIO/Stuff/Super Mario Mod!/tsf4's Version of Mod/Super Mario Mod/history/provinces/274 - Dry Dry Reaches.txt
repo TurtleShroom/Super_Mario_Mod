@@ -1,0 +1,21 @@
+# c_dry_dry_reaches
+
+# County Title
+title = c_dry_dry_reaches
+
+# Settlements
+max_settlements = 7
+
+b_dry_dry_reaches = castle
+#b_dry_dry_reaches_2 = city
+#b_dry_dry_reaches_3 = temple
+#b_dry_dry_reaches_4 = castle
+#b_dry_dry_reaches_5 = city
+#b_dry_dry_reaches_6 = temple
+#b_dry_dry_reaches_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

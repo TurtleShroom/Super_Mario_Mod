@@ -1,0 +1,21 @@
+# c_horror_land
+
+# County Title
+title = c_horror_land
+
+# Settlements
+max_settlements = 7
+
+b_horror_land = castle
+#b_horror_land_2 = city
+#b_horror_land_3 = temple
+#b_horror_land_4 = castle
+#b_horror_land_5 = city
+#b_horror_land_6 = temple
+#b_horror_land_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

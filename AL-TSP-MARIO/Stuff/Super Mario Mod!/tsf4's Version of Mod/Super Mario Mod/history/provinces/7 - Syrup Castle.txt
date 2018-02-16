@@ -1,0 +1,21 @@
+# c_syrup_castle
+
+# County Title
+title = c_syrup_castle
+
+# Settlements
+max_settlements = 7
+
+b_syrup_castle = castle
+#b_syrup_castle_2 = city
+#b_syrup_castle_3 = temple
+#b_syrup_castle_4 = castle
+#b_syrup_castle_5 = city
+#b_syrup_castle_6 = temple
+#b_syrup_castle_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

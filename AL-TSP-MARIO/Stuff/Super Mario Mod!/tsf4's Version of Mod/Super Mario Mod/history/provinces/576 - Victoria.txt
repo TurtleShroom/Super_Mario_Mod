@@ -1,0 +1,21 @@
+# c_victoria
+
+# County Title
+title = c_victoria
+
+# Settlements
+max_settlements = 7
+
+b_victoria = castle
+#b_victoria_2 = city
+#b_victoria_3 = temple
+#b_victoria_4 = castle
+#b_victoria_5 = city
+#b_victoria_6 = temple
+#b_victoria_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

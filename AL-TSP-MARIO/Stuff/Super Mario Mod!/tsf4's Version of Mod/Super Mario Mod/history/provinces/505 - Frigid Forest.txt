@@ -1,0 +1,21 @@
+# c_frigid_forest
+
+# County Title
+title = c_frigid_forest
+
+# Settlements
+max_settlements = 7
+
+b_frigid_forest = castle
+#b_frigid_forest_2 = city
+#b_frigid_forest_3 = temple
+#b_frigid_forest_4 = castle
+#b_frigid_forest_5 = city
+#b_frigid_forest_6 = temple
+#b_frigid_forest_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

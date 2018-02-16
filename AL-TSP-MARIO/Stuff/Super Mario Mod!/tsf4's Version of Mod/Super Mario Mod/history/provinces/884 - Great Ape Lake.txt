@@ -1,0 +1,21 @@
+# c_great_ape_lake
+
+# County Title
+title = c_great_ape_lake
+
+# Settlements
+max_settlements = 7
+
+b_great_ape_lake = castle
+#b_great_ape_lake_2 = city
+#b_great_ape_lake_3 = temple
+#b_great_ape_lake_4 = castle
+#b_great_ape_lake_5 = city
+#b_great_ape_lake_6 = temple
+#b_great_ape_lake_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

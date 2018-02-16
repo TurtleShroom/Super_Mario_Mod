@@ -1,0 +1,21 @@
+# c_beanbean_airport
+
+# County Title
+title = c_beanbean_airport
+
+# Settlements
+max_settlements = 7
+
+b_beanbean_airport = castle
+#b_beanbean_airport_2 = city
+#b_beanbean_airport_3 = temple
+#b_beanbean_airport_4 = castle
+#b_beanbean_airport_5 = city
+#b_beanbean_airport_6 = temple
+#b_beanbean_airport_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

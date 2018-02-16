@@ -1,0 +1,21 @@
+# c_beanbean_castle
+
+# County Title
+title = c_beanbean_castle
+
+# Settlements
+max_settlements = 7
+
+b_beanbean_castle = castle
+#b_beanbean_castle_2 = city
+#b_beanbean_castle_3 = temple
+#b_beanbean_castle_4 = castle
+#b_beanbean_castle_5 = city
+#b_beanbean_castle_6 = temple
+#b_beanbean_castle_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

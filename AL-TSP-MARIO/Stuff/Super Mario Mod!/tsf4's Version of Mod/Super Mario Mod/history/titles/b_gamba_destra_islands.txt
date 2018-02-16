@@ -1,0 +1,7 @@
+
+1984.9.13=
+{
+	holder = 9970006
+	liege = d_crab_islands
+}
+

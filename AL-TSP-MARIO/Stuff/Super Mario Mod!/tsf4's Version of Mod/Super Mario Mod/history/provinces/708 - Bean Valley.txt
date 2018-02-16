@@ -1,0 +1,21 @@
+# c_bean_valley
+
+# County Title
+title = c_bean_valley
+
+# Settlements
+max_settlements = 7
+
+b_bean_valley = castle
+#b_bean_valley_2 = city
+#b_bean_valley_3 = temple
+#b_bean_valley_4 = castle
+#b_bean_valley_5 = city
+#b_bean_valley_6 = temple
+#b_bean_valley_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

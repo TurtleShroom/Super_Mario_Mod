@@ -1,0 +1,21 @@
+# c_land_of_ice
+
+# County Title
+title = c_land_of_ice
+
+# Settlements
+max_settlements = 7
+
+b_land_of_ice = castle
+#b_land_of_ice_2 = city
+#b_land_of_ice_3 = temple
+#b_land_of_ice_4 = castle
+#b_land_of_ice_5 = city
+#b_land_of_ice_6 = temple
+#b_land_of_ice_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

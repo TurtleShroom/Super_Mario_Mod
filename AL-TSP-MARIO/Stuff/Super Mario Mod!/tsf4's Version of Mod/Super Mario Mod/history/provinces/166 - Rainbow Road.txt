@@ -1,0 +1,21 @@
+# c_rainbow_road
+
+# County Title
+title = c_rainbow_road
+
+# Settlements
+max_settlements = 7
+
+b_rainbow_road = castle
+#b_rainbow_road_2 = city
+#b_rainbow_road_3 = temple
+#b_rainbow_road_4 = castle
+#b_rainbow_road_5 = city
+#b_rainbow_road_6 = temple
+#b_rainbow_road_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

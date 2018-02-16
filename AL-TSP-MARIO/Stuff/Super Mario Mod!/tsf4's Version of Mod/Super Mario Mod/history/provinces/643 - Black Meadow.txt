@@ -1,0 +1,21 @@
+# c_black_meadow
+
+# County Title
+title = c_black_meadow
+
+# Settlements
+max_settlements = 7
+
+b_black_meadow = castle
+#b_black_meadow_2 = city
+#b_black_meadow_3 = temple
+#b_black_meadow_4 = castle
+#b_black_meadow_5 = city
+#b_black_meadow_6 = temple
+#b_black_meadow_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

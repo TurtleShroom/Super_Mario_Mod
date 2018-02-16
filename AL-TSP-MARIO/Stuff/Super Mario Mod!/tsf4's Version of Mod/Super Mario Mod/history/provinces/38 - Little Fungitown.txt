@@ -1,0 +1,21 @@
+# c_little_fungitown
+
+# County Title
+title = c_little_fungitown
+
+# Settlements
+max_settlements = 7
+
+b_little_fungitown = castle
+#b_little_fungitown_2 = city
+#b_little_fungitown_3 = temple
+#b_little_fungitown_4 = castle
+#b_little_fungitown_5 = city
+#b_little_fungitown_6 = temple
+#b_little_fungitown_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

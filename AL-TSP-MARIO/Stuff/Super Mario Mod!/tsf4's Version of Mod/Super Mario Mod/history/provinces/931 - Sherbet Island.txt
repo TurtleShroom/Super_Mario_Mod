@@ -1,0 +1,21 @@
+# c_sherbet_island
+
+# County Title
+title = c_sherbet_island
+
+# Settlements
+max_settlements = 7
+
+b_sherbet_island = castle
+#b_sherbet_island_2 = city
+#b_sherbet_island_3 = temple
+#b_sherbet_island_4 = castle
+#b_sherbet_island_5 = city
+#b_sherbet_island_6 = temple
+#b_sherbet_island_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

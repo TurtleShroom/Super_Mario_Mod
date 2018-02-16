@@ -1,0 +1,21 @@
+# c_southern_fruit_kingdoms
+
+# County Title
+title = c_southern_fruit_kingdoms
+
+# Settlements
+max_settlements = 7
+
+b_southern_fruit_kingdoms = castle
+#b_southern_fruit_kingdoms_2 = city
+#b_southern_fruit_kingdoms_3 = temple
+#b_southern_fruit_kingdoms_4 = castle
+#b_southern_fruit_kingdoms_5 = city
+#b_southern_fruit_kingdoms_6 = temple
+#b_southern_fruit_kingdoms_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

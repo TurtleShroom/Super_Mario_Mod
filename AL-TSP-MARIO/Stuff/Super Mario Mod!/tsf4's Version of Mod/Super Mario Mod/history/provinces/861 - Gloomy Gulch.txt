@@ -1,0 +1,21 @@
+# c_gloomy_gulch
+
+# County Title
+title = c_gloomy_gulch
+
+# Settlements
+max_settlements = 7
+
+b_gloomy_gulch = castle
+#b_gloomy_gulch_2 = city
+#b_gloomy_gulch_3 = temple
+#b_gloomy_gulch_4 = castle
+#b_gloomy_gulch_5 = city
+#b_gloomy_gulch_6 = temple
+#b_gloomy_gulch_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

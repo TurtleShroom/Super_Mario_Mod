@@ -1,0 +1,14 @@
+##########################################################################
+#				Mario Mod opinion modifiers and bugs
+##########################################################################
+#				Written by Shawn Gordon - aka AvroLancaster
+##########################################################################
+
+ztarred_my_wish = {
+	opinion = -50
+}
+
+robbed_me_blind = {
+	opinion = -20
+	prison_reason = yes # This one gives righteous cause to imprison a character
+}

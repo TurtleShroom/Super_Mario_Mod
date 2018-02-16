@@ -1,0 +1,21 @@
+# c_rammerhead_beach
+
+# County Title
+title = c_rammerhead_beach
+
+# Settlements
+max_settlements = 7
+
+b_rammerhead_beach = castle
+#b_rammerhead_beach_2 = city
+#b_rammerhead_beach_3 = temple
+#b_rammerhead_beach_4 = castle
+#b_rammerhead_beach_5 = city
+#b_rammerhead_beach_6 = temple
+#b_rammerhead_beach_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_stove_canyon
+
+# County Title
+title = c_stove_canyon
+
+# Settlements
+max_settlements = 7
+
+b_stove_canyon = castle
+#b_stove_canyon_2 = city
+#b_stove_canyon_3 = temple
+#b_stove_canyon_4 = castle
+#b_stove_canyon_5 = city
+#b_stove_canyon_6 = temple
+#b_stove_canyon_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_gray_glade
+
+# County Title
+title = c_gray_glade
+
+# Settlements
+max_settlements = 7
+
+b_gray_glade = castle
+#b_gray_glade_2 = city
+#b_gray_glade_3 = temple
+#b_gray_glade_4 = castle
+#b_gray_glade_5 = city
+#b_gray_glade_6 = temple
+#b_gray_glade_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

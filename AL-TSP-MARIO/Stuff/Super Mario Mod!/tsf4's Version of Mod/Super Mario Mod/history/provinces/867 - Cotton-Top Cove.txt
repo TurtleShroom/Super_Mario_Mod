@@ -1,0 +1,21 @@
+# c_cotton_top_cove
+
+# County Title
+title = c_cotton_top_cove
+
+# Settlements
+max_settlements = 7
+
+b_cotton_top_cove = castle
+#b_cotton_top_cove_2 = city
+#b_cotton_top_cove_3 = temple
+#b_cotton_top_cove_4 = castle
+#b_cotton_top_cove_5 = city
+#b_cotton_top_cove_6 = temple
+#b_cotton_top_cove_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

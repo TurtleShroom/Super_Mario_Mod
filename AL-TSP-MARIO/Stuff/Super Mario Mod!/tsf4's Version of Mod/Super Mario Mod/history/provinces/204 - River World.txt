@@ -1,0 +1,21 @@
+# c_river_world
+
+# County Title
+title = c_river_world
+
+# Settlements
+max_settlements = 7
+
+b_river_world = castle
+#b_river_world_2 = city
+#b_river_world_3 = temple
+#b_river_world_4 = castle
+#b_river_world_5 = city
+#b_river_world_6 = temple
+#b_river_world_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_banana_ruins
+
+# County Title
+title = c_banana_ruins
+
+# Settlements
+max_settlements = 7
+
+b_banana_ruins = castle
+#b_banana_ruins_2 = city
+#b_banana_ruins_3 = temple
+#b_banana_ruins_4 = castle
+#b_banana_ruins_5 = city
+#b_banana_ruins_6 = temple
+#b_banana_ruins_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

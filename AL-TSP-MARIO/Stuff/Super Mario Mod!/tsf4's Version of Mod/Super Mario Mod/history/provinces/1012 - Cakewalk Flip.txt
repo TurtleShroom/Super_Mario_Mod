@@ -1,0 +1,21 @@
+# c_cakewalk_flip
+
+# County Title
+title = c_cakewalk_flip
+
+# Settlements
+max_settlements = 7
+
+b_cakewalk_flip = castle
+#b_cakewalk_flip_2 = city
+#b_cakewalk_flip_3 = temple
+#b_cakewalk_flip_4 = castle
+#b_cakewalk_flip_5 = city
+#b_cakewalk_flip_6 = temple
+#b_cakewalk_flip_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

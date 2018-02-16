@@ -1,0 +1,21 @@
+# c_cape_of_ocean_side
+
+# County Title
+title = c_cape_of_ocean_side
+
+# Settlements
+max_settlements = 7
+
+b_cape_of_ocean_side = castle
+#b_cape_of_ocean_side_2 = city
+#b_cape_of_ocean_side_3 = temple
+#b_cape_of_ocean_side_4 = castle
+#b_cape_of_ocean_side_5 = city
+#b_cape_of_ocean_side_6 = temple
+#b_cape_of_ocean_side_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

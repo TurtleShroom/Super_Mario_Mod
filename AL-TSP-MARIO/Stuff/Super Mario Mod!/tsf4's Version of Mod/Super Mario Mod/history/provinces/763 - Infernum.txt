@@ -1,0 +1,21 @@
+# c_infernum
+
+# County Title
+title = c_infernum
+
+# Settlements
+max_settlements = 7
+
+b_infernum = castle
+#b_infernum_2 = city
+#b_infernum_3 = temple
+#b_infernum_4 = castle
+#b_infernum_5 = city
+#b_infernum_6 = temple
+#b_infernum_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

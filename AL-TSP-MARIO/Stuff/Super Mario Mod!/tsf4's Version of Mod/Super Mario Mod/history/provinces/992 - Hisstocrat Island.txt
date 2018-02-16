@@ -1,0 +1,21 @@
+# c_hisstocrat_island
+
+# County Title
+title = c_hisstocrat_island
+
+# Settlements
+max_settlements = 7
+
+b_hisstocrat_island = castle
+#b_hisstocrat_island_2 = city
+#b_hisstocrat_island_3 = temple
+#b_hisstocrat_island_4 = castle
+#b_hisstocrat_island_5 = city
+#b_hisstocrat_island_6 = temple
+#b_hisstocrat_island_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

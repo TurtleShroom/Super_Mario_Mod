@@ -1,0 +1,21 @@
+# c_tadpole_pond
+
+# County Title
+title = c_tadpole_pond
+
+# Settlements
+max_settlements = 7
+
+b_tadpole_pond = castle
+#b_tadpole_pond_2 = city
+#b_tadpole_pond_3 = temple
+#b_tadpole_pond_4 = castle
+#b_tadpole_pond_5 = city
+#b_tadpole_pond_6 = temple
+#b_tadpole_pond_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

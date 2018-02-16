@@ -1,0 +1,21 @@
+# c_muda_cove
+
+# County Title
+title = c_muda_cove
+
+# Settlements
+max_settlements = 7
+
+b_muda_cove = castle
+#b_muda_cove_2 = city
+#b_muda_cove_3 = temple
+#b_muda_cove_4 = castle
+#b_muda_cove_5 = city
+#b_muda_cove_6 = temple
+#b_muda_cove_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

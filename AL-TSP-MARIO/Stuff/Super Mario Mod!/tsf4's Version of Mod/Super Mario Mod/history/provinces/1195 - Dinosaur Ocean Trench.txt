@@ -1,0 +1,21 @@
+# c_dinosaur_ocean_trench
+
+# County Title
+title = c_dinosaur_ocean_trench
+
+# Settlements
+max_settlements = 7
+
+b_dinosaur_ocean_trench = castle
+#b_dinosaur_ocean_trench_2 = city
+#b_dinosaur_ocean_trench_3 = temple
+#b_dinosaur_ocean_trench_4 = castle
+#b_dinosaur_ocean_trench_5 = city
+#b_dinosaur_ocean_trench_6 = temple
+#b_dinosaur_ocean_trench_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

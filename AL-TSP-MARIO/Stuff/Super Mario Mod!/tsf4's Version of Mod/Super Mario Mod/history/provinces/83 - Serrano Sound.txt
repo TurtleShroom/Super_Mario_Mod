@@ -1,0 +1,21 @@
+# c_serrano_sound
+
+# County Title
+title = c_serrano_sound
+
+# Settlements
+max_settlements = 7
+
+b_serrano_sound = castle
+#b_serrano_sound_2 = city
+#b_serrano_sound_3 = temple
+#b_serrano_sound_4 = castle
+#b_serrano_sound_5 = city
+#b_serrano_sound_6 = temple
+#b_serrano_sound_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

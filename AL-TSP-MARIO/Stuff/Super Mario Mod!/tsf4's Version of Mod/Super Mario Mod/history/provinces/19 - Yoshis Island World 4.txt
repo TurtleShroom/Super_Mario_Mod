@@ -1,0 +1,21 @@
+# c_yoshis_island_world_4
+
+# County Title
+title = c_yoshis_island_world_4
+
+# Settlements
+max_settlements = 7
+
+b_yoshis_island_world_4 = castle
+#b_yoshis_island_world_4_2 = city
+#b_yoshis_island_world_4_3 = temple
+#b_yoshis_island_world_4_4 = castle
+#b_yoshis_island_world_4_5 = city
+#b_yoshis_island_world_4_6 = temple
+#b_yoshis_island_world_4_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

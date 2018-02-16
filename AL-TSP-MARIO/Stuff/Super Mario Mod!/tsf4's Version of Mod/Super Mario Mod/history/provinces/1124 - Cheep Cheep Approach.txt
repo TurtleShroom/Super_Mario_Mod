@@ -1,0 +1,21 @@
+# c_cheep_cheep_approach
+
+# County Title
+title = c_cheep_cheep_approach
+
+# Settlements
+max_settlements = 7
+
+b_cheep_cheep_approach = castle
+#b_cheep_cheep_approach_2 = city
+#b_cheep_cheep_approach_3 = temple
+#b_cheep_cheep_approach_4 = castle
+#b_cheep_cheep_approach_5 = city
+#b_cheep_cheep_approach_6 = temple
+#b_cheep_cheep_approach_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

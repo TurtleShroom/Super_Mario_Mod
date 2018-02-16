@@ -1,0 +1,21 @@
+# c_dawn_savanna
+
+# County Title
+title = c_dawn_savanna
+
+# Settlements
+max_settlements = 7
+
+b_dawn_savanna = castle
+#b_dawn_savanna_2 = city
+#b_dawn_savanna_3 = temple
+#b_dawn_savanna_4 = castle
+#b_dawn_savanna_5 = city
+#b_dawn_savanna_6 = temple
+#b_dawn_savanna_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

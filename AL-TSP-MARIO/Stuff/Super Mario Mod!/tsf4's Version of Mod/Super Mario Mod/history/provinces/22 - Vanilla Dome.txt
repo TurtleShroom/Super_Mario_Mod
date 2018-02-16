@@ -1,0 +1,21 @@
+# c_vanilla_dome
+
+# County Title
+title = c_vanilla_dome
+
+# Settlements
+max_settlements = 7
+
+b_vanilla_dome = castle
+#b_vanilla_dome_2 = city
+#b_vanilla_dome_3 = temple
+#b_vanilla_dome_4 = castle
+#b_vanilla_dome_5 = city
+#b_vanilla_dome_6 = temple
+#b_vanilla_dome_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

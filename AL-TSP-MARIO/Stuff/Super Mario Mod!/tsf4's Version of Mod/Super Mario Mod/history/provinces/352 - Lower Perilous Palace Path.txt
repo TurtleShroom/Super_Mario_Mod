@@ -1,0 +1,21 @@
+# c_lower_perilous_palace_path
+
+# County Title
+title = c_lower_perilous_palace_path
+
+# Settlements
+max_settlements = 7
+
+b_lower_perilous_palace_path = castle
+#b_lower_perilous_palace_path_2 = city
+#b_lower_perilous_palace_path_3 = temple
+#b_lower_perilous_palace_path_4 = castle
+#b_lower_perilous_palace_path_5 = city
+#b_lower_perilous_palace_path_6 = temple
+#b_lower_perilous_palace_path_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

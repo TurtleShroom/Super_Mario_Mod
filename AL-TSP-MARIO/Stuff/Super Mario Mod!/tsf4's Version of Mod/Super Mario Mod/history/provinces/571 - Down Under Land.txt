@@ -1,0 +1,21 @@
+# c_down_under_land
+
+# County Title
+title = c_down_under_land
+
+# Settlements
+max_settlements = 7
+
+b_down_under_land = castle
+#b_down_under_land_2 = city
+#b_down_under_land_3 = temple
+#b_down_under_land_4 = castle
+#b_down_under_land_5 = city
+#b_down_under_land_6 = temple
+#b_down_under_land_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

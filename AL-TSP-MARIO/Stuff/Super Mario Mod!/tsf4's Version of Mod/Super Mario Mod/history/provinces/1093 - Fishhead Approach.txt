@@ -1,0 +1,21 @@
+# c_fishhead_approach
+
+# County Title
+title = c_fishhead_approach
+
+# Settlements
+max_settlements = 7
+
+b_fishhead_approach = castle
+#b_fishhead_approach_2 = city
+#b_fishhead_approach_3 = temple
+#b_fishhead_approach_4 = castle
+#b_fishhead_approach_5 = city
+#b_fishhead_approach_6 = temple
+#b_fishhead_approach_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

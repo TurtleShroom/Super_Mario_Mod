@@ -1,0 +1,21 @@
+# c_jungle_deeps
+
+# County Title
+title = c_jungle_deeps
+
+# Settlements
+max_settlements = 7
+
+b_jungle_deeps = castle
+#b_jungle_deeps_2 = city
+#b_jungle_deeps_3 = temple
+#b_jungle_deeps_4 = castle
+#b_jungle_deeps_5 = city
+#b_jungle_deeps_6 = temple
+#b_jungle_deeps_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

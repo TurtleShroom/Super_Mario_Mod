@@ -1,0 +1,21 @@
+# c_big_plains
+
+# County Title
+title = c_big_plains
+
+# Settlements
+max_settlements = 7
+
+b_big_plains = castle
+#b_big_plains_2 = city
+#b_big_plains_3 = temple
+#b_big_plains_4 = castle
+#b_big_plains_5 = city
+#b_big_plains_6 = temple
+#b_big_plains_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

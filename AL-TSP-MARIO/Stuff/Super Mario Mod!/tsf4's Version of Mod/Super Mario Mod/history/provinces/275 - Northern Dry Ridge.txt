@@ -1,0 +1,21 @@
+# c_northern_dry_ridge
+
+# County Title
+title = c_northern_dry_ridge
+
+# Settlements
+max_settlements = 7
+
+b_northern_dry_ridge = castle
+#b_northern_dry_ridge_2 = city
+#b_northern_dry_ridge_3 = temple
+#b_northern_dry_ridge_4 = castle
+#b_northern_dry_ridge_5 = city
+#b_northern_dry_ridge_6 = temple
+#b_northern_dry_ridge_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

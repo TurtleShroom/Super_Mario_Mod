@@ -1,0 +1,21 @@
+# c_beanstalk_way
+
+# County Title
+title = c_beanstalk_way
+
+# Settlements
+max_settlements = 7
+
+b_beanstalk_way = castle
+#b_beanstalk_way_2 = city
+#b_beanstalk_way_3 = temple
+#b_beanstalk_way_4 = castle
+#b_beanstalk_way_5 = city
+#b_beanstalk_way_6 = temple
+#b_beanstalk_way_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

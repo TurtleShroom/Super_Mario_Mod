@@ -1,0 +1,21 @@
+# c_koopaseum
+
+# County Title
+title = c_koopaseum
+
+# Settlements
+max_settlements = 7
+
+b_koopaseum = castle
+#b_koopaseum_2 = city
+#b_koopaseum_3 = temple
+#b_koopaseum_4 = castle
+#b_koopaseum_5 = city
+#b_koopaseum_6 = temple
+#b_koopaseum_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

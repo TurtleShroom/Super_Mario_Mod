@@ -1,0 +1,21 @@
+# c_mystic_forest
+
+# County Title
+title = c_mystic_forest
+
+# Settlements
+max_settlements = 7
+
+b_mystic_forest = castle
+#b_mystic_forest_2 = city
+#b_mystic_forest_3 = temple
+#b_mystic_forest_4 = castle
+#b_mystic_forest_5 = city
+#b_mystic_forest_6 = temple
+#b_mystic_forest_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_bear_mountain
+
+# County Title
+title = c_bear_mountain
+
+# Settlements
+max_settlements = 7
+
+b_bear_mountain = castle
+#b_bear_mountain_2 = city
+#b_bear_mountain_3 = temple
+#b_bear_mountain_4 = castle
+#b_bear_mountain_5 = city
+#b_bear_mountain_6 = temple
+#b_bear_mountain_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_blue_toad_woods
+
+# County Title
+title = c_blue_toad_woods
+
+# Settlements
+max_settlements = 7
+
+b_blue_toad_woods = castle
+#b_blue_toad_woods_2 = city
+#b_blue_toad_woods_3 = temple
+#b_blue_toad_woods_4 = castle
+#b_blue_toad_woods_5 = city
+#b_blue_toad_woods_6 = temple
+#b_blue_toad_woods_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_wakeport
+
+# County Title
+title = c_wakeport
+
+# Settlements
+max_settlements = 7
+
+b_wakeport = castle
+#b_wakeport_2 = city
+#b_wakeport_3 = temple
+#b_wakeport_4 = castle
+#b_wakeport_5 = city
+#b_wakeport_6 = temple
+#b_wakeport_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

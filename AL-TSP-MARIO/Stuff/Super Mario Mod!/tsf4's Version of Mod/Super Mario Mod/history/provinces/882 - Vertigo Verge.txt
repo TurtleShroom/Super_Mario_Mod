@@ -1,0 +1,21 @@
+# c_vertigo_verge
+
+# County Title
+title = c_vertigo_verge
+
+# Settlements
+max_settlements = 7
+
+b_vertigo_verge = castle
+#b_vertigo_verge_2 = city
+#b_vertigo_verge_3 = temple
+#b_vertigo_verge_4 = castle
+#b_vertigo_verge_5 = city
+#b_vertigo_verge_6 = temple
+#b_vertigo_verge_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

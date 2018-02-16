@@ -1,0 +1,21 @@
+# c_marios_house
+
+# County Title
+title = c_marios_house
+
+# Settlements
+max_settlements = 7
+
+b_marios_house = castle
+#b_marios_house_2 = city
+#b_marios_house_3 = temple
+#b_marios_house_4 = castle
+#b_marios_house_5 = city
+#b_marios_house_6 = temple
+#b_marios_house_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

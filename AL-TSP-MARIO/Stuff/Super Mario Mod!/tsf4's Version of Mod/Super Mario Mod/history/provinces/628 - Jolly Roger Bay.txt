@@ -1,0 +1,21 @@
+# c_jolly_roger_bay
+
+# County Title
+title = c_jolly_roger_bay
+
+# Settlements
+max_settlements = 7
+
+b_jolly_roger_bay = castle
+#b_jolly_roger_bay_2 = city
+#b_jolly_roger_bay_3 = temple
+#b_jolly_roger_bay_4 = castle
+#b_jolly_roger_bay_5 = city
+#b_jolly_roger_bay_6 = temple
+#b_jolly_roger_bay_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

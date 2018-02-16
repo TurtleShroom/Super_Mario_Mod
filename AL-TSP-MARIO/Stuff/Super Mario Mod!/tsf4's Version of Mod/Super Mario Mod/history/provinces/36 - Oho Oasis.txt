@@ -1,0 +1,21 @@
+# c_oho_oasis
+
+# County Title
+title = c_oho_oasis
+
+# Settlements
+max_settlements = 7
+
+b_oho_oasis = castle
+#b_oho_oasis_2 = city
+#b_oho_oasis_3 = temple
+#b_oho_oasis_4 = castle
+#b_oho_oasis_5 = city
+#b_oho_oasis_6 = temple
+#b_oho_oasis_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

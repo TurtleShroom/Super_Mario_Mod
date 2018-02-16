@@ -1,0 +1,21 @@
+# c_misty_marsh
+
+# County Title
+title = c_misty_marsh
+
+# Settlements
+max_settlements = 7
+
+b_misty_marsh = castle
+#b_misty_marsh_2 = city
+#b_misty_marsh_3 = temple
+#b_misty_marsh_4 = castle
+#b_misty_marsh_5 = city
+#b_misty_marsh_6 = temple
+#b_misty_marsh_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

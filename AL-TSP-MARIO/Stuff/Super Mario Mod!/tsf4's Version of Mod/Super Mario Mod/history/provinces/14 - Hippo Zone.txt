@@ -1,0 +1,21 @@
+# c_hippo_zone
+
+# County Title
+title = c_hippo_zone
+
+# Settlements
+max_settlements = 7
+
+b_hippo_zone = castle
+#b_hippo_zone_2 = city
+#b_hippo_zone_3 = temple
+#b_hippo_zone_4 = castle
+#b_hippo_zone_5 = city
+#b_hippo_zone_6 = temple
+#b_hippo_zone_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

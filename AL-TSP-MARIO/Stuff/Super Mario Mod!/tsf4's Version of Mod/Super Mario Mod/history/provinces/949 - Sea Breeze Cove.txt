@@ -1,0 +1,21 @@
+# c_sea_breeze_cove
+
+# County Title
+title = c_sea_breeze_cove
+
+# Settlements
+max_settlements = 7
+
+b_sea_breeze_cove = castle
+#b_sea_breeze_cove_2 = city
+#b_sea_breeze_cove_3 = temple
+#b_sea_breeze_cove_4 = castle
+#b_sea_breeze_cove_5 = city
+#b_sea_breeze_cove_6 = temple
+#b_sea_breeze_cove_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_miracle_landing
+
+# County Title
+title = c_miracle_landing
+
+# Settlements
+max_settlements = 7
+
+b_miracle_landing = castle
+#b_miracle_landing_2 = city
+#b_miracle_landing_3 = temple
+#b_miracle_landing_4 = castle
+#b_miracle_landing_5 = city
+#b_miracle_landing_6 = temple
+#b_miracle_landing_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

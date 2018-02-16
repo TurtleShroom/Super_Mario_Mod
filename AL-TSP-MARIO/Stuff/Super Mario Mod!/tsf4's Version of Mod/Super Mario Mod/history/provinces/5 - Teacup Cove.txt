@@ -1,0 +1,21 @@
+# c_teacup_cove
+
+# County Title
+title = c_teacup_cove
+
+# Settlements
+max_settlements = 7
+
+b_teacup_cove = castle
+#b_teacup_cove_2 = city
+#b_teacup_cove_3 = temple
+#b_teacup_cove_4 = castle
+#b_teacup_cove_5 = city
+#b_teacup_cove_6 = temple
+#b_teacup_cove_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

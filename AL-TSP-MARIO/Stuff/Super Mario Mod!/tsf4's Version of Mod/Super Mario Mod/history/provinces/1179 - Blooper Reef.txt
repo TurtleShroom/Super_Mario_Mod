@@ -1,0 +1,21 @@
+# c_blooper_reef
+
+# County Title
+title = c_blooper_reef
+
+# Settlements
+max_settlements = 7
+
+b_blooper_reef = castle
+#b_blooper_reef_2 = city
+#b_blooper_reef_3 = temple
+#b_blooper_reef_4 = castle
+#b_blooper_reef_5 = city
+#b_blooper_reef_6 = temple
+#b_blooper_reef_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

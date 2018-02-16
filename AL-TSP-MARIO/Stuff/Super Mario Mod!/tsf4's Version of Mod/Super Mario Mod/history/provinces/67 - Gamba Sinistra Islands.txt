@@ -1,0 +1,21 @@
+# c_gamba_sinistra_islands
+
+# County Title
+title = c_gamba_sinistra_islands
+
+# Settlements
+max_settlements = 7
+
+b_gamba_sinistra_islands = castle
+#b_gamba_sinistra_islands_2 = city
+#b_gamba_sinistra_islands_3 = temple
+#b_gamba_sinistra_islands_4 = castle
+#b_gamba_sinistra_islands_5 = city
+#b_gamba_sinistra_islands_6 = temple
+#b_gamba_sinistra_islands_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

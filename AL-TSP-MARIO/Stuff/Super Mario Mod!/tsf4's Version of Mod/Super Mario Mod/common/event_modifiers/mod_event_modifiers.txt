@@ -1,0 +1,19 @@
+small_lucky = {
+	vassal_opinion = 10
+	icon = 4
+}
+
+unlucky = {
+	vassal_opinion = -5
+	icon = 22
+}
+
+mid_lucky = {
+	vassal_opinion = 25
+	icon = 4
+}
+
+very_lucky = {
+	vassal_opinion = 75
+	icon = 4
+}

@@ -1,0 +1,21 @@
+# c_silly_cliff
+
+# County Title
+title = c_silly_cliff
+
+# Settlements
+max_settlements = 7
+
+b_silly_cliff = castle
+#b_silly_cliff_2 = city
+#b_silly_cliff_3 = temple
+#b_silly_cliff_4 = castle
+#b_silly_cliff_5 = city
+#b_silly_cliff_6 = temple
+#b_silly_cliff_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

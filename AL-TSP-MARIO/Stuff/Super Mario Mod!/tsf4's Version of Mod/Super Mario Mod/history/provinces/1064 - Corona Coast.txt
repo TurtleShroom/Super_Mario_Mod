@@ -1,0 +1,21 @@
+# c_corona_coast
+
+# County Title
+title = c_corona_coast
+
+# Settlements
+max_settlements = 7
+
+b_corona_coast = castle
+#b_corona_coast_2 = city
+#b_corona_coast_3 = temple
+#b_corona_coast_4 = castle
+#b_corona_coast_5 = city
+#b_corona_coast_6 = temple
+#b_corona_coast_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

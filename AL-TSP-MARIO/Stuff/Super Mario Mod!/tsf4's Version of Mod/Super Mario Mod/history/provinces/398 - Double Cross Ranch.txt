@@ -1,0 +1,21 @@
+# c_double_cross_ranch
+
+# County Title
+title = c_double_cross_ranch
+
+# Settlements
+max_settlements = 7
+
+b_double_cross_ranch = castle
+#b_double_cross_ranch_2 = city
+#b_double_cross_ranch_3 = temple
+#b_double_cross_ranch_4 = castle
+#b_double_cross_ranch_5 = city
+#b_double_cross_ranch_6 = temple
+#b_double_cross_ranch_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

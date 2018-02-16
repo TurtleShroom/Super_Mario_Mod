@@ -1,0 +1,21 @@
+# c_mushroom_bridge
+
+# County Title
+title = c_mushroom_bridge
+
+# Settlements
+max_settlements = 7
+
+b_mushroom_bridge = castle
+#b_mushroom_bridge_2 = city
+#b_mushroom_bridge_3 = temple
+#b_mushroom_bridge_4 = castle
+#b_mushroom_bridge_5 = city
+#b_mushroom_bridge_6 = temple
+#b_mushroom_bridge_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

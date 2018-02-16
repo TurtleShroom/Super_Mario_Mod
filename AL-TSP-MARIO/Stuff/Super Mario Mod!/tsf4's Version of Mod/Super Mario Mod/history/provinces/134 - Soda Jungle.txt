@@ -1,0 +1,21 @@
+# c_soda_jungle
+
+# County Title
+title = c_soda_jungle
+
+# Settlements
+max_settlements = 7
+
+b_soda_jungle = castle
+#b_soda_jungle_2 = city
+#b_soda_jungle_3 = temple
+#b_soda_jungle_4 = castle
+#b_soda_jungle_5 = city
+#b_soda_jungle_6 = temple
+#b_soda_jungle_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

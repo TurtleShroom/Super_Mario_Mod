@@ -1,0 +1,21 @@
+# c_piccolo_artiglio_island
+
+# County Title
+title = c_piccolo_artiglio_island
+
+# Settlements
+max_settlements = 7
+
+b_piccolo_artiglio_island = castle
+#b_piccolo_artiglio_island_2 = city
+#b_piccolo_artiglio_island_3 = temple
+#b_piccolo_artiglio_island_4 = castle
+#b_piccolo_artiglio_island_5 = city
+#b_piccolo_artiglio_island_6 = temple
+#b_piccolo_artiglio_island_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

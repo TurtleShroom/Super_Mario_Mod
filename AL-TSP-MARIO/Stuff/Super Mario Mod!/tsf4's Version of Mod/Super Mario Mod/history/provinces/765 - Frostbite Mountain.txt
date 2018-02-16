@@ -1,0 +1,21 @@
+# c_frostbite_mountain
+
+# County Title
+title = c_frostbite_mountain
+
+# Settlements
+max_settlements = 7
+
+b_frostbite_mountain = castle
+#b_frostbite_mountain_2 = city
+#b_frostbite_mountain_3 = temple
+#b_frostbite_mountain_4 = castle
+#b_frostbite_mountain_5 = city
+#b_frostbite_mountain_6 = temple
+#b_frostbite_mountain_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

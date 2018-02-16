@@ -1,0 +1,21 @@
+# c_bianco_hills
+
+# County Title
+title = c_bianco_hills
+
+# Settlements
+max_settlements = 7
+
+b_bianco_hills = castle
+#b_bianco_hills_2 = city
+#b_bianco_hills_3 = temple
+#b_bianco_hills_4 = castle
+#b_bianco_hills_5 = city
+#b_bianco_hills_6 = temple
+#b_bianco_hills_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

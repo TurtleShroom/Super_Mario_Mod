@@ -1,0 +1,21 @@
+# c_fahr_outpost
+
+# County Title
+title = c_fahr_outpost
+
+# Settlements
+max_settlements = 7
+
+b_fahr_outpost = castle
+#b_fahr_outpost_2 = city
+#b_fahr_outpost_3 = temple
+#b_fahr_outpost_4 = castle
+#b_fahr_outpost_5 = city
+#b_fahr_outpost_6 = temple
+#b_fahr_outpost_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

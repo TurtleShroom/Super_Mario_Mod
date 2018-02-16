@@ -1,0 +1,21 @@
+# c_christmas_village
+
+# County Title
+title = c_christmas_village
+
+# Settlements
+max_settlements = 7
+
+b_christmas_village = castle
+#b_christmas_village_2 = city
+#b_christmas_village_3 = temple
+#b_christmas_village_4 = castle
+#b_christmas_village_5 = city
+#b_christmas_village_6 = temple
+#b_christmas_village_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

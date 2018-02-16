@@ -1,0 +1,21 @@
+# c_flashfire_fields
+
+# County Title
+title = c_flashfire_fields
+
+# Settlements
+max_settlements = 7
+
+b_flashfire_fields = castle
+#b_flashfire_fields_2 = city
+#b_flashfire_fields_3 = temple
+#b_flashfire_fields_4 = castle
+#b_flashfire_fields_5 = city
+#b_flashfire_fields_6 = temple
+#b_flashfire_fields_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

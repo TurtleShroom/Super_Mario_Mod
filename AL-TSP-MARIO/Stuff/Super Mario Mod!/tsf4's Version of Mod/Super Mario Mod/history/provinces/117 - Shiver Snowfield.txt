@@ -1,0 +1,21 @@
+# c_shiver_snowfield
+
+# County Title
+title = c_shiver_snowfield
+
+# Settlements
+max_settlements = 7
+
+b_shiver_snowfield = castle
+#b_shiver_snowfield_2 = city
+#b_shiver_snowfield_3 = temple
+#b_shiver_snowfield_4 = castle
+#b_shiver_snowfield_5 = city
+#b_shiver_snowfield_6 = temple
+#b_shiver_snowfield_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

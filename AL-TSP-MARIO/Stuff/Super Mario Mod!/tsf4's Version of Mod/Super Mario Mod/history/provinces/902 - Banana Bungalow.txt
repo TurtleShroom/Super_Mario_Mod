@@ -1,0 +1,21 @@
+# c_banana_bungalow
+
+# County Title
+title = c_banana_bungalow
+
+# Settlements
+max_settlements = 7
+
+b_banana_bungalow = castle
+#b_banana_bungalow_2 = city
+#b_banana_bungalow_3 = temple
+#b_banana_bungalow_4 = castle
+#b_banana_bungalow_5 = city
+#b_banana_bungalow_6 = temple
+#b_banana_bungalow_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

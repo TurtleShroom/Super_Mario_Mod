@@ -1,0 +1,21 @@
+# c_riverside_park
+
+# County Title
+title = c_riverside_park
+
+# Settlements
+max_settlements = 7
+
+b_riverside_park = castle
+#b_riverside_park_2 = city
+#b_riverside_park_3 = temple
+#b_riverside_park_4 = castle
+#b_riverside_park_5 = city
+#b_riverside_park_6 = temple
+#b_riverside_park_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

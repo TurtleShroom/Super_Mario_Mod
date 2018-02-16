@@ -1,0 +1,21 @@
+# c_icy_heights
+
+# County Title
+title = c_icy_heights
+
+# Settlements
+max_settlements = 7
+
+b_icy_heights = castle
+#b_icy_heights_2 = city
+#b_icy_heights_3 = temple
+#b_icy_heights_4 = castle
+#b_icy_heights_5 = city
+#b_icy_heights_6 = temple
+#b_icy_heights_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_frosty_foothills
+
+# County Title
+title = c_frosty_foothills
+
+# Settlements
+max_settlements = 7
+
+b_frosty_foothills = castle
+#b_frosty_foothills_2 = city
+#b_frosty_foothills_3 = temple
+#b_frosty_foothills_4 = castle
+#b_frosty_foothills_5 = city
+#b_frosty_foothills_6 = temple
+#b_frosty_foothills_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

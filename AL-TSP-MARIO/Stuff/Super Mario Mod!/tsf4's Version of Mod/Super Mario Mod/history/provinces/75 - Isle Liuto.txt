@@ -1,0 +1,21 @@
+# c_isle_liuto
+
+# County Title
+title = c_isle_liuto
+
+# Settlements
+max_settlements = 7
+
+b_isle_liuto = castle
+#b_isle_liuto_2 = city
+#b_isle_liuto_3 = temple
+#b_isle_liuto_4 = castle
+#b_isle_liuto_5 = city
+#b_isle_liuto_6 = temple
+#b_isle_liuto_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

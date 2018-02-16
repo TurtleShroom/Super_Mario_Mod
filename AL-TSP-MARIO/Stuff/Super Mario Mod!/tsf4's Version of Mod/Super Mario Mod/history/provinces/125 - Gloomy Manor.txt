@@ -1,0 +1,21 @@
+# c_gloomy_manor
+
+# County Title
+title = c_gloomy_manor
+
+# Settlements
+max_settlements = 7
+
+b_gloomy_manor = castle
+#b_gloomy_manor_2 = city
+#b_gloomy_manor_3 = temple
+#b_gloomy_manor_4 = castle
+#b_gloomy_manor_5 = city
+#b_gloomy_manor_6 = temple
+#b_gloomy_manor_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

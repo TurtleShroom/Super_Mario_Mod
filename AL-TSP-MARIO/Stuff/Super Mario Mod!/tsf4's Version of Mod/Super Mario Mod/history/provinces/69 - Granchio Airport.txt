@@ -1,0 +1,21 @@
+# c_granchio_airport
+
+# County Title
+title = c_granchio_airport
+
+# Settlements
+max_settlements = 7
+
+b_granchio_airport = castle
+#b_granchio_airport_2 = city
+#b_granchio_airport_3 = temple
+#b_granchio_airport_4 = castle
+#b_granchio_airport_5 = city
+#b_granchio_airport_6 = temple
+#b_granchio_airport_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

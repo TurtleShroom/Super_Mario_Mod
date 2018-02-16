@@ -1,0 +1,21 @@
+# c_muchrise_park
+
+# County Title
+title = c_muchrise_park
+
+# Settlements
+max_settlements = 7
+
+b_muchrise_park = castle
+#b_muchrise_park_2 = city
+#b_muchrise_park_3 = temple
+#b_muchrise_park_4 = castle
+#b_muchrise_park_5 = city
+#b_muchrise_park_6 = temple
+#b_muchrise_park_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

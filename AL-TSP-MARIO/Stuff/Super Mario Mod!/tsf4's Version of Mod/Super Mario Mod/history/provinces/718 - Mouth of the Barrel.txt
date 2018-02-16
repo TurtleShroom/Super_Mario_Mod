@@ -1,0 +1,21 @@
+# c_mouth_of_the_barrel
+
+# County Title
+title = c_mouth_of_the_barrel
+
+# Settlements
+max_settlements = 7
+
+b_mouth_of_the_barrel = castle
+#b_mouth_of_the_barrel_2 = city
+#b_mouth_of_the_barrel_3 = temple
+#b_mouth_of_the_barrel_4 = castle
+#b_mouth_of_the_barrel_5 = city
+#b_mouth_of_the_barrel_6 = temple
+#b_mouth_of_the_barrel_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_thunderous_straits
+
+# County Title
+title = c_thunderous_straits
+
+# Settlements
+max_settlements = 7
+
+b_thunderous_straits = castle
+#b_thunderous_straits_2 = city
+#b_thunderous_straits_3 = temple
+#b_thunderous_straits_4 = castle
+#b_thunderous_straits_5 = city
+#b_thunderous_straits_6 = temple
+#b_thunderous_straits_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_pianta_cove
+
+# County Title
+title = c_pianta_cove
+
+# Settlements
+max_settlements = 7
+
+b_pianta_cove = castle
+#b_pianta_cove_2 = city
+#b_pianta_cove_3 = temple
+#b_pianta_cove_4 = castle
+#b_pianta_cove_5 = city
+#b_pianta_cove_6 = temple
+#b_pianta_cove_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

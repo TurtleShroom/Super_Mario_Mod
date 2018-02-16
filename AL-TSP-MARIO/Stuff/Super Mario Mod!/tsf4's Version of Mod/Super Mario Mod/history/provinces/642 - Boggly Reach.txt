@@ -1,0 +1,21 @@
+# c_boggly_reach
+
+# County Title
+title = c_boggly_reach
+
+# Settlements
+max_settlements = 7
+
+b_boggly_reach = castle
+#b_boggly_reach_2 = city
+#b_boggly_reach_3 = temple
+#b_boggly_reach_4 = castle
+#b_boggly_reach_5 = city
+#b_boggly_reach_6 = temple
+#b_boggly_reach_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

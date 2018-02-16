@@ -1,0 +1,21 @@
+# c_loop_loop_river
+
+# County Title
+title = c_loop_loop_river
+
+# Settlements
+max_settlements = 7
+
+b_loop_loop_river = castle
+#b_loop_loop_river_2 = city
+#b_loop_loop_river_3 = temple
+#b_loop_loop_river_4 = castle
+#b_loop_loop_river_5 = city
+#b_loop_loop_river_6 = temple
+#b_loop_loop_river_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

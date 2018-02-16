@@ -1,0 +1,21 @@
+# c_mushridge
+
+# County Title
+title = c_mushridge
+
+# Settlements
+max_settlements = 7
+
+b_mushridge = castle
+#b_mushridge_2 = city
+#b_mushridge_3 = temple
+#b_mushridge_4 = castle
+#b_mushridge_5 = city
+#b_mushridge_6 = temple
+#b_mushridge_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

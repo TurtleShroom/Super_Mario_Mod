@@ -1,0 +1,21 @@
+# c_creepy_stable
+
+# County Title
+title = c_creepy_stable
+
+# Settlements
+max_settlements = 7
+
+b_creepy_stable = castle
+#b_creepy_stable_2 = city
+#b_creepy_stable_3 = temple
+#b_creepy_stable_4 = castle
+#b_creepy_stable_5 = city
+#b_creepy_stable_6 = temple
+#b_creepy_stable_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

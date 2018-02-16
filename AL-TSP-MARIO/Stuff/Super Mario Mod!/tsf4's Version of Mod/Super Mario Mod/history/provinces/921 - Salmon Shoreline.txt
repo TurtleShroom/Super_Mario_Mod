@@ -1,0 +1,21 @@
+# c_salmon_shoreline
+
+# County Title
+title = c_salmon_shoreline
+
+# Settlements
+max_settlements = 7
+
+b_salmon_shoreline = castle
+#b_salmon_shoreline_2 = city
+#b_salmon_shoreline_3 = temple
+#b_salmon_shoreline_4 = castle
+#b_salmon_shoreline_5 = city
+#b_salmon_shoreline_6 = temple
+#b_salmon_shoreline_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

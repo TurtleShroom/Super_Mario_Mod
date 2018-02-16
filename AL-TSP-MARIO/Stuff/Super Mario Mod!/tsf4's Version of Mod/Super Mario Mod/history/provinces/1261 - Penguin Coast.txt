@@ -1,0 +1,21 @@
+# c_penguin_coast
+
+# County Title
+title = c_penguin_coast
+
+# Settlements
+max_settlements = 7
+
+b_penguin_coast = castle
+#b_penguin_coast_2 = city
+#b_penguin_coast_3 = temple
+#b_penguin_coast_4 = castle
+#b_penguin_coast_5 = city
+#b_penguin_coast_6 = temple
+#b_penguin_coast_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_pipe_reef
+
+# County Title
+title = c_pipe_reef
+
+# Settlements
+max_settlements = 7
+
+b_pipe_reef = castle
+#b_pipe_reef_2 = city
+#b_pipe_reef_3 = temple
+#b_pipe_reef_4 = castle
+#b_pipe_reef_5 = city
+#b_pipe_reef_6 = temple
+#b_pipe_reef_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,21 @@
+# c_holey_thicket
+
+# County Title
+title = c_holey_thicket
+
+# Settlements
+max_settlements = 7
+
+b_holey_thicket = castle
+#b_holey_thicket_2 = city
+#b_holey_thicket_3 = temple
+#b_holey_thicket_4 = castle
+#b_holey_thicket_5 = city
+#b_holey_thicket_6 = temple
+#b_holey_thicket_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

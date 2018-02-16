@@ -1,0 +1,21 @@
+# c_oceanic_midpoint
+
+# County Title
+title = c_oceanic_midpoint
+
+# Settlements
+max_settlements = 7
+
+b_oceanic_midpoint = castle
+#b_oceanic_midpoint_2 = city
+#b_oceanic_midpoint_3 = temple
+#b_oceanic_midpoint_4 = castle
+#b_oceanic_midpoint_5 = city
+#b_oceanic_midpoint_6 = temple
+#b_oceanic_midpoint_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

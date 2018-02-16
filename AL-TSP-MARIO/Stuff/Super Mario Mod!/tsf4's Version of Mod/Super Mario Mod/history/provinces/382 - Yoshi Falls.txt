@@ -1,0 +1,21 @@
+# c_yoshi_falls
+
+# County Title
+title = c_yoshi_falls
+
+# Settlements
+max_settlements = 7
+
+b_yoshi_falls = castle
+#b_yoshi_falls_2 = city
+#b_yoshi_falls_3 = temple
+#b_yoshi_falls_4 = castle
+#b_yoshi_falls_5 = city
+#b_yoshi_falls_6 = temple
+#b_yoshi_falls_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

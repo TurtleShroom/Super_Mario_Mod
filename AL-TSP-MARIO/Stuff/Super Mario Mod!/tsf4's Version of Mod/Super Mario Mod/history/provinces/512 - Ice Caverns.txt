@@ -1,0 +1,21 @@
+# c_ice_caverns
+
+# County Title
+title = c_ice_caverns
+
+# Settlements
+max_settlements = 7
+
+b_ice_caverns = castle
+#b_ice_caverns_2 = city
+#b_ice_caverns_3 = temple
+#b_ice_caverns_4 = castle
+#b_ice_caverns_5 = city
+#b_ice_caverns_6 = temple
+#b_ice_caverns_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

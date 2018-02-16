@@ -1,0 +1,21 @@
+# c_dark_sea
+
+# County Title
+title = c_dark_sea
+
+# Settlements
+max_settlements = 7
+
+b_dark_sea = castle
+#b_dark_sea_2 = city
+#b_dark_sea_3 = temple
+#b_dark_sea_4 = castle
+#b_dark_sea_5 = city
+#b_dark_sea_6 = temple
+#b_dark_sea_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

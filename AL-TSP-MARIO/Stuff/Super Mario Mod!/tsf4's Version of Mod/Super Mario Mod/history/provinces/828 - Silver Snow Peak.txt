@@ -1,0 +1,21 @@
+# c_silver_snow_peak
+
+# County Title
+title = c_silver_snow_peak
+
+# Settlements
+max_settlements = 7
+
+b_silver_snow_peak = castle
+#b_silver_snow_peak_2 = city
+#b_silver_snow_peak_3 = temple
+#b_silver_snow_peak_4 = castle
+#b_silver_snow_peak_5 = city
+#b_silver_snow_peak_6 = temple
+#b_silver_snow_peak_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

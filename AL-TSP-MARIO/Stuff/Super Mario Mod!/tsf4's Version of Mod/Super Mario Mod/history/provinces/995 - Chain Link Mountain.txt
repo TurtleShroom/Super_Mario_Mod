@@ -1,0 +1,21 @@
+# c_chain_link_mountain
+
+# County Title
+title = c_chain_link_mountain
+
+# Settlements
+max_settlements = 7
+
+b_chain_link_mountain = castle
+#b_chain_link_mountain_2 = city
+#b_chain_link_mountain_3 = temple
+#b_chain_link_mountain_4 = castle
+#b_chain_link_mountain_5 = city
+#b_chain_link_mountain_6 = temple
+#b_chain_link_mountain_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,7 @@
+
+1984.9.13=
+{
+	holder = 9910002
+	liege = d_mario_land
+}
+

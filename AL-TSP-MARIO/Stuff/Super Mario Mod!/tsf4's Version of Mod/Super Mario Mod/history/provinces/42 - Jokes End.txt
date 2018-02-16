@@ -1,0 +1,21 @@
+# c_jokes_end
+
+# County Title
+title = c_jokes_end
+
+# Settlements
+max_settlements = 7
+
+b_jokes_end = castle
+#b_jokes_end_2 = city
+#b_jokes_end_3 = temple
+#b_jokes_end_4 = castle
+#b_jokes_end_5 = city
+#b_jokes_end_6 = temple
+#b_jokes_end_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

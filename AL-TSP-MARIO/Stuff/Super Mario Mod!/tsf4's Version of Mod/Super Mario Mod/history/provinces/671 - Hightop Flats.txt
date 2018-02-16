@@ -1,0 +1,21 @@
+# c_hightop_flats
+
+# County Title
+title = c_hightop_flats
+
+# Settlements
+max_settlements = 7
+
+b_hightop_flats = castle
+#b_hightop_flats_2 = city
+#b_hightop_flats_3 = temple
+#b_hightop_flats_4 = castle
+#b_hightop_flats_5 = city
+#b_hightop_flats_6 = temple
+#b_hightop_flats_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

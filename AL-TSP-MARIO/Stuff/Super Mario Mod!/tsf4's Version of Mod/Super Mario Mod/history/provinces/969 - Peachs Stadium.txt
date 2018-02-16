@@ -1,0 +1,21 @@
+# c_peachs_stadium
+
+# County Title
+title = c_peachs_stadium
+
+# Settlements
+max_settlements = 7
+
+b_peachs_stadium = castle
+#b_peachs_stadium_2 = city
+#b_peachs_stadium_3 = temple
+#b_peachs_stadium_4 = castle
+#b_peachs_stadium_5 = city
+#b_peachs_stadium_6 = temple
+#b_peachs_stadium_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

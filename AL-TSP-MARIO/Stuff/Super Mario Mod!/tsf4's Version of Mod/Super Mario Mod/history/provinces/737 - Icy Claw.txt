@@ -1,0 +1,21 @@
+# c_icy_claw
+
+# County Title
+title = c_icy_claw
+
+# Settlements
+max_settlements = 7
+
+b_icy_claw = castle
+#b_icy_claw_2 = city
+#b_icy_claw_3 = temple
+#b_icy_claw_4 = castle
+#b_icy_claw_5 = city
+#b_icy_claw_6 = temple
+#b_icy_claw_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

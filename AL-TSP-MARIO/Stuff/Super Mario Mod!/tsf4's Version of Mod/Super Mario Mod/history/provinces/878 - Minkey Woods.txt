@@ -1,0 +1,21 @@
+# c_minkey_woods
+
+# County Title
+title = c_minkey_woods
+
+# Settlements
+max_settlements = 7
+
+b_minkey_woods = castle
+#b_minkey_woods_2 = city
+#b_minkey_woods_3 = temple
+#b_minkey_woods_4 = castle
+#b_minkey_woods_5 = city
+#b_minkey_woods_6 = temple
+#b_minkey_woods_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

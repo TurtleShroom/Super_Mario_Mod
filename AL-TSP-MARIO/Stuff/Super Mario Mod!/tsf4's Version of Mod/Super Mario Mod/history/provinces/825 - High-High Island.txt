@@ -1,0 +1,21 @@
+# c_high_high_island
+
+# County Title
+title = c_high_high_island
+
+# Settlements
+max_settlements = 7
+
+b_high_high_island = castle
+#b_high_high_island_2 = city
+#b_high_high_island_3 = temple
+#b_high_high_island_4 = castle
+#b_high_high_island_5 = city
+#b_high_high_island_6 = temple
+#b_high_high_island_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

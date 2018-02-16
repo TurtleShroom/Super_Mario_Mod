@@ -1,0 +1,21 @@
+# c_toadwood_heart
+
+# County Title
+title = c_toadwood_heart
+
+# Settlements
+max_settlements = 7
+
+b_toadwood_heart = castle
+#b_toadwood_heart_2 = city
+#b_toadwood_heart_3 = temple
+#b_toadwood_heart_4 = castle
+#b_toadwood_heart_5 = city
+#b_toadwood_heart_6 = temple
+#b_toadwood_heart_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History
