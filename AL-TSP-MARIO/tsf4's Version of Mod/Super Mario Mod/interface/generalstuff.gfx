@@ -316,6 +316,12 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\main_back_button.tga"
 		clicksound = click_03
 	}
+	
+	spriteType = {
+		name = "GFX_back_button_rep_nomad"
+		texturefile = "gfx\\interface\\back_button_rep_nomad.dds"
+	}
+	
 	spriteType = {
 		name = "GFX_maximize_button"
 		texturefile = "gfx\\interface\\maximize_button.tga"
@@ -550,6 +556,102 @@ spriteTypes = {
 		allwaystransparent = yes
 	}
 	
+	# CONFUCIAN GOVERNMENT
+	spriteType = {
+		name = "GFX_charframe_150_confucian"
+		texturefile = "gfx\\interface\\charframe_150_confucian_bureaucracy.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_100_confucian"
+		texturefile = "gfx\\interface\\charframe_100_confucian_bureaucracy.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_75_confucian"
+		texturefile = "gfx\\interface\\charframe_75_confucian_bureaucracy.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_50_confucian"
+		texturefile = "gfx\\interface\\charframe_50_confucian_bureaucracy.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_34_confucian"
+		texturefile = "gfx\\interface\\charframe_34_confucian_bureaucracy.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	
+	# FEUDAL THEOCRACY
+	spriteType = {
+		name = "GFX_charframe_150_theocraticfeudal"
+		texturefile = "gfx\\interface\\charframe_150_theocraticfeudal.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_100_theocraticfeudal"
+		texturefile = "gfx\\interface\\charframe_100_theocraticfeudal.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_75_theocraticfeudal"
+		texturefile = "gfx\\interface\\charframe_75_theocraticfeudal.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_50_theocraticfeudal"
+		texturefile = "gfx\\interface\\charframe_50_theocraticfeudal.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_34_theocraticfeudal"
+		texturefile = "gfx\\interface\\charframe_34_theocraticfeudal.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	
+	# CHINESE IMPERIAL
+	spriteType = {
+		name = "GFX_charframe_150_chineseimperial"
+		texturefile = "gfx\\interface\\charframe_150_chineseimperial.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_100_chineseimperial"
+		texturefile = "gfx\\interface\\charframe_100_chineseimperial.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_75_chineseimperial"
+		texturefile = "gfx\\interface\\charframe_75_chineseimperial.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_50_chineseimperial"
+		texturefile = "gfx\\interface\\charframe_50_chineseimperial.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_34_chineseimperial"
+		texturefile = "gfx\\interface\\charframe_34_chineseimperial.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	
 	#####
 	spriteType = {
 		name = "GFX_char_150"
@@ -601,11 +703,29 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\overlay_char_dead.tga"
 		transparencecheck = yes
 		norefcount = yes
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_overlay_char_dead_small"
 		texturefile = "gfx\\interface\\overlay_char_dead2.tga"
 		transparencecheck = yes
+		norefcount = yes
+		noOfFrames = 2
+	}
+
+	spriteType = {
+		name = "GFX_overlay_char_powerful_small"
+		texturefile = "gfx\\interface\\overlay_char_powerful2.tga"
+		transparencecheck = yes
+		noOfFrames = 2
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_overlay_char_powerful"
+		texturefile = "gfx\\interface\\overlay_char_powerful.tga"
+		transparencecheck = yes
+		noOfFrames = 2
 		norefcount = yes
 	}
 	
@@ -649,35 +769,47 @@ spriteTypes = {
 		name = "GFX_overlay_char_status_34"
 		texturefile = "gfx\\interface\\overlay_char_status_34.dds"
 		transparencecheck = yes
-		noOfFrames = 7
+		noOfFrames = 8
 		norefcount = yes
 	}
 	spriteType = {
 		name = "GFX_overlay_char_status_50"
 		texturefile = "gfx\\interface\\overlay_char_status_50.dds"
 		transparencecheck = yes
-		noOfFrames = 7
+		noOfFrames = 8
 		norefcount = yes
 	}
 	spriteType = {
 		name = "GFX_overlay_char_status_75"
 		texturefile = "gfx\\interface\\overlay_char_status_75.dds"
 		transparencecheck = yes
-		noOfFrames = 7
+		noOfFrames = 8
 		norefcount = yes
 	}
 	spriteType = {
 		name = "GFX_overlay_char_status_100"
 		texturefile = "gfx\\interface\\overlay_char_status_100.dds"
 		transparencecheck = yes
-		noOfFrames = 7
+		noOfFrames = 8
 		norefcount = yes
 	}
 	spriteType = {
 		name = "GFX_overlay_char_status_150"
 		texturefile = "gfx\\interface\\overlay_char_status_150.dds"
 		transparencecheck = yes
-		noOfFrames = 7
+		noOfFrames = 8
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_overlay_char_favor_indicator"
+		texturefile = "gfx\\interface\\favor_indicator.dds"
+		transparencecheck = yes
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_overlay_char_favor_indicator_small"
+		texturefile = "gfx\\interface\\favor_indicator_small.dds"
+		transparencecheck = yes
 		norefcount = yes
 	}
 	
@@ -798,6 +930,14 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\standard_button_164.tga"
 	}
 	textSpriteType = {
+		name = "GFX_standard_button_164_disabled"
+		texturefile = "gfx\\interface\\standard_button_164_disabled.dds"
+	}
+	textSpriteType = {
+		name = "GFX_standard_button_164_unowned"
+		texturefile = "gfx\\interface\\standard_button_164_unowned.dds"
+	}
+	textSpriteType = {
 		name = "GFX_standard_button_148"
 		texturefile = "gfx\\interface\\standard_button_148.tga"
 	}
@@ -837,6 +977,10 @@ spriteTypes = {
 		name = "GFX_religion_icon_strip_big"
 		texturefile = "gfx\\interface\\religion_icon_strip_big.tga"
 		noOfFrames = 104
+	}
+	spriteType = {
+		name = "GFX_secret_religion_icon_bg"
+		texturefile = "gfx\\interface\\secret_religion_bg.tga"
 	}
 	spriteType = {
 		name = "GFX_commandmodifier_icon"
@@ -989,6 +1133,7 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_lobby_cust_open"
 		texturefile = "gfx\\interface\\lobby_cust_open.dds"
+		noOfFrames = 3
 	}
 	
 	### government icons
@@ -1003,6 +1148,18 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_icon_muslim_government"
 		texturefile = "gfx\\interface\\government_icon_iqta.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_theocratic_feudal_government"
+		texturefile = "gfx\\interface\\government_icon_theocratic_feudal.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_chinese_imperial_government"
+		texturefile = "gfx\\interface\\government_icon_chinese_imperial.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_confucian_bureaucracy"
+		texturefile = "gfx\\interface\\government_icon_confucian_bureaucracy.dds"
 	}
 	spriteType = {
 		name = "GFX_icon_tribal_government"
@@ -1020,5 +1177,8 @@ spriteTypes = {
 		name = "GFX_icon_republic_government"
 		texturefile = "gfx\\interface\\government_icon_republic.dds"
 	}
-
+	spriteType = {
+		name = "GFX_checkmark"
+		texturefile = "gfx\\interface\\checkmark.dds"
+	}
 }
