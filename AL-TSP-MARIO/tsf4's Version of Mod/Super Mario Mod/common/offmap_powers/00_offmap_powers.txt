@@ -1,0 +1,2152 @@
+# offmap_china = {
+	# name = china_china
+	# window_name = domestic_offmaps_window
+	# button_name = icon_offmaps_entry
+	# currency_name = TXT_GRACE
+	# currency_gain = monthly_grace
+	# currency_reset_on_dynasty_change = yes
+	# holder_title = title_china_emperor			# minor title used to identify a character as holder of this offmap power
+	# governor_title = e_china_west_governor
+	# tier = emperor
+	# non_aggression_modifier = peace_deal_with_china
+	# coa_religion = taoist
+	# government = confucian_bureaucracy
+	# beginning_of_history = 1066.1.1
+	# sound = china_interaction_interface
+	# display_trigger = {
+		# has_dlc = "Jade Dragon"
+	# }
+	# policies = {
+		# china_open
+		# china_isolationist
+		# china_expansionist
+	# }
+	# statuses = {
+		# china_stable
+		# china_unrest
+		# china_civil_war
+		# china_mongol_invasion
+		# china_jurchen_invasion
+		# china_famine
+		# china_plague
+		# china_golden_age
+	# }
+	# buttons = {
+		# offmap_gifts = {
+			# is_active_trigger = {
+				# china_offmap_tribute_decisions_enabled_trigger = yes
+			# }
+		# }
+		# offmap_boons = {
+			# is_active_trigger = {
+				# china_offmap_boon_decisions_enabled_trigger = yes
+			# }
+		# }
+		# offmap_hostility = {
+			# is_active_trigger = {
+				# china_offmap_hostile_decisions_enabled_trigger = yes
+			# }
+			# display_trigger = {
+				# NOT = { offmap_china = { offmap_ruler = { dynasty = FROM } } }
+			# }
+		# }
+		# offmap_hostility2 = {
+			# display_trigger = {
+				# always = no
+			# }
+		# }
+	# }
+	
+	# #These conditions only effect the appearance of the button, it does not actually disable them from being clickable. The same triggers are used in all tribute/boon decisions respectively
+	
+	# icon_triggers = {
+		# china_physician_cd = {
+			# frame = 9
+			# trigger = {
+				# hidden_tooltip = {
+					# has_character_flag = chinese_grace_physician_sent
+				# }
+			# }
+		# }
+		# china_raid_cd = {
+			# frame = 8
+			# right = yes	
+			# trigger = {
+				# hidden_tooltip = {
+					# has_character_modifier = china_raid_grace_cd
+				# }
+			# }
+		# }
+		# china_famine_cd = {
+			# frame = 7
+			# trigger = {
+				# hidden_tooltip = {
+					# has_character_modifier = china_send_relief
+				# }
+			# }
+		# }
+		# china_tributary_cd = {
+			# frame = 6
+			# trigger = {
+				# hidden_tooltip = {
+					# has_character_modifier = chinese_grace_tributary_timer
+				# }
+			# }
+		# }
+		# china_boon_cd = {
+			# frame = 5
+			# right = yes	
+			# trigger = {
+				# hidden_tooltip = {
+					# has_character_modifier = jd_china_boon_cd
+				# }
+			# }
+		# }
+		# china_commander_cd = {
+			# frame = 4
+			# trigger = {
+				# hidden_tooltip = {
+					# has_character_modifier = chinese_grace_send_commander_timer
+				# }
+			# }
+		# }
+		# china_eunuch_cd = {
+			# frame = 3
+			# trigger = {
+				# hidden_tooltip = {
+					# has_character_modifier = chinese_grace_send_eunuch_timer
+				# }
+			# }
+		# }
+		# china_concubine_cd = {
+			# frame = 2
+			# trigger = {
+				# hidden_tooltip = {
+					# has_character_modifier = chinese_grace_send_concubine_timer
+				# }
+			# }
+		# }
+		# china_gift_cd = {
+			# frame = 1
+			# trigger = {
+				# hidden_tooltip = {
+					# has_character_modifier = chinese_grace_send_gift_timer
+				# }
+			# }
+		# }
+	# }
+	
+	# monthly_currency_gain = {
+		# offmap_same_dynasty = {
+			# value = 10
+			# offmap_china = { offmap_ruler = { dynasty = FROM } }
+		# }
+		# offmap_war_with_me = {
+			# value = -10
+			# war_with = FROM
+		# }
+		# offmap_likes_me = {
+			# value = 1
+			# FROM = { is_liked_by_China_trigger = yes }
+			# is_within_diplo_range = FROM
+		# }
+		# offmap_likes_tributaries = {
+			# value = 2
+			# offmap_china = {			
+				# offmap_has_like = likes_tributaries
+			# }
+			# FROM = {
+				# is_tributary = {
+					# type = offmap
+				# }
+			# }
+		# }
+		# vassal_of_WP = {
+			# value = 2
+			# FROM = {
+				# liege = {
+					# has_landed_title = e_china_west_governor
+				# }
+			# }
+		# }
+		# offmap_same_culture_and_religion = {
+			# value = 2
+			# offmap_ruler = {
+				# culture = FROM
+				# religion = FROM
+			# }
+			# is_within_diplo_range = FROM
+		# }
+	# }
+	
+	# temple_names = {
+		# { # Founder names
+			# Gaozu
+			# Taizu
+			# Shizu
+			# Zhaozu
+			# Jingzu
+			# Xianzu
+			# Liezu
+			# Chengzu
+		# }
+		# { # Successor names
+			# Zhenzong
+			# Renzong
+			# Zhongzong
+			# Yingzong
+			# Shenzong
+			# Zhezhong
+			# Huizong
+			# Qinzong
+			# Xiaozong
+			# Guangzong
+			# Ningzong
+			# Lizong
+			# Duzong
+			# Duanzong
+			# Xuanzong
+			# Suzong
+			# Daizong
+			# Muzong
+			# Jingzong
+			# Wenzong
+			# Wuzong
+			# Zhaozong
+			# Xizong
+			# Xuanzong
+			# Shizong
+			# Zhangzong
+			# Ruizong
+			# Dingzong
+			# Xianzong
+			# Chengzong
+			# Mingzong
+			# Jinzong
+			# Yizong
+			# Xiangzong
+			# Huanzong
+			# Chongzong
+			# Daozong
+			# Liezong
+			# Aizong
+			# Zhangzong
+			# Dezong
+			# Shengzong
+			# Xingzong
+			# Kangzong
+			# Zhuangzong
+			# Pingzong
+			# Sizong
+			# Anzong
+			# Yangzong
+			# Shangzong
+			# Shunzong
+			# Zhizong
+			# Chuangzong
+			# Shaozong
+			# Gongzong
+			# Yingzong
+		# }
+	# }
+	# holder_succession = {
+		# is_female = {					# chances of getting a female holder, as a percentage: if the total is >= 100, the new holder will always be female. If the total is <= 0, the new holder will always be male
+			# value = 5
+			# additive_modifier = {
+				# value = 45
+				# has_game_rule = {
+					# name = gender
+					# value = all
+				# }
+			# }
+		# }
+		# culture = {
+			# han = { # default culture for new emperor
+				# value = 99 # if any other value reaches 100, it will be picked instead
+			# }
+			# FROM = { # default culture for new emperor
+								# # the left side here (and for culture, religion, graphical_culture and dynasty) can be a right hand side value (FROM, ROOT, a culture name, etc). and the right hand side / inside the brackets is a standard MTTH evaluation. Only the one with the highest weight will be used. If there's a tie, one of the tied values is picked at random
+				# value = 0
+				# additive_modifier = { #the new emperor will keep current culture if things are great
+					# value = 100
+					# #china_is_fine_trigger = yes
+					# FROM = { culture_scope = { always = yes } } # Essentially a check that the previous emperor actually exists
+				# }
+			# }
+		# }
+
+		# graphical_culture = { 
+			# FROM = {
+				# value = 100
+			# }
+		# }
+
+		# religion = {
+			# taoist = { # default religion for new emperor
+				# value = 99 # if any other value reaches 100, it will be picked instead (unless equal, then it will randomize)
+			# }
+			# FROM = {
+				# value = 0
+				# additive_modifier = { # the new emperor will keep current religion if things are great
+					# value = 100
+					# #china_is_fine_trigger = yes
+					# FROM = { religion_scope = { always = yes } } # Essentially a check that the previous emperor actually exists
+				# }
+			# }
+		# }
+
+		# dynasty = {
+			# FROM = { #default dynasty for new emperor
+				# value = 99 #might drop from modifiers -- highest value will be picked instead (unless equal, then it will randomize)
+			# }
+			# actually_culture = {
+				# value = 0
+				# additive_modifier = {
+					# value = 100
+					# NOT = { FROM = { character = yes } }
+				# }
+				# additive_modifier = { #Fix for simulating Chinese history on old save boot-up
+					# value = 100
+					# random < 12
+					# has_game_started = no
+				# }
+			# }
+		# }
+		
+		# likes = {
+			# likes_concubines = {
+				# value = 300
+				# modifier = {
+					# factor = 0.1
+					# FROMFROM = { is_female = yes }
+				# }
+			# }
+			# likes_eunuchs = {
+				# value = 300
+			# }
+			# likes_wealth = {
+				# value = 300
+			# }
+			# likes_tributaries = {
+				# value = 100
+			# }
+			# likes_byzantine = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = byzantine
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_latin = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = latin
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_iranian = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = iranian
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_arabic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = arabic
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_berberic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = berberic
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_caucasian = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = caucasian
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_north_germanic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = north_germanic
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_central_germanic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = central_germanic
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_west_germanic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = west_germanic
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_celtic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = celtic
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_altaic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = altaic
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_bantu = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = bantu
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_nilo_saharan = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = nilo_saharan
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_congo_nigerian = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = congo_nigerian
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_ethiopic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = ethiopic
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_east_slavic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = east_slavic
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_west_slavic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = west_slavic
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_south_slavic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = south_slavic
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_finno_ugric = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = finno_ugric
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_baltic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = baltic
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_iberian = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = iberian
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_indoaryan = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = indoaryan
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_dravidian = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = dravidian
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_chinese = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = chinese
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_mesoamerican = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = mesoamerican
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_inuit = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = inuit
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_austronesian = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = austronesian
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_abrahamic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = abrahamic_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = abrahamic_group }
+				# }
+			# }
+			# likes_anatolian = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = anatolian_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = anatolian_group }
+				# }
+			# }
+			# likes_east_african = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = east_african_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = east_african_group }
+				# }
+			# }
+			# likes_arabpagan = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = arabpagan_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = arabpagan_group }
+				# }
+			# }
+			# likes_aztec = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = aztec_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = aztec_group }
+				# }
+			# }
+			# likes_pagan = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = pagan_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = pagan_group }
+				# }
+			# }
+			# likes_baltic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = baltic_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = baltic_group }
+				# }
+			# }
+			# likes_bantu = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = bantu_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = bantu_group }
+				# }
+			# }
+			# likes_berberpagan = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = berberpagan_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = berberpagan_group }
+				# }
+			# }
+			# likes_bud = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = bud_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = bud_group }
+				# }
+			# }
+			# likes_celtic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = celtic_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = celtic_group }
+				# }
+			# }
+			# likes_chinese = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = chinese_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = chinese_group }
+				# }
+			# }
+			# likes_norsegerman = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = norsegerman_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = norsegerman_group }
+				# }
+			# }
+			# likes_christian = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = christian
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = christian }
+				# }
+			# }
+			# likes_egyptian = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = egyptian_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = egyptian_group }
+				# }
+			# }
+			# likes_finnish = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = finnish_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = finnish_group }
+				# }
+			# }
+			# likes_graecoroman = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = graecoroman_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = graecoroman_group }
+				# }
+			# }
+			# likes_indian = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = indian_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = indian_group }
+				# }
+			# }
+			# likes_indohelen = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = indohelen_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = indohelen_group }
+				# }
+			# }
+			# likes_inuit = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = inuit_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = inuit_group }
+				# }
+			# }
+			# likes_jewish = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = jewish_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = jewish_group }
+				# }
+			# }
+			# likes_luwian = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = luwian_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = luwian_group }
+				# }
+			# }
+			# likes_mand = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = mand_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = mand_group }
+				# }
+			# }
+			# likes_mani = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = mani_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = mani_group }
+				# }
+			# }
+			# likes_mithra = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = mithra_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = mithra_group }
+				# }
+			# }
+			# likes_muslim = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = muslim
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = muslim }
+				# }
+			# }
+			# likes_neoplato = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = neoplato_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = neoplato_group }
+				# }
+			# }
+			# likes_palmyranpagan = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = palmyranpagan_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = palmyranpagan_group }
+				# }
+			# }
+			# likes_serer = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = serer_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = serer_group }
+				# }
+			# }
+			# likes_slavic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = slavic_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = slavic_group }
+				# }
+			# }
+			# likes_sol = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = sol_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = sol_group }
+				# }
+			# }
+			# likes_tengri = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = tengri_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = tengri_group }
+				# }
+			# }
+			# likes_yazd = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = yazd_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = yazd_group }
+				# }
+			# }
+			# likes_zal = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = zal_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = zal_group }
+				# }
+			# }
+			# likes_zoroastrian = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = zoroastrian_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = zoroastrian_group }
+				# }
+			# }
+		# }
+		
+		# dislikes = {
+			# likes_concubines = {
+				# value = 100
+				# modifier = {
+					# factor = 5.0
+					# FROMFROM = { is_female = yes }
+				# }
+			# }
+			# likes_eunuchs = {
+				# value = 100
+			# }
+			# likes_tributaries = {
+				# value = 100
+			# }
+			# likes_wealth = {
+				# value = 100
+			# }
+			# likes_byzantine = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = byzantine
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_latin = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = latin
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_iranian = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = iranian
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_arabic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = arabic
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_berberic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = berberic
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_caucasian = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = caucasian
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_north_germanic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = north_germanic
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_central_germanic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = central_germanic
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_west_germanic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = west_germanic
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_celtic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = celtic
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_altaic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = altaic
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_bantu = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = bantu
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_nilo_saharan = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = nilo_saharan
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_congo_nigerian = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = congo_nigerian
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_ethiopic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = ethiopic
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_east_slavic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = east_slavic
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_west_slavic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = west_slavic
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_south_slavic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = south_slavic
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_finno_ugric = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = finno_ugric
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_baltic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = baltic
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_iberian = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = iberian
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_indoaryan = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = indoaryan
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_dravidian = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = dravidian
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_chinese = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = chinese
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_mesoamerican = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = mesoamerican
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_inuit = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = inuit
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_austronesian = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# culture_group = austronesian
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+			# }
+			# likes_abrahamic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = abrahamic_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = abrahamic_group }
+				# }
+			# }
+			# likes_anatolian = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = anatolian_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = anatolian_group }
+				# }
+			# }
+			# likes_east_african = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = east_african_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = east_african_group }
+				# }
+			# }
+			# likes_arabpagan = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = arabpagan_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = arabpagan_group }
+				# }
+			# }
+			# likes_aztec = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = aztec_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = aztec_group }
+				# }
+			# }
+			# likes_pagan = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = pagan_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = pagan_group }
+				# }
+			# }
+			# likes_baltic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = baltic_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = baltic_group }
+				# }
+			# }
+			# likes_bantu = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = bantu_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = bantu_group }
+				# }
+			# }
+			# likes_berberpagan = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = berberpagan_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = berberpagan_group }
+				# }
+			# }
+			# likes_bud = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = bud_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = bud_group }
+				# }
+			# }
+			# likes_celtic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = celtic_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = celtic_group }
+				# }
+			# }
+			# likes_chinese = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = chinese_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = chinese_group }
+				# }
+			# }
+			# likes_norsegerman = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = norsegerman_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = norsegerman_group }
+				# }
+			# }
+			# likes_christian = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = christian
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = christian }
+				# }
+			# }
+			# likes_egyptian = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = egyptian_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = egyptian_group }
+				# }
+			# }
+			# likes_finnish = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = finnish_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = finnish_group }
+				# }
+			# }
+			# likes_graecoroman = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = graecoroman_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = graecoroman_group }
+				# }
+			# }
+			# likes_indian = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = indian_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = indian_group }
+				# }
+			# }
+			# likes_indohelen = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = indohelen_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = indohelen_group }
+				# }
+			# }
+			# likes_inuit = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = inuit_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = inuit_group }
+				# }
+			# }
+			# likes_jewish = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = jewish_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = jewish_group }
+				# }
+			# }
+			# likes_luwian = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = luwian_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = luwian_group }
+				# }
+			# }
+			# likes_mand = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = mand_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = mand_group }
+				# }
+			# }
+			# likes_mani = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = mani_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = mani_group }
+				# }
+			# }
+			# likes_mithra = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = mithra_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = mithra_group }
+				# }
+			# }
+			# likes_muslim = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = muslim
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = muslim }
+				# }
+			# }
+			# likes_neoplato = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = neoplato_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = neoplato_group }
+				# }
+			# }
+			# likes_palmyranpagan = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = palmyranpagan_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = palmyranpagan_group }
+				# }
+			# }
+			# likes_serer = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = serer_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = serer_group }
+				# }
+			# }
+			# likes_slavic = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = slavic_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = slavic_group }
+				# }
+			# }
+			# likes_sol = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = sol_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = sol_group }
+				# }
+			# }
+			# likes_tengri = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = tengri_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = tengri_group }
+				# }
+			# }
+			# likes_yazd = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = yazd_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = yazd_group }
+				# }
+			# }
+			# likes_zal = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = zal_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = zal_group }
+				# }
+			# }
+			# likes_zoroastrian = {
+				# value = 100
+				# modifier = {
+					# factor = 0
+					# NOT = {
+						# any_province = {
+							# religion_group = zoroastrian_group
+							# is_within_diplo_range = offmap_china
+						# }
+					# }
+				# }
+				# modifier = {
+					# factor = 0
+					# FROMFROM = { religion_group = zoroastrian_group }
+				# }
+			# }
+		# }
+	# }
+	
+	# diplomatic_range = { #Already includes the western governor's "normal" diplo range
+		# OR = {
+			# has_game_rule = {
+				# name = chinese_interactions
+				# value = all
+			# }
+			# top_liege = {
+				# suzerain = {
+					# has_landed_title = e_china_west_governor
+				# }
+			# }
+			# any_neighbor_independent_ruler = {
+				# OR = {
+					# has_landed_title = e_china_west_governor
+					# suzerain = {
+						# has_landed_title = e_china_west_governor
+					# }
+				# }
+			# }
+			# any_realm_province = { #Is within reach of the silk road
+				# OR = {
+					# trade_route = silk_road
+					# region = world_steppe_east
+					# region = world_india
+					# region = world_persia
+				# }
+			# }
+		# }
+	# }
+# }
