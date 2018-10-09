@@ -42,7 +42,8 @@ astrotheology = {
 		Sadalbari Saiph Sarin Shaula Sheliak Sheratan Sinistra Situla Skat Spica Sterope Sualocin Subra Syrma Tabit Talitha Tania Tarazet Taygeta 
 		Tegmine Terebellum Beemin Vega Vindemiatrix Zaniah Zosma 
 	}
-	seven_stars = {
+
+	seven_stars = { # Astrotheology itself
 		graphical_culture = westerngfx
 
 		icon = 53
@@ -51,14 +52,14 @@ astrotheology = {
 		color = { 1.0 0.9 0.1 }
 		
 		crusade_name = CRUSADE
-		scripture_name = THE_STARS
+		scripture_name = GOD_THE_STAR_SPIRITS
 		priest_title = PRIEST
 		god_names = {
-			GOD_THE_STAR_SPIRITS GOD_THE_STARS
+			GOD_THE_STAR_SPIRITS GOD_THE_STARS GOD_STAR_ROD GOD_POWER_STARS GOD_GRAND_STARS GOD_ROSALINA
 		}
 		
 		evil_god_names = {
-			EVIL_SPIRITS
+			BOWSER
 		}
 		
 		piety_name = WISH
@@ -70,10 +71,12 @@ astrotheology = {
 		can_hold_temples = yes
 		female_temple_holders = yes
 		feminist = yes      # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		cousin_marriage = no
 		
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
 	}
+
 	ztar_faith = {
 		graphical_culture = westerngfx
 
@@ -91,12 +94,12 @@ astrotheology = {
 		}
 		
 		evil_god_names = {
-			EVIL_SPIRITS
+			GOD_THE_STAR_SPIRITS GOD_ROSALINA
 		}
 		
 		piety_name = WISH
-		intermarry = happiness
-		intermarry = greed
+		intermarry = yoshi
+		intermarry = outlaw
 		intermarry = lunatheology
 		
 		priests_can_marry = yes
@@ -104,8 +107,8 @@ astrotheology = {
 		female_temple_holders = yes
 		feminist = yes      # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		
-		religious_clothing_head = 0
-		religious_clothing_priest = 1
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
 	}
 	
 	dark_star_faith = {
@@ -141,6 +144,41 @@ astrotheology = {
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
 	}
+
+
+	beanstar = { # The Beam Bean Kingdom worships a specific Star Spirit called the Beanstar
+		graphical_culture = westerngfx
+
+		icon = 53
+		heresy_icon = 54
+		
+		color = { 1.0 0.9 0.1 }
+		
+		crusade_name = CRUSADE
+		scripture_name = GOD_THE_STAR_SPIRITS
+		priest_title = PRIEST
+		god_names = {
+			GOD_THE_BEANSTAR
+		}
+		
+		evil_god_names = {
+			BOWSER THE_IMPURE_VOICE 
+		}
+		
+		piety_name = WISH
+		intermarry = happiness
+		intermarry = greed
+		intermarry = lunatheology
+		
+		priests_can_marry = yes
+		can_hold_temples = yes
+		female_temple_holders = yes
+		feminist = yes      # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		cousin_marriage = no
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 1
+	}
 	
 	shine_sprites = {
 		graphical_culture = westerngfx
@@ -158,7 +196,7 @@ astrotheology = {
 		}
 		
 		evil_god_names = {
-			EVIL_SPIRITS
+			SHADOW_MARIO BOWSER
 		}
 		character_modifier = {
 			monthly_character_wealth = 0.8
@@ -177,9 +215,9 @@ astrotheology = {
 		religious_clothing_priest = 1
 	}
 	
-	}
+}
 	
-primitive = {
+yoshi = {
 	has_coa_on_barony_only = yes
 	graphical_culture = westerngfx
 	crusade_cb = crusade
@@ -189,13 +227,14 @@ primitive = {
 	ai_convert_same_group = 2 # always try to convert
 	ai_convert_other_group = 2 # always try to convert
 	
-	# Names given only to primitive characters (base names)
+	# Names given only to yoshi characters (base names)
 	male_names = {
 		
 	}
 	female_names = {
 		
 	}
+
 	happiness = {
 		graphical_culture = westerngfx
 
@@ -212,7 +251,7 @@ primitive = {
 		}
 		
 		evil_god_names = {
-			EVIL_SPIRITS
+			SADNESS BOWSER MISERY
 		}
 		character_modifier = {
 			general_opinion = 35
@@ -223,6 +262,7 @@ primitive = {
 		can_hold_temples = yes
 		female_temple_holders = yes
 		feminist = yes      # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		pacifist =  yes
 		
 		intermarry = astrotheology
 		intermarry = personality_cult
@@ -231,6 +271,9 @@ primitive = {
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
 	}
+}
+
+outlaw = {
 	greed = {
 		graphical_culture = westerngfx
 
@@ -242,16 +285,17 @@ primitive = {
 		crusade_name = CRUSADE
 		scripture_name = THE_CATALOGUE
 		priest_title = PRIEST
+		high_god_name = GOD_GREED_SPIRIT
 		god_names = {
-			GOD_GREED_SPIRIT
+			GOD_GREED_SPIRIT WARIO
 		}
 		
 		evil_god_names = {
-			EVIL_SPIRITS
+			BANKRUPTCY GENEROSITY
 		}
 		character_modifier = {
-			stewardship = 4
-			diplomacy = -4
+			stewardship = 3
+			diplomacy = -2
 			global_tax_modifier = 0.1
 		}
 		
@@ -263,13 +307,16 @@ primitive = {
 		allow_looting = yes
 		
 		intermarry = astrotheology
-		intermarry = primitive
+		intermarry = yoshi
 		intermarry = personality_cult
 		intermarry = lunatheology
 		
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
+
+		secret_religion = no
 	}
+
 	gambling = {
 		graphical_culture = westerngfx
 
@@ -282,8 +329,11 @@ primitive = {
 		crusade_name = CRUSADE
 		scripture_name = THE_CASINO
 		priest_title = PIT_BOSS
+
+		high_god_name = GOD_GAME_GUY
+
 		god_names = {
-			GOD_GAMBLER
+			GOD_THE_GAMBLER GOD_GREED_SPIRIT 
 		}
 		
 		evil_god_names = {
@@ -299,15 +349,89 @@ primitive = {
 		feminist = yes      # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		
 		intermarry = astrotheology
-		intermarry = primitive
+		intermarry = yoshi
 		intermarry = personality_cult
 		intermarry = lunatheology
 		
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
+
+		secret_religion = no
 	}
-	
+
+	pirate = {
+		graphical_culture = norsegfx
+
+		icon = 5
+		color = { 0.5 0.5 0.5 } #grey
+		
+		high_god_name = GOD_THE_GREED_SPIRIT
+		
+		god_names = {
+			PLUNDER THE_BOOTY GOD_THE_WAVES PROPHET_SHY_GUY_SAYS
+		}
+		evil_god_names = {
+			BANKRUPTCY GENOROSITY
+		}
+		max_consorts = 7
+		
+		allow_looting = yes
+		allow_rivermovement = yes
+		seafarer = yes
+		priests_can_marry = yes
+		priests_can_inherit = yes
+		female_temple_holders = yes
+		
+		defensive_attrition = yes
+		peace_prestige_loss = yes
+		raised_vassal_opinion_loss = no
+		independence_war_score_bonus = 30
+		aggression = 4.0
+		scripture_name = THE_LEGENDS
+		priest_title = PRIEST
+		
+		secret_religion = no
 	}
+
+	al_koopone = {
+		graphical_culture = westerngfx
+
+		icon = 63
+		heresy_icon = 64
+		
+		color = { 0.37 0.74 0 }
+		
+		scripture_name = KOOMERTA
+		priest_title = PICCIOTO
+		high_god_name = GOD_GREED_SPIRIT
+		god_names = {
+			AL_KOOPONE
+		}
+		
+		evil_god_names = {
+			BANKRUPTCY GENEROSITY
+		}
+		character_modifier = {
+			stewardship = 3
+			diplomacy = -2
+			global_tax_modifier = 0.1
+		}
+		
+		piety_name = ENVY
+		priests_can_marry = yes
+		can_hold_temples = yes
+		female_temple_holders = no
+		feminist = no
+		allow_looting = yes
+
+		intermarry = personality_cult
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 1
+
+		secret_religion = no
+	}
+}
 	
 personality_cult = {
 	has_coa_on_barony_only = yes
@@ -326,7 +450,8 @@ personality_cult = {
 	female_names = {
 		
 	}
-bowser_religion = {
+
+	bowser_religion = {
 		graphical_culture = westerngfx
 
 		icon = 67
@@ -337,12 +462,13 @@ bowser_religion = {
 		crusade_name = CRUSADE
 		scripture_name = THE_BOSS
 		priest_title = SOLDIER
+		high_god_name = GOD_BOWSER
 		god_names = {
-			GOD_BOWSER
+			GOD_BOWSER THE_KOOPA_TROOP GOD_KOOPALINGS GOD_MOMMA_PEACH
 		}
 		
 		evil_god_names = {
-			EVIL_SPIRITS
+			GOD_MARIO GOD_THE_MARIO_BROTHERS
 		}
 		
 		piety_name = STRENGTH
@@ -353,14 +479,15 @@ bowser_religion = {
 		allow_looting = yes
 		
 		intermarry = astrotheology
-		intermarry = primitive
+		intermarry = yoshi
 		intermarry = lunatheology
+		intermarry = outlaw
 		
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
 	}
 	
-smithy_religion = {
+	smithy_religion = {
 		graphical_culture = westerngfx
 
 		icon = 71
@@ -376,7 +503,7 @@ smithy_religion = {
 		}
 		
 		evil_god_names = {
-			EVIL_SPIRITS
+			GOD_MARIO GOD_THE_MARIO_BROTHERS
 		}
 		
 		piety_name = STRENGTH
@@ -387,8 +514,9 @@ smithy_religion = {
 		allow_looting = yes
 		
 		intermarry = astrotheology
-		intermarry = primitive
+		intermarry = yoshi
 		intermarry = lunatheology
+		intermarry = outlaw
 		
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
@@ -413,7 +541,7 @@ lunatheology = {
 		
 	}
 
-twilight_towner = {
+	twilight_towner = {
 		graphical_culture = westerngfx
 
 		icon = 69
@@ -436,8 +564,9 @@ twilight_towner = {
 		}
 		
 		intermarry = astrotheology
-		intermarry = primitive
+		intermarry = yoshi
 		intermarry = personality_cult
+ 		intermarry = outlaw
 		
 		investiture = no
 		can_have_antipopes = no
@@ -453,6 +582,16 @@ twilight_towner = {
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
 	}
+
+#	power_moon_worship = {
+#		graphical_culture = westerngfx
+#		
+#		icon = 53
+#		heresy_icon = 54
+#
+#
+#
+#	}
 }
 
 extraterrestrial = {
@@ -460,12 +599,12 @@ extraterrestrial = {
 	graphical_culture = westerngfx
 	crusade_cb = crusade
 	playable = yes
-	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
+	ai_peaceful = no # Will make Hordes lose their super aggressiveness
 	
 	ai_convert_same_group = 2 # always try to convert
 	ai_convert_other_group = 2 # always try to convert
 	
-	# Names given only to Lunatheologian characters (base names)
+	# Names given only to alien characters (base names)
 	male_names = {
 		
 	}
@@ -473,7 +612,7 @@ extraterrestrial = {
 		
 	}
 
-shroob = {
+	shroob = {
 		graphical_culture = westerngfx
 
 		icon = 73
@@ -500,6 +639,8 @@ shroob = {
 		female_temple_holders = yes
 		feminist = yes      # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		allow_looting = yes
+
+		intermarry = outlaw
 		
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
@@ -524,7 +665,7 @@ kongobongo = {
 		
 	}
 
-kong_religion = {
+	kong_religion = {
 		graphical_culture = westerngfx
 
 		icon = 73
@@ -552,5 +693,8 @@ kong_religion = {
 		
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
+
+		intermarry = yoshi
+		intermarry = greed
 	}
 }
