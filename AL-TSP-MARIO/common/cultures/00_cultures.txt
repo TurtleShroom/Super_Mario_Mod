@@ -18,7 +18,8 @@ scallywag = {
 		grammar_transform = french
 		founder_named_dynasties = yes
 		modifier = default_culture_modifier
-		dukes_called_kings = yes
+		seafarer = yes
+		allow_looting = yes
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 60
@@ -47,7 +48,7 @@ mushroom = {
 		female_names = {
 			Maple_Maple Tayce Chanterelle Frost Minh Vanna Dane Toadette Toadiko Divini Trini Bit Frail
 		}
-		from_dynasty_prefix = "de "
+		from_dynasty_suffix = " T."
 		grammar_transform = french
 		founder_named_dynasties = yes
 		modifier = default_culture_modifier
@@ -75,12 +76,12 @@ yoshi = {
 		
 		color = { 0.06 0.53 0 }
 		male_names = {
-			Yoshi_Yoshi Green Red Yellow Blue Pink "Light Blue" Purple Brown Black White Orange Magenta Yoshisaur
+			Yoshi_Yoshi Green Red Yellow Blue Pink "Light Blue" Purple Brown Black White Orange Magenta Yoshisaur Yoob
 		}
 		female_names = {
 			Yoshi_Yoshi Green Red Yellow Blue Pink "Light Blue" Purple Brown Black White Orange Magenta Yoshisaur
 		}
-		from_dynasty_prefix = "de "
+		from_dynasty_suffix = "shi"
 		grammar_transform = french
 		founder_named_dynasties = yes
 		modifier = default_culture_modifier
@@ -112,7 +113,7 @@ beanish = {
 		female_names = {
 			Bubbles Lima Vicia Cracella Pandalis Lugubrella Alcetas Amandus Flame Pastinum "Angle Shades" Colias Sinapis Nigricana Americana Benghalensis Caroliniana Cracca Ervilia Hassei Hirsuta Lathyroides Lutea Menziesia Pannonica Pyrenaica Sativa Sepia Sylvatica Tetrasperma Sparrow Villosa Winter Broad Bell Phaseolus Acutifolia Coccinea Scarlet  Multiflora Butter Fine Aconitifolia Moth Matki Adzuki Minumulu Vigna Bambara Pea Subterranea Umbellata Cowpea Unguiculata Sesquipedalis Bora Bodi Cicerea Chickpea Ceci Cece Chana Kabuli Arietinum Pisum Hyacinth Bonavista Egypt India Bataw Australia Glycine Soy Goa Manila Pigeon Mucuna Prurien Velvet Bengal Florida Yokohama Cowage Cowitch Lacuna Cyamopsis Guar Fasolada Kuru Fasulye Fasoulia Fagiolata Peanut Lupine_Lupin Canavalia Gladiata Canavalia Ricinus Coco
 		}
-		from_dynasty_prefix = "de "
+		from_dynasty_suffix = "bean"
 		grammar_transform = french
 		founder_named_dynasties = yes
 		modifier = default_culture_modifier
@@ -299,4 +300,44 @@ jellyfish_islands = {
 		mother_name_chance = 10
 	}
 	
+}
+
+twilighter_group = {
+	twilighter = {
+		graphical_cultures = { frankish_gfx }
+
+		color = { 222 100 82 }
+
+		male_names = {
+			# canonical names
+			Dour Darkly Gloomer
+
+			# made up filler
+			Dusk Dusker Gloom Sorrow Sye Dark'ness Poe Bloodirist Christo_Christopher Edgar Enoby_Ebony Goff Goffik Gerard_Gerard Draco Loopin Allen Black Enopby_Ebony Egogy_Ebony Gothum Ichabod Igor Harry_Harold Harold_Harold Ron_Ronald Ronald_Ronald Gerard "Billie Joel"_William Joel Evony_Ebony "Tre Cool" "Mike Dinrt"_Micheal Kiffmeyer Dirnt Cometbus Trey "Gerard Way"_Gerard James Dewees Mikey_Micheal Dusky Smokey Armstrong Bryar Fallout Dib Jhoenn Skoodge Keif_Keith Keith_Keith
+		}
+
+		female_names = {
+			# canonical names
+			Eve
+
+			# made up filler
+			Luna Dusk Gothgf Victoria Ashley Dawn Raven_Raven Enoby_Ebony Ebony_Ebony Rose "Raven Way"_Raven Gilesbie Tara Theresa Eboby_Ebony Ebory_Ebony Enobby_Enoby Taebory_Tara Avada Marcelline Gotha Gloomer Gotha Twila_Twila Twyla_Twila Belle Bella Betty Buffy Alice Sam Hermione Gaz_Gazlene Gazlynn_Gazlene Gazelene Deb Dibra Tak Paramore
+		}
+
+		from_dynastry_suffix = "ly"
+		founder_named_dynasties = yes
+		disinherit_from_blinding = yes
+
+		female_patronym = "gf
+	
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 0
+		mat_grf_name_chance = 0
+		father_name_chance = 30
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 30
+	}
 }
