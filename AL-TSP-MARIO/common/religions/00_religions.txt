@@ -845,10 +845,10 @@ kongobongo = {
 	
 	# Names given only to Kong characters (base names)
 	male_names = {
-		Donkey Diddy Lankey Rool
+		Donkey Diddy Lankey Cranky Funky Kiddy Swanky Bluster Chunky Hunky Tanky Clonky Stinky Rocky Rusty Lackey Eddy
 	}
 	female_names = {
-		Kay
+		Kay Candy Tiny Pretty Dixie Bratty Katty Trixie Roxy 
 	}
 
 	kong_religion = {
@@ -866,11 +866,11 @@ kongobongo = {
 		high_god_name = GOD_CRYSTAL_COCONUT
 		
 		god_names = {
-			GOD_CRYSTAL_COCONUT
+			GOD_CRYSTAL_COCONUT GOD_THE_JUNGLE_BEAT
 		}
 		
 		evil_god_names = {
-			EVIL_SPIRITS
+			GOD_HUMANITY GOD_KREMLINGKIND GOD_TIKI_TONG
 		}
 		
 		priests_can_marry = yes
