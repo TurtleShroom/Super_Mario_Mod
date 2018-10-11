@@ -592,6 +592,7 @@ dogmatic = {
 		crusade_name = PACIFICATION
 		scripture_name = YOSHI_STORY
 		priest_title = PRIEST
+		piety_name = INNER_PEACE
 		
 		high_god_name = GOD_THE_SUPER_HAPPY_TREE
 		

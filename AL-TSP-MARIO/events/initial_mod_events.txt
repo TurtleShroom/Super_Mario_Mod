@@ -357,13 +357,13 @@ character_event = {
 	hide_FROM = yes
 	
 	trigger = {
-				religion = happiness
-				NOT = { trait = happiness_religion_trait }
-			}
+		religion = happiness
+		NOT = { trait = happiness_religion_trait }
+	}
 			
 	mean_time_to_happen = {
 		months = 6
-							}
+	}
 	
 	option = {
 		name = "EVTOPT_YIPPEE"
@@ -380,16 +380,20 @@ character_event = {
 	hide_FROM = yes
 	
 	trigger = {
-				religion = greed
-				NOT = { trait = greed_religion_trait }
-			}
+		religion = greed
+		OR = {
+			NOT = { trait = greed_religion_trait }
+			NOT = { trait = greedy }
+		}
+	}
 	mean_time_to_happen = {
 		months = 6
-							}
+	}
 	
 	option = {
 		name = "EVTOPT_YIPPEE"
 		add_trait = greed_religion_trait
+		add_trait = greedy
 	}
 }
 
@@ -404,13 +408,14 @@ character_event = {
 	option = {
 		name = "EVTOPT_OHWO"
 		transfer_scaled_wealth = { to = FROM value = 0.5 }
-			opinion = {
-				who = FROM
-				modifier = robbed_me_blind
-				months = 60
-			}
+		opinion = {
+			who = FROM
+			modifier = robbed_me_blind
+			months = 60
+		}
 	}
 }
+
 #Gambling from a decision
 character_event = {
 	id = MARIO.11
@@ -451,7 +456,7 @@ character_event = {
 		IF = {
 			limit = {
 				 d_gambling = { has_holder = YES } 
-				}
+			}
 			 random_list = {
 							47 = {
 								wealth = 10
