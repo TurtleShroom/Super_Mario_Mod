@@ -20,14 +20,13 @@ astrotheology = {
 		Chort Chow Cor Caroli "Cor Caroli" Decrux Deneb "Deneb Algedi" Dulfim "Deneb Dulfim" Okab "Deneb el Okab" "Deneb Kaitos"  
 		"Deneb Kaitos Schemali" Denebola Dheneb Diadem Dnoces Dschubba Dubhe Duhr Etamin Eltanin Fomalhaut Fum "Fum al Samakah" Samakah Furud 
 		Gacrux Garnet Gianfar Gurab Girtab Grumium Haedus Haldus Hamal Ras "Ras Hammel" Hoedus Jabbah Kabdhilinan Kajam Kaus Keid Kochab
-		Kornephoros Kraz Kullat "Kullat Nunu" "La Superba" Superba Marfark Marfik Markab Matar Mekbuda Menkab Menkalinan Menkar Menkent Menkib
+		Kornephoros Kraz Kullat "Kullat Nunu" Superba Marfark Marfik Markab Matar Mekbuda Menkab Menkalinan Menkar Menkent Menkib
 		Merak Minkar Mizar Muliphein Murzim Al Saif "Nair Al Saif" Naos Nash Nekkar Nembus Nihal Nunki Nusakan Okul Polaris Cynosure Lodestar
 		Pollux Procyon Propus Izar Rana Algethi "Ras Algethi" "Ras Alhague" "Ras Elased" "Ras Thaoum" Rasalas Rastaban Regor Regulus Rigel 
 		"Rigil Kentaurus" Rigil Kentaurus Rijl Awwa "Rijl al Awwa" Rotanev Rukbah_Rukbah Rucbah_Rukbah Ksora Sadalmelik Sadalsuud Sadatoni Sadr
 		Salm Sargas Sarir Sceptrum Scheat Scheddi Schedir_Schedir Schedar_Schedir Segin_Segin Seginus_Segin Sham Sheratan Azimech Suhail Sulafat
 		Tegmen Tejat Thabit Theemin Thuban Tien Kwan "Tien Kwan" Torcularis Septentrionalis "Torcularis Septentrionalis" Tureis Tyl Unuk Unukalhai
-		Vega Wasat Wazn Wezen Yed Yildun Zaurak_Zaurak Zaurac_Zaurak Zavijava Zuben-el-Akrab Zuben Zuben-el-Akribi Akribi Zubenelgenubi_Zubenelgenubi
-		Zuben-el-genubi_Zubenelgenubi Genubi Lanx Zubeneschamali_Zubeneschamali Zuben-el-schemali_Zubeneschamali Schemali
+		Vega Wasat Wazn Wezen Yed Yildun
 	}
 	female_names = {
 		Star Astrid Sirene Andromeda Aquarius Auriga Venatici Capricorn Carina Cassiopeia Columba Berenices Corona Australis Borealis Delphinus
@@ -35,12 +34,12 @@ astrotheology = {
 		Thalimain Alcyone Aldhafera Meridiana Algieba Alhena Alioth Alkes Alkurah Alniyat Alphecca Alrai Alrami Alrischa Alsafi Alshain Aludra Alula
 		Alya Ancha Angetenar Ankaa Ascella Asellus Askella Aspidiske Asterope Atria Auva Avior Azaleh Azelfafage Azha Azmidiske Mimosa Beid Bellatrix 
 		Benetnasch Betria Biham Bunda Canopus Capella Caph Cebalrai Chara Cor Caroli "Cor Caroli" Cursa Dabih Denebola Diphda Edasich Electra Elmuthalleth
-		Elnath Enif Errai Etamin "Garnet Star" Garnet Gatria Gemma Gianfar Gienah "Gienah Gurab" Gomeisa Gorgonea Tertia "Gorgonea Tertia" Hadar Hassaleh
+		Elnath Enif Errai Etamin "Garnet Star"_Garnet Garnet_Garnet Gatria Gemma Gianfar Gienah Gienah Gurab Gomeisa Gorgonea Tertia "Gorgonea Tertia" Hadar Hassaleh
 		Heka Heze Homam Hyadum Hydrobius Kaffaljidhma Kastra Media Kitalpha Nunu Kuma La Lesath Lucida Anseris "Lucida Anseris" Maasym Mahasim Maia Mebsuta
 		Megrez Meissa Menchib Merga Merope Mesarthim Miaplacidus Minchir Minelava Minkar Mintaka Mira Mirach Miram Mirfak Mirzam Misam Mothallah Muphrid
-		Mufrid Muscida Navi Nashira Peacock Phad Phecda Phekda Pherkad Pherkard Pleione Porrima Praecipua Pulcherrima Rana Rasalas Rukbat Sabik Sadachbia
+		Mufrid Muscida Navi Nashira Phad Phecda Phekda Pherkad Pherkard Pleione Porrima Praecipua Pulcherrima Rana Rasalas Rukbat Sabik Sadachbia
 		Sadalbari Saiph Sarin Shaula Sheliak Sheratan Sinistra Situla Skat Spica Sterope Sualocin Subra Syrma Tabit Talitha Tania Tarazet Taygeta 
-		Tegmine Terebellum Beemin Vega Vindemiatrix Zaniah Zosma 
+		Tegmine Terebellum Beemin Ursa_Ursa "Ursa Majoris"_Ursa Vega Vindemiatrix Zaniah Zosma 
 	}
 
 	seven_stars = { # Astrotheology itself
@@ -62,7 +61,7 @@ astrotheology = {
 		}
 		
 		evil_god_names = {
-			BOWSER THE_DARK_STAR THE_IMPURE_VOICE THE_KOOPALINGS THE_KOOPA_TROOP
+			BOWSER THE_DARK_STAR THE_IMPURE_VOICE THE_KOOPALINGS THE_KOOPA_TROOP FUNGUS_POCUS
 		}
 		
 		piety_name = WISH
@@ -194,7 +193,7 @@ astrotheology = {
 		}
 		
 		evil_god_names = {
-			BOWSER THE_DARK_STAR THE_DARKNESS THE_IMPURE_VOICE
+			BOWSER THE_DARK_STAR THE_DARKNESS THE_IMPURE_VOICE THE_KOOPA_TROOP
 		}
 		
 		piety_name = WISH
@@ -236,7 +235,7 @@ astrotheology = {
 		}
 		
 		evil_god_names = {
-			THE_DARK_STAR CACKLETTA FAWFUL THE_IMPURE_VOICE BOWLETTA
+			THE_DARK_STAR CACKLETTA FAWFUL THE_IMPURE_VOICE BOWLETTA FUNGUS_POCUS
 		}
 		
 		piety_name = WISH
@@ -272,12 +271,12 @@ astrotheology = {
 		
 		crusade_name = WAR_OF_THE_DAWN
 		scripture_name = THE_SHINES
-		priest_title = PRIEST
+		priest_title = DIVINER
 		
 		high_god_name = GOD_THE_SHINE_SPRITES
 		
 		god_names = {
-			GOD_THE_SHINE_SPRITES GOD_THE_STAR_SPIRITS GOD_THE_SUN
+			GOD_THE_SHINE_SPRITES GOD_THE_SUN
 		}
 		
 		evil_god_names = {
@@ -294,6 +293,7 @@ astrotheology = {
 		intermarry = kong_group
 		intermarry = al_koopone
 		
+		can_call_crusade = yes
 		priests_can_marry = yes
 		priests_can_inherit = no
 		can_hold_temples = no
@@ -304,8 +304,12 @@ astrotheology = {
 		aggression = 0.9
 		
 		religious_clothing_head = 0
-		religious_clothing_priest = 1
-	}	
+		religious_clothing_priest = 0
+	}
+	
+#	pianta_imperialism = {
+#
+#	}
 }
 
 pagan_group = { # Hard-coded, MUST BE HERE if it can reform
@@ -344,7 +348,7 @@ pagan_group = { # Hard-coded, MUST BE HERE if it can reform
 		high_god_name = GOD_LUNAR
 		
 		god_names = {
-			GOD_LUNAR GOD_LUNA2 GOD_LUNAR3 GOD_POWER_MOONS GOD_CREEPY_STEEPLE
+			GOD_LUNAR GOD_LUNA2 GOD_LUNAR3 GOD_POWER_MOONS GOD_CREEPY_STEEPLE THE_LUNAR
 		}
 		
 		evil_god_names = {
@@ -396,7 +400,7 @@ pagan_group = { # Hard-coded, MUST BE HERE if it can reform
 		}
 		
 		evil_god_names = {
-			DOOPLISS THE_PIGS SWINE_LORD
+			DOOPLISS THE_PIGS SWINE_LORD FUNGUS_POCUS
 		}
 		
 		intermarry = astrotheology
@@ -542,7 +546,7 @@ pagan_group = { # Hard-coded, MUST BE HERE if it can reform
 		feminist = yes
 		attacking_same_religion_piety_loss = yes
 		can_grant_claims = yes
-		uses_jizya_tax = yes
+		uses_jizya_tax = no
 		female_temple_holders = no
 		feminist = yes
 		priests_can_marry = yes
@@ -633,6 +637,8 @@ dogmatic = {
 		
 		color = { 0 170 239 }
 		
+		piety_name = INNER_PEACE
+		
 		crusade_name = PACIFICATION
 		scripture_name = GOD_THE_FORMS
 		priest_title = FORMMAN
@@ -649,6 +655,7 @@ dogmatic = {
 		
 		landed_kin_prestige_bonus = yes
 		priests_can_marry = no
+		female_temple_holders = no
 		feminist = yes
 		ignores_defensive_attrition = yes
 		can_retire_to_monastary = yes
@@ -744,8 +751,8 @@ outlaw = {
 		
 		piety_name = LUCK
 		priests_can_marry = yes
-		priests_can_inherit = yes
-		female_temple_holders = yes
+		priests_can_inherit = no # Private sector
+		female_temple_holders = no # No casino in any Mario game has ever been run by or hosted by a female
 #		can_hold_temples = yes # Temples replaced with casinoes
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		raised_vassal_opinion_loss = no
@@ -820,14 +827,14 @@ outlaw = {
 		scripture_name = KOOPOMERTA
 		priest_title = PICCIOTO
 		
-		high_god_name = GOD_THE_GREED_SPIRIT
+		high_god_name = THE_GREED_SPIRIT
 		
 		god_names = {
 			AL_KOOPONE DON_PIANTA KOOPOMERTA PLUNDER THE_GODFATHER THE_DON THE_BOSS THIS_THING_OF_OURS THE_FAMILY
 		}
 		
 		evil_god_names = {
-			BANKRUPTCY DA_POPO BETRAYAL
+			BANKRUPTCY DA_POPO BETRAYAL THE_POLICE
 		}
 		character_modifier = {
 			stewardship = 3
@@ -952,13 +959,13 @@ lunatheology = {
 		color = { 247 239 57 }
 		
 		crusade_name = PACIFICATION
-		scripture_name = THE_ODYSSEY
+		scripture_name = THE_LUNAR
 		priest_title = SHAMAN
 		
-		high_god_name = GOD_LUNAR
+		high_god_name = GOD_POWER_MOONS
 		
 		god_names = {
-			GOD_LUNAR GOD_LUNA2 GOD_LUNAR3 GOD_POWER_MOONS
+			GOD_LUNAR GOD_POWER_MOONS PROPHET_THE_ODYSSEY GOD_THE_STAR_SPIRITS
 		}
 		
 		evil_god_names = {
@@ -1020,23 +1027,24 @@ extraterrestrial = {
 		scripture_name = THE_SHROOK
 		priest_title = SHRIEST
 		
-		high_god_name = GOD_ELDER_ROYAL_SHROOB
+		high_god_name = ELDER_ROYAL_SHROOB
 		
 		god_names = {
-			GOD_FIRST_SHROOB GOD_ELDER_PRINCESS_SHROOB GOD_ELDER_ROYAL_SHROOB VIM
+			FIRST_SHROOB ELDER_PRINCESS_SHROOB ELDER_ROYAL_SHROOB VIM
 		}
 		
 		evil_god_names = {
 			GOD_MARIO GOD_THE_MARIO_BROTHERS
 		}
 		
-		aggression = 10
+		aggression = 100
 		piety_name = VIM
 		priests_can_marry = yes
 		can_hold_temples = yes
 		female_temple_holders = yes
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		allow_looting = yes
+		
 
 		intermarry = outlaw
 		intermarry = dogmatic
@@ -1105,16 +1113,16 @@ kongo_group = {
 	
 	ai_convert_same_group = 2 # always try to convert
 	ai_convert_other_group = 2 # always try to convert
-	
-	# Names given only to Kong characters (base names)
-	male_names = {
-		Donkey Diddy_Diddy Diddie_Diddy Lankey Cranky Funky Kiddy Swanky Bluster Chunky Hunky Tanky Clonky Stinky Rocky Rusty Lackey Eddy Kong "Jerry Lee"_Jared Lewis Jerry_Jared
-	}
-	female_names = {
-		Kay Candy Tiny Pretty Dixie Bratty Katty Trixie Roxy 
-	}
 
 	kong_religion = {
+		# Names given only to Kong characters (base names)
+		male_names = {
+			Donkey Diddy_Diddy Diddie_Diddy Lankey Cranky Funky Kiddy Swanky Bluster Chunky Hunky Tanky Clonky Stinky Rocky Rusty Lackey Eddy Kong "Jerry Lee"_Jared Lewis Jerry_Jared
+		}
+		female_names = {
+			Kay Candy Tiny Pretty Dixie Bratty Katty Trixie Roxy 
+		}
+	
 		graphical_culture = westerngfx
 
 		icon = 73
@@ -1123,7 +1131,7 @@ kongo_group = {
 		color = { 0.58 0.29 0 }
 		
 		crusade_name = GREAT_CONQUEST
-		scripture_name = GOD_THE_JUNGLE_BEAT
+		scripture_name = THE_JUNGLE_BEAT
 		priest_title = WISE_ONE
 		
 		high_god_name = GOD_CRYSTAL_COCONUT
@@ -1133,7 +1141,7 @@ kongo_group = {
 		}
 		
 		evil_god_names = {
-			GOD_MAN GOD_HUMANITY THE_KREMLINGS TIKI_TONG K_ROOL GOD_MARIO
+			GOD_MAN GOD_MANKIND THE_KREMLINGS TIKI_TONG K_ROOL GOD_MARIO
 		}
 		
 		piety_name = BANANAS
@@ -1152,5 +1160,7 @@ kongo_group = {
 		intermarry = personality_cult
 		intermarry = pagan_group
 		intermarry = lunatheology
+		
+		secret_religion = no
 	}
 }
