@@ -310,7 +310,7 @@
 	1990.12.11 = {
 		add_trait = trickster
 	}
-	2010.7.28 = { #On this date, the 41st volume of Super Mario-Kun, Mario becomes friends with Lemmy
+	2010.7.28 = { #On this date, in 41st volume of Super Mario-Kun, Mario becomes friends with Lemmy
 		effect = {
 			add_friend = 256 #Mario Mario
 		}

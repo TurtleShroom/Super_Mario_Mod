@@ -116,3 +116,15 @@
 	name = "Goldtoad"
 	culture = "mushroom_kingdom"
 }
+
+273 = {
+	used_for_random = no
+	name = "Capitoline"
+	culture = "mushroom_kingdom"
+}
+
+274 = {
+	used_for_random = no
+	name = "Wadlow"
+	culture = "mushroom_kingdom"
+}

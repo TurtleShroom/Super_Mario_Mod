@@ -105,7 +105,7 @@
 		birth = yes
 		effect = { set_character_flag = is_donkey_kong_junior }
 	}
-	1993.1.21 = { #reference to the latest SNES release date of Super Mario Kart
+	1993.1.21 = { #reference to the latest SNES release date of Super Mario Kart, also a nod to the (false) Great Banana War
 		death = {
 			death_reason = death_battle
 		}

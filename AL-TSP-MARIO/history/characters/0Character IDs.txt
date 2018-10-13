@@ -24,3 +24,15 @@
 
 #Toadstool
 #2001-2250
+
+#Capitoline
+#2251-2500
+
+#Wadlow
+#2501-2750
+
+#Opal
+#2751-3000
+
+#Moonstone
+#3001-3250

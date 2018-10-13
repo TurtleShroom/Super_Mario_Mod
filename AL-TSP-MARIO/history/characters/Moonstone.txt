@@ -1,0 +1,59 @@
+#Moonstone
+#3001-3250
+
+3001 = {
+	name = Aleister #Ashley's father, named after Aleister Crowley
+	dynasty = x
+	religion = temple_of_form 
+	culture = x
+	1966.6.6 = {
+		birth = yes
+	}
+	1996.6.6 = {
+		death = {
+			death_reason = death_missing #It's no doubt she doesn't live with her parents but it's very ambiguous if her parents are alive elsewhere in the world
+		}
+	}
+}
+
+3002 = {
+	name = Morgan #Ashley's mother, named after Morgan le Fay
+	female = yes
+	religion = temple_of_form 
+	culture = x
+	1966.6.6 = {
+		birth = yes
+	}
+	1996.6.6 = {
+		death = {
+			death_reason = death_missing #It's no doubt she doesn't live with her parents but it's very ambiguous if her parents are alive elsewhere in the world
+		}
+	}
+}
+
+3003 = {
+	name = Ashley #Ashley
+	female = yes
+	dynasty = x
+	religion = power_moon_worship 
+	culture = x
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 3001
+	mother = 3002
+	disallow_random_traits = yes #Done so that Ashley won't get unfitting traits
+	1991.12.4 = { #The date is a reference to the release date of WarioWare: Touched! in Japan. When that game came out, in US, she stated to be 15, and in China, she is stated be a teenager, but the dev team felt like she feels really young so we made her age be 13 as a compromise on the lore when WW:T happens
+		birth = yes
+		effect = { set_character_flag = is_ashley_moonstone }
+	}
+	2007.12.4 = {
+		add_trait = shy
+		add_trait = wroth
+		add_trait = cruel
+		add_trait = scholar
+		add_trait = brave #unfazed by monsters
+	}
+	2071.12.4 = {
+		death = yes
+	}
+}
