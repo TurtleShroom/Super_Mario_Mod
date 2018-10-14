@@ -1,0 +1,10 @@
+nick_la_koopa = {}
+nick_kooky = {}
+nick_big_mouth = {}
+nick_bully = {}
+nick_kootie_pie = {}
+nick_hop = {}
+nick_hip = {}
+nick_cheatsy = {}
+nick_cranky = {}
+nick_wrinkly = {}

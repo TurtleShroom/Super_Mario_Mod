@@ -1,0 +1,483 @@
+#Koopa
+#1251-1500
+
+1251 = {
+	name = Morton #Bowser's "great-great grandkoop", Morton Sr
+	dynasty = x
+	religion = pirate 
+	culture = x
+	1836.11.27 = { #November 27th is a reference to his only time being mentioned in the episode "Raiders of the Lost Mushroom", the forty-ninth episode of The Super Mario Bros. Super Show!
+		birth = yes
+	}
+	1916.11.27 = {
+		death = yes
+	}
+}
+
+1252 = {
+	name = Johnny #Fictional, named after Johnny Cash
+	dynasty = x
+	religion = greed 
+	culture = x
+	father = 1251
+	1866.6.1 = { 
+		birth = yes
+	}
+	1946.6.1 = {
+		death = yes
+	}
+}
+
+1253 = {
+	name = Poopa #Bowser's grandfather, Poopa La Koopa
+	dynasty = x
+	religion = greed 
+	culture = x
+	father = 1252
+	1896.6.1 = { 
+		birth = yes
+	}
+	1936.6.1 = {
+		give_nickname = nick_la_koopa
+	}
+	1976.6.1 = {
+		death = yes
+	}
+}
+
+1254 = {
+	name = Elvis #Bowser's dad, named after Elvis for his Jailhouse Rock
+	dynasty = x
+	religion = al_koopone #Since he is on the run, and I named after Elvis, it is fitting to give him this religion as one of the evil gods of this faith is the Police
+	culture = x
+	father = 1254
+	1926.6.1 = { 
+		birth = yes
+	}
+	1946.6.1 = { 
+		add_spouse = 2005
+	}
+	2006.6.1 = {
+		death = yes
+	}
+}
+
+1255 = {
+	name = Billie #Bowser's mom, named after Billie Holiday
+	female = yes
+	religion = al_koopone 
+	culture = x
+	1927.10.4 = { #October 4th is a reference to her first appearance in "Do You Princess Toadstool Take This Koopa...?", the nineteenth episode of The Super Mario Bros. Super Show!
+		birth = yes
+	}
+	1943.10.4 = {
+		add_trait = scholar #She is a librarian
+		add_trait = cruel #She is a bully
+	}
+	1981.7.9 = {
+		religion = bowser_religion
+	}
+	2007.10.4 = {
+		death = yes
+	}
+}
+
+1256 = {
+	name = Bowser #Bowser
+	dynasty = x
+	religion = greed 
+	culture = x
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 1254
+	mother = 1255
+	disallow_random_traits = yes #Done so that Bowser won't get unfitting traits
+	1956.11.27 = { 
+		birth = yes
+		effect = { set_character_flag = is_bowser_koopa }
+	}
+	1972.11.27 = {
+		add_trait = ambitious
+	}
+	1981.7.9 = { #Just to be funny, I made Bowser find this religion the same day as when the events of Donkey Kong happens
+		religion = bowser_religion
+	}
+	1985.9.13 = { #On this date, the events of Super Mario Bros happens
+		effect = {
+			add_rival = 256 #Mario Mario
+			add_rival = 257 #Luigi Mario
+			add_rival = 2006 #Peach Toadstool
+		}
+	}
+	2036.11.27 = {
+		death = yes
+	}
+}
+
+1257 = {
+	name = Madonna #Bowser's sister, named after Madonna Louise Ciccone
+	female = yes
+	dynasty = x
+	religion = greed 
+	culture = x
+	father = 1254
+	mother = 1255
+	1960.6.19 = { 
+		birth = yes
+	}
+	1976.6.19 = {
+		add_trait = scholar
+		add_trait = erudite
+	}
+	1981.7.9 = {
+		religion = bowser_religion
+	}
+	2040.6.19 = {
+		death = yes
+	}
+}
+
+1258 = {
+	name = Chris #Bowser's brother, "Blue Bowser", named after Chris Wink, co-founder of the Blue Man Group
+	dynasty = x
+	religion = greed 
+	culture = x
+	father = 1254
+	mother = 1255
+	1961.6.19 = { 
+		birth = yes
+	}
+	1981.7.9 = {
+		religion = bowser_religion
+	}
+	2041.6.19 = {
+		death = yes
+	}
+}
+
+1259 = {
+	name = Kammy #Kammy Koopa, since her last name is Koopa so I'm assuming she is related to Bowser in someway
+	female = yes
+	dynasty = x
+	religion = greed 
+	culture = x
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 1254
+	disallow_random_traits = yes #Done so that Kammy won't get unfitting traits
+	1930.6.1 = { 
+		birth = yes
+	}
+	1981.7.9 = {
+		religion = bowser_religion
+	}
+	2030.6.1 = {
+		death = yes
+	}
+}
+
+1260 = {
+	name = Ludwig #Ludwig von Koopa
+	dynasty = x
+	religion = greed 
+	culture = x
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 1256
+	add_trait = genius
+	disallow_random_traits = yes #Done so that Ludwig won't get unfitting traits
+	1969.10.23 = { #Confirmed oldest, October 23 is a reference to the release date of SMB3 in Japan
+		birth = yes
+		give_nickname = nick_kooky
+	}
+	1981.7.9 = {
+		religion = bowser_religion
+	}
+	2049.10.23 = {
+		death = yes
+	}
+}
+
+1261 = {
+	name = Morton #Morton Koopa Jr
+	dynasty = x
+	religion = greed 
+	culture = x
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 1256
+	add_trait = strong
+	disallow_random_traits = yes #Done so that Morton won't get unfitting traits
+	1970.2.9 = { #Confirmed to be one of the oldest, February 9 is a reference to the release date of SMB3 in US
+		birth = yes
+		give_nickname = nick_big_mouth
+	}
+	1981.7.9 = {
+		religion = bowser_religion
+	}
+	1986.2.9 = {
+		add_trait = wroth
+		add_trait = robust
+		add_trait = architect
+	}
+	2050.2.9 = {
+		death = yes
+	}
+}
+
+1262 = {
+	name = Roy #Roy Koopa
+	dynasty = x
+	religion = greed 
+	culture = x
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 1256
+	add_trait = strong
+	disallow_random_traits = yes #Done so that Roy won't get unfitting traits
+	1971.8.29 = { #Confirmed to be one of the oldest, August 29 is a reference to the release date of SMB3 in EU
+		birth = yes
+		give_nickname = nick_bully
+	}
+	1981.7.9 = {
+		religion = bowser_religion
+	}
+	1987.8.29 = {
+		add_trait = brave
+		add_trait = cruel
+		add_trait = deceitful
+	}
+	2051.8.29 = {
+		death = yes
+	}
+}
+
+1263 = {
+	name = Wendy #Wendy O. Koopa
+	female = yes
+	dynasty = x
+	religion = greed 
+	culture = x
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 1256
+	disallow_random_traits = yes #Done so that Wendy won't get unfitting traits
+	1972.11.5 = { #November 5 is a reference to the release date of VC Wii SMB3 in US
+		birth = yes
+		give_nickname = nick_kootie_pie
+	}
+	1981.7.9 = {
+		religion = bowser_religion
+	}
+	1988.11.5 = {
+		add_trait = greedy
+		add_trait = wroth
+		add_trait = brave
+		add_trait = proud
+	}
+	2014.9.13 = { #Her trophy information in Super Smash Bros. for Nintendo 3DS / Wii U states that she has a rivalry with Peach and Daisy
+		effect = {
+			add_rival = 2006 #Peach Toadstool
+			add_rival = 1752 #Daisy Bruisewort
+		}
+	}
+	2052.11.5 = {
+		death = yes
+	}
+}
+
+1264 = {
+	name = Iggy #Iggy Koopa
+	dynasty = x
+	religion = greed 
+	culture = x
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 1256
+	add_trait = quick
+	disallow_random_traits = yes #Done so that Iggy won't get unfitting traits
+	1973.11.9 = { #November 9 is a reference to the release date of VC Wii SMB3 in EU
+		birth = yes
+		give_nickname = nick_hop
+	}
+	1981.7.9 = {
+		religion = bowser_religion
+	}
+	1989.11.9 = {
+		add_trait = scholar
+		add_trait = trickster
+	}
+	2053.11.9 = {
+		death = yes
+	}
+}
+
+1265 = {
+	name = Lemmy #Lemmy Koopa
+	dynasty = x
+	religion = greed 
+	culture = x
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 1256
+	add_trait = slow
+	disallow_random_traits = yes #Done so that Lemmy won't get unfitting traits
+	1974.12.11 = { #December 11 is a reference to the release date of VC Wii SMB3 in Japan
+		birth = yes
+		give_nickname = nick_hip
+	}
+	1981.7.9 = {
+		religion = bowser_religion
+	}
+	1990.12.11 = {
+		add_trait = trickster
+	}
+	2010.7.28 = { #On this date, in 41st volume of Super Mario-Kun, Mario becomes friends with Lemmy
+		effect = {
+			add_friend = 256 #Mario Mario
+		}
+	}
+	2054.12.11 = {
+		death = yes
+	}
+}
+
+1266 = {
+	name = Larry #Larry Koopa
+	dynasty = x
+	religion = greed 
+	culture = x
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 1256
+	disallow_random_traits = yes #Done so that Larry won't get unfitting traits
+	1975.5.26 = { #Confirmed youngest, May 26th is a reference to the release date of VC Wii SMB3 in South Korea
+		birth = yes
+		give_nickname = nick_cheatsy
+	}
+	1981.7.9 = {
+		religion = bowser_religion
+	}
+	1991.5.6 = {
+		add_trait = game_master
+		add_trait = gluttonous
+		add_trait = feeble
+		add_trait = deceitful
+	}
+	2055.5.26= {
+		death = yes
+	}
+}
+
+1267 = {
+	name = Bowser #Bowser Jr
+	dynasty = x
+	religion = bowser_religion 
+	culture = x
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 1256
+	disallow_random_traits = yes #Done so that Bowser Jr won't get unfitting traits
+	1992.7.19 = { #July 19th is a reference to the release date of Super Mario Sunshine in Japan
+		birth = yes
+	}
+	2082.7.19 = {
+		death = yes
+	}
+}
+
+1268 = {
+	name = Karlheinz #Fictional, named after Karlheinz Stockhausen
+	dynasty = x
+	religion = greed 
+	culture = x
+	father = 1251
+	1868.6.1 = { 
+		birth = yes
+	}
+	1948.6.1 = {
+		death = yes
+	}
+}
+
+1269 = {
+	name = Halim #Fictional, named after Halim Abdul Messieh El-Dabh
+	dynasty = x
+	religion = greed 
+	culture = x
+	father = 1268
+	1888.6.1 = { 
+		birth = yes
+	}
+	1968.6.1 = {
+		death = yes
+	}
+}
+
+1270 = {
+	name = Milton #Fictional, named after Milton Byron Babbitt
+	dynasty = x
+	religion = greed 
+	culture = x
+	father = 1269
+	1908.6.1 = { 
+		birth = yes
+	}
+	1981.7.9 = {
+		religion = bowser_religion
+	}
+	1988.6.1 = {
+		death = yes
+	}
+}
+
+1271 = {
+	name = Iannis #Fictional, named after Iannis Xenakis
+	dynasty = x
+	religion = greed 
+	culture = x
+	father = 1270
+	1928.6.1 = { 
+		birth = yes
+	}
+	1981.7.9 = {
+		religion = bowser_religion
+	}
+	2008.6.1 = {
+		death = yes
+	}
+}
+
+1272 = {
+	name = Tomita #Fictional, named after Isao Tomita
+	dynasty = x
+	religion = greed 
+	culture = x
+	father = 1271
+	1948.6.1 = { 
+		birth = yes
+	}
+	1981.7.9 = {
+		religion = bowser_religion
+	}
+	2028.6.1 = {
+		death = yes
+	}
+}
+
+1273 = {
+	name = Ralf #Claims to be Bowser's third cousin twice removed, for the case of this mod, he actually is. Named after Ralf Hütter, founder of Kraftwerk
+	dynasty = x
+	religion = greed 
+	culture = x
+	father = 1272
+	1968.6.1 = { 
+		birth = yes
+	}
+	1981.7.9 = {
+		religion = bowser_religion
+	}
+	2048.6.1 = {
+		death = yes
+	}
+}

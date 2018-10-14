@@ -1,0 +1,129 @@
+1750 = {
+	name="Angelo"
+	culture="fish_islands"
+}
+
+1751 = {
+	name = "Minnow"
+	culture = "fish_islands"
+}
+
+1752 = {
+	name = "Barco"
+	culture = "fish_islands"
+}
+
+1753 = {
+	name = "Aqua"
+	culture = "fish_islands"
+}
+
+1754 = {
+	name = "Castro"
+	culture = "fish_islands"
+}
+
+1755 = {
+	name = "Domingo"
+	culture = "fish_islands"
+}
+
+1756 = {
+	name = "Esparza"
+	culture = "fish_islands"
+}
+
+1757 = {
+	name = "Felix"
+	culture = "fish_islands"
+}
+
+1758 = {
+	name = "Gomez"
+	culture = "fish_islands"
+}
+
+1759 = {
+	name = "Herrero"
+	culture = "fish_islands"
+}
+
+1760 = {
+	name = "Inigo"
+	culture = "fish_islands"
+}
+
+1761 = {
+	name = "Jaso"
+	culture = "fish_islands"
+}
+
+1762 = {
+	name = "Lobo"
+	culture = "fish_islands"
+}
+
+1763 = {
+	name = "Montoya"
+	culture = "fish_islands"
+}
+
+1764 = {
+	name = "Núñez"
+	culture = "fish_islands"
+}
+
+1765 = {
+	name = "Ortega"
+	culture = "fish_islands"
+}
+
+1766 = {
+	name = "Picasso"
+	culture = "fish_islands"
+}
+
+1767 = {
+	name = "Quintana"
+	culture = "fish_islands"
+}
+
+1768 = {
+	name = "Rana"
+	culture = "fish_islands"
+}
+
+1769 = {
+	name = "Rana"
+	culture = "fish_islands"
+}
+
+1770 = {
+	name = "Salazar"
+	culture = "fish_islands"
+}
+
+1771 = {
+	name = "Trujillo"
+	culture = "fish_islands"
+}
+
+1772 = {
+	name = "Urbina"
+	culture = "fish_islands"
+}
+
+1773 = {
+	name = "Ventura"
+	culture = "fish_islands"
+}
+
+1774 = {
+	name = "Ybarra"
+	culture = "fish_islands"
+}
+
+1775 = {
+	name = "Zapata"
+	culture = "fish_islands"
+}

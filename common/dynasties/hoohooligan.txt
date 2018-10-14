@@ -1,0 +1,24 @@
+1250 = {
+	name = "Hoohoo"
+	culture = "hoohooligan"
+}
+
+1251 = {
+	name = "Blabla"
+	culture = "hoohooligan"
+}
+
+1252 = {
+	name = "Hoho"
+	culture = "hoohooligan"
+}
+
+1253 = {
+	name = "Hoohooros"
+	culture = "hoohooligan"
+}
+
+1254 = {
+	name = "Hammerhead"
+	culture = "hoohooligan"
+}

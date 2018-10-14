@@ -1,0 +1,129 @@
+2250 = {
+	name = "Leatherback"
+	culture = "turtle_islands"
+}
+
+2251 = {
+	name = "Musk"
+	culture = "turtle_islands"
+}
+
+2252 = {
+	name = "Tortoise"
+	culture = "turtle_islands"
+}
+
+2253 = {
+	name = "Softshell"
+	culture = "turtle_islands"
+}
+
+2254 = {
+	name = "Sideneck"
+	culture = "turtle_islands"
+}
+
+2255 = {
+	name = "Big-Head"
+	culture = "turtle_islands"
+}
+
+2256 = {
+	name = "River"
+	culture = "turtle_islands"
+}
+
+2257 = {
+	name = "Pitted-Shell"
+	culture = "turtle_islands"
+}
+
+2258 = {
+	name = "Pig-Nose"
+	culture = "turtle_islands"
+}
+
+2259 = {
+	name = "Loggerhead"
+	culture = "turtle_islands"
+}
+
+2260 = {
+	name = "Ridley"
+	culture = "turtle_islands"
+}
+
+2261 = {
+	name = "Kemp"
+	culture = "turtle_islands"
+}
+
+2262 = {
+	name = "Olive"
+	culture = "turtle_islands"
+}
+
+2263 = {
+	name = "Green"
+	culture = "turtle_islands"
+}
+
+2264 = {
+	name = "Black"
+	culture = "turtle_islands"
+}
+
+2265 = {
+	name = "Sea"
+	culture = "turtle_islands"
+}
+
+2266 = {
+	name = "Hawksbill"
+	culture = "turtle_islands"
+}
+
+2267 = {
+	name = "Flatback"
+	culture = "turtle_islands"
+}
+
+2268 = {
+	name = "Snapping"
+	culture = "turtle_islands"
+}
+
+2269 = {
+	name = "Alligator Snapping"
+	culture = "turtle_islands"
+}
+
+2270 = {
+	name = "Lute"
+	culture = "turtle_islands"
+}
+
+2271 = {
+	name = "Pond"
+	culture = "turtle_islands"
+}
+
+2272 = {
+	name = "Map"
+	culture = "turtle_islands"
+}
+
+2273 = {
+	name = "Alligator"
+	culture = "turtle_islands"
+}
+
+2274 = {
+	name = "Marsh"
+	culture = "turtle_islands"
+}
+
+2275 = {
+	name = "Mata Mata"
+	culture = "turtle_islands"
+}
