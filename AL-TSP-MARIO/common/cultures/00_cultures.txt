@@ -9,10 +9,46 @@ scallywag = {
 		
 		color = { 0 0 0 }
 		male_names = {
-			Spike_Spike Bifun Hinyari Funfun Bobo Zenisuki Genie Snake_Snake Dunk Kamukamu Awabo Kuri Morgan_Morgan Henry_Henry Hector_Hector Barrett John_John Roger_Roger Robert_Robert Richard_Richard Bart_Bartholomew
+			#Canonical
+			Bifun Bobo
+			Cortez
+			Funfun
+			Hinyari
+			Jamano Jonathan
+			Kuri
+			Skurvy
+			Patches Polly
+
+			#Non-canonical
+			Awabo 
+			Barrett Bart_Bartholomew
+			Dunk 
+			Genie 
+			Hector_Hector Henry_Henry 
+			John_John 
+			Kamukamu  
+			Morgan_Morgan 
+			Richard_Richard Robert_Robert Roger_Roger 
+			Snake_Snake Spike_Spike 
+			Zenisuki 
 		}
 		female_names = {
-			Maple_Maple Teuta Rusila Stikla Alvid Wigbiorg Hetha Wisna Alfhild Ladgerda Ealhflæd Jeanne_Joan Elise_Elisabeth Gráinne Sayyida Mary_Maria Elizabeth_Elisabeth Jacquotte Christina_Christina Anna_Anna 
+			#Canonical
+			Maple_Maple 
+			
+			#Non-canonical
+			Alfhild Alvid Anna_Anna 
+			Christina_Christina 
+			Ealhflæd Elise_Elisabeth Elizabeth_Elisabeth 
+			Gráinne 
+			Hetha 
+			Jacquotte Jeanne_Joan 
+			Ladgerda 
+			Mary_Maria 
+			Rusila 
+			Sayyida Stikla 
+			Teuta 
+			Wigbiorg Wisna 
 		}
 		from_dynasty_prefix = "de "
 		grammar_transform = french
@@ -41,12 +77,60 @@ mushroom = {
 	mushroom_kingdom = {
 		graphical_cultures = { frankishgfx }
 		
-		color = { 1 0 1 }
+		color = { 255 40 40 }
 		male_names = {
-			Mario_Mario Luigi_Luigi Chuck_Charles Russ_Russell Muss Chet_Chester Rip Harry_Henry Fice Fishmael Frost Mort_Morton Dane Toad Shroomlock Mushbert Toadbert Perry Har Frail
+			#Canonical
+			Chet_Chester Chuck_Charles 
+			Bingo
+			Dane Doe
+			Ed_Edward
+			Fice Fishmael_Ishmael Frail Frost 
+			George Gino Ghiottoad
+			Har_Harry Harry_Harry Heff Henry_Henry Herb Hinopio Hugo
+			Jack Jake
+			Little Luigi_Luigi "Luigi Bob"_Luigi
+			Mario_Mario "Mario Joe"_Mario Mini Mort_Morton Mush Mushbert_Albert Muss
+			Niff			
+			Perry Pine Pino Pio Plenn Porter Pronto Puff
+			Raz Rip Russ_Russell
+			Scooter
+			Toad Toadbert_Robert Thriff Tony Troy
+			Waluigi Wario
+			Zip
+			
+			#Non-canonical
+			Agaric
+			Billy_William Bisporus
+			Hercules
+			Marco_Mark Mareeus_Mario
+			Orion
+			Rigel
+			Victoad_Victor
 		}
 		female_names = {
-			Maple_Maple Tayce Chanterelle Frost Minh Vanna Dane Toadette Toadiko Divini Trini Bit Frail
+			#Canonical
+			Bit 
+			Chanterelle
+			Divini 
+			Frail Felissa_Felicity Frost 
+			Jolene
+			Kris_Christina
+			Luigeena_Luigina
+			Maria_Maria Marianne_Maria Marilyn Mia Minh Miss_Misty
+			Nancy
+			Peach
+			Raini Rosalina
+			Tayce Toadette Toadia Toadiko Toadorica Toce Toodles Trini 
+			Vanna 
+			Zess
+			
+			#Non-canonical
+			Banana
+			Luigina_Luigina Luna
+			Maple_Maple 
+			Nectarine
+			Starfruit
+			Tangerine
 		}
 		from_dynasty_suffix = " T."
 		grammar_transform = french
@@ -64,7 +148,6 @@ mushroom = {
 		mat_grm_name_chance = 60
 		mother_name_chance = 10
 	}
-
 }
 
 
@@ -76,10 +159,32 @@ yoshi = {
 		
 		color = { 0.06 0.53 0 }
 		male_names = {
-			Yoshi_Yoshi Green Red Yellow Blue Pink "Light Blue" Purple Brown Black White Orange Magenta Yoshisaur Yoob
+			#Canonical
+			Black Blue Boshi_Washi Brown 
+			Green 
+			"Light Blue" 
+			Magenta 
+			Orange 
+			Pink Purple 
+			Red 
+			Washi_Washi White 
+			Yellow Yoob Yoshi_Yoshi Yoshisaur 
+			
+			#Non-canonical
 		}
 		female_names = {
-			Yoshi_Yoshi Green Red Yellow Blue Pink "Light Blue" Purple Brown Black White Orange Magenta Yoshisaur
+			#Canonical
+			Black Blue Brown 
+			Green 
+			"Light Blue" 
+			Magenta 
+			Orange 
+			Pink Purple 
+			Red 
+			White 
+			Yellow Yoshi_Yoshi Yoshisaur
+			
+			#Non-canonical
 		}
 		from_dynasty_suffix = "shi"
 		grammar_transform = french

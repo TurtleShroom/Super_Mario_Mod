@@ -1,0 +1,19 @@
+#Celestine
+#3751-4000
+
+3751 = {
+	name = Orbulon #Orbulon
+	dynasty = x
+	religion = x
+	culture = x
+	#dna = "00000000000"
+	#properties = "00000000000"
+	disallow_random_traits = yes #Done so that Orbulon won't get unfitting traits
+	1983.5.26 = { #May 26th is a reference to the release date of WarioWare, Inc.: Mega Microgame$! in US
+  		birth = yes
+		effect = { set_character_flag = is_orbulon_celestine }
+	}
+	2063.5.26 = {
+		death = yes
+	}
+}

@@ -54,6 +54,9 @@
 	1926.6.1 = { 
 		birth = yes
 	}
+	1946.6.1 = { 
+		add_spouse = 2005
+	}
 	2006.6.1 = {
 		death = yes
 	}
@@ -124,6 +127,7 @@
 	}
 	1976.6.19 = {
 		add_trait = scholar
+		add_trait = erudite
 	}
 	1981.7.9 = {
 		religion = bowser_religion
@@ -134,6 +138,24 @@
 }
 
 1258 = {
+	name = Chris #Bowser's brother, "Blue Bowser", named after Chris Wink, co-founder of the Blue Man Group
+	dynasty = x
+	religion = greed 
+	culture = x
+	father = 1254
+	mother = 1255
+	1961.6.19 = { 
+		birth = yes
+	}
+	1981.7.9 = {
+		religion = bowser_religion
+	}
+	2041.6.19 = {
+		death = yes
+	}
+}
+
+1259 = {
 	name = Kammy #Kammy Koopa, since her last name is Koopa so I'm assuming she is related to Bowser in someway
 	female = yes
 	dynasty = x
@@ -154,7 +176,7 @@
 	}
 }
 
-1259 = {
+1260 = {
 	name = Ludwig #Ludwig von Koopa
 	dynasty = x
 	religion = greed 
@@ -176,7 +198,7 @@
 	}
 }
 
-1260 = {
+1261 = {
 	name = Morton #Morton Koopa Jr
 	dynasty = x
 	religion = greed 
@@ -203,7 +225,7 @@
 	}
 }
 
-1261 = {
+1262 = {
 	name = Roy #Roy Koopa
 	dynasty = x
 	religion = greed 
@@ -230,7 +252,7 @@
 	}
 }
 
-1262 = {
+1263 = {
 	name = Wendy #Wendy O. Koopa
 	female = yes
 	dynasty = x
@@ -264,7 +286,7 @@
 	}
 }
 
-1263 = {
+1264 = {
 	name = Iggy #Iggy Koopa
 	dynasty = x
 	religion = greed 
@@ -290,7 +312,7 @@
 	}
 }
 
-1264 = {
+1265 = {
 	name = Lemmy #Lemmy Koopa
 	dynasty = x
 	religion = greed 
@@ -320,7 +342,7 @@
 	}
 }
 
-1265 = {
+1266 = {
 	name = Larry #Larry Koopa
 	dynasty = x
 	religion = greed 
@@ -347,7 +369,24 @@
 	}
 }
 
-1266 = {
+1267 = {
+	name = Bowser #Bowser Jr
+	dynasty = x
+	religion = bowser_religion 
+	culture = x
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 1256
+	disallow_random_traits = yes #Done so that Bowser Jr won't get unfitting traits
+	1992.7.19 = { #July 19th is a reference to the release date of Super Mario Sunshine in Japan
+		birth = yes
+	}
+	2082.7.19 = {
+		death = yes
+	}
+}
+
+1268 = {
 	name = Karlheinz #Fictional, named after Karlheinz Stockhausen
 	dynasty = x
 	religion = greed 
@@ -361,12 +400,12 @@
 	}
 }
 
-1267 = {
+1269 = {
 	name = Halim #Fictional, named after Halim Abdul Messieh El-Dabh
 	dynasty = x
 	religion = greed 
 	culture = x
-	father = 1266
+	father = 1268
 	1888.6.1 = { 
 		birth = yes
 	}
@@ -375,12 +414,12 @@
 	}
 }
 
-1268 = {
+1270 = {
 	name = Milton #Fictional, named after Milton Byron Babbitt
 	dynasty = x
 	religion = greed 
 	culture = x
-	father = 1267
+	father = 1269
 	1908.6.1 = { 
 		birth = yes
 	}
@@ -392,12 +431,12 @@
 	}
 }
 
-1269 = {
+1271 = {
 	name = Iannis #Fictional, named after Iannis Xenakis
 	dynasty = x
 	religion = greed 
 	culture = x
-	father = 1268
+	father = 1270
 	1928.6.1 = { 
 		birth = yes
 	}
@@ -409,12 +448,12 @@
 	}
 }
 
-1270 = {
+1272 = {
 	name = Tomita #Fictional, named after Isao Tomita
 	dynasty = x
 	religion = greed 
 	culture = x
-	father = 1269
+	father = 1271
 	1948.6.1 = { 
 		birth = yes
 	}
@@ -426,12 +465,12 @@
 	}
 }
 
-1271 = {
+1273 = {
 	name = Ralf #Claims to be Bowser's third cousin twice removed, for the case of this mod, he actually is. Named after Ralf Hütter, founder of Kraftwerk
 	dynasty = x
 	religion = greed 
 	culture = x
-	father = 1270
+	father = 1272
 	1968.6.1 = { 
 		birth = yes
 	}
@@ -439,23 +478,6 @@
 		religion = bowser_religion
 	}
 	2048.6.1 = {
-		death = yes
-	}
-}
-
-1272 = {
-	name = Bowser #Bowser Jr
-	dynasty = x
-	religion = bowser_religion 
-	culture = x
-	#dna = "00000000000"
-	#properties = "00000000000"
-	father = 1256
-	disallow_random_traits = yes #Done so that Bowser Jr won't get unfitting traits
-	1992.7.19 = { #July 19th is a reference to the release date of Super Mario Sunshine in Japan
-		birth = yes
-	}
-	2082.7.19 = {
 		death = yes
 	}
 }

@@ -1,19 +1,3 @@
-9930000 = {
-	name = "Bean"
-	religion = seven_stars
-	culture = beanbean_kingdom
-	dynasty = 9900309
-	female = yes
-	
-	
-	1966.1.1 = { 
-		birth = yes
-	}
-	2066.12.12 = {
-		death = yes
-	}
-}
-
 9930001 = {
 	name = "Bush"
 	religion = seven_stars

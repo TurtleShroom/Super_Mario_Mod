@@ -128,3 +128,38 @@
 	name = "Wadlow"
 	culture = "mushroom_kingdom"
 }
+
+275 = {
+	name = "Toad"
+	culture = "mushroom_kingdom"
+}
+
+276 = {
+	name = "Washingtoad"
+	culture = "mushroom_kingdom"
+}
+
+277 = {
+	name = "Toadley"
+	culture = "mushroom_kingdom"
+}
+
+278 = {
+	name = "Spore"
+	culture = "mushroom_kingdom"
+}
+
+279 = {
+	name = "Fettuccine"
+	culture = "mushroom_kingdom"
+}
+
+280 = {
+	name = "von Funghen"
+	culture = "mushroom_kingdom"
+}
+
+281 = {
+	name = "E"
+	culture = "mushroom_kingdom"
+}

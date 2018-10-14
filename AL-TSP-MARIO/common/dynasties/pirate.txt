@@ -49,6 +49,11 @@
 }
 
 761 = {
-	name = "Captain Goomba"
+	name = "Skull"
+	culture = "pirate"
+}
+
+762 = {
+	name = "Clump"
 	culture = "pirate"
 }

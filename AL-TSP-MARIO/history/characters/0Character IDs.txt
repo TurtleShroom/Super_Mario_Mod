@@ -36,3 +36,21 @@
 
 #Moonstone
 #3001-3250
+
+#Iscariot
+#3251-3500
+
+#Thang
+#3501-3750
+
+#Celestine
+#3751-4000
+
+#Ludlamite
+#4001-4250
+
+#Iga
+#4251-4500
+
+#Crygor
+#4501-4750

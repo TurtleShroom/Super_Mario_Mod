@@ -9,6 +9,9 @@
 	1897.6.1 = { 
 		birth = yes
 	}
+	1923.11.16 = { 
+		add_spouse = 2002
+	}
 	1977.6.1 = { 
 		death = yes
 	}
@@ -37,6 +40,9 @@
 	1927.5.15 = { #May 15st is a reference to the release date of Super Mario Bros in EU
 		birth = yes
 	}
+	1944.6.1 = { 
+		add_spouse = 2004
+	}
 	2007.5.15 = {
 		death = yes
 	}
@@ -56,7 +62,7 @@
 }
 
 2005 = {
-	name = Tangerine #Fictional, Daisy's mother, in the Prima guides for Mario Kart: Double Dash!! and Mario Kart Wii, Daisy is incorrectly stated to be Peach's cousin, however, for this mod, this claim is true. Named after the daisy tangerine
+	name = Tangerine #Fictional, Daisy's mother, in the Prima guides for Mario Kart: Double Dash!! and Mario Kart Wii, Daisy is incorrectly stated to be Peach's cousin, however, for this mod, this misinformation is true. Named after the daisy tangerine
 	female = yes
 	dynasty = 252
 	religion = seven_stars 

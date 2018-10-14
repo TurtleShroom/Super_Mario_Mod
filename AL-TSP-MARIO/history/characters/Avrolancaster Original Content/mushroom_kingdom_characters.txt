@@ -1,17 +1,3 @@
-9999999 = {
-	name = Mario
-	religion = seven_stars
-	culture = mushroom_kingdom
-	
-	
-	1963.1.1 = { 
-		birth = yes
-	}
-	2066.12.12 = {
-		death = yes
-	}
-}
-
 9910000 = {
 	name = Turtle
 	religion = seven_stars
