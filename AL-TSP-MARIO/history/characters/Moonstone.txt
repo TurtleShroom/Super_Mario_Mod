@@ -10,7 +10,7 @@
 		birth = yes
 	}
 	1984.6.6 = { 
-		add_spouse = 2005
+		add_spouse = 3002
 	}
 	1994.6.6 = {
 		death = {

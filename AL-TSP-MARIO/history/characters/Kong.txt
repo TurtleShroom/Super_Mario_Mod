@@ -66,7 +66,7 @@
 		effect = { set_character_flag = is_cranky_kong }
 	}
 	1961.7.9 = { 
-		add_spouse = 2005
+		add_spouse = 755
 	}
 	1981.6.1 = {
 		name = Donkey
@@ -205,7 +205,7 @@
 		birth = yes
 	}
 	1978.6.1 = { 
-		add_spouse = 2005
+		add_spouse = 763
 	}
 	2042.6.1 = {
 		death = yes
@@ -271,7 +271,7 @@
 		birth = yes
 	}
 	1983.6.1 = { 
-		add_spouse = 2005
+		add_spouse = 767
 	}
 	2043.6.1 = {
 		death = yes

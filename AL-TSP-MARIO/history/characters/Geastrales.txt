@@ -10,7 +10,7 @@
 		birth = yes
 	}
 	981.11.12 = { 
-		add_spouse = 2005
+		add_spouse = 1002
 	}
 	1041.11.12 = {
 		death = yes

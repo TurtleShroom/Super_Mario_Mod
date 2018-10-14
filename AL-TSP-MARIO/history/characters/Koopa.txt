@@ -55,7 +55,7 @@
 		birth = yes
 	}
 	1946.6.1 = { 
-		add_spouse = 2005
+		add_spouse = 1255
 	}
 	2006.6.1 = {
 		death = yes
