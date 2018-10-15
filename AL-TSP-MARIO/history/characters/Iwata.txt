@@ -67,12 +67,14 @@
 	2001.12.5 = {
 		add_trait = curious
 	}
-	2011.12.5 = { 
-		add_trait = fortune_builder
+	2007.12.5 = { 
 		add_trait = gamer
 		add_trait = kind
 		add_trait = erudite
 		remove_trait = curious
+	}
+	2011.12.5 = { 
+		add_trait = fortune_builder
 	}
 	2076.12.5= { #I went with the average life expectancy of Japan, which is about 81 years old for men
 		death = yes

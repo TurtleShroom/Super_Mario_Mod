@@ -1,4 +1,12 @@
 name = "Avrolancaster's Super Mario Mod!"
-
 path = "mod/AL-TSP-MARIO"
 user_dir = "Mario!"
+
+replace_path = "history"
+replace_path = "history/characters"
+replace_path = "history/diplomacy"
+replace_path = "history/offmap_powers"
+replace_path = "history/provinces"
+replace_path = "history/technology"
+replace_path = "history/titles"
+replace_path = "history/wars"

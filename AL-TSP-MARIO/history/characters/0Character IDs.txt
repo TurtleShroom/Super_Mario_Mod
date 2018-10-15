@@ -1,56 +1,68 @@
-#Iwata
+#Iwata (Iwata)
 #1-250
 
-#Mario
+#Mario (Mario Brothers)
 #251-500
 
-#Rigassi
+#Rigassi (Mario Brothers' Mother's side of the family)
 #501-750
 
-#Kong
+#Kong (Donkey Kong)
 #751-1000
 
-#Geastrales
+#Geastrales (Rosalina)
 #1001-1250
 
-#Koopa
+#Koopa (Bowser and the Koopalings)
 #1251-1500
 
-#Legume
+#Legume (Queen Bean and Prince Peasley)
 #1501-1750
 
-#Bruisewort
+#Bruisewort (Daisy)
 #1751-2000
 
-#Toadstool
+#Toadstool (Peach)
 #2001-2250
 
-#Capitoline
+#Capitoline (Wario)
 #2251-2500
 
-#Wadlow
+#Wadlow (Waluigi)
 #2501-2750
 
-#Opal
+#Opal (Mona)
 #2751-3000
 
-#Moonstone
+#Moonstone (Ashley)
 #3001-3250
 
-#Iscariot
+#Iscariot (Victoad)
 #3251-3500
 
-#Thang
+#Thang (Jimmy T.)
 #3501-3750
 
-#Celestine
+#Celestine (Orbulon)
 #3751-4000
 
-#Ludlamite
+#Ludlamite (Lulu)
 #4001-4250
 
-#Iga
+#Iga (Kat and Ana)
 #4251-4500
 
-#Crygor
+#Crygor (Dr. Crygor and Penny)
 #4501-4750
+
+#Phang (Jimmy P.)
+#4751-5000
+
+#Narce (Dribble)
+#5001-5250
+
+#Pearl (Spitz)
+#5251-5500
+
+#Volt (9-Volt, 5-Volt, 18-Volt)
+#5501-5750

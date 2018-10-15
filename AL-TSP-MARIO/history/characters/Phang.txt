@@ -1,8 +1,8 @@
-#Thang
-#3501-3750
+#Phang
+#4751-5000
 
-3501 = {
-	name = Johnny #Jimmy's father
+4751 = {
+	name = Johnny #Fictional
 	dynasty = x
 	religion = temple_of_forms
 	culture = x
@@ -18,8 +18,8 @@
 	}
 }
 
-3502 = {
-	name = Jennie #Jimmy's mother
+4752 = {
+	name = Jennie #Fictional
 	female = yes
 	religion = temple_of_forms
 	culture = x
@@ -31,32 +31,30 @@
 	}
 }
 
-3503 = {
-	name = Jimmy #Jimmy
+4753 = {
+	name = Jimmy #Jimmy P.
 	dynasty = x
 	religion = temple_of_forms
 	culture = x
 	#dna = "00000000000"
 	#properties = "00000000000"
-	father = 3501
-	mother = 3502
-	disallow_random_traits = yes #Done so that Jimmy won't get unfitting traits
-	1958.5.23 = { #May 23th is a reference to the release date of WarioWare, Inc.: Mega Microgame$! in EU
+	father = 4751
+	mother = 4752
+	1958.5.23 = {
   		birth = yes
-		effect = { set_character_flag = is_jimmy_thang }
 	}
 	2038.5.23 = {
 		death = yes
 	}
 }
 
-3504 = {
-	name = James #Jimmy's brother
+4754 = {
+	name = James #Fictional
 	dynasty = x
 	religion = temple_of_forms
 	culture = x
-	father = 3501
-	mother = 3502
+	father = 4751
+	mother = 4752
 	1959.6.1 = {
   		birth = yes
 	}
@@ -65,14 +63,14 @@
 	}
 }
 
-3505 = {
-	name = Jamie #Jimmy's sister
+4755 = {
+	name = Jamie #Fictional
 	female = yes
 	dynasty = x
 	religion = temple_of_forms
 	culture = x
-	father = 3501
-	mother = 3502
+	father = 4751
+	mother = 4752
 	1960.6.1 = {
   		birth = yes
 	}

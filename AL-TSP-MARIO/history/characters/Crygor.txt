@@ -18,7 +18,7 @@
 		add_trait = scholar
 	}
 	1950.7.4 = {
-		add_trait = immortal
+		add_trait = immortal #Note to self, see if possible to make an artifact of his suit that gives immortality
 	}
 	9999.12.31 = {
 		death = yes

@@ -14,9 +14,10 @@
 		birth = yes
 		effect = { set_character_flag = is_wario_capitoline }
 	}
-	1962.10.21 = { #"Wario's greatest rival is Mario, stemming back to childhood according to various comics and the Super Mario-Kun manga, where their rivalry is a major theme."
+	1962.10.21 = { #
 		effect = {
-			add_rival = 256 #Mario Mario
+			add_rival = 256 #Mario Mario "Wario's greatest rival is Mario, stemming back to childhood according to various comics and the Super Mario-Kun manga, where their rivalry is a major theme."
+			add_friend = 3503 #Jimmy Thang "Rumored childhood friend of Wario"
 		}
 	}
 	1973.10.21 = {
@@ -24,7 +25,31 @@
 		add_trait = robust
 		add_trait = greed_religion_trait
 		add_trait = gluttonous
+		add_trait = gamer
+		add_trait = proud
 		add_trait = adventurer
+	}
+	2003.3.21 = { #WarioWare, Inc.: Mega Microgame$! happens
+		effect = {
+			add_friend = 5003 #Dribble Nacre
+			add_friend = 5251 #Spitz Pearl
+			add_friend = 2752 #Mona Opal
+			add_friend = 5504 #9-Volt
+			add_friend = 3751 #Orbulon Celestine
+			add_friend = 4501 #Dr. Crygor
+			add_friend = 4253 #Kat Iga
+			add_friend = 4254 #Ana Iga
+		}
+	}
+	2004.10.14 = { #WarioWare: Twisted! happens
+		effect = {
+			add_friend = 5506 #18-Volt
+		}
+	}
+	2004.12.2 = { #WarioWare: Touched! happens
+		effect = {
+			add_friend = 3003 #Ashley
+		}
 	}
 	2037.10.21 = {
 		death = yes

@@ -138,7 +138,7 @@
 }
 
 1258 = {
-	name = Chris #Bowser's brother, "Blue Bowser", named after Chris Wink, co-founder of the Blue Man Group
+	name = Jeffrey #Bowser's brother, "Blue Bowser", named after Jeffrey Jey, the singer of "Blue (Da Ba Dee)"
 	dynasty = x
 	religion = greed 
 	culture = x

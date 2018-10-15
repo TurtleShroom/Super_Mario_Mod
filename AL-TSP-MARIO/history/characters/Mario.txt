@@ -25,7 +25,7 @@
 	1904.11.3 = { #November 11th is a reference to her first appearance, "The Great Hereafter", the forty-fifth live-action segment of The Super Mario Bros. Super Show!
 		birth = yes
 	}
-	1989.12.1 = { #The Super Mario Bros. Super Show! ends, I made her about 85 years old when she dies which about the life expectancy for female Italians, this death age will be used for all of the females in here
+	1989.11.3 = { #The Super Mario Bros. Super Show! ends, I made her about 85 years old when she dies which about the life expectancy for female Italians, this death age will be used for all of the females in here
 		death = yes
 	}
 }
@@ -94,7 +94,7 @@
 		birth = yes
 		effect = { 
 			set_character_flag = is_mario_mario 
-			add_friend = 257 
+			add_friend = 257 #Luigi Mario
 		}
 	}
 	1973.10.11 = {
