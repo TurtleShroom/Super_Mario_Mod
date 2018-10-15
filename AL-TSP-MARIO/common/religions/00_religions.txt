@@ -1165,3 +1165,18 @@ kongo_group = {
 		secret_religion = no
 	}
 }
+
+#tennis_group = {
+#	has_coa_on_barony_only = yes
+#	graphical_culture = westerngfx
+#	crusade_cb = crusade
+#	playable = yes
+#
+#	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
+#	ai_convert_same_group = 2 # always convert
+#	ai_convert_other_group = 1 # only convert if AI_ZEAL is high
+#
+#	baskism = { # Name, features, etc. etc. courtesy of Empoleon and friends, pending
+#		
+#	}
+#}
