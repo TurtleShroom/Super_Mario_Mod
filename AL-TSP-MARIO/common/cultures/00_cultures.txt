@@ -31,6 +31,7 @@ scallywag = {
 			Richard_Richard Robert_Robert Roger_Roger 
 			Snake_Snake Spike_Spike 
 			Zenisuki 
+			Robby_Robert
 		}
 		female_names = {
 			#Canonical
@@ -50,10 +51,11 @@ scallywag = {
 			Teuta 
 			Wigbiorg Wisna 
 		}
-		from_dynasty_prefix = "de "
-		grammar_transform = french
+
+		grammar_transform = spanish
 		founder_named_dynasties = yes
 		modifier = default_culture_modifier
+
 		seafarer = yes
 		allow_looting = yes
 		
@@ -71,7 +73,7 @@ scallywag = {
 }
 
 
-mushroom = {
+mushroom_kingdom_group = {
 	graphical_cultures = { westerngfx }
 
 	mushroom_kingdom = {
@@ -88,8 +90,8 @@ mushroom = {
 			George Gino Ghiottoad
 			Har_Harry Harry_Harry Heff Henry_Henry Herb Hinopio Hugo
 			Jack Jake
-			Little Luigi_Luigi "Luigi Bob"_Luigi
-			Mario_Mario "Mario Joe"_Mario Mini Mort_Morton Mush Mushbert_Albert Muss
+			Little_Little 
+			Mini Mort_Morton Mush Mushbert_Albert Muss
 			Niff			
 			Perry Pine Pino Pio Plenn Porter Pronto Puff
 			Raz Rip Russ_Russell
@@ -116,7 +118,7 @@ mushroom = {
 			Jolene
 			Kris_Christina
 			Luigeena_Luigina
-			Maria_Maria Marianne_Maria Marilyn Mia Minh Miss_Misty
+			 Mia Minh Miss_Misty
 			Nancy
 			Peach
 			Raini Rosalina
@@ -125,12 +127,12 @@ mushroom = {
 			Zess
 			
 			#Non-canonical
-			Banana
-			Luigina_Luigina Luna
-			Maple_Maple 
-			Nectarine
-			Starfruit
-			Tangerine
+			Banana:0
+			Luna
+			Maple_Maple:10
+			Nectarine:0
+			Starfruit:0
+			Tangerine:0
 		}
 		from_dynasty_suffix = " T."
 		grammar_transform = french
@@ -148,8 +150,150 @@ mushroom = {
 		mat_grm_name_chance = 60
 		mother_name_chance = 10
 	}
+
+	thirteen_mushroom_colonial = {
+		graphical_cultures = { englishgfx }
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Alexander Atticus August Andrew Anthony Angus Allen Asa Alvin Albert Ambrose Arthur Buford Benjamin Benedict Bernard Bartholomew Brigham Braxton Barnabas Cyrus Charles Cyril Christopher Casey Clarence Clark Calvin Chester David Donald Daniel Duncan Eric Ebenezer Elbridge Eugene Eustace Ernest Edmund Ephraim Earl Ezra Emory Francis Frederick_Frederich Freddy_Frederick Ferdinand George:250 Gregory Gideon Gerald Grover Gouveneur Gordon Humphrey Howard Hector Harold Horatio Henry Ian Irving Joseph Jeffrey Jubal John Jebediah James Jacob Julius Julian Justin Josiah Joshua Leonard Louis Lawrence Leland Luke Lionel Lorenzo Lamont Lyman Michael_Micheal Mike_Micheal Mikey_Micheal Mark Martin Milton Merriweather Nathaniel Noah Nehemiah Nicholas Oliver Obadiah Orville Owen Philip Peter Paul Patrick Rutherford Robert Richard Ronald Reuchlin Rufus Rhett Samuel Stephen Sampson Sylvester Theodore Thomas Timothy_Timothy Timmy_Timothy Upton Ulysses Victor Vincent William Walter Winfield Wilbur Wallace Walker Zachary_Zachary Zack_Zachary  Zach_Zachary
+		}
+
+		female_names = {
+			Anne Amanda Ada April Amphyllis Abigail Alice Adell Amelia Antoinette Arabella Alma Agnes Agatha Barbara Brigit Blanche Bertha Belle Caroline Charlotte Christine Catharine Clementine Clara Constance Claudia Carrie Cora Dolley Dorothy Deborah Daisy Doris Edith Evangeline Elizabeth Esther Emily Emma Ernestine Ethel Flora Frances Florence Gladys Gloria Grace Gertrude Heather Hannah Hermina Harriet Helen Hortense Hope Ida Isabella Joan Jane Julia Josephine Laura Lucy Lydia Lillie Lena Michelle Mary Marta Muriel Mildred Margaret Mercy Mathilda Marion Madeline Marilla Mabel Nancy Noami Nell Olympia Prudence Patricia Pauline Patience Pamela Phoebe Paula Rachel Rebecca Rhoda Rosalie Ruth Rosa Scarlett Sarah Sally Sylvia Susanna Sybil Susa Sophia Tabitha Theodora Victoria Virginia Verina Valeria Winifred Zerelda
+		}
+
+		from_dynasty_suffix = "toad"
+		modifier = default_culture_modifier
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
 }
 
+dryite_group = {
+	graphical_cultures = { muslimgfx arabicgfx frankishgfx }
+
+	dryite = {
+		color = { 0.1 0.75 0.1 } # Same as Vanilla rendition Bedouin
+
+		male_names = {
+			# Canonical
+			# The only named Dryite in the series is "Mister E". This will be a nickname.
+
+			# Made-up filler
+			Abakada Abazza Abbas_Abbas Abdul_Abdul Abdul-Azeem Abdul-Haleem Abdul-Kareem Abdul-Rahman Abdullah_Abdullah Abidin Adal Adam_Adam Aderbal Adergazuz Adherbal Admer Adrir Adum Afaghis Afalawas Afalku Afer Afulay Agafay Agama Agdada Agdun Agellid Aggur Aghali Aghecher Aghilas Agwillul Ahamatu Aheyyad Ahmad_Ahmad Ajdir Ajeddig Akaday Akateiaji Akli Akorakor Aksel_Caecilius Aksil_Caecilius Akutla Akzer Al'a'addin Ali_Ali Alyamas Amawal Amayas Amaz'uz' Ambay Amdegh Amellal Amennay Ameska Amessan Amin Amma Ammuc Amray Amri Amud Anaba Annaber Antalas Anwa Aras Asad Asaru Asirem Aszellay Atissi Awdia Awgustin_August Awinagh Awlagh Awzal Aylal Ayt'ere Az'ar Az'regh Azenkwed Azim Azrur Badda Badis Bagay Barakat Beddis Berkan Bezz'i Br'ir'uc Bukkus Buwayh Buxtuc Capussa Cucung Dali Fahd Fath Fella Firhun Firmus Frawsen Gaia Galussa Gauda Gaya Ghani Ghanim Ghaysan Ghumer Gildun Gulusa H'emmu Haidar Hamad Hashim Hiba Hiempsal Himmi Hotha Hussamaddin Ibiza Ibrahim_Abraham Iccaam Ifni Ifser Ighlaf Igider Igmi Iher Iken Ilyas_Ilyas Immeghar Immel Irgen Is'mail_Ismail Isalcas Ishaq_Isaac Isli Issam It'ij Itber Itri Ixfensen Ixzi Izri Jaffar Jamal Kadidu Kamal Karidenna Kawsen Kenan Keraja Khalid Khanchla Khenchela Khidr Kussil Lacumaces Laweye Lewnis Luki_Lucius Madidu Magsen Mahtar Malik Marwan Masgaba Masgava Masinissa Masmud Masnsen Massinissa Massiva Massnsen Mastan Mastanabal Matiya_Matthew Maysar Maziba Mazigh Medjan Mellal Mennad Menzu Meq'wran Mez'yan Mezwar Micipsa Misagenes Misibsen Mu'izz Muh'end Mukhtar Mula Murad Musa_Moses Mustafa Muzaffaraddin N'Guna Nasr Nazar Niptasan Nizamaddin Ptolemee_Ptolemy Qutaiba Rashid Sa'id Salah Salla Salomon_Solomon Sammer Sayyid Seghada Sekla Shamsaddin Sifaks Sifal Sinbad Sisso Stembanos Suggut Sultan T'ar'iq Tabat Tacfin Taffounnout Tahir Takfarinas Tanan Tariq Tegama Thabitah Tifan_Theophanus Tiljad Ugdada Ugwistan Umar_Umar Uqess'un Uregh Urtilian Urz'ig Uzmir Uzza Wahab Watt'as Xamida Yabdas Yaghmurasen Yahya_Yahya Yattuy Yeften Yeh'lem Yiliyen Yuba Yugerten Yugurthen Youkhanna_John Yunes_Jonah Yusuf_Joseph Yuva Z'effun Zafir Zalelsan Zayar Zer'wal Zigza Ziri Zubeyr
+		}
+
+		female_names = {
+			# No canonical names are known
+
+			# Made-up filler 
+ 			Aaliyah Aamina Aamira Aaqila Aarifa Aazzi Adelah_Adela Adiba Adilah Adilia Adiva Adjan Aeesha Aesha Aisha Amira Badeea Badia Badra Bahac Bahiyya Bajila Bakka Baraah Barakah Baria Bashira Basilie Basima Basimah Bghnat Bibya Bilqis Cala Canh'a Cantara D'r'ifa Daisha Dalal Dasin Dema Dimah Dinara Dua Durra Durriyya Edza Eleonorka_Eleanor Faghissa Fahriya Fariza Fedada Fer'r'udja Gedduda Ghida Ghnima Guraya Gwejda H'edda Hadiya Hawwa Hemu Herru Iija Iiju Ittû Izza Jaida Jdira Jeddjiga Kahina Kamila Kanimana Kella Kenwa Kisa Kulla Kwella Lalla Laysa Lem'an Lemta Lumsi Lunja Lwiza Lyaqut Mamma Massa Meghighda Melek Menna Menza Mernissa Monica_Monica Myassa Najiba R'uza Ra'isa Rahima Randja Rula Sadiqa Salaama Sekkura Siddiqa Silya Siman T'awes T'item Tadefi Tadla Tadmut Tafrara Tafsut Tagwillult Taheyyatt Takama Taklit Talalit Taljat Tament Tamimunt Tamrust Tanaszart Tanebdatt Tanefzawit Tanest Taninna Tarifa Tariwelt Tasa Tasa'fut Taszellayt Tatbirt Tati Taweckint Tawenza Tawnat Tawzalt Tayri Tayyurt Tazdayt Tazenkwedt Tazirit Tazrurt Tella Temzi Tfit Tigmi Tikinas Tilelli Timmi Tinhinan Tintadefi Tintifawin Tinzert Tisent Tislit Titbirt Titrit Tizemt Tiziri Triya Tudert Tuh'r'ict Tureght Ultafa Wenza Wnissa Wrina Z'diant Z'ergha Zaghwa Zahida Zamba Zibba Zilgum Zubayda Zunagha Zwina Zwira
+		}
+
+		from_dynasty_suffix = "ites"
+
+		male_patronym = "ibn "
+		female_patronym = "bint "
+		prefix = yes
+
+		founder_named_dynasties = yes
+
+		allow_looting = yes # Dryites have huge bandit communities and Dry Dry Outpost is still nominally run by thieves, e.g. Moustafa
+		
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 20
+		father_name_chance = 10
+		
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 20
+		mother_name_chance = 30
+	}
+
+	dry_dry_outpost = {
+		color = { 0.3 0.95 0.3 } # Same as Vanilla rendition Levantine
+
+		male_names = {
+			# Canonical
+			# The only named Dryite in the series is "Mister E". This will be a nickname.
+
+			# Made-up filler
+			Abakada Abazza Abbas_Abbas Abdul_Abdul Abdul-Azeem Abdul-Haleem Abdul-Kareem Abdul-Rahman Abdullah_Abdullah Abidin Adal Adam_Adam Aderbal Adergazuz Adherbal Admer Adrir Adum Afaghis Afalawas Afalku Afer Afulay Agafay Agama Agdada Agdun Agellid Aggur Aghali Aghecher Aghilas Agwillul Ahamatu Aheyyad Ahmad_Ahmad Ajdir Ajeddig Akaday Akateiaji Akli Akorakor Aksel_Caecilius Aksil_Caecilius Akutla Akzer Al'a'addin Ali_Ali Alyamas Amawal Amayas Amaz'uz' Ambay Amdegh Amellal Amennay Ameska Amessan Amin Amma Ammuc Amray Amri Amud Anaba Annaber Antalas Anwa Aras Asad Asaru Asirem Aszellay Atissi Awdia Awgustin_August Awinagh Awlagh Awzal Aylal Ayt'ere Az'ar Az'regh Azenkwed Azim Azrur Badda Badis Bagay Barakat Beddis Berkan Bezz'i Br'ir'uc Bukkus Buwayh Buxtuc Capussa Cucung Dali Fahd Fath Fella Firhun Firmus Frawsen Gaia Galussa Gauda Gaya Ghani Ghanim Ghaysan Ghumer Gildun Gulusa H'emmu Haidar Hamad Hashim Hiba Hiempsal Himmi Hotha Hussamaddin Ibiza Ibrahim_Abraham Iccaam Ifni Ifser Ighlaf Igider Igmi Iher Iken Ilyas_Ilyas Immeghar Immel Irgen Is'mail_Ismail Isalcas Ishaq_Isaac Isli Issam It'ij Itber Itri Ixfensen Ixzi Izri Jaffar Jamal Kadidu Kamal Karidenna Kawsen Kenan Keraja Khalid Khanchla Khenchela Khidr Kussil Lacumaces Laweye Lewnis Luki_Lucius Madidu Magsen Mahtar Malik Marwan Masgaba Masgava Masinissa Masmud Masnsen Massinissa Massiva Massnsen Mastan Mastanabal Matiya_Matthew Maysar Maziba Mazigh Medjan Mellal Mennad Menzu Meq'wran Mez'yan Mezwar Micipsa Misagenes Misibsen Mu'izz Muh'end Mukhtar Mula Murad Musa_Moses Mustafa Muzaffaraddin N'Guna Nasr Nazar Niptasan Nizamaddin Ptolemee_Ptolemy Qutaiba Rashid Sa'id Salah Salla Salomon_Solomon Sammer Sayyid Seghada Sekla Shamsaddin Sifaks Sifal Sinbad Sisso Stembanos Suggut Sultan T'ar'iq Tabat Tacfin Taffounnout Tahir Takfarinas Tanan Tariq Tegama Thabitah Tifan_Theophanus Tiljad Ugdada Ugwistan Umar_Umar Uqess'un Uregh Urtilian Urz'ig Uzmir Uzza Wahab Watt'as Xamida Yabdas Yaghmurasen Yahya_Yahya Yattuy Yeften Yeh'lem Yiliyen Yuba Yugerten Yugurthen Youkhanna_John Yunes_Jonah Yusuf_Joseph Yuva Z'effun Zafir Zalelsan Zayar Zer'wal Zigza Ziri Zubeyr
+		}
+
+		female_names = {
+			# No canonical names are known
+
+			# Made-up filler 
+ 			Aaliyah Aamina Aamira Aaqila Aarifa Aazzi Adelah_Adela Adiba Adilah Adilia Adiva Adjan Aeesha Aesha Aisha Amira Badeea Badia Badra Bahac Bahiyya Bajila Bakka Baraah Barakah Baria Bashira Basilie Basima Basimah Bghnat Bibya Bilqis Cala Canh'a Cantara D'r'ifa Daisha Dalal Dasin Dema Dimah Dinara Dua Durra Durriyya Edza Eleonorka_Eleanor Faghissa Fahriya Fariza Fedada Fer'r'udja Gedduda Ghida Ghnima Guraya Gwejda H'edda Hadiya Hawwa Hemu Herru Iija Iiju Ittû Izza Jaida Jdira Jeddjiga Kahina Kamila Kanimana Kella Kenwa Kisa Kulla Kwella Lalla Laysa Lem'an Lemta Lumsi Lunja Lwiza Lyaqut Mamma Massa Meghighda Melek Menna Menza Mernissa Monica_Monica Myassa Najiba R'uza Ra'isa Rahima Randja Rula Sadiqa Salaama Sekkura Siddiqa Silya Siman T'awes T'item Tadefi Tadla Tadmut Tafrara Tafsut Tagwillult Taheyyatt Takama Taklit Talalit Taljat Tament Tamimunt Tamrust Tanaszart Tanebdatt Tanefzawit Tanest Taninna Tarifa Tariwelt Tasa Tasa'fut Taszellayt Tatbirt Tati Taweckint Tawenza Tawnat Tawzalt Tayri Tayyurt Tazdayt Tazenkwedt Tazirit Tazrurt Tella Temzi Tfit Tigmi Tikinas Tilelli Timmi Tinhinan Tintadefi Tintifawin Tinzert Tisent Tislit Titbirt Titrit Tizemt Tiziri Triya Tudert Tuh'r'ict Tureght Ultafa Wenza Wnissa Wrina Z'diant Z'ergha Zaghwa Zahida Zamba Zibba Zilgum Zubayda Zunagha Zwina Zwira
+		}
+
+		parent = dryite
+
+		allow_looting = yes # Dryites have huge bandit communities and Dry Dry Outpost is still nominally run by thieves, e.g. Moustafa
+
+		from_dynasty_suffix = "ites"
+
+		male_patronym = "ibn "
+		female_patronym = "bint "
+		prefix = yes
+
+		founder_named_dynasties = yes
+
+		allow_looting = yes # Dryites have huge bandit communities and Dry Dry Outpost is still nominally run by thieves, e.g. Moustafa
+		
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 20
+		father_name_chance = 10
+		
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 20
+		mother_name_chance = 30
+	}
+
+	nomadimouse = {
+		graphical_cultures = { muslimgfx arabicgfx westerngfx frankishgfx
+
+		color = { 0.2 0.9 0.2 } # Same as Vanilla rendition Berber
+
+		male_names = {
+			# Canonical
+			Little_Little:110 "Little Mouser"_Mouser:120 Mouser_Mouser:120 Moustafa:135 Mowzer:120 Nomadimouse:200 Sheek_Sheikh:120 Sheikh_Sheikh:175 Squeak_Squeak:175 Squeaks_Squeaks:175 Squeek_Squeak:175 Squeeks_Squeaks:175
+
+			# Made-up filler
+			Abakada Abazza Abbas_Abbas Abdul_Abdul Abdul-Azeem Abdul-Haleem Abdul-Kareem Abdul-Rahman Abdullah_Abdullah Abidin Adal Adam_Adam Aderbal Adergazuz Adherbal Admer Adrir Adum Afaghis Afalawas Afalku Afer Afulay Agafay Agama Agdada Agdun Agellid Aggur Aghali Aghecher Aghilas Agwillul Ahamatu Aheyyad Ahmad_Ahmad Ajdir Ajeddig Akaday Akateiaji Akli Akorakor Aksel_Caecilius Aksil_Caecilius Akutla Akzer Al'a'addin Ali_Ali Alyamas Amawal Amayas Amaz'uz' Ambay Amdegh Amellal Amennay Ameska Amessan Amin Amma Ammuc Amray Amri Amud Anaba Annaber Antalas Anwa Aras Asad Asaru Asirem Aszellay Atissi Awdia Awgustin_August Awinagh Awlagh Awzal Aylal Ayt'ere Az'ar Az'regh Azenkwed Azim Azrur Badda Badis Bagay Barakat Beddis Berkan Bezz'i Br'ir'uc Bukkus Buwayh Buxtuc Capussa Cucung Dali Fahd Fath Fella Firhun Firmus Frawsen Gaia Galussa Gauda Gaya Ghani Ghanim Ghaysan Ghumer Gildun Gulusa H'emmu Haidar Hamad Hashim Hiba Hiempsal Himmi Hotha Hussamaddin Ibiza Ibrahim_Abraham Iccaam Ifni Ifser Ighlaf Igider Igmi Iher Iken Ilyas_Ilyas Immeghar Immel Irgen Is'mail_Ismail Isalcas Ishaq_Isaac Isli Issam It'ij Itber Itri Ixfensen Ixzi Izri Jaffar Jamal Kadidu Kamal Karidenna Kawsen Kenan Keraja Khalid Khanchla Khenchela Khidr Kussil Lacumaces Laweye Lewnis Luki_Lucius Madidu Magsen Mahtar Malik Marwan Masgaba Masgava Masinissa Masmud Masnsen Massinissa Massiva Massnsen Mastan Mastanabal Matiya_Matthew Maysar Maziba Mazigh Medjan Mellal Mennad Menzu Meq'wran Mez'yan Mezwar Micipsa Misagenes Misibsen Mu'izz Muh'end Mukhtar Mula Murad Musa_Moses Mustafa Muzaffaraddin N'Guna Nasr Nazar Niptasan Nizamaddin Ptolemee_Ptolemy Qutaiba Rashid Sa'id Salah Salla Salomon_Solomon Sammer Sayyid Seghada Sekla Shamsaddin Sifaks Sifal Sinbad Sisso Stembanos Suggut Sultan T'ar'iq Tabat Tacfin Taffounnout Tahir Takfarinas Tanan Tariq Tegama Thabitah Tifan_Theophanus Tiljad Ugdada Ugwistan Umar_Umar Uqess'un Uregh Urtilian Urz'ig Uzmir Uzza Wahab Watt'as Xamida Yabdas Yaghmurasen Yahya_Yahya Yattuy Yeften Yeh'lem Yiliyen Yuba Yugerten Yugurthen Youkhanna_John Yunes_Jonah Yusuf_Joseph Yuva Z'effun Zafir Zalelsan Zayar Zer'wal Zigza Ziri Zubeyr
+		}
+
+		female_names = {
+			# No canonical names exist
+
+			# Made-up filler
+			Aaliyah Aamina Aamira Aaqila Aarifa Aazzi Adelah_Adela Adiba Adilah Adilia Adiva Adjan Aeesha Aesha Aisha Amira Badeea Badia Badra Bahac Bahiyya Bajila Bakka Baraah Barakah Baria Bashira Basilie Basima Basimah Bghnat Bibya Bilqis Cala Canh'a Cantara D'r'ifa Daisha Dalal Dasin Dema Dimah Dinara Dua Durra Durriyya Edza Eleonorka_Eleanor Faghissa Fahriya Fariza Fedada Fer'r'udja Gedduda Ghida Ghnima Guraya Gwejda H'edda Hadiya Hawwa Hemu Herru Iija Iiju Ittû Izza Jaida Jdira Jeddjiga Kahina Kamila Kanimana Kella Kenwa Kisa Kulla Kwella Lalla Laysa Lem'an Lemta Lumsi Lunja Lwiza Lyaqut Mamma Massa Meghighda Melek Menna Menza Mernissa Monica_Monica Myassa Najiba R'uza Ra'isa Rahima Randja Rula Sadiqa Salaama Sekkura Siddiqa Silya Siman T'awes T'item Tadefi Tadla Tadmut Tafrara Tafsut Tagwillult Taheyyatt Takama Taklit Talalit Taljat Tament Tamimunt Tamrust Tanaszart Tanebdatt Tanefzawit Tanest Taninna Tarifa Tariwelt Tasa Tasa'fut Taszellayt Tatbirt Tati Taweckint Tawenza Tawnat Tawzalt Tayri Tayyurt Tazdayt Tazenkwedt Tazirit Tazrurt Tella Temzi Tfit Tigmi Tikinas Tilelli Timmi Tinhinan Tintadefi Tintifawin Tinzert Tisent Tislit Titbirt Titrit Tizemt Tiziri Triya Tudert Tuh'r'ict Tureght Ultafa Wenza Wnissa Wrina Z'diant Z'ergha Zaghwa Zahida Zamba Zibba Zilgum Zubayda Zunagha Zwina Zwira
+		}
+
+		allow_looting = yes # Dryites have huge bandit communities and Dry Dry Outpost is still nominally run by thieves, e.g. Moustafa
+
+ 		from_dynasty_prefix = "mn "
+ 		from_dynasty_suffix = "sarir" # Supposedly the Romanized transliteration of  ??????  , alleged Arabic word for "squeak"
+		
+		male_patronym = "ibn "
+		female_patronym = "bint "
+		prefix = yes
+
+		founder_named_dynasties = yes
+
+		allow_looting = yes # Dryites have huge bandit communities and Dry Dry Outpost is still nominally run by thieves, e.g. Moustafa
+	}
+}
 
 yoshi = {
 	graphical_cultures = { westerngfx }
@@ -160,31 +304,17 @@ yoshi = {
 		color = { 0.06 0.53 0 }
 		male_names = {
 			#Canonical
-			Black Blue Boshi_Washi Brown 
-			Green 
-			"Light Blue" 
-			Magenta 
-			Orange 
-			Pink Purple 
-			Red 
-			Washi_Washi White 
-			Yellow Yoob Yoshi_Yoshi Yoshisaur 
+			Black Blue Boshi_Washi Brown Green 	"Light Blue" Magenta Orange Pink Purple Red Washi_Washi White Yellow Yoob Yo'ster Yoshi_Yoshi Yoshisaur Yoster
 			
 			#Non-canonical
+			Barney Brown "Burnt Orange" Chartruese Glory Grey_Gray Grey_Grey Hideki Katsuya Koji Koji Purple Shigeru Takashi "Yellow-Orange" Yosh Yoshmeister
 		}
 		female_names = {
 			#Canonical
-			Black Blue Brown 
-			Green 
-			"Light Blue" 
-			Magenta 
-			Orange 
-			Pink Purple 
-			Red 
-			White 
-			Yellow Yoshi_Yoshi Yoshisaur
-			
+			Black Blue Brown Green "Light Blue" Magenta Orange Pink Purple Red "Red Essence" White Yellow Yoshi_Yoshi Yoshisaur
+
 			#Non-canonical
+			Essence Gloria Pink Pinky Joy Teal "Yellow-Orange"
 		}
 		from_dynasty_suffix = "shi"
 		grammar_transform = french
@@ -205,7 +335,7 @@ yoshi = {
 
 }
 
-beanish = {
+beanish_group = {
 	graphical_cultures = { westerngfx }
 
 	beanbean_kingdom = {
@@ -266,7 +396,7 @@ beanish = {
 }
 
 
-delfino_islands = {
+delfino_group = {
 	graphical_cultures = { westerngfx }
 
 	delfino = {
@@ -274,16 +404,16 @@ delfino_islands = {
 		
 		color = { 1 0.5 0 }
 		male_names = {
-			"Big Daddy" Joey_Joseph Fingers_Francis "The King" "Big Sam" "Joey Batters" "Big Tuna" Tumac_Anthony Carmine Tipp_Thomas Phil_Philip Felix_Philip "The Hook" Jimmy_James Vincent_Vincent Benny_Benjamin Benedetto_Benjamin Vinny_Vincent Smokes "Two-Knife" Jake Giacomo Frank_Francis Samuzzo_Samuel Samoots_Samuel "Little Vic" Victor_Victor Albert_Albert "Mad Hatter" "Tough Tony" Salvatore Tony_Anthony Joe_Joseph Donald_Donald Don_Donald Tico_Anthony Ignacio John_John Buster_John "Joe Piney" Steve_Stephen Stephen_Stephen Vinnie_Vincent "Louie Ha Ha" Louis_Louis Lou_Louis Alphonse_Alphonse "Mr. Big" Nicholas_Nicholas Nick_Nicholas Nicky_Nicholas Johnny_John Barney Teets_Samuel "The Wig" "The Toupee" "The Doberman" "Zombie Bilotti" "The Pitbull" Tommy_Thomas Charlie_Charles Charles_Charles "Little Rabbit" Tillio_Attila Attila_Attila Attilio_Attila "The Shadow" Richie_Richard Richard_Richard "The Tall Guy" Caesare_Caesar Giovanni_John Rosario Bartholomew_Bartholomew Bobby_Robert Robert_Robert Al_Alphonse "The Horse" Willie_William Shellackhead "The Breeze" Dominick Sylvestro Scarface Ray_Raymond Raymond_Raymond Lucky Gino Mario_Mario
+			"Big Daddy" Joey_Joseph Fingers Francis "The King" "Big Sam" "Joey Batters" "Big Tuna" Tumac_Anthony Carmine Tipp_Thomas Phil_Philip Felix_Philip "The Hook" Jimmy_James Vincent_Vincent Benny_Benjamin Benedetto_Benjamin Vinny_Vincent Smokes "Two-Knife" Jake Giacomo Frank_Francis Samuzzo_Samuel Samoots_Samuel "Little Vic" Victor_Victor Albert_Albert "Mad Hatter" "Tough Tony" Salvatore Tony_Anthony Joe_Joseph Donald_Donald Don_Donald Tico_Anthony Ignacio John_John Buster_John "Joe Piney" Steve_Stephen Stephen_Stephen Vinnie_Vincent "Louie Ha Ha" Louis_Louis Lou_Louis Alphonse_Alphonse "Mr. Big" Nicholas_Nicholas Nick_Nicholas Nicky_Nicholas Johnny_John Barney Teets_Samuel "The Wig" "The Toupee" "The Doberman" "Zombie Bilotti" "The Pitbull" Tommy_Thomas Charlie_Charles Charles_Charles "Little Rabbit" Tillio_Attila Attila_Attila Attilio_Attila "The Shadow" Richie_Richard Richard_Richard "The Tall Guy" Caesare_Caesar Giovanni_John Rosario Bartholomew_Bartholomew Bobby_Robert Robert_Robert Al_Alphonse "The Horse" Willie_William Shellackhead "The Breeze" Dominick Sylvestro Scarface Ray_Raymond Raymond_Raymond Lucky Gino Mario_Mario
 		}
 		female_names = {
 			Theresa Kristy_Christina Christina_Christina Bonnie_Bonne Stephanie_Stephen Opal Helen_Helen Ma Pearl "Pretty Pants" Virginia Arlyne Evelyn Rosetta Erminia Maria_Maria Pupetta Giusy Enedina Griselda Jennifer_Jennifer Drita Carla_Carla Karen Renee Angela_Angela Ramona_Ramona Love Natalie_Natalie Alicia Giada Giulia Allegra Arabella Clara Cosima Elena Emiliana Lucia Sylvia Ariana Bianca Elisa Emilia Lea Marisa Siena Abriana Alonza Bianca Camila Cara Claudina Columbine Constanza Contessa Donatella Donna Fabia Flavia Gia Gina Isabella_Isabella Leonora Liliana Lucia Madonna Mona Octavia Regina Rosa Rosalina_Rosalina Serena Terra Valentina Zarah
 		}
-		from_dynasty_prefix = "de "
+		from_dynasty_prefix = "di "
+		from_dynasty_suffix = "ia"
 		grammar_transform = french
 
 		modifier = default_culture_modifier
-
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 60
@@ -306,11 +436,13 @@ delfino_islands = {
 		female_names = {
 			Sofia_Sophia Isabella_Isabella Camila Valentina Valeria_Valerie Mariana Luciana Daniela_Danielle Gabriela Victoria Martina Lucia Ximena_Jimena Jimena_Jimena Sara Samantha "Maria José" Emma Catalina Julieta Mía Antonella Renata Emilia Natalia_Natalie Zoe Nicole_Nichole Paula Amanda "María Fernanda" Emily Antonia Alejandra Juana Andrea Manuela "Ana Sofia" Guadalupe Agustina Elena María Bianca Ariana Ivanna Abril Florencia Carolina Maite Rafaela Regina Adriana_Adriana Michelle Alma Violeta Salomé Abigail Juliana Valery Isabel_Isabella Montserrat Allison Jazmín Julia Lola Luna Ana Delfina Alessandra Ashley Olivia Constanza Paulina Rebeca Carla "María Paula" Micaela Fabiana Miranda Josefina Laura Alexa_Alexandra "María Alejandra" Luana Fátima "Sara Sofía" Isidora Malena Romina "Ana Paula" Mariangel Amelia Elizabeth Aitana Ariadna "María Camila" Irene Silvana Clara Magdalena Sophie_Sophia Josefa
 			}
-		from_dynasty_prefix = "de "
+		from_dynasty_prefix = "di "
+		from_dynasty_suffix = "ia"
 		grammar_transform = french
 
 		modifier = default_culture_modifier
 
+		parent = delfino # Delfinites and Piantas have no qualm with each other
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 60
@@ -323,7 +455,7 @@ delfino_islands = {
 		mother_name_chance = 10
 	}
 	
- crab_islands = {
+	 crab_islands = { # For the purpose of this Mod, this location should be full of Nokis and not just Piantas
 		graphical_cultures = { frankishgfx }
 		
 		color = { 1 0 0 }
@@ -334,10 +466,12 @@ delfino_islands = {
 			Pietra Valeria_Valerie Linda Antonia Laura_Laura Lucia Silvana Rosa Maria_Maria Angelica Luciana Giacoma Alessandra Elisabetta_Elizabeth Alberta Hanna_Hannah Alessia Anna_Anna Nitta Piera Ferdinanda Nicola_Nichole Maura Marina Andrea Altera Roberta Massima Maurizia Emilia_Emily Giusepa Francesca Marinella Vanna Daria Stefanie_Stephanie Luisella Tea Vincenza Sesa Sofia_Sophia Michele_Michele Ileana Tiziana Cristina_Christine Davida Demetria Teresa Gianluca Paola Mariastella Mattea Rosy_Rosalina Caterina Franca Tamara Luigia Gianpieria Lorenza Simona Fulvia Enrica Luisa_Louise Chiara Giorgia Gianclaudia Micaela Emanuella Salvatoria Sabrina Ernesta Daniela Renza Elena Mara Marca Piergiorgia Ezia Floriana Bruna Khalida Eleonora Miriam_Maria Filippa Diega Magda Gianna Cesarra Umberta Cara Rogeria Vittoria_Victoria Ettora
 			}
 		from_dynasty_prefix = "de "
+		from_dynasty_suffix = "ki"
 		grammar_transform = french
 
 		modifier = default_culture_modifier
 
+		parent = delfino # Delfinites and Piantas have no qualm with each other
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 60
@@ -351,7 +485,7 @@ delfino_islands = {
 	}
 
 
-turtle_islands = {
+	turtle_islands = {
 		graphical_cultures = { frankishgfx }
 		
 		color = { 0.84 0.59 0 }
@@ -361,11 +495,12 @@ turtle_islands = {
 		female_names = {
 			Giulia_Julia Chiara Sara_Sarah Martina Francesca_Francine Silvia Elisa Laura_Laura Federica Alessia Alice Valentina Elèna Giorgia Eleonora Anna_Anna Claudia Sofia_Sophia Marta_Martha Ilaria Arianna Beatrice Irene Roberta Michela_Michelle Valeria_Valerie Gaia Alessandra_Alexandra Giada Simona Aurora Noemi Rebecca_Rebecca Cristina_Christina Maria_Maria Veronica Serena Benedetta Camilla Ludovica Paola_Paula Lisa_Lisa Greta Elisabetta_Elizabeth Caterina_Catherine Carlotta Lucrezia Jessica_Jessica Miriam_Maria Margherita_Margaret Annalisa Daniela_Danielle Letizia Sabrina Lucia Giovanna Ginevra Barbara Mary_Maria Sarah_Sarah Gloria Linda Cecilia Emma_Emma Monica Angela Matilde Vanessa Rachele_Rachel Marika Erika_Erica Nicole_Nichole Debora_Deborah Antonella Gabriella Viola Adele Stefania_Stephanie Diana_Diane Manuela Giusy Rosa Bianca Samantha Julia_Julia Angelica Luisa_Louise Teresa_Theresa Ilenia Emanuela Nadia Sonia Melissa_Melissa Isabella_Isabella Virginia_Virginia Marina Nicoletta Vale Marzia Eva
 			}
-		from_dynasty_prefix = "de "
+		from_dynasty_prefix = "di "
 		grammar_transform = french
 
 		modifier = default_culture_modifier
 
+		parent = delfino # Delfinites and Piantas have no qualm with each other
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 60
@@ -378,7 +513,7 @@ turtle_islands = {
 		mother_name_chance = 10
 	}
 	
-jellyfish_islands = {
+	jellyfish_islands = {
 		graphical_cultures = { frankishgfx }
 		
 		color = { 0.95 0.88 0.18 }
@@ -393,6 +528,7 @@ jellyfish_islands = {
 
 		modifier = default_culture_modifier
 
+ 		parent = delfino # Delfinites and Piantas have no qualm with each other
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 60
@@ -404,7 +540,94 @@ jellyfish_islands = {
 		mat_grm_name_chance = 60
 		mother_name_chance = 10
 	}
-	
+
+	 noki = { # Catch-all for all other Nokis
+		graphical_cultures = { frankishgfx }
+		
+		color = { 1 56 99 }
+		male_names = {
+			Pietro_Peter Valerio Lindo Antonio_Anthony Lauro Lucio Silvano Rosso Mario_Mario Angelo Luciano_Luke Giacomo Alessandro Elisabetto Alberto_Albert Hans Alessio Anno Nitto Piero Ferdinando Nicolo_Nicholas Mauro Marino Andreo_Andrew Altero Roberto_Robert Massimo Maurizio_Maurice Emilio Giuseppe Francesco_Francis Marinello Vannino Dario Stefano_Stephen Luisello_Louis Teo Vincenzo_Vincent Seso Sofio Michelo_Michael Ileano Tiziano Cristino Davide_David Demetrio Tereso Gianlucco Paolo Mariastello Matteo Ross Caterino Franco Tamaro Luigi_Luigi Gianpieri Lorenzo Simon Fulvio Enrico Luiso_Louis Chiaro Giorgio_George Gianclaudio Micaelo Emanuele Salvatore Sabrino Ernesto Daniel_Daniel Renzo Eleno Maro Marco_Mark Piergiorgio Ezio Floriano Bruno Khalid Eleonoro Miriamo Filippo_Phillip Diego Magdo Gian_John Cesare_Caesar Umberto Caro Roger Vittorio_Victor Ettore 
+		}
+		female_names = {
+			Pietra Valeria_Valerie Linda Antonia Laura_Laura Lucia Silvana Rosa Maria_Maria Angelica Luciana Giacoma Alessandra Elisabetta_Elizabeth Alberta Hanna_Hannah Alessia Anna_Anna Nitta Piera Ferdinanda Nicola_Nichole Maura Marina Andrea Altera Roberta Massima Maurizia Emilia_Emily Giusepa Francesca Marinella Vanna Daria Stefanie_Stephanie Luisella Tea Vincenza Sesa Sofia_Sophia Michele_Michele Ileana Tiziana Cristina_Christine Davida Demetria Teresa Gianluca Paola Mariastella Mattea Rosy_Rosalina Caterina Franca Tamara Luigia Gianpieria Lorenza Simona Fulvia Enrica Luisa_Louise Chiara Giorgia Gianclaudia Micaela Emanuella Salvatoria Sabrina Ernesta Daniela Renza Elena Mara Marca Piergiorgia Ezia Floriana Bruna Khalida Eleonora Miriam_Maria Filippa Diega Magda Gianna Cesarra Umberta Cara Rogeria Vittoria_Victoria Ettora
+			}
+		from_dynasty_prefix = "de "
+		from_dynasty_suffix = "ki"
+		grammar_transform = french
+
+		modifier = default_culture_modifier
+
+		parent = delfino # Delfinites and Piantas have no qualm with each other
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+	}
+
+	 noki_bay = { # Nokis only, please
+		graphical_cultures = { frankishgfx }
+		
+		color = { 2 60 103 }
+		male_names = {
+			Pietro_Peter Valerio Lindo Antonio_Anthony Lauro Lucio Silvano Rosso Mario_Mario Angelo Luciano_Luke Giacomo Alessandro Elisabetto Alberto_Albert Hans Alessio Anno Nitto Piero Ferdinando Nicolo_Nicholas Mauro Marino Andreo_Andrew Altero Roberto_Robert Massimo Maurizio_Maurice Emilio Giuseppe Francesco_Francis Marinello Vannino Dario Stefano_Stephen Luisello_Louis Teo Vincenzo_Vincent Seso Sofio Michelo_Michael Ileano Tiziano Cristino Davide_David Demetrio Tereso Gianlucco Paolo Mariastello Matteo Ross Caterino Franco Tamaro Luigi_Luigi Gianpieri Lorenzo Simon Fulvio Enrico Luiso_Louis Chiaro Giorgio_George Gianclaudio Micaelo Emanuele Salvatore Sabrino Ernesto Daniel_Daniel Renzo Eleno Maro Marco_Mark Piergiorgio Ezio Floriano Bruno Khalid Eleonoro Miriamo Filippo_Phillip Diego Magdo Gian_John Cesare_Caesar Umberto Caro Roger Vittorio_Victor Ettore 
+		}
+		female_names = {
+			Pietra Valeria_Valerie Linda Antonia Laura_Laura Lucia Silvana Rosa Maria_Maria Angelica Luciana Giacoma Alessandra Elisabetta_Elizabeth Alberta Hanna_Hannah Alessia Anna_Anna Nitta Piera Ferdinanda Nicola_Nichole Maura Marina Andrea Altera Roberta Massima Maurizia Emilia_Emily Giusepa Francesca Marinella Vanna Daria Stefanie_Stephanie Luisella Tea Vincenza Sesa Sofia_Sophia Michele_Michele Ileana Tiziana Cristina_Christine Davida Demetria Teresa Gianluca Paola Mariastella Mattea Rosy_Rosalina Caterina Franca Tamara Luigia Gianpieria Lorenza Simona Fulvia Enrica Luisa_Louise Chiara Giorgia Gianclaudia Micaela Emanuella Salvatoria Sabrina Ernesta Daniela Renza Elena Mara Marca Piergiorgia Ezia Floriana Bruna Khalida Eleonora Miriam_Maria Filippa Diega Magda Gianna Cesarra Umberta Cara Rogeria Vittoria_Victoria Ettora
+			}
+		from_dynasty_prefix = "de "
+		from_dynasty_suffix = "ki"
+		grammar_transform = french
+
+		modifier = default_culture_modifier
+
+		parent = noki
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+	}
+
+	pianta = { # Catch-all for all other Piantas
+		graphical_cultures = { frankishgfx }
+		
+		color = { 1 0.75 0.05 }
+		male_names = {
+			"Big Daddy" Joey_Joseph Fingers Francis "The King" "Big Sam" "Joey Batters" "Big Tuna" Tumac_Anthony Carmine Tipp_Thomas Phil_Philip Felix_Philip "The Hook" Jimmy_James Vincent_Vincent Benny_Benjamin Benedetto_Benjamin Vinny_Vincent Smokes "Two-Knife" Jake Giacomo Frank_Francis Samuzzo_Samuel Samoots_Samuel "Little Vic" Victor_Victor Albert_Albert "Mad Hatter" "Tough Tony" Salvatore Tony_Anthony Joe_Joseph Donald_Donald Don_Donald Tico_Anthony Ignacio John_John Buster_John "Joe Piney" Steve_Stephen Stephen_Stephen Vinnie_Vincent "Louie Ha Ha" Louis_Louis Lou_Louis Alphonse_Alphonse "Mr. Big" Nicholas_Nicholas Nick_Nicholas Nicky_Nicholas Johnny_John Barney Teets_Samuel "The Wig" "The Toupee" "The Doberman" "Zombie Bilotti" "The Pitbull" Tommy_Thomas Charlie_Charles Charles_Charles "Little Rabbit" Tillio_Attila Attila_Attila Attilio_Attila "The Shadow" Richie_Richard Richard_Richard "The Tall Guy" Caesare_Caesar Giovanni_John Rosario Bartholomew_Bartholomew Bobby_Robert Robert_Robert Al_Alphonse "The Horse" Willie_William Shellackhead "The Breeze" Dominick Sylvestro Scarface Ray_Raymond Raymond_Raymond Lucky Gino Mario_Mario
+		}
+		female_names = {
+			Theresa Kristy_Christina Christina_Christina Bonnie_Bonne Stephanie_Stephen Opal Helen_Helen Ma Pearl "Pretty Pants" Virginia Arlyne Evelyn Rosetta Erminia Maria_Maria Pupetta Giusy Enedina Griselda Jennifer_Jennifer Drita Carla_Carla Karen Renee Angela_Angela Ramona_Ramona Love Natalie_Natalie Alicia Giada Giulia Allegra Arabella Clara Cosima Elena Emiliana Lucia Sylvia Ariana Bianca Elisa Emilia Lea Marisa Siena Abriana Alonza Bianca Camila Cara Claudina Columbine Constanza Contessa Donatella Donna Fabia Flavia Gia Gina Isabella_Isabella Leonora Liliana Lucia Madonna Mona Octavia Regina Rosa Rosalina_Rosalina Serena Terra Valentina Zarah
+		}
+
+		from_dynasty_prefix = "di "
+		from_dynasty_suffix = "ia"
+		grammar_transform = french
+
+		parent = delfino
+
+		modifier = default_culture_modifier
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+	}
 }
 
 twilighter_group = {
@@ -418,7 +641,7 @@ twilighter_group = {
 			Dour Darkly Gloomer
 
 			# made up filler
-			Dusk Dusker Gloom Sorrow Sye Dark'ness Poe Bloodirist Christo_Christopher Edgar Enoby_Ebony Goff Goffik Gerard_Gerard Draco Loopin Allen Black Enopby_Ebony Egogy_Ebony Gothum Ichabod Igor Harry_Harold Harold_Harold Ron_Ronald Ronald_Ronald Gerard "Billie Joel"_William Joel Evony_Ebony "Tre Cool" "Mike Dinrt"_Micheal Kiffmeyer Dirnt Cometbus Trey "Gerard Way"_Gerard James Dewees Mikey_Micheal Dusky Smokey Armstrong Bryar Fallout Dib Jhoenn Skoodge Keif_Keith Keith_Keith
+			Dusk Dusker Gloom Sorrow Sye Dark'ness Poe Bloodirist Christo_Christopher Edgar Enoby_Ebony Goff Goffik Gerard_Gerard Draco Loopin Allen Black Enopby_Ebony Egogy_Ebony Gothum Ichabod Igor Harry_Harold Harold_Harold Ron_Ronald Ronald_Ronald Gerard "Billie Joel"_William Joel Evony_Ebony "Tre Cool" "Mike Dinrt"_Micheal Kiffmeyer Dirnt Cometbus Trey "Gerard Way"_Gerard James Dewees Mikey_Micheal Dusky Smokey Armstrong Bryar Fallout Dib Jhoenn Skoodge Keif_Keith Keith_Keith Jim_James Jimmy_Hames Crow_Raven William_William
 		}
 
 		female_names = {
@@ -426,14 +649,15 @@ twilighter_group = {
 			Eve
 
 			# made up filler
-			Luna Dusk Gothgf Victoria Ashley Dawn Raven_Raven Enoby_Ebony Ebony_Ebony Rose "Raven Way"_Raven Gilesbie Tara Theresa Eboby_Ebony Ebory_Ebony Enobby_Enoby Taebory_Tara Avada Marcelline Gotha Gloomer Gotha Twila_Twila Twyla_Twila Belle Bella Betty Buffy Alice Sam Hermione Gaz_Gazlene Gazlynn_Gazlene Gazelene Deb Dibra Tak Paramore
+			Luna Dusk Gothgf Victoria Ashley Dawn Raven_Raven Enoby_Ebony Ebony_Ebony Rose "Raven Way"_Raven Gilesbie Tara Theresa Eboby_Ebony Ebory_Ebony Enobby_Enoby Taebory_Tara Avada Marcelline Gotha Gloomer Gotha Twila_Twila Twyla_Twila Belle Bella Betty Buffy Alice Sam Hermione Gaz_Gazlene Gazlynn_Gazlene Gazelene Deb Dibra Tak Paramore Smaragdine Raven_Raven
 		}
 
 		from_dynastry_suffix = "ly"
 		founder_named_dynasties = yes
 		disinherit_from_blinding = yes
 
-		female_patronym = "gf
+		female_patronym = "gf"
+		female_matronym = "gf"
 	
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 0
@@ -444,5 +668,221 @@ twilighter_group = {
 		pat_grm_name_chance = 10
 		mat_grm_name_chance = 10
 		mother_name_chance = 30
+	}
+}
+
+canonical_human_group = {
+	mario_brothers = { # Mario Brothers special culture to differentiate them and anyone related to them from geting Toad names
+		graphical_cultures = { italiangfx frankishgfx westerngfx chinesegfx } 
+		color = { 255 0 0 }
+
+		male_names = {
+			# Canonical
+			Mario_Mario:300 "Mario Joe"_Mario Luigi_Luigi:300 "Luigi Bob"_Luigi"
+
+			# Italian filler
+			Abbondanzio Abbondio Abelardo_Abelard Abelino Achille Adalberto_Albert Adelfo Adelmio_Adelmo Adelmo_Adelmo Adone Adriano_Adrian Agapito Agostino_Augustine Aimone Alamanno Alarico_Alaric Albano Alberico Alberto_Albert Albino Alboino Alcide Aldobrandino Aleardo Aleramo Alessandro_Alexander Alessio_Alexis Alighiero Alvise Ambrogio_Ambrosius Amedeo Anastasio_Anastasius  Andrea_Andrew Angelo_Angel Annibale Anselmo_Anselm Antonino_Antoninus Antonio_Antoninus Antoniotto Arcibaldo_Archibald Arderico Armando_Armand Arnolfo_Arnulf Arrigo Arsenio Artemio Ascanio Astorre Atenolfo_Atenulf Attilio Augusto_Augustine Aurelio_Aurelius Ausilio Ausonio Averado Azzo Azzone Baldassarre Baldovino_Baldwin Barnaba_Barnabas Bartolomeo_Bartolomeus Basilio_Basil Bassiano Basso Battista Beltrano_Bertrand Benedetto_Benedict Benvenuto Berardo Bernabò_Barnabas Bernardo_Bernard Berto Bertoldo_Berthold Biagio Bonaventura Bonifacio_Bonifacius Borso Bruno Bruto Buonconte Buoso Callisto_Callistus Camillo_Camillus Candido Cangrande Carlo_Charles Cassio Castore Cataldo Catone Cecco Cesare_Caesar Chiaffredo Chiano Ciro Ciuccio Claudio_Claudius Clemente_Clement Comita Conone Cornelio_Cornelius Corradino Corrado_Konrad Cosimo Cosma_Cosmas Costante Costantino Costanzo Cristoforo_Christopher Damiano_Damian Davide_David Demetrio_Demetrius Dioniso_Dionysus Doménico_Dominic Durante Eduardo_Edward Elio Emmanuele_Manuel Ennio Enrico_Henry Enzio Enzo Ercole_Heracles Eriprando Ermenegildo Ettore_Hector Eugenio_Eugene Ezio Ezzelino Fabrizio Fausto Federigo_Frederick Felice_Felix Ferdinando_Ferdinand Ferruccio Filippo_Philip Fiorello Flavio Folco_Folke Fortunato Fosco Francesco_Francis Fresco Gabriele_Gabriel Gabrino Gaetano Galasso Galeazzo Galeotto Gaspare Gastone_Gaston Gelasio Gentile Geraldo_Gerald Gerardo_Gerard Germano_Germanus Gerolamo Gherardo_Gerard Giacinto_Hyacinth Giacomo_Jacob Gian_John Gianfranco Gianleone Giano_John Giberto Gilberto_Gilbert Giolio Giordano_Jordan Giorgio_George Giovanni_John Giulio_Julius Giuseppe_Joseph Goffredo_Godfrey Gregorio_Gregory Gualtiero_Walter Guarnito Guerrino Guglielmo_William Guido_Guy Guidone_Guy Guigliadore Iacopo_Jacob Igino Innocenzo Ippolito_Hippolytus Isnardo Jacopo_Jacob Lamberto_Lambert Landolfo_Landolf Landone Lanfranco Lattanzio Lazzarino Lazzaro_Lazarus Lealdo Leonardo Leone_Leo Leonello_Lionel Leopoldo Libero Lionello_Lionel Livio Lodovico_Louis Lorenzo_Laurence Luca_Luke Luchino Lucio_Lucius Luigi Malacresta Manfredo Manuele_Manuel Marco_Marcus Mariano_Marius Marino Marsiglio Martino_Martin Massimo_Maximus Mastino Matteo_Matthew Merigo Michelangelo Michele_Michael  Napoleone Nazareno Nestore Niccolò_Nicholas Nicola_Nicholas Nino Nolfo Oberto Obizzino Obizzo Oddone Omero Onorio Oreste Orlando Ottavio Ottobono Ottone_Otto Pagano_Pagan Pancrazio Pandolfo_Randolph Paolo_Paul Pasquale_Pascal Patrizio_Patrick Pellegrino Pericle Pietro_Peter Pio Prospero Rafaello_Raphael Radul Raimondo_Raymond Rainero_Rainer Raineri_Rainer Riccardo_Richard Rinaldo_Reinhold Rizzardo Roberto_Robert Rodolfo_Ralph Rolando_Roland Rosso Ruggiero Salinguerra Salvatore_Salvador Salvestro_Silvester Sante_Sancho Saverio Sciarra Sebastiano_Sebastian Secondotto Serafino_Seraphin Sergio Sesto Settimio Severino Severo Silvano Silvestro Simone_Simon Simonetto Sinibaldo Sinucello Sozzo Spinetto Stefano_Stephen Stentore Taddeo Tedaldo Tedice Teodoro_Theodore Tibaldo_Theobald Tiziano Tommaso_Thomas Torgodorio Torquato Ubaldo Uberto Ugo_Hugh Ugoccione Ugolino Umberto_Humbert Urbano_Urban Valentino_Valentin Valerio_Valerius Vincentello Vincenzo_Vincent Virginio Vitale Vittore_Victor Vittorio_Victor Zaccaria_Zachary
+		}
+
+		female_names = {
+			# Canonical
+			Marianne_Maria Marilyn Maria_Maria:200 Luigina_Luigina:200 Paulina:150
+
+			# Italian filler
+			Abelina Adalberta Adalgisa Adelaida_Adelaide Adelasia Adelia_Adela Adriana_Adriana Agalina Agnese_Agnes Agostina Albina Alda Alessandra Alfonsina Alisia_Alice Aloisia Amalia_Amelia Ambrosia Anastasia_Anastasia Anna_Anna Antonella Antonia Argentina Augusta Aurelia_Aurelia Ausilia Ausonia Beatrice_Beatrice Benedetta_Benedicta Benilde Berenice Berta Bianca_Blanche Bona_Bonne Brunilde_Brunhilda Camilla Candida Caracosa Carla Carola Caterina_Catherine Cecilia_Cecilia Clara_Clara Claudia Clorinda Clotilde_Clotilde Constanza_Constance Cornelia Delinda Dora Edda Elena_Helen Eleonora_Eleanor Elisa_Elizabeth Elisabetta_Elizabeth Ermenegilda Eudossia Eugenia Fausta Felicia_Felicia Felicita Filippa_Philippa Filomena Flavia Flora_Flora Fortunata Fosca Francesca_Francesca Froizza Giacinta_Hyacintha Ginevra Giovanna_Joan Giuditta Giulia_Julia Giuseppa Ippolita Isabella_Elizabeth Joscella Laura_Laura Lavinia Leonide Letizia Lidia Livia Lodovica Lucia_Lucia Lucinetta Lucrezia Maddalena_Magdalena Marcella Margherita_Margaret Maria_Maria Mariana Marietta Martina Matilda_Matilda Micaela Nunzia Paola_Paula Patrizia_Patricia Renata Ricciarda_Ricarda Silvana Sofia_Sophia Stefania_Stephania Tiziana Tomasina Valentina Violante_Yolanda Virginia			
+	}
+
+		parent = mushroom_kingdom
+
+		from_dynasty_prefix = "di "
+
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+
+		used_for_random = no
+		allow_in_ruler_designer = no
+	}
+
+	new_donk_city = {
+		color = { 255 0 0 }
+		graphical_cultures = { italiangfx frankishgfx westerngfx chinesegfx }
+
+		male_names = {
+			# Canonical, assuming Mario and Lugi can be lumped with the New Donkers
+			Mario_Mario:150 "Mario Joe"_Mario Luigi_Luigi:150 "Luigi Bob"_Luigi"
+
+			# Italian filler
+			Abbondanzio Abbondio Abelardo_Abelard Abelino Achille Adalberto_Albert Adelfo Adelmio_Adelmo Adelmo_Adelmo Adone Adriano_Adrian Agapito Agostino_Augustine Aimone Alamanno Alarico_Alaric Albano Alberico Alberto_Albert Albino Alboino Alcide Aldobrandino Aleardo Aleramo Alessandro_Alexander Alessio_Alexis Alighiero Alvise Ambrogio_Ambrosius Amedeo Anastasio_Anastasius  Andrea_Andrew Angelo_Angel Annibale Anselmo_Anselm Antonino_Antoninus Antonio_Antoninus Antoniotto Arcibaldo_Archibald Arderico Armando_Armand Arnolfo_Arnulf Arrigo Arsenio Artemio Ascanio Astorre Atenolfo_Atenulf Attilio Augusto_Augustine Aurelio_Aurelius Ausilio Ausonio Averado Azzo Azzone Baldassarre Baldovino_Baldwin Barnaba_Barnabas Bartolomeo_Bartolomeus Basilio_Basil Bassiano Basso Battista Beltrano_Bertrand Benedetto_Benedict Benvenuto Berardo Bernabò_Barnabas Bernardo_Bernard Berto Bertoldo_Berthold Biagio Bonaventura Bonifacio_Bonifacius Borso Bruno Bruto Buonconte Buoso Callisto_Callistus Camillo_Camillus Candido Cangrande Carlo_Charles Cassio Castore Cataldo Catone Cecco Cesare_Caesar Chiaffredo Chiano Ciro Ciuccio Claudio_Claudius Clemente_Clement Comita Conone Cornelio_Cornelius Corradino Corrado_Konrad Cosimo Cosma_Cosmas Costante Costantino Costanzo Cristoforo_Christopher Damiano_Damian Davide_David Demetrio_Demetrius Dioniso_Dionysus Doménico_Dominic Durante Eduardo_Edward Elio Emmanuele_Manuel Ennio Enrico_Henry Enzio Enzo Ercole_Heracles Eriprando Ermenegildo Ettore_Hector Eugenio_Eugene Ezio Ezzelino Fabrizio Fausto Federigo_Frederick Felice_Felix Ferdinando_Ferdinand Ferruccio Filippo_Philip Fiorello Flavio Folco_Folke Fortunato Fosco Francesco_Francis Fresco Gabriele_Gabriel Gabrino Gaetano Galasso Galeazzo Galeotto Gaspare Gastone_Gaston Gelasio Gentile Geraldo_Gerald Gerardo_Gerard Germano_Germanus Gerolamo Gherardo_Gerard Giacinto_Hyacinth Giacomo_Jacob Gian_John Gianfranco Gianleone Giano_John Giberto Gilberto_Gilbert Giolio Giordano_Jordan Giorgio_George Giovanni_John Giulio_Julius Giuseppe_Joseph Goffredo_Godfrey Gregorio_Gregory Gualtiero_Walter Guarnito Guerrino Guglielmo_William Guido_Guy Guidone_Guy Guigliadore Iacopo_Jacob Igino Innocenzo Ippolito_Hippolytus Isnardo Jacopo_Jacob Lamberto_Lambert Landolfo_Landolf Landone Lanfranco Lattanzio Lazzarino Lazzaro_Lazarus Lealdo Leonardo Leone_Leo Leonello_Lionel Leopoldo Libero Lionello_Lionel Livio Lodovico_Louis Lorenzo_Laurence Luca_Luke Luchino Lucio_Lucius Luigi Malacresta Manfredo Manuele_Manuel Marco_Marcus Mariano_Marius Marino Marsiglio Martino_Martin Massimo_Maximus Mastino Matteo_Matthew Merigo Michelangelo Michele_Michael  Napoleone Nazareno Nestore Niccolò_Nicholas Nicola_Nicholas Nino Nolfo Oberto Obizzino Obizzo Oddone Omero Onorio Oreste Orlando Ottavio Ottobono Ottone_Otto Pagano_Pagan Pancrazio Pandolfo_Randolph Paolo_Paul Pasquale_Pascal Patrizio_Patrick Pellegrino Pericle Pietro_Peter Pio Prospero Rafaello_Raphael Radul Raimondo_Raymond Rainero_Rainer Raineri_Rainer Riccardo_Richard Rinaldo_Reinhold Rizzardo Roberto_Robert Rodolfo_Ralph Rolando_Roland Rosso Ruggiero Salinguerra Salvatore_Salvador Salvestro_Silvester Sante_Sancho Saverio Sciarra Sebastiano_Sebastian Secondotto Serafino_Seraphin Sergio Sesto Settimio Severino Severo Silvano Silvestro Simone_Simon Simonetto Sinibaldo Sinucello Sozzo Spinetto Stefano_Stephen Stentore Taddeo Tedaldo Tedice Teodoro_Theodore Tibaldo_Theobald Tiziano Tommaso_Thomas Torgodorio Torquato Ubaldo Uberto Ugo_Hugh Ugoccione Ugolino Umberto_Humbert Urbano_Urban Valentino_Valentin Valerio_Valerius Vincentello Vincenzo_Vincent Virginio Vitale Vittore_Victor Vittorio_Victor Zaccaria_Zachary
+
+			# New Yorker filler
+			Alexander Atticus August Andrew Anthony Angus Allen Asa Alvin Albert Ambrose Arthur Buford Benjamin Benedict Bernard Bartholomew Brigham Braxton Barnabas Cyrus Charles Cyril Christopher Casey Clarence Clark Calvin Chester David Donald Daniel Duncan Eric Ebenezer Elbridge Eugene Eustace Ernest Edmund Ephraim Earl Ezra Emory Francis Frederick_Frederich Freddy_Frederick Ferdinand George:250 Gregory Gideon Gerald Grover Gouveneur Gordon Humphrey Howard Hector Harold Horatio Henry Ian Irving Joseph Jeffrey Jubal John Jebediah James Jacob Julius Julian Justin Josiah Joshua Leonard Louis Lawrence Leland Luke Lionel Lorenzo Lamont Lyman Michael_Micheal Mike_Micheal Mikey_Micheal Mark Martin Milton Merriweather Nathaniel Nehemiah Nicholas Oliver Obadiah Orville Owen Philip Peter Paul Patrick Rutherford Robert Richard Ronald Reuchlin Rufus Rhett Samuel Stephen Sampson Sylvester Theodore Thomas Timothy_Timothy Timmy_Timothy Upton Ulysses Victor Vincent William Walter Winfield Wilbur Wallace Walker Zachary_Zachary Zack_Zachary  Zach_Zachary
+		}
+
+		female_names = {
+			# Canonical names
+			Paulina_Paulina:120 Paulene_Paulina:115
+
+			# Italian filler
+			Abelina Adalberta Adalgisa Adelaida_Adelaide Adelasia Adelia_Adela Adriana_Adriana Agalina Agnese_Agnes Agostina Albina Alda Alessandra Alfonsina Alisia_Alice Aloisia Amalia_Amelia Ambrosia Anastasia_Anastasia Anna_Anna Antonella Antonia Argentina Augusta Aurelia_Aurelia Ausilia Ausonia Beatrice_Beatrice Benedetta_Benedicta Benilde Berenice Berta Bianca_Blanche Bona_Bonne Brunilde_Brunhilda Camilla Candida Caracosa Carla Carola Caterina_Catherine Cecilia_Cecilia Clara_Clara Claudia Clorinda Clotilde_Clotilde Constanza_Constance Cornelia Delinda Dora Edda Elena_Helen Eleonora_Eleanor Elisa_Elizabeth Elisabetta_Elizabeth Ermenegilda Eudossia Eugenia Fausta Felicia_Felicia Felicita Filippa_Philippa Filomena Flavia Flora_Flora Fortunata Fosca Francesca_Francesca Froizza Giacinta_Hyacintha Ginevra Giovanna_Joan Giuditta Giulia_Julia Giuseppa Ippolita Isabella_Elizabeth Joscella Laura_Laura Lavinia Leonide Letizia Lidia Livia Lodovica Lucia_Lucia Lucinetta Lucrezia Maddalena_Magdalena Marcella Margherita_Margaret Maria_Maria Mariana Marietta Martina Matilda_Matilda Micaela Nunzia Paola_Paula Patrizia_Patricia Renata Ricciarda_Ricarda Silvana Sofia_Sophia Stefania_Stephania Tiziana Tomasina Valentina Violante_Yolanda Virginia
+
+			# New Yorker filler
+			Anne Amanda Ada April Amphyllis Abigail Alice Adell Amelia Antoinette Arabella Alma Agnes Agatha Barbara Brigit Blanche Bertha Belle Caroline Charlotte Christine Catharine Clementine Clara Constance Claudia Carrie Cora Dolley Dorothy Deborah Daisy Doris Edith Evangeline Elizabeth Esther Emily Emma Ernestine Ethel Flora Frances Florence Gladys Gloria Grace Gertrude Heather Hannah Hermina Harriet Helen Hortense Hope Ida Isabella Joan Jane Julia Josephine Laura Lucy Lydia Lillie Lena Michelle Mary Marta Muriel Mildred Margaret Mercy Mathilda Marion Madeline Marilla Mabel Nancy Noami Nell Olympia Prudence Patricia Pauline Patience Pamela Phoebe Paula Rachel Rebecca Rhoda Rosalie Ruth Rosa Scarlett Sarah Sally Sylvia Susanna Sybil Susa Sophia Tabitha Theodora Victoria Virginia Verina Valeria Winifred Zerelda
+	}
+
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+}
+
+japanese_group = { 
+	oriental_men = {
+		# Japanese names for Iwata, still not sure why everyone wants this so bad, but there's no problem having it in
+		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
+		
+		color = { 0.85 0.85 0.01 }
+		
+		male_names = {
+			Akifusa Akihaya Akihisa Akikage Akimori Akimoto Akimune Akimura Akinaga Akinao Akisada Akisuke Akitada
+			Akitame Akitane Akitsugu Akitsuna Akitsura Akiyasu Akiyoshi Akizane Arinaga Arinobu Chikafuyu Chikahide
+			Chikaie Chikakata Chikamasa Chikamori Chikamoto Chikamune Chikanaga Chikanao Chikanobu
+			Chikanori Chikasada Chikashige Chikasue Chikatada Chikatake Chikatoki Chikatoshi Chikatsugu
+			Chikatsune Chikayasu Chikayoshi Chikayuki Chikazane Doronosuke Eisaburo Eishi Ekei Fujiaki 
+			Fujiatsu Fujikane Fujinaga Fujisada Fujisuke Fujitaka Fujiuji Fumitane Furuyasu Fusaaki Fusakata 
+			Fusanaga Fusasada Fusatsuna Fusazane Fuyuhisa Fuyuki Fuyuyasu Genzo Hachiro Hajime Haru Haruhide
+			Haruhiro Haruhisa Harukage Harukiyo Harumasa Harumichi Harumoto Harumune Harunaga Harunobu Harusada 
+			Harusuke Harutane Haruto Harutomo Harutsugu Haruuji Haruyasu Haruyuki Haruzumi Hayate Hideaki Hideharu
+			Hidehisa Hideie Hidekatsu Hidemasa Hidemitsu Hidemoto Hidenaga Hidenao Hidenobu Hideo Hidesada Hidetada
+			Hidetaka Hidetsugu Hidetsuna Hideyasu Hideyori Hideyoshi Hideyuki Hikonosuke Hiro Hirofusa Hiroie
+			Hirokado Hiromitsu Hironari Hironobu Hiroshi Hirotaka Hiroteru Hirotoshi Hirotsugu Hirotsuna Hiroyo 
+			Hiroyori Hiroyoshi Hiroyuki Hisaaki Hisahide Hisaka Hisakane Hisamasa Hisamichi Hisamori Hisamoto 
+			Hisanaga Hisanaka Hisatada Hisataka Hisatane Hisatomo Hisatora Hisatoyo Hisatsuna Hisatsune 
+			Hisayasu Hisayuki Ibaranosuke Ichiro Iechika Iehisa Iemasa Iemon Iemori Ienari Ietoki Ietoshi Ietsugu
+			Ieuji Inori Iori Isamu Isao Issen Jiro Jotaro Jubei Jun'ichi Junji Juro Kageakira Kagechika
+			Kagehiro Kageie Kagekata Kagekatsu Kagekuni Kagemasa Kagemochi Kagemoto Kagenobu Kagenori Kagetaka
+			Kagetake Kagetora Kagetoshi Kagetou Kagetsugu Kagetsuna Kagetsura Kageyori Kageyoshi Kakuken Kanemasa
+			Kanemori Kanenaka Kanesada Kanesuke Kanetsugu Kankuro Katahide Kataie Katatoyo Katsuchika Katsuhisa 
+			Katsuie Katsumasa Katsumo Katsumoto Katsunaga Katsunobu Katsusada Katsushige Katsusuke Katsuteru
+			Katsutoshi Katsutoyo Katsuyasu Katsuyori Katsuyoshi Kazuemon Kazuhide Kazuma Kazumasa Kazumasu
+			Kazumori Kazunobu Kazunori Kazuo Kazutoyo Kazuuji Kazuya Kei Keiji Ken'ichi Kenta Kenzo Kinmoto 
+			Kintaro Kiyofusa Kiyohide Kiyomasa Kiyomoto Kiyomune Kiyonaga Kiyonari Kiyonori Kiyooki Kiyoshi 
+			Kiyoshige Kiyosue Kiyotsuna Kiyoyoshi Kogen Koichi Kojiro Korekado Koremasa Korenao Korenori Koretane
+			Koretoyo Koretsuna Koreyoshi Korishige Kunichika Kunihisa Kunikiyo Kuninori Kunitane Kunitora Kunitsuna
+			Kuniuji Manabu Masaaki Masachika Masafusa Masahide Masahiro Masahisa Masaie Masakage Masakatsu Masaki 
+			Masakuni Masamitsu Masamori Masamoto Masamune Masamura Masanaga Masanao Masanari Masanobu Masanori Masaru 
+			Masasada Masashi Masashige Masatada Masato Masatomo Masatoshi Masatoyo Masatsugu Masatsuna Masatsune
+			Masayasu Masayori Masayoshi Masayuki Masazane Masazumi Masushige Masutane Michimori Michinao Michinobu
+			Michisue Michitane Michitoshi Michiyasu Michiyo Michiyoshi Mitsuchika Mitsufusa Mitsuharu Mitsuhide
+			Mitsukuni Mitsumune Mitsunari Mitsunobu Mitsushige Mitsusuke Mitsutada Mitsutsugu Mitsutsuna 
+			Mitsuuji Mitsuyasu Mitsuyori Mitsuyoshi Mochihisa Mochinaga Mochitaka Monzaemon Moriaki Morichika
+			Moriharu Morihiro Morikiyo Morikuni Morimasa Morimi Morimitsu Morimune Morinaga Morinari Morinobu Morioki
+			Morishige Moritaka Moritane Moritsuna Moriuji Moriyasu Morizane Morotane Motochika Motoharu Motohide
+			Motoie Motokage Motokiyo Motokuni Motomune Motonaga Motonao Motonari Motonobu Motonori Motosada
+			Motoshige Motosuke Mototada Mototaka Mototake Mototane Mototomo Mototsugu Mototsuna Motouji Motoyasu 
+			Motoyoshi Motozane Motozumi Munefusa Muneharu Munehide Munehisa Muneie Munekage Munekatsu Munemasa
+			Munemura Munenobu Munenori Munetaka Munetoki Munetomo Munetora Munetsuna Muneuji Muneyoshi Muneyuki
+			Munezane Murashige Muratane Nagaakira Nagaatsu Nagachika Nagafusa Nagaharu Nagahide Nagamasa 
+			Nagamasu Nagamochi Nagamori Nagamoto Nagamura Naganari Naganobu Naganori Nagashige Nagataka Nagateru
+			Nagato Nagatomo Nagatsune Nagayasu Nagayori Nagayoshi Nagayuki Nagazane Nakaaki Naofusa Naoie
+			Naomasa Naomoto Naoshige Naotaka Naoto Naotsune Naoyasu Naoyori Naoyuki Nariharu Narikata Narikuni 
+			Narimasa Narimori Narimura Narinobu Narioki Narishige Narisuke Naritada Nariyoshi Natsume Noboru 
+			Nobuari Nobuchika Nobufusa Nobuhira Nobukado Nobukane Nobukatsu Nobukimi Nobukiyo Nobumasa Nobumitsu
+			Nobumori Nobumoto Nobunaga Nobunaka Nobunao Nobunari Nobunori Nobuo Nobuoki Nobusada Nobushige 
+			Nobutada Nobutaka Nobutane Nobutomo Nobutora Nobutoyo Nobutsuna Nobutsune Nobuyasu Nobuyoshi Nobuyuki
+			Nobuzumi Noriaki Norifuji Norifusa Noriharu Norihide Norihiko Norihito Norikage Norikata Norikuni 
+			Norimasa Norimochi Norimoto Norinao Norinari Norinobu Norinushi Norisada Norishige Norisuke 
+			Noritada Noritaka Noritane Noritoki Noriuji Noriyasu Noriyori Noriyoshi Norizane Okihide Okihisa 
+			Okikazu Okimori Osamu Osatada Osauji Raizo Reiji Ryuji Sadachika Sadahide Sadahisa Sadakage 
+			Sadakatsu Sadakuni Sadamichi Sadamitsu Sadamune Sadanaga Sadanao Sadanobu Sadanori Sadaoki Sadaomi 
+			Sadashige Sadasuke Sadataka Sadato Sadatoshi Sadatsugu Sadatsuna Sadayo Sadayori Sadayoshi Sadayuki
+			Saenosuke Sakinobu Sanechika Sanekatsu Sanemitsu Sanemoto Sanesue Sanetomo Saneyori Satoru 
+			Satoshi Satotoki Shichiroemon Shigefusa Shigeharu Shigehide Shigehira Shigehisa Shigeie Shigekado
+			Shigekane Shigekiyo Shigemasa Shigemochi Shigemoto Shigemune Shigemura Shigenaga Shigenami Shigenari
+			Shigenobu Shigenori Shigeoki Shigeru Shigesada Shigesato Shigesue Shigetada Shigetaka Shigetake
+			Shigetane Shigetatsu Shigetomo Shigetoshi Shigetsugu Shigetsuna Shigetsune Shigeyasu Shigeyoshi 
+			Shigezane Shingen Shinji Shintaro Shojiro Sosen Soun Suehiro Sukeharu Sukehide Sukehiro Sukekage
+			Sukekiyo Sukemasa Sukemitsu Sukemori Sukenaga Sukenao Sukenori Suketada Suketaka Suketane Suketoshi
+			Suketoyo Sukeyasu Sumiharu Sumitada Sumiyasu Tadaaki Tadaakira Tadaatsu Tadachika Tadafuyu Tadaharu 
+			Tadahiro Tadahisa Tadaie Tadakado Tadakatsu Tadakuni Tadamasa Tadamichi Tadamochi Tadamoto
+			Tadamune Tadanao Tadanari Tadao Tadaoki Tadasuke Tadataka Tadateru Tadatoki Tadatomo Tadatoshi
+			Tadatsugu Tadatsune Tadayo Tadayoshi Tadayuki Tadazumi Takaaki Takaakira Takachika Takafusa Takaharu
+			Takahide Takahiro Takahisa Takaie Takakage Takakane Takakazu Takamasu Takamichi Takamitsu Takamochi 
+			Takamori Takamoto Takanaka Takanao Takanobu Takaoki Takasada Takashige Takasue Takasuke Takatake
+			Takatane Takatomo Takatora Takatoyo Takatsugu Takauji Takayasu Takayori Takayoshi Takayuki Takazane
+			Takeaki Takehisa Taketane Takeyoshi Tameharu Tamehiro Tamekage Tamekiyo Tamenobu Tameyori Taneakira 
+			Tanechika Tanefuji Taneharu Tanehide Tanekane Tanekiyo Tanemune Tanenaga Tanenao Tanenori Tanesada
+			Taneshige Tanetoki Tanetomi Tanetsugu Tanetsune Taneyoshi Taneyuki Tanezane Tatsuoki Teruhiro 
+			Teruhisa Terukage Terumasa Terumichi Terumori Terumoto Terumune Terutora Teruzumi Tokiaki Tokihisa
+			Tokimori Tokishige Tokitaka Tokiuji Tomofuji Tomofusa Tomoharu Tomohide Tomohisa Tomokane Tomokata
+			Tomokatsu Tomomasa Tomomichi Tomomori Tomomune Tomonao Tomonari Tomonobu Tomonori Tomosada Tomotane 
+			Tomoteru Tomotsune Tomoyoshi Toramasa Toramori Toratane Torayasu Toshifusa Toshihisa Toshiie
+			Toshikage Toshikatsu Toshimasu Toshimitsu Toshimune Toshinaga Toshinao Toshinobu Toshisue Toshitomo
+			Toyoharu Toyohisa Toyokuni Toyosada Toyouji Tsugumichi Tsugumitsu Tsugunari Tsugutoshi Tsugutoyo 
+			Tsugutsura Tsuguyori Tsunachika Tsunafusa Tsunahisa Tsunakage Tsunakatsu Tsunakiyo Tsunamoto Tsunanao
+			Tsunanori Tsunasada Tsunashige Tsunatada Tsunatake Tsunatatsu Tsuneaki Tsunehide Tsunehisa Tsuneie
+			Tsunemitsu Tsunenaga Tsuneoki Tsunetada Tsuneyasu Tsuneyoshi Tsuratatsu Ujifusa Ujiharu Ujihide
+			Ujihira Ujihiro Ujikage Ujikane Ujikatsu Ujikuni Ujimasa Ujimichi Ujimoto Ujinaga Ujinao Ujinari 
+			Ujinori Ujioki Ujisada Ujisato Ujishige Ujisuke Ujiteru Ujitoyo Ujitsuna Ujiyasu Ujizane Ujtsuna 
+			Yasuharu Yasuhide Yasukage Yasumasa Yasumori Yasunaga Yasunari Yasunobu Yasunori Yasusue Yasusuke
+			Yasutada Yasutomo Yasutoshi Yasuyoshi Yasuzane Yoriaki Yorichika Yorifusa Yoriharu Yorihira Yorihisa 
+			Yorikatsu Yorimori Yorioki Yorishige Yoritada Yoritaka Yoritake Yoritoki Yoritsugu Yoritsuna Yoriuji
+			Yoriyasu Yoshiaki Yoshiakira Yoshiari Yoshiatsu Yoshichika Yoshifuyu Yoshiharu Yoshihi Yoshihide 
+			Yoshihira Yoshihiro Yoshihisa Yoshihito Yoshikado Yoshikage Yoshikane Yoshikata Yoshikatsu Yoshikiyo 
+			Yoshikuni Yoshimasa Yoshimasu Yoshimichi Yoshimitsu Yoshimochi Yoshimori Yoshimoto Yoshimune 
+			Yoshimura Yoshinaga Yoshinao Yoshinari Yoshinobu Yoshinori Yoshioki Yoshisada Yoshisaki
+			Yoshisato Yoshishige Yoshisuke Yoshitada Yoshitaka Yoshitake Yoshitane Yoshitatsu Yoshiteru
+			Yoshitoki Yoshitomo Yoshitora Yoshitoshi Yoshitou Yoshitsugu Yoshitsuna Yoshiuji Yoshiyasu 
+			Yoshiyori Yoshiyuki Yoshizane Yoshizumi Yukihiro Yukimasa Yukimori Yukimura Yukinaga Yukishige
+		}
+		female_names = {
+			Acha Achacha Ago Agogo Ai Aiyasha Akaka Akashi Aki Ako Akoko Ame Amu Asa Asahi Ate Aya Ayamachi
+			Ayaya Azechi Chacha Chago Chau Chibo Chii Etsu Chima Chise Chiyo Cho Chobo Ei Fuku Fuji Fumi Furi
+			Fusa Fuyo Fuyu Gin Go Gomoji Gou Hagi Haku Hana Haru Hatsu Hatsune Hide Hiko Hina Hiro Hisa 
+			Hochi Hoju Hou Ia Icha Ichako Ichi Ichiba Ima Imaaki Ina Inaka Ine Ino Inu Iemon Ietoki Iori
+			Ira Iro Iroha Ishi Ishika Ito Itoito Itoko Iwa Iya Iyo Kaga Kai Kaji Kaka Kama Kame Kane Kasuga Katsu
+			Kaze Kazusa Kesa Kichi Kichou Kii Kiku Kimi Kin Kinu Kisa Kita Kitsuno Kiyo Kocha Kochiyo Kochou Kofuku
+			Kogou Koi Koishi Koito Koko Koma Komatsu Kon Koto Kou Kowa Koya Koyaya Kubo Kuma Kuni Kurikaka
+			Kyaku Maa Machi Maki Man Mari Masa Masako Mayo Mate Matsu Matsuno Mego Meshi Minoru Minato
+			Mitsu Miya Mono Miwa Moto Muku Mume Mumetsu Naa Nabe Naka Nami Natsu Natsumi Naya Nene Nii
+			Nishi Nue Oku Raku Ren Riri Ruri Ritsu Roku Sachi Sae Sako Sana Sanae Sashi Sayo Sei Seki Sen Sena
+			Shichi Shige Shima Shimo Shina Shizuka Shosho Shou Shuku Some Soyo Sue Sugi Suke Suki Satsu
+			Suwa Tai Take Takechiyo Takematsu Taku Tama Tane Tara Tau Tatsu Tatsuko Tayo Teru Toku Tome
+			Tomo Tomoe Tora Toyo Tsuma Tsune Tsuru Tsuta Tsui Tsuya Tsuyo Uba Ume Uta Wakana Waki
+			Yaya Yayacha Yome Yone Yoshi Yachi Yasha Yashayo Yasu Yui Yuki Yuku Yume Yumi Zen
+		}
+
+		dynasty_title_names = yes
+		
+		prefix = no
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 5
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 20
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+
+		used_for_random = no
+		allow_in_ruler_designer = no
 	}
 }

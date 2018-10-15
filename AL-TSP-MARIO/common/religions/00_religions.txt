@@ -312,7 +312,7 @@ astrotheology = {
 #	}
 }
 
-pagan_group = { # Hard-coded, MUST BE HERE if it can reform
+pagan_group = {
 	has_coa_on_barony_only = yes
 	graphical_culture = westerngfx
 	crusade_cb = crusade
@@ -329,99 +329,6 @@ pagan_group = { # Hard-coded, MUST BE HERE if it can reform
 	}
 	female_names = {
 		
-	}
-
-	twilight_towner_reformed = {
-		ai_peaceful = yes
-		
-		graphical_culture = westerngfx
-
-		icon = 69
-		heresy_icon = 70
-		
-		color = { 0.25 0.64 1 }
-		
-		crusade_name = PACIFICATION
-		scripture_name = IMMORTAL_BELLS
-		priest_title = PRIEST
-		
-		high_god_name = GOD_LUNAR
-		
-		god_names = {
-			GOD_LUNAR GOD_LUNA2 GOD_LUNAR3 GOD_POWER_MOONS GOD_CREEPY_STEEPLE THE_LUNAR
-		}
-		
-		evil_god_names = {
-			DOOPLISS THE_PIGS SWINE_LORD
-		}
-		
-		intermarry = astrotheology
-		intermarry = dogmatic
-		intermarry = personality_cult
- 		intermarry = outlaw
-		intermarry = lunatheology
-		
-		investiture = yes
-		can_have_antipopes = no
-		can_excommunicate = yes
-		can_grant_divorce = yes
-		can_grant_invasion_cb = invasion
-		can_grant_claim = yes
-		can_call_crusade = no
-		can_retire_to_monastery = yes
-		priests_can_inherit = no
-		female_temple_holders = no
-		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
-		
-		allow_in_ruler_designer = no
-		
-		religious_clothing_head = 5
-		religious_clothing_priest = 5
-	}
-
-	twilight_towner = {
-		graphical_culture = westerngfx
-
-		icon = 69
-		heresy_icon = 70
-		
-		color = { 0.25 0.64 1 }
-		
-		crusade_name = PACIFICATION
-		scripture_name = IMMORTAL_BELLS
-		priest_title = PRIEST
-		
-		reformed = twilight_towner_reformed
-		
-		high_god_name = GOD_LUNAR
-		
-		god_names = {
-			GOD_LUNAR GOD_LUNA2 GOD_LUNAR3 GOD_POWER_MOONS GOD_CREEPY_STEEPLE
-		}
-		
-		evil_god_names = {
-			DOOPLISS THE_PIGS SWINE_LORD FUNGUS_POCUS
-		}
-		
-		intermarry = astrotheology
-		intermarry = dogmatic
-		intermarry = personality_cult
- 		intermarry = outlaw
-		intermarry = lunatheology
-		
-		investiture = no
-		can_have_antipopes = no
-		can_excommunicate = no
-		can_grant_divorce = no
-		can_grant_claim = no
-		can_call_crusade = no
-		can_retire_to_monastery = yes
-		priests_can_inherit = no
-		female_temple_holders = no
-		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
-		
-		religious_clothing_head = 5
-		religious_clothing_priest = 5
 	}
 
 	dryite_pagan_reformed = {
@@ -770,7 +677,7 @@ outlaw = {
 		secret_religion = no
 	}
 
-	pirate = {
+	piracy = {
 		graphical_culture = norsegfx
 
 		icon = 5
@@ -983,12 +890,11 @@ lunatheology = {
 		
 		investiture = no
 		can_have_antipopes = no
-		can_excommunicate = yes
-		can_grant_divorce = yes
-		can_grant_invasion_cb = invasion
-		can_grant_claim = yes
+		can_excommunicate = no
+		can_grant_divorce = no
+		can_grant_claim = no
 		can_call_crusade = no
-		can_retire_to_monastery = yes
+		can_retire_to_monastery = no
 		priests_can_inherit = no
 		can_retire_to_monastary = yes
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
@@ -996,6 +902,100 @@ lunatheology = {
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
 	}
+
+	twilight_towner_reformed = {
+		ai_peaceful = yes
+		
+		graphical_culture = westerngfx
+
+		icon = 69
+		heresy_icon = 70
+		
+		color = { 0.25 0.64 1 }
+		
+		crusade_name = PACIFICATION
+		scripture_name = IMMORTAL_BELLS
+		priest_title = PRIEST
+		
+		high_god_name = GOD_LUNAR
+		
+		god_names = {
+			GOD_LUNAR GOD_LUNA2 GOD_LUNAR3 GOD_POWER_MOONS GOD_CREEPY_STEEPLE THE_LUNAR
+		}
+		
+		evil_god_names = {
+			DOOPLISS THE_PIGS SWINE_LORD
+		}
+		
+		intermarry = astrotheology
+		intermarry = dogmatic
+		intermarry = personality_cult
+ 		intermarry = outlaw
+		intermarry = lunatheology
+		
+		investiture = yes
+		can_have_antipopes = no
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = no
+		can_retire_to_monastery = yes
+		priests_can_inherit = no
+		female_temple_holders = no
+		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		
+		allow_in_ruler_designer = no
+		
+		religious_clothing_head = 5
+		religious_clothing_priest = 5
+	}
+
+	twilight_towner = {
+		graphical_culture = westerngfx
+
+		icon = 69
+		heresy_icon = 70
+		
+		color = { 0.25 0.64 1 }
+		
+		crusade_name = PACIFICATION
+		scripture_name = IMMORTAL_BELLS
+		priest_title = PRIEST
+		
+		reformed = twilight_towner_reformed
+		
+		high_god_name = GOD_LUNAR
+		
+		god_names = {
+			GOD_LUNAR GOD_LUNA2 GOD_LUNAR3 GOD_POWER_MOONS GOD_CREEPY_STEEPLE
+		}
+		
+		evil_god_names = {
+			DOOPLISS THE_PIGS SWINE_LORD FUNGUS_POCUS
+		}
+		
+		intermarry = astrotheology
+		intermarry = dogmatic
+		intermarry = personality_cult
+ 		intermarry = outlaw
+		intermarry = lunatheology
+		
+		investiture = no
+		can_have_antipopes = no
+		can_excommunicate = no
+		can_grant_divorce = no
+		can_grant_claim = no
+		can_call_crusade = no
+		can_retire_to_monastery = yes
+		priests_can_inherit = no
+		female_temple_holders = no
+		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		
+		religious_clothing_head = 5
+		religious_clothing_priest = 5
+	}
+
 }
 
 extraterrestrial = {

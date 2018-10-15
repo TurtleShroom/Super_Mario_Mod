@@ -2,9 +2,9 @@
 #1251-1500
 
 1251 = {
-	name = Morton #Bowser's "great-great grandkoop", Morton Sr
+	name = Morton #Bowser's "great-great grand-koop", Morton Sr
 	dynasty = x
-	religion = pirate 
+	religion = piracy
 	culture = x
 	1836.11.27 = { #November 27th is a reference to his only time being mentioned in the episode "Raiders of the Lost Mushroom", the forty-ninth episode of The Super Mario Bros. Super Show!
 		birth = yes
