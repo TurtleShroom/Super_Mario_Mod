@@ -5,7 +5,7 @@
 	name = Pio #Grandpapa Pio Mario, this name was mentioned by Charles, as Mario, in San Diego Comic-Con 2012
 	dynasty = 250
 	religion = seven_stars 
-	culture = mushroom_kingdom
+	culture = mario_brothers
 	1909.7.12 = { #July 12th was when the San Diego Comic-Con 2012 started
 		birth = yes
 	}
@@ -21,7 +21,7 @@
 	name = Mia # Grandmama Mia Mario, this name was mentioned by Charles, as Mario, in San Diego Comic-Con 2012
 	female = yes
 	religion = seven_stars 
-	culture = mushroom_kingdom
+	culture = mario_brothers
 	1904.11.3 = { #November 11th is a reference to her first appearance, "The Great Hereafter", the forty-fifth live-action segment of The Super Mario Bros. Super Show!
 		birth = yes
 	}
@@ -34,7 +34,7 @@
 	name = Marco #Named after Mark Segale, the son of Mario A. Segale who is the man who Mario is named after
 	dynasty = 250
 	religion = seven_stars 
-	culture = mushroom_kingdom
+	culture = mario_brothers
 	father = 251
 	mother = 252
 	1927.8.3 = { #August 3 is a reference to his first appearance in "Super Mario Issun-boshi"
@@ -53,7 +53,7 @@
 	female = yes
 	dynasty = 250
 	religion = seven_stars 
-	culture = mushroom_kingdom
+	culture = mario_brothers
 	father = 251
 	mother = 252
 	1928.9.18 = {  #September 18 is a reference to his first appearance in "Mama Mia Mario", the eleventh live-action segment of The Super Mario Bros. Super Show!
@@ -70,7 +70,7 @@
 255 = {
 	name = Mareeus #Fictional, the name is a made-up variant, just like how Luigeena is a made-up variant of Luigina
 	religion = seven_stars 
-	culture = mushroom_kingdom
+	culture = mario_brothers
 	1928.4.9 = {
 		birth = yes
 	}
@@ -83,7 +83,7 @@
 	name = Mario #Mario of the Mario Brothers
 	dynasty = 250
 	religion = seven_stars 
-	culture = mushroom_kingdom
+	culture = mario_brothers
 	#dna = "00000000000"
 	#properties = "00000000000"
 	father = 253
@@ -109,7 +109,7 @@
 	name = Luigi #Luigi of the Mario Brothers
 	dynasty = 250
 	religion = seven_stars 
-	culture = mushroom_kingdom
+	culture = mario_brothers
 	#dna = "00000000000"
 	#properties = "00000000000"
 	father = 253
@@ -134,7 +134,7 @@
 	female = yes
 	dynasty = 250
 	religion = seven_stars 
-	culture = mushroom_kingdom
+	culture = mario_brothers
 	father = 255
 	mother = 254
 	add_trait = twin
@@ -151,7 +151,7 @@
 	female = yes
 	dynasty = 250
 	religion = seven_stars 
-	culture = mushroom_kingdom
+	culture = mario_brothers
 	father = 255
 	mother = 254
 	add_trait = twin
@@ -169,7 +169,7 @@
 	female = yes
 	dynasty = 250
 	religion = seven_stars 
-	culture = mushroom_kingdom
+	culture = mario_brothers
 	father = 251
 	mother = 252
 	1929.4.11 = { 
@@ -185,7 +185,7 @@
 	female = yes
 	dynasty = 250
 	religion = seven_stars 
-	culture = mushroom_kingdom
+	culture = mario_brothers
 	mother = 259
 	1960.9.22 = {  #September 22 is a reference to his first appearance in "Wild Thing", the fifteenth live-action segment of The Super Mario Bros. Super Show!
 		birth = yes

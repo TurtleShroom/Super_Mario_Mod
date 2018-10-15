@@ -5,7 +5,7 @@
 	name = Satoru #Satoru Iwata
 	dynasty = 1
 	religion = seven_stars #?
-	culture = japanese
+	culture = oriental_men
 	#dna = "00000000000"
 	#properties = "00000000000"
 	disallow_random_traits = yes #I'm trying to stay as faith as I can to the real Iwata but I'm also trying to make sure I don't go overboard with the traits and making him the most OP character in the game
@@ -41,7 +41,7 @@
 2 = {
 	name = Kayoko #Kayoko Iwata
 	religion = seven_stars #?
-	culture = japanese
+	culture = oriental_men
 	1961.6.12 = { #It's actually not know when she was born as the information is not publicly known
 		birth = yes
 	}
@@ -57,7 +57,7 @@
 	name = Masato #There is so little information on Iwata's son that even his name is unknown so I have to fictionalize him, he is gonna be based off of Max from the Pokémon anime as Max's design is based off of him and using influences from Iwata
 	dynasty = 1
 	religion = seven_stars #?
-	culture = japanese
+	culture = oriental_men
 	father = 1
 	mother = 2
 	add_trait = quick
