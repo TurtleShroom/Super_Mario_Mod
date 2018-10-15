@@ -72,6 +72,7 @@
 	}
 	1943.10.4 = {
 		add_trait = scholar #She is a librarian
+		add_trait = erudite
 		add_trait = cruel #She is a bully
 	}
 	1981.7.9 = {
@@ -99,7 +100,7 @@
 	1972.11.27 = {
 		add_trait = ambitious
 	}
-	1981.7.9 = { #Just to be funny, I made Bowser find this religion the same day as when the events of Donkey Kong happens
+	1981.7.9 = { #Just to be funny, I made Bowser found this religion the same day as when the events of Donkey Kong happens
 		religion = bowser_religion
 	}
 	1985.9.13 = { #On this date, the events of Super Mario Bros happens
@@ -128,6 +129,7 @@
 	1976.6.19 = {
 		add_trait = scholar
 		add_trait = erudite
+		add_trait = shy
 	}
 	1981.7.9 = {
 		religion = bowser_religion

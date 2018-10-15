@@ -4,7 +4,7 @@
 4751 = {
 	name = Johnny #Fictional
 	dynasty = x
-	religion = temple_of_forms
+	religion = temple_of_form
 	culture = x
 	add_trait = tall
 	1922.6.1 = {
@@ -21,7 +21,7 @@
 4752 = {
 	name = Jennie #Fictional
 	female = yes
-	religion = temple_of_forms
+	religion = temple_of_form
 	culture = x
 	1923.6.1 = {
   		birth = yes
@@ -34,7 +34,7 @@
 4753 = {
 	name = Jimmy #Jimmy P.
 	dynasty = x
-	religion = temple_of_forms
+	religion = temple_of_form
 	culture = x
 	#dna = "00000000000"
 	#properties = "00000000000"
@@ -51,7 +51,7 @@
 4754 = {
 	name = James #Fictional
 	dynasty = x
-	religion = temple_of_forms
+	religion = temple_of_form
 	culture = x
 	father = 4751
 	mother = 4752
@@ -67,7 +67,7 @@
 	name = Jamie #Fictional
 	female = yes
 	dynasty = x
-	religion = temple_of_forms
+	religion = temple_of_form
 	culture = x
 	father = 4751
 	mother = 4752

@@ -131,7 +131,7 @@
 }
 
 9910009 = {
-	name = Koopa
+	name = Koopa # This is a Koopa Troopa, not a canonical Mario character
 	religion = greed
 	culture = mushroom_kingdom
 	dynasty = 9900816

@@ -4,7 +4,7 @@
 5501 = {
 	name = One #Fictional
 	dynasty = x
-	religion = temple_of_forms
+	religion = temple_of_form
 	culture = x
 	1943.12.16 = {
   		birth = yes
@@ -18,7 +18,7 @@
 	name = Five #5-Volt
 	female = yes
 	dynasty = x
-	religion = temple_of_forms
+	religion = temple_of_form
 	culture = x
 	#dna = "00000000000"
 	#properties = "00000000000"
@@ -41,7 +41,7 @@
 
 5503 = {
 	name = Four #9-Volt's father
-	religion = temple_of_forms
+	religion = temple_of_form
 	culture = x
 	1972.6.1 = {
   		birth = yes
@@ -57,7 +57,7 @@
 5504 = {
 	name = Nine #9-Volt
 	dynasty = x
-	religion = temple_of_forms
+	religion = temple_of_form
 	culture = x
 	#dna = "00000000000"
 	#properties = "00000000000"
@@ -79,7 +79,7 @@
 5505 = {
 	name = Two #Fictional
 	dynasty = x
-	religion = temple_of_forms
+	religion = temple_of_form
 	culture = x
 	father = 5501
 	1974.6.1 = {
@@ -93,7 +93,7 @@
 5506 = {
 	name = Eighteen #18-Volt
 	dynasty = x
-	religion = temple_of_forms
+	religion = temple_of_form
 	culture = x
 	#dna = "00000000000"
 	#properties = "00000000000"

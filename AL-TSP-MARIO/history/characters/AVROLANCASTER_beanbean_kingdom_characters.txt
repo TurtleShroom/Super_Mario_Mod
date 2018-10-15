@@ -1,6 +1,6 @@
 9930001 = {
 	name = "Bush"
-	religion = seven_stars
+	religion = beanstar_faith
 	culture = beanbean_kingdom
 	
 	
@@ -14,7 +14,7 @@
 
 9930002 = {
 	name = Cork
-	religion = seven_stars
+	religion = beanstar_faith
 	culture = beanbean_kingdom
 	dynasty = 9900303
 	
@@ -28,7 +28,7 @@
 
 9930003 = {
 	name = Cask
-	religion = seven_stars
+	religion = beanstar_faith
 	culture = beanbean_kingdom
 	employer = 9930002
 	dynasty = 9900303
@@ -44,7 +44,7 @@
 
 9930004 = {
 	name = Chuckalola
-	religion = seven_stars
+	religion = beanstar_faith
 	culture = beanbean_kingdom
 	female = yes
 	
@@ -58,7 +58,7 @@
 
 9930005 = {
 	name = Cannellini
-	religion = seven_stars
+	religion = beanstar_faith
 	culture = beanbean_kingdom
 
 	
@@ -86,7 +86,7 @@
 
 9930007 = {
 	name = Coco
-	religion = seven_stars
+	religion = beanstar_faith
 	culture = beanbean_kingdom
 
 	
@@ -100,7 +100,7 @@
 
 9930008 = {
 	name = Gigi
-	religion = seven_stars
+	religion = beanstar_faith
 	culture = beanbean_kingdom
 	female = yes
 	dynasty = 9900310
@@ -116,7 +116,7 @@
 
 9930009 = {
 	name = Merri
-	religion = seven_stars
+	religion = beanstar_faith
 	culture = beanbean_kingdom
 	female = yes
 	employer = 9930008
@@ -133,7 +133,7 @@
 
 9930010 = {
 	name = Boddle
-	religion = seven_stars
+	religion = beanstar_faith
 	culture = beanbean_kingdom
 	
 	
@@ -148,7 +148,7 @@
 
 9930011 = {
 	name = Jojora
-	religion = seven_stars
+	religion = beanstar_faith
 	culture = beanbean_kingdom
 	female = yes
 	

@@ -4,7 +4,7 @@
 3501 = {
 	name = Johnny #Jimmy's father
 	dynasty = x
-	religion = temple_of_forms
+	religion = temple_of_form
 	culture = x
 	add_trait = tall
 	1922.6.1 = {
@@ -21,7 +21,7 @@
 3502 = {
 	name = Jennie #Jimmy's mother
 	female = yes
-	religion = temple_of_forms
+	religion = temple_of_form
 	culture = x
 	1923.6.1 = {
   		birth = yes
@@ -34,7 +34,7 @@
 3503 = {
 	name = Jimmy #Jimmy
 	dynasty = x
-	religion = temple_of_forms
+	religion = temple_of_form
 	culture = x
 	#dna = "00000000000"
 	#properties = "00000000000"
@@ -53,7 +53,7 @@
 3504 = {
 	name = James #Jimmy's brother
 	dynasty = x
-	religion = temple_of_forms
+	religion = temple_of_form
 	culture = x
 	father = 3501
 	mother = 3502
@@ -69,7 +69,7 @@
 	name = Jamie #Jimmy's sister
 	female = yes
 	dynasty = x
-	religion = temple_of_forms
+	religion = temple_of_form
 	culture = x
 	father = 3501
 	mother = 3502

@@ -4,7 +4,7 @@
 5251 = {
 	name = Spitz #Spitz
 	dynasty = x
-	religion = temple_of_forms
+	religion = temple_of_form
 	culture = x
 	#dna = "00000000000"
 	#properties = "00000000000"

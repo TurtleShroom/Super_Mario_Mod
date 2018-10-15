@@ -10,7 +10,7 @@
 	1952.11.17 = { #November 17th is a reference to the release date of Mario & Luigi: Superstar Saga in US
 		birth = yes
 	}
-	2032.11.17 = {
+	2042.11.17 = {
 		death = yes
 	}
 }

@@ -4,7 +4,7 @@
 5001 = {
 	name = Drool #Dribble's father
 	dynasty = x
-	religion = temple_of_forms
+	religion = temple_of_form
 	culture = x
 	1943.6.1 = {
   		birth = yes
@@ -20,7 +20,7 @@
 5002 = {
 	name = Saliva #Dribble's mother
 	female = yes
-	religion = temple_of_forms
+	religion = temple_of_form
 	culture = x
 	1942.6.1 = {
   		birth = yes
@@ -33,7 +33,7 @@
 5003 = {
 	name = Dribble #Dribble
 	dynasty = x
-	religion = temple_of_forms
+	religion = temple_of_form
 	culture = x
 	#dna = "00000000000"
 	#properties = "00000000000"
@@ -53,7 +53,7 @@
 	name = Spittle #Dribble's daughter
 	female = yes
 	dynasty = x
-	religion = temple_of_forms
+	religion = temple_of_form
 	culture = x
 	father = 5003
 	1983.3.18 = {
@@ -69,7 +69,7 @@
 
 5005 = {
 	name = Slobber #Dribble's daughter's husband
-	religion = temple_of_forms
+	religion = temple_of_form
 	culture = x
 	1984.6.1 = {
   		birth = yes

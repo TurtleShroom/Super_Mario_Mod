@@ -1,6 +1,6 @@
 9900000 = {
 	name = Spike
-	religion = greed
+	religion = pirate
 	culture = pirate
 	
 	
@@ -14,7 +14,7 @@
 
 9900001 = {
 	name = Bifun
-	religion = greed
+	religion = pirate
 	culture = pirate
 	
 	
@@ -28,7 +28,7 @@
 
 9900002 = {
 	name = Hinyari
-	religion = greed
+	religion = pirate
 	culture = pirate
 	
 	
@@ -42,7 +42,7 @@
 
 9900003 = {
 	name = Funfun
-	religion = greed
+	religion = pirate
 	culture = pirate
 	
 	
@@ -56,7 +56,7 @@
 
 9900004 = {
 	name = Bobo
-	religion = greed
+	religion = pirate
 	culture = pirate
 
 	
@@ -70,7 +70,7 @@
 
 9900005 = {
 	name = Zenisuki
-	religion = greed
+	religion = pirate
 	culture = pirate
 	
 	
@@ -84,7 +84,7 @@
 
 9900006 = {
 	name = Maple
-	religion = greed
+	religion = pirate
 	culture = pirate
 	dynasty = 9900001
 	female = yes
