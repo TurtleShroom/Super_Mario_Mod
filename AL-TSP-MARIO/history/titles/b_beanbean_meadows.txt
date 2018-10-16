@@ -1,7 +1,3 @@
-
-1984.9.13=
-{
-	holder = 9930000
-	liege = k_beanbean_kingdom
+1984.9.13 = {
+	holder = 1501
 }
-

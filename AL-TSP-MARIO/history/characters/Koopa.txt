@@ -92,6 +92,8 @@
 	#properties = "00000000000"
 	father = 1254
 	mother = 1255
+	add_trait = twin
+	add_trait = strong
 	disallow_random_traits = yes #Done so that Bowser won't get unfitting traits
 	1956.11.27 = { 
 		birth = yes
@@ -116,6 +118,27 @@
 }
 
 1257 = {
+	name = Jeffrey #Bowser's brother, "Blue Bowser", named after Jeffrey Jey, the singer of "Blue (Da Ba Dee)"
+	dynasty = x
+	religion = greed 
+	culture = x
+	father = 1254
+	mother = 1255
+	add_trait = twin
+	add_trait = strong
+	1956.11.27 = { 
+		birth = yes
+		give_nickname = nick_blue_bowser
+	}
+	1981.7.9 = {
+		religion = bowser_religion
+	}
+	2036.11.27 = {
+		death = yes
+	}
+}
+
+1258 = {
 	name = Madonna #Bowser's sister, named after Madonna Louise Ciccone
 	female = yes
 	dynasty = x
@@ -135,24 +158,6 @@
 		religion = bowser_religion
 	}
 	2040.6.19 = {
-		death = yes
-	}
-}
-
-1258 = {
-	name = Jeffrey #Bowser's brother, "Blue Bowser", named after Jeffrey Jey, the singer of "Blue (Da Ba Dee)"
-	dynasty = x
-	religion = greed 
-	culture = x
-	father = 1254
-	mother = 1255
-	1961.6.19 = { 
-		birth = yes
-	}
-	1981.7.9 = {
-		religion = bowser_religion
-	}
-	2041.6.19 = {
 		death = yes
 	}
 }

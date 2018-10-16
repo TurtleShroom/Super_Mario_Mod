@@ -18,6 +18,7 @@ scallywag = {
 			Kuri
 			Skurvy
 			Patches Polly
+			Zenisuki
 
 			#Non-canonical
 			Awabo 
@@ -30,7 +31,6 @@ scallywag = {
 			Morgan_Morgan 
 			Richard_Richard Robert_Robert Roger_Roger 
 			Snake_Snake Spike_Spike 
-			Zenisuki 
 			Robby_Robert
 		}
 		female_names = {

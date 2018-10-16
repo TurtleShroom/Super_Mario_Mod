@@ -66,3 +66,12 @@
 
 #Volt (9-Volt, 5-Volt, 18-Volt)
 #5501-5750
+
+#Munchakoopas (Yoshi)
+#5751-6000
+
+#Syrup (Captain Syrup)
+#6001-6250
+
+#Uca
+#6251-6500

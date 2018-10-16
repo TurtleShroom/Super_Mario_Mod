@@ -1,17 +1,3 @@
-9920000 = {
-	name = "T Yoshisaur"
-	religion = happiness
-	culture = yoshi_island
-	dynasty = 9900206
-	
-	1966.1.1 = { 
-		birth = yes
-	}
-	2066.12.12 = {
-		death = yes
-	}
-}
-
 9920001 = {
 	name = "Yoshi"
 	religion = happiness

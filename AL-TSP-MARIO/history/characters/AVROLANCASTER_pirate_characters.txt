@@ -82,21 +82,6 @@
 	}
 }
 
-9900006 = {
-	name = Maple
-	religion = piracy
-	culture = pirate
-	dynasty = 9900001
-	female = yes
-	
-	1966.1.1 = { 
-		birth = yes
-	}
-	2066.12.12 = {
-		death = yes
-	}
-}
-
 9900007 = {
 	name = Goomba
 	religion = piracy
