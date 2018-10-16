@@ -178,17 +178,3 @@ wish_ask;Make a wish to the Star Spirits.  They may grant your wish, they may no
 grant_wish;This wish shall be granted.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 deny_wish;The wish shall go unanswered.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 wish_ztar;Weaken the power of the Star Spirits and deny one of their faithful a wish.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-
-#Nicknames
-nick_la_koopa;La Koopa;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-nick_kooky;Kooky;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-nick_big_mouth;Big Mouth;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-nick_bully;Bully;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-nick_kootie_pie;Kootie Pie;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-nick_hop;Hop;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-nick_hip;Hip;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-nick_cheatsy;Cheatsy;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-nick_cranky;Cranky;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-nick_wrinkly;Wrinkly;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-nick_blue_bowser;Blue Bowser;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-nick_yoshi;Yoshi;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
