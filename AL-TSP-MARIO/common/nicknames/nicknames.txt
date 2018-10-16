@@ -2,8 +2,10 @@ nick_big_candy = {
 	allow = {
 		higher_real_tier_than = DUKE # Must be a king
 		trait = gluttonous
-		NOT = { is_republic = yes }
-		NOT = { is_theocracy = yes }
+		NOT = {
+			is_republic = yes
+			is_theocracy = yes
+		}
 	}
 	chance = {
 		factor = 20
@@ -20,6 +22,7 @@ nick_big_candy2 = {
 		is_republic = yes
 		NOT = { is_theocracy = yes }
 		NOT = { is_fuedal = yes }
+		NOT = { is_tribal = yes }
 	}
 	chance = {
 		factor = 10
