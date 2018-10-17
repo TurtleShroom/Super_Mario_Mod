@@ -58,3 +58,8 @@
 	name="Border"
 	culture="beanbean_kingdom"
 }
+
+511 = {
+	name="L'oel"
+	culture="beanbean_kingdom"
+}

@@ -1,0 +1,544 @@
+species_alien_generic = { # Aliens that are not Shroobs or Tatanga's warriors
+	opposites = {
+		shroob
+	}
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_ameboid = { # Not sure what this is
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_aminata = { # Not sure what this is
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_anemone = { # Anemone
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_generic_animal = { # Animalistic creatures that don't fall into other categories
+	random = no
+	customizer = no
+}
+
+species_ankiron = { # Ankiron
+	martial = 4 # They carry artillery!
+	defensive_plot_power_modifier = 0.8 # Twenty percent less likely to have plots succeed on them
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_anuboo = { # Anuboo
+	health = 2
+
+	immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_appleby = { # Appleby
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_attacky_sack = { # Attacky Sack
+	ai_rationality = -5
+	ai_ambition = 5
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_balloon_generic = { # Balloon Creature
+	health = -1
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_bandinero = { # Bandinero
+	opposites = {
+		species_crook
+		species_bandit
+	}
+
+	ai_greed = 5
+	ai_honor = -5
+
+	intriuge = 2
+
+	same_opinion = 5
+	opposite_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_bandit = { # Bandit
+	opposites = {
+		species_crook
+		species_bandinero
+	}
+
+	ai_greed = 50
+	ai_honor = -10
+
+	intrigue = 3
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_barney_bubble = { # Barney Bubble
+	opposites = {
+		species_bubble_generic
+	}
+
+	health = 1
+
+	same_opinion = 5
+	opposite_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_beaker = { # Beaker
+	ai_ambition = -5
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_beanish = { # Beanbean Kingdom / Beanish denizens
+	diplomacy = 2
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_belome = { # Belome from SMRPG
+	martial = 4
+	health = 2
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_butt_ugly = { # Birdo and Birdoroo
+	general_opinion = -5
+
+	opposites = {
+		species_the_yoshmeister
+	}
+
+	same_opinion = 10
+	opposite_opinion = 10
+
+	random = no
+	customizer = no
+}
+
+species_bivalve_generic = { # Generic clam, shellfish, oyster, etc. not otherwise covered
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_blockhopper = { Blockhopper
+	defensive_plot_power_modifier = 0.9 # Ten percent less likely to be hurt by plots, they live in bricks
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_blockstepper = { Blockstepper
+	defensive_plot_power_modiifer = 0.9 # Ten percent less likely to be hurt by plots
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_jellyfish = { # Blooper
+	opposites = {
+		species_jelectro
+	}
+
+	same_opinion = 5
+	opposite_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_blowhard = { # Blowhard, a sentient fan
+	opposites = {
+		species_machine
+	}
+
+	immortal = yes # Machines will decay by Event and can be repaired for effective immortality
+
+	same_opinion = 5
+	opposite_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_blurker = { # Blurker
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_blurp = { # Blurp fish, very similar to Cheep Cheeps
+	opposites = {
+		species_fish
+		species_fishbone
+		species_fish_generic
+		species_shark_generic
+	}
+
+	same_opinion = 5
+	opposite_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_mister_vick = { # Bob-ombs / Bobombs / Bombs
+	martial = 4
+
+	ai_rationality = -20 # They are literally suicide bombers
+	ai_ambition = -1
+	ai_zeal = 3
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_bombat = { # Bombat
+	martial = 1
+	learning = 2 # Artificially engineered to surveil their surroundings
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_bombshell_turtle = { # Bombshell Koopas
+	ai_rationality = -5 # Angry and short-tempered
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_dry_helmet_head = { Buzzy Beatle equivalent to Dry Bones
+	same_opinion = 5
+
+	immortal = yes # Dry Bones and equivalents, etc. etc., decay through Event
+
+	random = no
+	customizer = no
+}
+
+species_doughie = { # Boo
+	intrigue = 3
+
+	immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
+
+	ai_honor = -3
+	ai_greed = 3
+	ai_rationality = 2
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_booblah = { # Booblah
+	same_opinion = 5
+
+	immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
+
+	random = no
+	customizer = no
+}
+
+species_shy_guy_ghost = { # Boo Guy (ghost of a Shy Guy)
+	same_opinion = 5
+
+	immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
+
+	random = no
+	customizer = no
+}
+
+species_borp = { # Borp
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_bow_balloon = { # Bow Balloon archers, definitely their own species
+	martial = 4 # Expert archers
+	leader = yes
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_bowser = { # The special breed of Koopa that Bowser is
+	opposites = {
+		species_koopa
+	}
+
+	monthly_character_prestige = 0.1
+
+	general_opinion = -10
+	same_opinion = 20
+	opposite_opinion = 20
+
+	bowser_religion_opinion = 30
+
+	tolerates_personality_cult = yes
+
+	random = no
+	customizer = no
+}
+
+species_brock = { # Brocks
+	defensive_plot_power_modifier = 0.8 # Eighty percent harder to strike with plots, due to being made of blocks
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_brolder = {  # Brolder
+	defensive_plot_power_modifier = 0.5 # Fifty percent harder to strike with plots, they are LITERALLY GIANT ROCKS
+
+	martial = 5
+	intrigue = 1 # They hide unless approached
+
+	ai_ambition = -20 # They are content to hide inside their rock shells
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_broozer = { # Broozer
+	martial = 6 # Literally punching ghosts
+	intrigue = -4 # When all you do is punch, everything looks like a targer
+
+	immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_bubble_generic = { # Bubbles and bubble-like beings that do not fit elsewhere
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_bullet = { # Bullet Bill
+	opposites = {
+		species_torpedo_ted
+		species_missile_bill
+	}
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_bully = { # Bully
+	ai_rationality = -20
+	ai_honor = -5
+	ai_ambition = 5
+
+	martial = 6
+	learning = -4 # Dumb as rocks, simply get pushed into lava
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_bumbleprod = { # Bumbleprod Spiny
+	opposites = {
+		species_spiny
+	}
+
+	martial = 2
+	health = 1
+
+	same_opinion = 5
+	opposite_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_burt = { # Burts
+	learning = -2
+	health = 1
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_buzz = { # Buzz, a type of mechanical bee
+	opposites = {
+		species_beeing
+	}
+
+	immortal = yes # Machines will break down and decay over time, leading to death by Event unless they are repaired
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_helmet_head = { # Buzzy Beatle
+	intrigue = 4 # Protected by hard shell
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_candy_pop = { # Candy Pop, also called Candy Cane
+	incapacitating = yes # Candy Pops cannot move from their spot, though they can swivel around three hundred sixty degrees, for the purpose of the game, they can speak
+
+	martial = -100
+	health = 20 # Long-lived plants
+	tax_income = 12 # One extra coin of income per month, these things literally produce coins
+
+	learning = 6 # They can somehow hold money, power-ups, and so on in their bodies
+	defensive_plot_power_modifier = 0 # Cannot be killed by plot, as Mario can do no harm to them even with maximum power-ups
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_capnap = { 
+	martial = -2 # Always drowsy, but still fast
+	health = 2
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_cataquack = { 
+	martial = 4 # Ridiculously powerful, they can throw Mario tens of feet into the air
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_centipede = { 
+	martial = 4
+
+	immortal = yes # Canonically invincible
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_pac_man = { # Chain Chomp
+	martial = 100
+	learning = -20
+	diplomacy = -20
+	stewardship = -20
+	intrigue = -20
+
+	incapacitating = yes # Literally just dogs, honestly
+
+	same_opinion = 50
+
+	random = no
+	customizer = no
+}
+
+species_charging_chuck = { 
+	martial = 3 # Athletic
+	health = 4 # Athletic
+	diplomacy = 2 # Team spirit
+
+	same_opinion = 20 # Charging Chucks are all athletes and love each other's company
+
+	random = no
+	customizer = no
+}
