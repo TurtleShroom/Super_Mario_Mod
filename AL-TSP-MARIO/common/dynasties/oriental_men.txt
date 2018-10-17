@@ -1,5 +1,5 @@
 1 = {
 	used_for_random = no
 	name = "Iwata"
-	culture = "japanese"
+	culture = "oriental_men"
 }

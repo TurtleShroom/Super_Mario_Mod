@@ -4,9 +4,9 @@
 2751 = {
 	name = Lisa #Mona's mother, note: she should not be in contact with one another as she is always on trips, the name is a pun on Mona Lisa
 	female = yes
-	dynasty = x
+	dynasty = 3001
 	religion = temple_of_form 
-	culture = x
+	culture = diamond_city_men
 	1957.6.1 = {
 		birth = yes
 	}
@@ -18,9 +18,9 @@
 2752 = {
 	name = Mona #Mona
 	female = yes
-	dynasty = x
+	dynasty = 3001
 	religion = temple_of_form 
-	culture = x
+	culture = diamond_city_men
 	#dna = "00000000000"
 	#properties = "00000000000"
 	mother = 2751

@@ -3,9 +3,9 @@
 
 3501 = {
 	name = Johnny #Jimmy's father
-	dynasty = x
+	dynasty = 3002
 	religion = temple_of_form
-	culture = x
+	culture = diamond_city_men
 	add_trait = tall
 	1922.6.1 = {
   		birth = yes
@@ -22,7 +22,7 @@
 	name = Jennie #Jimmy's mother
 	female = yes
 	religion = temple_of_form
-	culture = x
+	culture = diamond_city_men
 	1923.6.1 = {
   		birth = yes
 	}
@@ -33,9 +33,9 @@
 
 3503 = {
 	name = Jimmy #Jimmy
-	dynasty = x
+	dynasty = 3002
 	religion = temple_of_form
-	culture = x
+	culture = diamond_city_men
 	#dna = "00000000000"
 	#properties = "00000000000"
 	father = 3501
@@ -52,9 +52,9 @@
 
 3504 = {
 	name = James #Jimmy's brother
-	dynasty = x
+	dynasty = 3002
 	religion = temple_of_form
-	culture = x
+	culture = diamond_city_men
 	father = 3501
 	mother = 3502
 	1959.6.1 = {
@@ -68,9 +68,9 @@
 3505 = {
 	name = Jamie #Jimmy's sister
 	female = yes
-	dynasty = x
+	dynasty = 3002
 	religion = temple_of_form
-	culture = x
+	culture = diamond_city_men
 	father = 3501
 	mother = 3502
 	1960.6.1 = {

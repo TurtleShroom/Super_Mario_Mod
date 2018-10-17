@@ -3,9 +3,9 @@
 
 5001 = {
 	name = Drool #Dribble's father
-	dynasty = x
+	dynasty = 3005
 	religion = temple_of_form
-	culture = x
+	culture = diamond_city_men
 	1943.6.1 = {
   		birth = yes
 	}
@@ -21,7 +21,7 @@
 	name = Saliva #Dribble's mother
 	female = yes
 	religion = temple_of_form
-	culture = x
+	culture = diamond_city_men
 	1942.6.1 = {
   		birth = yes
 	}
@@ -32,9 +32,9 @@
 
 5003 = {
 	name = Dribble #Dribble
-	dynasty = x
+	dynasty = 3005
 	religion = temple_of_form
-	culture = x
+	culture = diamond_city_men
 	#dna = "00000000000"
 	#properties = "00000000000"
 	father = 5001
@@ -52,9 +52,9 @@
 5004 = {
 	name = Spittle #Dribble's daughter
 	female = yes
-	dynasty = x
+	dynasty = 3005
 	religion = temple_of_form
-	culture = x
+	culture = diamond_city_men
 	father = 5003
 	1983.3.18 = {
   		birth = yes
@@ -70,7 +70,7 @@
 5005 = {
 	name = Slobber #Dribble's daughter's husband
 	religion = temple_of_form
-	culture = x
+	culture = diamond_city_men
 	1984.6.1 = {
   		birth = yes
 	}

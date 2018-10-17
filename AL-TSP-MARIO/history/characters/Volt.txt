@@ -3,9 +3,9 @@
 
 5501 = {
 	name = One #Fictional
-	dynasty = x
+	dynasty = 3007
 	religion = temple_of_form
-	culture = x
+	culture = diamond_city_men
 	1943.12.16 = {
   		birth = yes
 	}
@@ -17,9 +17,9 @@
 5502 = {
 	name = Five #5-Volt
 	female = yes
-	dynasty = x
+	dynasty = 3007
 	religion = temple_of_form
-	culture = x
+	culture = diamond_city_men
 	#dna = "00000000000"
 	#properties = "00000000000"
 	father = 5501
@@ -42,7 +42,7 @@
 5503 = {
 	name = Four #9-Volt's father
 	religion = temple_of_form
-	culture = x
+	culture = diamond_city_men
 	1972.6.1 = {
   		birth = yes
 	}
@@ -56,9 +56,9 @@
 
 5504 = {
 	name = Nine #9-Volt
-	dynasty = x
+	dynasty = 3007
 	religion = temple_of_form
-	culture = x
+	culture = diamond_city_men
 	#dna = "00000000000"
 	#properties = "00000000000"
 	father = 5503
@@ -78,9 +78,9 @@
 
 5505 = {
 	name = Two #Fictional
-	dynasty = x
+	dynasty = 3007
 	religion = temple_of_form
-	culture = x
+	culture = diamond_city_men
 	father = 5501
 	1974.6.1 = {
   		birth = yes
@@ -92,9 +92,9 @@
 
 5506 = {
 	name = Eighteen #18-Volt
-	dynasty = x
+	dynasty = 3007
 	religion = temple_of_form
-	culture = x
+	culture = diamond_city_men
 	#dna = "00000000000"
 	#properties = "00000000000"
 	father = 5505

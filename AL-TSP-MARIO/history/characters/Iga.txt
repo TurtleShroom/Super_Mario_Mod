@@ -3,9 +3,9 @@
 
 4251 = {
 	name = Tanega #Kat and Ana's father, joke on *Tanega*shima
-	dynasty = x
+	dynasty = 2750
 	religion = temple_of_form
-	culture = x
+	culture = ouji_men
 	1969.6.1 = {
   		birth = yes
 	}
@@ -21,7 +21,7 @@
 	name = Shima #Fictional, joke on Tanega*shima*
 	female = yes
 	religion = temple_of_form
-	culture = x
+	culture = ouji_men
 	1969.6.1 = {
   		birth = yes
 	}
@@ -33,9 +33,9 @@
 4253 = {
 	name = Kat #Kat
 	female = yes
-	dynasty = x
+	dynasty = 2750
 	religion = temple_of_form
-	culture = x
+	culture = ouji_men
 	#dna = "00000000000"
 	#properties = "00000000000"
 	father = 4251
@@ -54,9 +54,9 @@
 4254 = {
 	name = Ana #Ana
 	female = yes
-	dynasty = x
+	dynasty = 2750
 	religion = temple_of_form
-	culture = x
+	culture = ouji_men
 	#dna = "00000000000"
 	#properties = "00000000000"
 	father = 4251

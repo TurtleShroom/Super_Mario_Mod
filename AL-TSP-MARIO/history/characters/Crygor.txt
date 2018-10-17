@@ -3,9 +3,9 @@
 
 4501 = {
 	name = Victor #Dr. Crygor, named after Victor Frankenstein since his last name is probably a fusion of "'cryogenics' and the name "Igor," likely in reference to the character from Universal's Frankenstein films."
-	dynasty = x
+	dynasty = 3003
 	religion = temple_of_form
-	culture = x
+	culture = diamond_city_men
 	#dna = "00000000000"
 	#properties = "00000000000"
 	add_trait = genius
@@ -27,9 +27,9 @@
 
 4502 = {
 	name = Adam #Fictional, named after Frankenstein's Monster, who compares himself to Adam
-	dynasty = x
+	dynasty = 3003
 	religion = temple_of_form
-	culture = x
+	culture = diamond_city_men
 	father = 4501
 	1951.6.1 = {
   		birth = yes
@@ -42,9 +42,9 @@
 4503 = {
 	name = Penny #Penny
 	female = yes
-	dynasty = x
+	dynasty = 3003
 	religion = temple_of_form
-	culture = x
+	culture = diamond_city_men
 	#dna = "00000000000"
 	#properties = "00000000000"
 	father = 4502

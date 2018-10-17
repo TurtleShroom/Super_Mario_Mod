@@ -5,7 +5,7 @@
 	name = Wario #Wario
 	dynasty = 273
 	religion = greed 
-	culture = mushroom_kingdom
+	culture = mario_brothers
 	#dna = "00000000000"
 	#properties = "00000000000"
 	add_trait = strong
