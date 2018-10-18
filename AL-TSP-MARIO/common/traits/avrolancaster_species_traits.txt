@@ -9,7 +9,7 @@ species_alien_generic = { # Aliens that are not Shroobs or Tatanga's warriors
 	customizer = no
 }
 
-species_ameboid = { # Not sure what this is
+species_ameboid = { # Ameboid, not an actual amoeba, more like a gel Goomba
 	same_opinion = 5
 
 	random = no
@@ -23,7 +23,7 @@ species_aminata = { # Not sure what this is
 	customizer = no
 }
 
-species_anemone = { # Anemone
+species_anemone = { # Not sure what this is
 	same_opinion = 5
 
 	random = no
@@ -181,8 +181,6 @@ species_belome = { # Belome from SMRPG
 }
 
 species_butt_ugly = { # Birdo and Birdoroo
-	general_opinion = -5
-
 	opposites = {
 		species_the_yoshmeister
 	}

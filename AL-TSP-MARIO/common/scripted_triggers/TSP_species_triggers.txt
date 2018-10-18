@@ -30,6 +30,7 @@ moves_by_levitation = { # Does this character move only or primarily by floating
 
 has_telekinesis = { # This indicates that the character does not have arms and/or legs, but still manipulates objects: almost every bipedal creature in the series can handle objects as if they have hands, even if they do not, e.g. Goomba with a baseball bat, Goompa carrying a badge and repairing a veranda, etc. (if yes, also include in "DOES_NOT_HAVE_HANDS")
 	OR = {
+		trait = species_ameboid
 		trait = species_attacky_sack
 		trait = species_bandinero
 		trait = species_mister_vick # Bob-ombs can pick up items, as shown in "Paper Mario I"
@@ -46,6 +47,7 @@ has_telekinesis = { # This indicates that the character does not have arms and/o
 does_not_have_hands = {  # E.G. Cheep Cheep, Wiggler, etc., if you put it in "HAS_TELEKENISIS", it also goes here but it is not always mutual
 	OR = {
 		trait = quadripedal
+		trait = species_ameboid
 		trait = species_anemone
 		trait = species_ankiron
 		trait = species_attacky_sack
