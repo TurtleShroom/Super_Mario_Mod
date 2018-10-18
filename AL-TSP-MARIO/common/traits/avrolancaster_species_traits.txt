@@ -30,6 +30,16 @@ species_anemone = { # Anemone
 	customizer = no
 }
 
+species_angry_sun = { # Angry Sun
+	martial = 4
+	intrigue = -50 # Completely conspicuous, they give off light
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
 species_generic_animal = { # Animalistic creatures that don't fall into other categories
 	random = no
 	customizer = no
@@ -149,6 +159,17 @@ species_beanish = { # Beanbean Kingdom / Beanish denizens
 	customizer = no
 }
 
+species_beeing = { # Bees, Bee-like creatures, generic apidae-esque insects
+	opposites = {
+		species_buzz
+	}
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
 species_belome = { # Belome from SMRPG
 	martial = 4
 	health = 2
@@ -183,6 +204,8 @@ species_bivalve_generic = { # Generic clam, shellfish, oyster, etc. not otherwis
 species_blockhopper = { Blockhopper
 	defensive_plot_power_modifier = 0.9 # Ten percent less likely to be hurt by plots, they live in bricks
 
+	immortal = yes # Machines die by Event but can survive indefinitely if repaired
+
 	same_opinion = 5
 
 	random = no
@@ -191,6 +214,8 @@ species_blockhopper = { Blockhopper
 
 species_blockstepper = { Blockstepper
 	defensive_plot_power_modiifer = 0.9 # Ten percent less likely to be hurt by plots
+
+	immortal = yes # Machines die by Event but can survive indefinitely if repaired
 
 	same_opinion = 5
 
@@ -337,7 +362,7 @@ species_bow_balloon = { # Bow Balloon archers, definitely their own species
 	customizer = no
 }
 
-species_bowser = { # The special breed of Koopa that Bowser is
+species_bowser = { # The special breed of Koopa that includes Bowser
 	opposites = {
 		species_koopa
 	}
@@ -476,7 +501,7 @@ species_candy_pop = { # Candy Pop, also called Candy Cane
 
 	martial = -100
 	health = 20 # Long-lived plants
-	tax_income = 12 # One extra coin of income per month, these things literally produce coins
+	tax_income = 24 # Two extra coins of income per month, these things literally produce coins
 
 	learning = 6 # They can somehow hold money, power-ups, and so on in their bodies
 	defensive_plot_power_modifier = 0 # Cannot be killed by plot, as Mario can do no harm to them even with maximum power-ups
@@ -532,7 +557,7 @@ species_pac_man = { # Chain Chomp
 	customizer = no
 }
 
-species_charging_chuck = { 
+species_charging_chuck = { # Charging Chuck
 	martial = 3 # Athletic
 	health = 4 # Athletic
 	diplomacy = 2 # Team spirit
@@ -542,3 +567,318 @@ species_charging_chuck = {
 	random = no
 	customizer = no
 }
+
+species_fish  = { # Cheep Cheep
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_cherbil  = { # Cherbil
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_choppah  = { # GET TO DA CHOPPAH!!!
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_chuckorok  = {
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_chuckya  = {
+	martial = 3
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_cluster  = {
+	defensive_plot_power_modifier = 0.7 # Thirty percent less likely to be hit by plots, because they're literal rocks
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_coalbit  = {
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_coconut_generic = {
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_combat = {
+	martial = 1
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_conkdor  = {
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_coocoo  = {
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_corkpedite  = {
+	defensive_plot_power_modifier = 0.9 #  Golem machine of sandstone, plots ten percent less effective
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_crab_generic  = {
+	potential = {
+
+	}
+	opposites = {
+
+	}
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_craw  = {
+	ai_honor = -5
+
+	intrigue = 1
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_crook  = {
+	opposites = {
+		species_bandit
+		species_bandinero
+	}
+
+	intrigue = 3
+	stewardship = 1
+
+	ai_greed = 15
+	ai_honor = -5
+	ai_ambition = 20
+
+	same_opinion = 5
+	opposite_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_dayzee  = {
+	martial = 1  # _CRAYZEE_ DAYZEE
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_digga  = {
+	martial = 2 # Literally living drills
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_dingaling  = {
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_dinosaur_generic  = {
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_doogan  = {
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_dragon_generic  = { # Fire Dragons from "Yoshi's Story" and other generic dragons
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+species_dry_bones  = {
+	same_opinion = 5
+
+	immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
+
+	random = no
+	customizer = no
+}
+
+species_duplighost  = {
+	intrigue = 10
+	martial = -6 # They literally just hit you with their head if they don't transform
+
+	immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_eel_generic  = {
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_eerie  = {
+	same_opinion = 5
+
+	immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
+
+	random = no
+	customizer = no
+}
+
+species_egg_generic  = { # Filler, will not be used, represents eggs in general
+	incapacitating = yes
+
+	random = no
+	customizer = no
+}
+
+species_eggplant  = { # Eggplant Man from "Wrecking Crew"
+	stewardship = 1
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_electrical_being  = { # Creatures that are made up of energy, like Watt
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_wendy_pennies  = { # Evil Penny/Coin: IF YOU PINCH WENDY'S PENNIES, THEY'LL PINCH BACK
+	tax_income = 12 # One additional coin of income per month, these are literally coins
+	stewardship = 3
+	martial = -2
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_eyepiillo  = { # Eyepi'illo
+	potential = {
+
+	}
+	opposites = {
+
+	}
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_fairy_generic  = { # Various fairies, e.g. Banana Fairies
+	learning = 2
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_fire_being  = { # Angry Sun and other creatures of fire
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_fish_generic  = {
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_fishbone  = {
+	
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_  = {
+	potential = {
+
+	}
+	opposites = {
+
+	}
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+defensive_plot_power_modifier

@@ -1,0 +1,156 @@
+can_fly = { # Can this character fly or levitate?
+	OR = {
+		moves_by_levitation = yes # Let's hope you can put Scripted Triggers IN your Scripted Triggers
+		trait = species_angry_sun
+		trait = species_balloon_generic
+		trait = species_buzz
+		trait = species_jellyfish # Blooper
+		trait = species_bubble_generic
+		trait = species_bullet # Bullet Bill
+		trait = species_choppah
+		trait = species_coocoo
+		trait = species_dragon_generic
+		trait = species_fairy_generic
+	}
+}
+
+moves_by_levitation = { # Does this character move only or primarily by floating (if yes, also include in "CAN_FLY")?
+	OR = {
+		trait = species_anuboo
+		trait = species_attacky_sack
+		trait = species_doughie # Boo
+		trait = species_booblah
+		trait = species_shy_guy_ghost # Boo Guy
+		trait = species_cherbil
+		trait = species_dingaling
+		trait = species_electrical_being # E.G. Watt
+		trait = species_eyepiillo
+	}
+}
+
+has_telekinesis = { # This indicates that the character does not have arms and/or legs, but still manipulates objects: almost every bipedal creature in the series can handle objects as if they have hands, even if they do not, e.g. Goomba with a baseball bat, Goompa carrying a badge and repairing a veranda, etc. (if yes, also include in "DOES_NOT_HAVE_HANDS")
+	OR = {
+		trait = species_attacky_sack
+		trait = species_bandinero
+		trait = species_mister_vick # Bob-ombs can pick up items, as shown in "Paper Mario I"
+		trait = species_capnap # Assumed to pick up stuff
+		trait = species_cleft # Clefts can pick up items and interact, as seen in "Paper Mario II"
+		trait = species_dingaling
+		trait = species_wendy_pennies # Evil Penny / Evil Coin
+		trait = species_eye_generic # Mister I and other eyballs
+		trait = species_eyepiillo
+		trait = species_fairy_generic
+	}
+}
+
+does_not_have_hands = {  # E.G. Cheep Cheep, Wiggler, etc., if you put it in "HAS_TELEKENISIS", it also goes here but it is not always mutual
+	OR = {
+		trait = quadripedal
+		trait = species_anemone
+		trait = species_ankiron
+		trait = species_attacky_sack
+		trait = species_balloon_generic
+		trait = species_bandinero
+		trait = species_barney_bubble
+		trait = species_blurker
+		trait = species_mister_vick # Bob-omb
+		trait = species_bombshell_turtle # Bombshell Koopa
+		trait = species_borp
+		trait = species_bully
+		trait = species_bumbleprod
+		trait = species_burt
+		trait = species_helmet_head # Buzzy Beatle
+		trait = species_candy_pop
+		trait = species_capnap
+		trait = species_cataquack
+		trait = species_centipede
+		trait = species_pac_man # Chain Chomp
+		trait = species_bubble_generic
+		trait = species_chuckorok
+		trait = species_cleft
+		trait = species_eel_generic
+		trait = species_wendy_pennies # Evil Penny / Evil Coin
+		trait = species_eye_generic # Mister I and other eyeballs
+		trait = species_eyepiillo
+	}
+}
+
+can_breathe_underwater = { # Can this character survive underwater without surfacing?
+	OR = {
+		is_undead = yes # Let's hope we can have Scripted Triggers in our Scripted Triggers
+		trait = species_bivalve_generic
+		trait = species_jellyfish # Blooper
+		trait = species_blurp
+		trait = species_fish # Cheep Cheep
+		trait = species_crab_generic
+		trait = species_dragon_generic # As they can also live in lava
+		trait = species_eel_generic
+		trait = species_fish_generic
+		trait = species_fishbone
+	}
+}
+
+is_koopa = { # Is this a Koopa Troopa, a Bowser, or creatures like Lakitu?
+	OR = {
+		trait = species_bowser # Bowser's species
+		trait = species_charging_chuck
+		trait = species_dry_bones
+	}
+}
+
+is_goomba = { # Is this a Goomba, Galoomba, Goombo, or other Goomba varient or species? (DO NOT PUT GOOMS HERE, THEY HAVE NO CONNECTION TO GOOMBAS)
+}
+
+is_fish = { # Is this a Fishbone, Cheep Cheep, Big Bertha, Boss Bass, or some other type of fish? (Remember to also put them under "CAN_BREATHE_UNDERWATER". Only put fish here, other underwater creatures don't go here.)
+	OR = {
+		trait = species_blurp
+		trait = species_fish # Cheep Cheep
+		trait = species_fish_generic
+		trait = species_fishbone
+	}
+}
+
+is_human = { # Is this a man?
+}
+
+is_undead = { # Is this creature a ghost, zombie, vampire, reanimated mummy, or other such undead ghoul?
+	OR = {
+		trait = species_anuboo
+		trait = species_dry_helmet_head # Bony Beatle / Dry Buzzy Beatle
+		trait = species_doughie # Boo
+		trait = species_booblah
+		trait = species_shy_guy_ghost # Boo Guy
+		trait = species_broozer
+		trait = species_dry_bones
+		trait = species_fishbone
+	}
+}
+
+machine = { # Is this a sentient, self-aware artificial intelligence, contraption, or robot?
+	OR = {
+		trait = species_blockhopper
+		trait = species_blockstepper
+		trait = species_blowhard
+		trait = species_bullet # Bullet Bill
+		trait = species_buzz
+		trait = species_digga
+		trait = species_dingaling
+	}
+}
+
+bomb = { # Is this character literaly a bomb, does it drop bombs, or does it explode?
+	OR = {
+		trait = species_mister_vick # Bob-omb
+		trait = species_bombat
+		trait = species_bombshell_turtle # Bombshell Koopa
+		trait = species_bullet # Bullet Bill
+		trait = species_chuckya
+	}
+}
+
+is_plant = { # Is this a plant?
+	OR = {
+		trait = dayzee
+		trait = species_eggplant # Eggplant Man
+	}
+}
