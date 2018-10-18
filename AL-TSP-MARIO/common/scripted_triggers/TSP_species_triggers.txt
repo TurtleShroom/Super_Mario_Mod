@@ -11,6 +11,12 @@ can_fly = { # Can this character fly or levitate?
 		trait = species_coocoo
 		trait = species_dragon_generic
 		trait = species_fairy_generic
+		trait = species_flaptack
+		trait = species_goonie
+		trait = species_phanto # Haunted Mask and Phanto
+		trait = species_kanotako
+		trait = species_ghost_generic
+		trait = species_eldritch_abomination # Nightmare beings
 	}
 }
 
@@ -23,13 +29,17 @@ moves_by_levitation = { # Does this character move only or primarily by floating
 		trait = species_shy_guy_ghost # Boo Guy
 		trait = species_cherbil
 		trait = species_dingaling
-		trait = species_electrical_being # E.G. Watt
+		trait = species_electric_generic # E.G. Watt
 		trait = species_eyepiillo
+		trait = species_fuzzball
+		trait = species_phanto # Haunted Mask and Phanto
+		trait = species_piano # As Haunted Chairs can fly, this is a catch-all for haunted furniture
 	}
 }
 
 has_telekinesis = { # This indicates that the character does not have arms and/or legs, but still manipulates objects: almost every bipedal creature in the series can handle objects as if they have hands, even if they do not, e.g. Goomba with a baseball bat, Goompa carrying a badge and repairing a veranda, etc. (if yes, also include in "DOES_NOT_HAVE_HANDS")
 	OR = {
+		is_goomba = yes # Let's hope Scripted Triggers can function inside Scripted Triggers
 		trait = species_ameboid
 		trait = species_attacky_sack
 		trait = species_bandinero
@@ -37,15 +47,26 @@ has_telekinesis = { # This indicates that the character does not have arms and/o
 		trait = species_capnap # Assumed to pick up stuff
 		trait = species_cleft # Clefts can pick up items and interact, as seen in "Paper Mario II"
 		trait = species_dingaling
+		trait = species_electric_generic
 		trait = species_wendy_pennies # Evil Penny / Evil Coin
 		trait = species_eye_generic # Mister I and other eyballs
 		trait = species_eyepiillo
 		trait = species_fairy_generic
+		trait = species_fuzzball
+		trait = species_djinn # Genies
+		trait = species_glurp
+		trait = species_goom
+		trait = species_phanto # Haunted Masks and Phanto
+		trait = species_piano # Ghost powers, this is a generic category for all Haunted Furniture
+		trait = species_marumen # For the purposes of this Mod, it is assumed Marumen can pick things up
+		trait = species_yap # There is no other way for Miss Warp to perform such extraordinary feats as mass teleportation
+		trait = species_monolift # They can pick up rocks despite having no arms
 	}
 }
 
 does_not_have_hands = {  # E.G. Cheep Cheep, Wiggler, etc., if you put it in "HAS_TELEKENISIS", it also goes here but it is not always mutual
 	OR = {
+		is_goomba = yes # Let's hope Scripted Triggers can be inside Scripted Triggers
 		trait = quadripedal
 		trait = species_ameboid
 		trait = species_anemone
@@ -72,14 +93,35 @@ does_not_have_hands = {  # E.G. Cheep Cheep, Wiggler, etc., if you put it in "HA
 		trait = species_cleft
 		trait = species_eel_generic
 		trait = species_wendy_pennies # Evil Penny / Evil Coin
-		trait = species_eye_generic # Mister I and other eyeballs
+		trait = species_eye_generic # Mister I. and other eyeballs
 		trait = species_eyepiillo
+		trait = species_fishbone
+		trait = species_fizzlit
+		trait = species_fuzzball
+		trait = species_glurp
+		trait = species_gobblin
+		trait = species_gooey_goon
+		trait = species_goom
+		trait = species_phanto
+		trait = species_piano # AAAAAAAAAAAGGHHHHH
+		trait = species_jelectro
+		trait = species_kanotako
+		trait = species_manta_ray
+		trait = species_marumen
+		trait = species_milde
+		trait = species_money_bag
+		trait = species_monolift
+		trait = species_muddy_buddy
+		trait = species_neuron
+		trait = species_la_nouze # Nooz
 	}
 }
 
 can_breathe_underwater = { # Can this character survive underwater without surfacing?
 	OR = {
 		is_undead = yes # Let's hope we can have Scripted Triggers in our Scripted Triggers
+		is_gelatinous = yes # All known gelatinous creatures can exist underwater, let's hope Scripted Triggers allow Scripted Triggers to represent this
+		is_fish = yes # Obvious Scripted Trigger inclusion is obvious
 		trait = species_bivalve_generic
 		trait = species_jellyfish # Blooper
 		trait = species_blurp
@@ -89,30 +131,59 @@ can_breathe_underwater = { # Can this character survive underwater without surfa
 		trait = species_eel_generic
 		trait = species_fish_generic
 		trait = species_fishbone
+		trait = species_frog_generic # Unlike in RL, frog beings like Frogfucious and Mario in the Frog Suit can breathe underwater
+		trait = species_yoshi_story_gel_thing # Jelly Ghost / Gelatinous Ghost
+		trait = species_jelectro
+		trait = species_tadpole # Madpoles and Tadpoles
+		trait = species_manta_ray
+		trait = species_mister_eel
+	}
+}
+
+is_living_water = { # Is this creature actually made of, or derived from, any of water's states of matter
+	OR = {
+		trait = species_ice_generic # Freezie, etc., does not include Mister Blizzard
 	}
 }
 
 is_koopa = { # Is this a Koopa Troopa, a Bowser, or creatures like Lakitu?
 	OR = {
+		trait = species_bombshell_turtle # Bombshell Koopa
 		trait = species_bowser # Bowser's species
 		trait = species_charging_chuck
 		trait = species_dry_bones
+		trait = species_lupp # Koopa Troopa
 	}
 }
 
-is_goomba = { # Is this a Goomba, Galoomba, Goombo, or other Goomba varient or species? (DO NOT PUT GOOMS HERE, THEY HAVE NO CONNECTION TO GOOMBAS)
+is_goomba = { # Is this a Goomba, Galoomba, Goombo, Gloomba, or other Goomba varient or species? (DO NOT PUT GOOMS HERE, THEY HAVE NO CONNECTION TO GOOMBAS)
+	OR = {
+		trait = species_galoomba
+		trait = species_chick # Goomba
+		trait = species_sarasaland_chick # Goombo
+		trait = species_chick_ghost # Goomboo / Ghost Goomba
+		trait = species_gromba # Rock Goombas
+		trait = species_ghost_octoomba # Octoboos are technically aliens, but they are so similar to Goombas (and are referred to as such in some manuals) that they are added here
+		trait = species_octoomba
+	}
 }
 
 is_fish = { # Is this a Fishbone, Cheep Cheep, Big Bertha, Boss Bass, or some other type of fish? (Remember to also put them under "CAN_BREATHE_UNDERWATER". Only put fish here, other underwater creatures don't go here.)
 	OR = {
 		trait = species_blurp
+		trait = speices_eel_generic
 		trait = species_fish # Cheep Cheep
 		trait = species_fish_generic
 		trait = species_fishbone
+		trait = species_manta_ray # Manta rays are not fish in RL, they're more like sharks, but for the purpose of this Mod, they are counted with fish
+		trait = species_mister_eel
 	}
 }
 
 is_human = { # Is this a man?
+	OR = {
+		trait = species_men
+	}
 }
 
 is_undead = { # Is this creature a ghost, zombie, vampire, reanimated mummy, or other such undead ghoul?
@@ -125,10 +196,19 @@ is_undead = { # Is this creature a ghost, zombie, vampire, reanimated mummy, or 
 		trait = species_broozer
 		trait = species_dry_bones
 		trait = species_fishbone
+		trait = species_yoshi_story_gel_thing # Jelly Ghost / Gelatinous Ghost
+		trait = species_grim_leecher
+		trait = species_phanto # Haunted Masks and Phanto
+		trait = species_piano # AAAAAAAAAGGGGGHHHHHHHHHH
+		trait = species_hobgoblin
+		trait = species_lantern_ghost
+		trait = species_ghost_generic # "Luigi's Mansion" Ghosts, Portrait Ghosts from the same, and all other ghosts and spirits that do not fit elsewhere
+		trait = species_eldritch_abomination # Nightmare beings
+		trait = species_ghost_octoomba
 	}
 }
 
-machine = { # Is this a sentient, self-aware artificial intelligence, contraption, or robot?
+machine = { # Is this a sentient, self-aware artificial intelligence, contraption, metal-based being, or robot?
 	OR = {
 		trait = species_blockhopper
 		trait = species_blockstepper
@@ -137,16 +217,20 @@ machine = { # Is this a sentient, self-aware artificial intelligence, contraptio
 		trait = species_buzz
 		trait = species_digga
 		trait = species_dingaling
+		trait = species_kaboomba
+		trait = species_machine_generic
 	}
 }
 
-bomb = { # Is this character literaly a bomb, does it drop bombs, or does it explode?
+bomb = { # Is this character literaly a bomb, does it drop, shoot, or throw bombs, or does it explode?
 	OR = {
 		trait = species_mister_vick # Bob-omb
 		trait = species_bombat
 		trait = species_bombshell_turtle # Bombshell Koopa
 		trait = species_bullet # Bullet Bill
 		trait = species_chuckya
+		trait = species_kaboomba
+		trait = species_konotako
 	}
 }
 
@@ -154,5 +238,35 @@ is_plant = { # Is this a plant?
 	OR = {
 		trait = dayzee
 		trait = species_eggplant # Eggplant Man
+	}
+}
+
+is_electrical = { # Is this creature made up of electricity or pure energy, or does it have electrical powers?
+	OR = {
+		trait = species_fizzlit
+		trait = species_electric_generic
+		trait = species_jelectro
+	}
+}
+
+is_gelatinous = { # Is this creature comprised of gel, jelly, a gelatinous substance, or a cell membrane?
+	OR = {
+		trait = species_ameboid
+		trait = species_yoshi_story_gel_thing # Jelly Ghost / Gelatinous Ghost
+		trait = species_gooey_goon
+	}
+}
+
+is_shy_guy = { # Is this a Shy Guy or a masked creature related to Shy Guys?
+	OR = {
+		trait = species_bandit # Bandits do not wear masks, but they are still a type of Shy Guy
+		trait = species_shy_guy_ghost # Boo Guy
+		trait = species_grim_leecher
+	}
+}
+
+is_cloud = {
+	OR = {
+		trait = species_cloud_generic # Mallow, Huff-and-Puff, etc.
 	}
 }

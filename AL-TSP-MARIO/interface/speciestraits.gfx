@@ -464,7 +464,7 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_trait_species_cloud_being"
+		name = "GFX_trait_species_cloud_generic"
 		texturefile = "gfx/traits/species/CloudBeing.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -648,7 +648,7 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_trait_species_electrical_being"
+		name = "GFX_trait_species_electric_generic"
 		texturefile = "gfx/traits/species/ElectricalBeing.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -688,7 +688,7 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_trait_species_fire_being"
+		name = "GFX_trait_species_fire_generic"
 		texturefile = "gfx/traits/species/FireBeing.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -800,7 +800,7 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_trait_species_gobbling"
+		name = "GFX_trait_species_gobblin"
 		texturefile = "gfx/traits/species/Gobblin.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -904,7 +904,7 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_trait_species_huffenpuffin"
+		name = "GFX_trait_species_puffin"
 		texturefile = "gfx/traits/species/HuffinPuffin.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -1008,7 +1008,7 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_trait_species_machine"
+		name = "GFX_trait_species_machine_generic"
 		texturefile = "gfx/traits/species/Machine.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -1016,7 +1016,7 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_trait_species_madpole"
+		name = "GFX_trait_species_tadpole"
 		texturefile = "gfx/traits/species/Madpole.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -1088,7 +1088,7 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_trait_species_living_checkpoint"
+		name = "GFX_trait_species_yap"
 		texturefile = "gfx/traits/species/MissWarp.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -1176,7 +1176,7 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_trait_species_ninja"
+		name = "GFX_trait_species_ninji"
 		texturefile = "gfx/traits/species/Ninji.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -1200,7 +1200,7 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_trait_species_octoboo"
+		name = "GFX_trait_species_ghost_octoomba"
 		texturefile = "gfx/traits/species/Octoboo.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -1368,7 +1368,7 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_trait_species_paper_mario_shadow_sister"
+		name = "GFX_trait_species_shadow_sister"
 		texturefile = "gfx/traits/species/ShadowBeing.tga"
 		noOfFrames = 1
 		norefcount = yes
