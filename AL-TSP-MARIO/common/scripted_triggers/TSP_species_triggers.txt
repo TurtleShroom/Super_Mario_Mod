@@ -331,6 +331,7 @@ is_plant = { # Is this a plant?
 		trait = species_dayzee
 		trait = species_eggplant # Eggplant Man
 		trait = species_biting_flower # Piranha Plant
+		trait = species_pianta
 		trait = species_plant_generic
 		trait = species_pokey
 		trait = species_ptooie
