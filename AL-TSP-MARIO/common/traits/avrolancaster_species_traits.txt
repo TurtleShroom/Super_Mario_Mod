@@ -1,6 +1,7 @@
 species_alien_generic = { # Aliens that are not Shroobs or Tatanga's warriors
 	opposites = {
 		species_shroob
+		species_tatanga
 	}
 
 	same_opinion = 5
@@ -1890,6 +1891,7 @@ species_shark_generic = { # Sharks and shark-like beings that do not fit elsewhe
 species_shroob = { # Shroobs
 	opposites = {
 		species_alien_generic
+		species_tatanga
 	}
 
 	ai_rationality = -999 # The Elder Princess Shroob shot down her own troops and was sealed away by her younger sister
@@ -2054,6 +2056,9 @@ species_true_spike = { # Spike Koopas
 	martial = 1
 
 	same_opinion = 5
+
+	random = no
+	customizer = no
 }
 
 species_spike_creature = { # Not sure what this is, but it is not to be confused with the Spike Koopa
@@ -2191,13 +2196,20 @@ species_taptap = {
 }
 
 species_tatanga = { # Tatanga and the aliens that invaded Sarasaland
+	opposites = {
+		species_alien_generic
+		species_shroob
+	}
+
 	ai_ambition = 1000
 	ai_greed= 100
 	ai_honor = -50
 
 	health = 2
 
-	same_opinion = 5
+	same_opinion = 30
+	general_opinion = -20
+	opposite_opinion = 30
 
 	tolerates_extraterrestrial = yes
 
