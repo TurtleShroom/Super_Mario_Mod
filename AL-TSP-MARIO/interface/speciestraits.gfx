@@ -144,6 +144,14 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_trait_species_BIG_BERTHA"
+		texturefile = "gfx/traits/species/GREATBIGBERTHA.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
 		name = "GFX_trait_species_butt_ugly"
 		texturefile = "gfx/traits/species/Birdo.tga"
 		noOfFrames = 1
@@ -266,6 +274,14 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_trait_species_borp"
 		texturefile = "gfx/traits/species/Borp.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_species_boss_bass"
+		texturefile = "gfx/traits/species/BossBass.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
@@ -936,6 +952,14 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_trait_species_ishnail_koopa"
+		texturefile = "gfx/traits/species/IshnailKoopa.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
 		name = "GFX_trait_species_jelectro"
 		texturefile = "gfx/traits/species/Jelectro.tga"
 		noOfFrames = 1
@@ -994,6 +1018,14 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_trait_species_kremling"
 		texturefile = "gfx/traits/species/Kremling.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_species_birdie"
+		texturefile = "gfx/traits/species/Lakitu.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
@@ -1762,6 +1794,14 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_trait_species_whittle"
 		texturefile = "gfx/traits/species/Whittle.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_species_winkle_snail"
+		texturefile = "gfx/traits/species/WinkleSnail.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"

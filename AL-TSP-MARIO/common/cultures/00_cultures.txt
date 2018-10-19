@@ -300,7 +300,7 @@ yoshi = {
 		color = { 0.06 0.53 0 }
 		male_names = {
 			#Canonical
-			Black Blue Boshi_Washi Brown Green "Light Blue" Magenta Orange Pink_Pink Purple Red Washi_Washi White Yellow Yoob "Yo'ster" Yoshi_Yoshi Yoshisaur Yoster
+			Black Blue Boshi_Washi Brown Green "Light Blue" Magenta Orange Pink_Pink Purple Red Washi_Washi White Yellow Yoob "Yo'ster" Yoshi_Yoshi Yoshisaur Yoshmeister Yoster
 			
 			#Non-canonical
 			Barney "Burnt Orange" Chartruese Glory Grey_Gray Gray_Gray Hideki Katsuya Koji Shigeru Takashi "Yellow-Orange" Yosh Yoshmeister
@@ -674,13 +674,13 @@ canonical_human_group = {
 
 		male_names = {
 			# Canonical
-			Mario_Mario:300 "Mario Joe"_Mario Luigi_Luigi:300 "Luigi Bob"_Luigi Waluigi:300 Wario:300
+			Mario_Mario:300 "Mario Joe"_Mario Luigi_Luigi:120 "Luigi Bob"_Luigi Waluigi:120 Wario:120
+
+			#Non-canonical
+			Billy_William Marco_Mark Mareeus Rigel
 
 			# Italian filler
 			Abbondanzio Abbondio Abelardo_Abelard Abelino Achille Adalberto_Albert Adelfo Adelmio_Adelmo Adelmo_Adelmo Adone Adriano_Adrian Agapito Agostino_Augustine Aimone Alamanno Alarico_Alaric Albano Alberico Alberto_Albert Albino Alboino Alcide Aldobrandino Aleardo Aleramo Alessandro_Alexander Alessio_Alexis Alighiero Alvise Ambrogio_Ambrosius Amedeo Anastasio_Anastasius  Andrea_Andrew Angelo_Angel Annibale Anselmo_Anselm Antonino_Antoninus Antonio_Antoninus Antoniotto Arcibaldo_Archibald Arderico Armando_Armand Arnolfo_Arnulf Arrigo Arsenio Artemio Ascanio Astorre Atenolfo_Atenulf Attilio Augusto_Augustine Aurelio_Aurelius Ausilio Ausonio Averado Azzo Azzone Baldassarre Baldovino_Baldwin Barnaba_Barnabas Bartolomeo_Bartolomeus Basilio_Basil Bassiano Basso Battista Beltrano_Bertrand Benedetto_Benedict Benvenuto Berardo Bernabò_Barnabas Bernardo_Bernard Berto Bertoldo_Berthold Biagio Bonaventura Bonifacio_Bonifacius Borso Bruno Bruto Buonconte Buoso Callisto_Callistus Camillo_Camillus Candido Cangrande Carlo_Charles Cassio Castore Cataldo Catone Cecco Cesare_Caesar Chiaffredo Chiano Ciro Ciuccio Claudio_Claudius Clemente_Clement Comita Conone Cornelio_Cornelius Corradino Corrado_Konrad Cosimo Cosma_Cosmas Costante Costantino Costanzo Cristoforo_Christopher Damiano_Damian Davide_David Demetrio_Demetrius Dioniso_Dionysus Doménico_Dominic Durante Eduardo_Edward Elio Emmanuele_Manuel Ennio Enrico_Henry Enzio Enzo Ercole_Heracles Eriprando Ermenegildo Ettore_Hector Eugenio_Eugene Ezio Ezzelino Fabrizio Fausto Federigo_Frederick Felice_Felix Ferdinando_Ferdinand Ferruccio Filippo_Philip Fiorello Flavio Folco_Folke Fortunato Fosco Francesco_Francis Fresco Gabriele_Gabriel Gabrino Gaetano Galasso Galeazzo Galeotto Gaspare Gastone_Gaston Gelasio Gentile Geraldo_Gerald Gerardo_Gerard Germano_Germanus Gerolamo Gherardo_Gerard Giacinto_Hyacinth Giacomo_Jacob Gian_John Gianfranco Gianleone Giano_John Giberto Gilberto_Gilbert Giolio Giordano_Jordan Giorgio_George Giovanni_John Giulio_Julius Giuseppe_Joseph Goffredo_Godfrey Gregorio_Gregory Gualtiero_Walter Guarnito Guerrino Guglielmo_William Guido_Guy Guidone_Guy Guigliadore Iacopo_Jacob Igino Innocenzo Ippolito_Hippolytus Isnardo Jacopo_Jacob Lamberto_Lambert Landolfo_Landolf Landone Lanfranco Lattanzio Lazzarino Lazzaro_Lazarus Lealdo Leonardo Leone_Leo Leonello_Lionel Leopoldo Libero Lionello_Lionel Livio Lodovico_Louis Lorenzo_Laurence Luca_Luke Luchino Lucio_Lucius Malacresta Manfredo Manuele_Manuel Marco_Marcus Mariano_Marius Marino Marsiglio Martino_Martin Massimo_Maximus Mastino Matteo_Matthew Merigo Michelangelo Michele_Michael  Napoleone Nazareno Nestore Niccolò_Nicholas Nicola_Nicholas Nino Nolfo Oberto Obizzino Obizzo Oddone Omero Onorio Oreste Orlando Ottavio Ottobono Ottone_Otto Pagano_Pagan Pancrazio Pandolfo_Randolph Paolo_Paul Pasquale_Pascal Patrizio_Patrick Pellegrino Pericle Pietro_Peter Pio Prospero Rafaello_Raphael Radul Raimondo_Raymond Rainero_Rainer Raineri_Rainer Riccardo_Richard Rinaldo_Reinhold Rizzardo Roberto_Robert Rodolfo_Ralph Rolando_Roland Rosso Ruggiero Salinguerra Salvatore_Salvador Salvestro_Silvester Sante_Sancho Saverio Sciarra Sebastiano_Sebastian Secondotto Serafino_Seraphin Sergio Sesto Settimio Severino Severo Silvano Silvestro Simone_Simon Simonetto Sinibaldo Sinucello Sozzo Spinetto Stefano_Stephen Stentore Taddeo Tedaldo Tedice Teodoro_Theodore Tibaldo_Theobald Tiziano Tommaso_Thomas Torgodorio Torquato Ubaldo Uberto Ugo_Hugh Ugoccione Ugolino Umberto_Humbert Urbano_Urban Valentino_Valentin Valerio_Valerius Vincentello Vincenzo_Vincent Virginio Vitale Vittore_Victor Vittorio_Victor Zaccaria_Zachary
-		
-			#Non-canonical
-			Billy_William Marco_Mark Mareeus_Mario Rigel
 		}
 
 		female_names = {
@@ -755,38 +755,17 @@ canonical_human_group = {
 		
 		male_names = {
 			# Canonical
-			Dribble_Dribble:100 Eighteen_Eighteen:100 Five_Five:100 Jimmy_James:100 Mike_Micheal:100 Nine_Nine:100 Spitz_Spitz:100
+			Dribble_Dribble Eighteen_Eighteen Five_Five Jimmy_James:150 Joe_Joseph:150 Mike_Micheal Nine_Nine Spitz_Spitz Wario
 
 			# Made-up filler
-			Yasutada Yasutomo Yasutoshi Yasuyoshi Yasuzane Yoriaki Yorichika Yorifusa Yoriharu Yorihira Yorihisa 
-			Yorikatsu Yorimori Yorioki Yorishige Yoritada Yoritaka Yoritake Yoritoki Yoritsugu Yoritsuna Yoriuji
-			Yoriyasu Yoshiaki Yoshiakira Yoshiari Yoshiatsu Yoshichika Yoshifuyu Yoshiharu Yoshihi Yoshihide 
-			Yoshihira Yoshihiro Yoshihisa Yoshihito Yoshikado Yoshikage Yoshikane Yoshikata Yoshikatsu Yoshikiyo 
-			Yoshikuni Yoshimasa Yoshimasu Yoshimichi Yoshimitsu Yoshimochi Yoshimori Yoshimoto Yoshimune 
-			Yoshimura Yoshinaga Yoshinao Yoshinari Yoshinobu Yoshinori Yoshioki Yoshisada Yoshisaki
-			Yoshisato Yoshishige Yoshisuke Yoshitada Yoshitaka Yoshitake Yoshitane Yoshitatsu Yoshiteru
-			Yoshitoki Yoshitomo Yoshitora Yoshitoshi Yoshitou Yoshitsugu Yoshitsuna Yoshiuji Yoshiyasu 
-			Yoshiyori Yoshiyuki Yoshizane Yoshizumi Yukihiro Yukimasa Yukimori Yukimura Yukinaga Yukishige
+			Anne Amanda Ada April Amphyllis Abigail Alice Adell Amelia Antoinette Arabella Alma Agnes Agatha Barbara Brigit Blanche Bertha Belle Caroline Charlotte Christine Catharine Clementine Clara Constance Claudia Carrie Cora Dolley Dorothy Deborah Daisy Doris Edith Evangeline Elizabeth Esther Emily Emma Ernestine Ethel Flora Frances Florence Gladys Gloria Grace Gertrude Heather Hannah Hermina Harriet Helen Hortense Hope Ida Isabella Joan Jane Julia Josephine Laura Lucy Lydia Lillie Lena Michelle Mary Marta Muriel Mildred Margaret Mercy Mathilda Marion Madeline Marilla Mabel Nancy Noami Nell Olympia Prudence Patricia Pauline Patience Pamela Phoebe Paula Rachel Rebecca Rhoda Rosalie Ruth Rosa Scarlett Sarah Sally Sylvia Susanna Sybil Susa Sophia Tabitha Theodora Victoria Virginia Verina Valeria Winifred Yasutada Yasutomo Yasutoshi Yasuyoshi Yasuzane Yoriaki Yorichika Yorifusa Yoriharu Yorihira Yorihisa Yorikatsu Yorimori Yorioki Yorishige Yoritada Yoritaka Yoritake Yoritoki Yoritsugu Yoritsuna Yoriuji Yoriyasu Yoshiaki Yoshiakira Yoshiari Yoshiatsu Yoshichika Yoshifuyu Yoshiharu Yoshihi Yoshihide Yoshihira Yoshihiro Yoshihisa Yoshihito Yoshikado Yoshikage Yoshikane Yoshikata Yoshikatsu Yoshikiyo Yukihiro Yukimasa Yukimori Yukimura Yukinaga Yukishige
 		}
 		female_names = {
 			# Canonical
-			Ana_Ana:100 Ashley_Ashley:100 Kat_Kat:100 Lulu_Lulu:100 Mona_Monica:100 Penny_Penelope:100
+			Ana_Ana:150 Ashley_Ashley:175 Kat_Kat:150 Lulu_Lulu:150 Mona_Monica:200 Penny_Penelope:150
 
 			# Made-up filler
-			Acha Achacha Ago Agogo Ai Aiyasha Akaka Akashi Aki Ako Akoko Ame Amu Asa Asahi Ate Aya Ayamachi
-			Ayaya Azechi Chacha Chago Chau Chibo Chii Etsu Chima Chise Chiyo Cho Chobo Ei Fuku Fuji Fumi Furi
-			Fusa Fuyo Fuyu Gin Go Gomoji Gou Hagi Haku Hana Haru Hatsu Hatsune Hide Hiko Hina Hiro Hisa 
-			Hochi Hoju Hou Ia Icha Ichako Ichi Ichiba Ima Imaaki Ina Inaka Ine Ino Inu Iemon Ietoki Iori
-			Ira Iro Iroha Ishi Ishika Ito Itoito Itoko Iwa Iya Iyo Kaga Kai Kaji Kaka Kama Kame Kane Kasuga Katsu
-			Kaze Kazusa Kesa Kichi Kichou Kii Kiku Kimi Kin Kinu Kisa Kita Kitsuno Kiyo Kocha Kochiyo Kochou Kofuku
-			Kogou Koi Koishi Koito Koko Koma Komatsu Kon Koto Kou Kowa Koya Koyaya Kubo Kuma Kuni Kurikaka
-			Kyaku Maa Machi Maki Man Mari Masa Masako Mayo Mate Matsu Matsuno Mego Meshi Minoru Minato
-			Mitsu Miya Mono Miwa Moto Muku Mume Mumetsu Naa Nabe Naka Nami Natsu Natsumi Naya Nene Nii
-			Nishi Nue Oku Raku Ren Riri Ruri Ritsu Roku Sachi Sae Sako Sana Sanae Sashi Sayo Sei Seki Sen Sena
-			Shichi Shige Shima Shimo Shina Shizuka Shosho Shou Shuku Some Soyo Sue Sugi Suke Suki Satsu
-			Suwa Tai Take Takechiyo Takematsu Taku Tama Tane Tara Tau Tatsu Tatsuko Tayo Teru Toku Tome
-			Tomo Tomoe Tora Toyo Tsuma Tsune Tsuru Tsuta Tsui Tsuya Tsuyo Uba Ume Uta Wakana Waki
-			Yaya Yayacha Yome Yone Yoshi Yachi Yasha Yashayo Yasu Yui Yuki Yuku Yume Yumi Zen
+			Acha Achacha Ago Agogo Ai Aiyasha Akaka Akashi Aki Ako Akoko Ame Amu Asa Asahi Ate Aya Ayamachi Ayaya Azechi Chacha Chago Chau Chibo Chii Etsu Chima Chise Chiyo Cho Chobo Ei Fuku Fuji Fumi Furi Fusa Fuyo Fuyu Gin Go Gomoji Gou Hagi Haku Hana Haru Hatsu Hatsune Hide Hiko Hina Hiro Hisa Hochi Hoju Hou Ia Icha Ichako Ichi Ichiba Ima Imaaki Ina Inaka Ine Ino Inu Iemon Ietoki Iori Ira Iro Iroha Ishi Ishika Ito Itoito Itoko Iwa Iya Iyo Kaga Kai Kaji Kaka Kama Kame Kane Kasuga Katsu Kaze Kazusa Kesa Kichi Kichou Kii Kiku Kimi Kin Kinu Kisa Kita Kitsuno Kiyo Kocha Kochiyo Kochou Kofuku Kogou Koi Koishi Koito Koko Koma Komatsu Kon Koto Kou Kowa Koya Koyaya Kubo Kuma Kuni Kurikaka Kyaku Maa Machi Maki Man Mari Masa Masako Mayo Mate Matsu Matsuno Mego Meshi Minoru Minato Mitsu Miya Mono Miwa Moto Muku Mume Mumetsu Naa Nabe Naka Nami Natsu Natsumi Naya Nene Nii Nishi Nue Oku Olympia Prudence Patricia Pauline Patience Pamela Phoebe Paula Rachel Rebecca Rhoda Rosalie Ruth Rosa Scarlett Sarah Sally Sylvia Susanna Sybil Susa Sophia Tabitha Theodora Uba Ume Uta Wakana Waki Victoria Virginia Verina Valeria Winifred Yaya Yayacha Yome Yone Yachi Yasha Yashayo Yasu Yui Yuki Yuku Yume Yumi Zen Zerelda
 		}
 		
 		prefix = no
@@ -800,6 +779,8 @@ canonical_human_group = {
 		pat_grm_name_chance = 10
 		mat_grm_name_chance = 20
 		mother_name_chance = 0
+
+		parent = ouji_men
 
 		modifier = default_culture_modifier
 

@@ -16,6 +16,8 @@ species_alien_generic = { # Aliens that are not Shroobs or Tatanga's warriors
 species_ameboid = { # Ameboid, not an actual amoeba, more like a gel Goomba, but not a real Goomba either
 	same_opinion = 5
 
+	fertility = 10 # One thousand percent fertility increase due to mitosis
+
 	random = no
 	customizer = no
 }
@@ -27,7 +29,7 @@ species_aminata = { # Not sure what this is
 	customizer = no
 }
 
-species_anemone = { # Not sure what this is
+species_anemone = { # Sea Anemones from "Yoshi Story"
 	same_opinion = 5
 
 	random = no
@@ -35,10 +37,15 @@ species_anemone = { # Not sure what this is
 }
 
 species_angry_sun = { # Angry Sun
-	martial = 4
+	ai_rationality = -1000
+	ai_ambition = 5
+
+	diplomacy = -2sp
+	martial = 6
 	intrigue = -50 # Completely conspicuous, they give off light
 
-	same_opinion = 5
+	general_opinion = -100 # Angry Suns canonically hate everyone
+	same_opinion = 120
 
 	random = no
 	customizer = no
@@ -50,7 +57,9 @@ species_generic_animal = { # Animalistic creatures that don't fall into other ca
 }
 
 species_ankiron = { # Ankiron
-	martial = 4 # They carry artillery!
+	ai_ambition = 15
+
+	martial = 6 # They carry artillery!
 	defensive_plot_power_modifier = 0.8 # Twenty percent less likely to have plots succeed on them
 
 	same_opinion = 5
@@ -78,7 +87,7 @@ species_appleby = { # Appleby
 }
 
 species_attacky_sack = { # Attacky Sack
-	ai_rationality = -5
+	ai_rationality = -10
 	ai_ambition = 5
 
 	same_opinion = 5
@@ -102,10 +111,10 @@ species_bandinero = { # Bandinero
 		species_bandit
 		species_nabbit
 		species_goom
-		species_goom-ghost
+		species_goom_ghost
 	}
 
-	ai_greed = 5
+	ai_greed = 15
 	ai_honor = -5
 
 	intriuge = 2
@@ -124,7 +133,7 @@ species_bandit = { # Bandit
 		species_nabbit
 	}
 
-	ai_greed = 50
+	ai_greed = 100
 	ai_honor = -10
 
 	intrigue = 3
@@ -140,7 +149,8 @@ species_barney_bubble = { # Barney Bubble
 		species_bubble_generic
 	}
 
-	health = 1
+	martial = -3
+	health = 4
 
 	same_opinion = 5
 	opposite_opinion = 5
@@ -150,7 +160,9 @@ species_barney_bubble = { # Barney Bubble
 }
 
 species_beaker = { # Beaker
-	ai_ambition = -5
+	ai_ambition = -20
+
+	health = 3
 
 	same_opinion = 5
 
@@ -159,7 +171,7 @@ species_beaker = { # Beaker
 }
 
 species_beanish = { # Beanbean Kingdom / Beanish denizens
-	diplomacy = 2
+	diplomacy = 3
 
 	same_opinion = 5
 
@@ -167,7 +179,7 @@ species_beanish = { # Beanbean Kingdom / Beanish denizens
 	customizer = no
 }
 
-species_beeing = { # Bees, Bee-like creatures, generic apidae-esque insects excluding DK's Zingers
+species_beeing = { # Bees, Bee-like creatures, generic apidae-esque insects excluding DK's Zingers (e.g. the bees in "Super Mario Land II")
 	opposites = {
 		species_buzz
 		species_zinger
@@ -184,10 +196,12 @@ species_beeing = { # Bees, Bee-like creatures, generic apidae-esque insects excl
 }
 
 species_belome = { # Belome from SMRPG
-	martial = 4
-	health = 2
+	martial = 6
+	health = 6
 
-	same_opinion = 5
+	fertility = -0.6 # Belomes age slowly, are huge, and rare
+
+	same_opinion = 20
 
 	random = no
 	customizer = no
@@ -198,11 +212,38 @@ species_butt_ugly = { # Birdo and Birdoroo
 		species_the_yoshmeister
 	}
 
-	same_opinion = 10
+	health = 2
+	fertility = 0.2
+
+	same_opinion = 50
 	opposite_opinion = 10
 
 	random = no
 	customizer = no
+}
+
+species_BIG_BERTHA = { # Female, adult Cheep Cheep
+	potential = {
+		female = yes # Male equivalent is Boss Bass
+	}
+
+	opposites = {
+		species_blurp
+		species_fish # Cheep Cheep
+		species_boss_bass
+		species_fish_generic
+	}
+
+	ai_rationality = -50
+	ai_honor = 15
+
+	martial = 4
+	health = 6
+
+	fertility = 5 # Child-rearing and nurturing, they store babies in their mouths for safety
+
+	same_opinion = 20
+	opposite_opinion = 5
 }
 
 species_bivalve_generic = { # Generic clam, shellfish, oyster, etc. not otherwise covered
@@ -226,9 +267,11 @@ species_blockhopper = { Blockhopper
 species_blockstepper = { Blockstepper
 	defensive_plot_power_modiifer = 0.9 # Ten percent less likely to be hurt by plots
 
+	diplomacy = 1
+
 	immortal = yes # Machines die by Event but can survive indefinitely if repaired
 
-	same_opinion = 5
+	same_opinion = 20
 
 	random = no
 	customizer = no
@@ -263,13 +306,17 @@ species_blowhard = { # Blowhard, a sentient fan
 species_blurker = { # Blurker
 	same_opinion = 5
 
+	health = 1
+
 	random = no
 	customizer = no
 }
 
 species_blurp = { # Blurp fish, very similar to Cheep Cheeps
 	opposites = {
-		species_fish
+		species_BIG_BERTHA
+		species_boss_bass
+		species_fish # Cheep Cheep
 		species_fishbone
 		species_fish_generic
 		species_shark_generic
@@ -284,6 +331,7 @@ species_blurp = { # Blurp fish, very similar to Cheep Cheeps
 
 species_mister_vick = { # Bob-ombs / Bobombs / Bombs
 	martial = 4
+	learning = 2
 
 	ai_rationality = -20 # They are literally suicide bombers
 	ai_ambition = -1
@@ -298,6 +346,8 @@ species_mister_vick = { # Bob-ombs / Bobombs / Bombs
 species_bombat = { # Bombat
 	martial = 2
 	learning = 2 # Artificially engineered to surveil their surroundings
+
+	health = 10 # Extremely long-lived
 
 	same_opinion = 5
 
@@ -316,7 +366,7 @@ species_bombshell_turtle = { # Bombshell Koopas
 	customizer = no
 }
 
-species_dry_helmet_head = { Buzzy Beatle equivalent to Dry Bones
+species_dry_helmet_head = { Bony Beatle, the Buzzy Beatle equivalent to Dry Bones
 	same_opinion = 5
 
 	immortal = yes # Dry Bones and equivalents, etc. etc., decay through Event
@@ -326,13 +376,14 @@ species_dry_helmet_head = { Buzzy Beatle equivalent to Dry Bones
 }
 
 species_doughie = { # Boo
+	diplomacy = 5 # Boos coalesce in numbers, e.g. Boolossus
 	intrigue = 3
 
 	immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
 
-	ai_honor = -3
-	ai_greed = 3
-	ai_rationality = 2
+	ai_honor = -5
+	ai_greed = 15
+	ai_rationality = 10
 
 	same_opinion = 5
 
@@ -365,8 +416,35 @@ species_borp = { # Borp
 	customizer = no
 }
 
+species_boss_bass = { # Male, fully grown Cheep Cheep
+	potential = {
+		NOT = { is_female = yes } # Female is the BIG BERTHA
+	}
+
+	opposites = {
+		species_BIG_BERTHA
+		species_blurp
+		species_fish # Cheep Cheep
+		species_fish_generic
+	}
+
+	ai_rationality = -50 #  Man-eaters
+	ai_ambition = 10 # These suckers jump out of the water to eat anything nearby
+	ai_honor = -10 # Canonically, it is implied that some Boss Basses will eat weak Cheep Cheeps
+
+	diplomacy = -6 # Man-eaters
+	martial = 4
+
+	health = 6
+
+	fertility = 5
+	
+	random = no
+	customizer = no
+}
+
 species_bow_balloon = { # Bow Balloon archers, definitely their own species
-	martial = 4 # Expert archers
+	martial = 6 # Expert archers
 	leader = yes
 
 	same_opinion = 5
@@ -380,7 +458,19 @@ species_bowser = { # The special breed of Koopa that includes Bowser
 		species_koopa
 	}
 
-	monthly_character_prestige = 0.1
+	martial = 8
+	diplomacy = 2
+	stewardship = 2
+
+	ai_ambition = 200
+	ai_greed = 200
+	ai_honor = 20 # Bowser is canonically a just ruler
+
+	health = 6
+
+	fertility = -0.75 # Bowsers are slow breeders for balance
+
+	monthly_character_prestige = 0.2
 
 	general_opinion = -10
 	same_opinion = 20
@@ -419,18 +509,28 @@ species_brolder = {  # Brolder
 
 species_broozer = { # Broozer
 	martial = 6 # Literally punching ghosts
-	intrigue = -4 # When all you do is punch, everything looks like a targer
+	intrigue = -3
+	diplomacy = -6 # When all you do is punch, everything looks like a target
+
+	ai_rationality = -20
+	ai_ambition = 20 # When all you do is punch, everything looks like a target
 
 	immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
 
-	same_opinion = 5
+	general_opinion = -5
+	same_opinion = -10
 
 	random = no
 	customizer = no
 }
 
 species_bubble_generic = { # Bubbles and bubble-like beings that do not fit elsewhere
+	opposite = {
+		species_gobblin
+	}
+
 	same_opinion = 5
+	opposite_opinion = 5
 
 	random = no
 	customizer = no
@@ -449,14 +549,19 @@ species_bullet = { # Bullet Bill
 }
 
 species_bully = { # Bully
-	ai_rationality = -20
-	ai_honor = -5
-	ai_ambition = 5
+	ai_rationality = -100
+	ai_honor = -100
+	ai_ambition = 100
+	ai_greed = 100
 
 	martial = 6
-	learning = -4 # Dumb as rocks, simply get pushed into lava
+	learning = -6 # Dumb as rocks, simply get pushed into lava
+	health = 6
 
-	same_opinion = 5
+	priest = yes # Bullies are not actually clergymen, but this tag allows any Bully to serve on the Council as a Spiritual Advisor, so that the AI won't be without one because all the normal qualifiers aren't met
+
+	general_opinion = -30
+	same_opinion = 80
 
 	random = no
 	customizer = no
@@ -478,10 +583,18 @@ species_bumbleprod = { # Bumbleprod Spiny
 }
 
 species_burt = { # Burts
-	learning = -2
+	opposites =  {
+		species_the_yoshmeister # Yoshi
+	}
+
+	ai_ambition = -10 # Generally harmless despite Yoshi's aggression against them
+
+	diplomacy = 4
+	learning = -3
 	health = 1
 
-	same_opinion = 5
+	same_opinion = 20 # Burts are close-knit, social creatures that almost always travel in groups
+	opposite_opinion = -50 # Yoshis HATE Burts
 
 	random = no
 	customizer = no
@@ -503,6 +616,8 @@ species_buzz = { # Buzz, a type of mechanical bee
 }
 
 species_helmet_head = { # Buzzy Beatle
+	defensive_plot_power_modifier = 0.7 # Thirty  percent harder to plot against, due to shell and perceptiveness
+
 	intrigue = 4 # Protected by hard shell
 
 	same_opinion = 5
@@ -512,7 +627,7 @@ species_helmet_head = { # Buzzy Beatle
 }
 
 species_candy_pop = { # Candy Pop, also called Candy Cane
-	incapacitating = yes # Candy Pops cannot move from their spot, though they can swivel around three hundred sixty degrees, for the purpose of the game, they can speak
+	incapacitating = yes # Candy Pops cannot move from their spot, though they can swivel around three hundred sixty degrees, and for the purpose of the game, they can speak
 
 	martial = -100
 	health = 20 # Long-lived plants
@@ -529,7 +644,9 @@ species_candy_pop = { # Candy Pop, also called Candy Cane
 
 species_capnap = { 
 	martial = -2 # Always drowsy, but still fast
-	health = 2
+	health = 4
+
+	fertility = -0.1
 
 	same_opinion = 5
 
@@ -558,7 +675,7 @@ species_centipede = {
 }
 
 species_pac_man = { # Chain Chomp
-	martial = 100
+	martial = 30
 	learning = -20
 	diplomacy = -20
 	stewardship = -20
@@ -573,9 +690,13 @@ species_pac_man = { # Chain Chomp
 }
 
 species_charging_chuck = { # Charging Chuck
+	ai_honor = 20 # Sportsmanship
+	ai_greed = -5
+
 	martial = 3 # Athletic
-	health = 4 # Athletic
 	diplomacy = 2 # Team spirit
+
+	health = 4
 
 	same_opinion = 20 # Charging Chucks are all athletes and love each other's company
 
@@ -583,8 +704,18 @@ species_charging_chuck = { # Charging Chuck
 	customizer = no
 }
 
-species_fish  = { # Cheep Cheep
+species_fish = { # Cheep Cheep
+	opposites = {
+		species_BIG_BERTHA
+		species_blurp
+		species_boss_bass
+		species_fish_generic
+	}
+
+	fertility = -1000 # Only Boss Basses and BIG BERTHAS breed
+
 	same_opinion = 5
+	opposite_opinion = 5
 
 	random = no
 	customizer = no
@@ -598,6 +729,10 @@ species_cherbil  = { # Cherbil
 }
 
 species_choppah  = { # GET TO DA CHOPPAH!!!
+	ai_ambition = -5
+
+	health = 3
+
 	same_opinion = 5
 
 	random = no
@@ -1232,6 +1367,11 @@ species_men = { # Humanity
 }
 
 species_ice_generic = {  # Freezies and such, but not Mister Blizzard
+	opposites = {
+		species_snowman_generic
+		species_water_generic
+	}
+
 	same_opinion = 5
 
 	random = no
@@ -1240,6 +1380,23 @@ species_ice_generic = {  # Freezies and such, but not Mister Blizzard
 
 species_insect_generic = { # Insects that do not otherwise fit into any other Trait
 	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_ishnail_koopa = { # Ishnail, a brown Koopa-esque creature with antennae and a snail shell that leads the Robbo Gang in "Paper Mario II"
+	opposites = {
+		species_slug_generic
+		species_sluggy # Unshaven Sluggy
+		species_winkle_snail
+	}
+
+	ai_honor = -5
+	intrigue = 3
+
+	same_opinion = 5
+	opposite_opinion = 5
 
 	random = no
 	customizer = no
@@ -1637,6 +1794,8 @@ species_ghost_octoomba = { # Octoboo
 
 	immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
 
+	tolerates_extraterrestrial = yes
+
 	same_opinion = 5
 	opposite_opinion = 5
 
@@ -1659,6 +1818,8 @@ species_octoomba = { # Octoomba
 	health = 3
 
 	same_opinion = 5
+
+	tolerates_extraterrestrial
 
 	random = no
 	customizer = no
@@ -1987,14 +2148,16 @@ species_slime_generic = {
 }
 
 species_slug_generic = { # Neon-colored slugs from "Yoshi Story", also includes all other generic slug beings
+	opposites = {
+		species_ishnail_koopa
+		species_sluggy # Unshaven Sluggy
+		species_winkle_snail
+	}
+
 	martial = -6 # Slow, pokey, weak
 	health = 6
 
 	fertility = 0.2
-
-	opposites = {
-		species_sluggy
-	}
 
 	same_opinion = 5
 	opposite_opinion = 5
@@ -2005,7 +2168,9 @@ species_slug_generic = { # Neon-colored slugs from "Yoshi Story", also includes 
 
 species_sluggy = { # Unshaven Sluggy
 	opposites = {
+		species_ishnail_koopa
 		species_slug_generic
+		species_winkle_snail
 	}
 
 	martial = -4
@@ -2055,7 +2220,13 @@ species_snorkel_snake = { # Snorkel Snake / Snorkel Fish / Dragoneel
 }
 
 species_snowman_generic = { # Mister Blizzard and other snowmen
+	opposites = {
+		species_ice_generic
+		species_water_generic
+	}
+
 	same_opinion = 5
+	opposite_opinion = 5
 
 	random = no
 	customizer = no
@@ -2357,12 +2528,32 @@ species_vampire_generic = { # Vampiric creatures
 }
 
 species_water_generic = { # Creatures that are literally water beings, the most notable example being the Nup Enut, as well as others
+	opposites = {
+		species_ice_generic
+		species_snowman_generic
+	}
+
 	health = 4
 
 	same_opinion = 5
 
 	random = no
 	customizer = no
+}
+
+species_winkle_snail = { # Winkle Snail
+	opposites = {
+		species_ishsnail_koopa
+		species_slug_generic
+		species_sluggy
+	}
+
+	stewardship = 3
+
+	ai_ambition = 10
+	ai_greed = 10 # They force people into their Colleseum, take their cash, and make them earn it abck
+
+	same_opinion = 20
 }
 
 species_whittle = { # Whittle

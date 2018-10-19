@@ -1,4 +1,4 @@
-can_fly = { # Can this character fly or levitate?
+can_fly = { # Can this creature fly or levitate?
 	OR = {
 		moves_by_levitation = yes # Let's hope you can put Scripted Triggers IN your Scripted Triggers
 		trait = species_angry_sun
@@ -173,9 +173,11 @@ can_breathe_underwater = { # Can this character survive underwater without surfa
 		is_undead = yes # Let's hope we can have Scripted Triggers in our Scripted Triggers
 		is_gelatinous = yes # All known gelatinous creatures can exist underwater, let's hope Scripted Triggers allow Scripted Triggers to represent this
 		is_fish = yes # Obvious Scripted Trigger inclusion is obvious
+		trait = species_BIG_BERTHA
 		trait = species_bivalve_generic
 		trait = species_jellyfish # Blooper
 		trait = species_blurp
+		trait = species_boss_bass
 		trait = species_fish # Cheep Cheep
 		trait = species_crab_generic
 		trait = species_dragon_generic # As they can also live in lava
@@ -211,10 +213,14 @@ is_living_water = { # Is this creature actually made of, or derived from, any of
 is_koopa = { # Is this a Koopa Troopa, a Bowser, or creatures like Lakitu?
 	OR = {
 		trait = species_bombshell_turtle # Bombshell Koopa
+		trait = species_helmet_head_ghost # Bony Beatle
 		trait = species_bowser # Bowser's species
 		trait = species_charging_chuck
 		trait = species_dry_bones
+		trait = species_helmet_head # Buzzy Beatle
+		trait = species_ishnail_koopa # Ishnail, seen in "Paper Mario II" as lord over the Robbo Gang
 		trait = species_lupp # Koopa Troopa
+		trait = species_birdie # Lakitu
 		trait = species_true_spike # Spike Koopa
 		trait = species_spiny
 		trait = species_toady
@@ -229,14 +235,16 @@ is_goomba = { # Is this a Goomba, Galoomba, Goombo, Gloomba, or other Goomba var
 		trait = species_chick_ghost # Goomboo / Ghost Goomba
 		trait = species_gromba # Rock Goombas
 		trait = species_ghost_octoomba # Octoboos are technically aliens, but they are so similar to Goombas (and are referred to as such in some manuals) that they are added here
-		trait = species_octoomba
+		trait = species_octoomba # See Octoboo entry
 		trait = species_coon_chick # Tanoomba
 	}
 }
 
 is_fish = { # Is this a Fishbone, Cheep Cheep, Big Bertha, Boss Bass, or some other type of fish? (Remember to also put them under "CAN_BREATHE_UNDERWATER". Only put fish here, other underwater creatures don't go here.)
 	OR = {
+		trait = species_BIG_BERTHA
 		trait = species_blurp
+		trait = species_boss_bass
 		trait = speices_eel_generic
 		trait = species_fish # Cheep Cheep
 		trait = species_fish_generic
@@ -319,7 +327,8 @@ bomb = { # Is this character literaly a bomb, does it drop, shoot, or throw bomb
 
 is_plant = { # Is this a plant?
 	OR = {
-		trait = dayzee
+		trait = species_borp
+		trait = species_dayzee
 		trait = species_eggplant # Eggplant Man
 		trait = species_biting_flower # Piranha Plant
 		trait = species_plant_generic
@@ -358,7 +367,5 @@ is_shy_guy = { # Is this a Shy Guy or a masked creature related to Shy Guys?
 }
 
 is_cloud = {
-	OR = {
-		trait = species_cloud_generic # Mallow, Huff-and-Puff, etc.
-	}
+	trait = species_cloud_generic # Mallow, Huff-and-Puff, etc., Mallow's species may get their own Trait
 }
