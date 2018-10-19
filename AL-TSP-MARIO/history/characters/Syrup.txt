@@ -9,6 +9,7 @@
 	culture = pirate
 	#dna = "00000000000"
 	#properties = "00000000000"
+	add_trait = species_men
 	disallow_random_traits = yes #Done so that Captain Syrup won't get unfitting traits
 	1974.1.21 = { #This date is a reference to the release date of Wario Land: Super Mario Land 3 in Japan.
 		birth = yes

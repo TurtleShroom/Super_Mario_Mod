@@ -2,8 +2,7 @@
 	name = Spike
 	religion = piracy
 	culture = pirate
-	
-	
+	add_trait = species_lupp #Specifically, a thorn variant of a Hammer Bro.
 	1966.1.1 = { 
 		birth = yes
 	}
@@ -16,8 +15,7 @@
 	name = Bifun
 	religion = piracy
 	culture = pirate
-	
-	
+	add_trait = species_minotaur
 	1966.1.1 = { 
 		birth = yes
 	}
@@ -30,8 +28,7 @@
 	name = Hinyari
 	religion = piracy
 	culture = pirate
-	
-	
+	add_trait = species_penguin_generic
 	1966.1.1 = { 
 		birth = yes
 	}
@@ -44,8 +41,7 @@
 	name = Funfun
 	religion = piracy
 	culture = pirate
-	
-	
+	add_trait = x #No appropriate species trait
 	1966.1.1 = { 
 		birth = yes
 	}
@@ -58,8 +54,7 @@
 	name = Bobo
 	religion = piracy
 	culture = pirate
-
-	
+	add_trait = x #No appropriate species trait
 	1966.1.1 = { 
 		birth = yes
 	}
@@ -72,8 +67,7 @@
 	name = Zenisuki
 	religion = piracy
 	culture = pirate
-	
-	
+	add_trait = species_zenisuki
 	1966.1.1 = { 
 		birth = yes
 	}
@@ -87,7 +81,7 @@
 	religion = piracy
 	culture = pirate
 	dynasty = 9900011
-	
+	add_trait = species_chick
 	1966.1.1 = { 
 		birth = yes
 	}

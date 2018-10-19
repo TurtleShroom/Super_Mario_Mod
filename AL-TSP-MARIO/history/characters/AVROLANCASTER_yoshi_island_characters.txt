@@ -2,7 +2,7 @@
 	name = "Yoshi"
 	religion = happiness
 	culture = yoshi_island
-	
+	add_trait = species_the_yoshmeister
 	1966.1.1 = { 
 		birth = yes
 	}
@@ -15,7 +15,7 @@
 	name = "Shigeru"
 	religion = happiness
 	culture = yoshi_island
-	
+	add_trait = species_the_yoshmeister #Assuming this is a Yoshi
 	1966.1.1 = { 
 		birth = yes
 	}
@@ -28,7 +28,7 @@
 	name = "Takashi"
 	religion = happiness
 	culture = yoshi_island
-	
+	add_trait = species_the_yoshmeister #Assuming this is a Yoshi
 	1966.1.1 = { 
 		birth = yes
 	}
@@ -41,7 +41,7 @@
 	name = "Katsuya"
 	religion = happiness
 	culture = yoshi_island
-	
+	add_trait = species_the_yoshmeister #Assuming this is a Yoshi
 	1966.1.1 = { 
 		birth = yes
 	}
@@ -54,7 +54,7 @@
 	name = "Hideki"
 	religion = happiness
 	culture = yoshi_island
-	
+	add_trait = species_the_yoshmeister #Assuming this is a Yoshi
 	1966.1.1 = { 
 		birth = yes
 	}
@@ -67,7 +67,7 @@
 	name = "Koji"
 	religion = happiness
 	culture = yoshi_island
-	
+	add_trait = species_the_yoshmeister #Assuming this is a Yoshi
 	1966.1.1 = { 
 		birth = yes
 	}

@@ -3,9 +3,7 @@
 	religion = seven_stars
 	culture = hoohooligan
 	dynasty = 9900404
-
-	
-	
+	add_trait = species_hoohooligan
 	1966.1.1 = { 
 		birth = yes
 	}
@@ -20,7 +18,7 @@
 	culture = hoohooligan
 	dynasty = 9900404
 	employer = 9940000
-	
+	add_trait = species_hoohooligan
 	1966.1.1 = {
 		birth = yes
 	}
@@ -33,7 +31,7 @@
 	name = "Blablanadon"
 	religion = seven_stars
 	culture = hoohooligan
-	
+	add_trait = species_dinosaur_generic
 	1966.1.1 = {
 		birth = yes
 	}
@@ -46,7 +44,7 @@
 	name = "Limbo"
 	religion = seven_stars
 	culture = hoohooligan
-	
+	add_trait = species_lupp
 	1966.1.1 = {
 		birth = yes
 	}

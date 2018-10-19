@@ -6,6 +6,7 @@
 	dynasty = 3005
 	religion = temple_of_form
 	culture = diamond_city_men
+	add_trait = species_generic_animal #Dog
 	1943.6.1 = {
   		birth = yes
 	}
@@ -22,6 +23,7 @@
 	female = yes
 	religion = temple_of_form
 	culture = diamond_city_men
+	add_trait = species_generic_animal #Dog
 	1942.6.1 = {
   		birth = yes
 	}
@@ -39,6 +41,7 @@
 	#properties = "00000000000"
 	father = 5001
 	mother = 5002
+	add_trait = species_generic_animal #Dog
 	disallow_random_traits = yes #Done so that Dribble won't get unfitting traits
 	1963.12.15 = { #December 15th is a reference to the release date of 3DS WarioWare, Inc.: Mega Microgame$! in Australia
   		birth = yes
@@ -56,6 +59,7 @@
 	religion = temple_of_form
 	culture = diamond_city_men
 	father = 5003
+	add_trait = species_generic_animal #Dog
 	1983.3.18 = {
   		birth = yes
 	}
@@ -71,6 +75,7 @@
 	name = Slobber #Dribble's daughter's husband
 	religion = temple_of_form
 	culture = diamond_city_men
+	add_trait = species_generic_animal #Dog
 	1984.6.1 = {
   		birth = yes
 	}

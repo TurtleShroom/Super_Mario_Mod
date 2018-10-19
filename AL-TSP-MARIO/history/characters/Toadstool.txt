@@ -6,6 +6,7 @@
 	dynasty = 252
 	religion = seven_stars 
 	culture = mushroom_kingdom 
+	add_trait = species_men
 	1897.6.1 = { 
 		birth = yes
 	}
@@ -22,6 +23,7 @@
 	female = yes
 	religion = seven_stars 
 	culture = mushroom_kingdom
+	add_trait = species_men
 	1907.11.16 = { #November 16th is a reference to her first appearance in "Little Red Riding Princess", the forty-fourth episode of The Super Mario Bros. Super Show!
 		birth = yes
 	}
@@ -37,6 +39,7 @@
 	culture = mushroom_kingdom
 	father = 2001
 	mother = 2002
+	add_trait = species_men
 	1927.5.15 = { #May 15st is a reference to the release date of Super Mario Bros in EU
 		birth = yes
 	}
@@ -53,6 +56,7 @@
 	female = yes
 	religion = seven_stars 
 	culture = mushroom_kingdom
+	add_trait = species_men
 	1928.6.1 = { 
 		birth = yes
 	}
@@ -69,6 +73,7 @@
 	culture = mushroom_kingdom
 	father = 2001
 	mother = 2002
+	add_trait = species_men
 	1929.6.1 = { 
 		birth = yes
 	}
@@ -87,6 +92,7 @@
 	#properties = "00000000000"
 	father = 2003
 	mother = 2004
+	add_trait = species_men
 	disallow_random_traits = yes #Done so that Peach won't get unfitting traits
 	1957.8.13 = { #September 13th is a reference to the release date of Super Mario Bros in Japan
 		birth = yes

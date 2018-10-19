@@ -3,9 +3,7 @@
 	religion = shine_sprites
 	culture = fish_islands
 	dynasty = 9900600
-
-	
-	
+	add_trait = species_plant_generic #Assuming this is a Pianta
 	1966.1.1 = { 
 		birth = yes
 
@@ -20,9 +18,7 @@
 	religion = greed
 	culture = fish_islands
 	dynasty = 9900603
-
-	
-	
+	add_trait = species_plant_generic #Assuming this is a Pianta
 	1966.1.1 = { 
 		birth = yes
 
@@ -36,8 +32,7 @@
 	name = "Matías"
 	religion = greed
 	culture = fish_islands
-
-	
+	add_trait = species_plant_generic #Assuming this is a Pianta
 	1966.1.1 = { 
 		birth = yes
 
@@ -51,8 +46,7 @@
 	name = "Mateo"
 	religion = shine_sprites
 	culture = fish_islands
-
-	
+	add_trait = species_plant_generic #Assuming this is a Pianta
 	1966.1.1 = { 
 		birth = yes
 
@@ -66,8 +60,7 @@
 	name = "Nicolás"
 	religion = shine_sprites
 	culture = fish_islands
-
-	
+	add_trait = species_plant_generic #Assuming this is a Pianta
 	1966.1.1 = { 
 		birth = yes
 
@@ -81,8 +74,7 @@
 	name = "Alejandro"
 	religion = shine_sprites
 	culture = fish_islands
-
-	
+	add_trait = species_plant_generic #Assuming this is a Pianta
 	1966.1.1 = { 
 		birth = yes
 
@@ -97,9 +89,7 @@
 	religion = greed
 	culture = fish_islands
 	dynasty = 9900601
-
-	
-	
+	add_trait = species_plant_generic #Assuming this is a Pianta
 	1966.1.1 = { 
 		birth = yes
 

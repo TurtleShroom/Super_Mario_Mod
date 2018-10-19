@@ -6,6 +6,7 @@
 	dynasty = x
 	religion = baskism 
 	culture = x
+	add_trait = species_men
 	1928.6.1 = {
 		birth = yes
 	}
@@ -27,6 +28,7 @@
 	#properties = "00000000000"
 	father = 1751
 	mother = 2005 #In the Prima guides for Mario Kart: Double Dash!! and Mario Kart Wii, Daisy is incorrectly stated to be Peach's cousin, however, for this mod, this misinformation is true
+	add_trait = species_men
 	disallow_random_traits = yes #Done so that Daisy won't get unfitting traits
 	1958.4.21 = { #April 24th is a reference to the release date of Super Mario Land in Japan
 		birth = yes

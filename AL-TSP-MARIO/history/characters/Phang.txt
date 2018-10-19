@@ -6,6 +6,7 @@
 	dynasty = 3004
 	religion = temple_of_form
 	culture = diamond_city_men
+	add_trait = species_men
 	add_trait = tall
 	1922.6.1 = {
   		birth = yes
@@ -23,6 +24,7 @@
 	female = yes
 	religion = temple_of_form
 	culture = diamond_city_men
+	add_trait = species_men
 	1923.6.1 = {
   		birth = yes
 	}
@@ -40,6 +42,7 @@
 	#properties = "00000000000"
 	father = 4751
 	mother = 4752
+	add_trait = species_men
 	1958.5.23 = {
   		birth = yes
 	}
@@ -55,6 +58,7 @@
 	culture = diamond_city_men
 	father = 4751
 	mother = 4752
+	add_trait = species_men
 	1959.6.1 = {
   		birth = yes
 	}
@@ -71,6 +75,7 @@
 	culture = diamond_city_men
 	father = 4751
 	mother = 4752
+	add_trait = species_men
 	1960.6.1 = {
   		birth = yes
 	}

@@ -3,7 +3,7 @@
 	culture = "crab_islands"
 }
 
-v01 = {
+2001 = {
 	name = "Cryptolithodes"
 	culture = "crab_islands"
 }

@@ -3,9 +3,7 @@
 	religion = shine_sprites
 	culture = delfino
 	dynasty = 9900520
-
-	
-	
+	add_trait = species_plant_generic #Assuming this is a Pianta
 	1966.1.1 = { 
 		birth = yes
 
@@ -19,9 +17,7 @@
 	name = "Joey"
 	religion = shine_sprites
 	culture = delfino
-
-	
-	
+	add_trait = species_plant_generic #Assuming this is a Pianta
 	1966.1.1 = { 
 		birth = yes
 
@@ -35,9 +31,7 @@
 	name = "Fingers"
 	religion = shine_sprites
 	culture = delfino
-
-	
-	
+	add_trait = species_plant_generic #Assuming this is a Pianta
 	1966.1.1 = { 
 		birth = yes
 
@@ -51,9 +45,7 @@
 	name = "The King"
 	religion = shine_sprites
 	culture = delfino
-
-	
-	
+	add_trait = species_plant_generic #Assuming this is a Pianta
 	1966.1.1 = { 
 		birth = yes
 
@@ -67,9 +59,7 @@
 	name = "Big Sam"
 	religion = shine_sprites
 	culture = delfino
-
-	
-	
+	add_trait = species_plant_generic #Assuming this is a Pianta
 	1966.1.1 = { 
 		birth = yes
 
@@ -83,9 +73,7 @@
 	name = "Batters"
 	religion = shine_sprites
 	culture = delfino
-
-	
-	
+	add_trait = species_plant_generic #Assuming this is a Pianta
 	1966.1.1 = { 
 		birth = yes
 
@@ -99,9 +87,7 @@
 	name = "Big Tuna"
 	religion = shine_sprites
 	culture = delfino
-
-	
-	
+	add_trait = species_plant_generic #Assuming this is a Pianta
 	1966.1.1 = { 
 		birth = yes
 
@@ -115,9 +101,7 @@
 	name = "Tumac"
 	religion = shine_sprites
 	culture = delfino
-
-	
-	
+	add_trait = species_plant_generic #Assuming this is a Pianta
 	1966.1.1 = { 
 		birth = yes
 
@@ -131,9 +115,7 @@
 	name = "Carmine"
 	religion = shine_sprites
 	culture = delfino
-
-	
-	
+	add_trait = species_plant_generic #Assuming this is a Pianta
 	1966.1.1 = { 
 		birth = yes
 
@@ -148,8 +130,7 @@
 	religion = shine_sprites
 	culture = delfino
 	female = yes
-	
-	
+	add_trait = species_plant_generic #Assuming this is a Pianta
 	1966.1.1 = { 
 		birth = yes
 

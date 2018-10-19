@@ -3,9 +3,7 @@
 	religion = shine_sprites
 	culture = turtle_islands
 	dynasty = 9900800
-
-	
-	
+	add_trait = species_plant_generic #Assuming this is a Pianta
 	1966.1.1 = { 
 		birth = yes
 
@@ -19,8 +17,7 @@
 	name = "Marco"
 	religion = shine_sprites
 	culture = turtle_islands
-	
-	
+	add_trait = species_plant_generic #Assuming this is a Pianta
 	1966.1.1 = { 
 		birth = yes
 
@@ -34,8 +31,7 @@
 	name = "Francesco"
 	religion = shine_sprites
 	culture = turtle_islands
-	
-	
+	add_trait = species_plant_generic #Assuming this is a Pianta
 	1966.1.1 = { 
 		birth = yes
 
@@ -49,8 +45,7 @@
 	name = "Luca"
 	religion = shine_sprites
 	culture = turtle_islands
-	
-	
+	add_trait = species_plant_generic #Assuming this is a Pianta
 	1966.1.1 = { 
 		birth = yes
 
@@ -64,8 +59,7 @@
 	name = "Matteo"
 	religion = shine_sprites
 	culture = turtle_islands
-	
-	
+	add_trait = species_plant_generic #Assuming this is a Pianta
 	1966.1.1 = { 
 		birth = yes
 
@@ -79,8 +73,7 @@
 	name = "Alessandro"
 	religion = shine_sprites
 	culture = turtle_islands
-	
-	
+	add_trait = species_plant_generic #Assuming this is a Pianta
 	1966.1.1 = { 
 		birth = yes
 

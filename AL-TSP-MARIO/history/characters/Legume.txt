@@ -7,6 +7,7 @@
 	dynasty = 500
 	religion = beanstar_faith 
 	culture = beanbean_kingdom
+	add_trait = species_beanish
 	1952.11.17 = { #November 17th is a reference to the release date of Mario & Luigi: Superstar Saga in US
 		birth = yes
 	}
@@ -21,6 +22,7 @@
 	religion = beanstar_faith 
 	culture = beanbean_kingdom
 	mother = 1501
+	add_trait = species_beanish
 	add_trait = fair
 	1981.11.21 = { #November 21th is a reference to the release date of Mario & Luigi: Superstar Saga in Japan
 		birth = yes

@@ -6,6 +6,7 @@
 	religion = shine_sprites
 	culture = crab_islands
 	dynasty = 2020
+	add_trait = species_plant_generic #Assuming this is an Pianta
 	1966.1.1 = { 
 		birth = yes
 	}

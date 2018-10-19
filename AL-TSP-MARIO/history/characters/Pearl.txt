@@ -8,6 +8,7 @@
 	culture = diamond_city_men
 	#dna = "00000000000"
 	#properties = "00000000000"
+	add_trait = species_generic_animal #Cat
 	disallow_random_traits = yes #Done so that Spitz won't get unfitting traits
 	1961.12.16 = { #December 16th is a reference to the release date of 3DS WarioWare, Inc.: Mega Microgame$! in Japan
   		birth = yes

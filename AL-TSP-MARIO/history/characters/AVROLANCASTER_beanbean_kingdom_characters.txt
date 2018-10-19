@@ -17,7 +17,7 @@
 	religion = beanstar_faith
 	culture = beanbean_kingdom
 	dynasty = 9900303
-	
+	add_trait = species_beanish
 	1966.1.1 = {
 		birth = yes
 	}
@@ -32,7 +32,7 @@
 	culture = beanbean_kingdom
 	employer = 9930002
 	dynasty = 9900303
-	
+	add_trait = species_beanish
 	1966.1.1 = {
 		birth = yes
 	}
@@ -47,7 +47,7 @@
 	religion = beanstar_faith
 	culture = beanbean_kingdom
 	female = yes
-	
+	add_trait = species_plant_generic
 	1966.1.1 = {
 		birth = yes
 	}
@@ -60,8 +60,7 @@
 	name = Cannellini
 	religion = beanstar_faith
 	culture = beanbean_kingdom
-
-	
+	add_trait = species_beanish #Assuming this is a Beanish
 	1966.1.1 = {
 		birth = yes
 	}
@@ -71,11 +70,10 @@
 }
 
 9930006 = {
-	name = Oho
+	name = Oho #Assuming this is one of the Oho Jee species
 	religion = happiness
 	culture = beanbean_kingdom
-
-	
+	add_trait = x #No appropriate species trait
 	1966.1.1 = {
 		birth = yes
 	}
@@ -88,8 +86,7 @@
 	name = Coco
 	religion = beanstar_faith
 	culture = beanbean_kingdom
-
-	
+	add_trait = species_beanish #Assuming this is a Beanish
 	1966.1.1 = {
 		birth = yes
 	}
@@ -104,8 +101,7 @@
 	culture = beanbean_kingdom
 	female = yes
 	dynasty = 9900310
-	
-	
+	add_trait = species_jelectro #Closest thing to a jellyfish
 	1966.1.1 = {
 		birth = yes
 	}
@@ -121,8 +117,7 @@
 	female = yes
 	employer = 9930008
 	dynasty = 9900310
-	
-	
+	add_trait = species_jelectro #Closest thing to a jellyfish
 	1966.1.1 = {
 		birth = yes
 	}
@@ -135,8 +130,7 @@
 	name = Boddle
 	religion = beanstar_faith
 	culture = beanbean_kingdom
-	
-	
+	add_trait = species_beanish
 	1966.1.1 = {
 		birth = yes
 	}
@@ -151,7 +145,7 @@
 	religion = beanstar_faith
 	culture = beanbean_kingdom
 	female = yes
-	
+	add_trait = species_fairy_generic #Assuming she is a type of Fairy
 	1966.1.1 = {
 		birth = yes
 	}

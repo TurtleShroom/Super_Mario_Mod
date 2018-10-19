@@ -8,6 +8,7 @@
 	culture = oriental_men
 	#dna = "00000000000"
 	#properties = "00000000000"
+	add_trait = species_men
 	disallow_random_traits = yes #I'm trying to stay as faith as I can to the real Iwata but I'm also trying to make sure I don't go overboard with the traits and making him the most OP character in the game
 	1959.12.6 = { 
 		birth = yes
@@ -42,6 +43,7 @@
 	name = Kayoko #Kayoko Iwata
 	religion = seven_stars #?
 	culture = oriental_men
+	add_trait = species_men
 	1961.6.12 = { #It's actually not know when she was born as the information is not publicly known
 		birth = yes
 	}
@@ -60,6 +62,7 @@
 	culture = oriental_men
 	father = 1
 	mother = 2
+	add_trait = species_men
 	add_trait = quick
 	1995.12.5 = { #It's actually not know when he was born as the information is not publicly known, the birthday, December 12th, is a reference to the first episode that Max appears in
 		birth = yes

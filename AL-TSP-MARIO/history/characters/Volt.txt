@@ -6,6 +6,7 @@
 	dynasty = 3007
 	religion = temple_of_form
 	culture = diamond_city_men
+	add_trait = species_men
 	1943.12.16 = {
   		birth = yes
 	}
@@ -23,6 +24,7 @@
 	#dna = "00000000000"
 	#properties = "00000000000"
 	father = 5501
+	add_trait = species_men
 	disallow_random_traits = yes #Done so that 5-Volt won't get unfitting traits
 	1973.10.14 = { #October 14th is a reference to the release date of WarioWare: Twisted! in Japan
   		birth = yes
@@ -43,6 +45,7 @@
 	name = Four #9-Volt's father
 	religion = temple_of_form
 	culture = diamond_city_men
+	add_trait = species_men
 	1972.6.1 = {
   		birth = yes
 	}
@@ -63,6 +66,7 @@
 	#properties = "00000000000"
 	father = 5503
 	mother = 5502
+	add_trait = species_men
 	disallow_random_traits = yes #Done so that 9-Volt won't get unfitting traits
 	1994.12.16 = { #December 16th is a reference to the release date of 3DS WarioWare, Inc.: Mega Microgame$! in EU
   		birth = yes
@@ -82,6 +86,7 @@
 	religion = temple_of_form
 	culture = diamond_city_men
 	father = 5501
+	add_trait = species_men
 	1974.6.1 = {
   		birth = yes
 	}
@@ -98,6 +103,7 @@
 	#dna = "00000000000"
 	#properties = "00000000000"
 	father = 5505
+	add_trait = species_men
 	add_trait = strong
 	add_trait = tall
 	disallow_random_traits = yes #Done so that 18-Volt won't get unfitting traits

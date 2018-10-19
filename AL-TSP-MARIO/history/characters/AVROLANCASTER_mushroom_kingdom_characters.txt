@@ -2,8 +2,7 @@
 	name = Turtle
 	religion = seven_stars
 	culture = mushroom_kingdom
-	
-	
+	add_trait = species_lupp #Assuming this is a Koopa Troopa
 	1966.1.1 = { 
 		birth = yes
 	}
@@ -17,8 +16,7 @@
 	religion = seven_stars
 	culture = mushroom_kingdom
 	dynasty = 9900103
-	
-	
+	add_trait = species_mushroom_boy
 	1966.1.1 = { 
 		birth = yes
 	}
@@ -33,7 +31,7 @@
 	culture = mushroom_kingdom
 	dynasty = 9900103
 	female = yes
-	
+	add_trait = species_mushroom_boy
 	1966.1.1 = { 
 		birth = yes
 	}
@@ -47,7 +45,7 @@
 	religion = seven_stars
 	culture = mushroom_kingdom
 	female = yes
-	
+	add_trait = species_generic_animal #Assuming this is the Hippo from Super Mario Land 2
 	1966.1.1 = { 
 		birth = yes
 	}
@@ -62,7 +60,7 @@
 	culture = mushroom_kingdom
 	dynasty = 9900103
 	female = yes
-	
+	add_trait = species_mushroom_boy
 	1966.1.1 = { 
 		birth = yes
 	}
@@ -77,7 +75,7 @@
 	culture = mushroom_kingdom
 	dynasty = 9900103
 	female = yes
-	
+	add_trait = species_mushroom_boy
 	1926.1.1 = { 
 		birth = yes
 	}
@@ -91,8 +89,7 @@
 	religion = seven_stars
 	culture = mushroom_kingdom
 	dynasty = 9900106
-
-	
+	add_trait = species_mushroom_boy
 	1956.1.1 = { 
 		birth = yes
 	}
@@ -107,7 +104,7 @@
 	culture = mushroom_kingdom
 	dynasty = 9900106
 	employer = 9910006
-	
+	add_trait = species_mushroom_boy
 	1959.1.1 = { 
 		birth = yes
 	}
@@ -120,8 +117,7 @@
 	name = Toadley
 	religion = seven_stars
 	culture = mushroom_kingdom
-
-	
+	add_trait = species_mushroom_boy
 	1959.1.1 = { 
 		birth = yes
 	}
@@ -135,7 +131,7 @@
 	religion = greed
 	culture = mushroom_kingdom
 	dynasty = 9900816
-	
+	add_trait = species_lupp
 	1959.1.1 = { 
 		birth = yes
 	}
