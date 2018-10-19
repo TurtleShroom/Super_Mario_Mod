@@ -1587,6 +1587,20 @@ species_ninji = {
 	customizer = no
 }
 
+species_noki = {
+	opposites = {
+		species_pianta
+	}
+
+	ai_ambition = -20 # Piantas and Nokis are traditionally pacifist, but when the much requested Pianta Imperialism is added by popular demand, this will be counteracted
+
+	same_opinion = 10
+	opposite_opinion = 10
+
+	random = no
+	customizer = no
+}
+
 species_nommon = {
 	opposites = {
 		species_piillo
@@ -1694,6 +1708,25 @@ species_phantamanta = {
 
 	general_opinion = -15
 	same_opinion = 25
+
+	random = no
+	customizer = no
+}
+
+species_pianta = { # Pianta
+	opposites = {
+		species_noki
+	}
+
+	ai_zeal = 10
+	ai_honor = -20 # Isle Delfino is shown to be extremely corrupt and full of crime rings and false testimonies (e.g. Don Pianta and his goons who once lived there), or, at the least, have a completely compromised and non-independent judiciary, as the trial of Mario was not only illegal (Mario is a citizen of the Mushroom Kingdom and not Isle Delfino), it was an excuse by the state to essentially enslave Mario (the framing of Mario in spite of all witnesses saying Shadow Mario was blue, INCLUDING THE WANTED POSTER, and Mario's passport was revoked)
+	ai_ambition = -20 # Delfinites in general are pacifists, when the much-requested Pianta Imperialism is added by popular demand, its followers will have a built-in counter to this
+ 	ai_greed = -10
+
+	diplomacy = 1
+
+	same_opinion = 10
+	opposite_opinion = 10
 
 	random = no
 	customizer = no

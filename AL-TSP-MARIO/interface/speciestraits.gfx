@@ -1184,6 +1184,14 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_trait_species_noki"
+		texturefile = "gfx/traits/species/Noki.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
 		name = "GFX_trait_species_nommon"
 		texturefile = "gfx/traits/species/Nommon.tga"
 		noOfFrames = 1
@@ -1242,6 +1250,14 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_trait_species_phantamanta"
 		texturefile = "gfx/traits/species/Phantamanta.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_species_pianta"
+		texturefile = "gfx/traits/species/Pianta.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
