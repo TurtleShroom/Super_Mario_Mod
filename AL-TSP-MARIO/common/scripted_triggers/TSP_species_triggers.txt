@@ -3,6 +3,7 @@ can_fly = { # Can this character fly or levitate?
 		moves_by_levitation = yes # Let's hope you can put Scripted Triggers IN your Scripted Triggers
 		trait = species_angry_sun
 		trait = species_balloon_generic
+		trait = species_beeing
 		trait = species_buzz
 		trait = species_jellyfish # Blooper
 		trait = species_bubble_generic
@@ -16,7 +17,28 @@ can_fly = { # Can this character fly or levitate?
 		trait = species_phanto # Haunted Mask and Phanto
 		trait = species_kanotako
 		trait = species_ghost_generic
+		trait = species_missile_bill
 		trait = species_eldritch_abomination # Nightmare beings
+		trait = species_phantamanta
+		trait = species_pionpi
+		trait = species_pixl
+		trait = species_plessie
+		trait = species_lava # Podaboo
+		trait = species_ponk
+		trait = species_puffer
+		trait = species_raven
+		trait = species_skeletal_goonie
+		trait = species_smeech
+		trait = species_star_generic
+		trait = species_stu
+		trait = species_blue_pink_butterfly
+		trait = species_hoominagah # Tiki Tak
+		trait = species_toady # Toady
+		trait = species_vampire_generic
+		trait = species_yurarin
+		trait = species_yux
+		trait = species_zenisuki
+		trait = species_zinger
 	}
 }
 
@@ -27,6 +49,7 @@ moves_by_levitation = { # Does this character move only or primarily by floating
 		trait = species_doughie # Boo
 		trait = species_booblah
 		trait = species_shy_guy_ghost # Boo Guy
+		trait = species_bullet # Bullet Bill
 		trait = species_cherbil
 		trait = species_dingaling
 		trait = species_electric_generic # E.G. Watt
@@ -34,6 +57,16 @@ moves_by_levitation = { # Does this character move only or primarily by floating
 		trait = species_fuzzball
 		trait = species_phanto # Haunted Mask and Phanto
 		trait = species_piano # As Haunted Chairs can fly, this is a catch-all for haunted furniture
+		trait = species_missile_bill
+		trait = species_phantamanta
+		trait = species_pionpi
+		trait = species_pixl
+		trait = species_puffer
+		trait = species_blue_pink_butterfly
+		trait = species_hoominagah # Tiki Tak
+		trait = species_toady
+		trait = species_yux
+		trait = species_zenisuki
 	}
 }
 
@@ -61,6 +94,10 @@ has_telekinesis = { # This indicates that the character does not have arms and/o
 		trait = species_marumen # For the purposes of this Mod, it is assumed Marumen can pick things up
 		trait = species_yap # There is no other way for Miss Warp to perform such extraordinary feats as mass teleportation
 		trait = species_monolift # They can pick up rocks despite having no arms
+		trait = species_piillo # Pilloes possess profound psychic and transformational power
+		trait = species_shaman # Psychic powers and spells
+		trait = species_star_generic
+		trait = species_yux
 	}
 }
 
@@ -114,6 +151,20 @@ does_not_have_hands = {  # E.G. Cheep Cheep, Wiggler, etc., if you put it in "HA
 		trait = species_muddy_buddy
 		trait = species_neuron
 		trait = species_la_nouze # Nooz
+		trait = species_biting_flower # Piranha Plant
+		trait = species_puffer
+		trait = species_raven
+		trait = species_sandoon
+		trait = species_sea_cactus
+		trait = species_skipdrill
+		trait = species_slug_generic
+		trait = species_sluggy # Unshaven Sluggies
+		trait = species_slurple
+		trait = species_snake_generic # Includes Cobrats and all other serpents
+		trait = species_star_generic
+		trait = species_taptap
+		trait = species_blue_pink_butterfly
+		trait = species_urchin
 	}
 }
 
@@ -137,12 +188,23 @@ can_breathe_underwater = { # Can this character survive underwater without surfa
 		trait = species_tadpole # Madpoles and Tadpoles
 		trait = species_manta_ray
 		trait = species_mister_eel
+		trait = species_octopus_generic
+		trait = species_porcupine_fish
+		trait = species_sea_cactus
+		trait = species_shark_generic
+		trait = species_tanooki_statue
+		trait = species_living_statue
+		trait = species_hoominagah
+		trait = species_torpedo_ted
+		trait = species_yurarin
 	}
 }
 
 is_living_water = { # Is this creature actually made of, or derived from, any of water's states of matter
 	OR = {
 		trait = species_ice_generic # Freezie, etc., does not include Mister Blizzard
+		trait = species_snowman_generic # Mister Blizzard and other snowmen
+		trait = species_water_generic # Nup Enuts and other creatures comprised of water
 	}
 }
 
@@ -153,6 +215,9 @@ is_koopa = { # Is this a Koopa Troopa, a Bowser, or creatures like Lakitu?
 		trait = species_charging_chuck
 		trait = species_dry_bones
 		trait = species_lupp # Koopa Troopa
+		trait = species_true_spike # Spike Koopa
+		trait = species_spiny
+		trait = species_toady
 	}
 }
 
@@ -165,6 +230,7 @@ is_goomba = { # Is this a Goomba, Galoomba, Goombo, Gloomba, or other Goomba var
 		trait = species_gromba # Rock Goombas
 		trait = species_ghost_octoomba # Octoboos are technically aliens, but they are so similar to Goombas (and are referred to as such in some manuals) that they are added here
 		trait = species_octoomba
+		trait = species_coon_chick # Tanoomba
 	}
 }
 
@@ -177,13 +243,15 @@ is_fish = { # Is this a Fishbone, Cheep Cheep, Big Bertha, Boss Bass, or some ot
 		trait = species_fishbone
 		trait = species_manta_ray # Manta rays are not fish in RL, they're more like sharks, but for the purpose of this Mod, they are counted with fish
 		trait = species_mister_eel
+		trait = species_porcupine_fish
+		trait = species_shark_generic
+		trait = species_snorkel_snake # Snorkel Snake / 	Snorkel Fish / Dragoneel
+		trait = species_urchin # It's a fish, not an actual sea urchin
 	}
 }
 
 is_human = { # Is this a man?
-	OR = {
-		trait = species_men
-	}
+	trait = species_men # Human
 }
 
 is_undead = { # Is this creature a ghost, zombie, vampire, reanimated mummy, or other such undead ghoul?
@@ -205,6 +273,16 @@ is_undead = { # Is this creature a ghost, zombie, vampire, reanimated mummy, or 
 		trait = species_ghost_generic # "Luigi's Mansion" Ghosts, Portrait Ghosts from the same, and all other ghosts and spirits that do not fit elsewhere
 		trait = species_eldritch_abomination # Nightmare beings
 		trait = species_ghost_octoomba
+		trait = species_phantamanta
+		trait = species_pionpi
+		trait = species_shadow_sister # Vivian, Shadow Sirens, etc., males also exist
+		trait = species_skeletal_dragon
+		trait = species_skeletal_goonie
+		trait = species_hoominagah # Tiki Tak
+		trait = species_ghost_kremling # Undead Kremling
+		trait = species_vampire_generic
+		trait = species_goom_ghost
+		trait = species_zenisuki
 	}
 }
 
@@ -219,6 +297,9 @@ machine = { # Is this a sentient, self-aware artificial intelligence, contraptio
 		trait = species_dingaling
 		trait = species_kaboomba
 		trait = species_machine_generic
+		trait = species_missile_bill
+		trait = species_skipdrill
+		trait = species_torpedo_ted
 	}
 }
 
@@ -231,6 +312,8 @@ bomb = { # Is this character literaly a bomb, does it drop, shoot, or throw bomb
 		trait = species_chuckya
 		trait = species_kaboomba
 		trait = species_konotako
+		trait = species_missile_bill
+		trait = species_torpedo_ted
 	}
 }
 
@@ -238,6 +321,11 @@ is_plant = { # Is this a plant?
 	OR = {
 		trait = dayzee
 		trait = species_eggplant # Eggplant Man
+		trait = species_biting_flower # Piranha Plant
+		trait = species_plant_generic
+		trait = species_pokey
+		trait = species_ptooie
+		trait = species_whittle # Made entirely of wood, that's close enough
 	}
 }
 
@@ -246,6 +334,7 @@ is_electrical = { # Is this creature made up of electricity or pure energy, or d
 		trait = species_fizzlit
 		trait = species_electric_generic
 		trait = species_jelectro
+		trait = species_hoominagah # Tiki Tak
 	}
 }
 
@@ -254,6 +343,7 @@ is_gelatinous = { # Is this creature comprised of gel, jelly, a gelatinous subst
 		trait = species_ameboid
 		trait = species_yoshi_story_gel_thing # Jelly Ghost / Gelatinous Ghost
 		trait = species_gooey_goon
+		trait = species_slime_generic
 	}
 }
 
@@ -262,6 +352,8 @@ is_shy_guy = { # Is this a Shy Guy or a masked creature related to Shy Guys?
 		trait = species_bandit # Bandits do not wear masks, but they are still a type of Shy Guy
 		trait = species_shy_guy_ghost # Boo Guy
 		trait = species_grim_leecher
+		trait = species_shy_guy
+		trait = species_snifit
 	}
 }
 

@@ -1,15 +1,18 @@
 species_alien_generic = { # Aliens that are not Shroobs or Tatanga's warriors
 	opposites = {
-		shroob
+		species_shroob
 	}
 
 	same_opinion = 5
+	opposite_opinion = 5
+
+	tolerates_extraterrestrial = yes
 
 	random = no
 	customizer = no
 }
 
-species_ameboid = { # Ameboid, not an actual amoeba, more like a gel Goomba
+species_ameboid = { # Ameboid, not an actual amoeba, more like a gel Goomba, but not a real Goomba either
 	same_opinion = 5
 
 	random = no
@@ -97,6 +100,8 @@ species_bandinero = { # Bandinero
 		species_crook
 		species_bandit
 		species_nabbit
+		species_goom
+		species_goom-ghost
 	}
 
 	ai_greed = 5
@@ -161,12 +166,17 @@ species_beanish = { # Beanbean Kingdom / Beanish denizens
 	customizer = no
 }
 
-species_beeing = { # Bees, Bee-like creatures, generic apidae-esque insects
+species_beeing = { # Bees, Bee-like creatures, generic apidae-esque insects excluding DK's Zingers
 	opposites = {
 		species_buzz
+		species_zinger
 	}
 
-	same_opinion = 5
+	diplomacy = 1
+	martial = 2
+
+	same_opinion = 10
+	opposite_opinion = 10
 
 	random = no
 	customizer = no
@@ -479,11 +489,13 @@ species_burt = { # Burts
 species_buzz = { # Buzz, a type of mechanical bee
 	opposites = {
 		species_beeing
+		species_zinger
 	}
 
 	immortal = yes # Machines will break down and decay over time, leading to death by Event unless they are repaired
 
-	same_opinion = 5
+	same_opinion = 10
+	opposite_opinion = 10
 
 	random = no
 	customizer = no
@@ -957,6 +969,7 @@ species_galoomba  = { # Galoomba
 		trait = species_gromba # Rock Goomba
 		trait = species_ghost_octoomba
 		trait = species_octoomba
+		trait = species_coon_chick # Tanoomba
 	}
 
 	health = 6 # Galoombas can be stomped on and simply turn over, they are by far the safest type of Goomba to be
@@ -1018,6 +1031,11 @@ species_gooey_goon = { # Goo Goon / Gooey Goon
 }
 
 species_goom = { # Goom, a creature with no relation to Goombas
+	opposites = {
+		species_bandinero
+		species_ghost_goom
+	}
+
 	ai_honor = -5
 	ai_greed = 10
 	ai_rationality = -2
@@ -1037,6 +1055,7 @@ species_chick = { # Goomba
 		species_gromba # Rock Goomba
 		species_ghost_octoomba
 		species_octoomba
+		species_coon_chick # Tanoomba
 	}
 	
 	ai_zeal = 3
@@ -1059,6 +1078,7 @@ species_sarasaland_chick = { # Goombo
 		species_gromba # Rock Goomba
 		species_ghost_octoomba
 		species_octoomba
+		species_coon_chick # Tanoomba
 	}
 	health = 4
 	martial = -5
@@ -1078,6 +1098,7 @@ species_chick_ghost = { # Goomboo / Ghost Goomba
 		species_gromba # Rock Goomba
 		species_ghost_octoomba
 		species_octoomba
+		species_coon_chick # Tanoomba
 	}
 
 	defensive_plot_power_modifier = 0.5 # Ghost Goombas are canonically invincible
@@ -1122,6 +1143,7 @@ species_gromba = { # Rock Goomba
 		species_chick_ghost # Goomboo / Ghost Goomba
 		species_ghost_octoomba
 		species_octoomba
+		species_coon_chick # Tanoomba
 	}
 
 	defensive_plot_power_modifier = 0.6 # Literally made of rocks, forty percent harder to plot against
@@ -1415,6 +1437,7 @@ species_milde = { # Yoshi equivalent to Waddle Dees
 
 species_minotaur = { # Bifun is the only known example, he's in the "Wario Land" series
 	martial = 8 # Literally a giant bull
+	learning = -4
 
 	health = 2
 
@@ -1426,7 +1449,19 @@ species_minotaur = { # Bifun is the only known example, he's in the "Wario Land"
 	customizer = no
 }
 
-species_yap = { # The only canonical examples are female (Miss Warp), I always just called them "Yapps", but they are living checkpoints
+species_missile_bill = {
+	opposites = {
+		species_bullet # Bullet Bill
+		species_torpedo_ted
+	}
+
+	martial = 2
+
+	same_opinion = 5
+	opposite_opinion = 5
+}
+
+species_yap = { # The only canonical examples are female (Miss Warp), I always just called them "Yaps" as a little boy, but they are in fact living checkpoints
 	diplomacy = 4
 
 	happiness_opinion = 10 # Loved by Yoshis
@@ -1580,6 +1615,7 @@ species_ghost_octoomba = { # Octoboo
 		species_sarasaland_chick # Goombo
 		species_gromba # Rock Goombas
 		species_octoomba
+		species_coon_chick # Tanoomba
 	}
 
 	martial = -4
@@ -1601,6 +1637,7 @@ species_octoomba = { # Octoomba
 		species_sarasaland_chick # Goombo
 		species_gromba # Rock Goomba
 		species_ghost_octoomba
+		species_coon_chick # Tanoomba
 	}
 
 	martial = -3
@@ -1612,6 +1649,765 @@ species_octoomba = { # Octoomba
 	customizer = no
 }
 
-immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
+species_octopus_generic {
+	stewardship = 2 # Best representation of dexterity I can think of
 
-defensive_plot_power_modifier
+	health = 3 # Octopi can regrow limbs, survive huge physical trauma, and constrict themselves through pipes the size of a man's wrist
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_evil_pathogen { # Contrasted with Good Microbes like the Emoglobins, these are diseases like the classic "Viruses" in "Doctor Mario"
+	opposites = {
+		species_good_microbe
+	}
+
+	incapacitating = yes # These are microscopic beings and are meant to be non-playable
+
+	ai_rationality = -999 # Pathogens, as in RL, only exist to reproduce
+	ai_honor = -999
+
+	fertility = 10 # One thousand percent increase in fertility
+
+	opposite_opinion = -50
+
+	random = no
+	customizer = no
+}
+
+species_penguin_generic = {
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_phantamanta = {
+	ai_honor = -100
+	ai_ambition = 100 # This thing divides and spreads itself everywhere, dropping toxic waste that can shock people
+
+	intrigue = -10 # At full size, they are the size of, if not wider than, multi-story hotel complexes
+
+	general_opinion = -15
+	same_opinion = 25
+
+	random = no
+	customizer = no
+}
+
+species_piillo = { # Pi'illo
+	diplomacy = 3
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_pionpi = {
+	immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
+
+	martial = 2
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_biting_flower = { # Piranha Plant
+	martial = 2
+
+	health = 2
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_pixl = { # Partners from "Paper Mario III"
+	learning = 4
+	diplomacy = 4
+	martial = -10
+
+	health = 5
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_plant_generic = { # Plants that do not fit elsewhere
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_plessie = { # Plessie
+	health = 4
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_lava { # Podaboo / Lava Bubble
+	defensive_plot_power_modifier = 0.8 # Eigthy percent harder to plot against because they live in lava and are hard to destroy
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_poink { # Poink
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_pokey = {
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_porcupine_fish = {
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_praying_mantis = { # Mantis from "Wario Ware" was not an actual mantis, AL
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_ptooie = {
+	martial = 1
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_puffer = {
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_raven = {
+	diplomacy = 1
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_sandoon = {
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_sea_cactus = {
+	opposites = {
+		species_neuron
+	}
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_shadow_sister = { # Vivian and the Shadow Sirens, male ones exist
+	diplomacy = -4
+	intrigue = 10 # Canonically, they are amazing masters of disguise
+
+	immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
+
+	general_opinion = -15
+	same_opinion = 20
+
+	random = no
+	customizer = no
+}
+
+species_shadow_clone = { # Creatures that take the form of others, e.g. Shadow Mario if he wasn't Bowser II, familiars used by Shadow Spirits, creatures under the command of the Shadow Queen, etc.
+	intrigue = 6
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_shaman = { # The Shaman species, not the title, seen in "Paper Mario I" and SMRPG as clergymen and enemies, respectively
+	diplomacy = 3
+	learning = 6
+	martial = -4
+
+	tolerates_astrotheology = yes
+	tolerates_lunatheology = yes
+
+	priest = yes
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_shark_generic = { # Sharks and shark-like beings that do not fit elsewhere
+	martial = 4
+
+	health = 1
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_shroob = { # Shroobs
+	opposites = {
+		species_alien_generic
+	}
+
+	ai_rationality = -999 # The Elder Princess Shroob shot down her own troops and was sealed away by her younger sister
+	ai_ambition = 9999
+	ai_greed = 9999
+	ai_honor = -999
+	ai_zeal = 100
+
+	general_opinion = -1000
+	same_opinion = 1000
+	opposite_opinion = 1000
+
+	tolerates_extraterrestrial = yes
+
+	random = no
+	customizer = no
+}
+
+species_shy_guy = { # Shy Guys
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_skeletal_dragon = { # Same as the generic Dragon, but this time it's dead
+	immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_skeletal_goonie = { # Goonies, but they are dead (and somehow they can still fly)
+	immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_skipdrill = {
+	martial = 2
+
+	immortal = yes # Machines do not die except by Event, when they are improperly maintained
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_slime_generic = {
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_slug_generic = { # Neon-colored slugs from "Yoshi Story", also includes all other generic slug beings
+	martial = -6 # Slow, pokey, weak
+	health = 6
+
+	fertility = 0.2
+
+	opposites = {
+		species_sluggy
+	}
+
+	same_opinion = 5
+	opposite_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_sluggy = { # Unshaven Sluggy
+	opposites = {
+		species_slug_generic
+	}
+
+	martial = -4
+	health = 6
+
+	fertility = 0.2
+
+	same_opinion = 5
+	opposite_opinion
+
+	random = no
+	customizer = no
+}
+
+species_smeech = { # Smeech
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_snake_generic = { # Generic snakes, Cobrats, and the giant coiled mid-boss in "Wario Land II"
+	martial = 2
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_snifit = {
+	martial = 3
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_snorkel_snake = { # Snorkel Snake / Snorkel Fish / Dragoneel
+	learning = -1 # Not smart enough to realize it can't encircle its prey
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_snowman_generic = { # Mister Blizzard and other snowmen
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_spearhead = { # Spearhead from "Wario Land" series
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_spear_mask = { # Spear Masked Men, entirely different from Spearhead
+	martial = 2
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_spider_generic = { # Spiders
+	general_opinion = -5
+	same_opinion = 15
+
+	random = no
+	customizer = no
+}
+
+species_true_spike = { # Spike Koopas
+	martial = 1
+
+	same_opinion = 5
+}
+
+species_spike_creature = { # Not sure what this is, but it is not to be confused with the Spike Koopa
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_spike_sentry = { # Jumping acorns of living metal (or in some serious * clicks tongue * fine armor) from "Yoshi Story"
+	opposites = {
+		species_taptap
+	}
+
+	defensive_plot_power_modifier = 0.5 # Canonically invincible
+
+	same_opinion = 5
+	opposite_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_spiny = { # Spiny
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_starbag = { # Starbag, also called Petari
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_star_generic = { # All true stellar beings, from Lumas/Power Stars/Grand Stars to Star Kids and Star Spirits
+	general_opinion = 15
+	same_opinion = 15
+
+	immortal = yes # All stellar beings shown in the series, except the Starman power-up, are ancient or even primordial, existing when the Mario Universe began
+
+	monthly_character_prestige = 0.5
+	monthly_character_piety = 0.5
+
+	random = no
+	customizer = no
+}
+
+species_tanooki_statue = { # Statues formed when a Tanooki power-up is used, OR when a natural Tanooki deploys the same ability
+	incapacitating = yes # Not plauable, cannot move or interact
+
+	immortal = yes # Cannot be broken, canonically invincible
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_living_statue = { # Statues
+	incapacitating = yes # Not playable, cannot move or interact
+
+	immortal = yes # Cannot be broken, canonically invincible
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_stu = { # Stu
+	defensive_plot_power_modifier = 0.5 # Got some serious * clicks tongue * fine armor
+
+	martial = 2
+
+	health = 2
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_sworm = { # Sworm Worm
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_raccoon_dog = { # Tanooki
+	monthly_character_prestige = 0.1
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_coon_chick = { # Tanoomba (Raccon / Tanooki Goomba)
+	opposites = {
+		species_galoomba
+		species_chick # Goomba
+		species_chick_ghost # Goomboo / Ghost Goomba
+		species_sarasaland_chick # Goombo
+		species_gromba
+		species_ghost_octoomba
+		species_octoomba
+	}
+
+	ai_ambition = 5
+	
+	health = 4
+
+	same_opinion = 5
+	opposite_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_taptap = {
+	defensive_plot_power_modifier = 0.8 # Twenty percent harder to plot against thanks to their outstanding strength and resistance to attacks
+
+	opposites = {
+		species_taptap
+	}
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_tatanga = { # Tatanga and the aliens that invaded Sarasaland
+	ai_ambition = 1000
+	ai_greed= 100
+	ai_honor = -50
+
+	health = 2
+
+	same_opinion = 5
+
+	tolerates_extraterrestrial = yes
+
+	random = no
+	customizer = no
+}
+
+species_teddy_bear = { # Ball Bears from "Super Mario Land II"
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_blue_pink_butterfly = { # Teehee Butterflies from "Yoshi Story"
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_hoominagah = { # Tiki Tak villains from the "Donkey Kong" game, though they are spirits of energy, they are not immortal
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_mushroom_boy = { # Toad
+	diplomacy = 3
+	martial = -4 # Notorious cowards
+
+	general_opinion = 5
+	same_opinion = 10
+
+	random = no
+	customizer = no
+}
+
+species_toady = { # Toady
+	martial = 1
+	learning = 3
+
+	priest = yes # Can perform sorcery and other spiritual practices
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_torpedo_ted = { # Torpedo Ted, a swimming Bullet Bill
+	opposites = {
+		species_bullet # Bullet Bill
+		species_missile_bill
+	}
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_ukiki_monkey = { # Ukiki monkeys
+	opposites = {
+		species_greater_kong
+		species_lesser_kong
+	}
+
+	diplomacy = 2
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_ghost_kremling = { # Undead Kremling
+	immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
+
+	martial = 2
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_urchin = { # Called an "Urchin" but is actually a fish
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_vampire_generic = { # Vampiric creatures
+	ai_honor = 15 # The "gentleman's monster"
+	ai_zeal = -5
+	ai_greed = 30
+	ai_ambition = 30
+
+	martial = 2
+	intrigue = 3
+
+	immortal = yes # Obvious
+
+	general_opinion = -20
+	same_opinion = 30
+
+	random = no
+	customizer = no
+}
+
+species_water_generic = { # Creatures that are literally water beings, the most notable example being the Nup Enut, as well as others
+	health = 4
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_whittle = { # Whittle
+	diplomacy = 3
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_xnaut = { # X-Nauts
+	opposites = {
+		species_yux
+	}
+
+	ai_ambition = 200
+	ai_honor = -20
+	ai_zeal = 20
+
+	same_opinion = 20
+	opposite_opinion = 20
+
+	random = no
+	customizer = no
+}
+
+species_ghost_goom = { # Yarikuri Obake / Ghost Gooms
+	opposites = {
+		species_goom
+		species_bandinero
+	}
+
+	immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
+
+	same_opinion = 5
+	opposite_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_the_yoshmeister = { # Yoshi
+	general_opinion = 10
+	same_opinion = 10
+
+	tolerates_dogmatic = yes
+
+	random = no
+	customizer = no
+}
+
+species_yurarin = {
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_yux = {
+	opposites = {
+		species_xnaut
+	}
+
+	martial = 2
+	learning = 3
+
+	same_opinion = 5
+	opposite_opinion
+
+	random = no
+	customizer = no
+}
+
+species_zenisuki = {
+	immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
+
+	stewardship = 4
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_zinger = {
+	martial = 6
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}

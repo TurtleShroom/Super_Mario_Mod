@@ -1272,7 +1272,7 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_trait_species_tippy"
+		name = "GFX_trait_species_pixl"
 		texturefile = "gfx/traits/species/Pixl.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -1330,6 +1330,14 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_trait_species_praying_mantis"
 		texturefile = "gfx/traits/species/PreyingMantis.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_species_ptooie"
+		texturefile = "gfx/traits/species/Ptooie.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
@@ -1504,8 +1512,56 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_trait_species_snowman_generic"
+		texturefile = "gfx/traits/species/SnowmanBeing.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_species_spearhead"
+		texturefile = "gfx/traits/species/Spearhead.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_species_spear_mask"
+		texturefile = "gfx/traits/species/SpearMask.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_species_spider_generic"
+		texturefile = "gfx/traits/species/SpiderBeing.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_species_true_spike"
+		texturefile = "gfx/traits/species/SpikeKoopa.tga'
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
 		name = "GFX_trait_species_spike_creature"
 		texturefile = "gfx/traits/species/SpikeCreature.tga'
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_species_spike_sentry"
+		texturefile = "gfx/traits/species/SpikeSentry.tga'
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
@@ -1568,16 +1624,16 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_trait_species_tamanoripu"
-		texturefile = "gfx/traits/species/Tamanoripu.tga"
+		name = "GFX_trait_species_raccoon_dog"
+		texturefile = "gfx/traits/species/Tanooki.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
-	
+
 	spriteType = {
-		name = "GFX_trait_species_raccoon_dog"
-		texturefile = "gfx/traits/species/Tanooki.tga"
+		name = "GFX_trait_species_coon_chick"
+		texturefile = "gfx/traits/species/Tanoomba.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
@@ -1598,7 +1654,15 @@ spriteTypes = {
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
-	
+
+	spriteType = {
+		name = "GFX_trait_species_teddy_bear"
+		texturefile = "gfx/traits/species/TeddyBear.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+
 	spriteType = {
 		name = "GFX_trait_species_blue_pink_butterfly"
 		texturefile = "gfx/traits/species/TeeHeeButterfly.tga"
@@ -1622,7 +1686,7 @@ spriteTypes = {
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
-	
+
 	spriteType = {
 		name = "GFX_trait_species_toady"
 		texturefile = "gfx/traits/species/Toady.tga"
@@ -1672,14 +1736,6 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_trait_species_nepenup"
-		texturefile = "gfx/traits/species/WaterBeing.tga"
-		noOfFrames = 1
-		norefcount = yes
-		effectFile = "gfx/FX/buttonstate.lua"
-	}
-	
-	spriteType = {
 		name = "GFX_trait_species_water_generic"
 		texturefile = "gfx/traits/species/WaterBeing.tga"
 		noOfFrames = 1
@@ -1704,7 +1760,7 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_trait_species_yarikuri_obake"
+		name = "GFX_trait_species_goom_ghost"
 		texturefile = "gfx/traits/species/YarikuriObake.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -1720,8 +1776,8 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_trait_species_yurainboo"
-		texturefile = "gfx/traits/species/YurainBoo.tga"
+		name = "GFX_trait_species_yurarin"
+		texturefile = "gfx/traits/species/Yurarin.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
