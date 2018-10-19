@@ -1505,6 +1505,21 @@ species_kremling = { # Kremlings and Claptraps, etc.
 	customizer = no
 }
 
+species_birdie = { # Lakitu
+	opposites = {
+		species_spiny
+	}
+
+	diplomacy = 2
+	martial = 1
+	learning = 3
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
 species_lantern_ghost = { # Lantern Ghosts, from "Paper Mario I"
 	same_opinion = 5
 
@@ -2287,6 +2302,11 @@ species_spike_sentry = { # Jumping acorns of living metal (or in some serious * 
 }
 
 species_spiny = { # Spiny
+	opposite = {
+		species_bumbleprod
+		species_birdie # Lakitu
+	}
+
 	same_opinion = 5
 
 	random = no
@@ -2554,6 +2574,9 @@ species_winkle_snail = { # Winkle Snail
 	ai_greed = 10 # They force people into their Colleseum, take their cash, and make them earn it abck
 
 	same_opinion = 20
+
+	random = no
+	customizer = no
 }
 
 species_whittle = { # Whittle
