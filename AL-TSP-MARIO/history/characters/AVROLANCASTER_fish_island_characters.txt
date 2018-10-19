@@ -3,10 +3,9 @@
 	religion = shine_sprites
 	culture = fish_islands
 	dynasty = 9900600
-	add_trait = species_plant_generic #Assuming this is a Pianta
+	add_trait = species_pianta
 	1966.1.1 = { 
 		birth = yes
-
 	}
 	2066.12.12 = {
 		death = yes
@@ -18,10 +17,9 @@
 	religion = greed
 	culture = fish_islands
 	dynasty = 9900603
-	add_trait = species_plant_generic #Assuming this is a Pianta
+	add_trait = species_pianta
 	1966.1.1 = { 
 		birth = yes
-
 	}
 	2066.12.12 = {
 		death = yes
@@ -32,10 +30,9 @@
 	name = "Matías"
 	religion = greed
 	culture = fish_islands
-	add_trait = species_plant_generic #Assuming this is a Pianta
+	add_trait = species_pianta
 	1966.1.1 = { 
 		birth = yes
-
 	}
 	2066.12.12 = {
 		death = yes
@@ -46,10 +43,9 @@
 	name = "Mateo"
 	religion = shine_sprites
 	culture = fish_islands
-	add_trait = species_plant_generic #Assuming this is a Pianta
+	add_trait = species_pianta
 	1966.1.1 = { 
 		birth = yes
-
 	}
 	2066.12.12 = {
 		death = yes
@@ -60,10 +56,9 @@
 	name = "Nicolás"
 	religion = shine_sprites
 	culture = fish_islands
-	add_trait = species_plant_generic #Assuming this is a Pianta
+	add_trait = species_pianta
 	1966.1.1 = { 
 		birth = yes
-
 	}
 	2066.12.12 = {
 		death = yes
@@ -74,10 +69,9 @@
 	name = "Alejandro"
 	religion = shine_sprites
 	culture = fish_islands
-	add_trait = species_plant_generic #Assuming this is a Pianta
+	add_trait = species_pianta
 	1966.1.1 = { 
 		birth = yes
-
 	}
 	2066.12.12 = {
 		death = yes
@@ -89,10 +83,9 @@
 	religion = greed
 	culture = fish_islands
 	dynasty = 9900601
-	add_trait = species_plant_generic #Assuming this is a Pianta
+	add_trait = species_pianta
 	1966.1.1 = { 
 		birth = yes
-
 	}
 	2066.12.12 = {
 		death = yes

@@ -2,10 +2,9 @@
 	name = "Valerio"
 	religion = shine_sprites
 	culture = crab_islands
-	add_trait = species_bivalve_generic #Noki, picked this trait as it is the closest thing to a shell-wearing shellfish
+	add_trait = species_noki
 	1966.1.1 = { 
 		birth = yes
-
 	}
 	2066.12.12 = {
 		death = yes
@@ -17,10 +16,9 @@
 	religion = shine_sprites
 	culture = crab_islands
 	dynasty = 9900702
-	add_trait = species_bivalve_generic #Noki, picked this trait as it is the closest thing to a shell-wearing shellfish
+	add_trait = species_noki
 	1966.1.1 = { 
 		birth = yes
-
 	}
 	2066.12.12 = {
 		death = yes
@@ -31,10 +29,9 @@
 	name = "Antonio"
 	religion = shine_sprites
 	culture = crab_islands
-	add_trait = species_bivalve_generic #Noki, picked this trait as it is the closest thing to a shell-wearing shellfish
+	add_trait = species_noki
 	1966.1.1 = { 
 		birth = yes
-
 	}
 	2066.12.12 = {
 		death = yes
@@ -45,10 +42,9 @@
 	name = "Lauro"
 	religion = shine_sprites
 	culture = crab_islands
-	add_trait = species_bivalve_generic #Noki, picked this trait as it is the closest thing to a shell-wearing shellfish
+	add_trait = species_noki
 	1966.1.1 = { 
 		birth = yes
-
 	}
 	2066.12.12 = {
 		death = yes
@@ -59,10 +55,9 @@
 	name = "Lucio"
 	religion = greed
 	culture = crab_islands
-	add_trait = species_bivalve_generic #Noki, picked this trait as it is the closest thing to a shell-wearing shellfish
+	add_trait = species_noki
 	1966.1.1 = { 
 		birth = yes
-
 	}
 	2066.12.12 = {
 		death = yes
@@ -73,10 +68,9 @@
 	name = "Silvano"
 	religion = greed
 	culture = crab_islands
-	add_trait = species_bivalve_generic #Noki, picked this trait as it is the closest thing to a shell-wearing shellfish
+	add_trait = species_noki
 	1966.1.1 = { 
 		birth = yes
-
 	}
 	2066.12.12 = {
 		death = yes
@@ -87,10 +81,9 @@
 	name = "Rosso"
 	religion = greed
 	culture = crab_islands
-	add_trait = species_bivalve_generic #Noki, picked this trait as it is the closest thing to a shell-wearing shellfish
+	add_trait = species_noki
 	1966.1.1 = { 
 		birth = yes
-
 	}
 	2066.12.12 = {
 		death = yes

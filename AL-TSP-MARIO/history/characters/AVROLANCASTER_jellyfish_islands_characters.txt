@@ -1,12 +1,11 @@
 9990000 = {
 	name = "Brutus"
 	religion = shine_sprites
-	culture = turtle_islands
+	culture = jellyfish_islands
 	dynasty = 9900904
-	add_trait = species_plant_generic #Assuming this is a Pianta
+	add_trait = species_pianta
 	1966.1.1 = { 
 		birth = yes
-
 	}
 	2066.12.12 = {
 		death = yes
