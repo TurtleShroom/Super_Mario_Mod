@@ -1,174 +1,95 @@
-2500 = {
-	name = "Hydra"
+3250 = {
+	name = "Phyllorhiza"
 	culture = "jellyfish_islands"
 }
 
-2501 = {
-	name = "Medusa"
+3251 = {
+	name = "Chrysaora"
 	culture = "jellyfish_islands"
 }
 
-2502 = {
-	name = "Box"
+3252 = {
+	name = "Diplulmaris"
 	culture = "jellyfish_islands"
 }
 
-2503 = {
-	name = "Sea Wasp"
+3253 = {
+	name = "Atolla"
 	culture = "jellyfish_islands"
 }
 
-2504 = {
-	name = "Kingslayer"
+3254 = {
+	name = "Porpita"
 	culture = "jellyfish_islands"
 }
 
-2505 = {
-	name = "Irukandji"
+3255 = {
+	name = "Crossota"
 	culture = "jellyfish_islands"
 }
 
-2506 = {
+3256 = {
+	name = "Cyanea"
+	culture = "jellyfish_islands"
+}
+
+3257 = {
+	name = "Bathykorus"
+	culture = "jellyfish_islands"
+}
+
+3258 = {
+	name = "Aurelia"
+	culture = "jellyfish_islands"
+}
+
+3259 = {
+	name = "Phacellophora"
+	culture = "jellyfish_islands"
+}
+
+3260 = {
+	name = "Olindias"
+	culture = "jellyfish_islands"
+}
+
+3261 = {
+	name = "Stomolophus"
+	culture = "jellyfish_islands"
+}
+
+3262 = {
+	name = "Catostylus"
+	culture = "jellyfish_islands"
+}
+
+3263 = {
 	name = "Malo"
 	culture = "jellyfish_islands"
 }
 
-2507 = {
-	name = "Morbakka"
+3264 = {
+	name = "Cassiopea"
 	culture = "jellyfish_islands"
 }
 
-2508 = {
-	name = "Four-Handed"
+3265 = {
+	name = "Craspedacusta"
 	culture = "jellyfish_islands"
 }
 
-2509 = {
-	name = "Sea Serpent"
+3266 = {
+	name = "Cephea"
 	culture = "jellyfish_islands"
 }
 
-2510 = {
-	name = "Obelia"
+3267 = {
+	name = "Turritopsis"
 	culture = "jellyfish_islands"
 }
 
-2511 = {
-	name = "Man-of-war"
-	culture = "jellyfish_islands"
-}
-
-2512 = {
-	name = "Bluebottle"
-	culture = "jellyfish_islands"
-}
-
-2513 = {
-	name = "Floating Terror"
-	culture = "jellyfish_islands"
-}
-
-2514 = {
-	name = "Blue Button"
-	culture = "jellyfish_islands"
-}
-
-2515= {
-	name = "Sea Raft"
-	culture = "jellyfish_islands"
-}
-
-2516 = {
-	name = "By-the-Wind Sailor"
-	culture = "jellyfish_islands"
-}
-
-2517 = {
-	name = "Purple Sail"
-	culture = "jellyfish_islands"
-}
-
-2518 = {
-	name = "Little Sail"
-	culture = "jellyfish_islands"
-}
-
-2519 = {
-	name = "Velella"
-	culture = "jellyfish_islands"
-}
-
-2520 = {
-	name = "Neptune Plant"
-	culture = "jellyfish_islands"
-}
-
-2521 = {
-	name = "Air Fern"
-	culture = "jellyfish_islands"
-}
-
-2522 = {
-	name = "Sea Fir"
-	culture = "jellyfish_islands"
-}
-
-2523 = {
-	name = "Pink-Mouth"
-	culture = "jellyfish_islands"
-}
-
-2524 = {
-	name = "Pink-Heart"
-	culture = "jellyfish_islands"
-}
-
-2525 = {
-	name = "Jellyfish"
-	culture = "jellyfish_islands"
-}
-
-2526 = {
-	name = "Sea Jelly"
-	culture = "jellyfish_islands"
-}
-
-2527 = {
-	name = "Stalked Jelly"
-	culture = "jellyfish_islands"
-}
-
-2528 = {
-	name = "Sea Nettle"
-	culture = "jellyfish_islands"
-}
-
-2529 = {
-	name = "Comb Jelly"
-	culture = "jellyfish_islands"
-}
-
-2530 = {
-	name = "Venus Girdle"
-	culture = "jellyfish_islands"
-}
-
-2531 = {
-	name = "Nuda"
-	culture = "jellyfish_islands"
-}
-
-2532 = {
-	name = "Bero"
-	culture = "jellyfish_islands"
-}
-
-2533 = {
-	name=  "Lion's Mane"
-	culture = "jellyfish_islands"
-}
-
-2534 = {
-	name = "Nomura"
+3258 = {
+	used_for_random = no
+	name = "Tempus"
 	culture = "jellyfish_islands"
 }
