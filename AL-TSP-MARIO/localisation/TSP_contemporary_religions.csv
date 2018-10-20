@@ -27,7 +27,7 @@ GOD_THE_SUN;The Sun;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 GOD_THE_MUSHROOM_DJINN;The Mushroom Djinn;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 GOD_DJINN_OF_THE_LAMP;Djinn of the Lamp;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 GOD_GUIDE_TO_THE_STARS;Guide to the Stars;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-GOD_THE_BANANA_HORDE;The Banana Horde;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+GOD_THE_BANANA_HOARD;The Banana Hoard;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 GOD_GOLDEN_BANANAS;The Golden Bananas;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 GOD_MAN;Man;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 GOD_MANKIND;Mankind;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
@@ -102,6 +102,9 @@ KOOPOMERTA;The Koopomertà;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 BOWSER_CREED;Bowser's Creed;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 WARIO;Wario;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 MILLI_VANILLI;Milli Vanilli;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+DRY_DRU_RUNES;The Dry Dry Runes;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+OIL_LAMP_MAINTENANCE;Oil Lamp Maintenance;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+YOSHI_STORY;The Yoshi Stories;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 ##########
 # GROUPS #
 ##########
@@ -126,7 +129,7 @@ power_moon_worship;Power Moon Worship;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 power_moon_worship_DESC;Contrasted with the Power Stars are the weaker, but still important, Power Moons. They are a source of energy for many applications, divine and mundane, throughout the Odyssey continents, and, like Power Stars, are connected to both Rosalina and the Star Spirits. This religion reveres them for their unique role in the lives of so many diverse creatures, and does not reject the pantheon of Astrotheology.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 STAT_PIETY_BANANAS;Bananas;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 MONTHLY_PIETY_BANANAS;Bananas Hoarded Per Month;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-STAT_PIETY_DESC_BANANAS;It is the duty of every Kong and every believer in the Crystal Coconut to amass a Banana Horde, both for the sustinence of them and their loved ones, as well as for being perceived as holy and upright. The more bananas one has harvested or seized, the more he is seen as favored in the omnipresent eyes of the Crystal Cocunut. Like Prestige, it is added to one's score at the death of a ruler.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+STAT_PIETY_DESC_BANANAS;It is the duty of every Kong and every believer in the Crystal Coconut to amass a Banana Hoard, both for the sustinence of them and their loved ones, as well as for being perceived as holy and upright. The more bananas one has harvested or seized, the more he is seen as favored in the omnipresent eyes of the Crystal Cocunut. Like Prestige, it is added to one's score at the death of a ruler.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 STAT_PIETY_INNER_PEACE;Inner Peace;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 STAT_PIETY_DESC_INNER_PEACE;Inner Peace;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 MONTHLY_PIETY_INNER_PEACE;Monthly Inner Peace Achievement;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
@@ -144,3 +147,161 @@ IMAMAMIA;Imamamia;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 FORMMAN;Formman;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 DIVINER;Diviner;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 SOLDIER;Soldier;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+WISE_ONE;Wise One;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+KEEPER;Keeper;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+# Names and titles for Astrotheology clergy #
+temple_baron_astrotheology;Shaman;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_count_astrotheology;High Shaman;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_duke_astrotheology;Oracle;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_king_astrotheology;Star Guardian;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_emperor_astrotheology;Great Master;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_barony_of_astrotheology;Shrine of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_county_of_astrotheology;Hall of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_duchy_of_astrotheology;Temple of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_kingdom_of_astrotheology;Summit of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_empire_of_astro_theology;Palace of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_baron_shine_sprites;Sun Guardian;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_count_shine_sprites;Shiner;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_duke_shine_sprites;Dawn Protector;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_king_shine_sprites;Shine Lord;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_king_female_shine_sprites;Shine Lady;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_emperor_shine_sprites;Master of the Dawn;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_emperor_female_shine_sprites;Mistress of the Dawn;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_barony_of_shine_sprites;Shrine of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_county_of_shine_sprites;Hall of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_duchy_of_shine_sprites;Temple of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_kingdom_of_shine_sprites;Gate of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_empire_of_shine_sprites;Dawn of the;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+# Dryites #
+temple_baron_dryite_pagan_reformed;Imamamia;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_count_dryite_pagan_reformed;Mamatollah;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_count_female_dryite_pagan_reformed;Sheekah;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_duke_dryite_pagan_reformed;Grand Mamatollah;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_duke_female_dryite_pagan_reformed;Grand Sheekah;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_king_dryite_pagan_reformed;Momulluh;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_king_female_dryite_pagan_reformed;Mother;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_emperor_dryite_pagan_reformed;Pokeyliph;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_emperor_female_dryite_pagan_reformed;Pokeylifa;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_barony_of_dryite_pagan_reformed;Mommosk;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_county_of_dryite_pagan_reformed;Grand Mommosk of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_duchy_of_dryite_pagan_reformed;Great Mommosk of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_kingdom_of_dryite_pagan_reformed;Grand Hall of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_empire_of_of_dryite_pagan_reformed;Palace of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_baron_dryite_pagan;Imamamia;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_count_dryite_pagan;Mamatollah;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_count_female_dryite_pagan;Sheekah;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_duke_dryite_pagan;Grand Mamatollah;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_duke_female_dryite_pagan;Grand Sheekah;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_king_dryite_pagan;Momulluh;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_king_female_dryite_pagan;Mother;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_emperor_dryite_pagan;Pokeyliph;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_emperor_female_dryite_pagan;Pokeylifa;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_barony_of_dryite_pagan;Mommosk;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_county_of_dryite_pagan;Grand Mommosk of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_duchy_of_dryite_pagan;Great Mommosk of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_kingdom_of_dryite_pagan;Grand Hall of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_empire_of_of_dryite_pagan;Palace of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_baron_mario_party_genies_worship;Keeper;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_baron_female_mario_party_genies_worship;Keeper;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_count_mario_party_genies_worship;A'lad;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_count_female_mario_party_genies_worship;A'lass;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_duke_mario_party_genies_worship;Protector;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_king_mario_party_genies_worship;Guardian;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_emperor_mario_party_genies_worship;Treasurer;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_barony_of_mario_party_genies_worship;Storeroom of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_county_of_mario_party_genies_worship;Shrine of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_duchy_of_mario_party_genies_worship;Hall of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_kingdom_of_mario_party_genies_worship;Grand Mommosk of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_empire_of_mario_party_genies_worship;Great Mommosk of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+# Yoshi stuff #
+temple_baron_happines;Pleasant Priest;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_count_happiness;Joy Priest;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_duke_happiness;Euphoric Priest;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_king_happiness;Ree-Hallow;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_emperor_happiness;Buh-buh-buh Brr;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_barony_of_happiness;Sacred Grove of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_county_of_happiness;Delightfully Sacred Grove of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_duchy_of_happiness;Euphoric Grove of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_kingdom_of_happiness;The Peace of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_empire_of_happiness;Super Happy;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+# Temple of Form #
+temple_baron_temple_of_form;Formman;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_count_temple_of_form;Formmonk;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_count_female_temple_of_form;Form Lady;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_duke_temple_of_form;Formmonast;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_duke_female_temple_of_form;Form None;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_king_temple_of_form;Archform;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_emperor_temple_of_form;Baton Wielder;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_barony_of_temple_of_form;Shrine of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_county_of_temple_of_form;Temple of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_duchy_of_temple_of_form;Hall of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_kingdom_of_temple_of_form;Great Temple of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_empire_of_temple_of_form;Form of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+# Outlaws and "bad religions" #
+temple_baron_gambling;Pit Boss;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_count_gambling;Manager;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_duke_gambling;Administrator;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_king_gambling;Chief Executive Officer;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_empire_gambling;Overboss;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_barony_of_gambling;Casino;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_county_of_gambling;Casinoes of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_duchy_of_gambling;Complex of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_kingdom_of_gambling;Strip of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_empire_of_gambling;Enterprise of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_baron_piracy;Diviner;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_count_piracy;Chief Diviner;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_duke_piracy;Oracle;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_king_piracy;Great Oracle;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_emperor_piracy;Booty Hunter;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_barony_of_piracy;Shrine of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_county_of_piracy;Shrine of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_duchy_of_piracy;Shrine of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_kingdom_of_piracy;Shrine of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_empire_of_piracy;Hall of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+feudal_baron_piracy;Captain;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+feudal_count_piracy;Pirate Lord;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+feudal_count_female_piracy;Captain;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+feudal_duke_piracy;Pirate Lord;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+feudal_duke_female_piracy;Pirate Lady;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+feudal_king_piracy;Pirate King;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+feudal_king_female_piracy;Pirate Queen;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+feudal_emperor_piracy;Dread Emperor;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+feudal_emperor_female_piracy;Dread Empress;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+feudal_barony_of_piracy;Fleet of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+feudal_county_of_piracy;Den of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+feudal_duchy_of_piracy;Fortress of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+feudal_kingdom_of_piracy;Pirate Kingdom of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+feudal_empire_of_piracy;Grand Principality of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+city_baron_piracy;Overseer;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+city_count_piracy;Watchman;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+city_duke_piracy;Mayor;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+city_duke_female_piracy;Mayoress;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+city_king_piracy;Lord Mayor;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+city_king_female_piracy;Lady Mayoress;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+city_emperor_piracy;Prince-Mayor;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+city_emperor_female_piracy;Princess-Mayoress;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+city_barony_of_piracy;Settlement of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+city_county_of_piracy;City of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+city_duchy_of_piracy;City-State of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+city_kingdom_of_piracy;Nation of of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+city_empire_of_piracy;Metropolis of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+feudal_baron_al_koopone;Piccioto;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+feudal_count_al_koopone;Soldato;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+feudal_duke_al_koopone;Koopodecina;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+feudal_king_al_koopone;Sottokoopo;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+feudal_emperor_al_koopone;Koopofamiglia;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+feudal_barony_of_al_koopone;Den of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+feudal_county_of_al_koopone;Legitimate Holdings of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+feudal_duchy_of_al_koopone;Legitimate State of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+feudal_kingdom_of_al_koopone;The Halls of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+feudal_empire_of_all_koopone;Family of the;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+city_baron_al_koopone;Enforcer;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+city_count_al_koopone;Soldato;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+city_duke_al_koopone;Officer;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+city_king_al_koopone;Koopo;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+city_emperor_al_koopone;Don Koopo;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+city_barony_of_al_koopone;Family of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+city_county_of_al_koopone;Kooporegime;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+city_duchy_of_al_koopone;Koopsigliori;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+city_kingdom_of_al_koopone;Koopacosca;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+city_emperor_of_al_koopone;Koopo Mandemento;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
