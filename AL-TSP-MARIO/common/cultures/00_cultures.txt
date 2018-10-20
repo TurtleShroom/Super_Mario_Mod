@@ -543,39 +543,38 @@ delfino_group = {
 		
 		color = { 153 0 36 }
 		male_names = {
-			Aemilianus Aemilius Aetius_Ezio Agapitus_Agapito Agricola Agrippa Albinus_Albino Albus Alexander_Alexander Alexius_Alexis Amadeus Anacletus Anastasius_Anastasius Anicius Annius Antadus Anterus Anthemius Antius Antonius_Anthony Antoninus_Anthony Appianus Appius Aratus Arcadius_Arkadios Asina Aulianius Aulimius Aulus Aurelianus_Aurelian Aurianius Auspex Avitus Alethius
+			Aemilianus Aemilius Aetius_Ezio Agapitus_Agapito Albinus_Albino Albus Alexander_Alexander Alexius_Alexis Amadeus Anacletus Anastasius_Anastasius Anicius Annius Antadus Anterus Anthemius Antius Antonius_Anthony Antoninus_Anthony Appianus Appius Aratus Arcadius_Arkadios Aulianius Aulimius Aulus Aurelianus_Aurelian Aurianius Auspex Avitus Alethius
 			Balbinus Balbus Barbatus Basiliscus Basilius Benignus_Benignus Bibulus Benedictus_Benedict Belisarius_Belisarius Bonifatius_Bonifacius Brutus Bubo Buteo Britannicus
-			Caelus Caesar Caesarius_Caesarius Callistus Calvinus Calvus Caradius Caranius Carinus Cassiodorus Cato Catulus Cethegus Cicero Cinna Claudelius Claudius_Claudius Claudianus Claudonius Clemens_Clemens Coelestinus Constans Columbanus_Columba Constantius_Constantius Constantinus_Constantine Cornelus Cornonius Cornorius Cotta Crispianus Curio 
-			Dama Damasus Damianus_Damian Daniel_Daniel Decimus Decinius Decius Deconius Dentatus Desiderius_Desiderius Diadumenianus Diocletianus Dionysius_Dionysus Dives Domitianus Domitius Dolabella Donus Donatus Draco Drusus 
+			Caelus Caesar Caesarius_Caesarius Callistus Calvinus Calvus Caradius Caranius Carinus Cassiodorus Cato Catulus Cethegus Cicero Cincinnatus Claudelius Claudius_Claudius Claudianus Claudonius Clemens_Clemens Coelestinus Constans Columbanus_Columba Constantius_Constantius Constantinus_Constantine Cornelus Cornonius Cornorius Crispianus Curio 
+			Damasus Damianus_Damian Daniel_Daniel Decimus Decinius Decius Deconius Dentatus Desiderius_Desiderius Diadumenianus Diocletianus Dionysius_Dionysus Dives Domitianus Domitius Dolabellus Donus Donatus Draco Drusus 
 			Eligius Emeritus Ennodius Evangelus Eugenius_Eugene Eusebius Euphemius Eutychianus Evaristus
-			Fabianus Fabius Falco Falx Faustus_Faust Felix_Felix Fimbria Flaccus Flavius_Flavius Flavianus Flavorius Florianus_Florian Florelius Florentius Florerius Florus Fronto 
-			Gabriel_Gabriel Gaius Gala Galerus Galinius Gallienus Gelasius Gemellus Genialis Gennadius Georgius_George Germanus_German Glycerius Gnaeus Gordianus Gorgonius Gracchus Gracilis Gratianus Gregorius_Gregory
-			Habitus Hadradius Hadrianus_Adrian Hadrimius Herennius Herculius_Heracles Herodianus Hilarius Honadius Honanus Honelus Honerius Honimus Honorius Hostilianus Horatius Hormisdas Heracles_Heracles 
-			Jacobus_Jacob Julius_Julius Julianus_Julian Julorius Justadus Justus Justinus_Justinus Justinianus_Justinian Johannes_John Jovianus_Jovian Josephus_Joseph 
-			Ignatius Innocentius_Innocentius Iuba
-			Labeo Laenas Landus_Lando Laurentius_Laurence Lentulus Leo_Leo Leontius Lepidus Leptis Liberius_Liberty Libius Libo Licinius Linus Longinus Longus Lucanus Lucas_Lucas Lucinus Lucius_Lucius Lucianus Lucullus Lupius 
-			Macelius Macorus Macro Majorianus_Majorian Mamercus Manius Maranius Marcellus_Marcel Marcius Marcus_Mark Marcianus Marinus Martialis Martinus_Martin Matthias_Matthew Marullus Maxentius Maxerius Maximianus Maximilianus_Maximilian Maximinus Maximus_Maximus Maxus Memmius Mercator Messalla Mettius Montanus Murena Mus Mercurius_Mercurius 
-			Nasica Nicolaus_Nicholas Nicomachus Numerianus Numerius
+			Fabianus Fabius Falco Falx Faustus_Faust Felix_Felix Flaccus Flavius_Flavius Flavianus Flavorius Florianus_Florian Florelius Florentius Florerius Florus Fronto 
+			Gabriel_Gabriel Gaius Galerus Galinius Gallienus Gelasius Gemellus Genialis Gennadius Georgius_George Germanus_German Glycerius Gnaeus Gordianus Gorgonius Gracchus Gracilis Gratianus Gregorius_Gregory
+			Habitus Hadradius Hadrianus_Adrian Hadrimius Herennius Herculius_Heracles Herodianus Hilarius Honadius Honanus Honelus Honerius Honimus Honorius Hostilianus Horatius Hormisdas
+			Jacobus_Jacob Julius_Julius Julianus_Julian Julorius Justadus Justus Justinus_Justin Justinianus_Justinian Johannes_John Jovianus_Jovian Josephus_Joseph 
+			Ignatius Innocentius_Innocentius
+			Laenas Landus_Lando Laurentius_Laurence Lentulus Leo_Leo Leontius Lepidus Leptis Liberius_Liberty Libius Libo Licinius Linus Longinus Longus Lucanus Lucas_Lucas Lucinus Lucius_Lucius Lucianus Lucullus Ludovicus_Luigi Lupius 
+			Macelius Macorus Macro Majorianus_Majorian Mamercus Manius Maranius Marcellus_Marcel Marcius Marcus_Mark Marcianus Marinus Marius_Mario Martialis Martinus_Martin Matthias_Matthew Marullus Maxentius Maxerius Maximianus Maximilianus_Maximilian Maximinus Maximus_Maximus Maxus Memmius Mettius Montanus Mus Mercurius_Mercurius 
+			Nicolaus_Nicholas Nicomachus Numerianus Numerius
 			Oceanus Octavianus Olybrius Opis Optatus Orestes Otho_Otto
-			Paenula Pantera Pavo Paulus_Paul Paulinus Peregrinus Pertinax Petronax Petrus_Peter Phillipus_Philip Pictor Pilatus Polus Pontianus Primus Priscillianus Publius Peregrinus_Pilgrim Pertinax Patroinus Procyon Publius Pulcher 
+			Pavo Paulus_Paul Paulinus Peregrinus Pertinax Petronax Petrus_Peter Phillipus_Philip Pilatus Polus Pontianus Primus Priscillianus Publius Peregrinus_Pilgrim Pertinax Patroinus Procyon Publius Pulcher 
 			Quarto Quintianius Quintorius Quintus_Quintius Quirinus 
-			Remus Renatus Romaeus Romanus_Roman Romulus Regilius Regulus Rufus Ruso 
-			Sabinianus Sabinus Salinator Salvator_Salvador Saturninus Scaevola Scipio Scrofa Secundus Seneca Senna Septanius Septerius Septimus Septinus Servius Severinus_Savarin Severus Sevinus Sevonius Sevorus Sextus Sidonius Silvester_Silvester Silvius Silverius Simplicius Simplicianus Sorex Spurius Strabo Statius Stephanus_Stephen Super Superbus Symmachus Severus_Severus Silvanus 
+			Remus Renatus Romaeus Romanus_Roman Romulus Regilius Regulus Rufus 
+			Sabinianus Sabinus Salvator_Salvador Saturninus Scipio Secundus Septanius Septerius Septimus Septinus Servius Severinus_Savarin Severus Sevinus Sevonius Sevorus Sextus Sidonius Silvester_Silvester Silvius Silverius Simplicius Simplicianus Sorex Spurius Strabo Statius Stephanus_Stephen Super Superbus Symmachus Severus_Severus Silvanus 
 			Tacitus Tertius Tertulus Theodadius Theodinius Theodonus Theodosius_Theodosios Theodorus_Theodore Theophilus_Theophilos Tibanius Tibelus Tiberius Tibinius Tiborus Tibullus Titonius Titius Titus_Titus Trajanus_Trajanus Trebonius Tribonianus Tullius
 			Urbanus_Urban Ursinus Ursus 
-			Valens Valentinianus_Valentinian Valentinus_Valentin Valerius_Valerian Valerianus_Valerian Varro Varus Vergilius Vetranio Viator Victor_Victor Victorinus_Victorinus Vigilius Vindex Virilis Vitalianus Vitalis Vitus Volusianus
+			Valens Valentinianus_Valentinian Valentinus_Valentin Valerius_Valerian Valerianus_Valerian Varro Varus Vergilius Vetranio Victor_Victor Victorinus_Victorinus Vigilius Vindex Virilis Vitalianus Vitalis Vitus Volusianus
 		}
 		female_names = {
-			Achaica Aconia Adelpha Aelia Aemilia Agape Agrippina Airlea Akantha Alexis Alfidia Alkyone Alypia Amanda Anatolia Ancharia Anethencia Angela Annamaria Annia Antigone Antistia Antonia Apollonia Aquila Aquilia Aristomache Arrecina Arria Artemisia Aspacia Athenais Atia Attica Aurelia
+			Achaica Aconia Adelpha Aelia Aemilia Agape Agrippina Airlea Acantha Alexis Alfidia Alcyone Alypia Amanda Anatolia Ancharia Anethencia Angela Annamaria Annia Antigone Antistia Antonia Apollonia Aquila Aquilia Aristomache Arrecina Arria Artemisia Aspacia Athenais Atia Attica Aurelia
 			Baebiana Barbara_Barbara Barbia Beatrix_Beatrice Benedicta_Benedicta Benigna Betitia Bruttia 
-			Caecilia Caesonia Calpurnia Calvina Candida Ceacilia Charis Charito Christiana_Christina Clara_Clara Claritia Claudia Claudiana Clementia Clementina Cleopatra Clodia Constantia_Constance Constantina Cornelia Crispina Cynna 
+			Caecilia Caesonia Calpurnia Calvina Candace Candida Cassandra Ceacilia Charis Charito Christiana_Christina Clara_Clara Claritia Claudia Claudiana Clementia Clementina Cleopatra Clodia Constantia_Constance Constantina Cornelia Crispina Cynna 
 			Davina Decima Delphina Demetria Desiderata Desideria Diana Diantha Didia Dionysia Dominica Domitia Domitilla Domna Drusilla Dryantilla Duodecima 
 			Eirene Elpis Etruscilla Eudocia Eunice Euphemia Eurydice Eusebia Euthalia Eutropia Evgenia
 			Fabia Fadia Fadilla Faltonia Fannia Fausta Faustina Felicia_Felicia Feliciana Felina Felicitas Fides_Fides Flavia Flacilla Flavia Florina Florentia Florentina Francisca Fortunata Fulvia Fundania Furnilla 
 			Galla Galeria Galla Gnaea Gratidia Gordiana
 			Herennia Honorata Honoria Honorina Helena_Helen Helvia Herennia Hispulla Honoria Hostia Hypatia 
-			Julia_Julia Juliana_Julianne Junia Justa Justina_Justina
-			Kandake Kassandra 
+			Julia_Julia Juliana_Julianne Junia Justa Justina_Justina  
 			Laodice Leontia Lepida Laura Lavinia Leocadia Leontia Liberia Licinia Livia Livilla Lollia Longina Lucia_Lucia Lucilia Lucilla 
 			Maecia Magia Magna Manlia Marcella Marcia Marciana Mariniara Marcellina Maria_Maria Matidia Matina Matrona Maximia Maximiana Maura Maxmilla Megaira Melaina Mellisa Messalina Metella Minervina Monica_Monica Modesta Mucia Mummia Munatia 
 			Narcissa Natalia Nona Nysa 
@@ -584,7 +583,7 @@ delfino_group = {
 			Quarta Quinta 
 			Regina Renata Romana Rosalia
 			Sabina Sallustia Salonina Salvatrix Scantilla Secunda Seia Sempronia Septa Septima Seraphina Serena Servilia Severa Sabinia Sidonia Salonia Severina Silvia_Sylvia Sofia Sostrate Statilia Stratonice Sulpicia Supera Sybilla 
-			Tatiana_Tatiana Terentia Tertia Tertulla Thais Theodora Theophila Thermantia Thetima Thorakis Timo Titiana Tranquillina Tullia Turia 
+			Tatiana_Tatiana Terentia Tertia Tertulla Thais Theodora Theophila Thermantia Thetima Timo Titiana Tranquillina Tullia Turia 
 			Ulpia Undecima Urbica Urgulania Urgulanilla Urgunalla Ursa Ursula_Ursula 
 			Valeria Vesta Verina Verena Veronica_Veronica Violentilla Vibia Vigilantia Vipsania Vistilia Virginia Victoria_Victoria Victorina Viviana_Vivian
 			Xanthe Xene Xenia 
@@ -592,6 +591,10 @@ delfino_group = {
 		}
 		
 		from_dynasty_prefix = "de "
+		bastard_dynasty_prefix = "spurius "
+		male_patronym = "filius "
+		female_patronym = "filia "
+		prefix = yes
 		grammar_transform = french
 		modifier = default_culture_modifier
 
