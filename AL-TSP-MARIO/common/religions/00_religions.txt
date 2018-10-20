@@ -131,6 +131,8 @@ astrotheology = {
 	}
 	
 	dark_star_faith = {
+		ai_peaceful = no
+
 		graphical_culture = westerngfx
 		hostile_within_group = yes
 
@@ -398,7 +400,6 @@ pagan_group = {
 		god_names = {
 			GOD_THE_MUSHROOM_DJINN GOD_THE_STAR_SPIRITS GOD_THE_SUN GOD_DJINN_OF_THE_LAMP GOD_THE_STARS GOD_STAR_ROD MUSHROOM_KADABRA
 		}
-		
 		evil_god_names = {
 			THE_MUSHROOM_JEANIE FUNGUS_POCUS
 		}
@@ -444,7 +445,7 @@ pagan_group = {
 		priest_title = IMAMAMIA
 		
 		high_god_name = GOD_THE_MUSHROOM_DJINN
-		
+	
 		god_names = {
 			GOD_THE_MUSHROOM_DJINN GOD_DJINN_OF_THE_LAMP GOD_POWER_STARS GOD_GUIDE_TO_THE_STARS MUSHROOM_KADABRA
 		}
@@ -623,7 +624,7 @@ outlaw = {
 		piety_name = ENVY
 		priests_can_marry = yes
 		priests_can_inherit = yes
-		can_hold_temples = yes
+		can_hold_temples = yes # Greed ideologies do not have temples or clergy
 		female_temple_holders = yes
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		allow_looting = yes
@@ -780,6 +781,7 @@ outlaw = {
 		intermarry = personality_cult
 		intermarry = pagan_group
 		intermarry = shine_sprites
+		intermarry = kongo_group
 		
 		hard_to_convert = yes
 		
@@ -1191,7 +1193,7 @@ kongo_group = {
 		high_god_name = GOD_CRYSTAL_COCONUT
 		
 		god_names = {
-			GOD_CRYSTAL_COCONUT GOD_THE_JUNGLE_BEAT GOD_THE_BANANA_HORDE GOD_GOLDEN_BANANAS
+			GOD_CRYSTAL_COCONUT GOD_THE_JUNGLE_BEAT GOD_THE_BANANA_HOARD GOD_GOLDEN_BANANAS
 		}
 		
 		evil_god_names = {
