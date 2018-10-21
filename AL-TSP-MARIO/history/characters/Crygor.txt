@@ -10,6 +10,7 @@
 	#properties = "00000000000"
 	add_trait = species_men
 	add_trait = genius
+	historical = yes
 	disallow_random_traits = yes #Done so that Dr. Crygor won't get unfitting traits
 	1900.7.4 = { #July 4th is a reference to the release date of WarioWare, Inc.: Mega Microgame$! in China
   		birth = yes
@@ -52,6 +53,7 @@
 	father = 4502
 	add_trait = species_men
 	add_trait = genius
+	historical = yes
 	disallow_random_traits = yes #Done so that Penny won't get unfitting traits
 	1993.12.2 = { #December 12th is a reference to the release date of WarioWare: Smooth Moves in Japan
   		birth = yes

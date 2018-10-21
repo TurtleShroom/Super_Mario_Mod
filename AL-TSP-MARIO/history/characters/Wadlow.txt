@@ -10,6 +10,7 @@
 	#properties = "00000000000"
 	add_trait = species_men
 	add_trait = tall
+	historical = yes
 	disallow_random_traits = yes #Done so that Waluigi won't get unfitting traits
 	1957.7.21 = { #July 21th is a reference to the release date of Mario Tennis in Japan
 		birth = yes

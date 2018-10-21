@@ -9,6 +9,7 @@
 	#dna = "00000000000"
 	#properties = "00000000000"
 	add_trait = species_the_yoshmeister
+	historical = yes
 	disallow_random_traits = yes #Done so that Yoshi won't get unfitting traits
 	1957.11.21 = { #This date is a reference to the release date of Super Mario World in Japan
   		birth = yes

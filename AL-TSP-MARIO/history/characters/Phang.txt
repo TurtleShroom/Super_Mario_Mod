@@ -43,6 +43,7 @@
 	father = 4751
 	mother = 4752
 	add_trait = species_men
+	historical = yes
 	1958.5.23 = {
   		birth = yes
 	}

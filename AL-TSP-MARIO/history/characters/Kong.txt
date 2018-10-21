@@ -10,6 +10,7 @@
 	add_trait = strong
 	add_trait = robust
 	add_trait = tall
+	historical = yes
 	1866.8.6 = {
 		birth = yes
 	}
@@ -65,6 +66,7 @@
 	add_trait = strong
 	add_trait = wroth
 	add_trait = quick
+	historical = yes
 	1941.7.9 = { #July 9th is a reference to the original Donkey Kong game's release date
 		birth = yes
 		effect = { set_character_flag = is_cranky_kong }
@@ -90,6 +92,7 @@
 	culture = x
 	add_trait = species_greater_kong
 	add_trait = fair
+	historical = yes
 	1942.9.7 = {
 		birth = yes
 	}
@@ -110,6 +113,7 @@
 	mother = 755
 	add_trait = species_greater_kong
 	add_trait = strong
+	historical = yes
 	1957.6.15 = { #July 9th is a reference to the Donkey Kong Jr game's release date
 		birth = yes
 		effect = { set_character_flag = is_donkey_kong_junior }
@@ -129,6 +133,7 @@
 	add_trait = species_greater_kong
 	add_trait = strong
 	father = 755
+	historical = yes
 	1973.11.21 = { #November 21th is a reference to the Donkey Kong Country's release date
 		birth = yes
 		effect = { set_character_flag = is_donkey_kong }
@@ -183,6 +188,7 @@
 	add_trait = species_greater_kong
 	add_trait = fair
 	add_trait = tall
+	historical = yes
 	1974.11.26 = { #November 26th is a reference to the Donkey Kong Country's release date in Japan
 		birth = yes
 	}
@@ -248,6 +254,7 @@
 	mother = 763
 	add_trait = species_lesser_kong
 	add_trait = twin
+	historical = yes
 	1978.11.17 = { #November 17th is a reference to the GBC Donkey Kong Country's release date in EU
 		birth = yes
 	}
@@ -267,6 +274,7 @@
 	add_trait = species_greater_kong
 	add_trait = twin
 	add_trait = tall
+	historical = yes
 	1978.11.17 = { #November 17th is a reference to the GBC Donkey Kong Country's release date in EU
 		birth = yes
 	}
@@ -318,6 +326,7 @@
 	add_trait = dumb
 	add_trait = strong
 	add_trait = tall
+	historical = yes
 	1983.11.22 = { #November 22th is a reference to the Donkey Kong 64's release
 		birth = yes
 	}
@@ -335,6 +344,7 @@
 	mother = 767
 	add_trait = species_greater_kong
 	add_trait = strong
+	historical = yes
 	1991.11.22 = { #November 22th is a reference to the Donkey Kong Country 3's release
 		birth = yes
 	}
@@ -380,6 +390,7 @@
 	culture = x
 	father = 771
 	add_trait = species_lesser_kong
+	historical = yes
 	1978.11.20 = { #November 20th is a reference to the GBC Donkey Kong Country's release date in US
 		birth = yes
 	}
@@ -421,6 +432,7 @@
 	culture = x
 	father = 773
 	add_trait = species_greater_kong
+	historical = yes
 	1971.1.21 = { #January 21th is a reference to the GBC Donkey Kong Country's release date in Japan
 		birth = yes
 	}
@@ -441,6 +453,7 @@
 	culture = x
 	father = 773
 	add_trait = species_greater_kong
+	historical = yes
 	1972.12.24 = { #December 24th is a reference to the Donkey Kong Country 2's release date in Japan
 		birth = yes
 	}
@@ -473,6 +486,7 @@
 	culture = x
 	father = 776
 	add_trait = species_greater_kong
+	historical = yes
 	1973.12.6 = { #December 6th is a reference to the Donkey Kong 64's release date in EU
 		birth = yes
 	}
@@ -489,6 +503,7 @@
 	culture = x
 	father = 753
 	add_trait = species_greater_kong
+	historical = yes
 	1947.6.1 = {
 		birth = yes
 	}
@@ -504,6 +519,7 @@
 	culture = x
 	mother = 778
 	add_trait = species_greater_kong
+	historical = yes
 	1968.8.4 = { #September 4th is a reference to the first time the Donkey Kong Country show aired on TV
 		birth = yes
 	}

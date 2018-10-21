@@ -25,6 +25,7 @@
 	#properties = "00000000000"
 	father = 5501
 	add_trait = species_men
+	historical = yes
 	disallow_random_traits = yes #Done so that 5-Volt won't get unfitting traits
 	1973.10.14 = { #October 14th is a reference to the release date of WarioWare: Twisted! in Japan
   		birth = yes
@@ -46,6 +47,7 @@
 	religion = temple_of_form
 	culture = diamond_city_men
 	add_trait = species_men
+	historical = yes
 	1972.6.1 = {
   		birth = yes
 	}
@@ -67,6 +69,7 @@
 	father = 5503
 	mother = 5502
 	add_trait = species_men
+	historical = yes
 	disallow_random_traits = yes #Done so that 9-Volt won't get unfitting traits
 	1994.12.16 = { #December 16th is a reference to the release date of 3DS WarioWare, Inc.: Mega Microgame$! in EU
   		birth = yes
@@ -106,6 +109,7 @@
 	add_trait = species_men
 	add_trait = strong
 	add_trait = tall
+	historical = yes
 	disallow_random_traits = yes #Done so that 18-Volt won't get unfitting traits
 	1994.5.19 = { #May 19th is a reference to the release date of WarioWare: Twisted! in Australia
   		birth = yes
