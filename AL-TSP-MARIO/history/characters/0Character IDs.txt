@@ -75,3 +75,15 @@
 
 #Uca
 #6251-6500
+
+#Jadeite
+#6501-6750 (Joe)
+
+#Cricket
+#6751-7000 (Young Cricket)
+
+#Mantis
+#7001-7250 (Master Mantis)
+
+#Fordite
+#7251-7500 (Mike)

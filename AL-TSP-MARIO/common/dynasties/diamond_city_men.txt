@@ -45,3 +45,27 @@
 	name = "Volt"
 	culture = "diamond_city_men"
 }
+
+3008 = {
+	used_for_random = no
+	name = "Jadeite"
+	culture = "diamond_city_men"
+}
+
+3009 = {
+	used_for_random = no
+	name = "Cricket"
+	culture = "diamond_city_men"
+}
+
+3010 = {
+	used_for_random = no
+	name = "Mantis"
+	culture = "diamond_city_men"
+}
+
+3011 = {
+	used_for_random = no
+	name = "Fordite"
+	culture = "diamond_city_men"
+}
