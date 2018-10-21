@@ -4,7 +4,7 @@
 2501 = {
 	name = Waluigi #Waluigi
 	dynasty = 274
-	religion = baskism 
+	religion = lucienism 
 	culture = mario_brothers
 	#dna = "00000000000"
 	#properties = "00000000000"
