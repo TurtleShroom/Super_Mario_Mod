@@ -766,8 +766,13 @@ species_cleft = { # Clefts
 	customizer = no
 }
 
-species_cloud_generic = {  # Cloud beings, like Huff-and-Puff or Mallow
+species_cloud_generic = {  # Cloud beings, like Huff-and-Puff, Nimbuses like Mallow get their own Trait
+	opposites = {
+		species_nimbus_cloud
+	}
+
 	same_opinion = 5
+	opposite_opinion = 5
 
 	random = no
 	customizer = no
@@ -829,13 +834,6 @@ species_corkpedite  = {
 }
 
 species_crab_generic  = {
-	potential = {
-
-	}
-	opposites = {
-
-	}
-
 	same_opinion = 5
 
 	random = no
@@ -1102,6 +1100,7 @@ species_galoomba  = { # Galoomba
 		trait = species_chick # Goomba
 		trait = species_sarasaland_chick # Goombo
 		trait = species_chick_ghost # Goomboo / Ghost Goomba
+		trait = species_chick_persimmon # Goombrat
 		trait = species_gromba # Rock Goomba
 		trait = species_ghost_octoomba
 		trait = species_octoomba
@@ -1186,6 +1185,7 @@ species_goom = { # Goom, a creature with no relation to Goombas
 species_chick = { # Goomba
 	opposites = {
 		species_sarasaland_chick # Goombo
+		species_chick_persimmon # Goombrat
 		species_chick_ghost # Goomboo / Ghost Goomba
 		species_galoomba # Galoomba
 		species_gromba # Rock Goomba
@@ -1211,6 +1211,7 @@ species_sarasaland_chick = { # Goombo
 		species_galoomba # Galoomba
 		species_chick # Goomba
 		species_chick_ghost # Goomboo / Ghost Goomba
+		species_chick_persimmon # Goombrat
 		species_gromba # Rock Goomba
 		species_ghost_octoomba
 		species_octoomba
@@ -1231,6 +1232,7 @@ species_chick_ghost = { # Goomboo / Ghost Goomba
 		species_galoomba
 		species_chick # Goomba
 		species_sarasaland_chick # Goombo
+		species_chick_persimmon # Goombrat
 		species_gromba # Rock Goomba
 		species_ghost_octoomba
 		species_octoomba
@@ -1244,6 +1246,27 @@ species_chick_ghost = { # Goomboo / Ghost Goomba
 	immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
 
 	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_chick_persimmon = { # Goombrat
+ 	opposites = {
+		species_galoomba # Galoomba
+		species_chick # Goomba
+		species_sarasaland_chick # Goombo
+		species_chick_ghost # Goomboo / Ghost Goomba
+		species_gromba # Rock Goomba
+		species_ghost_octoomba
+		species_octoomba
+		species_coon_chick # Tanoomba
+	}
+	health = 4
+	martial = -5
+
+	same_opinion = 5
+	opposite_opinion = 5
 
 	random = no
 	customizer = no
@@ -1277,6 +1300,7 @@ species_gromba = { # Rock Goomba
 		species_chick # Goomba
 		species_sarasaland_chick # Goombo
 		species_chick_ghost # Goomboo / Ghost Goomba
+		species_chick_persimmon # Goombrat
 		species_ghost_octoomba
 		species_octoomba
 		species_coon_chick # Tanoomba
@@ -1745,7 +1769,26 @@ species_eldritch_abomination = { # Horrific nightmare spirits and beings, even o
 	general_opinion = -15
 	same_opinion = 25
 
+	immortal = yes # Special Events will take out most ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
+
 	random = no
+	customizer = no
+}
+
+species_nimbus_cloud = { # Nimbus Clouds, e.g. Mallow, from "Super Mario's RPG"
+	opposites = {
+		species_cloud_generic
+	}
+
+	learning = 3 # Magic wielders
+	martial = -4 # No physical attacks that do anything
+
+	health = 1
+
+	same_opinion = 5
+	opposite_opinion = 5
+
+	randomizer = no
 	customizer = no
 }
 
@@ -1775,7 +1818,7 @@ species_noki = {
 
 species_nommon = {
 	opposites = {
-		species_piillo
+		species_piillo # Pi'illo
 	}
 
 	same_opinion = 5
@@ -1800,6 +1843,7 @@ species_ghost_octoomba = { # Octoboo
 		species_chick # Goomba
 		species_chick_ghost # Goomboo / Goomba Ghost
 		species_sarasaland_chick # Goombo
+		species = chick_persimmon # Goombrat
 		species_gromba # Rock Goombas
 		species_octoomba
 		species_coon_chick # Tanoomba
@@ -1824,6 +1868,7 @@ species_octoomba = { # Octoomba
 		species_chick # Goomba
 		species_chick_ghost # Goomboo / Ghost Goomba
 		species_sarasaland_chick # Goombo
+		species_chick_persimmon
 		species_gromba # Rock Goomba
 		species_ghost_octoomba
 		species_coon_chick # Tanoomba
@@ -1882,8 +1927,10 @@ species_phantamanta = {
 
 	intrigue = -10 # At full size, they are the size of, if not wider than, multi-story hotel complexes
 
-	general_opinion = -15
-	same_opinion = 25
+	immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
+
+	general_opinion = -20
+	same_opinion = 30
 
 	random = no
 	customizer = no
@@ -1909,9 +1956,14 @@ species_pianta = { # Pianta
 }
 
 species_piillo = { # Pi'illo
+	opposites = {
+		species_nommon
+	}
+
 	diplomacy = 3
 
 	same_opinion = 5
+	opposite_opinion = -20 # Nommons and Piillos once shared their homeland, but they became enemies over time
 
 	random = no
 	customizer = no
@@ -2390,6 +2442,7 @@ species_coon_chick = { # Tanoomba (Raccon / Tanooki Goomba)
 		species_chick # Goomba
 		species_chick_ghost # Goomboo / Ghost Goomba
 		species_sarasaland_chick # Goombo
+		species_chick_persimmon # Goombrat
 		species_gromba
 		species_ghost_octoomba
 		species_octoomba

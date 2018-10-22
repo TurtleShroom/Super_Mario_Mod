@@ -862,6 +862,13 @@ spriteTypes = {
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
+	spriteType = {
+		name = "GFX_trait_species_chick_persimmon"
+		texturefile = "gfx/traits/species/Goombrat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
 	
 	spriteType = {
 		name = "GFX_trait_species_goonie"
@@ -1202,6 +1209,14 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_trait_species_eldritch_abomination"
 		texturefile = "gfx/traits/species/NightmareBeing.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_species_nimbus_cloud"
+		texturefile = "gfx/traits/species/Nimbus.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"

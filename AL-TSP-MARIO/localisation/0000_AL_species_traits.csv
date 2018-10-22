@@ -2,7 +2,7 @@
 species_alien_generic;Alien;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 species_alien_generic_desc;This character does not hail from the Mushroom World.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 species_ameboid;Ameboid;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-species_ameboid_desc;This is an Ameboid. Originally existing in an alternate dimension, Ameboids are comprised of gel and possess no internal organs. Capable of division by mitosis, they can create up to five copies of themselves at once.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+species_ameboid_desc;This is an Ameboid. Originally existing in an alternate dimension, Ameboids are comprised of gel and possess no internal organs. Capable of near-instant division by mitosis, they can create up to five copies of themselves at once.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 species_aminata;Aminata;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 species_aminata_desc;This is an Aminata.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 species_anemone;Sea Amemone;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
@@ -22,7 +22,7 @@ species_attacky_sack_desc;This is an Attacky Sack. Attacky Sacks are beautifully
 species_balloon_generic;Balloon;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 species_balloon_generic_desc;This creature is some form of balloon or other latex-coated being capable of flight.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 species_bandinero;Bandinero;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-species_bandinero_desc;This is a Bandinero, native to the Shake Dimensions as well as the Mushroom World. Although Bandineroes are a type of Goom, they cannot produce fertile offspring with other Gooms and are thus considered a wholly separate species.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+species_bandinero_desc;This is a Bandinero, native to the Shake Dimension as well as the Mushroom World. Although Bandineroes are a type of Goom, they cannot produce fertile offspring with other Gooms and are thus considered a wholly separate species.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 species_bandit;Bandit;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 species_bandit_desc;This is a scheming Bandit. Distinguished by their height and lack of a mask, Bandits are a type of Shy Guy possessing fantastic speed and, as their name implies, a tendancy to engage in all forms of theft. Hiearchies of Bandits are very common: Bandits possessing far higher criminal skills will wear different colors than the standard blue or red, which normally indicate pickpockets. The traditional leader of a pack or family of Bandits is a Big Bandit, which has the exclusive privilege of donning green robes. However, Bandit underlings are not afraid to abandon Big Bandits that show weakness. Bandits are generally not to be trusted.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 species_barney_bubble;Barney Bubble;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
@@ -102,14 +102,24 @@ species_cataquack_desc;This is a Cataquack, a flightless bird capable of throwin
 species_centipede;Centipede;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 species_centipede_desc;This is a Centipede. Centipedes are massive, biologically immortalm insect-like creatures consisting of sixteen segments plus their head. Absent knives, artillery, and explosives, no known natural attack, such as breathing fire, a Yoshi Egg or stomping, can harm them. They do not have one hundred legs.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 species_pac_man;Chain Chomp;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-species_pac_man_desc;This is a Chain Chomp. Chain Chomps are attack dogs in the Mushroom World and almost never possess any higher intelligence or speech. Normal Chain Chomps are encased in an exoskeleton of metal, but more ancient Chain Chomps of stone also exist. Chain Chomps hold no allegiance except a benevolent owner. For wicked masters, Chain Chomps are loyal only when they are not allowed to roam free. As their name suggests, a Chain Chomp, regardless of opinion of its master, is only an effective line of defense when bound to a stationary object. Chain Chomps that are mistreated or abused will always turn on their owners if unchained or released from a controlling spell.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+species_pac_man_desc;This is a Chain Chomp. Chain Chomps are attack dogs in the Mushroom World and almost never possess any higher intelligence or speech. Normal Chain Chomps are encased in an exoskeleton of metal, but more ancient Chain Chomps of stone also exist. Chain Chomps hold no allegiance except to a benevolent owner. For wicked masters, Chain Chomps are loyal only when they are not allowed to roam free. As their name suggests, a Chain Chomp, regardless of opinion of its master, is only an effective line of defense when bound to a stationary object. Chain Chomps that are mistreated or abused will always turn on their owners if unchained or released from a controlling spell.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 species_charging_chuck;Charging Chuck;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 species_charging_chuck_desc;This is a Charging Chuck, a type of burly Koopa known for its athleticism, charismatic teamwork, comraderie, and sportsmanship. Not all Charging Churcks are named Chuck, nor are they all male;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 species_fish;Cheep Cheep;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 species_fish_desc;This is a Cheep Cheep. Cheep Cheeps are a type of fish that spend the vast majority of their lives in a small, juvenile state. Cheep Cheeps that live extraordinarily long lives ultimately mature to Boss Basses if they are male, and BIG BERTHAS if they are female.
 species_cherbil;Cherbil;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 species_cherbil_desc;This is a Cherbil. Cherbils are bizzarely shaped, floating creatures consisting of chemicals that, when inhaled or ingested, induce immediate slumber.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-species_choppah;GET TO THE CHOPPAH!;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-species_choppah_desc;This is a Choppah, a gentle insect capable of sustained, hovering, flight. Its method of flying is unique to all other known insects in that it roates its wings in full circles around its bodies, like its namesake's rotors.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+species_choppah;Choppah;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+species_choppah_desc;This is a Choppah, a gentle insect capable of sustained, hovering, flight. Its method of flying is unique to all other known insects in that it roates its wings in full circles around its bodies, like its namesake's rotors.\nGET TO THE CHOPPAH!;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 species_chuckorok;Chuckorok;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 species_chuckorok_desc;This is a Chuckorok, a living stone that shoots other stones from its mouth. It is native to the Chucklehuck Woods.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+species_chuckya;Chuckya;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+species_chuckya_desc;This is a Chuckya, a type of Bob-omb, yet incapable of any form of detonation. Instead, it demonstrates spectacular strength, capable of picking up almost any movable object imaginable. It earned its name for its incredible throwing arm, which it  gleefully uses on objects it grabs.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+species_cleft;Cleft;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+species_cleft_desc;Clefts are living stones, comprised of wrock, metal ore, or iron. They are biologically immortal and can only be killed by being broken. The rarest Clefts, called Iron Clefts, are made of an iron alloy that is stronger than steel and harder than diamonds: the only way to injure Iron Clefts is with another Iron Cleft. Clefts do not need to breathe and thrive in any location where rocks exist. Clefts have even been found on natural moons in space..;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+species_cloud_generic;Cloud;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+species_cloud_generic_desc;This creature is some sort of living cloud or water vapor-based organism. Most cloud-creatures can fly.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+species_cluster;Cluster;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+species_cluster_desc;This is a Cluster. Clusters lurk in dark caverns and cover themselves in hard crystals to withstand being hit or stepped on, which they can remove if the need arises. They are capable of storing immense power in a one-shot attack, but if they exert themselves too much, they will explode.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+species_coalbit;Coalbit;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+species_coalbit_desc;This is a Coalbit. Coalbits are primarily composed of carbon and resemble coal ore. They exist in a symbiotic relationship with the Choomba. Coalbits will jump into Choombas and combust themselves. After being burnt up by a Choomba, the Choomba will expel a Coalbit's ashes, which will then dissolve into coal ore and form new Coalbits. As such, both Coalbits and Choombas are almost always located only where coal is abundant, and frequent mines both as employees and looters.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
