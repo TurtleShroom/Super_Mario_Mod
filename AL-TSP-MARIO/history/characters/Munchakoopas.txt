@@ -2,7 +2,7 @@
 #5751-6000
 
 5751 = {
-	name = "T. Yoshisaur" #Yoshi
+	name = "Yoshisaur" #Yoshi
 	dynasty = 1006
 	religion = happiness
 	culture = yoshi_island

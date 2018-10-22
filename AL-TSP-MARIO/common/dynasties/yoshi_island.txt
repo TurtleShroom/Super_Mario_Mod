@@ -25,6 +25,13 @@
 
 
 1006 = {
+	used_for_random = no
 	name = "Munchakoopas"
+	culture = "yoshi_island"
+} 
+
+1007 = {
+	used_for_random = no
+	name = "Oofoosoot"
 	culture = "yoshi_island"
 } 

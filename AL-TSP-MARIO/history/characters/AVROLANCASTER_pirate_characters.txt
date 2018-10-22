@@ -11,19 +11,6 @@
 	}
 }
 
-9900001 = {
-	name = Bifun
-	religion = piracy
-	culture = pirate
-	add_trait = species_minotaur
-	1966.1.1 = { 
-		birth = yes
-	}
-	2066.12.12 = {
-		death = yes
-	}
-}
-
 9900002 = {
 	name = Hinyari
 	religion = piracy

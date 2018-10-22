@@ -1,4 +1,5 @@
 751 = {
+	used_for_random = no
 	name = "Syrup"
 	culture = "pirate"
 }
@@ -57,3 +58,9 @@
 	name = "Clump"
 	culture = "pirate"
 }
+
+763 = {
+	used_for_random = no
+	name = "Asterionid"
+	culture = "pirate"
+} 

@@ -23,6 +23,7 @@
 	culture = x
 	father = 1251
 	add_trait = species_bowser
+	historical = yes
 	1866.6.1 = { 
 		birth = yes
 	}

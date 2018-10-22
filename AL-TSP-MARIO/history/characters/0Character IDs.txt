@@ -87,3 +87,15 @@
 
 #Fordite
 #7251-7500 (Mike)
+
+#Oofoosoot (tsf4)
+#7501-7750
+
+#Asterionid (Bifun)
+#7751-8000
+
+#Erebos (The Shadow Queen)
+#8001-8250
+
+#Siren (The Shadow Sirens)
+#8251-8500
