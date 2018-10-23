@@ -131,7 +131,7 @@ mushroom_kingdom_group = {
 			Tangerine:0
 		}
 		from_dynasty_suffix = " T."
-		grammar_transform = french
+		grammar_transform = spanish
 		founder_named_dynasties = yes
 		modifier = default_culture_modifier
 		dukes_called_kings = yes
@@ -798,7 +798,7 @@ canonical_human_group = {
 			Abbondanzio Abbondio Abelardo_Abelard Abelino Achille Adalberto_Albert Adelfo Adelmio_Adelmo Adelmo_Adelmo Adone Adriano_Adrian Agapito Agostino_Augustine Aimone Alamanno Alarico_Alaric Albano Alberico Alberto_Albert Albino Alboino Alcide Aldobrandino Aleardo Aleramo Alessandro_Alexander Alessio_Alexis Alighiero Alvise Ambrogio_Ambrosius Amedeo Anastasio_Anastasius  Andrea_Andrew Angelo_Angel Annibale Anselmo_Anselm Antonino_Antoninus Antonio_Antoninus Antoniotto Arcibaldo_Archibald Arderico Armando_Armand Arnolfo_Arnulf Arrigo Arsenio Artemio Ascanio Astorre Atenolfo_Atenulf Attilio Augusto_Augustine Aurelio_Aurelius Ausilio Ausonio Averado Azzo Azzone Baldassarre Baldovino_Baldwin Barnaba_Barnabas Bartolomeo_Bartolomeus Basilio_Basil Bassiano Basso Battista Beltrano_Bertrand Benedetto_Benedict Benvenuto Berardo Bernabò_Barnabas Bernardo_Bernard Berto Bertoldo_Berthold Biagio Bonaventura Bonifacio_Bonifacius Borso Bruno Bruto Buonconte Buoso Callisto_Callistus Camillo_Camillus Candido Cangrande Carlo_Charles Cassio Castore Cataldo Catone Cecco Cesare_Caesar Chiaffredo Chiano Ciro Ciuccio Claudio_Claudius Clemente_Clement Comita Conone Cornelio_Cornelius Corradino Corrado_Konrad Cosimo Cosma_Cosmas Costante Costantino Costanzo Cristoforo_Christopher Damiano_Damian Davide_David Demetrio_Demetrius Dioniso_Dionysus Doménico_Dominic Durante Eduardo_Edward Elio Emmanuele_Manuel Ennio Enrico_Henry Enzio Enzo Ercole_Heracles Eriprando Ermenegildo Ettore_Hector Eugenio_Eugene Ezio Ezzelino Fabrizio Fausto Federigo_Frederick Felice_Felix Ferdinando_Ferdinand Ferruccio Filippo_Philip Fiorello Flavio Folco_Folke Fortunato Fosco Francesco_Francis Fresco Gabriele_Gabriel Gabrino Gaetano Galasso Galeazzo Galeotto Gaspare Gastone_Gaston Gelasio Gentile Geraldo_Gerald Gerardo_Gerard Germano_Germanus Gerolamo Gherardo_Gerard Giacinto_Hyacinth Giacomo_Jacob Gian_John Gianfranco Gianleone Giano_John Giberto Gilberto_Gilbert Giolio Giordano_Jordan Giorgio_George Giovanni_John Giulio_Julius Giuseppe_Joseph Goffredo_Godfrey Gregorio_Gregory Gualtiero_Walter Guarnito Guerrino Guglielmo_William Guido_Guy Guidone_Guy Guigliadore Iacopo_Jacob Igino Innocenzo Ippolito_Hippolytus Isnardo Jacopo_Jacob Lamberto_Lambert Landolfo_Landolf Landone Lanfranco Lattanzio Lazzarino Lazzaro_Lazarus Lealdo Leonardo Leone_Leo Leonello_Lionel Leopoldo Libero Lionello_Lionel Livio Lodovico_Louis Lorenzo_Laurence Luca_Luke Luchino Lucio_Lucius Malacresta Manfredo Manuele_Manuel Marco_Marcus Mariano_Marius Marino Marsiglio Martino_Martin Massimo_Maximus Mastino Matteo_Matthew Merigo Michelangelo Michele_Michael  Napoleone Nazareno Nestore Niccolò_Nicholas Nicola_Nicholas Nino Nolfo Oberto Obizzino Obizzo Oddone Omero Onorio Oreste Orlando Ottavio Ottobono Ottone_Otto Pagano_Pagan Pancrazio Pandolfo_Randolph Paolo_Paul Pasquale_Pascal Patrizio_Patrick Pellegrino Pericle Pietro_Peter Pio Prospero Rafaello_Raphael Radul Raimondo_Raymond Rainero_Rainer Raineri_Rainer Riccardo_Richard Rinaldo_Reinhold Rizzardo Roberto_Robert Rodolfo_Ralph Rolando_Roland Rosso Ruggiero Salinguerra Salvatore_Salvador Salvestro_Silvester Sante_Sancho Saverio Sciarra Sebastiano_Sebastian Secondotto Serafino_Seraphin Sergio Sesto Settimio Severino Severo Silvano Silvestro Simone_Simon Simonetto Sinibaldo Sinucello Sozzo Spinetto Stefano_Stephen Stentore Taddeo Tedaldo Tedice Teodoro_Theodore Tibaldo_Theobald Tiziano Tommaso_Thomas Torgodorio Torquato Ubaldo Uberto Ugo_Hugh Ugoccione Ugolino Umberto_Humbert Urbano_Urban Valentino_Valentin Valerio_Valerius Vincentello Vincenzo_Vincent Virginio Vitale Vittore_Victor Vittorio_Victor Zaccaria_Zachary
 
 			# New Yorker filler
-			Alexander Atticus August Andrew Anthony Angus Allen Asa Alvin Albert Ambrose Arthur Buford Benjamin Benedict Bernard Bartholomew Brigham Braxton Barnabas Cyrus Charles Cyril Christopher Casey Clarence Clark Calvin Chester David Donald Daniel Duncan Eric Ebenezer Elbridge Eugene Eustace Ernest Edmund Ephraim Earl Ezra Emory Francis Frederick_Frederich Freddy_Frederick Ferdinand George:250 Gregory Gideon Gerald Grover Gouveneur Gordon Humphrey Howard Hector Harold Horatio Henry Ian Irving Joseph Jeffrey Jubal John Jebediah James Jacob Julius Julian Justin Josiah Joshua Leonard Louis Lawrence Leland Luke Lionel Lorenzo Lamont Lyman Michael_Micheal Mike_Micheal Mikey_Micheal Mark Martin Milton Merriweather Nathaniel Nehemiah Nicholas Oliver Obadiah Orville Owen Philip Peter Paul Patrick Rutherford Robert Richard Ronald Reuchlin Rufus Rhett Samuel Stephen Sampson Sylvester Theodore Thomas Timothy_Timothy Timmy_Timothy Upton Ulysses Victor Vincent William Walter Winfield Wilbur Wallace Walker Zachary_Zachary Zack_Zachary  Zach_Zachary
+			Alexander Atticus August Andrew Anthony Angus Allen Asa Alvin Albert Ambrose Arthur Buford Benjamin Benedict Bernard Bartholomew Brigham Braxton Barnabas Cyrus Charles Cyril Christopher Casey Clarence Clark Calvin Chester David Donald Daniel Duncan Eric Ebenezer Elbridge Eugene Eustace Ernest Edmund Ephraim Earl Ezra Emory Francis Frederick_Frederich Freddy_Frederick Ferdinand Gregory Gideon Gerald Grover Gouveneur Gordon Humphrey Howard Hector Harold Horatio Henry Ian Irving Joseph Jeffrey Jubal John Jebediah James Jacob Julius Julian Justin Josiah Joshua Leonard Louis Lawrence Leland Luke Lionel Lorenzo Lamont Lyman Michael_Micheal Mike_Micheal Mikey_Micheal Mark Martin Milton Merriweather Nathaniel Nehemiah Nicholas Oliver Obadiah Orville Owen Philip Peter Paul Patrick Rutherford Robert Richard Ronald Reuchlin Rufus Rhett Samuel Stephen Sampson Sylvester Theodore Thomas Timothy_Timothy Timmy_Timothy Upton Ulysses Victor Vincent William Walter Winfield Wilbur Wallace Walker Zachary_Zachary Zack_Zachary  Zach_Zachary
 		}
 
 		female_names = {
@@ -1136,6 +1136,53 @@ japanese_group = {
 		mother_name_chance = 0
 
 		modifier = default_culture_modifier
+
+		used_for_random = no
+		allow_in_ruler_designer = no
+	}
+}
+
+movie_group = {
+	movie_culture = { # Invaders from the "Super Mario Brothers Movie", the Dinohattanites
+		graphical_culture = { englishgfx italiangfx chinesegfx mongolgfx westerngfx }
+		color = { 99 60 33 }
+
+		male_names = {
+			# "Canonical"
+			Mario_Mario:110 Luigi_Luigi:110 Toad:200 King:110 Yoshi_Yoshi:200 James_James:200 Iggy_Iggy:200 Spike_Spike:200 Goomba:200 Anthony:200
+
+			# Sampling of movie staff
+			Mali:150 Don_Ronald:150 Brad_Bradley:150 Alan_Alan:150 Joseph_Joseph:150 Christopher_Christopher:150 Mark_Mark:150 David_David:150 Fred_Frederick:150 Roland:150 Parker:150 Bob_Robert:150 Fisher:150 Richard:150 Nixon:150 Giani:150 Russo:150 Lance:150 Patt:150
+
+			# Filler
+			Alexander Atticus August Andrew Anthony Angus Allen Asa Alvin Albert Ambrose Arthur Buford Benjamin Benedict Bernard Bartholomew Brigham Braxton Barnabas Cyrus Charles Cyril Christopher Casey Clarence Clark Calvin Chester David Donald Daniel Duncan Eric Ebenezer Elbridge Eugene Eustace Ernest Edmund Ephraim Earl Ezra Emory Francis Frederick_Frederich Freddy_Frederick Ferdinand George Gregory Gideon Gerald Grover Gouveneur Gordon Humphrey Howard Hector Harold Horatio Henry Ian Irving Joseph Jeffrey Jubal John Jebediah James Jacob Julius Julian Justin Josiah Joshua Leonard Louis Lawrence Leland Luke Lionel Lorenzo Lamont Lyman Michael_Micheal Mike_Micheal Mikey_Micheal Mark Martin Milton Merriweather Nathaniel Nehemiah Nicholas Oliver Obadiah Orville Owen Philip Peter Paul Patrick Rutherford Robert Richard Ronald Reuchlin Rufus Rhett Samuel Stephen Sampson Sylvester Theodore Thomas Timothy_Timothy Timmy_Timothy Upton Ulysses Victor Vincent William Walter Winfield Wilbur Wallace Walker Zachary_Zachary Zack_Zachary  Zach_Zachary
+		}
+
+		female_names = {
+			# "Canonical"
+			Daniella_Danielle:200 Daisy:250 Lena:225 Bertha:200
+
+			# Sampling of movie staff
+			Terry:150 Annabel:150 Roxette:150 Samantha:150 Fiona:150 Dana:150 Francess:150 Sylvia:150 Desirée_Diseree:175 Melanie:150 Mona_Monica:150
+
+			# Filler
+			Anne Amanda Ada April Amphyllis Abigail Alice Adell Amelia Antoinette Arabella Alma Agnes Agatha Barbara Brigit Blanche Bertha Belle Caroline Charlotte Christine Catharine Clementine Clara Constance Claudia Carrie Cora Dolley Dorothy Deborah Doris Edith Evangeline Elizabeth Esther Emily Emma Ernestine Ethel Flora Frances Florence Gladys Gloria Grace Gertrude Heather Hannah Hermina Harriet Helen Hortense Hope Ida Isabella Joan Jane Julia Josephine Laura Lucy Lydia Lillie Lena Michelle Mary Marta Muriel Mildred Margaret Mercy Mathilda Marion Madeline Marilla Mabel Nancy Noami Nell Olympia Prudence Patricia Pauline Patience Pamela Phoebe Paula Rachel Rebecca Rhoda Rosalie Ruth Rosa Scarlett Sarah Sally Sylvia Susanna Sybil Susa Sophia Tabitha Theodora Victoria Virginia Verina Valeria Winifred Zerelda
+		}
+
+		horde = yes
+		allow_looting = yes
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 5
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 20
+		mother_name_chance = 0
+
+		modifier = movie_culture_modifier
 
 		used_for_random = no
 		allow_in_ruler_designer = no

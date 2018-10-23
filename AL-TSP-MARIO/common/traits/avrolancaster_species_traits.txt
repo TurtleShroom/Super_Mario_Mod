@@ -811,6 +811,8 @@ species_combat = {
 }
 
 species_conkdor  = {
+	martial = 1  # They attack like Thwomps
+	intrigue = -2
 	same_opinion = 5
 
 	random = no
@@ -873,6 +875,9 @@ species_crook  = {
 }
 
 species_dayzee  = {
+	ai_rationalist = -20 # CRAYZEE Dayzees are crazy
+	ai_ambition = 20 # CRAYZEE Dayzees are crazy
+
 	martial = 1  # _CRAYZEE_ DAYZEE
 
 	same_opinion = 5
@@ -895,6 +900,21 @@ species_dingaling  = {
 
 	random = no
 	customizer = no
+}
+
+species_dinohattan = {
+	ai_ambition = 9999
+	ai_zeal = 10
+	ai_greed = 5
+
+	intrigue = 2
+	martial = 6
+	learning = 3
+	stewardship = -10 # Their homeworld is completely destroyed
+	
+	general_opinion = -30 # The negative one thousand penalty will be located in the religion and culture
+	same_opinion = 60
+	same_opinion_if_same_religion = 40
 }
 
 species_dinosaur_generic  = {

@@ -303,15 +303,15 @@ machine = { # Is this a sentient, self-aware artificial intelligence, contraptio
 		trait = species_blockhopper
 		trait = species_blockstepper
 		trait = species_blowhard
-		trait = species_bullet # Bullet Bill
+#		trait = species_bullet # Bullet Bill
 		trait = species_buzz
-		trait = species_digga
-		trait = species_dingaling
+#		trait = species_digga
+#		trait = species_dingaling
 		trait = species_kaboomba
 		trait = species_machine_generic
-		trait = species_missile_bill
+#		trait = species_missile_bill
 		trait = species_skipdrill
-		trait = species_torpedo_ted
+#		trait = species_torpedo_ted
 	}
 }
 

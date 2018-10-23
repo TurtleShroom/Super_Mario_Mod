@@ -592,12 +592,21 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_trait_species_dinohattan"
+		texturefile = "gfx/traits/species/Movie.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
 		name = "GFX_trait_species_dinosaur_generic"
 		texturefile = "gfx/traits/species/DinosaurBeing.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
+
 	
 	spriteType = {
 		name = "GFX_trait_species_doogan"

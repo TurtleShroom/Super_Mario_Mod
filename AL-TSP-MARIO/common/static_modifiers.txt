@@ -131,7 +131,7 @@ nomad_ruling_clan_too_powerful = {
 
 # Isolated county
 county_isolated = {
-	local_revolt_risk = 0.04
+	local_revolt_risk = 0.01
 }
 
 new_administration = {
@@ -696,4 +696,23 @@ capital_empire = {
 
 # Applied to your holdings not in the dejure empire your capital is in
 outside_capital_empire = {
+}
+
+###########################################################################
+# # Mod Modifiers
+##########################################################################
+
+# Dinohattanite culture statistics
+movie_culture_modifier = {
+	stewardship = -2
+	ai_republic_modifier = 100
+	ai_ambition = 1000
+
+	build_cost_city_modifier = -0.5
+	same_opinion = 10
+
+	land_morale = -0.5 # False Goombas are strong, but do not fight well
+	land_organisation = 10 # False Goombas do not experience morale loss
+	
+	city_vassal_min_levy = 1
 }

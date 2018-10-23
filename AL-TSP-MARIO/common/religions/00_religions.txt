@@ -214,10 +214,10 @@ astrotheology = {
 		cousin_marriage = no
 		attacking_same_religion_piety_loss = yes
 		raised_vassal_opinion_loss = no
-		peace_piety_gain = 0.1
+		peace_piety_gain = 0.25
 		
 		religious_clothing_head = 0
-		religious_clothing_priest = 1
+		religious_clothing_priest = 0
 	}
 
 	beanstar_faith = { # The Bean Bean Kingdom worships a specific Star Spirit called the Beanstar, it is canonically "the protector of [said] land"
@@ -330,7 +330,7 @@ pagan_group = {
 	ai_convert_other_group = 2 # always try to convert
 	
 	# Names given only to dogmatic characters (base names)
-	
+
 	male_names = {
 		
 	}
@@ -629,6 +629,7 @@ outlaw = {
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		allow_looting = yes
 		uses_jizya_tax = yes
+		peace_prestige_loss = yes
 		
 		aggression = 2
 		
@@ -775,6 +776,7 @@ outlaw = {
 		allow_looting = yes
 		raised_vassal_opinion_loss = no
 		uses_jizya_tax = yes # protection rackets
+		raised_vassal_opinion_loss = no
 		
 		max_wives = 3
 
@@ -816,6 +818,7 @@ outlaw = {
 		character_modifier = {
 			intrigue = 4
 			martial = -3
+			learning = 1
 		}
 
 		piety_name = SUBTERFUGE
@@ -841,6 +844,8 @@ personality_cult = {
 	
 	ai_convert_same_group = 2 # always try to convert
 	ai_convert_other_group = 2 # always try to convert
+
+	hostile_within_group = yes
 	
 	# Names given only to personality cult characters (base names)
 	male_names = {
@@ -883,6 +888,8 @@ personality_cult = {
 		landed_kin_prestige_bonus = yes
 		has_heir_designation = yes # Bowser selected Bowser II (Junior), his youngest son, over Ludwig, his firstborn, indicating free heir choosing (this may be expanded to use the Designated Heir system in Vanilla renditon Republics to cover the entire family, if such a thing is possible)
 		uses_jizya_tax = yes
+		peace_prestige_loss = yes
+		raised_vassal_opinion_loss = no
 		
 		intermarry = astrotheology
 		intermarry = dogmatic
@@ -999,6 +1006,7 @@ lunatheology = {
 		priests_can_inherit = no
 		female_temple_holders = no
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		raised_vassal_opinion_loss = no
 		
 		allow_in_ruler_designer = no
 		
@@ -1046,6 +1054,7 @@ lunatheology = {
 		priests_can_inherit = no
 		female_temple_holders = no
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		raised_vassal_opinion_loss = no
 		
 		religious_clothing_head = 5
 		religious_clothing_priest = 5
@@ -1100,7 +1109,8 @@ extraterrestrial = {
 		female_temple_holders = yes
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		allow_looting = yes
-		
+ 		peace_prestige_loss = yes
+		raised_vassal_opinion_loss = no
 
 		intermarry = outlaw
 		intermarry = dogmatic
@@ -1269,5 +1279,78 @@ tennis_group = {
 
 		religious_clothing_head = 0
 		religious_clothing_priest = 10
+	}
+}
+
+movie_religion_group = {
+	has_coa_on_barony_only = yes
+	graphical_culture = westerngfx
+	crusade_cb = crusade
+	playable = yes
+
+	ai_peaceful = no # Will not make Hordes lose their super aggressiveness
+	ai_convert_same_group = 2 # always convert
+	ai_convert_other_group = 0 # never convert
+
+	# Names given only to Dinohattanite characters
+	male_names = {
+		Reznor Renzor Karma Rex Tyran Triceratops Toad Spike
+	}
+
+	female_names = {
+		Veloci Daisy
+	}
+
+	movie_cult = { # Dinohattan Portal Guardian Cult (as corrupted by President Koopa)
+		graphical_culture = muslimgfx
+
+		 color = { 99 60 33 }
+
+		icon = 17
+		heresy_icon = 18
+
+		crusade_name = PRESERVATION_OF_DINO_KIND
+		scripture_name = THE_ORIGIN_OF_SPECIES
+		priest_title = GUARDIAN
+
+		high_god_name = GOD_THE_METEORITE
+
+		god_names = {
+			GOD_PORTAL PRESIDENT_KOOPA GOD_THE_METEORITE EVOLUTION THE_TRUE_MAN TRUE_MANKIND THE_BOSS
+		}
+
+		evil_god_names = {
+			GOD_MARIO GOD_THE_MARIO_BROTHERS GOD_MANKIND GOD_THE_GREAT_FUNGUS GOD_THE_FUNGAL_KING
+		}
+
+		character_modifiers = {
+			ambition_opinion = -50
+			infidel_opinion = -1000
+			same_religion_opinion = 1050
+		}
+
+		piety_name = EVOLUTION
+
+		priests_can_marry = no
+		priests_can_inherit = no
+		can_hold_temples = no
+		female_temple_holders = no
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		feminist = yes
+		attacking_same_religion_piety_loss = yes
+		landed_kin_prestige_bonus = yes
+		dislike_tribal_organization = no
+
+		allow_looting = yes
+		allow_viking_invasion = yes
+
+		aggression = 50
+
+		allow_in_ruler_designer = no
+		raised_vassal_opinion_loss = no 
+
+		religious_clothing_head = 0
+		religious_clothing_priest = 0
 	}
 }
