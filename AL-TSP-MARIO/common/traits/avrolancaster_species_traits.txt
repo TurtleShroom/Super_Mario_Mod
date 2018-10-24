@@ -907,7 +907,7 @@ species_dinohattan = {
 	ai_zeal = 10
 	ai_greed = 5
 
-	intrigue = 2
+	intrigue = 3
 	martial = 6
 	learning = 3
 	stewardship = -10 # Their homeworld is completely destroyed
@@ -918,6 +918,9 @@ species_dinohattan = {
 }
 
 species_dinosaur_generic  = {
+	martial = 2
+	leaning = -1
+
 	same_opinion = 5
 
 	random = no
@@ -931,7 +934,7 @@ species_doogan  = {
 	customizer = no
 }
 
-species_dragon_generic  = { # Fire Dragons from "Yoshi's Story" and other generic dragons
+species_dragon_generic  = { # Fire Dragons (Blarggs) from "Super Mario World" and "Yoshi's Story", and other generic dragons
 	same_opinion = 5
 
 	random = no
@@ -947,8 +950,8 @@ species_dry_bones  = {
 }
 
 species_duplighost  = {
-	intrigue = 10
-	martial = -6 # They literally just hit you with their head if they don't transform
+	intrigue = 15
+	martial = -9 # They literally just hit you with their head if they don't transform
 
 	immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
 
@@ -1009,13 +1012,6 @@ species_wendy_pennies  = { # Evil Penny/Coin: IF YOU PINCH WENDY'S PENNIES, THEY
 }
 
 species_eyepiillo  = { # Eyepi'illo
-	potential = {
-
-	}
-	opposites = {
-
-	}
-
 	same_opinion = 5
 
 	random = no
@@ -1046,7 +1042,7 @@ species_fish_generic  = { # Fish not grouped elsewhere
 }
 
 species_fishbone  = { # Fishbone, a zombie swimming fish that cannot be hurt
-	defensive_plot_power_modifier = 0.5 # Fishbones are canonically invincible, plots are fifty percent harder
+	defensive_plot_power_modifier = 0.5 # Fishbones were canonically invincible until "Super Mario's Galaxy", plots are fifty percent harder
 	immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
 
 	same_opinion = 5
@@ -1079,7 +1075,7 @@ species_sentient_food  = { # Foodstuff that is still alive
 
 species_fronk  = { # Fronk
 	learning = 4 # Fronks are canonically brilliant mechanics and programmers
-	stewardship = 2 # See below
+	stewardship = 2 # See above
 
 	same_opinion = 5
 
@@ -1092,7 +1088,7 @@ species_fuzzball  = { # Fuzzball Ghost
 		trait = species_fuzzy
 	}
 
-	martial = -2 # Fuzzballs cannot cause harm on their own
+	martial = -4 # Fuzzballs cannot cause harm on their own
 
 	immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
 
@@ -1237,8 +1233,8 @@ species_sarasaland_chick = { # Goombo
 		species_octoomba
 		species_coon_chick # Tanoomba
 	}
-	health = 4
-	martial = -5
+	health = 5
+	martial = -7 # Goomboes are explicitly described as timid and weak in the "Super Mario Land I" manual
 
 	same_opinion = 5
 	opposite_opinion = 5
@@ -1259,7 +1255,7 @@ species_chick_ghost = { # Goomboo / Ghost Goomba
 		species_coon_chick # Tanoomba
 	}
 
-	defensive_plot_power_modifier = 0.5 # Ghost Goombas are canonically invincible
+	defensive_plot_power_modifier = 0.9 # Ghost Goombas are canonically hard to kill
 
 	martial = -2
 

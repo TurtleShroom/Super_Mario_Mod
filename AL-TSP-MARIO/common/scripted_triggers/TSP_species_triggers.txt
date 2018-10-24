@@ -299,19 +299,20 @@ is_undead = { # Is this creature a ghost, zombie, vampire, reanimated mummy, or 
 }
 
 machine = { # Is this a sentient, self-aware artificial intelligence, contraption, metal-based being, or robot?
+	# Not all machines on this list are truly, fully mechanical. Machines that are truly mechanical (e.g. Smithy) are immortal and only break down through Event, which if not maintained, causes their death
 	OR = {
-		trait = species_blockhopper
-		trait = species_blockstepper
-		trait = species_blowhard
-#		trait = species_bullet # Bullet Bill
-		trait = species_buzz
-#		trait = species_digga
+		trait = species_blockhopper # immortal machine
+		trait = species_blockstepper # immortal machine
+		trait = species_blowhard # immortal machine
+		trait = species_bullet # Bullet Bill - not immortal
+		trait = species_buzz # immortal machine
+		trait = species_digga # immoral machine
 #		trait = species_dingaling
-		trait = species_kaboomba
-		trait = species_machine_generic
-#		trait = species_missile_bill
-		trait = species_skipdrill
-#		trait = species_torpedo_ted
+		trait = species_kaboomba # not immortal
+		trait = species_machine_generic # immortal machine, also includes robots and computers
+		trait = species_missile_bill # not immortal
+		trait = species_skipdrill # immortal machine
+		trait = species_torpedo_ted # not immortal
 	}
 }
 
@@ -357,6 +358,7 @@ is_gelatinous = { # Is this creature comprised of gel, jelly, a gelatinous subst
 	OR = {
 		trait = species_ameboid
 		trait = species_yoshi_story_gel_thing # Jelly Ghost / Gelatinous Ghost
+		trait = species_glurp
 		trait = species_gooey_goon
 		trait = species_slime_generic
 	}
@@ -373,5 +375,17 @@ is_shy_guy = { # Is this a Shy Guy or a masked creature related to Shy Guys?
 }
 
 is_cloud = {
-	trait = species_cloud_generic # Mallow, Huff-and-Puff, etc., Mallow's species may get their own Trait
+	OR = {
+		trait = species_cloud_generic # Huff-and-Puff, etc.
+		trait = species_nimbus_cloud # Mallow's race
+	}
+}
+
+is_dinosaur = { # Is this a dinosaur, a descendant of a dinosaur, a Rex, or a Yoshi?
+	OR = {
+		trait = species_dinohattan
+		trait = species_dinosaur_generic
+		trait = species_eerie
+		trait = species_the_yoshmeister # Yoshi
+	}
 }
