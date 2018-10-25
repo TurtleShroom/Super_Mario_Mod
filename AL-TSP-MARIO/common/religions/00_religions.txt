@@ -314,9 +314,50 @@ astrotheology = {
 		religious_clothing_priest = 0
 	}
 	
-#	pianta_imperialism = {
-#
-#	}
+	pianta_imperialism = {
+		graphical_culture = westerngfx
+
+		icon = 59
+		heresy_icon = 60
+		
+		color = { 237 41 57 }
+		
+		parent = shine_sprites
+		
+		crusade_name = WAR_OF_THE_DAWN
+		scripture_name = THE_SHINES
+		priest_title = DIVINER
+		
+		high_god_name = GOD_AUROREUS
+		
+		god_names = {
+			GOD_AUROREUS GOD_THE_SHINE_SPRITES GOD_THE_UNCONQUERABLE_SUN
+		}
+		
+		evil_god_names = {
+			THE_DARKNESS
+		}
+		character_modifier = {
+			monthly_character_wealth = 0.8
+		}
+		
+		can_call_crusade = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_claim = yes
+		priests_can_marry = yes
+		priests_can_inherit = no
+		can_hold_temples = no
+		female_temple_holders = yes
+		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		peace_prestige_loss = yes
+		raised_vassal_opinion_loss = no
+		
+		aggression = 5
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 0
+	}
 }
 
 pagan_group = {
