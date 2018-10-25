@@ -314,15 +314,15 @@ astrotheology = {
 		religious_clothing_priest = 0
 	}
 	
-	pianta_imperialism = {
-		graphical_culture = westerngfx
+	pianta_imperialism = { # This religion was created by Iustinius and Empoleon Blownaparte, among others, and was hugely requested by popular demand
+		graphical_culture = mesoamericangfx
 
 		icon = 59
 		heresy_icon = 60
 		
 		color = { 237 41 57 }
 		
-		parent = shine_sprites
+#		parent = shine_sprites # This religion won't start as a heresy, so that it doesn't spawn randomly on the Map due to heretic Events, ergo, when the setting becomes appropriate, an Event will set this religion as a heresy of the Shine Sprite religion
 		
 		crusade_name = WAR_OF_THE_DAWN
 		scripture_name = THE_SHINES
@@ -331,14 +331,15 @@ astrotheology = {
 		high_god_name = GOD_AUROREUS
 		
 		god_names = {
-			GOD_AUROREUS GOD_THE_SHINE_SPRITES GOD_THE_UNCONQUERABLE_SUN
+			GOD_THE_SHINE_SPRITES GOD_THE_UNCONQUERABLE_SUN GOD_THE_SUN
 		}
 		
 		evil_god_names = {
-			THE_DARKNESS
+			THE_DARKNESS SHADOW_MARIO
 		}
 		character_modifier = {
-			monthly_character_wealth = 0.8
+			monthly_character_wealth = 0.2
+			martial = 2
 		}
 		
 		can_call_crusade = yes
@@ -351,9 +352,19 @@ astrotheology = {
 		female_temple_holders = yes
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		peace_prestige_loss = yes
-		raised_vassal_opinion_loss = no
+		raised_vassal_opinion_loss = yes
+
+		allow_looting = yes
+		seafarer = yes
 		
 		aggression = 5
+
+ 		intermarry = dogmatic
+		intermarry = outlaw
+		intermarry = personality_cult
+		intermarry = pagan_group
+		intermarry = lunatheology
+		intermarry = pianta_imperialism
 		
 		religious_clothing_head = 0
 		religious_clothing_priest = 0
@@ -825,6 +836,7 @@ outlaw = {
 		intermarry = pagan_group
 		intermarry = shine_sprites
 		intermarry = kongo_group
+		intermarry = pianta_imperialism
 		
 		hard_to_convert = yes
 		
@@ -1267,6 +1279,7 @@ kongo_group = {
 		intermarry = personality_cult
 		intermarry = pagan_group
 		intermarry = lunatheology
+		intermarry = pianta_imperialism
 		
 		secret_religion = no
 	}
