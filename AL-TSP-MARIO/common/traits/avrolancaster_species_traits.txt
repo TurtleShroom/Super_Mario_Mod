@@ -1336,7 +1336,8 @@ species_gromba = { # Rock Goomba
 species_phanto = { # Haunted Masks and Phanto
 	immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
 
-	same_opinion = 5
+	general_opinion = -5
+	same_opinion = 10
 
 	random = no
 	customizer = no
@@ -1348,12 +1349,14 @@ species_piano = { # DEAR GLOB NOT THE PIANO PLEASE NO OH I STILL HAVE FLASHBACKS
 	ai_ambition = -10
 	ai_honor = -10
 
+	diplomacy = -4
 	intrigue = 6
 	martial = 1
+	learning = -1 # Ghosts possessing haunted chairs destroy those chairs
 
 	immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
 
-	same_opinion = 5
+	same_opinion = 20
 
 	random = no
 	customizer = no
@@ -1369,6 +1372,7 @@ species_hobgoblin = { # Hobgoblin
 	diplomacy = 1
 
 	same_opinion = 5
+	opposite_opinion = 15
 
 	random = no
 	customizer = no
@@ -1397,6 +1401,7 @@ species_puffin = { # Huffinpuffin / Huffin Puffin
 
 species_men = { # Humanity	
 	health = 2
+	stewardship = 2
 
 	same_opinion = 5
 	general_opinion = 5
@@ -1520,7 +1525,8 @@ species_lupp = { # Koopa Troopas, both bipedal and quadripedal
 
 	defensive_plot_power_modifier = 0.9 # Ten percent harder to plot against, because of shells
 
-	learning = -1 # Koopas literally walk off of cliffs
+	diplomacy = 1
+	learning = -1 # Some Koopas literally walk off of cliffs
 
 	opposite_opinion = 5
 
@@ -1555,13 +1561,19 @@ species_birdie = { # Lakitu
 	learning = 3
 
 	same_opinion = 5
+	opposite_opinion = 5
 
 	random = no
 	customizer = no
 }
 
 species_lantern_ghost = { # Lantern Ghosts, from "Paper Mario I"
+	opposites = {
+		species_hobgoblin
+	}
+
 	same_opinion = 5
+	opposite_opinion = 5
 
 	immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
 
