@@ -1411,20 +1411,26 @@ species_men = { # Humanity
 	customizer = no
 }
 
-species_ice_generic = {  # Freezies and such, but not Mister Blizzard
+species_ice_generic = {  # Freezies, the Crystal King, and such, but not Mister Blizzard
 	opposites = {
 		species_snowman_generic
 		species_water_generic
 	}
 
-	same_opinion = 5
+	same_opinion = 10
+	opposit_opinion = 10
 
 	random = no
 	customizer = no
 }
 
 species_insect_generic = { # Insects that do not otherwise fit into any other Trait
+	opposites = {
+		species_spider_generic
+	}
+
 	same_opinion = 5
+	opposite_opinion = -20
 
 	random = no
 	customizer = no
@@ -1439,6 +1445,7 @@ species_ishnail_koopa = { # Ishnail, a brown Koopa-esque creature with antennae 
 
 	ai_honor = -5
 	intrigue = 3
+	martial = -1
 
 	same_opinion = 5
 	opposite_opinion = 5
@@ -1448,7 +1455,7 @@ species_ishnail_koopa = { # Ishnail, a brown Koopa-esque creature with antennae 
 }
 
 species_jelectro = { # Jelectro
-	defensive_plot_power_modifier = 0 # Nothing, AND I MEAN NOTHING, can kill a Jelectro
+	defensive_plot_power_modifier = 0 # Nothing, AND I MEAN NOTHING, can kill a Jelectro, the game will disable plots against a Jelectros
 	
 	immortal = yes # A Jelectro cannot even be defeated using an Invincible Starman power-up!
 
@@ -1470,6 +1477,11 @@ species_jinx = { # Jinx
 }
 
 species_kaboomba = {  # Walking Cannons, no relation to what one may think
+	# Kaboombas were magically created by Kamek to serve Rapahel the Raven, and, consequently, are not machines, but rather, metal/organic symbiotes
+
+	ai_ambition = 15
+	ai_rationality = 5
+
 	martial = 4
 
 	same_opinion = 5
@@ -1500,6 +1512,11 @@ species_greater_kong = { # Apes like Donkey Kong
 }
 
 species_lesser_kong = { # Monkeys like Diddy Kong
+	opposites = {
+		species_greater_kong # Apes like Donkey Kong
+		species_ukiki
+	}
+
 	stewardship = 2
 	learning = -3
 
@@ -1529,12 +1546,13 @@ species_lupp = { # Koopa Troopas, both bipedal and quadripedal
 	learning = -1 # Some Koopas literally walk off of cliffs
 
 	opposite_opinion = 5
+	same_opinion = 5
 
 	random = no
 	customizer = no
 }
 
-species_kremling = { # Kremlings and Claptraps, etc.
+species_kremling = { # Kremlings and Claptraps, etc., also, the Rareware revealed that King K. Rool's first name is Krudd - https://www.eventhubs.com/news/2018/aug/13/rare-employee-reveals-king-k-rools-original-name-and-donkey-kong-countrys-working-title-following-reptiles-super-smash-bros-ultimate-reveal/
 	opposites = {
 		species_greater_kong
 		species_lesser_kong
@@ -2344,8 +2362,13 @@ species_spear_mask = { # Spear Masked Men, entirely different from Spearhead
 }
 
 species_spider_generic = { # Spiders
+	opposites = {
+		species_insect_generic
+	}
+
 	general_opinion = -5
 	same_opinion = 15
+	opposite_opinion = -15
 
 	random = no
 	customizer = no
