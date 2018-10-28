@@ -981,18 +981,145 @@ canonical_human_group = {
 	}
 
 	new_donk_city_men = {
-		color = { 255 0 0 }
+		color = { 200 25 25 }
 		graphical_cultures = { italiangfx frankishgfx westerngfx chinesegfx }
 
 		male_names = {
-			# Canonical, assuming Mario and Lugi can be lumped with the New Donkers
+			# Canonical, assuming Mario and Luigi can be lumped with the New Donkers
 			Mario_Mario:150 "Mario Joe"_Mario Luigi_Luigi:150 "Luigi Bob"_Luigi
 
 			# Italian filler
-			Abbondanzio Abbondio Abelardo_Abelard Abelino Achille Adalberto_Albert Adelfo Adelmio_Adelmo Adelmo_Adelmo Adone Adriano_Adrian Agapito Agostino_Augustine Aimone Alamanno Alarico_Alaric Albano Alberico Alberto_Albert Albino Alboino Alcide Aldobrandino Aleardo Aleramo Alessandro_Alexander Alessio_Alexis Alighiero Alvise Ambrogio_Ambrosius Amedeo Anastasio_Anastasius  Andrea_Andrew Angelo_Angel Annibale Anselmo_Anselm Antonino_Antoninus Antonio_Antoninus Antoniotto Arcibaldo_Archibald Arderico Armando_Armand Arnolfo_Arnulf Arrigo Arsenio Artemio Ascanio Astorre Atenolfo_Atenulf Attilio Augusto_Augustine Aurelio_Aurelius Ausilio Ausonio Averado Azzo Azzone Baldassarre Baldovino_Baldwin Barnaba_Barnabas Bartolomeo_Bartolomeus Basilio_Basil Bassiano Basso Battista Beltrano_Bertrand Benedetto_Benedict Benvenuto Berardo Bernabò_Barnabas Bernardo_Bernard Berto Bertoldo_Berthold Biagio Bonaventura Bonifacio_Bonifacius Borso Bruno Bruto Buonconte Buoso Callisto_Callistus Camillo_Camillus Candido Cangrande Carlo_Charles Cassio Castore Cataldo Catone Cecco Cesare_Caesar Chiaffredo Chiano Ciro Ciuccio Claudio_Claudius Clemente_Clement Comita Conone Cornelio_Cornelius Corradino Corrado_Konrad Cosimo Cosma_Cosmas Costante Costantino Costanzo Cristoforo_Christopher Damiano_Damian Davide_David Demetrio_Demetrius Dioniso_Dionysus Doménico_Dominic Durante Eduardo_Edward Elio Emmanuele_Manuel Ennio Enrico_Henry Enzio Enzo Ercole_Heracles Eriprando Ermenegildo Ettore_Hector Eugenio_Eugene Ezio Ezzelino Fabrizio Fausto Federigo_Frederick Felice_Felix Ferdinando_Ferdinand Ferruccio Filippo_Philip Fiorello Flavio Folco_Folke Fortunato Fosco Francesco_Francis Fresco Gabriele_Gabriel Gabrino Gaetano Galasso Galeazzo Galeotto Gaspare Gastone_Gaston Gelasio Gentile Geraldo_Gerald Gerardo_Gerard Germano_Germanus Gerolamo Gherardo_Gerard Giacinto_Hyacinth Giacomo_Jacob Gian_John Gianfranco Gianleone Giano_John Giberto Gilberto_Gilbert Giolio Giordano_Jordan Giorgio_George Giovanni_John Giulio_Julius Giuseppe_Joseph Goffredo_Godfrey Gregorio_Gregory Gualtiero_Walter Guarnito Guerrino Guglielmo_William Guido_Guy Guidone_Guy Guigliadore Iacopo_Jacob Igino Innocenzo Ippolito_Hippolytus Isnardo Jacopo_Jacob Lamberto_Lambert Landolfo_Landolf Landone Lanfranco Lattanzio Lazzarino Lazzaro_Lazarus Lealdo Leonardo Leone_Leo Leonello_Lionel Leopoldo Libero Lionello_Lionel Livio Lodovico_Louis Lorenzo_Laurence Luca_Luke Luchino Lucio_Lucius Malacresta Manfredo Manuele_Manuel Marco_Marcus Mariano_Marius Marino Marsiglio Martino_Martin Massimo_Maximus Mastino Matteo_Matthew Merigo Michelangelo Michele_Michael  Napoleone Nazareno Nestore Niccolò_Nicholas Nicola_Nicholas Nino Nolfo Oberto Obizzino Obizzo Oddone Omero Onorio Oreste Orlando Ottavio Ottobono Ottone_Otto Pagano_Pagan Pancrazio Pandolfo_Randolph Paolo_Paul Pasquale_Pascal Patrizio_Patrick Pellegrino Pericle Pietro_Peter Pio Prospero Rafaello_Raphael Radul Raimondo_Raymond Rainero_Rainer Raineri_Rainer Riccardo_Richard Rinaldo_Reinhold Rizzardo Roberto_Robert Rodolfo_Ralph Rolando_Roland Rosso Ruggiero Salinguerra Salvatore_Salvador Salvestro_Silvester Sante_Sancho Saverio Sciarra Sebastiano_Sebastian Secondotto Serafino_Seraphin Sergio Sesto Settimio Severino Severo Silvano Silvestro Simone_Simon Simonetto Sinibaldo Sinucello Sozzo Spinetto Stefano_Stephen Stentore Taddeo Tedaldo Tedice Teodoro_Theodore Tibaldo_Theobald Tiziano Tommaso_Thomas Torgodorio Torquato Ubaldo Uberto Ugo_Hugh Ugoccione Ugolino Umberto_Humbert Urbano_Urban Valentino_Valentin Valerio_Valerius Vincentello Vincenzo_Vincent Virginio Vitale Vittore_Victor Vittorio_Victor Zaccaria_Zachary
-
-			# New Yorker filler
-			Alexander Atticus August Andrew Anthony Angus Allen Asa Alvin Albert Ambrose Arthur Buford Benjamin Benedict Bernard Bartholomew Brigham Braxton Barnabas Cyrus Charles Cyril Christopher Casey Clarence Clark Calvin Chester David Donald Daniel Duncan Eric Ebenezer Elbridge Eugene Eustace Ernest Edmund Ephraim Earl Ezra Emory Francis Frederick_Frederich Freddy_Frederick Ferdinand Gregory Gideon Gerald Grover Gouveneur Gordon Humphrey Howard Hector Harold Horatio Henry Ian Irving Joseph Jeffrey Jubal John Jebediah James Jacob Julius Julian Justin Josiah Joshua Leonard Louis Lawrence Leland Luke Lionel Lorenzo Lamont Lyman Michael_Micheal Mike_Micheal Mikey_Micheal Mark Martin Milton Merriweather Nathaniel Nehemiah Nicholas Oliver Obadiah Orville Owen Philip Peter Paul Patrick Rutherford Robert Richard Ronald Reuchlin Rufus Rhett Samuel Stephen Sampson Sylvester Theodore Thomas Timothy_Timothy Timmy_Timothy Upton Ulysses Victor Vincent William Walter Winfield Wilbur Wallace Walker Zachary_Zachary Zack_Zachary  Zach_Zachary
+			Abbondanzio_Abbondanzio Abbondio_Abundius Abelardo_Abelard Abelino_Abel Achille_Achilles Adalberto_Albert Adelfo_Adolf Adone_Adonis Adriano_Adrian Agapito_Agapito Agostino_Augustine Aimone_Aimone Alamanno_Aleman Alarico_Alaric Albano_Alban Alberico_Aubrey Albertino_Albert Albino_Albino Alboino_Alwin Alberto_Albert Alcide_Alcides Aldobrandino_Aldebrand Aleardo_Ale Aleramo_Aleram Alessio_Alexis Alessandro_Alexander Ambrogio_Ambrosius Amedeo_Amadeus Anastasio_Anastasius Andrea_Andrew Annibale_Hannibal Anselmo_Anselm Antonio_Antonius Antonino_Antoninus Arcibaldo_Archibald Arderico_Aldaric Arduino_Hartwin Armando_Armand Arnolfo_Arnulf Arrigo_Arrigo Arsenio_Arsenios Artemio_Artemius Arturio_Arthur Ascanio_Ascanius Astorre_Astor Atenolfo_Atenulf Attilio_Atilius Augusto_August Aurelio_Aurelius Ausilio_Ausilius Ausonio_Ausonius Averado_Everard Azzo_Azzus Azzone_Azzus
+            Baldassarre_Baltasar Baldovino_Baldwin Bartolomeo_Bartolomeus Bassiano_Bassianus Battista_Baptist Berardo_Berard Bernardo_Bernard Berto_Bernard Bertoldo_Bernard Beltrano_Bertrand Benedetto_Benedict Benvenuto_Benvenuto Biagio_Blaise Bonaventura_Bonaventura Bonifacio_Bonifacius Borso_Boris Bruno_Bruno Bruto_Brutus Buonconte_Buonconte Buoso_Buoso
+            Callisto_Callisto Camillo_Camillus Candido_Candidus Cangrande_Cangrande Carlo_Charles Cassio_Cassius Castore_Castor Cataldo_Catald Catone_Catone Cecco_Francis Cesare_Caesar Chiaffredo_Chiaffredo Chiano_Chiano Ciro_Cyrus Ciuccio_Cyriacus Claudio_Claudius Clemente_Clement Columba_Columba Comita_Comita Cornelio_Cornelius Corrado_Konrad Cosimo_Cosmas Costantino_Constantine Costanzo_Constans Cristoforo_Christopher
+            Daniele_Daniel Damiano_Damian Davide_David Demetrio_Demetrius Dioniso_Dionysus Doménico_Dominic Durante_Dante
+            Eduardo_Edward Elio_Aelius Emmanuele_Manuel Ennio_Ennius Enrico_Henry Enzo_Henry Ercole_Heracles Eriprando_Eriprando Ettore_Hector Eugenio_Eugene Ezio_Ezio Ezzelino_Ezzelino
+            Fabrizio_Fabrice Fausto_Faust Federigo_Frederick Ferdinando_Ferdinand Ferruccio_Ferruccio Filippo_Philip Fiorello_Fiorello Flavio_Flavius Folco_Folke Forestino_Forest Fortunato_Fortunatus Fosco_Fuscus Francesco_Francis Fresco_Fresco
+            Gabriele_Gabriel Gabrino_Gabrino Gaetano_Gaétan Galasso_Cerilli Galeazzo_Galeazzo Galeotto_Galeotto Gaspare_Casper Gastone_Gaston Gelasio_Gelasius Gentile_Gentile Geraldo_Gerald Gerardo_Gerard Germano_Germanus Gerolamo_Hieronymus Gherardo_Gerard Giacinto_Hyacinth Giacomo_James Gian_John Giano_John Giberto_Gilbert Giordano_Jordan Giovanni_John Giulio_Julian Giuseppe_Joseph Goffredo_Godfrey Gregorio_Gregory Gualtiero_Walter Guarnito_Gerontius Guerrino_Guerrino Guglielmo_William Guido_Guy Guidone_Guy Guigliadore_Guigliadore
+            Hieronimo_Hieronymus
+            Igino_Ignatius Innocenzo_Innocentius Ippolito_Hippolytos Isnardo_Isnardo
+            Jacopo_Jacob
+            Lamberto_Lambert Landolfo_Landolf Landone_Landone Lanfranco_Lanfranco Lattanzio_Lattanzio Lazzaro_Lazarus Lealdo_Lealdo Leo_Leo Leonardo_Leonard Leopoldo_Leopold Libero_Liberty Lion_Leon Livio_Livy Lorenzo_Laurence Luca_Lucas Luchino_Luchino Lucio_Lucius
+            Manfredo_Manfred Manuele_Manuel Marco_Marcus Mariano_Marianus Marino_Marinus Mario_Marius Marsiglio_Marsilius Martino_Martin Massimo_Maximus Mastino_Mastiff Merigo_Merigo Michelangelo_Michelangelo
+            Nazareno_Nazarene Nestore_Nestore
+            Obizzo_Obizzo Oddone_Oddone Omero_Homer Onorio_Honorius Oreste_Oreste Orlando_Roland Ottavio_Octavian Oddo_Otto
+            Pagano_Pagan Pancrazio_Pancratius Pandolfo_Randolph Paolo_Paul Pasquale_Pascal Patrizio_Patrick Pellegrino_Peregrinus Pericle_Perikles Pietro_Peter Pio_Pio Prospero_Prospero
+            Rafaello_Raphael Raimondo_Raymond Riccardo_Richard Rinaldo_Reinhold Roberto_Robert Rodolfo_Ralph Rolando_Roland Rosso_Russus Ruggiero_Roger
+            Salinguerra_Salinguerra Salvatore_Salvador Salvestro_Silvester Sante_Sancho Saverio_Xavier Sebastiano_Sebastian Secondotto_Secundius Serafino_Seraphinus Sergio_Sergius Sesto_Sextus Settimio_Septimius Severino_Severinus Severo_Severus Silvano_Sylvan Silvestro_Silvester Simone_Simon Sinibaldo_Sinibald Sozzo_Sozzo Stefano_Stephen Stentore_Stentore
+            Taddeo_Thaddeus Tedaldo_Theodald Tedice_Thaddeus Teodoro_Theodore Tibaldo_Theobald Tiziano_Titus Tolomeo_Ptolemaios Tommaso_Thomas Torgodorio_Torcotore Torquato_Torquatus
+            Ubaldo_Humbert Uberto_Hubert Ugo_Hugh Ugoccione Ugolino_Ugolino Urbano_Urban
+            Valentino_Valentin Valerio_Valerian Vincentello Vincenzo_Vincent Virginio_Virginius Vitale_Vitalis Vittore_Victor Vittorio_Victor
+            Zaccaria_Zachary
+			
+			#English filler
+			Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm_Anselm Arnold_Arnold Arthur_Arthur Aubrey_Aubrey 
+			Brice_Brice Bryce_Brice 
+			Christopher_Christopher Coleman_Columba
+			David_David 
+			Edmund_Edmund Edward_Edward Eric_Erik Eustace_Eustace Evander_Ivar 
+			Franklin_Franklin Fulk_Folke 
+			Gavin_Gavin Geoffrey George_George Gerald_Gerald Gilbert_Gilbert Godfrey_Godfrey Gregory_Gregory Guy_Guy 
+			Henry_Henry Hugh_Hugh Humphrey_Humphrey 
+			Ives_Ivo 
+			Joscelin_Joscelin John_John Jordan_Jordan 
+			Laurence_Laurence Lionel_Lionel Luke_Lucas 
+			Mark_Marcus Martin_Martin Matthew_Matthew Maurice_Maurice Michael_Michael 
+			Nicholas_Nicholas 
+			Paul_Paul Peter_Peter Philip_Philip
+			Quentin_Quintius
+			Ralph_Ralph Randolph_Ralph Reginald Richard_Richard Robert_Robert Roger_Roger 
+			Simon_Simon Stephen_Stephen 
+			Theobald_Theobald Theodore_Theodore Thomas_Thomas 
+			Waleran_Walram Walter_Walter William_William
+			
+			#German filler
+			Adalbero_Adalbero Adalbert_Albert Adalhard_Adalhard Adam_Adam Ademar_Adémar Adolf_Adolf Alarich_Alaric Alberich_Aubrey Albrecht_Albert Aldrich_Aldric Alois_Louis Amadeus_Amadeus Amalrich_Amalric Andreas_Andrew Anselm_Anselm Ansgar_Oscar Archembald_Archibald Arnold_Arnold Arnulf_Arnulf Augustin_Augustine 
+			Baldarich_Baldric Baldewin_Baldwin Baldomar Baldur_Balder Berard_Berard Berengar_Berengar Bernhard_Bernard Berthold_Berthold Burchard_Bouchard 
+			Christopher_Christopher
+			Dieter_Dieter Dietmar_Dietmar Dietpold_Dietpold Dietrich_Thierry Dietwin 
+			Eberhard_Everard Eginolf_Eginolf Ehrenfried_Ehrenfried Ekbert_Egbert Ekkehard_Ekkehard Emelrich_Aymeric Emich Emmerich_Aymeric Emund_Emund Engelbert_Engelbert Erich_Erik Ernst_Ernest 
+			Ferdinand_Ferdinand Filibert_Filibert Folkhard_Folkhard Folkmar_Folkmar Franz_Francis Friedrich_Frederick
+			Gautselin_Joscelin Gebhard_Gebhard Georg_George Gerhard_Gerard Gerlach_Gerlach Giselbert_Gilbert Gottfried_Godfrey Gotthard Gottschalk_Gottschalk Gotzelo Guntram Gunzelin_Günther Günther_Gunnar 
+			Hans_Hans Hartmann Hartwig_Hartwig Hartwin_Hartwin Heinrich_Henry Helferich Heribert_Herbert Hermann_Herman Hesso Hugo_Hugh Humbert_Humbert Hupold 
+			Iwo_Ivo 
+			Jakob_Jacob Johann_John Jürgen_George 
+			Karl_Charles Karlmann_Carloman Kaspar_Caspar Konrad_Conrad Kuno_Kuno
+			Lambert_Lambert Landolf_Landolf Leopold_Leopold Liudolf_Ludolf Liutbert_Lutbert Liutbrand Liutpold_Leopold Lothar_Lothair Ludolf_Ludolf Ludwig_Louis Lutbert_Lutbert
+			Magnus_Magnus Manegold Manfred_Manfred Markward_Markward Martin_Martin Matthias_Matthew Meinhard Michael_Michael Milo_Miles 
+			Nikolaus_Nicholas Norbert_Norbert
+			Otto_Otto 
+			Peter_Peter Philipp_Philip Poppo Radbot_Radbot Reinhard_Renard Reinhold_Reginald Rudolf_Ralph Ruprecht_Robert Rutger_Roger 
+			Siegfried_Siegfried Sieghard Siegmund_Sigmund Sigismund_Sigmund Simon_Simon Stefan_Stephen 
+			Theodorich_Thierry Thietmar_Dietmar Thomas_Thomas
+			Udalrich_Ulrich Ulrich_Ulrich 
+			Viktor_Victor 
+			Waldemar_Vladimir Walram_Walram Walther_Walter Welf_Lupo Wenzel_Vaclav Werner_Werner Wido_Guy Wigerich Wilhelm_William Wolfgang_Wolfgang Wolfram_Wolfram
+			
+			#Dutch filler
+			Adriaen_Adrian Albrecht_Albert Alwin Ambroos Antoon Arnold_Arnold Arnulf_Arnulf 
+			Balderik_Baldric Barend Barnaerd_Bernard Bartolomeus_Bartolomeus Bavo Bertold Boudewijn_Baldwin 
+			Claes_Nicholas Claeuwaert 
+			Daevit_David Damaes Diederick_Thierry Dirk_Thierry Douwe 
+			Eduard_Edward Egmund Ekbert Emmo Engelbrecht 
+			Filips_Philip Floris_Florian Folbert_Filibert Frans_Francis Frederik_Frederick 
+			Gerard_Gerard Gerolt Gerulf Gerrit Gijsbrecht Giselbert_Gilbert Godfried_Godfrey Godschalk Gozewijn Guij_Guy Gwijde_Gwijde 
+			Hendrik_Henry Herman_Herman Hubert_Humbert Hugo_Hugh 
+			IJsbrand IJsbrecht Ivo_Ivo 
+			Jacco_Jacob Jacob_Jacob Jan_John 
+			Karel_Charles Koenraad_Conrad Kristof_Christopher 
+			Lambert_Lambert Lodewijk_Louis Ludewijn Lutbert Luthard 
+			Maertijn_Martin Marquart 
+			Niclaes_Nicholas
+			Olivier_Oliver Otto_Otto Otwin Onno 
+			Pieter_Peter 
+			Reinaerd Reinoud_Reinhold Reginar Robrecht_Robert Robert_Robert Rodulf Roelof_Rolf Roland Rutger 
+			Sebastiaen_Sebastian Sicco Simon_Simon Steven_Stephen Steyn_Sten 
+			Theodolf 
+			Waelram_Walram Walter_Walter Wicher Willem_William Wolfard
+			
+			#Yiddish names
+			Abba Adam_Adam Aharon_Aaron Akiva Aleksander_Alexander Alter Amram Andy_Andrew Anton_Anthony Ariel Asher Avomai Avraham_Abraham
+			Baruch_Benedict Benesh_Benedict Ber Ben-Tzion Bill_William Binyamin_Benjamin Bunem
+			Calev Chananel Chaninai Chanoch Chatzkel Chayim Chelbo Chisdai Chiyya Chizkiyah Chofni Chushiel
+			Dan_Daniel Daniel_Daniel David_David Dodai
+			Efrayim Ehud Eina Elchanan Eldad Eli Eliezer Eliyahu_Elijah Elyakim Ethan
+			Faivish Feivel Fishel Fishke Frederik_Frederick
+			Gavriel_Gabriel Gad Gedalyah Gershom Gideon_Gideon Gilead
+			Harold Henry_Henry Hersh Hershel Hillel
+			Ivomai Israel Issac_Isaac Issur Immanuel_Immanuel
+			Kafnai Kahana Kalmen Khlavne Koppel_Jacob
+			James_James Jason Jonah Josh_Joshua Joseph_Joseph Jonathan_Jonathan
+			Lazar Leonard_Leonard Levi
+			Maximilian Maxwell Machir Malcha Matiyahu Meir Mendel Menechem Menashe Mesharsheya Meshulam Mevasser Michael_Michael Mordechai Motel Moshe_Moses
+			Naftali Natan_Nathan Natroi Natronai Nechemiah Nehilai Netanel Nissim Noah
+			Otto_Otto
+			Paltoi Pirkoi
+			Ram Rav Ravi Reuven
+			Saul_Paul Sam_Samuel Selig Scott Sechok Sender_Alexander Seth Shalom Shanoi Shemaryah Sherira Sheshna Shila Shimon_Simon Shlomo Shmuel_Samuel Steven_Stephen
+			Tamar Tevye Todres_Theodore Tzadok Tzemach
+			Uri Uzziyahu
+			Velvel_William
+			Yaakov_Jacob Yachya Yechiel Yehudah_Judah Yeshua_Joshua Yeshayahu Yissachar Yitzchak Yochanan_John Yonatan_Jonathan Yoel Yosef_Joseph
+			Zachary_Zachary Zevulun Zlate Zusman
+			
+			#Irish filler
+			Aaron_Aaron Abbán Abner_Abner Abél_Abel Adomnán Áed_Hugh Áedgen_Aidan Áeducán_Aodhagan Áedán_Aidan Áengus_Angus Affiath Ailbe Ailbrend Ailbrenn Ailchú Aildobur Ailgel Áilgenán Ailgus Ailill Ailpín_Alwin Ainbchellach Áindle Ainftech_Enfidaig Ainmere Airechtach Airfhindán Airfhinnán Airleid Airmedach Amalgaid Amlaíb_Olaf Anfudán Anlón Anmchaid Ánrothán Ardgal Ardgar Art_Arthur Artbran Artgal Artgus Artucán Artúr_Arthur Assiucc Augaire Augustín_Augustine Aurthuile 
+			Báethgalach Báethíne Báetán Béoáed Barrfhind Beccán Berrach Bhátair_Walter Blathmacc Bran_Bran Brandub Brangen Bressal Brian_Brian Briccéne Briccíne Broccán Bruatur Bruide_Bride Brénaind Brénainn Bróen Búaidbéo 
+			Caicher Cailech Cailte Cairbre_Carbrey Cairell Caisséne Caissín Caissíne Canann Canannán Carlus_Charles Cathal_Catald Cathalán Cathassach Cathbad Cathmáel Cathmál Cathnio Cathub Causantín_Constantine Caílte Caínchomrac Caíndelbán Ceithernach Cellach Cellachán Cennétig_Kentigern Cenn-Fáelad Cennlachán Cerball Cernach Cernachán Cian Ciarán Cilléne Cillíne Cináed_Kenneth Clemens_Clement Cobthach Coirpre Colcu Colmán_Nicholas Columb_Nicholas Comgán Conaing Conall_Conall Conallán Conamail Conán_Conan Conchenn Conchobar Condla Congal Congalach Congus Conlang Conmac_Cormac Conmacc_Cormac Conmáel Conmál Conn_Conn Connla Conrí Constans_Constantius Constantín_Constantine Corbb Corbán Corccán Corcrán Cormac_Cormac Coscrach Coílboth Crimthann Crundmáel_Crundmáel Cruinnmáel_Crundmáel Críchán Crónán Cuilén Cuindles Cuircthe Cummascach Cáemán Cóelbad Cóelub Cóemán Cú-Allaid Cú-Bretan Cú-Caech Cú-Cen Cú-Cen-Máthair Cú-Cúaráin Cú-Gamna Cú-Roí Cúanu Cúldub Cúán Cúánán 
+			Dabíd_David Daigre Dalbach Dallán Daniél_Daniel Dathal Dathgus Demmán Diarmaid_Dermid Doedgus Domangart Domnall_Donald Donn Donnchad_Duncan Donncuan_Duncan Donndubán Donngal Donnucán_Duncan Doélgus Drost Drust Dub-dá-Lethe Dubcenn Dubgenn Dubh_Duff Dubhghall_Dugald Dubhglais_Douglas Dubthach Dubáed Dubán Duiblesc Duibne Dunáed Dálach Dícuill Díglach Dímmae Dímmasach Dímmán Dínertach Dúnacán Dúnadach Dúnchad_Duncan Dúngal Dúngalach Dúnlang 
+			Éamonn_Edmund Echmarcach Échtgal Échtgus Echthigern Echuid Éicnech Éicnechán Eláir Énna Énri_Henry Éochad Eochaid_Eochaid Eochu Eochucán Éogan_Eugene Erc_Eric Ercaid Ercáed Ercán Éremón Érennach Ernán Eterscél Eógan_Eugene Eóganán_Eugene 
+			Fachtna Fairchellach Fallaman Farannán Faílbe Fearghus_Fergus Fechtnach Fedach Fearchar_Farquhar Fedelmid Feirgil Felic Fer-Fugaill Feradach_Feradach Ferdomnach Fergal Fergus_Fergus Fiachnae Fianchú Findbarr Fingen Finguine Finn_Finn Finnacán Finnbarr Finnchú Finnlagh_Findlay Finnsnechtae Fintan Flaithbertach Flaithem Flaithemán Flaithgus Flaithrí Flann Flannacán Flannchad Flannán Fogartach Folachtach Forannán Forbassach Fothad Fothud Fuacarta Fubthad Fuirechtach Fursu Fáelcar Fáelchad Fáelchú Fáeldobur Fáelgus Fáelán Fáelbe Fíachnae Fíadchú Fíngin Fínsnechta Fócarta 
+			Gabrán Garalt Garbith Gilla-Íosa Gilla-Brígte_Gilbert Gilla-Coluim Gilla-Comgáin Gilla-Críst_Gilchrist Gilla-na-Náem Gilla-Pátraic_Gilpatrick Gilla-Ruad_Gilroy Glaisiuc Glaschu Glún-Iairn Gofraid_Godfrey Gormacán Gormgus Gormán Guaire Gáethán Gáethíne Gósacht 
+			Iacob_Jacob Iarlaithe Imchad Indrechtach Ioseph_Joseph Íomhar_Ivar 
+			Labraid Lachtnae Lachtnán Lachtnéne Laidcenn Laidgenn Laidíne Laisrén Lennán_Lennon Lethlobur Liam_William Liber_Liberty Lochlann Loingsech Lonán Lorcán Lugh_Leon Lugaid Lugáed Láegaire Lóchéne_Lochene Lóchíne_Lochene Lochlainn_Lachlan Lochlann_Lachlan Lóeguire 
+			Mac-Laisre Mainchíne Maine Manchán Martan Mathgamain Matudán Minchán Mo-Chonna Mo-Lua Móenach Morand Morann Mugrón Muirchertach Muirecán Muiredach_Murdoch Muirgius Murchad Murchú Máel-Anfaid Máel-Bresail Máel-Brígte Máel-Cein Máel-Cianáin Máel-Ciaráin Máel-Coluim_Malcolm Máel-Corgis Máel-Dubh_Maldoven Máel-Dúin Máel-Fothartaig Máel-Fábaill Máel-Íosa_Malise Máel-Máedóc Máel-Martain Máel-Mórda Máel-Muire_Malmure Máel-Míchíl Máel-Petair Máel-Pátraic Máel-Ruanaid Máel-Sechnaill Máel-Tólai Máelán Máenach Máthair Múadán Muireadhach_Murdoch 
+			Nadarchu Nannid Natfraech Natfraich Natsluaig Nechtan_Nathan Niall_Nigel Niallgus Niallán Nuadu 
+			Odrán Óengus_Angus Óenucán Oisséne Oissíne Olcán Ólchobar Onchú Orthanach Oscar_Oscar 
+			Pátraic_Patrick Petair_Peter Pilib_Philip Pól_Paul Proinsias_Francis 
+			Rechtabra Riacán Riaguil Robartach Rogallach Rogellach Ruah_Roy Ruaidrí_Roderick Ruarcc Rumann Ráthach Rígán Ríán Ródán Rónchú Rónán_Ronan Rúadacán Rúadán 
+			Scandal Scandlán Scellán Scolaige Séaghdha_Shaw Séafra_Godfrey Séamas_Jacob Seán_John Sechnassach Selbach Senchán Seoán_John Sinach Siothrún_Godfrey Slébíne Snedgus Sogan Somhairle_Somerled Suibne_Sweeny Sáerbrethach Sárán Séigíne Sétna Sétnae 
+			Tadg_Tadg Taithlech Talorc_Talore Talorcán_Talorcán Temnén Tigernach Tigernán Tipraite Tomaltach Tomás_Thomas Torccán Trenchad Trengus Tressach Tuathalán Tuireann_Taran Tálán Tóla Túathal_Tuathal 
+			Ualgarg Ualan_Valentin Ualtar_Walter Úamnachán Uargal Uargalach Uargus Uilliam_William Ultán
 		}
 
 		female_names = {
@@ -1000,11 +1127,120 @@ canonical_human_group = {
 			Paulina_Paulina:120 Paulene_Paulina:115
 
 			# Italian filler
-			Abelina Adalberta Adalgisa Adelaida_Adelaide Adelasia Adelia_Adela Adriana_Adriana Agalina Agnese_Agnes Agostina Albina Alda Alessandra Alfonsina Alisia_Alice Aloisia Amalia_Amelia Ambrosia Anastasia_Anastasia Anna_Anna Antonella Antonia Argentina Augusta Aurelia_Aurelia Ausilia Ausonia Beatrice_Beatrice Benedetta_Benedicta Benilde Berenice Berta Bianca_Blanche Bona_Bonne Brunilde_Brunhilda Camilla Candida Caracosa Carla Carola Caterina_Catherine Cecilia_Cecilia Clara_Clara Claudia Clorinda Clotilde_Clotilde Constanza_Constance Cornelia Delinda Dora Edda Elena_Helen Eleonora_Eleanor Elisa_Elizabeth Elisabetta_Elizabeth Ermenegilda Eudossia Eugenia Fausta Felicia_Felicia Felicita Filippa_Philippa Filomena Flavia Flora_Flora Fortunata Fosca Francesca_Francesca Froizza Giacinta_Hyacintha Ginevra Giovanna_Joan Giuditta Giulia_Julia Giuseppa Ippolita Isabella_Elizabeth Joscella Laura_Laura Lavinia Leonide Letizia Lidia Livia Lodovica Lucia_Lucia Lucinetta Lucrezia Maddalena_Magdalena Marcella Margherita_Margaret Maria_Maria Mariana Marietta Martina Matilda_Matilda Micaela Nunzia Paola_Paula Patrizia_Patricia Renata Ricciarda_Ricarda Silvana Sofia_Sophia Stefania_Stephania Tiziana Tomasina Valentina Violante_Yolanda Virginia
-
-			# New Yorker filler
-			Anne Amanda Ada April Amphyllis Abigail Alice Adell Amelia Antoinette Arabella Alma Agnes Agatha Barbara Brigit Blanche Bertha Belle Caroline Charlotte Christine Catharine Clementine Clara Constance Claudia Carrie Cora Dolley Dorothy Deborah Daisy Doris Edith Evangeline Elizabeth Esther Emily Emma Ernestine Ethel Flora Frances Florence Gladys Gloria Grace Gertrude Heather Hannah Hermina Harriet Helen Hortense Hope Ida Isabella Joan Jane Julia Josephine Laura Lucy Lydia Lillie Lena Michelle Mary Marta Muriel Mildred Margaret Mercy Mathilda Marion Madeline Marilla Mabel Nancy Noami Nell Olympia Prudence Patricia Pauline Patience Pamela Phoebe Paula Rachel Rebecca Rhoda Rosalie Ruth Rosa Scarlett Sarah Sally Sylvia Susanna Sybil Susa Sophia Tabitha Theodora Victoria Virginia Verina Valeria Winifred Zerelda
-	}
+			Abelina Adalberta Adalgisa Adelaida_Adelaide Adelasia Adelia_Adela Adriana_Adriana Agalina Agnese_Agnes Agostina Albina Alda Alessandra Alfonsina Alisia_Alice Aloisia Amalia_Amelia Ambrosia Anastasia_Anastasia Anna_Anna Antonella Antonia Argentina Augusta Aurelia_Aurelia Ausilia Ausonia 
+			Beatrice_Beatrice Benedetta_Benedicta Benilde Berenice Berta Bianca_Blanche Bona_Bonne Brunilde_Brunhilda 
+			Camilla Candida Caracosa Carla Carola Caterina_Catherine Cecilia_Cecilia Clara_Clara Claudia Clorinda Clotilde_Clotilde Constanza_Constance Cornelia 
+			Delinda Dora 
+			Edda Elena_Helen Eleonora_Eleanor Elisa_Elizabeth Elisabetta_Elizabeth Ermenegilda Eudossia Eugenia 
+			Fausta Felicia_Felicia Felicita Filippa_Philippa Filomena Flavia_Flavia Flora_Flora Fortunata Fosca Francesca_Francesca Froizza 
+			Giacinta_Hyacintha Ginevra Giovanna_Joan Giuditta Giulia_Julia Giuseppa Ippolita 
+			Isabella_Elizabeth 
+			Joscella 
+			Laura_Laura Lavinia Leonide Letizia Lidia Livia Lodovica Lucia_Lucia Lucinetta Lucrezia 
+			Maddalena_Magdalena Marcella Margherita_Margaret Maria_Maria Mariana Marietta Martina Matilda_Matilda Micaela 
+			Nunzia 
+			Paola_Paula Patrizia_Patricia 
+			Renata Ricciarda_Ricarda 
+			Silvana Sofia_Sophia Stefania_Stephania 
+			Tiziana Tomasina 
+			Valentina Violante_Yolanda Virginia
+			
+			#English filler
+			Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina 
+			Beatrice_Beatrice Blanche_Blanche 
+			Catherine_Catherine Cecilia_Cecilia Constance_Constance 
+			Edith_Edith Ela Eleanor_Eleanor Elizabeth_Elizabeth Emma_Emma 
+			Hawise 
+			Isabel_Elizabeth Isabella_Elizabeth 
+			Joan_Joan Joanna_Joan Juliana_Juliana 
+			Mahaut_Mahaut Margaret_Margaret Mary_Maria Matilda_Matilda Maud_Matilda 
+			Philippa_Philippa 
+			Sybilla_Sibylla
+			
+			#German filler
+			Adela_Adela Adelheid_Adelaide Adelinde Agathe_Agatha Agnes_Agnes Alberade Amalberga Amalie_Amelia 
+			Barbara_Barbara Beatrix_Beatrice Benedicta_Benedicta Berchte Berta_Bertha Binhilde Brunhilde_Brunhilda 
+			Cecilie_Cecilia Christine_Christina Cothilda_Clotilde 
+			Dorothea_Dorothy 
+			Elisabeth_Elizabeth Emma_Emma Engeltraud Ermengard_Ermengarde Eufemia_Euphemia
+			Frida Friedrica_Frederique 
+			Gerberga_Gerberga Gerhild Gertrude_Gertrude Gisela_Gisela Gudrun_Gudrun Gundula_Gunnr Gunhilda_Gunhild
+			Hedwig_Hedwig Heike Heilwiva Helene_Helen Helga Hemma_Emma Henrike Hildeburg Hildegard_Hildegard 
+			Ida_Ida Ilsa Inga_Inga Ingeltrude Irmele Irmeltrud Irmgard_Ermengarde Isentrude 
+			Jutta_Judith 
+			Karlotte_Caroline Katharina_Catherine Klara_Clara Klementia_Clementia Konstanze_Constance Kriemhild Kunigunde_Kunigunde 
+			Luitgard_Luitgard 
+			Margarete_Margaret Maria_Maria Mechthild_Matilda 
+			Oda Osterhild 
+			Richara_Ricarda Richenza Richwara Romilda 
+			Serhilda_Serhilda Sofie_Sophia Sybille_Sibylla 
+			Trude
+			Ulrike Ursula_Ursula Ute_Ute 
+			Walpurga Wilhelmina_Wilhelmina Winfrida Wulfhilde_Ulfhild
+			Zelda
+			
+			#Dutch filler
+			Ada Adela_Adela Adelheid_Adelaide Aechte Agaete Aleid Alijse_Alice Aliken Anna_Anna Annelies Badeloge 
+			Bava Beatrijs_Beatrice Benedicta_Benedicta Blanca_Blanche Blanceflore 
+			Cecily_Cecilia Cille Clara_Clara Clementia 
+			Elisabeth_Elizabeth Ellijnore_Eleanor Emma_Emma Ermingarde_Ermengarde 
+			Fenne Filippa_Philippa Frida 
+			Gheertrude_Gertrude Gerda Godila 
+			Haduwijn Helena_Helen Herlinda Hilligonda 
+			Ide_Ida Imagina Irene_Irene Isabelle_Elizabeth Iudith
+			Jacoba Jaccobijn Jasminne Johanna_Joan Jolanda_Jolanda Juliana_Juliana Jutte 
+			Kathrijne_Catherine Katrien_Catherine 
+			Liedwin Lisebet_Elizabeth 
+			Machtelt Margareta_Margaret Maria_Maria Mathilde_Matilda 
+			Oda Odelt Olinde Onna 
+			Pieternelle_Petronilla 
+			Reynilde Sanne Sigerda 
+			Sophie_Sophia Swanhildis 
+			Thetburga_Tiburge 
+			Waltrud Wila Wendelmoet Wenna Willemine 
+			Yonefij Yvonne_Yvonne 
+			Zoete
+			
+			#Yiddish filler
+			Adina Alte Alisa_Alice Ariela Avigayil Ashley
+			Batsheva Baila Batzion Baylah Belet Beth Beylke Bilhah Bluma Breindel Bridget Bielke
+			Chana Chava Catherine Carmen Charna Courtney
+			Dalia Daniela Doltza Dorothy_Dorothea Doris Debra Devorah Dinah
+			Eidel Elisheva_Elizabeth Elizabeth_Elizabth Emma Erin Esther
+			Faigel Feige Fran Freyde Fruma
+			Gavriela_Gabriela Gittel Golda Gladys Gluke Glukel Guta Guthela
+			Hagit Hannah_Anna Henye_Anna Hila Hodel Hudes
+			Isabel_Isabel Ingrid
+			Jessica_Jessica Jennifer Julia_Julia
+			Kaila Karen Kreindel Kreine
+			Laura Lauren Leah Leeba Lisa_Elizabeth
+			Mary_Mary Matrona Michal Michelle Milcah Minna Mirele_Mary Miriam_Mary
+			Naomi Natalie Nikki Noa
+			Perle Puah Pultzelina
+			Rachel Raisa Rebecca_Rebecca Reina Rivkah_Rebecca Ruth
+			Sara_Sarah Scolaster Scarlett Shayna Sheine Shifrah Shonlin Shluida Shoshana_Susan Shprintza Sisel Sophia_Sofia
+			Tziporah Tzieitel
+			Velvela
+			Yehudit Yente Yentl
+			Zelda Zilpa Zisel Zoe Zusa
+			
+			#Irish filler
+			Ablach Áedammair Affraic_Aifric Aíbinn Aibilín_Eva Aileann Áine_Agnes Anlaith Aróc 
+			Barrdub Ben-Laigen Ben-Míde Ben-Muman Ben-Ulad Brigit_Brigit  Bé-Fáil Bébinn 
+			Cacht Caillech-Fhinnéin Cainnech Caisséne Caitilín_Catherine Caíntigern Caírech Cathán Catríona_Catherine Cellach Ciar Cnes Coblaith_Cobflaith Cobflaith_Cobflaith Conchenn Condál Crínóch Crístina_Christina Cumman
+			Deirdre Derborgaill_Dervorgilla Derbáil Der-Ilei_Derilla Der-Lugdach Dianaim Doriend Dub-Dil Dub-Essa Dub-Lemna Dubchoblaig Dubgilla Dúinsech Dúnlaith 
+			Echrad Éibhleann Eilionora_Eleanor Eithne_Eithne Ellbríg Emer_Emer Étaín Éua_Eva Euginia_Eugenia 
+			Faílenn Fedelm Finneacht Finnguala_Finnguala Flann Forbflaith Fíne 
+			Garb Gelgéis Gerróc Gnathnad Gormflaith_Gormflaith Gormlaith_Gormflaith Gráinne 
+			Imag Íte 
+			Lann Lasairfíona Lathir Lerben Lerthan Lígach Lucia_Lucia 
+			Martha_Martha Mauda_Matilda Muadhnait_Mona Muirenn_Murron Muirgel_Muriel Muirne_Morna Máel-Mide Máel-Muire_Malmure Máire_Maria Máiread Máirgred_Margaret Mór_Mor Mór-Muman 
+			Nárbflaith Nuala_Finnguala 
+			Órlaith Órnat Róis_Ros 
+			Sadb Samthann Scáthach Sébdann Selblaith Seonaid_Joan Sinech Siobán_JoanSisuile Sláíne_Slaine Sorcha_Sorcha Suaibsech Sáerlaith Sétach Síthmaith 
+			Tailefhlaith Tailltiu Temair Tuathflaith Tómnat 
+			Uallach Uasal Úna_Una
+		}
 
 		modifier = default_culture_modifier
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
