@@ -1585,10 +1585,12 @@ species_birdie = { # Lakitu
 	customizer = no
 }
 
-species_lantern_ghost = { # Lantern Ghosts, from "Paper Mario I"
+species_lantern_ghost = { # Lantern Ghosts, from "Paper Mario I" and "Yoshi's Island"
 	opposites = {
 		species_hobgoblin
 	}
+
+	martial = -2
 
 	same_opinion = 5
 	opposite_opinion = 5
@@ -1655,13 +1657,15 @@ species_good_microbe = { # IS THAT NOT GLOBIN?
 }
 
 species_midbus = { # Midbus is a giant pig
-	martial = 6 # Literally a GIANT PIG
+	martial = 7 # Literally a GIANT PIG
+	learning = -5 # Midbusses are canonically stupid and speak in broken English
 
 	health = 2
 
+	liege_opinion = 20
 	same_opinion = 5
 
-	fertility = -0.2
+	fertility = -0.3
 
 	random = no
 	customizer = no
