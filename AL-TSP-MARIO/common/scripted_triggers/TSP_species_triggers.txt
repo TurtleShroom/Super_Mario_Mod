@@ -100,6 +100,7 @@ has_telekinesis = { # This indicates that the character does not have arms and/o
 		trait = species_marumen # For the purposes of this Mod, it is assumed Marumen can pick things up
 		trait = species_yap # There is no other way for Miss Warp to perform such extraordinary feats as mass teleportation
 		trait = species_monolift # They can pick up rocks despite having no arms
+		trait = species_muddy_buddy # How else do they hold onto Yoshis?
 		trait = species_piillo # Pilloes possess profound psychic and transformational power
 		trait = species_shaman # Psychic powers and spells
 		trait = species_star_generic

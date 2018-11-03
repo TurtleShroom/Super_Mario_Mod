@@ -1684,11 +1684,11 @@ species_milde = { # Yoshi equivalent to Waddle Dees
 
 species_minotaur = { # Bifun is the only known example, he's in the "Wario Land" series
 	martial = 8 # Literally a giant bull
-	learning = -4
+	learning = -6
 
-	health = 2
+	health = 3
 
-	fertility = -0.2
+	fertility = -0.4
 
 	same_opinion = 5
 
@@ -1735,6 +1735,8 @@ species_money_bag = { # Money Bags / Moneybags - those sentient hopping wallets 
 
 	health = -2 # Very weak, does not live long
 
+	fertility = 1 # One hundred percent increase, for balance to prevent game overs, in-game Money Bags are extremely rare
+
 	same_opinion = 5
 
 	random = no
@@ -1775,6 +1777,7 @@ species_mouser = { # Little Mousers, Nomadimice, and Mouzer
 }
 
 species_muddy_buddy = {
+	defensive_plot_power_modifier = 0.5 # Got some serious * clicks tongue * armor
 	same_opinion = 5
 
 	random = no
