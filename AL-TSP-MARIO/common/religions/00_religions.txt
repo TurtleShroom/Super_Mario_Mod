@@ -852,7 +852,7 @@ outlaw = {
 
 		parent = tennis_religion # Shout out to Iustinius and friends for pointing out that heresies can be in other groups
 
-		color = { 198 237 44 }
+		color = { 95, 29, 163 }
 
 		crusade_name = ACQUISITION
 		scripture_name = THE_WAHELEGY
@@ -887,7 +887,47 @@ outlaw = {
 		religious_clothing_priest = 10
 	}
 }
-	
+
+	witchcraft = {
+		graphical_culture = westerngfx
+		
+		icon = 5
+		heresy_icon = 5
+
+		color = {  }
+
+		crusade_name = DARK_HARVEST
+		scripture_name = THE_BOOK_OF_SPELLS
+		priest_title = MAGICIAN
+
+		high_god_name = DARK_MAGIC
+
+		god_names = {
+			EVIL_SPIRITS FUNGUS_POCUS THE_IMPURE_VOICE
+		}
+
+		evil_god_names = {
+			GOODY_TWO_SHOES THE_IGNORANT THE_FEARFUL THE_FOOLISH
+		}
+
+		character_modifier = {
+			diplomacy = -2
+			learning = 4
+		}
+
+		piety_name = FEAR
+
+		priests_can_marry = no
+		priests_can_inherit = no
+		can_hold_temples = no
+		female_temple_holders = no
+		feminist = yes
+		uses_jizya_tax = no
+
+		religious_clothing_head = 0
+		religious_clothing_priest = 10
+	}
+}
 personality_cult = {
 	has_coa_on_barony_only = yes
 	graphical_culture = westerngfx
