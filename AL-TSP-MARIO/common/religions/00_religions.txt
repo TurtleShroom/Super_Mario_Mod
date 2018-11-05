@@ -1289,7 +1289,7 @@ kongo_group = {
 		
 		color = { 0.58 0.29 0 }
 		
-		crusade_name = GREAT_CONQUEST
+		crusade_name = KONG_QUEST
 		scripture_name = THE_JUNGLE_BEAT
 		priest_title = WISE_ONE
 		
