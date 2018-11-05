@@ -106,7 +106,7 @@ CONSUMPTION;Consumption;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 INFESTATION;Infestation;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 FACTORY_INVENTORY;The Factory's Inventory;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 GREAT_CONQUEST;Great Conquest;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-KRUSADE;Krusade;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+KONG_QUEST;Kong QuestFRENCH;GERMAN;;SPANISH;;;;;;;;;x
 GO_TO_THE_MATTRESSES;Go To the Mattresses;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 KOOPOMERTA;The Koopomertà;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 BOWSER_CREED;Bowser's Creed;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
@@ -205,6 +205,7 @@ SOLDIER;Soldier;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 WISE_ONE;Wise One;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 KEEPER;Keeper;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 GUARDIAN;Guardian;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+MAGICIAN;Magician;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 # Names and titles for Astrotheology clergy #
 temple_baron_astrotheology;Shaman;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 temple_count_astrotheology;High Shaman;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
@@ -373,3 +374,15 @@ city_county_of_al_koopone;Kooporegime;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 city_duchy_of_al_koopone;Koopsigliori;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 city_kingdom_of_al_koopone;Koopacosca;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 city_emperor_of_al_koopone;Koopo Mandemento;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_baron_witchcraft;Magician;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_count_witchcraft;Wizard;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_count_female_witchcraft;Witch;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_duke_witchcraft;Warlock;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_king_witchcraft;Wizard-King;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_king_female_witchcraft;Witch-Queen;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_emperor_witchcraft;Dark Lord;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_barony_of_witchcraft;Circle of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_county_of_witchcraft;Dark Grove of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_duchy_of_witchcraft;Fel Lands of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_kingdom_of_witchcraft;Fel Kingdom of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_empire_of_witchcraft;Dark Empire of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
