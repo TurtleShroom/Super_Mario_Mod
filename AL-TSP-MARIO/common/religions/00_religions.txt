@@ -48,7 +48,7 @@ astrotheology = {
 		icon = 53
 		heresy_icon = 54
 		
-		color = { 1.0 0.9 0.1 }
+		color = { 255 255 51 }
 		
 		crusade_name = PACIFICATION
 		scripture_name = THE_STARS
@@ -272,7 +272,7 @@ astrotheology = {
 		icon = 59
 		heresy_icon = 60
 		
-		color = { 0.97 0.74 0.16 }
+		color = { 255 255 128 }
 		
 		crusade_name = WAR_OF_THE_DAWN
 		scripture_name = THE_SHINES
@@ -609,7 +609,7 @@ dogmatic = {
 		icon = 5
 		heresy_icon = 5
 		
-		color = { 0 170 239 }
+		color = { 245 245 220 }
 		
 		piety_name = INNER_PEACE
 		
@@ -653,7 +653,7 @@ dogmatic = {
 		icon = 61
 		heresy_icon = 62
 		
-		color = { 1 0 0 }
+		color = { 0 170 239 }
 		
 		crusade_name = PACIFICATION
 		scripture_name = THE_BEDTIME_STORIES
@@ -699,7 +699,7 @@ outlaw = {
 		icon = 63
 		heresy_icon = 64
 		
-		color = { 0.37 0.74 0 }
+		color = { 133 138 101 }
 		
 		crusade_name = ACQUISITION
 		scripture_name = THE_CATALOGUE
@@ -942,7 +942,7 @@ outlaw = {
 		icon = 5
 		heresy_icon = 5
 
-		color = {  }
+		color = { 153 0 0 }
 
 		crusade_name = DARK_HARVEST
 		scripture_name = THE_BOOK_OF_SPELLS
@@ -1335,7 +1335,7 @@ kongo_group = {
 		icon = 73
 		heresy_icon = 74
 		
-		color = { 0.58 0.29 0 }
+		color = { 204 34 0 }
 		
 		crusade_name = KONG_QUEST
 		scripture_name = THE_JUNGLE_BEAT
