@@ -119,6 +119,7 @@ PRESERVATION_OF_DINO_KIND;Preservation of Dino-Kind;FRENCH;GERMAN;;SPANISH;;;;;;
 LEGACY_OF_THE_METEORITE;Legacy of the Meteorite;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 THE_ORIGIN_OF_SPECIES;The Origin of Species;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 BOOK_OF_THE_DAWN;Book of the Dawn;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+KONQ_QUEST;Kong Quest;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 ##########
 # GROUPS #
 ##########
@@ -157,21 +158,25 @@ al_koopone;Organized Crime;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 al_koopone_DESC;In the cruel streets of Crime Land, behind closed blinds in Delfinite verandas at sunset, or roaming the streets of Rogueport, there exists another world that is a law unto itself. Gilded in silver duct tape, the mafias, gangs, and thief guilds of the Mushroom World honor the Koopomerta- the Oath of Silence -and cooperate as one to enrich themselves at the expense of others. Led by legends like the great Al Koopone of Crime Land (a rare example of a Bowser Koopa unrelated to Bowser himself) and the bloodthirsty Don Pianta of Rogueport and Isle Delfino, such sporadic gangs compete for glory, wealth, and enrichment. Membership is voluntary and anyone may leave the Family without worry, but may the Stars have mercy on anyone who betrays the trust and silence of "this thing of ours" when they are gone.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 movie_cult;Portal Guardians;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 movie_cult_DESC;Once upon a time, a great Meteorite struck the earth- long theorized to be the ancestral home world of men like the Mario Brothers and the New Donkers. This massive destruction of that planet, so the abominations claim, created a third dimension where non-sentient dinosaurs gradually came to mirror the sentient dinosaurs of Dinosaur Land, except that they took the appearence of man. That world was ransacked and polluted in a search for resources, eventually depopulating most of itself aside from the global capital. The ruler of the planet, King Reznor, was overthrown by the military under the leadership of the corrupt President Koopa (unrelated to Bowser Koopa), who promised the dinosaur men a new world on the other side./nThis monastic religion once worshipped the psychic energy created by the Meteorite, protecting it and its inhabitants by secretly controlling the Crown. However, the rise of President Koopa's junta corrupted the faith as the clergy was purged and staffed with loyalists. Now, it is a grotesque mockery of itself: a tool to accomplish President Koopa's will and nothing else.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+## Generic witchcraft worship, as conceived by Iustinius and Empoleon Blownaparte ##
 witchcraft;Witchcraft;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 witchcraft_DESC;An umbrella term for those who dabble in the art of black magic, wWitches are those who dive deep into things considered profane. From Tarot Readings and speaking to the dead to Summoning Demons and hexing their foes, witches are known for their control over things deemed unholy by most faiths. One's reasoning for a witch's descent into darkness can range from the benign belief that the divines approve of braving the profane, to the truly depraved, such as a dark tyrant solidifying his rule through dark spells and devilish sacrements, as well as everything in between. Cultures steeped in Witchcraft tend to forgo traditional morality for ideals such as power over others and knowledge of the world's deepest secrets. Those who tread this dark path take pride in being feared by those they claim do not understand them.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-# This religion was conceived by Iustinius and Empoleon Blownaparte, among others, by huge popular demand
+## This religion was conceived by Iustinius and Empoleon Blownaparte, among others, by huge popular demand ##
 pianta_imperialism;Unconquerable Sun;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 pianta_imperialism_desc;The Cult of the Unconquerable Sun is a militarized version of the traditional Shine Sprite worship of Sunshine Isles which states that the Delfinite culture must be spread to every corner of the world, that the sun might shine eternally over its chosen people. As told in the Book of the Dawn, the peoples of the Delfinite archipelago were once as peaceful as could be, until the first ruler of the ancient Empire of the Sun united the archipelago islands. That is when Auroreus, the monotheistic master of the Cosmos, made himself known to him, believing the emperor would be the first of many to carry out his will and told him to write down everything he had to say, such as he is the one gave the Piantas the Shine Sprites, that all of the stars, including the sun and the Star Spirits, are his eyes keeping watch over ongoing events, and that the world must be controlled by them in order to bring the Light of the Sun, and his words, to everyone and keep it that way forever.\n However, detractors say that Auroreus and this so-called ancient empire are completely made up, as history has never recored a full unification of the entire Delfino archipelago. They claim this "religion" exists to legitimize expansionist ambitions and to spread that imperialist fervor into the mindset of all of the Piantas.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-# This religion was conceived by Empoleon Blownaparte and Iustinius as a filler for non-aligned Koopas that did not worship Bowser or Astrotheology
+## This religion was conceived by Empoleon Blownaparte and Iustinius as a filler for non-aligned Koopas that did not worship Bowser or Astrotheology ##
 koopa_pagan;World Turtle;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 koopa_pagan_desc;The traditional faith of the ancient Koopa races is extinct in its own homelands since the rise of the Koopa dynasty and their own invented faith, but it still exists in small pockets throughout the world. Koopa Paganism varies due to the wide berth of Koopa homelands, from the Bowsers of the Darklands to the ancient Shellcreepers of the Odyssey continents. Things shared by all Koopa pagans include: the posthumous worship of an entity known as the "World Turtle", a giant Koopa-like being whose corpse is now literally the Mushroom World, the idea that this World Turtle's soul will one day incarnate as a saviour-figure for the Koopas, and ancestor veneration. Pagan Koopas believe all life to have evolved from the bacteria within the World Turtle's body.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 koopa_pagan_reformed;Church of the World Turtle;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 koopa_pagan_reformed_desc;From the brink of extinction, the faith of the World Turtle rises from the ashes to win the hearts, minds, and souls of Koopas everywhere! The reformed Church of the World Turtle contains organized liturgies and authenticated sacred texts compiled from the earliest known sources into one canon. Established clergy and temple worship now replaces the hilltop shrines and diviners of old. The righteous soul that managed to rescue the faith from death and organize its believers is considered the Savior and World Turtle incarneate and is worshipped by all the faithful.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+## Content courtesy of Empoleon and friends ##
+## Note: the Almighty Goomba is canonical ##
 goomba_pagan;Goomba Community;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-goomba_pagan_desc;The Goomba people do not have a proper traditional faith beyond the idea of a progenitor entity known as "The Almighty Goomba", but instead they tend to fall under the teachings of whatever ruler they currently have, and many Goomba traditionalists claim their deity to be the greatest servant of the local deity proper, always strong and steadfast in service, whether to the Stars, the World Turtle, Aster, the Forms, etc. Goombas have a highly complex social structure based around family units and a focus on community.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-goomba_pagan_reformed;United Goomba Community;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-goomba_pagan_reformed_desc;Merely minions no longer, the Goombas have nominally united under a single ruler, and their complex social structure has evolved into a semi-religious belief that all Goombas are one family under one race-wide Patriarch or Matriarch, second only to the Almighty Goomba, benevolent master of all and progenitor of life.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+goomba_pagan_desc;The Goomba people do not have a proper traditional faith beyond the idea of a progenitor entity known as "The Almighty Goomba", but instead they tend to fall under the teachings of whatever ruler they currently have, and many Goomba traditionalists syncretize their deity to be the greatest servant of the local deity proper, always strong and steadfast in service, whether to the Stars, the World Turtle, Aster, the Forms, and so on. Goombas have a tribalistic, highly complex social structure based around family units and a focus on community.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+goomba_pagan_reformed;Universal Goomba Church;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+goomba_pagan_reformed_desc;Merely minions no longer, the Goombas have nominally united under a single banner! Their complex social structure has evolved a semi-religious belief that all Goombas are one family under one race-wide Patriarch or Matriarch, second only to the Almighty Goomba, benevolent master of all and progenitor of life.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 ## Alternative flavor for Bowser Ethics ##
+## Content courtesy of Empoleon ##
 ###bowser_religion;Bowser Ethics;FRENCH;GERMAN;;SPANISH;;;;;;;;;x###
 ###bowser_religion_desc;There was once a humble child of one of the slightly more prosperous Darkland tribes, his name once as unnoticeable as they come, the son of a thief with blood of dishonorable men, who saw the suffering of his people and their brethren races and believed only he could rip the Darklands out of savagery. He succeeded. The Great King Koopa, Bowser, united the Darklands under his rule and carried it on his back into prosperity and glory. At the earliest peak of his rule, he used his peoples' traditional faith to legitimize his rule and claimed himself a prophet, codifying religious doctrines that he believed would help in his goal of a prosperous Darkland. Bowser Ethics believe in simultaneously staying in one's place and becoming the greatest man that place has ever seen. A truly pious Bowser Ethicist is never satisfied with "Good Enough" and will not stop until he revolutionizes his or her field.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x###
 #########
@@ -193,9 +198,11 @@ STAT_PIETY_EVOLUTION;Evolutionary Gains;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 STAT_PIETY_DESC_EVOLUTION;The Dinohattanites are nominally men, dervied from dinosaurs over the eons. Evolution and the origin of life has always captivated them and unlocking instaneous evolutionary mutations have provided the means of a creation of secret policemen- the False Goombas -that any Dinohattanite ruler can deploy if he possesses a De-Evolution Chamber. \n The more knowledge and understanding a Dinohattanite ruler has of evolution and de-evolution, the more power he wields. Like Prestige, one's understanding of evolution is added to one's score upon the death of a ruler.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 MONTHLY_PIETY_EVOLUTION;Monthly Evolutionary Gains;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 STAT_PIETY_MUSHROOM_KADABRA;Mushroom-Kadabra;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-STAT_PIETY_DESC_MUSHROOM_KADABRA;Mushroom Kadabra is both an invocation in spells and the general term used for folk magic in the Mushroom World, particularly in the Dry Dry Desert. It is also used by the various genies known to inhabit the galaxy in the course of granting wishes and escourting righteous souls towards Power Stars. The antithesis of Mushroom-Kadabra is the curses of Fungus-Pocus. Like Prestige, harmonizing Mushroom-Kadabra contributes points to one's score upon the death of a ruler.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+STAT_PIETY_DESC_MUSHROOM_KADABRA;Mushroom Kadabra is both an invocation in spells and the general term used for folk magic in the Mushroom World, particularly in the Dry Dry Desert. It is also used by the various genies known to inhabit the galaxy in the course of granting wishes and escourting righteous souls towards Power Stars. The antithesis of Mushroom-Kadabra are the curses of Fungus-Pocus. Like Prestige, harmonizing Mushroom-Kadabra contributes points to one's score upon the death of a ruler.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+# Empoleon #
 STAT_PIETY_FEAR;Fear;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-STAT_PIETY_DESC_FEAR;To those who dabble in dark arts, holding to an outside enforcer's moralising means nothing, and instead those who consider themselves pious practitioners instead count religious prestige in how feared the magician in question is by those who do not understand the dark arts. Like Prestige, harnessing Fear contributes points to one's score upon the death of a ruler.
+STAT_PIETY_DESC_FEAR;To those who dabble in dark arts, holding to an outside enforcer's moralizing means nothing, and instead those who consider themselves pious practitioners religious worth in how feared the magician in question is by those who do not understand the dark arts. Like Prestige, harnessing Fear contributes points to one's score upon the death of a ruler.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+MONTHLY_PIETY_FEAR;Monthly Fear Gained;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 ##################################################
 # CLERGY TITLES AND RELIGIOUS REALM DESCRIPTIONS #
 ##################################################
@@ -203,6 +210,7 @@ SHAMAN;Shaman;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 IMAMAMIA;Imamamia;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 FORMMAN;Formman;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 DIVINER;Diviner;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+SUN_GUARDIAN;Sun Guardian;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 SOLDIER;Soldier;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 WISE_ONE;Wise One;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 KEEPER;Keeper;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
@@ -214,6 +222,7 @@ temple_count_astrotheology;High Shaman;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 temple_duke_astrotheology;Oracle;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 temple_king_astrotheology;Star Guardian;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 temple_emperor_astrotheology;Great Master;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_emperor_female_astrotheology;Great Mistress;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 temple_barony_of_astrotheology;Shrine of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 temple_county_of_astrotheology;Hall of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 temple_duchy_of_astrotheology;Temple of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
@@ -354,7 +363,7 @@ city_emperor_female_piracy;Princess-Mayoress;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 city_barony_of_piracy;Settlement of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 city_county_of_piracy;City of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 city_duchy_of_piracy;City-State of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-city_kingdom_of_piracy;Nation of of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+city_kingdom_of_piracy;Nation of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 city_empire_of_piracy;Metropolis of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 feudal_baron_al_koopone;Piccioto;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 feudal_count_al_koopone;Soldato;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
@@ -376,15 +385,17 @@ city_county_of_al_koopone;Kooporegime;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 city_duchy_of_al_koopone;Koopsigliori;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 city_kingdom_of_al_koopone;Koopacosca;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 city_emperor_of_al_koopone;Koopo Mandemento;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-temple_baron_witchcraft;Magician;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+## Witchcraft content courtesy of Empoleon ##
+temple_baron_witchcraft;Mage;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 temple_count_witchcraft;Wizard;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 temple_count_female_witchcraft;Witch;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 temple_duke_witchcraft;Warlock;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_duke_female_witchcraft;Witch;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 temple_king_witchcraft;Wizard-King;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 temple_king_female_witchcraft;Witch-Queen;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 temple_emperor_witchcraft;Dark Lord;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-temple_barony_of_witchcraft;Circle of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-temple_county_of_witchcraft;Dark Grove of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_barony_of_witchcraft;Dark Grove of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_county_of_witchcraft;Coven of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 temple_duchy_of_witchcraft;Fel Lands of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 temple_kingdom_of_witchcraft;Fel Kingdom of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 temple_empire_of_witchcraft;Dark Empire of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x

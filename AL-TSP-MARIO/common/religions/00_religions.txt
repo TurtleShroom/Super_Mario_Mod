@@ -149,7 +149,7 @@ astrotheology = {
 		high_god_name = THE_DARK_STAR
 		
 		god_names = {
-			THE_DARK_STAR CACKLETTA THE_ZTARS
+			THE_DARK_STAR CACKLETTA THE_ZTARS FAWFUL
 		}
 		
 		evil_god_names = {
@@ -557,7 +557,7 @@ dogmatic = {
 		icon = 61
 		heresy_icon = 62
 		
-		color = { 1 0 0 }
+		color = { 0 255 0 }
 		
 		crusade_name = PACIFICATION
 		scripture_name = YOSHI_STORY
@@ -573,9 +573,10 @@ dogmatic = {
 		evil_god_names = {
 			SADNESS BOWSER MISERY KAMEK KAMMY
 		}
-		character_modifier = {
-			general_opinion = 35
-		}
+
+#		character_modifier = {
+#			general_opinion = 30 # The Happiness Trait already handles this
+#		}
 		
 		aggression = 0.25
 		priests_can_marry = no
@@ -644,9 +645,9 @@ dogmatic = {
 		intermarry = kongo_group
 		intermarry = tennis_group
 	}
-}
 
-Dreamtime = {
+
+	pillow = { # Dream worship of Pi'Illo Island
 		graphical_culture = westerngfx
 
 		icon = 61
@@ -669,7 +670,7 @@ Dreamtime = {
 			BOWSER WART PSYCHO_IRIS SADNESS
 		}
 		
-		aggression = 0.75
+		aggression = 0.70
 		priests_can_marry = no
 		can_hold_temples = no
 		female_temple_holders = yes
@@ -689,6 +690,8 @@ Dreamtime = {
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
 	}
+}
+
 outlaw = {
 	greed = {
 		graphical_culture = westerngfx
@@ -915,6 +918,8 @@ outlaw = {
 			intrigue = 4
 			martial = -3
 			learning = 1
+			ai_honor = -30
+			ai_greed = 10
 		}
 
 		piety_name = SUBTERFUGE
@@ -927,7 +932,7 @@ outlaw = {
 		uses_jizya_tax = yes # protection rackets
 
 		religious_clothing_head = 0
-		religious_clothing_priest = 10
+		religious_clothing_priest = 7
 	}
 }
 
@@ -967,8 +972,8 @@ outlaw = {
 		feminist = yes
 		uses_jizya_tax = no
 
-		religious_clothing_head = 0
-		religious_clothing_priest = 10
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
 	}
 }
 personality_cult = {
@@ -985,7 +990,7 @@ personality_cult = {
 	
 	# Names given only to personality cult characters (base names)
 	male_names = {
-		
+
 	}
 	female_names = {
 		
@@ -1427,7 +1432,7 @@ movie_religion_group = {
 
 	ai_peaceful = no # Will not make Hordes lose their super aggressiveness
 	ai_convert_same_group = 2 # always convert
-	ai_convert_other_group = 0 # never convert
+	ai_convert_other_group = 1 # convert when ai_zeal is high
 
 	# Names given only to Dinohattanite characters
 	male_names = {
@@ -1463,7 +1468,7 @@ movie_religion_group = {
 		character_modifiers = {
 			ambition_opinion = -50
 			infidel_opinion = -1000
-			same_religion_opinion = 1050
+#			same_religion_opinion = 1050
 		}
 
 		piety_name = EVOLUTION
@@ -1474,6 +1479,7 @@ movie_religion_group = {
 		female_temple_holders = no
 		can_grant_invasion_cb = invasion
 		can_call_crusade = yes
+		can_grant_claim = yes
 		feminist = yes
 		attacking_same_religion_piety_loss = yes
 		landed_kin_prestige_bonus = yes
@@ -1489,5 +1495,7 @@ movie_religion_group = {
 
 		religious_clothing_head = 0
 		religious_clothing_priest = 0
+
+		secret_religion = no
 	}
 }
