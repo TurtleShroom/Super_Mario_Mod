@@ -1499,3 +1499,172 @@ movie_religion_group = {
 		secret_religion = no
 	}
 }
+
+prognosticus_faiths = {
+	has_coa_on_barony_only = yes
+	graphical_culture = westerngfx
+	crusade_cb = crusade
+	playable = yes
+
+	ai_peaceful = no # Will not make Hordes lose their super aggressiveness
+	ai_convert_same_group = 2 # always convert
+	ai_convert_other_group = 1 # convert when ai_zeal is high
+
+	# Names given only to Prognostic characters
+	male_names = {
+		
+	}
+
+	female_names = {
+		
+	}
+
+	dark_prognosticus = { # Followers of the Dark Prophecy
+		graphical_culture = muslimgfx
+
+		 color = { 0 0 0.92 }
+
+		icon = 17
+		heresy_icon = 18
+
+		crusade_name = PROPHETIC_INVASION
+		scripture_name = THE_DARK_PROGNOSTICUS
+		priest_title = SEER
+
+		high_god_name = GOD_CHAOS_HEART
+
+		god_names = {
+			PROPHET_COUNT_BLECK GOD_DIMENTIO PROPHET_NASTASIA PROPHET_MAN_IN_GREEN
+		}
+
+		evil_god_names = {
+			PROPHET_MAN_IN_RED GOD_PIXL_QUEEN GOD_PURE_HEARTS
+		}
+
+		piety_name = PIETY
+		intermarry = outlaw
+
+		priests_can_marry = no
+		priests_can_inherit = no
+		can_hold_temples = no
+		female_temple_holders = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		can_grant_claim = yes
+		feminist = yes
+		attacking_same_religion_piety_loss = yes
+		landed_kin_prestige_bonus = yes
+		dislike_tribal_organization = no
+
+		allow_looting = yes
+		allow_viking_invasion = yes
+
+		aggression = 20
+
+		allow_in_ruler_designer = no
+		raised_vassal_opinion_loss = no 
+
+		religious_clothing_head = 0
+		religious_clothing_priest = 0
+
+		secret_religion = no
+	}
+	
+	light_prognosticus = { # Followers of the Light Prophecy
+		graphical_culture = muslimgfx
+
+		 color = { 240 253 255 }
+
+		icon = 17
+		heresy_icon = 18
+
+		crusade_name = PROPHETIC_INVASION
+		scripture_name = THE_LIGHT_PROGNOSTICUS
+		priest_title = SEER
+
+		high_god_name = GOD_PURE_HEARTS
+
+		god_names = {
+			PROPHET_MAN_IN_RED GOD_PURE_HEARTS PROPHET_FOUR_SAGES
+		}
+
+		evil_god_names = {
+			PROPHET_MAN_IN_GREEN GOD_PIXL_QUEEN GOD_CHAOS_HEART GOD_TRIBE_OF_DARKNESS GOD_DIMENTIO PROPHET_COUNT_BLECK
+		}
+
+		piety_name = PIETY
+		intermarry = astrotheology
+		intermarry = dogmatic
+		intermarry = personality_cult
+		intermarry = lunatheology
+		intermarry = tennis_group
+
+		priests_can_marry = no
+		priests_can_inherit = no
+		can_hold_temples = no
+		female_temple_holders = yes
+		can_call_crusade = yes
+		can_grant_claim = yes
+		feminist = yes
+		attacking_same_religion_piety_loss = yes
+		landed_kin_prestige_bonus = yes
+		dislike_tribal_organization = no
+
+		allow_looting = yes
+
+		allow_in_ruler_designer = no
+		raised_vassal_opinion_loss = yes
+
+		religious_clothing_head = 0
+		religious_clothing_priest = 0
+	}
+	grey_prognosticus = { # A fictional syncretic faith of the two Prognostici intended to reflect Flopside, somewhat existentialist/fatalist in nature.
+		graphical_culture = muslimgfx
+
+		 color = { 176 176 176 }
+
+		icon = 17
+		heresy_icon = 18
+
+		crusade_name = PROPHETIC_INVASION
+		scripture_name = THE_PROGNOSTICI
+		priest_title = SEER
+
+		high_god_name = GOD_CHAOS_HEART
+
+		god_names = {
+			PROPHET_MAN_IN_RED GOD_PURE_HEARTS PROPHET_FOUR_SAGES PROPHET_MAN_IN_GREEN GOD_THE_ANCIENTS GOD_TRIBE_OF_DARKNESS
+		}
+
+		evil_god_names = {
+			GOD_DIMENTIO PROPHET_COUNT_BLECK
+		}
+
+		piety_name = PIETY
+		intermarry = astrotheology
+		intermarry = dogmatic
+		intermarry = personality_cult
+		intermarry = outlaw
+		intermarry = lunatheology
+		intermarry = tennis_group
+		
+		priests_can_marry = no
+		priests_can_inherit = no
+		can_hold_temples = no
+		female_temple_holders = yes
+		can_call_crusade = yes
+		can_grant_claim = yes
+		feminist = yes
+		attacking_same_religion_piety_loss = yes
+		landed_kin_prestige_bonus = yes
+		dislike_tribal_organization = no
+
+		allow_looting = yes
+
+		allow_in_ruler_designer = no
+		raised_vassal_opinion_loss = yes
+
+		religious_clothing_head = 0
+		religious_clothing_priest = 0
+	}
+}
