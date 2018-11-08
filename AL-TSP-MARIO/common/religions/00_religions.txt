@@ -1541,7 +1541,7 @@ prognosticus_faiths = {
 			PROPHET_MAN_IN_RED GOD_PIXL_QUEEN GOD_PURE_HEARTS
 		}
 
-		piety_name = PIETY
+		piety_name = INNER_PEACE
 		intermarry = outlaw
 
 		priests_can_marry = no
@@ -1592,7 +1592,7 @@ prognosticus_faiths = {
 			PROPHET_MAN_IN_GREEN GOD_PIXL_QUEEN GOD_CHAOS_HEART GOD_TRIBE_OF_DARKNESS GOD_DIMENTIO PROPHET_COUNT_BLECK
 		}
 
-		piety_name = PIETY
+		piety_name = INNER_PEACE
 		intermarry = astrotheology
 		intermarry = dogmatic
 		intermarry = personality_cult
@@ -1633,14 +1633,14 @@ prognosticus_faiths = {
 		high_god_name = GOD_CHAOS_HEART
 
 		god_names = {
-			PROPHET_MAN_IN_RED GOD_PURE_HEARTS PROPHET_FOUR_SAGES PROPHET_MAN_IN_GREEN GOD_THE_ANCIENTS GOD_TRIBE_OF_DARKNESS
+			PROPHET_MAN_IN_RED GOD_PURE_HEARTS PROPHET_FOUR_SAGES PROPHET_MAN_IN_GREEN GOD_THE_ANCIENTS GOD_TRIBE_OF_DARKNESS PROPHET_COUNT_BLECK
 		}
 
 		evil_god_names = {
-			GOD_DIMENTIO PROPHET_COUNT_BLECK
+			GOD_DIMENTIO 
 		}
 
-		piety_name = PIETY
+		piety_name = INNER_PEACE
 		intermarry = astrotheology
 		intermarry = dogmatic
 		intermarry = personality_cult
