@@ -1559,7 +1559,7 @@ prognosticus_faiths = {
 		allow_looting = yes
 		allow_viking_invasion = yes
 
-		aggression = 20
+		aggression = 5
 
 		allow_in_ruler_designer = no
 		raised_vassal_opinion_loss = no 
@@ -1612,6 +1612,8 @@ prognosticus_faiths = {
 
 		allow_looting = yes
 
+		aggression = 0.8
+		
 		allow_in_ruler_designer = no
 		raised_vassal_opinion_loss = yes
 
