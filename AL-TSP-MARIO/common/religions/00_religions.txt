@@ -617,7 +617,7 @@ dogmatic = {
 		scripture_name = GOD_THE_FORMS
 		priest_title = FORMMAN
 		
-		high_god_name = GOD_THE_FORMS
+		high_god_name = GOD_NARRATOR
 		
 		god_names = {
 			GOD_THE_FORM_BATON GOD_THE_FORMS GOD_NARRATOR GOD_SPLUNK PROPHET_FUNKYTOWN PROPHET_HAMMER_TIME PROPHET_MIRROR_BALL
