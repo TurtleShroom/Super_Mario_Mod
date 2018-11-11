@@ -391,6 +391,18 @@ species_doughie = { # Boo
 	customizer = no
 }
 
+species_bonneter = { # Cappy's race, the Bonneters
+
+		martial = 3 #Known for their extremely powerful ability to possess stronger enemies
+		intrigue = 3 #Can literally hide in plain sight as hats of any kind
+		same_opinion = 10
+		
+		immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
+		
+		random = no
+		customizer = no
+}
+
 species_booblah = { # Booblah
 	same_opinion = 5
 
@@ -507,6 +519,16 @@ species_brolder = {  # Brolder
 	customizer = no
 }
 
+species_broodal = { # DA BROODALS
+	diplomacy = 2 # Running a bridal business requires a lot of charisma
+	martial = 4 # are enough to take on entire nations and steal their greatest treasures from their own capitals.
+
+	ai_honor = -5
+	ai_ambition = 10
+	ai_greed = 30
+	
+	same_opinion = 10
+	
 species_broozer = { # Broozer
 	martial = 6 # Literally punching ghosts
 	intrigue = -3
