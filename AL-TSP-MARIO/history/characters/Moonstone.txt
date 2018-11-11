@@ -4,7 +4,7 @@
 3001 = {
 	name = Aleister #Ashley's father, named after Aleister Crowley
 	dynasty = 3000
-	religion = temple_of_form 
+	religion = witchcraft 
 	culture = diamond_city_men
 	add_trait = species_men
 	historical = yes
@@ -24,7 +24,7 @@
 3002 = {
 	name = Morgan #Ashley's mother, named after Morgan le Fay
 	female = yes
-	religion = temple_of_form 
+	religion = witchcraft 
 	culture = diamond_city_men
 	add_trait = species_men
 	historical = yes
@@ -42,7 +42,7 @@
 	name = Ashley #Ashley
 	female = yes
 	dynasty = 3000
-	religion = power_moon_worship 
+	religion = witchcraft 
 	culture = diamond_city_men
 	#dna = "00000000000"
 	#properties = "00000000000"
