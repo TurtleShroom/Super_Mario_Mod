@@ -1,0 +1,20 @@
+species_bonneter = { # Cappy's race, the Bonneters
+		intrigue = 5 #Can literally hide in plain sight as hats of any kind, extraordinary possession abilities
+		same_opinion = 10
+		
+		immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
+		
+		random = no
+		customizer = no
+}
+
+species_rabbit_generic = { # DA BROODALS and other rabbits, original code added by Empoleon
+	diplomacy = 2 # Broodals run a bridal business, which requires a lot of charisma, other rabbits use the "cute offensive"
+	martial = 1 # Fast, swift, and capable thieves
+
+	ai_honor = -5
+	ai_ambition = 10
+	ai_greed = 30
+	
+	same_opinion = 10
+}
