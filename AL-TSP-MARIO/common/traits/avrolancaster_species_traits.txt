@@ -40,7 +40,7 @@ species_angry_sun = { # Angry Sun
 	ai_rationality = -1000
 	ai_ambition = 5
 
-	diplomacy = -2sp
+	diplomacy = -2
 	martial = 6
 	intrigue = -50 # Completely conspicuous, they give off light
 
@@ -240,10 +240,13 @@ species_BIG_BERTHA = { # Female, adult Cheep Cheep
 	martial = 4
 	health = 6
 
-	fertility = 5 # Child-rearing and nurturing, they store babies in their mouths for safety
+	fertility = 0.5 # Child-rearing and nurturing, they store babies in their mouths for safety
 
 	same_opinion = 20
 	opposite_opinion = 5
+
+	random = no
+	customizer = no
 }
 
 species_bivalve_generic = { # Generic clam, shellfish, oyster, etc. not otherwise covered
@@ -264,7 +267,7 @@ species_blockhopper = { Blockhopper
 	customizer = no
 }
 
-species_blockstepper = { Blockstepper
+species_blockstepper = { # Blockstepper
 	defensive_plot_power_modiifer = 0.9 # Ten percent less likely to be hurt by plots
 
 	diplomacy = 1
@@ -668,6 +671,8 @@ species_centipede = {
 
 	immortal = yes # Canonically invincible
 
+	fertility = -0.95
+
 	same_opinion = 5
 
 	random = no
@@ -759,6 +764,7 @@ species_chuckya  = { # Chuckya
 
 species_cleft = { # Clefts
 	immortal = yes # Clefts do not die of age
+	fertility = -0.9
 
 	same_opinion = 5
 
@@ -766,7 +772,7 @@ species_cleft = { # Clefts
 	customizer = no
 }
 
-species_cloud_generic = {  # Cloud beings, like Huff-and-Puff, Nimbuses like Mallow get their own Trait
+species_cloud_generic = {  # Cloud beings, like Huff-and-Puff, while Nimbuses like Mallow get their own Trait
 	opposites = {
 		species_nimbus_cloud
 	}
@@ -875,7 +881,7 @@ species_crook  = {
 }
 
 species_dayzee  = {
-	ai_rationalist = -20 # CRAYZEE Dayzees are crazy
+	ai_rationality = -20 # CRAYZEE Dayzees are crazy
 	ai_ambition = 20 # CRAYZEE Dayzees are crazy
 
 	martial = 1  # _CRAYZEE_ DAYZEE
@@ -905,16 +911,19 @@ species_dingaling  = {
 species_dinohattan = {
 	ai_ambition = 9999
 	ai_zeal = 10
-	ai_greed = 5
+	ai_greed = 10
 
 	intrigue = 3
 	martial = 6
 	learning = 3
-	stewardship = -10 # Their homeworld is completely destroyed
+	stewardship = -6 # Their homeworld is completely destroyed
 	
 	general_opinion = -30 # The negative one thousand penalty will be located in the religion and culture
 	same_opinion = 60
 	same_opinion_if_same_religion = 40
+
+	random = no
+	customizer = no
 }
 
 species_dinosaur_generic  = {
@@ -940,6 +949,7 @@ species_dragon_generic  = { # Fire Dragons (Blarggs) from "Super Mario World" an
 	random = no
 	customizer = no
 }
+
 species_dry_bones  = {
 	same_opinion = 5
 
@@ -1043,6 +1053,7 @@ species_fish_generic  = { # Fish not grouped elsewhere
 
 species_fishbone  = { # Fishbone, a zombie swimming fish that cannot be hurt
 	defensive_plot_power_modifier = 0.5 # Fishbones were canonically invincible until "Super Mario's Galaxy", plots are fifty percent harder
+
 	immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
 
 	same_opinion = 5
@@ -1212,7 +1223,7 @@ species_chick = { # Goomba
 	
 	ai_zeal = 3
 
-	health = 4 # Some Goombas can recover being stepped on, and, for the purpose of this Mod, Goombas cannot be Maimed, Goombas canonically seem to be long-lived
+	health = 4 # Some Goombas can recover being stepped on, and, for the purpose of this Mod, Goombas cannot be Maimed, and Goombas canonically seem to be long-lived
 	martial = -6
 
 	same_opinion = 5
@@ -1233,6 +1244,7 @@ species_sarasaland_chick = { # Goombo
 		species_octoomba
 		species_coon_chick # Tanoomba
 	}
+
 	health = 5
 	martial = -7 # Goomboes are explicitly described as timid and weak in the "Super Mario Land I" manual
 
@@ -1399,7 +1411,7 @@ species_puffin = { # Huffinpuffin / Huffin Puffin
 	customizer = no
 }
 
-species_men = { # Humanity	
+species_men = { # Mankind (Humans)
 	health = 2
 	stewardship = 2
 
@@ -1418,7 +1430,7 @@ species_ice_generic = {  # Freezies, the Crystal King, and such, but not Mister 
 	}
 
 	same_opinion = 10
-	opposit_opinion = 10
+	opposite_opinion = 10
 
 	random = no
 	customizer = no
@@ -1477,7 +1489,7 @@ species_jinx = { # Jinx
 }
 
 species_kaboomba = {  # Walking Cannons, no relation to what one may think
-	# Kaboombas were magically created by Kamek to serve Rapahel the Raven, and, consequently, are not machines, but rather, metal/organic symbiotes
+	# Kaboombas were magically created by Kamek to serve Raphael the Raven, and, consequently, are not machines, but rather, metal/organic symbiotes
 
 	ai_ambition = 15
 	ai_rationality = 5
@@ -1552,7 +1564,8 @@ species_lupp = { # Koopa Troopas, both bipedal and quadripedal
 	customizer = no
 }
 
-species_kremling = { # Kremlings and Claptraps, etc., also, the Rareware revealed that King K. Rool's first name is Krudd - https://www.eventhubs.com/news/2018/aug/13/rare-employee-reveals-king-k-rools-original-name-and-donkey-kong-countrys-working-title-following-reptiles-super-smash-bros-ultimate-reveal/
+species_kremling = { # Kremlings and Claptraps, etc., also, Rareware revealed that King K. Rool's first name is Krudd - https://www.eventhubs.com/news/2018/aug/13/rare-employee-reveals-king-k-rools-original-name-and-donkey-kong-countrys-working-title-following-reptiles-super-smash-bros-ultimate-reveal/
+
 	opposites = {
 		species_greater_kong
 		species_lesser_kong
@@ -1683,7 +1696,7 @@ species_milde = { # Yoshi equivalent to Waddle Dees
 }
 
 species_minotaur = { # Bifun is the only known example, he's in the "Wario Land" series
-	martial = 8 # Literally a giant bull
+	martial = 8 # Literally a giant bull-man
 	learning = -6
 
 	health = 3
@@ -1708,7 +1721,7 @@ species_missile_bill = {
 	opposite_opinion = 5
 }
 
-species_yap = { # The only canonical examples are female (Miss Warp), I always just called them "Yaps" as a little boy, but they are in fact living checkpoints
+species_yap = { # The only canonical examples are female (Miss Warp), I always just called them "Yaps" as a little boy, they are in fact living checkpoints
 	diplomacy = 4
 
 	happiness_opinion = 10 # Loved by Yoshis
@@ -1809,7 +1822,7 @@ species_neuron = { # Neurons, they have nothing to do with brains, but that will
 	}
 
 	martial = -4 # These are a type of worm
-	learning = 4 # Sick pun
+	learning = 3 # Sick pun
 
 	same_opinion = 5
 	opposite_opinion = 5
@@ -1837,6 +1850,8 @@ species_nimbus_cloud = { # Nimbus Clouds, e.g. Mallow, from "Super Mario's RPG"
 	martial = -4 # No physical attacks that do anything
 
 	health = 1
+
+	priest = yes
 
 	same_opinion = 5
 	opposite_opinion = 5
@@ -1932,7 +1947,7 @@ species_octoomba = { # Octoomba
 
 	same_opinion = 5
 
-	tolerates_extraterrestrial
+	tolerates_extraterrestrial =  yes
 
 	random = no
 	customizer = no
@@ -1940,6 +1955,7 @@ species_octoomba = { # Octoomba
 
 species_octopus_generic {
 	stewardship = 2 # Best representation of dexterity I can think of
+	learning = 2
 
 	health = 3 # Octopi can regrow limbs, survive huge physical trauma, and constrict themselves through pipes the size of a man's wrist
 
@@ -2004,6 +2020,9 @@ species_pianta = { # Pianta
 	same_opinion = 10
 	opposite_opinion = 10
 
+	tolerates_astrotheology = yes
+	tolerates_outlaw = yes
+
 	random = no
 	customizer = no
 }
@@ -2018,6 +2037,8 @@ species_piillo = { # Pi'illo
 	same_opinion = 5
 	opposite_opinion = -20 # Nommons and Piillos once shared their homeland, but they became enemies over time
 
+	priest = yes
+
 	random = no
 	customizer = no
 }
@@ -2028,6 +2049,8 @@ species_pionpi = {
 	martial = 2
 
 	same_opinion = 5
+
+	tolerates_tennis_group = yes
 
 	random = no
 	customizer = no
@@ -2049,7 +2072,8 @@ species_pixl = { # Partners from "Paper Mario III"
 	diplomacy = 4
 	martial = -10
 
-	health = 5
+	health = 7
+	fertility = -0.5
 
 	same_opinion = 5
 
@@ -2068,6 +2092,8 @@ species_plessie = { # Plessie
 	health = 4
 
 	same_opinion = 5
+
+	global_movement_speed = 0.15
 
 	random = no
 	customizer = no
@@ -2214,9 +2240,9 @@ species_shroob = { # Shroobs
 	ai_honor = -999
 	ai_zeal = 100
 
-	general_opinion = -1000
-	same_opinion = 1000
-	opposite_opinion = 1000
+	general_opinion = -300
+	same_opinion = 320
+	opposite_opinion = 320
 
 	tolerates_extraterrestrial = yes
 
@@ -2402,7 +2428,7 @@ species_spike_sentry = { # Jumping acorns of living metal (or in some serious * 
 		species_taptap
 	}
 
-	defensive_plot_power_modifier = 0.5 # Canonically invincible
+	defensive_plot_power_modifier = 0.1 # Canonically invincible
 
 	same_opinion = 5
 	opposite_opinion = 5
@@ -2436,6 +2462,8 @@ species_star_generic = { # All true stellar beings, from Lumas/Power Stars/Grand
 
 	immortal = yes # All stellar beings shown in the series, except the Starman power-up, are ancient or even primordial, existing when the Mario Universe began
 
+	fertility = -0.95
+
 	monthly_character_prestige = 0.5
 	monthly_character_piety = 0.5
 
@@ -2444,7 +2472,7 @@ species_star_generic = { # All true stellar beings, from Lumas/Power Stars/Grand
 }
 
 species_tanooki_statue = { # Statues formed when a Tanooki power-up is used, OR when a natural Tanooki deploys the same ability
-	incapacitating = yes # Not plauable, cannot move or interact
+	incapacitating = yes # Not playable, cannot move or interact
 
 	immortal = yes # Cannot be broken, canonically invincible
 

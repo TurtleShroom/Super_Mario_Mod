@@ -212,7 +212,7 @@ can_breathe_underwater = { # Can this character survive underwater without surfa
 	}
 }
 
-is_living_water = { # Is this creature actually made of, or derived from, any of water's states of matter
+is_living_water = { # Is this creature actually made of, or derived from, any of water's states of matter?
 	OR = {
 		trait = species_ice_generic # Freezie, etc., does not include Mister Blizzard
 		trait = species_snowman_generic # Mister Blizzard and other snowmen
