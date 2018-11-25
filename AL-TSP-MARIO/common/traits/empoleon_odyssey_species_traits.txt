@@ -206,13 +206,12 @@ species_new_donker = { #Biologically different enough to deserve their own trait
 	opposite_traits {
 		species_men
 	}
-	
-	diplomacy = 1
+	health = 2
 	stewardship = 2
 	personal_combat_skill = 20 #TEN FEET TALL GUYS!! Don't even gotta jump on their enemies, just step on them!
 	
-	same_opinion = 10
-	opposite_opinion = 10
+	same_opinion = 5
+	opposite_opinion = 5
 	
 }
 
