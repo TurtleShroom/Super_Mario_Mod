@@ -40,6 +40,7 @@ can_fly = { # Can this creature fly or levitate?
 		trait = species_yux
 		trait = species_zenisuki
 		trait = species_zinger
+		trait = species_thunder_dragon
 	}
 }
 
@@ -209,6 +210,9 @@ can_breathe_underwater = { # Can this character survive underwater without surfa
 		trait = species_hoominagah
 		trait = species_torpedo_ted
 		trait = species_yurarin
+		trait = species_lochlady
+		trait = species_bubblainian
+		trait = species_gushen
 	}
 }
 
@@ -248,6 +252,7 @@ is_goomba = { # Is this a Goomba, Galoomba, Goombo, Gloomba, or other Goomba var
 		trait = species_ghost_octoomba # Octoboos are technically aliens, but they are so similar to Goombas (and are referred to as such in some manuals) that they are added here, though they cannot breed with Goombas
 		trait = species_octoomba # See Octoboo entry
 		trait = species_coon_chick # Tanoomba
+		trait = species_burrbo # This is speculation on my part, feel free to veto it and just pop it in handless - Empoleon
 	}
 }
 
@@ -266,11 +271,13 @@ is_fish = { # Is this a Fishbone, Cheep Cheep, Big Bertha, Boss Bass, or some ot
 		trait = species_shark_generic
 		trait = species_snorkel_snake # Snorkel Snake / 	Snorkel Fish / Dragoneel
 		trait = species_urchin # It's a fish, not an actual sea urchin
+		trait = species_lochlady # Mermaids~<3
 	}
 }
 
 is_human = { # Is this a man?
 	trait = species_men # Human
+	trait = species_new_donker # New Donk "Giants"
 }
 
 is_undead = { # Is this creature a ghost, zombie, vampire, reanimated mummy, or other such undead ghoul?
@@ -302,6 +309,7 @@ is_undead = { # Is this creature a ghost, zombie, vampire, reanimated mummy, or 
 		trait = species_vampire_generic
 		trait = species_goom_ghost
 		trait = species_zenisuki
+		trait = species_chincho
 	}
 }
 
@@ -320,6 +328,7 @@ machine = { # Is this a sentient, self-aware artificial intelligence, contraptio
 		trait = species_missile_bill # not immortal
 		trait = species_skipdrill # immortal machine
 		trait = species_torpedo_ted # not immortal
+		trait = species_gardener # immortal machine
 	}
 }
 
@@ -349,6 +358,7 @@ is_plant = { # Is this a plant?
 		trait = species_pokey
 		trait = species_ptooie
 		trait = species_whittle # Made entirely of wood, that's close enough
+		trait = species_uproot
 	}
 }
 
