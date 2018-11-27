@@ -240,6 +240,14 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_trait_species_bonneter"
+		texturefile = "gfx/traits/species/Bonneter.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
 		name = "GFX_trait_species_dry_helmet_head"
 		texturefile = "gfx/traits/species/BonyBeetle.tga"
 		noOfFrames = 1
@@ -326,6 +334,13 @@ spriteTypes = {
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
+	spriteType = {
+		name = "GFX_trait_species_bubblainian_snail"
+		texturefile = "gfx/traits/species/BubblainianSnail.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
 	
 	spriteType = {
 		name = "GFX_trait_species_bubble_generic"
@@ -354,6 +369,14 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_trait_species_bumbleprod"
 		texturefile = "gfx/traits/species/BumbleProd.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_species_burrbo"
+		texturefile = "gfx/traits/species/Burrbo.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
@@ -442,6 +465,14 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_trait_species_cherbil"
 		texturefile = "gfx/traits/species/Cherbil.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_species_chincho"
+		texturefile = "gfx/traits/species/Chincho.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
@@ -904,6 +935,14 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_trait_species_gushen"
+		texturefile = "gfx/traits/species/Gushen.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
 		name = "GFX_trait_species_phanto"
 		texturefile = "gfx/traits/species/HauntedMask.tga"
 		noOfFrames = 1
@@ -970,6 +1009,14 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_trait_species_ishnail_koopa"
 		texturefile = "gfx/traits/species/IshnailKoopa.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_species_jaxi"
+		texturefile = "gfx/traits/species/Jaxi.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
@@ -1050,6 +1097,14 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_trait_species_lantern_ghost"
 		texturefile = "gfx/traits/species/LanternGhost.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_species_lochlady"
+		texturefile = "gfx/traits/species/Mermaid.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
@@ -1146,6 +1201,14 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_trait_species_mister_eel"
 		texturefile = "gfx/traits/species/MisterEel.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_species_moe_eye"
+		texturefile = "gfx/traits/species/Maoi.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
@@ -1424,8 +1487,24 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_trait_species_rabbit_generic"
+		texturefile = "gfx/traits/species/Rabbit.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
 		name = "GFX_trait_species_raven"
 		texturefile = "gfx/traits/species/Raven.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_species_thunder_dragon"
+		texturefile = "gfx/traits/species/RuinedDragon.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
@@ -1474,6 +1553,14 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_trait_species_shark_generic"
 		texturefile = "gfx/traits/species/SharkBeing.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_species_shiverian"
+		texturefile = "gfx/traits/species/Shivarian.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
@@ -1617,7 +1704,7 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_trait_species_true_spike"
-		texturefile = "gfx/traits/species/SpikeKoopa.tga'
+		texturefile = "gfx/traits/species/SpikeKoopa.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
@@ -1625,7 +1712,7 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_trait_species_spike_creature"
-		texturefile = "gfx/traits/species/SpikeCreature.tga'
+		texturefile = "gfx/traits/species/SpikeCreature.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
@@ -1633,7 +1720,7 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_trait_species_spike_sentry"
-		texturefile = "gfx/traits/species/SpikeSentry.tga'
+		texturefile = "gfx/traits/species/SpikeSentry.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
@@ -1674,6 +1761,14 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_trait_species_living_statue"
 		texturefile = "gfx/traits/species/Statue2.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_species_steam_gardener"
+		texturefile = "gfx/traits/species/SteamGardener.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
@@ -1768,6 +1863,14 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_trait_species_tostarenan"
+		texturefile = "gfx/traits/species/TostarenanSombrero.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
 		name = "GFX_trait_species_torpedo_ted"
 		texturefile = "gfx/traits/species/TorpedoTed.tga"
 		noOfFrames = 1
@@ -1792,6 +1895,14 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_trait_species_uproot"
+		texturefile = "gfx/traits/species/UprootOnion.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
 		name = "GFX_trait_species_urchin"
 		texturefile = "gfx/traits/species/Urchin.tga"
 		noOfFrames = 1
@@ -1802,6 +1913,14 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_trait_species_vampire_generic"
 		texturefile = "gfx/traits/species/Vampirebeing.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_species_volbonan"
+		texturefile = "gfx/traits/species/Fork.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"

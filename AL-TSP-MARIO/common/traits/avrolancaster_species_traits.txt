@@ -943,8 +943,18 @@ species_doogan  = {
 	customizer = no
 }
 
-species_dragon_generic  = { # Fire Dragons (Blarggs) from "Super Mario World" and "Yoshi's Story", and other generic dragons
+species_dragon_generic  = { # Fire Dragons (Blarggs) from "Super Mario World" and "Yoshi's Story", and other generic dragons | For Thunder Dragons, see Empoleon's Odyssey file; Thunder Dragons are unanimously villains and have higher penalties
+	opposites = {
+		species_thunder_dragon
+	}
+
 	same_opinion = 5
+
+	personal_combat_skill = 20 # IT'S A DRAGON!
+
+	general_opinion = -5
+	same_opinion = 10
+	opposite_opinion = 10
 
 	random = no
 	customizer = no
@@ -1412,16 +1422,11 @@ species_puffin = { # Huffinpuffin / Huffin Puffin
 }
 
 species_men = { # Mankind (Humans)
-	opposite_traits {
-		species_new_donker
-	}
-	
 	health = 2
 	stewardship = 2
 
 	same_opinion = 5
 	general_opinion = 5
-	opposite_opinion = 5
 	monthly_character_prestige = 0.2
 
 	random = no
@@ -1458,6 +1463,7 @@ species_ishnail_koopa = { # Ishnail, a brown Koopa-esque creature with antennae 
 		species_slug_generic
 		species_sluggy # Unshaven Sluggy
 		species_winkle_snail
+		species_bubblainian_snail
 	}
 
 	ai_honor = -5
@@ -1465,7 +1471,7 @@ species_ishnail_koopa = { # Ishnail, a brown Koopa-esque creature with antennae 
 	martial = -1
 
 	same_opinion = 5
-	opposite_opinion = 5
+	opposite_opinion = 5 # Snail bros
 
 	random = no
 	customizer = no
@@ -2303,6 +2309,7 @@ species_slug_generic = { # Neon-colored slugs from "Yoshi Story", also includes 
 		species_ishnail_koopa
 		species_sluggy # Unshaven Sluggy
 		species_winkle_snail
+		species_bubblainian_snail
 	}
 
 	martial = -6 # Slow, pokey, weak
@@ -2311,7 +2318,7 @@ species_slug_generic = { # Neon-colored slugs from "Yoshi Story", also includes 
 	fertility = 0.2
 
 	same_opinion = 5
-	opposite_opinion = 5
+	opposite_opinion = 5 # Snail bros
 
 	random = no
 	customizer = no
@@ -2322,6 +2329,7 @@ species_sluggy = { # Unshaven Sluggy
 		species_ishnail_koopa
 		species_slug_generic
 		species_winkle_snail
+ 		species_bubblainian_snail
 	}
 
 	martial = -4
@@ -2330,7 +2338,7 @@ species_sluggy = { # Unshaven Sluggy
 	fertility = 0.2
 
 	same_opinion = 5
-	opposite_opinion
+	opposite_opinion = 5 # Snail bros
 
 	random = no
 	customizer = no
@@ -2710,6 +2718,7 @@ species_winkle_snail = { # Winkle Snail
 		species_ishsnail_koopa
 		species_slug_generic
 		species_sluggy
+		species_bubblainian_snail
 	}
 
 	stewardship = 3
@@ -2718,6 +2727,7 @@ species_winkle_snail = { # Winkle Snail
 	ai_greed = 10 # They force people into their Colleseum, take their cash, and make them earn it abck
 
 	same_opinion = 20
+	opposite_opinion = 5 # Snail bros
 
 	random = no
 	customizer = no
