@@ -104,6 +104,18 @@ GOD_PIXL_QUEEN;The Pixl Queen;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 GOD_TRIBE_OF_DARKNESS;The Tribe of Darkness;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 GOD_THE_ANCIENTS;The Tribe of Ancients;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 PROPHET_FOUR_SAGES;The Four Sages;FRENCH;GERMAN;;SPANISH;;;;;;;;X
+GOD_THE_WORLD_TURTLE;The World Turtle;FRENCH;GERMAN;;SPANISH;;;;;;;;X
+GOD_THE_FIRST_KOOPAS;The First Koopas;FRENCH;GERMAN;;SPANISH;;;;;;;;X
+GOD_THE_ANCESTORS;The Ancestors;FRENCH;GERMAN;;SPANISH;;;;;;;;X
+PROPHET_THE_INCARNATE;The World Turtle Incarnate;FRENCH;GERMAN;;SPANISH;;;;;;;;X
+GOD_ALMIGHTY_GOOMBA;The Almighty Goomba;FRENCH;GERMAN;;SPANISH;;;;;;;;X
+UNITY;Unity;FRENCH;GERMAN;;SPANISH;;;;;;;;X
+DISUNITY;Disunity;FRENCH;GERMAN;;SPANISH;;;;;;;;X
+THE_FOEMAN;The Foeman;FRENCH;GERMAN;;SPANISH;;;;;;;;X
+PROPHET_GREATEST_GOOMPA;Greatest Goompa;FRENCH;GERMAN;;SPANISH;;;;;;;;X
+GREAT_THUNDER_DRAGON;The Great Thunder Dragon;FRENCH;GERMAN;;SPANISH;;;;;;;;X
+THUNDER_DRAGONS;The Thunder Dragons
+THE_STORM;The Storm
 ####################
 # OTHER NAME LISTS #
 ####################
@@ -134,6 +146,8 @@ THE_DARK_PROGNOSTICUS;The Dark Prognosticus;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 THE_LIGHT_PROGNOSTICUS;The Light Prognosticus;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 THE_PROGNOSTICI;The Prognostici;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 PROPHETIC_INVASION;Prophetic Invasion;FRENCH;GERMAN;;SPANISH;;;;;;;;X
+THE_LAW;Foreign Law;FRENCH;GERMAN;;SPANISH;;;;;;;;X
+GOOMBA_LAW;Goomba Law;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 ##########
 # GROUPS #
 ##########
@@ -197,6 +211,8 @@ light_prognosticus;Prophecy of Light;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 light_prognosticus_desc;
 grey_prognosticus;Prophecy of Grey;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 grey_prognosticus_desc;
+thunder_dragon;Thunder Dragon Worship;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+thunder_dragon_desc;Once, long ago, the Thunder Empire worshipped a godlike entity known as the Great Thunder Dragon. This terrifying beast gave reluctant boons to the mortals in exchange for gold and worship, and it was thanks to the Great Thunder Dragon that the Empire grew so powerful. As was mortal nature, however, the Thunderers grew greedy, and began to believe in their hubris that they could conquer and control their so-called God. Today, the Great Thunder Dragon and its kin rule the ruins of the Thunder Empire, and those mortals who thrive in the dark wastes have learnt never to cross them...;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 ## Alternative flavor for Bowser Ethics ##
 ## Content courtesy of Empoleon ##
 ###bowser_religion;Bowser Ethics;FRENCH;GERMAN;;SPANISH;;;;;;;;;x###
@@ -225,6 +241,8 @@ STAT_PIETY_DESC_MUSHROOM_KADABRA;Mushroom Kadabra is both an invocation in spell
 STAT_PIETY_FEAR;Fear;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 STAT_PIETY_DESC_FEAR;To those who dabble in dark arts, holding to an outside enforcer's moralizing means nothing, and instead those who consider themselves pious practitioners count religious worth in how feared the magician in question is by those who do not understand the dark arts. Like Prestige, harnessing Fear contributes points to one's score upon the death of a ruler.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 MONTHLY_PIETY_FEAR;Monthly Fear Gained;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+STAT_PIETY_UNITY_DESC;Traditionalist Goombas care not for public shows of piety, instead believing the most pious thing one can do is keep the unity in one's community. Like Prestige, upholding Unity contributes points to one's score upon the death of a ruler.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+MONTHLY_PIETY_UNITY;Monthly Disunity Prevented;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 ##################################################
 # CLERGY TITLES AND RELIGIOUS REALM DESCRIPTIONS #
 ##################################################
@@ -238,6 +256,8 @@ WISE_ONE;Wise One;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 KEEPER;Keeper;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 GUARDIAN;Guardian;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 MAGICIAN;Magician;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+TURTLE_SHAMAN;Turtle Shaman;FRENCH;GERMAN;;SPANISH;;;;;;;;X
+ELDER;Elder;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 # Names and titles for Astrotheology clergy #
 temple_baron_astrotheology;Shaman;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 temple_count_astrotheology;High Shaman;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
