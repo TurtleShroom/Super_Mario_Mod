@@ -433,6 +433,8 @@ pagan_group = {
 		
 		religious_clothing_head = 7
 		religious_clothing_priest = 5
+
+		allow_in_ruler_designer = no
 	}
 	
 	dryite_pagan = {
@@ -529,6 +531,53 @@ pagan_group = {
 		
 		religious_clothing_head = 5
 		religious_clothing_priest = 5
+
+		allow_in_ruler_designer = no
+	}
+
+	koopa_pagan_reformed = {
+		graphical_culture = western_gfx 
+		
+		icon = 5
+		heresy_icon = 5
+		
+		color = { 0 230 38 }
+		
+		crusade_name = GREAT_CONQUEST
+		scripture_name = THE_LEGENDS
+		priest_title = TURTLE_SHAMAN
+		
+		high_god_name = GOD_THE_WORLD_TURTLE
+		
+		god_names = {
+			GOD_THE_ANCESTORS GOD_THE_FIRST_KOOPAS GOD_THE_STARS PROPHET_THE_INCARNATE
+		}
+		evil_god_names = {
+			BOWSER GOD_MARIO
+		}
+		
+		piety_name = PIETY
+		
+		max_consorts = 3
+		
+		feminist = yes
+		allow_looting = yes
+		attacking_same_religion_piety_loss = yes
+		female_temple_holders = yes
+		feminist = yes
+		priests_can_marry = no
+		priests_can_inherit = no
+		
+		intermarry = astrotheology
+		intermarry = lunatheology
+		intermarry = dogmatic
+		intermarry = personality_cult
+		intermarry = tennis_group
+		
+		religious_clothing_head = 7
+		religious_clothing_priest = 5
+
+		allow_in_ruler_designer = no
 	}
 	
 	koopa_pagan = {
@@ -569,55 +618,13 @@ pagan_group = {
 		intermarry = dogmatic
 		intermarry = personality_cult
 		intermarry = tennis_group
+		intermarry = outlaw
 		
 		religious_clothing_head = 7
 		religious_clothing_priest = 5
 	}
-	
-reformed_koopa_pagan = {
-		graphical_culture = western_gfx 
-		
-		icon = 5
-		heresy_icon = 5
-		
-		color = { 0 230 38 }
-		
-		crusade_name = GREAT_CONQUEST
-		scripture_name = THE_LEGENDS
-		priest_title = TURTLE_SHAMAN
-		
-		high_god_name = GOD_THE_WORLD_TURTLE
-		
-		god_names = {
-			GOD_THE_ANCESTORS GOD_THE_FIRST_KOOPAS GOD_THE_STARS PROPHET_THE_INCARNATE
-		}
-		evil_god_names = {
-			BOWSER
-		}
-		
-		piety_name = PIETY
-		
-		max_consorts = 3
-		
-		feminist = yes
-		allow_looting = yes
-		attacking_same_religion_piety_loss = yes
-		female_temple_holders = yes
-		feminist = yes
-		priests_can_marry = no
-		priests_can_inherit = no
-		
-		intermarry = astrotheology
-		intermarry = lunatheology
-		intermarry = dogmatic
-		intermarry = personality_cult
-		intermarry = tennis_group
-		
-		religious_clothing_head = 7
-		religious_clothing_priest = 5
-	}
-	
-	goomba_pagan = {
+
+	goomba_pagan_reformed = {
 		graphical_culture = western_gfx 
 		
 		icon = 5
@@ -626,50 +633,7 @@ reformed_koopa_pagan = {
 		color = { 102 51 0 }
 		
 		crusade_name = GREAT_CONQUEST
-		scripture_name = THE_LAW
-		priest_title = ELDER
-		
-		high_god_name = GOD_ALMIGHTY_GOOMBA
-		
-		god_names = {
-			GOD_THE_ANCESTORS GOD_THE_STARS THE_BOSS UNITY
-		}
-		evil_god_names = {
-			DISUNITY THE_FOEMAN
-		}
-		
-		piety_name = UNITY
-		
-		max_consorts = 3
-		
-		feminist = yes
-		allow_looting = yes
-		attacking_same_religion_piety_loss = yes
-		female_temple_holders = yes
-		feminist = yes
-		priests_can_marry = no
-		priests_can_inherit = no
-		
-		intermarry = astrotheology
-		intermarry = lunatheology
-		intermarry = dogmatic
-		intermarry = personality_cult
-		intermarry = tennis_group
-		
-		religious_clothing_head = 7
-		religious_clothing_priest = 5
-	}
-	
-	reformed_goomba_pagan = {
-		graphical_culture = western_gfx 
-		
-		icon = 5
-		heresy_icon = 5
-		
-		color = { 102 51 0 }
-		
-		crusade_name = GREAT_CONQUEST
-		scripture_name = GOOMBA_LAWS
+		scripture_name = GOOMBA_BREVIARY
 		priest_title = ELDER
 		
 		high_god_name = GOD_ALMIGHTY_GOOMBA
@@ -691,6 +655,48 @@ reformed_koopa_pagan = {
 		female_temple_holders = yes
 		feminist = yes
 		priests_can_marry = no
+		priests_can_inherit = no
+		
+		intermarry = astrotheology
+		intermarry = lunatheology
+		intermarry = dogmatic
+		intermarry = personality_cult
+		intermarry = tennis_group
+		
+		religious_clothing_head = 7
+		religious_clothing_priest = 5
+
+		allow_in_ruler_designer = no
+	}
+	
+	goomba_pagan = {
+		graphical_culture = western_gfx 
+		
+		icon = 5
+		heresy_icon = 5
+		
+		color = { 102 51 0 }
+		
+		crusade_name = GREAT_CONQUEST
+		scripture_name = THE_LEGENDS
+		priest_title = ELDER
+		
+		high_god_name = GOD_ALMIGHTY_GOOMBA
+		
+		god_names = {
+			GOD_THE_ANCESTORS GOD_THE_STARS THE_BOSS UNITY
+		}
+		evil_god_names = {
+			DISUNITY THE_FOEMAN
+		}
+		
+		piety_name = UNITY
+		
+		feminist = yes
+		allow_looting = yes
+		attacking_same_religion_piety_loss = yes
+		female_temple_holders = yes
+		priests_can_marry = yes
 		priests_can_inherit = no
 		
 		intermarry = astrotheology
@@ -818,6 +824,7 @@ dogmatic = {
 		intermarry = pagan_group
 		intermarry = kongo_group
 		intermarry = tennis_group
+		intermarry = happiness
 	}
 
 
@@ -1258,8 +1265,8 @@ personality_cult = {
 		intermarry = outlaw
 		intermarry = pagan_group
 		
-		religious_clothing_head = 0
-		religious_clothing_priest = 1
+		religious_clothing_head = 3
+		religious_clothing_priest = 7
 	}
 }
 

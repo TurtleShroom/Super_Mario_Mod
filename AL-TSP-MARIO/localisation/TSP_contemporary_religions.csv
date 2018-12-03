@@ -114,8 +114,8 @@ DISUNITY;Disunity;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 THE_FOEMAN;The Foeman;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 PROPHET_GREATEST_GOOMPA;Greatest Goompa;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 GREAT_THUNDER_DRAGON;The Great Thunder Dragon;FRENCH;GERMAN;;SPANISH;;;;;;;;X
-THUNDER_DRAGONS;The Thunder Dragons
-THE_STORM;The Storm
+THUNDER_DRAGONS;Thunder Dragons;FRENCH;GERMAN;;SPANISH;;;;;;;;X
+THE_STORM;The Storm;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 ####################
 # OTHER NAME LISTS #
 ####################
@@ -144,10 +144,11 @@ BOOK_OF_THE_DAWN;Book of the Dawn;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 KONQ_QUEST;Kong Quest;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 THE_DARK_PROGNOSTICUS;The Dark Prognosticus;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 THE_LIGHT_PROGNOSTICUS;The Light Prognosticus;FRENCH;GERMAN;;SPANISH;;;;;;;;X
-THE_PROGNOSTICI;The Prognostici;FRENCH;GERMAN;;SPANISH;;;;;;;;X
+THE_PROGNOSTICI;The Prognosticus Texts;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 PROPHETIC_INVASION;Prophetic Invasion;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 THE_LAW;Foreign Law;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 GOOMBA_LAW;Goomba Law;FRENCH;GERMAN;;SPANISH;;;;;;;;X
+GOOMBA_BREVIARY;Universal Goomba Breviary;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 ##########
 # GROUPS #
 ##########
@@ -155,9 +156,9 @@ dogmatic;Doctrinaire;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 pagan_group;Primitive;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 outlaw;Outlaw;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 kong_group;Kongobongo;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-movie_religion_group;Evoextradimensional;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+movie_religion_group;Evo-Extradimensional;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 pagan_group;Primitive;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-prognosticus_faiths;Prognostic;French;German;;Spanish;;;;;;;;;x
+prognosticus_group;Prognostic;French;German;;Spanish;;;;;;;;;x
 ##############################
 # RELIGIONS AND DESCRIPTIONS #
 ##############################
@@ -189,10 +190,10 @@ movie_cult;Portal Guardians;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 movie_cult_DESC;Once upon a time, a great Meteorite struck the earth- long theorized to be the ancestral home world of men like the Mario Brothers and the New Donkers. This massive destruction of that planet, so the abominations claim, created a third dimension where non-sentient dinosaurs gradually came to mirror the sentient dinosaurs of Dinosaur Land, except that they took the appearence of man. That world was ransacked and polluted in a search for resources, eventually depopulating most of itself aside from the global capital. The ruler of the planet, King Reznor, was overthrown by the military under the leadership of the corrupt President Koopa (unrelated to Bowser Koopa), who promised the dinosaur men a new world on the other side./nThis monastic religion once worshipped the psychic energy created by the Meteorite, protecting it and its inhabitants by secretly controlling the Crown. However, the rise of President Koopa's junta corrupted the faith as the clergy was purged and staffed with loyalists. Now, it is a grotesque mockery of itself: a tool to accomplish President Koopa's will and nothing else.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 ## Generic witchcraft worship, as conceived by Iustinius and Empoleon Blownaparte ##
 witchcraft;Witchcraft;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-witchcraft_DESC;An umbrella term for those who dabble in the art of black magic, Witches are those who dive deep into things considered profane. From Tarot Readings and speaking to the dead to Summoning Demons and hexing their foes, witches are known for their control over things deemed unholy by most faiths. One's reasoning for a witch's descent into darkness can range from the benign belief that the divines approve of braving the profane, to the truly depraved, such as a dark tyrant solidifying his rule through dark spells and devilish sacrements, as well as everything in between. Cultures steeped in Witchcraft tend to forgo traditional morality for ideals such as power over others and knowledge of the world's deepest secrets. Those who tread this dark path take pride in being feared by those they claim do not understand them.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+witchcraft_DESC;An umbrella term for those who dabble in the art of black magic, witches are those who dive deep into things considered profane. From Tarot Readings and speaking to the dead to summoning demons and hexing their foes, witches are known for their control over things deemed unholy by most faiths. One's reasoning for a witch's descent into darkness can range from the benign belief that the divines approve of braving the profane, to the truly depraved, such as a dark tyrant solidifying his rule through dark spells and devilish sacrements, as well as everything in between. Cultures steeped in Witchcraft tend to forgo traditional morality for ideals such as power over others and knowledge of the world's deepest secrets. Those who tread this dark path take pride in being feared by those they claim do not understand them.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 ## This religion was conceived by Iustinius and Empoleon Blownaparte, among others, by huge popular demand ##
 pianta_imperialism;Unconquerable Sun;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-pianta_imperialism_desc;The Cult of the Unconquerable Sun is a militarized version of the traditional Shine Sprite worship of Sunshine Isles which states that the Delfinite culture must be spread to every corner of the world, that the sun might shine eternally over its chosen people. As told in the Book of the Dawn, the peoples of the Delfinite archipelago were once as peaceful as could be, until the first ruler of the ancient Empire of the Sun united the archipelago islands. That is when Auroreus, the monotheistic master of the Cosmos, made himself known to him, believing the emperor would be the first of many to carry out his will and told him to write down everything he had to say, such as he is the one gave the Piantas the Shine Sprites, that all of the stars, including the sun and the Star Spirits, are his eyes keeping watch over ongoing events, and that the world must be controlled by them in order to bring the Light of the Sun, and his words, to everyone and keep it that way forever.\n However, detractors say that Auroreus and this so-called ancient empire are completely made up, as history has never recored a full unification of the entire Delfino archipelago. They claim this "religion" exists to legitimize expansionist ambitions and to spread that imperialist fervor into the mindset of all of the Piantas.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+pianta_imperialism_desc;The Cult of the Unconquerable Sun is a militarized version of the traditional Shine Sprite worship of Isle Delfino and its surrounding archipelago. It states that the Delfinite culture must be spread to every corner of the world, that the sun might shine eternally over its chosen people. As told in the Book of the Dawn, the peoples of the Delfinite archipelago were once as peaceful as could be, until the first ruler of the ancient Empire of the Sun united the archipelago islands. That is when Auroreus, the monotheistic master of the Cosmos, made himself known to him, believing the emperor would be the first of many to carry out his will and told him to write down everything he had to say, such as how he is the one who gave the Piantas the Shine Sprites, that all of the stars, including the sun and the Star Spirits, are his eyes keeping watch over ongoing events, and that the world must be controlled by them in order to bring the Light of the Sun, and his words, to everyone and keep it that way forever.\n However, detractors say that Auroreus and this so-called ancient empire are completely made up, as history has never recored a full unification of the entire Delfino archipelago. They claim this "religion" exists to legitimize expansionist ambitions and to spread that imperialist fervor into the mindset of all of the Piantas.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 ## This religion was conceived by Empoleon Blownaparte and Iustinius as a filler for non-aligned Koopas that did not worship Bowser or Astrotheology ##
 koopa_pagan;World Turtle;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 koopa_pagan_desc;The traditional faith of the ancient Koopa races is extinct in its own homelands since the rise of the Koopa dynasty and their own invented faith, but it still exists in small pockets throughout the world. Koopa Paganism varies due to the wide berth of Koopa homelands, from the Bowsers of the Darklands to the ancient Shellcreepers of the Odyssey continents. Things shared by all Koopa pagans include: the posthumous worship of an entity known as the "World Turtle", a giant Koopa-like being whose corpse is now literally the Mushroom World, the idea that this World Turtle's soul will one day incarnate as a saviour-figure for the Koopas, and ancestor veneration. Pagan Koopas believe all life to have evolved from the bacteria within the World Turtle's body.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
@@ -200,19 +201,19 @@ koopa_pagan_reformed;Church of the World Turtle;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 koopa_pagan_reformed_desc;From the brink of extinction, the faith of the World Turtle rises from the ashes to win the hearts, minds, and souls of Koopas everywhere! The reformed Church of the World Turtle contains organized liturgies and authenticated sacred texts compiled from the earliest known sources into one canon. Established clergy and temple worship now replaces the hilltop shrines and diviners of old. The righteous soul that managed to rescue the faith from death and organize its believers is considered the Savior and World Turtle incarneate and is worshipped by all the faithful.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 ## Content courtesy of Empoleon and friends ##
 ## Note: the Almighty Goomba is canonical ##
-goomba_pagan;Goomba Community;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-goomba_pagan_desc;The Goomba people do not have a proper traditional faith beyond the idea of a progenitor entity known as "The Almighty Goomba", but instead they tend to fall under the teachings of whatever ruler they currently have, and many Goomba traditionalists syncretize their deity to be the greatest servant of the local deity proper, always strong and steadfast in service, whether to the Stars, the World Turtle, Aster, the Forms, and so on. Goombas have a tribalistic, highly complex social structure based around family units and a focus on community.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+goomba_pagan;Goomba Tribalism;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+goomba_pagan_desc;Goombas do not have a proper traditional faith beyond the idea of a progenitor, creator-god entity known as "The Almighty Goomba", but instead they tend to fall under the teachings of whatever ruler they currently have, and many Goomba traditionalists syncretize their deity to be the greatest servant of the local deity proper. This syncretized deity is always strong and steadfast in service, whether to the Stars, the World Turtle, Aster, the Forms, or so on. Goombas have a tribalistic, highly complex social structure based around family units and a focus on community.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 goomba_pagan_reformed;Universal Goomba Church;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 goomba_pagan_reformed_desc;Merely minions no longer, the Goombas have nominally united under a single banner! Their complex social structure has evolved a semi-religious belief that all Goombas are one family under one race-wide Patriarch or Matriarch, second only to the Almighty Goomba, benevolent master of all and progenitor of life.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 ##Content Courtesy of Empoleon##
 dark_prognosticus;Prophecy of Darkness;FRENCH;GERMAN;;SPANISH;;;;;;;;X
-dark_prognosticus_desc;The Followers of the Dark Prophecy, as foretold by the Dark Prognosticus. Said to be descended from an ancient and near-extinct Tribe of Darkness, the Dark Prophecy fortells the end of the multiverse. the Modern Prophets of the Dark Prophecy have invaded all world simultaneously with the intent of destroying the cruel multiverse to start it over again, with followers of the Dark Prophecy supposedly being given the chance to repopulate the newly created worlds.;FRENCH;GERMAN;;SPANISH;;;;;;;;X
+dark_prognosticus_desc;The Followers of the Dark Prophecy, as foretold by the Dark Prognosticus. Said to be descended from the ancient and near-extinct Tribe of Darkness, the Dark Prophecy fortells the end of creation itself. The modern followers of the Dark Prophecy seek to invade all worlds simultaneously with the intent of destroying this cruel reality and start it over again, with followers of the Dark Prophecy supposedly being given the chance to rule this new universal order as they see fit.;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 light_prognosticus;Prophecy of Light;FRENCH;GERMAN;;SPANISH;;;;;;;;X
-light_prognosticus_desc;
+light_prognosticus_desc; ;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 grey_prognosticus;Prophecy of Grey;FRENCH;GERMAN;;SPANISH;;;;;;;;X
-grey_prognosticus_desc;
+grey_prognosticus_desc; ;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 thunder_dragon;Thunder Dragon Worship;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-thunder_dragon_desc;Once, long ago, the Thunder Empire worshipped a godlike entity known as the Great Thunder Dragon. This terrifying beast gave reluctant boons to the mortals in exchange for gold and worship, and it was thanks to the Great Thunder Dragon that the Empire grew so powerful. As was mortal nature, however, the Thunderers grew greedy, and began to believe in their hubris that they could conquer and control their so-called God. Today, the Great Thunder Dragon and its kin rule the ruins of the Thunder Empire, and those mortals who thrive in the dark wastes have learnt never to cross them...;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+thunder_dragon_desc;Once, long ago, the Thunder Empire worshipped a godlike entity known as the Great Thunder Dragon. This terrifying beast gave reluctant boons to the mortals in exchange for gold and worship, and it was thanks to the Great Thunder Dragon that the Empire grew so powerful. As was mortal nature, however, the Thunderites grew greedy, and began to believe in their hubris that they could conquer and control their so-called God. Today, the Great Thunder Dragon and its kin rule the ruins of the Thunder Empire, and those mortals who thrive in the dark wastes have learned never to cross them...;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 ## Alternative flavor for Bowser Ethics ##
 ## Content courtesy of Empoleon ##
 ###bowser_religion;Bowser Ethics;FRENCH;GERMAN;;SPANISH;;;;;;;;;x###
