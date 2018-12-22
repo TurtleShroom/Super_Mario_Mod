@@ -2129,6 +2129,8 @@ species_poink { # Poink
 species_pokey = {
 	same_opinion = 5
 
+	health = 3
+
 	random = no
 	customizer = no
 }
