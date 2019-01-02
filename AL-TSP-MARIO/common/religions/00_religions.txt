@@ -1115,7 +1115,6 @@ outlaw = {
 		religious_clothing_head = 0
 		religious_clothing_priest = 7
 	}
-}
 
 	witchcraft = {
 		graphical_culture = westerngfx
@@ -1157,6 +1156,7 @@ outlaw = {
 		religious_clothing_priest = 3
 	}
 }
+
 personality_cult = {
 	has_coa_on_barony_only = yes
 	graphical_culture = westerngfx
