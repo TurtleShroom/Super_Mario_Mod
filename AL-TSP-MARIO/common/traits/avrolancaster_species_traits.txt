@@ -2176,6 +2176,7 @@ species_raven = {
 
 species_sandoon = {
 	same_opinion = 5
+	intrigue = 1
 
 	random = no
 	customizer = no
@@ -2194,7 +2195,7 @@ species_sea_cactus = {
 
 species_shadow_sister = { # Vivian and the Shadow Sirens, male ones exist
 	diplomacy = -4
-	intrigue = 10 # Canonically, they are amazing masters of disguise
+	intrigue = 6 # Canonically, they are amazing masters of disguise
 
 	immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
 
@@ -2206,7 +2207,7 @@ species_shadow_sister = { # Vivian and the Shadow Sirens, male ones exist
 }
 
 species_shadow_clone = { # Creatures that take the form of others, e.g. Shadow Mario if he wasn't Bowser II, familiars used by Shadow Spirits, creatures under the command of the Shadow Queen, etc.
-	intrigue = 6
+	intrigue = 5
 
 	same_opinion = 5
 
@@ -2217,7 +2218,7 @@ species_shadow_clone = { # Creatures that take the form of others, e.g. Shadow M
 species_shaman = { # The Shaman species, not the title, seen in "Paper Mario I" and SMRPG as clergymen and enemies, respectively
 	diplomacy = 3
 	learning = 6
-	martial = -4
+	martial = -3
 
 	tolerates_astrotheology = yes
 	tolerates_lunatheology = yes
@@ -2265,6 +2266,8 @@ species_shroob = { # Shroobs
 
 species_shy_guy = { # Shy Guys
 	same_opinion = 5
+
+	diplomacy = -1
 
 	random = no
 	customizer = no
