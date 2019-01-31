@@ -1010,7 +1010,7 @@ outlaw = {
 		
 		intermarry = dogmatic
 		intermarry = pagan_group
-		intermarry = kong_group
+		intermarry = kongo_group
 		intermarry = shine_sprites
 		
 		hard_to_convert = yes
