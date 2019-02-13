@@ -40,8 +40,8 @@ scallywag = {
 			#Non-canonical
 			Alfhild Alvid Anna_Anna 
 			Christina_Christina 
-			EalhflÊd Elise_Elisabeth Elizabeth_Elisabeth 
-			Gr·inne 
+			Ealhfl√¶d Elise_Elisabeth Elizabeth_Elisabeth 
+			Gr√°inne 
 			Hetha 
 			Jacquotte Jeanne_Joan 
 			Ladgerda 
@@ -193,7 +193,7 @@ dryite_group = {
 			# No canonical names are known
 
 			# Made-up filler 
- 			Aaliyah Aamina Aamira Aaqila Aarifa Aazzi Adelah_Adela Adiba Adilah Adilia Adiva Adjan Aeesha Aesha Aisha Amira Badeea Badia Badra Bahac Bahiyya Bajila Bakka Baraah Barakah Baria Bashira Basilie Basima Basimah Bghnat Bibya Bilqis Cala Canh'a Cantara D'r'ifa Daisha Dalal Dasin Dema Dimah Dinara Dua Durra Durriyya Edza Eleonorka_Eleanor Faghissa Fahriya Fariza Fedada Fer'r'udja Gedduda Ghida Ghnima Guraya Gwejda H'edda Hadiya Hawwa Hemu Herru Iija Iiju Itt˚ Izza Jaida Jdira Jeddjiga Kahina Kamila Kanimana Kella Kenwa Kisa Kulla Kwella Lalla Laysa Lem'an Lemta Lumsi Lunja Lwiza Lyaqut Mamma Massa Meghighda Melek Menna Menza Mernissa Monica_Monica Myassa Najiba R'uza Ra'isa Rahima Randja Rula Sadiqa Salaama Sekkura Siddiqa Silya Siman T'awes T'item Tadefi Tadla Tadmut Tafrara Tafsut Tagwillult Taheyyatt Takama Taklit Talalit Taljat Tament Tamimunt Tamrust Tanaszart Tanebdatt Tanefzawit Tanest Taninna Tarifa Tariwelt Tasa Tasa'fut Taszellayt Tatbirt Tati Taweckint Tawenza Tawnat Tawzalt Tayri Tayyurt Tazdayt Tazenkwedt Tazirit Tazrurt Tella Temzi Tfit Tigmi Tikinas Tilelli Timmi Tinhinan Tintadefi Tintifawin Tinzert Tisent Tislit Titbirt Titrit Tizemt Tiziri Triya Tudert Tuh'r'ict Tureght Ultafa Wenza Wnissa Wrina Z'diant Z'ergha Zaghwa Zahida Zamba Zibba Zilgum Zubayda Zunagha Zwina Zwira
+ 			Aaliyah Aamina Aamira Aaqila Aarifa Aazzi Adelah_Adela Adiba Adilah Adilia Adiva Adjan Aeesha Aesha Aisha Amira Badeea Badia Badra Bahac Bahiyya Bajila Bakka Baraah Barakah Baria Bashira Basilie Basima Basimah Bghnat Bibya Bilqis Cala Canh'a Cantara D'r'ifa Daisha Dalal Dasin Dema Dimah Dinara Dua Durra Durriyya Edza Eleonorka_Eleanor Faghissa Fahriya Fariza Fedada Fer'r'udja Gedduda Ghida Ghnima Guraya Gwejda H'edda Hadiya Hawwa Hemu Herru Iija Iiju Itt√ª Izza Jaida Jdira Jeddjiga Kahina Kamila Kanimana Kella Kenwa Kisa Kulla Kwella Lalla Laysa Lem'an Lemta Lumsi Lunja Lwiza Lyaqut Mamma Massa Meghighda Melek Menna Menza Mernissa Monica_Monica Myassa Najiba R'uza Ra'isa Rahima Randja Rula Sadiqa Salaama Sekkura Siddiqa Silya Siman T'awes T'item Tadefi Tadla Tadmut Tafrara Tafsut Tagwillult Taheyyatt Takama Taklit Talalit Taljat Tament Tamimunt Tamrust Tanaszart Tanebdatt Tanefzawit Tanest Taninna Tarifa Tariwelt Tasa Tasa'fut Taszellayt Tatbirt Tati Taweckint Tawenza Tawnat Tawzalt Tayri Tayyurt Tazdayt Tazenkwedt Tazirit Tazrurt Tella Temzi Tfit Tigmi Tikinas Tilelli Timmi Tinhinan Tintadefi Tintifawin Tinzert Tisent Tislit Titbirt Titrit Tizemt Tiziri Triya Tudert Tuh'r'ict Tureght Ultafa Wenza Wnissa Wrina Z'diant Z'ergha Zaghwa Zahida Zamba Zibba Zilgum Zubayda Zunagha Zwina Zwira
 		}
 
 		from_dynasty_suffix = "ites"
@@ -230,7 +230,7 @@ dryite_group = {
 			# No canonical names are known
 
 			# Made-up filler 
- 			Aaliyah Aamina Aamira Aaqila Aarifa Aazzi Adelah_Adela Adiba Adilah Adilia Adiva Adjan Aeesha Aesha Aisha Amira Badeea Badia Badra Bahac Bahiyya Bajila Bakka Baraah Barakah Baria Bashira Basilie Basima Basimah Bghnat Bibya Bilqis Cala Canh'a Cantara D'r'ifa Daisha Dalal Dasin Dema Dimah Dinara Dua Durra Durriyya Edza Eleonorka_Eleanor Faghissa Fahriya Fariza Fedada Fer'r'udja Gedduda Ghida Ghnima Guraya Gwejda H'edda Hadiya Hawwa Hemu Herru Iija Iiju Itt˚ Izza Jaida Jdira Jeddjiga Kahina Kamila Kanimana Kella Kenwa Kisa Kulla Kwella Lalla Laysa Lem'an Lemta Lumsi Lunja Lwiza Lyaqut Mamma Massa Meghighda Melek Menna Menza Mernissa Monica_Monica Myassa Najiba R'uza Ra'isa Rahima Randja Rula Sadiqa Salaama Sekkura Siddiqa Silya Siman T'awes T'item Tadefi Tadla Tadmut Tafrara Tafsut Tagwillult Taheyyatt Takama Taklit Talalit Taljat Tament Tamimunt Tamrust Tanaszart Tanebdatt Tanefzawit Tanest Taninna Tarifa Tariwelt Tasa Tasa'fut Taszellayt Tatbirt Tati Taweckint Tawenza Tawnat Tawzalt Tayri Tayyurt Tazdayt Tazenkwedt Tazirit Tazrurt Tella Temzi Tfit Tigmi Tikinas Tilelli Timmi Tinhinan Tintadefi Tintifawin Tinzert Tisent Tislit Titbirt Titrit Tizemt Tiziri Triya Tudert Tuh'r'ict Tureght Ultafa Wenza Wnissa Wrina Z'diant Z'ergha Zaghwa Zahida Zamba Zibba Zilgum Zubayda Zunagha Zwina Zwira
+ 			Aaliyah Aamina Aamira Aaqila Aarifa Aazzi Adelah_Adela Adiba Adilah Adilia Adiva Adjan Aeesha Aesha Aisha Amira Badeea Badia Badra Bahac Bahiyya Bajila Bakka Baraah Barakah Baria Bashira Basilie Basima Basimah Bghnat Bibya Bilqis Cala Canh'a Cantara D'r'ifa Daisha Dalal Dasin Dema Dimah Dinara Dua Durra Durriyya Edza Eleonorka_Eleanor Faghissa Fahriya Fariza Fedada Fer'r'udja Gedduda Ghida Ghnima Guraya Gwejda H'edda Hadiya Hawwa Hemu Herru Iija Iiju Itt√ª Izza Jaida Jdira Jeddjiga Kahina Kamila Kanimana Kella Kenwa Kisa Kulla Kwella Lalla Laysa Lem'an Lemta Lumsi Lunja Lwiza Lyaqut Mamma Massa Meghighda Melek Menna Menza Mernissa Monica_Monica Myassa Najiba R'uza Ra'isa Rahima Randja Rula Sadiqa Salaama Sekkura Siddiqa Silya Siman T'awes T'item Tadefi Tadla Tadmut Tafrara Tafsut Tagwillult Taheyyatt Takama Taklit Talalit Taljat Tament Tamimunt Tamrust Tanaszart Tanebdatt Tanefzawit Tanest Taninna Tarifa Tariwelt Tasa Tasa'fut Taszellayt Tatbirt Tati Taweckint Tawenza Tawnat Tawzalt Tayri Tayyurt Tazdayt Tazenkwedt Tazirit Tazrurt Tella Temzi Tfit Tigmi Tikinas Tilelli Timmi Tinhinan Tintadefi Tintifawin Tinzert Tisent Tislit Titbirt Titrit Tizemt Tiziri Triya Tudert Tuh'r'ict Tureght Ultafa Wenza Wnissa Wrina Z'diant Z'ergha Zaghwa Zahida Zamba Zibba Zilgum Zubayda Zunagha Zwina Zwira
 		}
 
 		parent = dryite
@@ -273,7 +273,7 @@ dryite_group = {
 			# No canonical names exist
 
 			# Made-up filler
-			Aaliyah Aamina Aamira Aaqila Aarifa Aazzi Adelah_Adela Adiba Adilah Adilia Adiva Adjan Aeesha Aesha Aisha Amira Badeea Badia Badra Bahac Bahiyya Bajila Bakka Baraah Barakah Baria Bashira Basilie Basima Basimah Bghnat Bibya Bilqis Cala Canh'a Cantara D'r'ifa Daisha Dalal Dasin Dema Dimah Dinara Dua Durra Durriyya Edza Eleonorka_Eleanor Faghissa Fahriya Fariza Fedada Fer'r'udja Gedduda Ghida Ghnima Guraya Gwejda H'edda Hadiya Hawwa Hemu Herru Iija Iiju Itt˚ Izza Jaida Jdira Jeddjiga Kahina Kamila Kanimana Kella Kenwa Kisa Kulla Kwella Lalla Laysa Lem'an Lemta Lumsi Lunja Lwiza Lyaqut Mamma Massa Meghighda Melek Menna Menza Mernissa Monica_Monica Myassa Najiba R'uza Ra'isa Rahima Randja Rula Sadiqa Salaama Sekkura Siddiqa Silya Siman T'awes T'item Tadefi Tadla Tadmut Tafrara Tafsut Tagwillult Taheyyatt Takama Taklit Talalit Taljat Tament Tamimunt Tamrust Tanaszart Tanebdatt Tanefzawit Tanest Taninna Tarifa Tariwelt Tasa Tasa'fut Taszellayt Tatbirt Tati Taweckint Tawenza Tawnat Tawzalt Tayri Tayyurt Tazdayt Tazenkwedt Tazirit Tazrurt Tella Temzi Tfit Tigmi Tikinas Tilelli Timmi Tinhinan Tintadefi Tintifawin Tinzert Tisent Tislit Titbirt Titrit Tizemt Tiziri Triya Tudert Tuh'r'ict Tureght Ultafa Wenza Wnissa Wrina Z'diant Z'ergha Zaghwa Zahida Zamba Zibba Zilgum Zubayda Zunagha Zwina Zwira
+			Aaliyah Aamina Aamira Aaqila Aarifa Aazzi Adelah_Adela Adiba Adilah Adilia Adiva Adjan Aeesha Aesha Aisha Amira Badeea Badia Badra Bahac Bahiyya Bajila Bakka Baraah Barakah Baria Bashira Basilie Basima Basimah Bghnat Bibya Bilqis Cala Canh'a Cantara D'r'ifa Daisha Dalal Dasin Dema Dimah Dinara Dua Durra Durriyya Edza Eleonorka_Eleanor Faghissa Fahriya Fariza Fedada Fer'r'udja Gedduda Ghida Ghnima Guraya Gwejda H'edda Hadiya Hawwa Hemu Herru Iija Iiju Itt√ª Izza Jaida Jdira Jeddjiga Kahina Kamila Kanimana Kella Kenwa Kisa Kulla Kwella Lalla Laysa Lem'an Lemta Lumsi Lunja Lwiza Lyaqut Mamma Massa Meghighda Melek Menna Menza Mernissa Monica_Monica Myassa Najiba R'uza Ra'isa Rahima Randja Rula Sadiqa Salaama Sekkura Siddiqa Silya Siman T'awes T'item Tadefi Tadla Tadmut Tafrara Tafsut Tagwillult Taheyyatt Takama Taklit Talalit Taljat Tament Tamimunt Tamrust Tanaszart Tanebdatt Tanefzawit Tanest Taninna Tarifa Tariwelt Tasa Tasa'fut Taszellayt Tatbirt Tati Taweckint Tawenza Tawnat Tawzalt Tayri Tayyurt Tazdayt Tazenkwedt Tazirit Tazrurt Tella Temzi Tfit Tigmi Tikinas Tilelli Timmi Tinhinan Tintadefi Tintifawin Tinzert Tisent Tislit Titbirt Titrit Tizemt Tiziri Triya Tudert Tuh'r'ict Tureght Ultafa Wenza Wnissa Wrina Z'diant Z'ergha Zaghwa Zahida Zamba Zibba Zilgum Zubayda Zunagha Zwina Zwira
 		}
 
 		allow_looting = yes # Dryites have huge bandit communities and Dry Dry Outpost is still nominally run by thieves, e.g. Moustafa
@@ -366,10 +366,10 @@ beanish_group = {
 		
 		color = { 0.52 0.73 0.19 }
 		male_names = {
-			Sledge Mallet Noam Thoreau Emiliano Zeno Xeno Derrick Mikhail Justice Rand Viktor Zero Ike Karl Alexander_Alexander Alex_Alexander Murray Texas Adversus Anarcho Az Banksy Bartolomeo Buenaventura Fiasco Jello Kropotkin Libertine Menshevik Nihil Sham Sinner Solo Stza V Voltaire X Pietro Acciarito Francisco Ascaso Berkman Berneri Marie_Maria Louise_Louise Berneri Bookchin Georges_George Gaetano Bresci Carlo_Charles Cafiero Marco Camenisch Geronimo Caserio Lev Chomsky Leon Jacques Luigi_Luigi Francisco Ferrer Juan_John Oliver Goldman William_William Godwin Woody Harrelson PÎtr_Peter Kropotkin Gino Lucetti Saverio Merlino Michel Johann_John Most Tresca Carlo_Charles Benjamin_Benjamin Tucker John_John Zerzan Imier Nestor Makhno Brad_Bradley Will_William MikhaÔlo Enckell Keith Eaton Brian Feigenbaum Lawrence Butler Jessie Constable Bill Haywood Mikhail Alexandrovich Bakunin James_James Guillaume Henri Tolain Albert Parsons August Spies Sam Mbah Henry Glasse Vladimir Shatoff Andrew Nellis Brent Taylor Doug Stewart Gerry Errico Malatesta Tepito Barrio "Kom boa" Ervin Lorenzo Ricardo Guerrero Martin Capetillo Durruti Column Anarkismo CrimethInc "Curious George" Joel Olson Todd Cassius Cook Sprading Clarence Lee Swartz Cohen Hans Rossner Thomas Bell Jim_James Bumpas Ben Morea Dan_Daniel Georgakas Amiri Baraka Abbie Hoffman Tom Neumann Herbert Marcuse Sundstrom Alan Phillips Bogle Hugo Ch·vez Joaquin Antonio Huang Xing Liu Shipei Satoshi Akao 
+			Sledge Mallet Noam Thoreau Emiliano Zeno Xeno Derrick Mikhail Justice Rand Viktor Zero Ike Karl Alexander_Alexander Alex_Alexander Murray Texas Adversus Anarcho Az Banksy Bartolomeo Buenaventura Fiasco Jello Kropotkin Libertine Menshevik Nihil Sham Sinner Solo Stza V Voltaire X Pietro Acciarito Francisco Ascaso Berkman Berneri Marie_Maria Louise_Louise Berneri Bookchin Georges_George Gaetano Bresci Carlo_Charles Cafiero Marco Camenisch Geronimo Caserio Lev Chomsky Leon Jacques Luigi_Luigi Francisco Ferrer Juan_John Oliver Goldman William_William Godwin Woody Harrelson P√´tr_Peter Kropotkin Gino Lucetti Saverio Merlino Michel Johann_John Most Tresca Carlo_Charles Benjamin_Benjamin Tucker John_John Zerzan Imier Nestor Makhno Brad_Bradley Will_William Mikha√Ølo Enckell Keith Eaton Brian Feigenbaum Lawrence Butler Jessie Constable Bill Haywood Mikhail Alexandrovich Bakunin James_James Guillaume Henri Tolain Albert Parsons August Spies Sam Mbah Henry Glasse Vladimir Shatoff Andrew Nellis Brent Taylor Doug Stewart Gerry Errico Malatesta Tepito Barrio "Kom boa" Ervin Lorenzo Ricardo Guerrero Martin Capetillo Durruti Column Anarkismo CrimethInc "Curious George" Joel Olson Todd Cassius Cook Sprading Clarence Lee Swartz Cohen Hans Rossner Thomas Bell Jim_James Bumpas Ben Morea Dan_Daniel Georgakas Amiri Baraka Abbie Hoffman Tom Neumann Herbert Marcuse Sundstrom Alan Phillips Bogle Hugo Ch√°vez Joaquin Antonio Huang Xing Liu Shipei Satoshi Akao 
 		}
 		female_names = {
-			Emma Ayn Liberty Antigone Millicent Soledad Valerie Victory Ron Morrigan Evie Adversa Anarchazelie Anemy Azelie Vanzetti Catalonia Decency Decency Discordia Dissidence Equality Inimica Libertine Messie Mononoke Nicola Sacco Rebel Sham Sinner Stza Valourie Voltairine X Brassens Sante Chernyi Czolgosz Alexandra_Alexander Durruti Ellul Fabbri Guardia Garcia Ursula "Le Guin" Louise_Louise Most ElisÈe_Elise Reclus Ferrua Marie-Christine  Marianne_Marie Jo Mira Amy Susan Jessie Rothstien Auca Sam Zabalaza  Ann Hansen Juliet Caroline Belmas Hannah Malatesta Lucy Parsons Flores MagÛn Pr·xedis Sostre Luisa Dumba Cindy Milstein Harsha Walia May Mujeres Creando MarÌa Galindo MÛnica Mendoza Julieta Paredes Penina Pellicer Paraire Huang Xing He-Yin Zhen 
+			Emma Ayn Liberty Antigone Millicent Soledad Valerie Victory Ron Morrigan Evie Adversa Anarchazelie Anemy Azelie Vanzetti Catalonia Decency Decency Discordia Dissidence Equality Inimica Libertine Messie Mononoke Nicola Sacco Rebel Sham Sinner Stza Valourie Voltairine X Brassens Sante Chernyi Czolgosz Alexandra_Alexander Durruti Ellul Fabbri Guardia Garcia Ursula "Le Guin" Louise_Louise Most Elis√©e_Elise Reclus Ferrua Marie-Christine  Marianne_Marie Jo Mira Amy Susan Jessie Rothstien Auca Sam Zabalaza  Ann Hansen Juliet Caroline Belmas Hannah Malatesta Lucy Parsons Flores Mag√≥n Pr√°xedis Sostre Luisa Dumba Cindy Milstein Harsha Walia May Mujeres Creando Mar√≠a Galindo M√≥nica Mendoza Julieta Paredes Penina Pellicer Paraire Huang Xing He-Yin Zhen 
 		}
 		from_dynasty_prefix = "de "
 		grammar_transform = french
@@ -405,10 +405,10 @@ delfino_group = {
 			Abbondanzio_Abbondanzio Abbondio_Abundius Abelardo_Abelard Abelino_Abel Achille_Achilles Adalberto_Albert Adelfo_Adolf Adone_Adonis Adriano_Adrian Agapito_Agapito Agostino_Augustine Aimone_Aimone Alamanno_Aleman Alarico_Alaric Albano_Alban Alberico_Aubrey Albertino_Albert Albino_Albino Alboino_Alwin Alberto_Albert Alcide_Alcides Aldobrandino_Aldebrand Aleardo_Ale Aleramo_Aleram Alessio_Alexis Alessandro_Alexander Ambrogio_Ambrosius Amedeo_Amadeus Anastasio_Anastasius Andrea_Andrew Annibale_Hannibal Anselmo_Anselm Antonio_Antonius Antonino_Antoninus Arcibaldo_Archibald Arderico_Aldaric Arduino_Hartwin Armando_Armand Arnolfo_Arnulf Arrigo_Arrigo Arsenio_Arsenios Artemio_Artemius Arturio_Arthur Ascanio_Ascanius Astorre_Astor Atenolfo_Atenulf Attilio_Atilius Augusto_August Aurelio_Aurelius Ausilio_Ausilius Ausonio_Ausonius Averado_Everard Azzo_Azzus Azzone_Azzus
             Baldassarre_Baltasar Baldovino_Baldwin Bartolomeo_Bartolomeus Bassiano_Bassianus Battista_Baptist Berardo_Berard Bernardo_Bernard Berto_Bernard Bertoldo_Bernard Beltrano_Bertrand Benedetto_Benedict Benvenuto_Benvenuto Biagio_Blaise Bonaventura_Bonaventura Bonifacio_Bonifacius Borso_Boris Bruno_Bruno Bruto_Brutus Buonconte_Buonconte Buoso_Buoso
             Callisto_Callisto Camillo_Camillus Candido_Candidus Cangrande_Cangrande Carlo_Charles Cassio_Cassius Castore_Castor Cataldo_Catald Catone_Catone Cecco_Francis Cesare_Caesar Chiaffredo_Chiaffredo Chiano_Chiano Ciro_Cyrus Ciuccio_Cyriacus Claudio_Claudius Clemente_Clement Columba_Columba Comita_Comita Cornelio_Cornelius Corrado_Konrad Cosimo_Cosmas Costantino_Constantine Costanzo_Constans Cristoforo_Christopher
-            Daniele_Daniel Damiano_Damian Davide_David Demetrio_Demetrius Dioniso_Dionysus DomÈnico_Dominic Durante_Dante
+            Daniele_Daniel Damiano_Damian Davide_David Demetrio_Demetrius Dioniso_Dionysus Dom√©nico_Dominic Durante_Dante
             Eduardo_Edward Elio_Aelius Emmanuele_Manuel Ennio_Ennius Enrico_Henry Enzo_Henry Ercole_Heracles Eriprando_Eriprando Ettore_Hector Eugenio_Eugene Ezio_Ezio Ezzelino_Ezzelino
             Fabrizio_Fabrice Fausto_Faust Federigo_Frederick Ferdinando_Ferdinand Ferruccio_Ferruccio Filippo_Philip Fiorello_Fiorello Flavio_Flavius Folco_Folke Forestino_Forest Fortunato_Fortunatus Fosco_Fuscus Francesco_Francis Fresco_Fresco
-            Gabriele_Gabriel Gabrino_Gabrino Gaetano_GaÈtan Galasso_Cerilli Galeazzo_Galeazzo Galeotto_Galeotto Gaspare_Casper Gastone_Gaston Gelasio_Gelasius Gentile_Gentile Geraldo_Gerald Gerardo_Gerard Germano_Germanus Gerolamo_Hieronymus Gherardo_Gerard Giacinto_Hyacinth Giacomo_James Gian_John Giano_John Giberto_Gilbert Giordano_Jordan Giovanni_John Giulio_Julian Giuseppe_Joseph Goffredo_Godfrey Gregorio_Gregory Gualtiero_Walter Guarnito_Gerontius Guerrino_Guerrino Guglielmo_William Guido_Guy Guidone_Guy Guigliadore_Guigliadore
+            Gabriele_Gabriel Gabrino_Gabrino Gaetano_Ga√©tan Galasso_Cerilli Galeazzo_Galeazzo Galeotto_Galeotto Gaspare_Casper Gastone_Gaston Gelasio_Gelasius Gentile_Gentile Geraldo_Gerald Gerardo_Gerard Germano_Germanus Gerolamo_Hieronymus Gherardo_Gerard Giacinto_Hyacinth Giacomo_James Gian_John Giano_John Giberto_Gilbert Giordano_Jordan Giovanni_John Giulio_Julian Giuseppe_Joseph Goffredo_Godfrey Gregorio_Gregory Gualtiero_Walter Guarnito_Gerontius Guerrino_Guerrino Guglielmo_William Guido_Guy Guidone_Guy Guigliadore_Guigliadore
             Hieronimo_Hieronymus
             Igino_Ignatius Innocenzo_Innocentius Ippolito_Hippolytos Isnardo_Isnardo
             Jacopo_Jacob
@@ -464,16 +464,16 @@ delfino_group = {
 		
 		color = { 1 0.51 0.76 }
 		male_names = {
-			Alfonso_Alphonse Alonso_Alphonse ¡lvar_Oliver ¡lvaro_Oliver AndrÈs_Andrew Ansur Antonio_Antonius Antonino_Antoninus Arias Artal_Artal Aurelio_Aurelius Aznar_Aznar Beltr·n_Bertrand Benito_Benedict Berenguel_Berengar Bernardo_Bernard Blasco_Vasco BosÛn_Boson Diego_Jacob Domingo_Dominic Enrique_Henry Esteban_Stephen Facundo Fadrique_Frederick
-			Felipe_Philip Fern·n_Ferdinand Fernando_Ferdinand FlaÌn Fruela Galindo_Galindo GarcÌa_Garcia Gil_Egidius Gonzalo_Gonzalo Gundemaro GuillÈn_William Guillermo_William Gustio
-			Gutierre Guzm·n Hermenegildo Jacobo_Jacob Jaime_Jacob Jimeno_Simon Juan_John Juan-Alfonso_John-Alphonse Juli·n_Julian Lorenzo_Laurence Lope_Lupo Luis_Louis Manrique_Amalric Manuel_Manuel
-			MartÌn_Martin Menendo_Mendo Mendo_Mendo MuÒo_Munio NuÒo_Nuno Osorio OrdoÒo_Ordono Oveco Pedro_Peter Pelayo_Pelagius PiÒolo Ponce_Pons Raimundo_Raymond Ramiro_Ramiro RamÛn_Raymond Rodrigo_Roderick Rom·n_Roman Rosendo Salvador_Salvador Sancho_Sancho
-			Sebasti·n_Sebastian Tello_Tello Teobaldo_Theobald Vela Velasco_Vasco Vermudo_Vermudo
+			Alfonso_Alphonse Alonso_Alphonse √Ålvar_Oliver √Ålvaro_Oliver Andr√©s_Andrew Ansur Antonio_Antonius Antonino_Antoninus Arias Artal_Artal Aurelio_Aurelius Aznar_Aznar Beltr√°n_Bertrand Benito_Benedict Berenguel_Berengar Bernardo_Bernard Blasco_Vasco Bos√≥n_Boson Diego_Jacob Domingo_Dominic Enrique_Henry Esteban_Stephen Facundo Fadrique_Frederick
+			Felipe_Philip Fern√°n_Ferdinand Fernando_Ferdinand Fla√≠n Fruela Galindo_Galindo Garc√≠a_Garcia Gil_Egidius Gonzalo_Gonzalo Gundemaro Guill√©n_William Guillermo_William Gustio
+			Gutierre Guzm√°n Hermenegildo Jacobo_Jacob Jaime_Jacob Jimeno_Simon Juan_John Juan-Alfonso_John-Alphonse Juli√°n_Julian Lorenzo_Laurence Lope_Lupo Luis_Louis Manrique_Amalric Manuel_Manuel
+			Mart√≠n_Martin Menendo_Mendo Mendo_Mendo Mu√±o_Munio Nu√±o_Nuno Osorio Ordo√±o_Ordono Oveco Pedro_Peter Pelayo_Pelagius Pi√±olo Ponce_Pons Raimundo_Raymond Ramiro_Ramiro Ram√≥n_Raymond Rodrigo_Roderick Rom√°n_Roman Rosendo Salvador_Salvador Sancho_Sancho
+			Sebasti√°n_Sebastian Tello_Tello Teobaldo_Theobald Vela Velasco_Vasco Vermudo_Vermudo
 		}
 		female_names = {
-			Adosinda Aldonza_Aldonza Alduara_Alduara Anderquina Andregoto Aragonta Argilo Arsenda_Arsenda Aurovita Ava Beatriz_Beatrice Benita Berenguela Blanca_Blanche BrÌgida_Brigid Constanza_Constance Corexia Cristina_Christina Dalia DueÒa Dulce_Douce Elvira Emilia_Emily Ermengarda_Ermengarde Ermesinda_Ermesinda Eslonza EstefanÌa_Stephania Eulalia Eva_Eva Eylo Fronilda_Fronilde Gaudiosa Godo Gontroda Gotina_Gotina Guina Guiomar InÈs_Agnes Isabel_Elizabeth Jimena Juana Juliana_Juliana Justa Leonor_Eleanor
-			Lopa_Lopa Mafalda Margarita_Margaret MarÌa_Maria Marina_Marine Marquesa Matrona
-			Mayor_Mayor MencÌa_Mencia Milia MuÒa MuÒadona_Mumadona Nicor NuÒadona ”nega Petronila_Petronilla Sancha_Sancha Sol Tegridia Teresa_Teresa Toda_Toda Urraca_Urraca
+			Adosinda Aldonza_Aldonza Alduara_Alduara Anderquina Andregoto Aragonta Argilo Arsenda_Arsenda Aurovita Ava Beatriz_Beatrice Benita Berenguela Blanca_Blanche Br√≠gida_Brigid Constanza_Constance Corexia Cristina_Christina Dalia Due√±a Dulce_Douce Elvira Emilia_Emily Ermengarda_Ermengarde Ermesinda_Ermesinda Eslonza Estefan√≠a_Stephania Eulalia Eva_Eva Eylo Fronilda_Fronilde Gaudiosa Godo Gontroda Gotina_Gotina Guina Guiomar In√©s_Agnes Isabel_Elizabeth Jimena Juana Juliana_Juliana Justa Leonor_Eleanor
+			Lopa_Lopa Mafalda Margarita_Margaret Mar√≠a_Maria Marina_Marine Marquesa Matrona
+			Mayor_Mayor Menc√≠a_Mencia Milia Mu√±a Mu√±adona_Mumadona Nicor Nu√±adona √ìnega Petronila_Petronilla Sancha_Sancha Sol Tegridia Teresa_Teresa Toda_Toda Urraca_Urraca
 			Usenda Varela Velasquita Viscavlara
 			Violante_Yolanda
 		}
@@ -504,25 +504,25 @@ delfino_group = {
 		
 		color = { 1 0 0 }
 		male_names = {
-			…douard_Edward …rrard …tienne_Stephen Adalbert_Albert AdÈmar Adrien Aimery_Aymeric Alain_Alan Aldebert_Albert AldÈric Alphonse_Alphonse Amaury_Amalric
-			AmÈdÈe Ancel AndrÈ_Andrew Angelbert Antoine_Antonius Archambaud_Archibald Arnaud_Arnold Arnault_Arnold Arnoul_Arnulf Aubry_Aubrey Aymar BarthÈlÈmi_Bartolomeus
-			Baudouin_Baldwin BenoÓt_Benedict BÈrenger_Berengar Bernard_Bernard Bertrand_Bertrand Bohemond Boson_Boson Bouchard Centule_Centule Charles_Charles
-			Clotaire Ebbon Enguerrand Eudes_Otto Eustache_Eustace Evrard Foulques_Folke FranÁois_Francis FrÈdÈric_Frederick GÈraud_Gerald Gargamel Gaucher Gaucelin_Joscelin
-			Gauthier_Walter Gauvain_Gavin Geoffroy_Godfrey GÈraud_Gerard Gelduin Gilbert_Gilbert Gilles_Egidius Godefroy_Godfrey Guichard Guiges Guilhem_William Guillaume_William
-			Guy_Guy HÈlie Hamelin Henri_Henry Herbert Hildebert Hugues_Hugh Humbert_Humbert Jacques_Jacob JaufrÈ_Godfrey Jaspert Jean_John Josselin_Joscelin
-			Jourdain_Jordan Julien_Julian LÈon LÈonard_Leonard Lothaire_Lothar Louis_Louis Loup_Lupo ManassËs Mathieu_Matthew Maurice_Maurice Nicolas_Nicholas Ogier Onfroy Orson Othon_Otto
+			√âdouard_Edward √ârrard √âtienne_Stephen Adalbert_Albert Ad√©mar Adrien Aimery_Aymeric Alain_Alan Aldebert_Albert Ald√©ric Alphonse_Alphonse Amaury_Amalric
+			Am√©d√©e Ancel Andr√©_Andrew Angelbert Antoine_Antonius Archambaud_Archibald Arnaud_Arnold Arnault_Arnold Arnoul_Arnulf Aubry_Aubrey Aymar Barth√©l√©mi_Bartolomeus
+			Baudouin_Baldwin Beno√Æt_Benedict B√©renger_Berengar Bernard_Bernard Bertrand_Bertrand Bohemond Boson_Boson Bouchard Centule_Centule Charles_Charles
+			Clotaire Ebbon Enguerrand Eudes_Otto Eustache_Eustace Evrard Foulques_Folke Fran√ßois_Francis Fr√©d√©ric_Frederick G√©raud_Gerald Gargamel Gaucher Gaucelin_Joscelin
+			Gauthier_Walter Gauvain_Gavin Geoffroy_Godfrey G√©raud_Gerard Gelduin Gilbert_Gilbert Gilles_Egidius Godefroy_Godfrey Guichard Guiges Guilhem_William Guillaume_William
+			Guy_Guy H√©lie Hamelin Henri_Henry Herbert Hildebert Hugues_Hugh Humbert_Humbert Jacques_Jacob Jaufr√©_Godfrey Jaspert Jean_John Josselin_Joscelin
+			Jourdain_Jordan Julien_Julian L√©on L√©onard_Leonard Lothaire_Lothar Louis_Louis Loup_Lupo Manass√®s Mathieu_Matthew Maurice_Maurice Nicolas_Nicholas Ogier Onfroy Orson Othon_Otto
 			Payen_Pagan Philippe_Philip Pierre_Peter Raimbaut Raoul_Ralph Raymond_Raymond Raynaud_Reinhold Renaud_Reinhold Richard_Richard Robert_Robert Robin Roger_Roger
-			Rorgon Rorgues Roubaud Savary Sigismond_Sigmund Simon_Simon Thibault_Theobald ThiÈbaut_Theobald Thierry_Thierry Thomas_Thomas ValÈran_Walram ValÈrian_Valerian Yves_Ivo
+			Rorgon Rorgues Roubaud Savary Sigismond_Sigmund Simon_Simon Thibault_Theobald Thi√©baut_Theobald Thierry_Thierry Thomas_Thomas Val√©ran_Walram Val√©rian_Valerian Yves_Ivo
 		}
 		female_names = {
-			…lÈonore_Eleanor …lodie_Elodie …tiennette AdËle_Adela Adalmode_Almodis Adelaide_Adelaide Adelinde Agathe_Agatha AgnËs_Agnes AlÈarde Alice_Alice AliÈnor_Eleanor
-			Alix_Alice Almodis_Almodis Amelie_Amelia Anne_Anna Antoinette Arsinde_Arsenda Aude Aurengarde BÈatrice_Beatrice BÈatrix_Beatrice Belleassez BenoÓte BÈrengËre
-			Berthe Blanche_Blanche Bonne_Bonne Bourgogne Bourguigne CÈcile_Cecilia CathËrine_Catherine Charlotte_Charlotte Constance_Constance Denise Douce_Douce Echive Eglantine
+			√âl√©onore_Eleanor √âlodie_Elodie √âtiennette Ad√®le_Adela Adalmode_Almodis Adelaide_Adelaide Adelinde Agathe_Agatha Agn√®s_Agnes Al√©arde Alice_Alice Ali√©nor_Eleanor
+			Alix_Alice Almodis_Almodis Amelie_Amelia Anne_Anna Antoinette Arsinde_Arsenda Aude Aurengarde B√©atrice_Beatrice B√©atrix_Beatrice Belleassez Beno√Æte B√©reng√®re
+			Berthe Blanche_Blanche Bonne_Bonne Bourgogne Bourguigne C√©cile_Cecilia Cath√®rine_Catherine Charlotte_Charlotte Constance_Constance Denise Douce_Douce Echive Eglantine
 			Elisabeth_Elizabeth Emma_Emma Ermengarde_Ermengarde Ermessinde_Ermesinda Esclarmonde_Esclarmunda Euphrosine_Euphrosyne Eustachie Eve_Eva Gerberge_Gerberga
-			GisËle_Gisela Guillaumette HÈloise_Elizabeth Helvis Hodierne Ide_Ida Ida_Ida IldÈgarde_Hildegard Isabeau_Elizabeth Isabelle_Elizabeth Jeanne_Joan Judith_Judith
-			Julienne_Juliana Mafalda Mahaut_Mahaut Margot Marguerite_Margaret Marie_Maria Marthe_Martha Mascarose_Mascarosa Mathilde_Matilda MÈlisande_Melisende
-			MÈlisende_Melisende MÈlusine PÈronelle_Peronella Pernelle_Peronella Perinne Pernette Plaisance_Plaisance Raymonde Sarrazine SolËne Sophie_Sophia
-			StÈphanie_Stephania Sybille_Sibylla Tiburge_Tiburge Valence_Yolanda Yolande_Yolanda
+			Gis√®le_Gisela Guillaumette H√©loise_Elizabeth Helvis Hodierne Ide_Ida Ida_Ida Ild√©garde_Hildegard Isabeau_Elizabeth Isabelle_Elizabeth Jeanne_Joan Judith_Judith
+			Julienne_Juliana Mafalda Mahaut_Mahaut Margot Marguerite_Margaret Marie_Maria Marthe_Martha Mascarose_Mascarosa Mathilde_Matilda M√©lisande_Melisende
+			M√©lisende_Melisende M√©lusine P√©ronelle_Peronella Pernelle_Peronella Perinne Pernette Plaisance_Plaisance Raymonde Sarrazine Sol√®ne Sophie_Sophia
+			St√©phanie_Stephania Sybille_Sibylla Tiburge_Tiburge Valence_Yolanda Yolande_Yolanda
 		}
 		from_dynasty_prefix = "de "
 		from_dynasty_suffix = "ki"
@@ -551,7 +551,7 @@ delfino_group = {
 		male_names = {
 			Abbmelcar_Abdmelqart Aderbalu_Adherbal Adrinu_Adrian Afriganu Albinu_Albinus Alvu_Albus Alexsandru_Alexander Alixsandru_Alexander Amvrossu_Ambrose Andrea_Andrew Andreu_Andrew Antala_Antalas Antzioghu_Antiochos Antoninu_Antoninus Apulei_Apuleius Apuleju_Apuleius Armannu_Herman Arzoghu Asdrubalu_Hasdrubal Atanarigu_athanaric Augustinu_Augustine Aureliu_Aurelius 
 			Barcetu_Baraket Bartolomeu_Bartholomew Barumini Basili_Basil Bassu Benedittu_Benedict Bincentze_Vincent Binmelcar_Binmelqart 
-			Capussa_Capussa Carcasanu_Carcasan Ceciliu_Caecilius CelestÏnu_Celestine Cipare Cipriane_Kyprianos Clement_Clement Clementzi_Clement Comita Corona Cosamu_Cosmas Costantzi_Constantius Costantinu_Constantine Cusaila_Cusaila Cutzina_Cutzinas 
+			Capussa_Capussa Carcasanu_Carcasan Ceciliu_Caecilius Celest√¨nu_Celestine Cipare Cipriane_Kyprianos Clement_Clement Clementzi_Clement Comita Corona Cosamu_Cosmas Costantzi_Constantius Costantinu_Constantine Cusaila_Cusaila Cutzina_Cutzinas 
 			Danel_Daniel Danelu_Daniel Diodoru_Diodorus Dominigu_Dominic Domnigu_Dominic Domnu_Dominus Donatu_Donatus Egidiu_Aegidius Emiliu_Aemilius Evisu Favritzi
 			Fakundu_Facundus Felixs_Felix Firmu_Firmus Floru Galazi_Gelasius Garmelu_Garmul Gasparru_Caspar Gavinu_Gabinus Gavrielu_Gabriel Gaietanu Gelimeru_Gelimer
 			Genserigu_Genseric Gildon Gitimelu Gratzianu_Gratianus Gregori_Gregory Guenfanu_Guenfan Guntriku_Guntharic Guntzamundu_Gunthamund Hegriliu_Egrilius Hildrigu_Hilderic Hugu_Hugh
@@ -597,43 +597,43 @@ delfino_group = {
 		
 		color = { 0.95 0.88 0.18 }
 		male_names = {
-			Abril ¡lvaro_Oliver ¬ngelo_Angel Abel_Abel Afonso_Alphonse Aires_Arias Alexandre_Alexander Alvito AntÛnio_Antonius 
+			Abril √Ålvaro_Oliver √Çngelo_Angel Abel_Abel Afonso_Alphonse Aires_Arias Alexandre_Alexander Alvito Ant√≥nio_Antonius 
 			Bermudo_Vermudo Bernardo_Bernard 
-			Dami„o_Damian Dinis_Dionysus Diogo_Jacob Duarte_Edward 
-			Egas EstÍv„o_Stephen EugÈnio_Eugene 
-			Filipe_Philip Fern„o_Ferdinand Fernando_Ferdinand Francisco_Francis Frederico_Frederick 
-			Garcia_Garcia Gil_Egidius GonÁalo_Gonzalo GregÛrio_Gregory Guilherme_William 
-			Heitor_Hektor Henrique_Henry Hermenegildo_Ermenegildo HermÌgio Hugo_Hugh
-			Igor_Ingvar In·cio_Ignatius 
-			J˙lio_Julian JerÛnimo Jo„o_John JosÈ_Joseph Juli„o_Julian 
-			Lopo_Ulf LucÌdio LuÌs_Louis 
+			Dami√£o_Damian Dinis_Dionysus Diogo_Jacob Duarte_Edward 
+			Egas Est√™v√£o_Stephen Eug√©nio_Eugene 
+			Filipe_Philip Fern√£o_Ferdinand Fernando_Ferdinand Francisco_Francis Frederico_Frederick 
+			Garcia_Garcia Gil_Egidius Gon√ßalo_Gonzalo Greg√≥rio_Gregory Guilherme_William 
+			Heitor_Hektor Henrique_Henry Hermenegildo_Ermenegildo Herm√≠gio Hugo_Hugh
+			Igor_Ingvar In√°cio_Ignatius 
+			J√∫lio_Julian Jer√≥nimo Jo√£o_John Jos√©_Joseph Juli√£o_Julian 
+			Lopo_Ulf Luc√≠dio Lu√≠s_Louis 
 			Manoel_Manuel Manuel_Manuel Marcelo_Marcello Marco_Marcus Martim_Martin Martinho_Martin Mem_Mendo Mendo_Mendo Miguel_Michael Monio_Munio Muno_Munio 
 			Nuno_Nuno
-			Oct·vio_Octavianus Ordonho_Ordono 
+			Oct√°vio_Octavianus Ordonho_Ordono 
 			Paio_Pagan Pedro_Peter Pero_Peter 
 			Raimundo_Raymond Ramiro_Ramiro Ricardo_Richard Roberto_Robert Rodrigo_Rurik Rui_Rurik 
-			Sancho_Sancho Sebasti„o_Sebastian Soeiro_Suero
-			Telmo_Elmo Tiago_Diego Tom·s_Thomas 
-			Vasco_Vasco Vicente_Vincent VÌmara 
+			Sancho_Sancho Sebasti√£o_Sebastian Soeiro_Suero
+			Telmo_Elmo Tiago_Diego Tom√°s_Thomas 
+			Vasco_Vasco Vicente_Vincent V√≠mara 
 			Xelmirio
 		}
 		
 		female_names = {
-			¡gata_Agatha Alda_Alduara Aldara_Alduara AldonÁa_Aldonza Ana_Anna 
-			Beatriz_Beatrice Bereng·ria_Berengaria Branca_Blanche Brites_Beatrice 
-			Camila_Camilla Carol_Charlotte Carolina_Charlotte Catarina_Catherine Chamoa ConceiÁ„o_Concetta ConstanÁa_Constance Cristina_Christina 
-			DÛrdia 
-			Elisabete_Elisabeth Elvira_Elvira Esmeralda EsperanÁa Estef‚nia_Stephania Estevainha_Stephania 
-			F·tima_Fatima Filipa_Philippa Fruilhe_Fronilde 
-			GonÁinha_Gotina Gontinha_Gotina GregÛria_Gregoria Guiomar 
-			Ilduara_Alduara InÍs_Agnes Isabel_Isabella 
+			√Ågata_Agatha Alda_Alduara Aldara_Alduara Aldon√ßa_Aldonza Ana_Anna 
+			Beatriz_Beatrice Bereng√°ria_Berengaria Branca_Blanche Brites_Beatrice 
+			Camila_Camilla Carol_Charlotte Carolina_Charlotte Catarina_Catherine Chamoa Concei√ß√£o_Concetta Constan√ßa_Constance Cristina_Christina 
+			D√≥rdia 
+			Elisabete_Elisabeth Elvira_Elvira Esmeralda Esperan√ßa Estef√¢nia_Stephania Estevainha_Stephania 
+			F√°tima_Fatima Filipa_Philippa Fruilhe_Fronilde 
+			Gon√ßinha_Gotina Gontinha_Gotina Greg√≥ria_Gregoria Guiomar 
+			Ilduara_Alduara In√™s_Agnes Isabel_Isabella 
 			Jacinta_Jacinta Joana_Joan
-			Leonor_Eleanor Loba_Lopa L˙cia_Lucia Lucinda LuÌsa_Louise 
-			Madalena_Magdalena Maior_Mayor Mafalda_Matilda Margarida_Margaret Maria_Maria Marinha_Marina Marquesa_Marquesa Marta_Martha Matilde_Matilda MÈcia_Mencia Moninha Mor_Mayor Mumadona_Mumadona 
+			Leonor_Eleanor Loba_Lopa L√∫cia_Lucia Lucinda Lu√≠sa_Louise 
+			Madalena_Magdalena Maior_Mayor Mafalda_Matilda Margarida_Margaret Maria_Maria Marinha_Marina Marquesa_Marquesa Marta_Martha Matilde_Matilda M√©cia_Mencia Moninha Mor_Mayor Mumadona_Mumadona 
 			Ouroana Ourtigueira 
 			Paula_Paula
 			Raquell_Rachel Rita_Rita 
-			SÛnia_Sonia Sancha_Sancha Sandra_Alexandra Sofia_Sophia 
+			S√≥nia_Sonia Sancha_Sancha Sandra_Alexandra Sofia_Sophia 
 			Teresa_Teresa Tota_Toda Totadona_Toda 
 			Urraca_Urraca Usco 
 			Vela Violante_Yolanda 
@@ -806,25 +806,25 @@ delfino_group = {
 		
 		color = { 2 60 103 }
 		male_names = { 
-			AdhÈmar_AdÈmar Acfred_Alfred Aimeric_Aymeric Alberic_Alberic Albert_Albert Aldebert_Albert Alias_Helias AnfÚs_Alphonse Amalric_Amalric Amaneus Ancelmes AndrÈ_Andrew Archambaut_Archibald Arnaut_Arnold Artau_Artal Aton AudoÔn Aymar_Aymeric Aymeric_Aymeric Aznar_Aznar
-			Barral BartoumiÈu_Bartolomeus BaudoÔn_Baldwin Beneset_Benedict BÈrard_Bernard BerenguiÈ_Berengar Bermond_Vermudo Bernat_Bernard Bernat-Aton Bernat-Ezi Bertrand_Bertrand Blasi_Blaise Borel Boson_Boson Carles_Charles
-			ClamenÁ_Clement Centolh_Centule D‡vi_David Dat_Theodat Dodon Doumenge Duran Ebles_Otto EmmanuËl_Manuel Enric_Henry Ermengau EstËve_Stephen Filip_Philip 
-			Ferrand_Ferdinand FlorËnÁ Folquet_Folke FrancÈs_Francis Frederi_Frederick Garcia_Garcia Gaston_Gaston Gausbert_Gausbert Gautier_Walter GilbËrt_Gilbert Girard_Gerard Girvais Godafres_Godfrey 
-			Gui_Guy Guichard Guigues_Guy GuilhËm_William Guiraud_Gerald Guitart_Gerard Ives Jacme_Jacob Jaufret_Godfrey Joan_John Jordan_Jordan Jorge_George 
-			Josselin_Joscelin Julian_Julian LaurËnÁ_Laurence Leon_Leo LoÔs_Louis Loui_Louis Lop_Lupo MarÁau Martin_Martin Matfre_Manfred Matias_Matthew Milo Miquel_Michael
-			Nicholaus_Nicholas Odon_Otto Otton_Otto PËire_Peter PÈire-Arnaut PÈire-Raimond Peranudet Pol_Paul Pons_Pons Raimond_Raymond Raimond-BerenguiÈ_Raymond-Berengar Rainaut_Reinhold Rainer_Rayner
-			Raolf_Ralph Ricard_Richard RobËrt_Robert Rogier_Roger Sancho_Sancho Savarics Simon_Simon TiËrri_Thierry Tibaud_Theobald Toumas_Thomas Ubald Ubert_Humbert Uc_Hugh Ugues_Hugh
-			VÈzian VicenÁ_Vincent
+			Adh√©mar_Ad√©mar Acfred_Alfred Aimeric_Aymeric Alberic_Alberic Albert_Albert Aldebert_Albert Alias_Helias Anf√≤s_Alphonse Amalric_Amalric Amaneus Ancelmes Andr√©_Andrew Archambaut_Archibald Arnaut_Arnold Artau_Artal Aton Audo√Øn Aymar_Aymeric Aymeric_Aymeric Aznar_Aznar
+			Barral Bartoumi√©u_Bartolomeus Baudo√Øn_Baldwin Beneset_Benedict B√©rard_Bernard Berengui√©_Berengar Bermond_Vermudo Bernat_Bernard Bernat-Aton Bernat-Ezi Bertrand_Bertrand Blasi_Blaise Borel Boson_Boson Carles_Charles
+			Clamen√ß_Clement Centolh_Centule D√†vi_David Dat_Theodat Dodon Doumenge Duran Ebles_Otto Emmanu√®l_Manuel Enric_Henry Ermengau Est√®ve_Stephen Filip_Philip 
+			Ferrand_Ferdinand Flor√®n√ß Folquet_Folke Franc√©s_Francis Frederi_Frederick Garcia_Garcia Gaston_Gaston Gausbert_Gausbert Gautier_Walter Gilb√®rt_Gilbert Girard_Gerard Girvais Godafres_Godfrey 
+			Gui_Guy Guichard Guigues_Guy Guilh√®m_William Guiraud_Gerald Guitart_Gerard Ives Jacme_Jacob Jaufret_Godfrey Joan_John Jordan_Jordan Jorge_George 
+			Josselin_Joscelin Julian_Julian Laur√®n√ß_Laurence Leon_Leo Lo√Øs_Louis Loui_Louis Lop_Lupo Mar√ßau Martin_Martin Matfre_Manfred Matias_Matthew Milo Miquel_Michael
+			Nicholaus_Nicholas Odon_Otto Otton_Otto P√®ire_Peter P√©ire-Arnaut P√©ire-Raimond Peranudet Pol_Paul Pons_Pons Raimond_Raymond Raimond-Berengui√©_Raymond-Berengar Rainaut_Reinhold Rainer_Rayner
+			Raolf_Ralph Ricard_Richard Rob√®rt_Robert Rogier_Roger Sancho_Sancho Savarics Simon_Simon Ti√®rri_Thierry Tibaud_Theobald Toumas_Thomas Ubald Ubert_Humbert Uc_Hugh Ugues_Hugh
+			V√©zian Vicen√ß_Vincent
 		}
 		female_names = {
-			AdËla_Adela AdalaÔda_Adelaide Adeltrudis Agata_Agatha AÔna_Emma AinËs_Agnes AlaÔs_Alice AlienÚr_Eleanor AliÁ_Alice AlmÚdis_Almodis AlpaÔs Ana_Anna Arsenda_Arsenda Assalhida Ava
-			AzalaÔs Azelma BÚna_Bonne Beatritz_Beatrice Berenguela Berta Blanca_Blanche Brandimena Bregida_Brigid Brunissenda Camila CarlÚta Caterina_Catherine Cecilia_Cecilia
-			Clara_Clara Clarmonda_Esclarmunda ClemËncia_Clementia Cloutilda_Clotilde Const‡ncia_Constance DolÁa_Douce EisabËu_Elizabeth Elena_Helen
-			Elisa_Elizabeth ElisabËta_Elizabeth Ermengarda_Ermengarde Ermessentz_Ermesinda Esclarmonda_Esclarmunda Estefania_Stephania EufËmia Eufrosina_Euphrosyne
-			Faidida Filipa_Philippa Filomena FlÚra_Flora Francesa_Francesca Garcenda Geneviva_Genevieve GerbËrga_Gerberga Gersenda Gisla_Gisela Guigone Guilheumina Heloise_Elizabeth
-			Ioulanda_Yolanda IsabËu_Elizabeth IsabËla_Elizabeth Joana_Joan Juliana_Juliana L˙cia_Lucia Laura_Laura LoÔsa_Louise Mabila Madalena_Magdalena
-			Margarida_Margaret Maria_Maria Marquisa Marta_Martha MascarÚsa_Mascarosa Matilda_Matilda MelisËnda_Melisende Navar Patricia_Patricia PeironËla_Peronella 
-			Petronilha_Petronilla Puelle Raisenda Raimonda RichËnda_Ricarda RosËla Rosa SanÁa_Sancha Sibilla_Sibylla TerËsa_Teresa Tiborg_Tiburge Verounica_Veronica Violent_Yolanda
+			Ad√®la_Adela Adala√Øda_Adelaide Adeltrudis Agata_Agatha A√Øna_Emma Ain√®s_Agnes Ala√Øs_Alice Alien√≤r_Eleanor Ali√ß_Alice Alm√≤dis_Almodis Alpa√Øs Ana_Anna Arsenda_Arsenda Assalhida Ava
+			Azala√Øs Azelma B√≤na_Bonne Beatritz_Beatrice Berenguela Berta Blanca_Blanche Brandimena Bregida_Brigid Brunissenda Camila Carl√≤ta Caterina_Catherine Cecilia_Cecilia
+			Clara_Clara Clarmonda_Esclarmunda Clem√®ncia_Clementia Cloutilda_Clotilde Const√†ncia_Constance Dol√ßa_Douce Eisab√®u_Elizabeth Elena_Helen
+			Elisa_Elizabeth Elisab√®ta_Elizabeth Ermengarda_Ermengarde Ermessentz_Ermesinda Esclarmonda_Esclarmunda Estefania_Stephania Euf√®mia Eufrosina_Euphrosyne
+			Faidida Filipa_Philippa Filomena Fl√≤ra_Flora Francesa_Francesca Garcenda Geneviva_Genevieve Gerb√®rga_Gerberga Gersenda Gisla_Gisela Guigone Guilheumina Heloise_Elizabeth
+			Ioulanda_Yolanda Isab√®u_Elizabeth Isab√®la_Elizabeth Joana_Joan Juliana_Juliana L√∫cia_Lucia Laura_Laura Lo√Øsa_Louise Mabila Madalena_Magdalena
+			Margarida_Margaret Maria_Maria Marquisa Marta_Martha Mascar√≤sa_Mascarosa Matilda_Matilda Melis√®nda_Melisende Navar Patricia_Patricia Peiron√®la_Peronella 
+			Petronilha_Petronilla Puelle Raisenda Raimonda Rich√®nda_Ricarda Ros√®la Rosa San√ßa_Sancha Sibilla_Sibylla Ter√®sa_Teresa Tiborg_Tiburge Verounica_Veronica Violent_Yolanda
 		}
 		from_dynasty_prefix = "de "
 		from_dynasty_suffix = "ki"
@@ -950,7 +950,7 @@ canonical_human_group = {
 			Billy_William Marco_Mark Mareeus Rigel
 
 			# Italian filler
-			Abbondanzio Abbondio Abelardo_Abelard Abelino Achille Adalberto_Albert Adelfo Adelmio_Adelmo Adelmo_Adelmo Adone Adriano_Adrian Agapito Agostino_Augustine Aimone Alamanno Alarico_Alaric Albano Alberico Alberto_Albert Albino Alboino Alcide Aldobrandino Aleardo Aleramo Alessandro_Alexander Alessio_Alexis Alighiero Alvise Ambrogio_Ambrosius Amedeo Anastasio_Anastasius  Andrea_Andrew Angelo_Angel Annibale Anselmo_Anselm Antonino_Antoninus Antonio_Antoninus Antoniotto Arcibaldo_Archibald Arderico Armando_Armand Arnolfo_Arnulf Arrigo Arsenio Artemio Ascanio Astorre Atenolfo_Atenulf Attilio Augusto_Augustine Aurelio_Aurelius Ausilio Ausonio Averado Azzo Azzone Baldassarre Baldovino_Baldwin Barnaba_Barnabas Bartolomeo_Bartolomeus Basilio_Basil Bassiano Basso Battista Beltrano_Bertrand Benedetto_Benedict Benvenuto Berardo BernabÚ_Barnabas Bernardo_Bernard Berto Bertoldo_Berthold Biagio Bonaventura Bonifacio_Bonifacius Borso Bruno Bruto Buonconte Buoso Callisto_Callistus Camillo_Camillus Candido Cangrande Carlo_Charles Cassio Castore Cataldo Catone Cecco Cesare_Caesar Chiaffredo Chiano Ciro Ciuccio Claudio_Claudius Clemente_Clement Comita Conone Cornelio_Cornelius Corradino Corrado_Konrad Cosimo Cosma_Cosmas Costante Costantino Costanzo Cristoforo_Christopher Damiano_Damian Davide_David Demetrio_Demetrius Dioniso_Dionysus DomÈnico_Dominic Durante Eduardo_Edward Elio Emmanuele_Manuel Ennio Enrico_Henry Enzio Enzo Ercole_Heracles Eriprando Ermenegildo Ettore_Hector Eugenio_Eugene Ezio Ezzelino Fabrizio Fausto Federigo_Frederick Felice_Felix Ferdinando_Ferdinand Ferruccio Filippo_Philip Fiorello Flavio Folco_Folke Fortunato Fosco Francesco_Francis Fresco Gabriele_Gabriel Gabrino Gaetano Galasso Galeazzo Galeotto Gaspare Gastone_Gaston Gelasio Gentile Geraldo_Gerald Gerardo_Gerard Germano_Germanus Gerolamo Gherardo_Gerard Giacinto_Hyacinth Giacomo_Jacob Gian_John Gianfranco Gianleone Giano_John Giberto Gilberto_Gilbert Giolio Giordano_Jordan Giorgio_George Giovanni_John Giulio_Julius Giuseppe_Joseph Goffredo_Godfrey Gregorio_Gregory Gualtiero_Walter Guarnito Guerrino Guglielmo_William Guido_Guy Guidone_Guy Guigliadore Iacopo_Jacob Igino nzo Ippolito_Hippolytus Isnardo Jacopo_Jacob Lamberto_Lambert Landolfo_Landolf Landone Lanfranco Lattanzio Lazzarino Lazzaro_Lazarus Lealdo Leonardo Leone_Leo Leonello_Lionel Leopoldo Libero Lionello_Lionel Livio Lodovico_Louis Lorenzo_Laurence Luca_Luke Luchino Lucio_Lucius Malacresta Manfredo Manuele_Manuel Marco_Marcus Mariano_Marius Marino Marsiglio Martino_Martin Massimo_Maximus Mastino Matteo_Matthew Merigo Michelangelo Michele_Michael  Napoleone Nazareno Nestore NiccolÚ_Nicholas Nicola_Nicholas Nino Nolfo Oberto Obizzino Obizzo Oddone Omero Onorio Oreste Orlando Ottavio Ottobono Ottone_Otto Pagano_Pagan Pancrazio Pandolfo_Randolph Paolo_Paul Pasquale_Pascal Patrizio_Patrick Pellegrino Pericle Pietro_Peter Pio Prospero Rafaello_Raphael Radul Raimondo_Raymond Rainero_Rainer Raineri_Rainer Riccardo_Richard Rinaldo_Reinhold Rizzardo Roberto_Robert Rodolfo_Ralph Rolando_Roland Rosso Ruggiero Salinguerra Salvatore_Salvador Salvestro_Silvester Sante_Sancho Saverio Sciarra Sebastiano_Sebastian Secondotto Serafino_Seraphin Sergio Sesto Settimio Severino Severo Silvano Silvestro Simone_Simon Simonetto Sinibaldo Sinucello Sozzo Spinetto Stefano_Stephen Stentore Taddeo Tedaldo Tedice Teodoro_Theodore Tibaldo_Theobald Tiziano Tommaso_Thomas Torgodorio Torquato Ubaldo Uberto Ugo_Hugh Ugoccione Ugolino Umberto_Humbert Urbano_Urban Valentino_Valentin Valerio_Valerius Vincentello Vincenzo_Vincent Virginio Vitale Vittore_Victor Vittorio_Victor Zaccaria_Zachary
+			Abbondanzio Abbondio Abelardo_Abelard Abelino Achille Adalberto_Albert Adelfo Adelmio_Adelmo Adelmo_Adelmo Adone Adriano_Adrian Agapito Agostino_Augustine Aimone Alamanno Alarico_Alaric Albano Alberico Alberto_Albert Albino Alboino Alcide Aldobrandino Aleardo Aleramo Alessandro_Alexander Alessio_Alexis Alighiero Alvise Ambrogio_Ambrosius Amedeo Anastasio_Anastasius  Andrea_Andrew Angelo_Angel Annibale Anselmo_Anselm Antonino_Antoninus Antonio_Antoninus Antoniotto Arcibaldo_Archibald Arderico Armando_Armand Arnolfo_Arnulf Arrigo Arsenio Artemio Ascanio Astorre Atenolfo_Atenulf Attilio Augusto_Augustine Aurelio_Aurelius Ausilio Ausonio Averado Azzo Azzone Baldassarre Baldovino_Baldwin Barnaba_Barnabas Bartolomeo_Bartolomeus Basilio_Basil Bassiano Basso Battista Beltrano_Bertrand Benedetto_Benedict Benvenuto Berardo Bernab√≤_Barnabas Bernardo_Bernard Berto Bertoldo_Berthold Biagio Bonaventura Bonifacio_Bonifacius Borso Bruno Bruto Buonconte Buoso Callisto_Callistus Camillo_Camillus Candido Cangrande Carlo_Charles Cassio Castore Cataldo Catone Cecco Cesare_Caesar Chiaffredo Chiano Ciro Ciuccio Claudio_Claudius Clemente_Clement Comita Conone Cornelio_Cornelius Corradino Corrado_Konrad Cosimo Cosma_Cosmas Costante Costantino Costanzo Cristoforo_Christopher Damiano_Damian Davide_David Demetrio_Demetrius Dioniso_Dionysus Dom√©nico_Dominic Durante Eduardo_Edward Elio Emmanuele_Manuel Ennio Enrico_Henry Enzio Enzo Ercole_Heracles Eriprando Ermenegildo Ettore_Hector Eugenio_Eugene Ezio Ezzelino Fabrizio Fausto Federigo_Frederick Felice_Felix Ferdinando_Ferdinand Ferruccio Filippo_Philip Fiorello Flavio Folco_Folke Fortunato Fosco Francesco_Francis Fresco Gabriele_Gabriel Gabrino Gaetano Galasso Galeazzo Galeotto Gaspare Gastone_Gaston Gelasio Gentile Geraldo_Gerald Gerardo_Gerard Germano_Germanus Gerolamo Gherardo_Gerard Giacinto_Hyacinth Giacomo_Jacob Gian_John Gianfranco Gianleone Giano_John Giberto Gilberto_Gilbert Giolio Giordano_Jordan Giorgio_George Giovanni_John Giulio_Julius Giuseppe_Joseph Goffredo_Godfrey Gregorio_Gregory Gualtiero_Walter Guarnito Guerrino Guglielmo_William Guido_Guy Guidone_Guy Guigliadore Iacopo_Jacob Igino nzo Ippolito_Hippolytus Isnardo Jacopo_Jacob Lamberto_Lambert Landolfo_Landolf Landone Lanfranco Lattanzio Lazzarino Lazzaro_Lazarus Lealdo Leonardo Leone_Leo Leonello_Lionel Leopoldo Libero Lionello_Lionel Livio Lodovico_Louis Lorenzo_Laurence Luca_Luke Luchino Lucio_Lucius Malacresta Manfredo Manuele_Manuel Marco_Marcus Mariano_Marius Marino Marsiglio Martino_Martin Massimo_Maximus Mastino Matteo_Matthew Merigo Michelangelo Michele_Michael  Napoleone Nazareno Nestore Niccol√≤_Nicholas Nicola_Nicholas Nino Nolfo Oberto Obizzino Obizzo Oddone Omero Onorio Oreste Orlando Ottavio Ottobono Ottone_Otto Pagano_Pagan Pancrazio Pandolfo_Randolph Paolo_Paul Pasquale_Pascal Patrizio_Patrick Pellegrino Pericle Pietro_Peter Pio Prospero Rafaello_Raphael Radul Raimondo_Raymond Rainero_Rainer Raineri_Rainer Riccardo_Richard Rinaldo_Reinhold Rizzardo Roberto_Robert Rodolfo_Ralph Rolando_Roland Rosso Ruggiero Salinguerra Salvatore_Salvador Salvestro_Silvester Sante_Sancho Saverio Sciarra Sebastiano_Sebastian Secondotto Serafino_Seraphin Sergio Sesto Settimio Severino Severo Silvano Silvestro Simone_Simon Simonetto Sinibaldo Sinucello Sozzo Spinetto Stefano_Stephen Stentore Taddeo Tedaldo Tedice Teodoro_Theodore Tibaldo_Theobald Tiziano Tommaso_Thomas Torgodorio Torquato Ubaldo Uberto Ugo_Hugh Ugoccione Ugolino Umberto_Humbert Urbano_Urban Valentino_Valentin Valerio_Valerius Vincentello Vincenzo_Vincent Virginio Vitale Vittore_Victor Vittorio_Victor Zaccaria_Zachary
 		}
 
 		female_names = {
@@ -992,10 +992,10 @@ canonical_human_group = {
 			Abbondanzio_Abbondanzio Abbondio_Abundius Abelardo_Abelard Abelino_Abel Achille_Achilles Adalberto_Albert Adelfo_Adolf Adone_Adonis Adriano_Adrian Agapito_Agapito Agostino_Augustine Aimone_Aimone Alamanno_Aleman Alarico_Alaric Albano_Alban Alberico_Aubrey Albertino_Albert Albino_Albino Alboino_Alwin Alberto_Albert Alcide_Alcides Aldobrandino_Aldebrand Aleardo_Ale Aleramo_Aleram Alessio_Alexis Alessandro_Alexander Ambrogio_Ambrosius Amedeo_Amadeus Anastasio_Anastasius Andrea_Andrew Annibale_Hannibal Anselmo_Anselm Antonio_Antonius Antonino_Antoninus Arcibaldo_Archibald Arderico_Aldaric Arduino_Hartwin Armando_Armand Arnolfo_Arnulf Arrigo_Arrigo Arsenio_Arsenios Artemio_Artemius Arturio_Arthur Ascanio_Ascanius Astorre_Astor Atenolfo_Atenulf Attilio_Atilius Augusto_August Aurelio_Aurelius Ausilio_Ausilius Ausonio_Ausonius Averado_Everard Azzo_Azzus Azzone_Azzus
             Baldassarre_Baltasar Baldovino_Baldwin Bartolomeo_Bartolomeus Bassiano_Bassianus Battista_Baptist Berardo_Berard Bernardo_Bernard Berto_Bernard Bertoldo_Bernard Beltrano_Bertrand Benedetto_Benedict Benvenuto_Benvenuto Biagio_Blaise Bonaventura_Bonaventura Bonifacio_Bonifacius Borso_Boris Bruno_Bruno Bruto_Brutus Buonconte_Buonconte Buoso_Buoso
             Callisto_Callisto Camillo_Camillus Candido_Candidus Cangrande_Cangrande Carlo_Charles Cassio_Cassius Castore_Castor Cataldo_Catald Catone_Catone Cecco_Francis Cesare_Caesar Chiaffredo_Chiaffredo Chiano_Chiano Ciro_Cyrus Ciuccio_Cyriacus Claudio_Claudius Clemente_Clement Columba_Columba Comita_Comita Cornelio_Cornelius Corrado_Konrad Cosimo_Cosmas Costantino_Constantine Costanzo_Constans Cristoforo_Christopher
-            Daniele_Daniel Damiano_Damian Davide_David Demetrio_Demetrius Dioniso_Dionysus DomÈnico_Dominic Durante_Dante
+            Daniele_Daniel Damiano_Damian Davide_David Demetrio_Demetrius Dioniso_Dionysus Dom√©nico_Dominic Durante_Dante
             Eduardo_Edward Elio_Aelius Emmanuele_Manuel Ennio_Ennius Enrico_Henry Enzo_Henry Ercole_Heracles Eriprando_Eriprando Ettore_Hector Eugenio_Eugene Ezio_Ezio Ezzelino_Ezzelino
             Fabrizio_Fabrice Fausto_Faust Federigo_Frederick Ferdinando_Ferdinand Ferruccio_Ferruccio Filippo_Philip Fiorello_Fiorello Flavio_Flavius Folco_Folke Forestino_Forest Fortunato_Fortunatus Fosco_Fuscus Francesco_Francis Fresco_Fresco
-            Gabriele_Gabriel Gabrino_Gabrino Gaetano_GaÈtan Galasso_Cerilli Galeazzo_Galeazzo Galeotto_Galeotto Gaspare_Casper Gastone_Gaston Gelasio_Gelasius Gentile_Gentile Geraldo_Gerald Gerardo_Gerard Germano_Germanus Gerolamo_Hieronymus Gherardo_Gerard Giacinto_Hyacinth Giacomo_James Gian_John Giano_John Giberto_Gilbert Giordano_Jordan Giovanni_John Giulio_Julian Giuseppe_Joseph Goffredo_Godfrey Gregorio_Gregory Gualtiero_Walter Guarnito_Gerontius Guerrino_Guerrino Guglielmo_William Guido_Guy Guidone_Guy Guigliadore_Guigliadore
+            Gabriele_Gabriel Gabrino_Gabrino Gaetano_Ga√©tan Galasso_Cerilli Galeazzo_Galeazzo Galeotto_Galeotto Gaspare_Casper Gastone_Gaston Gelasio_Gelasius Gentile_Gentile Geraldo_Gerald Gerardo_Gerard Germano_Germanus Gerolamo_Hieronymus Gherardo_Gerard Giacinto_Hyacinth Giacomo_James Gian_John Giano_John Giberto_Gilbert Giordano_Jordan Giovanni_John Giulio_Julian Giuseppe_Joseph Goffredo_Godfrey Gregorio_Gregory Gualtiero_Walter Guarnito_Gerontius Guerrino_Guerrino Guglielmo_William Guido_Guy Guidone_Guy Guigliadore_Guigliadore
             Hieronimo_Hieronymus
             Igino_Ignatius Innocenzo_Innocentius Ippolito_Hippolytos Isnardo_Isnardo
             Jacopo_Jacob
@@ -1033,16 +1033,16 @@ canonical_human_group = {
 			Waleran_Walram Walter_Walter William_William
 			
 			#German filler
-			Adalbero_Adalbero Adalbert_Albert Adalhard_Adalhard Adam_Adam Ademar_AdÈmar Adolf_Adolf Alarich_Alaric Alberich_Aubrey Albrecht_Albert Aldrich_Aldric Alois_Louis Amadeus_Amadeus Amalrich_Amalric Andreas_Andrew Anselm_Anselm Ansgar_Oscar Archembald_Archibald Arnold_Arnold Arnulf_Arnulf Augustin_Augustine 
+			Adalbero_Adalbero Adalbert_Albert Adalhard_Adalhard Adam_Adam Ademar_Ad√©mar Adolf_Adolf Alarich_Alaric Alberich_Aubrey Albrecht_Albert Aldrich_Aldric Alois_Louis Amadeus_Amadeus Amalrich_Amalric Andreas_Andrew Anselm_Anselm Ansgar_Oscar Archembald_Archibald Arnold_Arnold Arnulf_Arnulf Augustin_Augustine 
 			Baldarich_Baldric Baldewin_Baldwin Baldomar Baldur_Balder Berard_Berard Berengar_Berengar Bernhard_Bernard Berthold_Berthold Burchard_Bouchard 
 			Christopher_Christopher
 			Dieter_Dieter Dietmar_Dietmar Dietpold_Dietpold Dietrich_Thierry Dietwin 
 			Eberhard_Everard Eginolf_Eginolf Ehrenfried_Ehrenfried Ekbert_Egbert Ekkehard_Ekkehard Emelrich_Aymeric Emich Emmerich_Aymeric Emund_Emund Engelbert_Engelbert Erich_Erik Ernst_Ernest 
 			Ferdinand_Ferdinand Filibert_Filibert Folkhard_Folkhard Folkmar_Folkmar Franz_Francis Friedrich_Frederick
-			Gautselin_Joscelin Gebhard_Gebhard Georg_George Gerhard_Gerard Gerlach_Gerlach Giselbert_Gilbert Gottfried_Godfrey Gotthard Gottschalk_Gottschalk Gotzelo Guntram Gunzelin_G¸nther G¸nther_Gunnar 
+			Gautselin_Joscelin Gebhard_Gebhard Georg_George Gerhard_Gerard Gerlach_Gerlach Giselbert_Gilbert Gottfried_Godfrey Gotthard Gottschalk_Gottschalk Gotzelo Guntram Gunzelin_G√ºnther G√ºnther_Gunnar 
 			Hans_Hans Hartmann Hartwig_Hartwig Hartwin_Hartwin Heinrich_Henry Helferich Heribert_Herbert Hermann_Herman Hesso Hugo_Hugh Humbert_Humbert Hupold 
 			Iwo_Ivo 
-			Jakob_Jacob Johann_John J¸rgen_George 
+			Jakob_Jacob Johann_John J√ºrgen_George 
 			Karl_Charles Karlmann_Carloman Kaspar_Caspar Konrad_Conrad Kuno_Kuno
 			Lambert_Lambert Landolf_Landolf Leopold_Leopold Liudolf_Ludolf Liutbert_Lutbert Liutbrand Liutpold_Leopold Lothar_Lothair Ludolf_Ludolf Ludwig_Louis Lutbert_Lutbert
 			Magnus_Magnus Manegold Manfred_Manfred Markward_Markward Martin_Martin Matthias_Matthew Meinhard Michael_Michael Milo_Miles 
@@ -1103,23 +1103,23 @@ canonical_human_group = {
 			Zachary_Zachary Zevulun Zlate Zusman
 			
 			#Irish filler
-			Aaron_Aaron Abb·n Abner_Abner AbÈl_Abel Adomn·n ¡ed_Hugh ¡edgen_Aidan ¡educ·n_Aodhagan ¡ed·n_Aidan ¡engus_Angus Affiath Ailbe Ailbrend Ailbrenn Ailch˙ Aildobur Ailgel ¡ilgen·n Ailgus Ailill AilpÌn_Alwin Ainbchellach ¡indle Ainftech_Enfidaig Ainmere Airechtach Airfhind·n Airfhinn·n Airleid Airmedach Amalgaid AmlaÌb_Olaf Anfud·n AnlÛn Anmchaid ¡nroth·n Ardgal Ardgar Art_Arthur Artbran Artgal Artgus Artuc·n Art˙r_Arthur Assiucc Augaire AugustÌn_Augustine Aurthuile 
-			B·ethgalach B·ethÌne B·et·n BÈo·ed Barrfhind Becc·n Berrach Bh·tair_Walter Blathmacc Bran_Bran Brandub Brangen Bressal Brian_Brian BriccÈne BriccÌne Brocc·n Bruatur Bruide_Bride BrÈnaind BrÈnainn BrÛen B˙aidbÈo 
-			Caicher Cailech Cailte Cairbre_Carbrey Cairell CaissÈne CaissÌn CaissÌne Canann Canann·n Carlus_Charles Cathal_Catald Cathal·n Cathassach Cathbad Cathm·el Cathm·l Cathnio Cathub CausantÌn_Constantine CaÌlte CaÌnchomrac CaÌndelb·n Ceithernach Cellach Cellach·n CennÈtig_Kentigern Cenn-F·elad Cennlach·n Cerball Cernach Cernach·n Cian Ciar·n CillÈne CillÌne Cin·ed_Kenneth Clemens_Clement Cobthach Coirpre Colcu Colm·n_Nicholas Columb_Nicholas Comg·n Conaing Conall_Conall Conall·n Conamail Con·n_Conan Conchenn Conchobar Condla Congal Congalach Congus Conlang Conmac_Cormac Conmacc_Cormac Conm·el Conm·l Conn_Conn Connla ConrÌ Constans_Constantius ConstantÌn_Constantine Corbb Corb·n Corcc·n Corcr·n Cormac_Cormac Coscrach CoÌlboth Crimthann Crundm·el_Crundm·el Cruinnm·el_Crundm·el CrÌch·n CrÛn·n CuilÈn Cuindles Cuircthe Cummascach C·em·n CÛelbad CÛelub CÛem·n C˙-Allaid C˙-Bretan C˙-Caech C˙-Cen C˙-Cen-M·thair C˙-C˙ar·in C˙-Gamna C˙-RoÌ C˙anu C˙ldub C˙·n C˙·n·n 
-			DabÌd_David Daigre Dalbach Dall·n DaniÈl_Daniel Dathal Dathgus Demm·n Diarmaid_Dermid Doedgus Domangart Domnall_Donald Donn Donnchad_Duncan Donncuan_Duncan Donndub·n Donngal Donnuc·n_Duncan DoÈlgus Drost Drust Dub-d·-Lethe Dubcenn Dubgenn Dubh_Duff Dubhghall_Dugald Dubhglais_Douglas Dubthach Dub·ed Dub·n Duiblesc Duibne Dun·ed D·lach DÌcuill DÌglach DÌmmae DÌmmasach DÌmm·n DÌnertach D˙nac·n D˙nadach D˙nchad_Duncan D˙ngal D˙ngalach D˙nlang 
-			…amonn_Edmund Echmarcach …chtgal …chtgus Echthigern Echuid …icnech …icnech·n El·ir …nna …nri_Henry …ochad Eochaid_Eochaid Eochu Eochuc·n …ogan_Eugene Erc_Eric Ercaid Erc·ed Erc·n …remÛn …rennach Ern·n EterscÈl EÛgan_Eugene EÛgan·n_Eugene 
-			Fachtna Fairchellach Fallaman Farann·n FaÌlbe Fearghus_Fergus Fechtnach Fedach Fearchar_Farquhar Fedelmid Feirgil Felic Fer-Fugaill Feradach_Feradach Ferdomnach Fergal Fergus_Fergus Fiachnae Fianch˙ Findbarr Fingen Finguine Finn_Finn Finnac·n Finnbarr Finnch˙ Finnlagh_Findlay Finnsnechtae Fintan Flaithbertach Flaithem Flaithem·n Flaithgus FlaithrÌ Flann Flannac·n Flannchad Flann·n Fogartach Folachtach Forann·n Forbassach Fothad Fothud Fuacarta Fubthad Fuirechtach Fursu F·elcar F·elchad F·elch˙ F·eldobur F·elgus F·el·n F·elbe FÌachnae FÌadch˙ FÌngin FÌnsnechta FÛcarta 
-			Gabr·n Garalt Garbith Gilla-Õosa Gilla-BrÌgte_Gilbert Gilla-Coluim Gilla-Comg·in Gilla-CrÌst_Gilchrist Gilla-na-N·em Gilla-P·traic_Gilpatrick Gilla-Ruad_Gilroy Glaisiuc Glaschu Gl˙n-Iairn Gofraid_Godfrey Gormac·n Gormgus Gorm·n Guaire G·eth·n G·ethÌne GÛsacht 
-			Iacob_Jacob Iarlaithe Imchad Indrechtach Ioseph_Joseph Õomhar_Ivar 
-			Labraid Lachtnae Lachtn·n LachtnÈne Laidcenn Laidgenn LaidÌne LaisrÈn Lenn·n_Lennon Lethlobur Liam_William Liber_Liberty Lochlann Loingsech Lon·n Lorc·n Lugh_Leon Lugaid Lug·ed L·egaire LÛchÈne_Lochene LÛchÌne_Lochene Lochlainn_Lachlan Lochlann_Lachlan LÛeguire 
-			Mac-Laisre MainchÌne Maine Manch·n Martan Mathgamain Matud·n Minch·n Mo-Chonna Mo-Lua MÛenach Morand Morann MugrÛn Muirchertach Muirec·n Muiredach_Murdoch Muirgius Murchad Murch˙ M·el-Anfaid M·el-Bresail M·el-BrÌgte M·el-Cein M·el-Cian·in M·el-Ciar·in M·el-Coluim_Malcolm M·el-Corgis M·el-Dubh_Maldoven M·el-D˙in M·el-Fothartaig M·el-F·baill M·el-Õosa_Malise M·el-M·edÛc M·el-Martain M·el-MÛrda M·el-Muire_Malmure M·el-MÌchÌl M·el-Petair M·el-P·traic M·el-Ruanaid M·el-Sechnaill M·el-TÛlai M·el·n M·enach M·thair M˙ad·n Muireadhach_Murdoch 
-			Nadarchu Nannid Natfraech Natfraich Natsluaig Nechtan_Nathan Niall_Nigel Niallgus Niall·n Nuadu 
-			Odr·n ”engus_Angus ”enuc·n OissÈne OissÌne Olc·n ”lchobar Onch˙ Orthanach Oscar_Oscar 
-			P·traic_Patrick Petair_Peter Pilib_Philip PÛl_Paul Proinsias_Francis 
-			Rechtabra Riac·n Riaguil Robartach Rogallach Rogellach Ruah_Roy RuaidrÌ_Roderick Ruarcc Rumann R·thach RÌg·n RÌ·n RÛd·n RÛnch˙ RÛn·n_Ronan R˙adac·n R˙ad·n 
-			Scandal Scandl·n Scell·n Scolaige SÈaghdha_Shaw SÈafra_Godfrey SÈamas_Jacob Se·n_John Sechnassach Selbach Sench·n Seo·n_John Sinach Siothr˙n_Godfrey SlÈbÌne Snedgus Sogan Somhairle_Somerled Suibne_Sweeny S·erbrethach S·r·n SÈigÌne SÈtna SÈtnae 
-			Tadg_Tadg Taithlech Talorc_Talore Talorc·n_Talorc·n TemnÈn Tigernach Tigern·n Tipraite Tomaltach Tom·s_Thomas Torcc·n Trenchad Trengus Tressach Tuathal·n Tuireann_Taran T·l·n TÛla T˙athal_Tuathal 
-			Ualgarg Ualan_Valentin Ualtar_Walter ⁄amnach·n Uargal Uargalach Uargus Uilliam_William Ult·n
+			Aaron_Aaron Abb√°n Abner_Abner Ab√©l_Abel Adomn√°n √Åed_Hugh √Åedgen_Aidan √Åeduc√°n_Aodhagan √Åed√°n_Aidan √Åengus_Angus Affiath Ailbe Ailbrend Ailbrenn Ailch√∫ Aildobur Ailgel √Åilgen√°n Ailgus Ailill Ailp√≠n_Alwin Ainbchellach √Åindle Ainftech_Enfidaig Ainmere Airechtach Airfhind√°n Airfhinn√°n Airleid Airmedach Amalgaid Amla√≠b_Olaf Anfud√°n Anl√≥n Anmchaid √Ånroth√°n Ardgal Ardgar Art_Arthur Artbran Artgal Artgus Artuc√°n Art√∫r_Arthur Assiucc Augaire August√≠n_Augustine Aurthuile 
+			B√°ethgalach B√°eth√≠ne B√°et√°n B√©o√°ed Barrfhind Becc√°n Berrach Bh√°tair_Walter Blathmacc Bran_Bran Brandub Brangen Bressal Brian_Brian Bricc√©ne Bricc√≠ne Brocc√°n Bruatur Bruide_Bride Br√©naind Br√©nainn Br√≥en B√∫aidb√©o 
+			Caicher Cailech Cailte Cairbre_Carbrey Cairell Caiss√©ne Caiss√≠n Caiss√≠ne Canann Canann√°n Carlus_Charles Cathal_Catald Cathal√°n Cathassach Cathbad Cathm√°el Cathm√°l Cathnio Cathub Causant√≠n_Constantine Ca√≠lte Ca√≠nchomrac Ca√≠ndelb√°n Ceithernach Cellach Cellach√°n Cenn√©tig_Kentigern Cenn-F√°elad Cennlach√°n Cerball Cernach Cernach√°n Cian Ciar√°n Cill√©ne Cill√≠ne Cin√°ed_Kenneth Clemens_Clement Cobthach Coirpre Colcu Colm√°n_Nicholas Columb_Nicholas Comg√°n Conaing Conall_Conall Conall√°n Conamail Con√°n_Conan Conchenn Conchobar Condla Congal Congalach Congus Conlang Conmac_Cormac Conmacc_Cormac Conm√°el Conm√°l Conn_Conn Connla Conr√≠ Constans_Constantius Constant√≠n_Constantine Corbb Corb√°n Corcc√°n Corcr√°n Cormac_Cormac Coscrach Co√≠lboth Crimthann Crundm√°el_Crundm√°el Cruinnm√°el_Crundm√°el Cr√≠ch√°n Cr√≥n√°n Cuil√©n Cuindles Cuircthe Cummascach C√°em√°n C√≥elbad C√≥elub C√≥em√°n C√∫-Allaid C√∫-Bretan C√∫-Caech C√∫-Cen C√∫-Cen-M√°thair C√∫-C√∫ar√°in C√∫-Gamna C√∫-Ro√≠ C√∫anu C√∫ldub C√∫√°n C√∫√°n√°n 
+			Dab√≠d_David Daigre Dalbach Dall√°n Dani√©l_Daniel Dathal Dathgus Demm√°n Diarmaid_Dermid Doedgus Domangart Domnall_Donald Donn Donnchad_Duncan Donncuan_Duncan Donndub√°n Donngal Donnuc√°n_Duncan Do√©lgus Drost Drust Dub-d√°-Lethe Dubcenn Dubgenn Dubh_Duff Dubhghall_Dugald Dubhglais_Douglas Dubthach Dub√°ed Dub√°n Duiblesc Duibne Dun√°ed D√°lach D√≠cuill D√≠glach D√≠mmae D√≠mmasach D√≠mm√°n D√≠nertach D√∫nac√°n D√∫nadach D√∫nchad_Duncan D√∫ngal D√∫ngalach D√∫nlang 
+			√âamonn_Edmund Echmarcach √âchtgal √âchtgus Echthigern Echuid √âicnech √âicnech√°n El√°ir √ânna √ânri_Henry √âochad Eochaid_Eochaid Eochu Eochuc√°n √âogan_Eugene Erc_Eric Ercaid Erc√°ed Erc√°n √ârem√≥n √ârennach Ern√°n Etersc√©l E√≥gan_Eugene E√≥gan√°n_Eugene 
+			Fachtna Fairchellach Fallaman Farann√°n Fa√≠lbe Fearghus_Fergus Fechtnach Fedach Fearchar_Farquhar Fedelmid Feirgil Felic Fer-Fugaill Feradach_Feradach Ferdomnach Fergal Fergus_Fergus Fiachnae Fianch√∫ Findbarr Fingen Finguine Finn_Finn Finnac√°n Finnbarr Finnch√∫ Finnlagh_Findlay Finnsnechtae Fintan Flaithbertach Flaithem Flaithem√°n Flaithgus Flaithr√≠ Flann Flannac√°n Flannchad Flann√°n Fogartach Folachtach Forann√°n Forbassach Fothad Fothud Fuacarta Fubthad Fuirechtach Fursu F√°elcar F√°elchad F√°elch√∫ F√°eldobur F√°elgus F√°el√°n F√°elbe F√≠achnae F√≠adch√∫ F√≠ngin F√≠nsnechta F√≥carta 
+			Gabr√°n Garalt Garbith Gilla-√çosa Gilla-Br√≠gte_Gilbert Gilla-Coluim Gilla-Comg√°in Gilla-Cr√≠st_Gilchrist Gilla-na-N√°em Gilla-P√°traic_Gilpatrick Gilla-Ruad_Gilroy Glaisiuc Glaschu Gl√∫n-Iairn Gofraid_Godfrey Gormac√°n Gormgus Gorm√°n Guaire G√°eth√°n G√°eth√≠ne G√≥sacht 
+			Iacob_Jacob Iarlaithe Imchad Indrechtach Ioseph_Joseph √çomhar_Ivar 
+			Labraid Lachtnae Lachtn√°n Lachtn√©ne Laidcenn Laidgenn Laid√≠ne Laisr√©n Lenn√°n_Lennon Lethlobur Liam_William Liber_Liberty Lochlann Loingsech Lon√°n Lorc√°n Lugh_Leon Lugaid Lug√°ed L√°egaire L√≥ch√©ne_Lochene L√≥ch√≠ne_Lochene Lochlainn_Lachlan Lochlann_Lachlan L√≥eguire 
+			Mac-Laisre Mainch√≠ne Maine Manch√°n Martan Mathgamain Matud√°n Minch√°n Mo-Chonna Mo-Lua M√≥enach Morand Morann Mugr√≥n Muirchertach Muirec√°n Muiredach_Murdoch Muirgius Murchad Murch√∫ M√°el-Anfaid M√°el-Bresail M√°el-Br√≠gte M√°el-Cein M√°el-Cian√°in M√°el-Ciar√°in M√°el-Coluim_Malcolm M√°el-Corgis M√°el-Dubh_Maldoven M√°el-D√∫in M√°el-Fothartaig M√°el-F√°baill M√°el-√çosa_Malise M√°el-M√°ed√≥c M√°el-Martain M√°el-M√≥rda M√°el-Muire_Malmure M√°el-M√≠ch√≠l M√°el-Petair M√°el-P√°traic M√°el-Ruanaid M√°el-Sechnaill M√°el-T√≥lai M√°el√°n M√°enach M√°thair M√∫ad√°n Muireadhach_Murdoch 
+			Nadarchu Nannid Natfraech Natfraich Natsluaig Nechtan_Nathan Niall_Nigel Niallgus Niall√°n Nuadu 
+			Odr√°n √ìengus_Angus √ìenuc√°n Oiss√©ne Oiss√≠ne Olc√°n √ìlchobar Onch√∫ Orthanach Oscar_Oscar 
+			P√°traic_Patrick Petair_Peter Pilib_Philip P√≥l_Paul Proinsias_Francis 
+			Rechtabra Riac√°n Riaguil Robartach Rogallach Rogellach Ruah_Roy Ruaidr√≠_Roderick Ruarcc Rumann R√°thach R√≠g√°n R√≠√°n R√≥d√°n R√≥nch√∫ R√≥n√°n_Ronan R√∫adac√°n R√∫ad√°n 
+			Scandal Scandl√°n Scell√°n Scolaige S√©aghdha_Shaw S√©afra_Godfrey S√©amas_Jacob Se√°n_John Sechnassach Selbach Sench√°n Seo√°n_John Sinach Siothr√∫n_Godfrey Sl√©b√≠ne Snedgus Sogan Somhairle_Somerled Suibne_Sweeny S√°erbrethach S√°r√°n S√©ig√≠ne S√©tna S√©tnae 
+			Tadg_Tadg Taithlech Talorc_Talore Talorc√°n_Talorc√°n Temn√©n Tigernach Tigern√°n Tipraite Tomaltach Tom√°s_Thomas Torcc√°n Trenchad Trengus Tressach Tuathal√°n Tuireann_Taran T√°l√°n T√≥la T√∫athal_Tuathal 
+			Ualgarg Ualan_Valentin Ualtar_Walter √öamnach√°n Uargal Uargalach Uargus Uilliam_William Ult√°n
 		}
 
 		female_names = {
@@ -1225,21 +1225,21 @@ canonical_human_group = {
 			Zelda Zilpa Zisel Zoe Zusa
 			
 			#Irish filler
-			Ablach ¡edammair Affraic_Aifric AÌbinn AibilÌn_Eva Aileann ¡ine_Agnes Anlaith ArÛc 
-			Barrdub Ben-Laigen Ben-MÌde Ben-Muman Ben-Ulad Brigit_Brigit  BÈ-F·il BÈbinn 
-			Cacht Caillech-FhinnÈin Cainnech CaissÈne CaitilÌn_Catherine CaÌntigern CaÌrech Cath·n CatrÌona_Catherine Cellach Ciar Cnes Coblaith_Cobflaith Cobflaith_Cobflaith Conchenn Cond·l CrÌnÛch CrÌstina_Christina Cumman
-			Deirdre Derborgaill_Dervorgilla Derb·il Der-Ilei_Derilla Der-Lugdach Dianaim Doriend Dub-Dil Dub-Essa Dub-Lemna Dubchoblaig Dubgilla D˙insech D˙nlaith 
-			Echrad …ibhleann Eilionora_Eleanor Eithne_Eithne EllbrÌg Emer_Emer …taÌn …ua_Eva Euginia_Eugenia 
-			FaÌlenn Fedelm Finneacht Finnguala_Finnguala Flann Forbflaith FÌne 
-			Garb GelgÈis GerrÛc Gnathnad Gormflaith_Gormflaith Gormlaith_Gormflaith Gr·inne 
-			Imag Õte 
-			Lann LasairfÌona Lathir Lerben Lerthan LÌgach Lucia_Lucia 
-			Martha_Martha Mauda_Matilda Muadhnait_Mona Muirenn_Murron Muirgel_Muriel Muirne_Morna M·el-Mide M·el-Muire_Malmure M·ire_Maria M·iread M·irgred_Margaret MÛr_Mor MÛr-Muman 
-			N·rbflaith Nuala_Finnguala 
-			”rlaith ”rnat RÛis_Ros 
-			Sadb Samthann Sc·thach SÈbdann Selblaith Seonaid_Joan Sinech Siob·n_JoanSisuile Sl·Ìne_Slaine Sorcha_Sorcha Suaibsech S·erlaith SÈtach SÌthmaith 
-			Tailefhlaith Tailltiu Temair Tuathflaith TÛmnat 
-			Uallach Uasal ⁄na_Una
+			Ablach √Åedammair Affraic_Aifric A√≠binn Aibil√≠n_Eva Aileann √Åine_Agnes Anlaith Ar√≥c 
+			Barrdub Ben-Laigen Ben-M√≠de Ben-Muman Ben-Ulad Brigit_Brigit  B√©-F√°il B√©binn 
+			Cacht Caillech-Fhinn√©in Cainnech Caiss√©ne Caitil√≠n_Catherine Ca√≠ntigern Ca√≠rech Cath√°n Catr√≠ona_Catherine Cellach Ciar Cnes Coblaith_Cobflaith Cobflaith_Cobflaith Conchenn Cond√°l Cr√≠n√≥ch Cr√≠stina_Christina Cumman
+			Deirdre Derborgaill_Dervorgilla Derb√°il Der-Ilei_Derilla Der-Lugdach Dianaim Doriend Dub-Dil Dub-Essa Dub-Lemna Dubchoblaig Dubgilla D√∫insech D√∫nlaith 
+			Echrad √âibhleann Eilionora_Eleanor Eithne_Eithne Ellbr√≠g Emer_Emer √âta√≠n √âua_Eva Euginia_Eugenia 
+			Fa√≠lenn Fedelm Finneacht Finnguala_Finnguala Flann Forbflaith F√≠ne 
+			Garb Gelg√©is Gerr√≥c Gnathnad Gormflaith_Gormflaith Gormlaith_Gormflaith Gr√°inne 
+			Imag √çte 
+			Lann Lasairf√≠ona Lathir Lerben Lerthan L√≠gach Lucia_Lucia 
+			Martha_Martha Mauda_Matilda Muadhnait_Mona Muirenn_Murron Muirgel_Muriel Muirne_Morna M√°el-Mide M√°el-Muire_Malmure M√°ire_Maria M√°iread M√°irgred_Margaret M√≥r_Mor M√≥r-Muman 
+			N√°rbflaith Nuala_Finnguala 
+			√ìrlaith √ìrnat R√≥is_Ros 
+			Sadb Samthann Sc√°thach S√©bdann Selblaith Seonaid_Joan Sinech Siob√°n_JoanSisuile Sl√°√≠ne_Slaine Sorcha_Sorcha Suaibsech S√°erlaith S√©tach S√≠thmaith 
+			Tailefhlaith Tailltiu Temair Tuathflaith T√≥mnat 
+			Uallach Uasal √öna_Una
 		}
 
 		modifier = default_culture_modifier
@@ -1593,7 +1593,7 @@ movie_group = {
 			Daniella_Danielle:200 Daisy:250 Lena:225 Bertha:200
 
 			# Sampling of movie staff
-			Terry:150 Annabel:150 Roxette:150 Samantha:150 Fiona:150 Dana:150 Francess:150 Sylvia:150 DesirÈe_Diseree:175 Melanie:150 Mona_Monica:150
+			Terry:150 Annabel:150 Roxette:150 Samantha:150 Fiona:150 Dana:150 Francess:150 Sylvia:150 Desir√©e_Diseree:175 Melanie:150 Mona_Monica:150
 
 			# Filler
 			Anne Amanda Ada April Amphyllis Abigail Alice Adell Amelia Antoinette Arabella Alma Agnes Agatha Barbara Brigit Blanche Bertha Belle Caroline Charlotte Christine Catharine Clementine Clara Constance Claudia Carrie Cora Dolley Dorothy Deborah Doris Edith Evangeline Elizabeth Esther Emily Emma Ernestine Ethel Flora Frances Florence Gladys Gloria Grace Gertrude Heather Hannah Hermina Harriet Helen Hortense Hope Ida Isabella Joan Jane Julia Josephine Laura Lucy Lydia Lillie Lena Michelle Mary Marta Muriel Mildred Margaret Mercy Mathilda Marion Madeline Marilla Mabel Nancy Noami Nell Olympia Prudence Patricia Pauline Patience Pamela Phoebe Paula Rachel Rebecca Rhoda Rosalie Ruth Rosa Scarlett Sarah Sally Sylvia Susanna Sybil Susa Sophia Tabitha Theodora Victoria Virginia Verina Valeria Winifred Zerelda
@@ -1618,3 +1618,17 @@ movie_group = {
 		allow_in_ruler_designer = no
 	}
 }
+
+battlefielder_group = {	#Named after military slang, weapon designations, and all that good stuff.
+		graphical_cultures = { frankishgfx }
+		
+		color = { 0.05 0.05 0.05 }
+		male_names = {
+			Alfa Charlie_Charles Crocket Blues Bones Boomer Bravo Davy_David "Davy Crockett"_David Delta Golf Hotel Kilo Mike_Micheal Oscar Papa Quebec Romeo Tango Uniform Victor Xray Yankee Zulu
+		}
+		female_names = {
+			"Anne Laurie"_Anne Charlie_Charlotte Echo Foxtrot India Juliett Lima November Mia Sierra Tango Uniform Whiskey 
+		}
+		from_dynasty_prefix = " "
+		from_dynasty_suffix = ""
+		male_patronym = ""
