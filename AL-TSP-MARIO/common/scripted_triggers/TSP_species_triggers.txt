@@ -182,6 +182,7 @@ does_not_have_hands = {  # E.G. Cheep Cheep, Wiggler, etc., if you put it in "HA
 		trait = species_taptap
 		trait = species_blue_pink_butterfly
 		trait = species_urchin
+		trait = species_yux
 	}
 }
 
@@ -197,7 +198,7 @@ can_breathe_underwater = { # Can this character survive underwater without surfa
 		trait = species_boss_bass
 		trait = species_fish # Cheep Cheep
 		trait = species_crab_generic
-		trait = species_dragon_generic # As they can also live in lava
+		trait = species_dragon_generic
 		trait = species_eel_generic
 		trait = species_fish_generic
 		trait = species_fishbone

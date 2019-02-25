@@ -122,6 +122,8 @@ species_bandinero = { # Bandinero
 	same_opinion = 5
 	opposite_opinion = 5
 
+	spear_mask_opinion = -50 # Custom Opinion Modifier
+
 	random = no
 	customizer = no
 }
@@ -197,7 +199,7 @@ species_beeing = { # Bees, Bee-like creatures, generic apidae-esque insects excl
 
 species_belome = { # Belome from SMRPG
 	martial = 6
-	health = 6
+	health = 10
 
 	fertility = -0.6 # Belomes age slowly, are huge, and rare
 
@@ -207,7 +209,7 @@ species_belome = { # Belome from SMRPG
 	customizer = no
 }
 
-species_butt_ugly = { # Birdo and Birdoroo
+species_butt_ugly = { # Birdo and Birdoroos
 	opposites = {
 		species_the_yoshmeister
 	}
@@ -334,7 +336,7 @@ species_blurp = { # Blurp fish, very similar to Cheep Cheeps
 
 species_mister_vick = { # Bob-ombs / Bobombs / Bombs
 	martial = 4
-	learning = 2
+	learning = -1
 
 	ai_rationality = -20 # They are literally suicide bombers
 	ai_ambition = -1
@@ -348,7 +350,7 @@ species_mister_vick = { # Bob-ombs / Bobombs / Bombs
 
 species_bombat = { # Bombat
 	martial = 2
-	learning = 2 # Artificially engineered to surveil their surroundings
+	learning = 2 # Artificially engineered to survey their surroundings
 
 	health = 10 # Extremely long-lived
 
@@ -513,7 +515,7 @@ species_brolder = {  # Brolder
 species_broozer = { # Broozer
 	martial = 6 # Literally punching ghosts
 	intrigue = -3
-	diplomacy = -6 # When all you do is punch, everything looks like a target
+	diplomacy = -3 # When all you do is punch, everything looks like a target
 
 	ai_rationality = -20
 	ai_ambition = 20 # When all you do is punch, everything looks like a target
@@ -619,8 +621,9 @@ species_buzz = { # Buzz, a type of mechanical bee
 }
 
 species_helmet_head = { # Buzzy Beatle
-	defensive_plot_power_modifier = 0.7 # Thirty  percent harder to plot against, due to shell and perceptiveness
+	defensive_plot_power_modifier = 0.7 # Thirty percent harder to plot against, due to shell and perceptiveness
 
+	martial = 1
 	intrigue = 4 # Protected by hard shell
 
 	same_opinion = 5
@@ -1212,6 +1215,8 @@ species_goom = { # Goom, a creature with no relation to Goombas
 	ai_greed = 10
 	ai_rationality = -2
 	ai_ambition = 10
+
+	spear_mask_opinion = -50 # Custom Opinion Modifier
 
 	same_opinion = 5
 
@@ -2354,6 +2359,8 @@ species_smeech = { # Smeech
 
 	random = no
 	customizer = no
+
+	tolerates_extraterrestrial = yes
 }
 
 species_snake_generic = { # Generic snakes, Cobrats, and the giant coiled mid-boss in "Wario Land II"
@@ -2397,6 +2404,8 @@ species_snowman_generic = { # Mister Blizzard and other snowmen
 }
 
 species_spearhead = { # Spearhead from "Wario Land" series
+	martial = 1
+
 	same_opinion = 5
 
 	random = no
@@ -2404,6 +2413,8 @@ species_spearhead = { # Spearhead from "Wario Land" series
 }
 
 species_spear_mask = { # Spear Masked Men, entirely different from Spearhead
+	goom_opinion = -50 # Custom Opinion Modifier
+
 	martial = 2
 
 	same_opinion = 5
