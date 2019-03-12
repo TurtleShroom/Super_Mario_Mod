@@ -1109,6 +1109,7 @@ species_fronk  = { # Fronk
 
 species_fuzzball  = { # Fuzzball Ghost
 	opposites = {
+		species_fuzzy
 	}
 
 	martial = -4 # Fuzzballs cannot cause harm on their own
@@ -1124,6 +1125,7 @@ species_fuzzball  = { # Fuzzball Ghost
 
 species_fuzzy  = { # Fuzzy
 	opposites = {
+		species_fuzzball
 	}
 
 	same_opinion = 5
