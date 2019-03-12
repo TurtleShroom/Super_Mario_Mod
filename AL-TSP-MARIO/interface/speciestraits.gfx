@@ -1776,7 +1776,15 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_trait_species_stu"
-		texturefile = "gfx/traits/species/Stu.tga"
+		texturefile = "gfx/traits/species/Stubird.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_species_strolling_stu"
+		texturefile = "gfx/traits/species/StrollingStu.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"

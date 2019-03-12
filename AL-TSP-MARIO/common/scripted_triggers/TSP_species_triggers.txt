@@ -241,7 +241,7 @@ is_koopa = { # Is this a Koopa Troopa, a Bowser, or creatures like Lakitu?
 		trait = species_ishnail_koopa # Ishnail, seen in "Paper Mario II" as lord over the Robbo Gang
 		trait = species_lupp # Koopa Troopa
 		trait = species_birdie # Lakitu
-		trait = species_true_spike # Spike Koopa
+		trait = species_true_spike # Spike Koopas and Clubbas, etc.
 		trait = species_spiny
 		trait = species_toady
 	}
@@ -259,6 +259,7 @@ is_goomba = { # Is this a Goomba, Galoomba, Goombo, Gloomba, or other Goomba var
 		trait = species_ghost_octoomba # Octoboos are technically aliens, but they are so similar to Goombas (and are referred to as such in some manuals) that they are added here, though they cannot breed with Goombas
 		trait = species_octoomba # See Octoboo entry
 		trait = species_coon_chick # Tanoomba
+		trait = species_strolling_stu # Strolling Stus are the Delfinite answer to Goombs and are, for the purposes of the game, extremely distant relatives evolving from them; they cannot breed with Goombas
 	}
 }
 

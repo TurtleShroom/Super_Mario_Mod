@@ -1137,14 +1137,15 @@ species_fuzzy  = { # Fuzzy
 
 species_galoomba  = { # Galoomba
 	opposites = {
-		trait = species_chick # Goomba
-		trait = species_sarasaland_chick # Goombo
-		trait = species_chick_ghost # Goomboo / Ghost Goomba
-		trait = species_chick_persimmon # Goombrat
-		trait = species_gromba # Rock Goomba
-		trait = species_ghost_octoomba
-		trait = species_octoomba
-		trait = species_coon_chick # Tanoomba
+		species_chick # Goomba
+		species_sarasaland_chick # Goombo
+		species_chick_ghost # Goomboo / Ghost Goomba
+		species_chick_persimmon # Goombrat
+		species_gromba # Rock Goomba
+		species_ghost_octoomba
+		species_octoomba
+		species_coon_chick # Tanoomba
+		species_strolling_stu # Strolling Stu
 	}
 
 	health = 6 # Galoombas can be stomped on and simply turn over, they are by far the safest type of Goomba to be
@@ -1234,6 +1235,7 @@ species_chick = { # Goomba
 		species_ghost_octoomba
 		species_octoomba
 		species_coon_chick # Tanoomba
+		species_strolling_stu # Strolling Stu
 	}
 	
 	ai_zeal = 3
@@ -1258,6 +1260,7 @@ species_sarasaland_chick = { # Goombo
 		species_ghost_octoomba
 		species_octoomba
 		species_coon_chick # Tanoomba
+		species_strolling_stu # Strolling Stu
 	}
 
 	health = 5
@@ -1280,6 +1283,7 @@ species_chick_ghost = { # Goomboo / Ghost Goomba
 		species_ghost_octoomba
 		species_octoomba
 		species_coon_chick # Tanoomba
+		species_strolling_stu # Strolling Stu
 	}
 
 	defensive_plot_power_modifier = 0.9 # Ghost Goombas are canonically hard to kill
@@ -1304,6 +1308,7 @@ species_chick_persimmon = { # Goombrat
 		species_ghost_octoomba
 		species_octoomba
 		species_coon_chick # Tanoomba
+		species_strolling_stu # Strolling Stu
 	}
 	health = 4
 	martial = -5
@@ -1347,6 +1352,7 @@ species_gromba = { # Rock Goomba
 		species_ghost_octoomba
 		species_octoomba
 		species_coon_chick # Tanoomba
+		species_strolling_stu # Strolling Stu
 	}
 
 	defensive_plot_power_modifier = 0.6 # Literally made of rocks, forty percent harder to plot against
@@ -1756,17 +1762,22 @@ species_mister_eel = { # Colorful, goofy looking eels from "Yoshi Story", not to
 }
 
 species_money_bag = { # Money Bags / Moneybags - those sentient hopping wallets from SM64
+	opposites = {
+		species_starbag
+	}
+
 	tax_income = 60 # An extraordinary five Coins of income per month, per canon
 	
 	stewardship = 10 # Literally a wallet
 	martial = -100 # Completely defenseless, can only hop
-	intrigue = -4 # Can disguise as a coin, which attracts attention
+	intrigue = -1 # Can disguise as a coin, which attracts attention
 
 	health = -2 # Very weak, does not live long
 
 	fertility = 1 # One hundred percent increase, for balance to prevent game overs, in-game Money Bags are extremely rare
 
-	same_opinion = 5
+	same_opinion = 10
+	opposite_opinion = 10
 
 	random = no
 	customizer = no
@@ -1931,6 +1942,7 @@ species_ghost_octoomba = { # Octoboo
 		species_gromba # Rock Goombas
 		species_octoomba
 		species_coon_chick # Tanoomba
+		species_strolling_stu # Strolling Stu
 	}
 
 	martial = -4
@@ -1956,6 +1968,7 @@ species_octoomba = { # Octoomba
 		species_gromba # Rock Goomba
 		species_ghost_octoomba
 		species_coon_chick # Tanoomba
+		species_strolling_stu # Strolling Stu
 	}
 
 	martial = -3
@@ -2445,6 +2458,7 @@ species_true_spike = { # Spike Koopas
 	customizer = no
 }
 
+
 species_spike_creature = { # Not sure what this is, but it is not to be confused with the Spike Koopa
 	same_opinion = 5
 
@@ -2478,8 +2492,15 @@ species_spiny = { # Spiny
 	customizer = no
 }
 
-species_starbag = { # Starbag, also called Petari
-	same_opinion = 5
+species_starbag = { # Starbag, also called Petari or Petapeta
+	opposites = {
+		species_money_bag
+	}
+
+	stewardship = 4 # Carries Star Bits instead of cash, so less bonuses
+
+	same_opinion = 10
+	opposite_opinion = 10
 
 	random = no
 	customizer = no
@@ -2530,6 +2551,30 @@ species_stu = { # Stu
 	health = 2
 
 	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_strolling_stu = {
+	opposites = {
+		species_galoomba
+		species_chick # Goomba
+		species_chick_ghost # Goomboo / Ghost Goomba
+		species_sarasaland_chick # Goombo
+		species_chick_persimmon
+		species_gromba # Rock Goomba
+		species_ghost_octoomba
+		species_coon_chick # Tanoomba
+		species_strolling_stu # Strolling Stu
+	}
+
+	ai_ambition = -20
+	
+	health = 2
+
+	same_opinion = 5
+	opposite_opinion = 5
 
 	random = no
 	customizer = no
