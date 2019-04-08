@@ -181,10 +181,17 @@ species_beanish = { # Beanbean Kingdom / Beanish denizens
 	customizer = no
 }
 
-species_beeing = { # Bees, Bee-like creatures, generic apidae-esque insects excluding DK's Zingers (e.g. the bees in "Super Mario Land II")
+species_bear_generic = { # Ball Bears from "Super Mario Land II" and actual bears from "Donkey Kong Country"
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_beeing = { # Bees, Bee-like creatures, generic apidae-esque insects excluding DK's Zingers, which are wasps (e.g. the bees in "Super Mario Land II")
 	opposites = {
 		species_buzz
-		species_zinger
+		species_zinger # Actually a wasp, but mistaken for bees enough to tolerate actual bees
 	}
 
 	diplomacy = 1
@@ -608,7 +615,7 @@ species_burt = { # Burts
 species_buzz = { # Buzz, a type of mechanical bee
 	opposites = {
 		species_beeing
-		species_zinger
+		species_zinger # Actually a wasp, but mistaken for bees enough to tolerate actual bees
 	}
 
 	immortal = yes # Machines will break down and decay over time, leading to death by Event unless they are repaired
@@ -930,10 +937,15 @@ species_dinohattan = {
 }
 
 species_dinosaur_generic  = {
+	opposites = {
+		species_the_yoshmeister
+	}
+
 	martial = 2
 	leaning = -1
 
 	same_opinion = 5
+	opposite_opinion = 5
 
 	random = no
 	customizer = no
@@ -1089,7 +1101,7 @@ species_flaptack  = { # Flaptack
 	customizer = no
 }
 
-species_sentient_food  = { # Foodstuff that is still alive
+species_sapient_food  = { # Foodstuff that is still alive
 	same_opinion = 5
 	general_opinion = 5 # OM NOM NOM
 
@@ -2543,7 +2555,7 @@ species_living_statue = { # Statues
 	customizer = no
 }
 
-species_stu = { # Stu
+species_stubird = { # Stu
 	defensive_plot_power_modifier = 0.5 # Got some serious * clicks tongue * fine armor
 
 	martial = 2
@@ -2596,7 +2608,7 @@ species_raccoon_dog = { # Tanooki
 	customizer = no
 }
 
-species_coon_chick = { # Tanoomba (Raccon / Tanooki Goomba)
+species_coon_chick = { # Tanoomba (Raccoon / Tanooki Goomba)
 	opposites = {
 		species_galoomba
 		species_chick # Goomba
@@ -2606,6 +2618,7 @@ species_coon_chick = { # Tanoomba (Raccon / Tanooki Goomba)
 		species_gromba
 		species_ghost_octoomba
 		species_octoomba
+		species_strolling_stu # Strolling Stu
 	}
 
 	ai_ambition = 5
@@ -2620,11 +2633,11 @@ species_coon_chick = { # Tanoomba (Raccon / Tanooki Goomba)
 }
 
 species_taptap = {
-	defensive_plot_power_modifier = 0.8 # Twenty percent harder to plot against thanks to their outstanding strength and resistance to attacks
-
 	opposites = {
-		species_taptap
+		species_spike_sentry 
 	}
+
+	defensive_plot_power_modifier = 0.8 # Twenty percent harder to plot against thanks to their outstanding strength and resistance to attacks
 
 	same_opinion = 5
 
@@ -2649,13 +2662,6 @@ species_tatanga = { # Tatanga and the aliens that invaded Sarasaland
 	opposite_opinion = 30
 
 	tolerates_extraterrestrial = yes
-
-	random = no
-	customizer = no
-}
-
-species_teddy_bear = { # Ball Bears from "Super Mario Land II"
-	same_opinion = 5
 
 	random = no
 	customizer = no
@@ -2724,7 +2730,7 @@ species_ukiki_monkey = { # Ukiki monkeys
 	customizer = no
 }
 
-species_ghost_kremling = { # Undead Kremling
+species_ghost_kremling = { # Undead Kremling, includes Ghost Kremlings (weak Kremling spirits in a white sheet), Kackles (Dry Kremlings) and Kloaks (invisible ghost Kremlings with glowing eyes and coats)
 	immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
 
 	martial = 2
@@ -2748,8 +2754,9 @@ species_vampire_generic = { # Vampiric creatures
 	ai_greed = 30
 	ai_ambition = 30
 
-	martial = 2
-	intrigue = 3
+	diplomacy = 2
+	martial = 1
+	intrigue = 4
 
 	immortal = yes # Obvious
 
@@ -2760,7 +2767,7 @@ species_vampire_generic = { # Vampiric creatures
 	customizer = no
 }
 
-species_water_generic = { # Creatures that are literally water beings, the most notable example being the Nup Enut, as well as others
+species_water_generic = { # Creatures that are literally water beings, the most notable example being the Nep Enut, as well as others
 	opposites = {
 		species_ice_generic
 		species_snowman_generic
@@ -2785,7 +2792,7 @@ species_winkle_snail = { # Winkle Snail
 	stewardship = 3
 
 	ai_ambition = 10
-	ai_greed = 10 # They force people into their Colleseum, take their cash, and make them earn it abck
+	ai_greed = 10 # They force people into their Colleseum, take their cash, and make them earn it back
 
 	same_opinion = 20
 	opposite_opinion = 5 # Snail bros
@@ -2812,6 +2819,7 @@ species_xnaut = { # X-Nauts
 	ai_honor = -20
 	ai_zeal = 20
 
+	general_opinion = -10
 	same_opinion = 20
 	opposite_opinion = 20
 
@@ -2835,8 +2843,14 @@ species_ghost_goom = { # Yarikuri Obake / Ghost Gooms
 }
 
 species_the_yoshmeister = { # Yoshi
+	opposites = {
+		species_dinosaur_generic
+	}
+
 	general_opinion = 10
 	same_opinion = 10
+	opposite_opinion = 5
+	liege_opinion = 5
 
 	tolerates_dogmatic = yes
 
@@ -2859,8 +2873,10 @@ species_yux = {
 	martial = 2
 	learning = 3
 
-	same_opinion = 5
-	opposite_opinion
+	general_opinion = -15
+	same_opinion = 35
+	opposite_opinion = 30
+	liege_opinion = 20 # Yuxen are eternally loyal to their masters
 
 	random = no
 	customizer = no
@@ -2878,9 +2894,15 @@ species_zenisuki = {
 }
 
 species_zinger = {
-	martial = 6
+	opposites = {
+		species_beeing
+		species_buzz
+	}
 
-	same_opinion = 5
+	martial = 6
+	same_opinion = 15
+	opposite_opinion =  15
+	general_opinion = -15
 
 	random = no
 	customizer = no

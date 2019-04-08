@@ -1775,7 +1775,7 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_trait_species_stu"
+		name = "GFX_trait_species_stubird"
 		texturefile = "gfx/traits/species/Stubird.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -1831,7 +1831,7 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_trait_species_teddy_bear"
+		name = "GFX_trait_species_bear_generic"
 		texturefile = "gfx/traits/species/TeddyBear.tga"
 		noOfFrames = 1
 		norefcount = yes
