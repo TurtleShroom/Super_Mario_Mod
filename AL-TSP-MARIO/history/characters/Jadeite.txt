@@ -7,6 +7,7 @@
 	culture = diamond_city_men
 	dynasty = 3008
 	add_trait = species_generic_animal #Dog
+	add_trait = canonical_character
 	historical = yes
 	disallow_random_traits = yes #Done so that Joe won't get unfitting traits
 	1973.12.16 = { #This date is a reference to the release date of 3DS WarioWare, Inc.: Mega Microgame$! in US

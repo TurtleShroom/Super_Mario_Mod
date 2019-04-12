@@ -24,6 +24,7 @@
 	religion = seven_stars 
 	culture = mushroom_kingdom
 	add_trait = species_men
+	add_trait = canonical_character
 	historical = yes
 	1907.11.16 = { #November 16th is a reference to her first appearance in "Little Red Riding Princess", the forty-fourth episode of The Super Mario Bros. Super Show!
 		birth = yes
@@ -34,7 +35,7 @@
 }
 
 2003 = {
-	name = Bisporus #Peach's father, named after the agaricus bisporus
+	name = Bisporus #Peach's father, the Mushroom King, named after the agaricus bisporus
 	dynasty = 252
 	religion = seven_stars 
 	culture = mushroom_kingdom
@@ -54,7 +55,7 @@
 }
 
 2004 = {
-	name = Nectarine #Peach's mother, named after the other name for a peach, nectarine
+	name = Nectarine #Peach's mother, the Mushroom Queen, named after the peach with recessive hairless traits, the nectarine
 	female = yes
 	religion = seven_stars 
 	culture = mushroom_kingdom
@@ -96,6 +97,17 @@
 	father = 2003
 	mother = 2004
 	add_trait = species_men
+	add_trait = fair
+	add_trait = kind
+	add_trait = just
+	add_trait = humble
+	add_trait = patient
+	add_trait = stubborn
+	add_trait = gregarious
+	add_trait = shrewd
+	add_trait = charitable
+	add_trait = temperate
+	add_trait = content
 	historical = yes
 	disallow_random_traits = yes #Done so that Peach won't get unfitting traits
 	1957.8.13 = { #September 13th is a reference to the release date of Super Mario Bros in Japan

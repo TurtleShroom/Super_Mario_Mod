@@ -2,8 +2,8 @@
 #3251-3500
 
 3251 = {
-	name = Victoad #Victor Iscariot, known as Empoleon Blownaparte on the Paradox Forums
-	dynasty = x
+	name = Victoad # Victor Iscariot, known as Empoleon Blownaparte on the Paradox Forums
+#	dynasty = x
 	religion = temple_of_form
 	culture = down_under_toad
 	#dna = "00000000000"
@@ -32,7 +32,7 @@
 3252 = {
 	name = Rice #Rice Marcelle
 	female = yes
-	dynasty = x
+	dynasty = 0 # Lowborn
 	religion = temple_of_form
 	culture = down_under_toad
 	#dna = "00000000000"

@@ -49,6 +49,7 @@
 	father = 3001
 	mother = 3002
 	add_trait = species_men
+	add_trait = canonical_character
 	historical = yes
 	disallow_random_traits = yes #Done so that Ashley won't get unfitting traits
 	1989.12.2 = { #The date is a reference to the release date of WarioWare: Touched! in Japan

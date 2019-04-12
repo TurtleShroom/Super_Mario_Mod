@@ -23,6 +23,7 @@
 	culture = mario_brothers
 	father = 501
 	add_trait = species_men
+	add_trait = canonical_character
 	historical = yes
 	1927.8.3 = { #August 3 is a reference to his first appearance in "Super Mario Issun-boshi"
 		birth = yes
@@ -40,6 +41,7 @@
 	culture = mario_brothers
 	father = 501
 	add_trait = species_men
+	add_trait = canonical_character
 	historical = yes
 	1928.9.18 = { #September 18 is a reference to her first appearance in "Mama Mia Mario", the eleventh live-action segment of The Super Mario Bros. Super Show!
 		birth = yes
@@ -75,6 +77,7 @@
 	mother = 503
 	add_trait = species_men
 	add_trait = twin
+	add_trait = canonical_character
 	historical = yes
 	1958.10.4 = { # October 4th is a reference to his first appearance in "Mario Hillbillies", the twenty-third live-action segment of The Super Mario Bros. Super Show!
 		birth = yes
@@ -94,6 +97,7 @@
 	add_trait = species_men
 	add_trait = twin
 	add_trait = tall
+	add_trait = canonical_character
 	historical = yes
 	1958.10.4 = { # October 4th is a reference to his first appearance in "Mario Hillbillies", the twenty-third live-action segment of The Super Mario Bros. Super Show!
 		birth = yes
@@ -110,6 +114,7 @@
 	culture = mario_brothers
 	father = 501
 	add_trait = species_men
+	add_trait = canonical_character
 	historical = yes
 	1929.9.22 = { #September 2 is a reference to his only named appearance in "Wild Thing", the fifteenth live-action segment of The Super Mario Bros. Super Show!
 		birth = yes
@@ -126,6 +131,7 @@
 	culture = mario_brothers
 	father = 501
 	add_trait = species_men
+	add_trait = canonical_character
 	historical = yes
 	1930.11.9 = { #November 9th is a reference to his only named appearance in "Glasnuts", the forty-ninth live-action segment of The Super Mario Bros. Super Show!
 		birth = yes

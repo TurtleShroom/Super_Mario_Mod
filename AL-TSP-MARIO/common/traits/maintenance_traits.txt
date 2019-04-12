@@ -1,0 +1,4 @@
+canonical_character = { # This will be used to keep canonical characters from chaning personalities or losing Personaltiy Traits, etc.
+	monthly_character_prestige = 1
+	ai_ambition = 15
+}

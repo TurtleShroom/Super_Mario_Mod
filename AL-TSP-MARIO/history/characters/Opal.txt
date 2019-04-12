@@ -27,6 +27,7 @@
 	#properties = "00000000000"
 	mother = 2751
 	add_trait = species_men
+	add_trait = canonical_character
 	historical = yes
 	disallow_random_traits = yes #Done so that Mona won't get unfitting traits
 	1987.3.21 = { #March 21th is a reference to the release date of WarioWare, Inc.: Mega Microgame$! in Japan

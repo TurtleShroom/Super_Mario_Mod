@@ -28,7 +28,7 @@
 	name = Funfun
 	religion = piracy
 	culture = pirate
-	add_trait = x #No appropriate species trait
+	add_trait = species_goom
 	1966.1.1 = { 
 		birth = yes
 	}
@@ -41,7 +41,7 @@
 	name = Bobo
 	religion = piracy
 	culture = pirate
-	add_trait = x #No appropriate species trait
+	add_trait = species_goom
 	1966.1.1 = { 
 		birth = yes
 	}
@@ -55,6 +55,8 @@
 	religion = piracy
 	culture = pirate
 	add_trait = species_zenisuki
+	add_trait = canonical_character
+	historical = yes
 	1966.1.1 = { 
 		birth = yes
 	}
@@ -64,7 +66,7 @@
 }
 
 9900007 = {
-	name = Goomba
+	name = Goombarr
 	religion = piracy
 	culture = pirate
 	dynasty = 9900011

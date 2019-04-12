@@ -44,6 +44,7 @@
 	father = 5001
 	mother = 5002
 	add_trait = species_generic_animal #Dog
+	add_trait = canonical_character
 	disallow_random_traits = yes #Done so that Dribble won't get unfitting traits
 	historical = yes
 	1963.12.15 = { #December 15th is a reference to the release date of 3DS WarioWare, Inc.: Mega Microgame$! in Australia

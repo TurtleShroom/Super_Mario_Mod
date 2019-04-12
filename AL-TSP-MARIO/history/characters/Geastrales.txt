@@ -20,7 +20,7 @@
 }
 
 1002 = {
-	name = Starfruit #Rosalina's mother, named after the star fruit as to be a slight nod to the crazy hypothesis that Mario and Peach are actually Rosalina's parents
+	name = Starfruit #Rosalina's mother, named after the star fruit as to be a slight nod to the crazy hypothesis that Mario and Peach are actually Rosalina's parents, which is not recognized in this Mod
 	female = yes
 	religion = seven_stars 
 	culture = mushroom_kingdom
@@ -50,13 +50,18 @@
 	health = 100
 	add_trait = species_men
 	add_trait = tall
+	add_trait = canonical_character
 	historical = yes
 	disallow_random_traits = yes #Done so that Rosalina won't get unfitting traits
 	991.11.1 = { #November 1th is a reference to the release date of Super Mario Galaxy in Japan
 		birth = yes
 		effect = { set_character_flag = is_rosalina }
+		add_trait = brooding
+		add_trait = affectionate
 	}
 	1007.11.1 = { #Rosalina been described by the Mario Wiki as wise, mature, lonely, introverted, and kind
+		remove_trait = brooding
+		remove_trait = affectionate
 		add_trait = scholarly_theologian
 		add_trait = kind
 		add_trait = patient
@@ -75,13 +80,14 @@
 }
 
 1004 = {
-	name = Hercules #Rosalina's brother, named after the star constellation of Hercules
+	name = Powehi #Rosalina's brother, named after the first photographed black hole: this is a nod to the fact that nothing is known about him and he disappeared after SMG1
 	dynasty = 267
 	religion = seven_stars 
 	culture = mushroom_kingdom
 	father = 1001
 	mother = 1002
 	add_trait = species_men
+	add_trait = canonical_character
 	historical = yes
 	992.11.19 = { #November 19th is a reference to the release date of Super Mario Galaxy in Australia
 		birth = yes

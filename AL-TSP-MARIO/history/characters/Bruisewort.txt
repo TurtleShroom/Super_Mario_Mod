@@ -3,10 +3,11 @@
 
 1751 = {
 	name = Garland #Daisy's father, Daisy mentioned her father in games including Mario Party 3 and Fortune Street, named after the general name a daisy chain which is a garland
-	dynasty = x
+#	dynasty = x
 	religion = baskism 
-	culture = x
+	culture = utility
 	add_trait = species_men
+	add_trait = canonical_character
 	historical = yes
 	1928.6.1 = {
 		birth = yes
@@ -22,14 +23,15 @@
 1752 = {
 	name = Daisy #Daisy
 	female = yes
-	dynasty = x
+#	dynasty = x
 	religion = baskism 
-	culture = x
+	culture = utility
 	#dna = "00000000000"
 	#properties = "00000000000"
 	father = 1751
-	mother = 2005 #In the Prima guides for Mario Kart: Double Dash!! and Mario Kart Wii, Daisy is incorrectly stated to be Peach's cousin, however, for this mod, this misinformation is true
+	mother = 2005 #In the Prima guides for Mario Kart: Double Dash and Mario Kart Wii, Daisy is incorrectly stated to be Peach's cousin, however, for this mod, this misinformation is true
 	add_trait = species_men
+	add_trait = canonical_character
 	historical = yes
 	disallow_random_traits = yes #Done so that Daisy won't get unfitting traits
 	1958.4.21 = { #April 24th is a reference to the release date of Super Mario Land in Japan

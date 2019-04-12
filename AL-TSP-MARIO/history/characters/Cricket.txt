@@ -7,6 +7,7 @@
 	culture = diamond_city_men
 	dynasty = 3009
 	add_trait = species_men
+	add_trait = canonical_character
 	historical = yes
 	disallow_random_traits = yes #Done so that Young Cricket won't get unfitting traits
 	1990.1.12 = { #This date is a reference to the release date of WarioWare: Smooth Moves in EU

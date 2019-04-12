@@ -6,7 +6,7 @@
 	dynasty = 1007
 	religion = happiness
 	culture = yoshi_island
-	#dna = "00000000000" #Note to self, tsf4 wants to be a light blue Yoshi
+	#dna = "00000000000" #Note to self, TSF4 wants to be a light blue Yoshi
 	#properties = "00000000000"
 	add_trait = species_the_yoshmeister
 	historical = yes

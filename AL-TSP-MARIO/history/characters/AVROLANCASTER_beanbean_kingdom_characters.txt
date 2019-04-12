@@ -73,7 +73,7 @@
 	name = Oho #Assuming this is one of the Oho Jee species
 	religion = happiness
 	culture = beanbean_kingdom
-	add_trait = x #No appropriate species trait
+#	add_trait = x #No appropriate species trait
 	1966.1.1 = {
 		birth = yes
 	}
@@ -101,7 +101,7 @@
 	culture = beanbean_kingdom
 	female = yes
 	dynasty = 9900310
-	add_trait = species_jelectro #Closest thing to a jellyfish
+	add_trait = species_jellyfish #Blooper, the closest thing to a jellyfish
 	1966.1.1 = {
 		birth = yes
 	}
@@ -117,7 +117,7 @@
 	female = yes
 	employer = 9930008
 	dynasty = 9900310
-	add_trait = species_jelectro #Closest thing to a jellyfish
+	add_trait = species_jellyfish #Blooper, the closest thing to a jellyfish
 	1966.1.1 = {
 		birth = yes
 	}
