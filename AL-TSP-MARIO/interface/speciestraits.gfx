@@ -120,6 +120,14 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_trait_species_beanie"
+		texturefile = "gfx/traits/species/Beanie_lolwut.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
 		name = "GFX_trait_species_beanish"
 		texturefile = "gfx/traits/species/Beanish.tga"
 		noOfFrames = 1
@@ -1345,6 +1353,14 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_trait_species_octopus_generic"
 		texturefile = "gfx/traits/species/Octopede.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_species_oho_jee"
+		texturefile = "gfx/traits/species/Ohojee.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"

@@ -172,6 +172,15 @@ species_beaker = { # Beaker
 	customizer = no
 }
 
+species_beanie = {
+	health = 1
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
 species_beanish = { # Beanbean Kingdom / Beanish denizens
 	diplomacy = 3
 
@@ -2006,6 +2015,26 @@ species_octopus_generic {
 	customizer = no
 }
 
+species_oho_jee = {
+	ai_rationality = -1000 # CONSTANTLY ON FIRE
+
+	martial = 3
+	stewardship = -2
+
+	health = -0.5 # CONSTANTLY ON FIRE
+	is_illness = yes # Oho Jees eventually "burn out", giving them resistance to other diseases and a flavorful death reason - an Event or check will need to be written in order to keep Oho Jees from being "cured" when other illnesses are cured using the "CURE_ILLNESS" command
+
+	leader = yes # For the purposes of this Mod, the fact that Oho Jees are CONSTANTLY ON FIRE give them some bonuses when leading armies
+	speed = 0.5
+	winter_supply = 5 # Oho Jees being CONSTANTLY ON FIRE mean more warmth and protection in the winter, making supplies and lives last longer in the brutal cold - I am not sure if this is a multiplier or a percentage, but the Vanilla rendition CK2 sets Winter Soldier to four
+	winter_combat = 0.05
+
+	same_opinion = 5
+
+	random = no
+	customizer = no
+}
+
 species_evil_pathogen { # Contrasted with Good Microbes like the Emoglobins, these are diseases like the classic "Viruses" in "Doctor Mario"
 	opposites = {
 		species_good_microbe
@@ -2019,6 +2048,7 @@ species_evil_pathogen { # Contrasted with Good Microbes like the Emoglobins, the
 	fertility = 10 # One thousand percent increase in fertility
 
 	opposite_opinion = -50
+	general_opinion = -50
 
 	random = no
 	customizer = no

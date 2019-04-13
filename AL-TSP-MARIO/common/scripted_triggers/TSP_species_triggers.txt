@@ -356,6 +356,7 @@ bomb = { # Is this character literaly a bomb, does it drop, shoot, or throw bomb
 
 is_plant = { # Is this a plant?
 	OR = {
+		trait = species_beanie
 		trait = species_borp
 		trait = species_dayzee
 		trait = species_eggplant # Eggplant Man

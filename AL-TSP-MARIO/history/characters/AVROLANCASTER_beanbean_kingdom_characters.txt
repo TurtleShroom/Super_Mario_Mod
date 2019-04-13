@@ -2,7 +2,7 @@
 	name = "Bush"
 	religion = beanstar_faith
 	culture = beanbean_kingdom
-	
+	add_trait = species_beanie
 	
 	1966.1.1 = {
 		birth = yes
@@ -47,7 +47,7 @@
 	religion = beanstar_faith
 	culture = beanbean_kingdom
 	female = yes
-	add_trait = species_plant_generic
+	add_trait = species_beanie
 	1966.1.1 = {
 		birth = yes
 	}
@@ -70,10 +70,11 @@
 }
 
 9930006 = {
-	name = Oho #Assuming this is one of the Oho Jee species
+	name = "Jeongjeong" # Assuming this is one of the Oho Jee species, name is reference to character from "Avatar" cartoon who describes fire-based power as ultimately tearing men apart
 	religion = happiness
 	culture = beanbean_kingdom
-#	add_trait = x #No appropriate species trait
+	add_trait = species_oho_jee
+	add_trait = lunatic # Oho Jees are CONSANTLY ON FIRE
 	1966.1.1 = {
 		birth = yes
 	}
@@ -101,7 +102,7 @@
 	culture = beanbean_kingdom
 	female = yes
 	dynasty = 9900310
-	add_trait = species_jellyfish #Blooper, the closest thing to a jellyfish
+	add_trait = species_beanie
 	1966.1.1 = {
 		birth = yes
 	}
@@ -117,7 +118,7 @@
 	female = yes
 	employer = 9930008
 	dynasty = 9900310
-	add_trait = species_jellyfish #Blooper, the closest thing to a jellyfish
+	add_trait = species_beanie
 	1966.1.1 = {
 		birth = yes
 	}
@@ -130,7 +131,7 @@
 	name = Boddle
 	religion = beanstar_faith
 	culture = beanbean_kingdom
-	add_trait = species_beanish
+	add_trait = species_beanie
 	1966.1.1 = {
 		birth = yes
 	}
@@ -145,7 +146,7 @@
 	religion = beanstar_faith
 	culture = beanbean_kingdom
 	female = yes
-	add_trait = species_fairy_generic #Assuming she is a type of Fairy
+	add_trait = species_beanie
 	1966.1.1 = {
 		birth = yes
 	}
