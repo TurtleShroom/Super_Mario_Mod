@@ -1,3 +1,77 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 k_kingdom;Kingdom;Kingdom;Kingdom;;Kingdom;;;;;;;;;x
 k_kingdom_adj;Kingdomian;;kingdomer;;;;;;;;;;;x
+k_mushroom;Mushroom Kingdom;Mushroom Kingdom;Mushroom Kingdom;;Mushroom Kingdom;;;;;;;;;x
+k_mushroom_adj;Mushroom Kingdomer;Mushroom Kingdomer;Mushroom Kingdomer;;Mushroom Kingdomer;;;;;;;;;x
+#Super Mario Bros III Kingdoms
+k_darkland;Dark Land;Dark Land;Dark Land;;Dark Land;;;;;;;;;x
+k_darkland_adj;Darklander;Darklander;Darklander;;Darklander;;;;;;;;;x
+k_pipeland;Pipe Land;Pipe Land;Pipe Land;;Pipe Land;;;;;;;;;x
+k_pipeland_adj;Pipelander;Pipelander;Pipelander;;Pipelander;;;;;;;;;x
+k_iceland;Ice Land;Ice Land;Ice Land;;Ice Land;;;;;;;;;x
+k_iceland_adj;Icelander;Icelander;Icelander;;Icelander;;;;;;;;;x
+k_skyland;Sky Land;Sky Land;Sky Land;;Sky Land;;;;;;;;;x
+k_skyland_adj;Skylander;Skylander;Skylander;;Skylander;;;;;;;;;x
+k_giantland;Giant Land;Giant Land;Giant Land;Giant Land;;Giant Land;;;;;;;;;x
+k_giantland_adj;Giantlander;Giantlander;Giantlander;;Giantlander;;;;;;;;;x
+k_waterland;Water Land;Water Land;Water Land;;Water Land;;;;;;;;;x
+k_waterland_adj;Waterlander;Waterlander;Waterlander;;Waterlander;;;;;;;;;x
+k_desertland;Desert Land;Desert Land;Desert Land;;Desert Land;;;;;;;;;x
+k_desertland_adj;Desertlander;Desertlander;Desertlander;;Desertlander;;;;;;;;;x
+k_grassland;Grass Land;Grass Land;Grass Land;;Grass Land;;;;;;;;;x
+k_grassland_adj;Grasslander;Grasslander;Grasslander;;Grasslander;;;;;;;;;x
+#Sarasaland
+k_birabuto;Birabuto;Birabuto;Birabuto;;Birabuto;;;;;;;;;x
+k_birabuto_adj;Birabuto;Birabuto;Birabuto;;Birabuto;;;;;;;;;x
+k_muda;Muda;Muda;Muda;;Muda;;;;;;;;;x
+k_muda_adj;Mudan;Mudan;Mudan;;Mudan;;;;;;;;;x
+k_easton;Easton;Easton;Easton;;Easton;;;;;;;;;x
+k_easton_adj;Easton;Easton;Easton;;Easton;;;;;;;;;x
+k_chai;Chai;Chai;Chai;;Chai;;;;;;;;;x
+k_chai_adj;Chai;Chai;Chai;;Chai;;;;;;;;;x
+#Rare Sea/Donkey Kong
+k_kongo_bongo;Kongo Bongo;Kongo Bongo;Kongo Bongo;;Kongo Bongo;;;;;;;;;x
+k_kongo_bongo_adj;Kongo Bongo;Kongo Bongo;Kongo Bongo;;Kongo Bongo;;;;;;;;;x
+k_middle_fruit;Middle Fruit Archipelago;Middle Fruit Archipelago;Middle Fruit Archipelago;;Middle Fruit Archipelago;;;;;;;;;x
+k_middle_fruit_adj;Middle Fruit Islander;Middle Fruit Islander;Middle Fruit Islander;Middle Fruit Islander;;;;;;;;;x
+k_kremland;Kremland;Kremland;Kremland;;Kremland;;;;;;;;;x
+k_kremland_adj;Kremlander;Kremlander;Kremlander;;Kremlander;;;;;;;;;x
+k_arctic_fruit;Arctic Fruit Archipelago;Arctic Fruit Archipelago;Arctic Fruit Archipelago;Arctic Fruit Archipelago;;;;;;;;;x
+k_arctic_fruit_adj;Arctic Islander;Arctic Islander;Arctic Islander;;Arctic Islander;;;;;;;;;x
+k_timber_island;Timber Island;Timber Island;Timber Island;;Timber Island;;;;;;;;;x
+k_timber_island_adj;Timber Islander;Timber Islander;Timber Islander;;Timber Islander;;;;;;;;;x
+#Wario-related Areas
+k_kitchen_island;Kitchen Island;Kitchen Island;Kitchen Island;;Kitchen Island;;;;;;;;;x
+k_kitchen_island_adj;Kitchen Islander;Kitchen Islander;Kitchen Islander;;Kitchen Islander;;;;;;;;;x
+k_diamond_city;Gemstone Kingdom;Gemstone Kingdom;Gemstone Kingdom;;Gemstone Kingdom;;;;;;;;;x #Maybe change Localization to "Diamond Kingdom" if a Diamond City culture character comes to power?
+k_diamond_city_adj;Ouji;Ouji;Ouji;;Ouji;;;;;;;;;x
+k_mario_land;Mario Land;Mario Land;Mario Land;;Mario Land;;;;;;;;;x
+k_mario_land_adj;Mariolander;Mariolander;Mariolander;;Mariolander;;;;;;;;;x
+k_southern_sprixies;South Sprixie Islands;South Sprixie Islands;South Sprixie Islands;;South Sprixie Islands;;;;;;;;;x #Not directly related to Wario, but given its relative position to Wario and Waluigi Islands, it'd be reasonable to assume that it'd be De Jure, and a Wariolander ruler could auto-flip it to be called "Wario Islands" or smth
+#Yoshi Kingdoms (Note: Maybe combine Yoshi's Island with Dinosaurland into one big "Yoshi Islands" Kingdom, since they're both pretty small, close to eachother, and very culturally linked)
+k_yoshi;Yoshi's Island;Yoshi's Island;Yoshi's Island;;Yoshi's Island;;;;;;;;;x
+k_yoshi_adj;Yoshi Islander;Yoshi Islander;Yoshi Islander;;Yoshi Islander;;;;;;;;;x
+k_dinosaurland;Dinosaur Land;Dinosaur Land;Dinosaur Land;;Dinosaur Land;;;;;;;;;x
+k_dinosaurland;Dinolander;Dinolander;Dinolander;;Dinolander;;;;;;;;;x
+k_jewelry_land;Jewelry Islands;Jewelry Islands;Jewelry Islands;;Jewelry Islands;;;;;;;;;x
+k_jewelry_land_adj;Jewelrylander;Jewelrylander;Jewelrylander;;Jewelrylander;;;;;;;;;x
+#Sunshine Islands
+k_delfino;Isle Delfino;Isle Delfino;Isle Delfino;;Isle Delfino;;;;;;;;;x
+k_delfino_adj;Delfinite;Delfinite;Delfinite;;Delfinite;;;;;;;;;x
+k_crab_islands;Iles de Crabe;Iles de Crabe;Iles de Crabe;;Iles de Crabe;;;;;;;;;x
+k_fish_island;Isla Pescado;Isla Pescado;Isla Pescado;;Pescado Island;;;;;;;;;x #Pescado is Spanish for Fish
+k_fish_island_adj;Pescacito;Pescacito;Pescacito;;Pescacito;;;;;;;;;x #I'm so sorry.
+k_turtle_island;Testudo Insula;Testudo Insula;Testudo Insula;;Testudo Insula #Testudo is Latin for Turtle/Tortoise (I couldn't find an African Romance translator because it's such an obscure dialect of Latin)
+k_turtle_island_adj;Testudan;Testudan;Testudan;;Testudan;;;;;;;;;x
+k_eel_islands;Ilhas Enguia;Ilhas Enguia;Ilhas Enguia;;Ilhas Enguia;;;;;;;;;x #Enguia is Portugese for Eel
+k_eel_islands_adj;Enguian;Enguian;Enguian;;Enguian;;;;;;;;;x
+k_jellyfish_island;Medusa Insula;Medusa Insula;Medusa Insula;;Medusa Insula;;;;;;;;;x #Romans apparently never wrote down their word for Jellyfish, but it seems a lot of Romance languages and a lot of non-romance languages call them some variation on "Medusa"
+k_jellyfish_islands_adj;Medusan;Medusan;Medusan;;Medusan;;;;;;;;;x
+#Super Mario RPG + Bean Bean
+k_beanbean;Bean Bean Kingdom;Bean Bean Kingdom;Bean Bean Kingdom;;Bean Bean Kingdom;;;;;;;;;x
+#Misc
+k_vibe_island;Vibe Island;Vibe Island;Vibe Island;;Vibe Island;;;;;;;;;x
+k_vibe_island;Vibe Islander;Vibe Islander;Vibe Islander;;Vibe Islander;;;;;;;;;x
+k_pillow_island;Pi'ilo Island;Pi'ilo Island;Pi'ilo Island;;Pi'ilo Island;;;;;;;;;x
+k_pillow_island_adj;Pi'ilo;Pi'ilo;Pi'ilo;;Pi'ilo;;;;;;;;;x
+k_north_sprixies;North Sprixie Island;North Sprixie Island;North Sprixie Islands;North Sprixie Island;;;;;;;;;x #World of Super Mariol 3D World, which is completely disconnected on the map from the other Worlds, which are close enough to be one kingdom
