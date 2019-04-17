@@ -59,6 +59,7 @@ k_jewelry_land_adj;Jewelrylander;Jewelrylander;Jewelrylander;;Jewelrylander;;;;;
 k_delfino;Isle Delfino;Isle Delfino;Isle Delfino;;Isle Delfino;;;;;;;;;x
 k_delfino_adj;Delfinite;Delfinite;Delfinite;;Delfinite;;;;;;;;;x
 k_crab_islands;Iles de Crabe;Iles de Crabe;Iles de Crabe;;Iles de Crabe;;;;;;;;;x
+k_crab_islands_adj;Crabaise;Crabaise;Crabaise;;Crabaise;;;;;;;;;x
 k_fish_island;Isla Pescado;Isla Pescado;Isla Pescado;;Pescado Island;;;;;;;;;x #Pescado is Spanish for Fish
 k_fish_island_adj;Pescacito;Pescacito;Pescacito;;Pescacito;;;;;;;;;x #I'm so sorry.
 k_turtle_island;Testudo Insula;Testudo Insula;Testudo Insula;;Testudo Insula #Testudo is Latin for Turtle/Tortoise (I couldn't find an African Romance translator because it's such an obscure dialect of Latin)
@@ -66,7 +67,7 @@ k_turtle_island_adj;Testudan;Testudan;Testudan;;Testudan;;;;;;;;;x
 k_eel_islands;Ilhas Enguia;Ilhas Enguia;Ilhas Enguia;;Ilhas Enguia;;;;;;;;;x #Enguia is Portugese for Eel
 k_eel_islands_adj;Enguian;Enguian;Enguian;;Enguian;;;;;;;;;x
 k_jellyfish_island;Medusa Insula;Medusa Insula;Medusa Insula;;Medusa Insula;;;;;;;;;x #Romans apparently never wrote down their word for Jellyfish, but it seems a lot of Romance languages and a lot of non-romance languages call them some variation on "Medusa"
-k_jellyfish_islands_adj;Medusan;Medusan;Medusan;;Medusan;;;;;;;;;x
+k_jellyfish_island_adj;Medusan;Medusan;Medusan;;Medusan;;;;;;;;;x
 #Super Mario RPG + Bean Bean
 k_beanbean;Bean Bean Kingdom;Bean Bean Kingdom;Bean Bean Kingdom;;Bean Bean Kingdom;;;;;;;;;x
 k_beanbean_adj;Bean Bean;Bean Bean;Bean Bean;;Bean Bean;;;;;;;;;x
