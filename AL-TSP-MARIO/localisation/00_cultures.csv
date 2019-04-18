@@ -24,10 +24,11 @@ hoohooligan;Hoohooligan;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 # Isle Delfino, Piantas, Nokis
 delfino_group;Delfino Group;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 delfino;Delfinite;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-fish_islands;Fishite;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-crab_islands;Crabbite;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-turtle_islands;Turtlese;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-jellyfish_islands;Jellyite;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+fish_islands;Pescacito;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+crab_islands;Crabaise;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+turtle_islands;Testudan;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+jellyfish_islands;Medusan;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+eel_islands;Enguian;;;;;;;;;x
 noki_bay;Noki Bay;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 noki;Noki;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 pianta;Pianta;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
@@ -43,3 +44,5 @@ ouji_men;Old Diamond;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 # Iwata's culture
 japanese_group;Extradimensional;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 oriental_men;Nintendoriental;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#Minion Cultures
+battlefielder;Battlefielder;;;;;;;;;x
