@@ -13,3 +13,12 @@ e_rare_sea;Rare Sea Empire;Rare Sea Empire;Rare Sea Empire;;Rare Sea Empire;;;;;
 e_rare_sea_adj;Rare Sea;Rare Sea;Rare Sea;;Rare Sea;;;;;;;;;x
 e_warioland;Warioland;Warioland;Warioland;;Warioland #Probably gonna be Titular, since the lands that'd comprise it are kinda far between, but if De Jure would be Kitchen Island, Marioland, South Sprixie Islands, and Gemstone Kingdom
 e_warioland_adj;Wariolander;Wariolander;Wariolander;;Wariolander;;;;;;;;;x
+#Titular Empires. Cultures without Empires + Plot-important Empires go here.
+e_bowser;Darkland Empire;Darkland Empire;Darkland Empire;;Darkland Empire;;;;;;;;;x #Bowser's Empire, of course! (Also would be the Darklander Cultural Empire)
+e_bowser_adj;Darklander;Darklander;Darklander;;Darklander;;;;;;;;;x
+e_koopa;Koopa Empire;Koopa Empire;Koopa Empire;;Koopa Empire;;;;;;;;;x #Independent Koopa cultural empire
+e_aurora;Aurorean Empire;Aurorean Empire;Aurorean Empire;;Aurorean Empire;;;;;;;;;x #Titular Empire for Pianta Imperialists
+e_kremling;Kremling Empire;Kremling Empire;Kremling Empire;;Kremling Empire;;;;;;;;;x #Self Explanatory
+e_diamond;Diamond Empire;Diamond Empire;Diamond Empire;;Diamond Empire;;;;;;;;;x #Diamond City Empire, requires either Diamond/Ouji culture or Formist religion and to own the Diamond Kingdom
+e_yoshi;Super Happy Empire;Super Happy Empire;Super Happy Empire;;Super Happy Empire;;;;;;;;;x
+e_scallywag;Pirate Land;Pirate Land;Pirate Land;;Pirate Land;;;;;;;;;x #Pirate culture/religion titular Empire. Named after Pirate Land from Mario Party.
