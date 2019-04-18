@@ -43,8 +43,8 @@ k_timber_island_adj;Timber Islander;Timber Islander;Timber Islander;;Timber Isla
 #Wario-related Areas
 k_kitchen_island;Kitchen Island;Kitchen Island;Kitchen Island;;Kitchen Island;;;;;;;;;x
 k_kitchen_island_adj;Kitchen Islander;Kitchen Islander;Kitchen Islander;;Kitchen Islander;;;;;;;;;x
-k_diamond_city;Gemstone Kingdom;Gemstone Kingdom;Gemstone Kingdom;;Gemstone Kingdom;;;;;;;;;x #Maybe change Localization to "Diamond Kingdom" if a Diamond City culture character comes to power?
-k_diamond_city_adj;Ouji;Ouji;Ouji;;Ouji;;;;;;;;;x
+k_diamond_city;Diamond Shogunate;Diamond Shogunate;Diamond Shogunate;;Diamond Shogunate;;;;;;;;;x #Diamond City
+k_diamond_city_adj;Diamond;Diamond;Diamond;;Diamond;;;;;;;;;x
 k_mario_land;Mario Land;Mario Land;Mario Land;;Mario Land;;;;;;;;;x
 k_mario_land_adj;Mariolander;Mariolander;Mariolander;;Mariolander;;;;;;;;;x
 k_southern_sprixies;South Sprixie Islands;South Sprixie Islands;South Sprixie Islands;;South Sprixie Islands;;;;;;;;;x #Not directly related to Wario, but given its relative position to Wario and Waluigi Islands, it'd be reasonable to assume that it'd be De Jure, and a Wariolander ruler could auto-flip it to be called "Wario Islands" or smth
@@ -77,3 +77,15 @@ k_vibe_island;Vibe Islander;Vibe Islander;Vibe Islander;;Vibe Islander;;;;;;;;;x
 k_pillow_island;Pi'ilo Island;Pi'ilo Island;Pi'ilo Island;;Pi'ilo Island;;;;;;;;;x
 k_pillow_island_adj;Pi'ilo;Pi'ilo;Pi'ilo;;Pi'ilo;;;;;;;;;x
 k_north_sprixies;North Sprixie Island;North Sprixie Island;North Sprixie Islands;North Sprixie Island;;;;;;;;;x #World of Super Mariol 3D World, which is completely disconnected on the map from the other Worlds, which are close enough to be one kingdom
+#Titular
+k_warioland;Warioland;Warioland;Warioland;;Warioland;;;;;;;;;x #If the South Sprixie Islands aren't just flipped, this is the Titular Kingdom that Wario would theoretically start with
+k_warioland_adj;Wariolander;Wariolander;Wariolander;;Wariolander;;;;;;;;;x
+k_sexy_bowser_in_a_hottub;Bowser's Hottub;Bowser's Hottub;Bowser's Hottub;;Bowser's Hottub;;;;;;;;;x #Darkland-controlled Delfino. Titular Kingdom that shows up in Mario Sunshine's bookmark. On request of Turtleshroom
+k_sexy_bowser_in_a_hottub_adj;Dark Delfino;Dark Delfino;Dark Delfino;;Dark Delfino;;;;;;;;;x
+k_goomba;United Goomba Kingdom;United Goomba Kingdom;United Goomba Kingdom;;United Goomba Kingdom;;;;;;;;;x #Titular kingdom for independent Goombas.
+k_goomba_adj;Goomba;Goomba;Goomba;;Goomba;;;;;;;;;x
+k_koopa;New Koopaland;New Koopaland;New Koopaland;;New Koopaland;;;;;;;;;x #Independent Koopa cultural kingdom. Name is a reference to in the mod's canon, Darkland would be "Old Koopaland"
+k_thirteen_mushroom_colonies;Thirteen Mushroom Colonies;Thirteen Mushroom Colonies;Thirteen Mushroom Colonies;;Thirteen Mushroom Colonies;;;;;;;;;x #Not sure if it'd be Titular or De Jure somewhere, so I'll put it here. Is supposed to nameflip to some undecided name if independent.
+k_thirteen_mushroom_colonies_adj;Colonial;Colonial;Colonial;;Colonial;;;;;;;;;x
+k_battlefield;Battlefield;Battlefield;Battlefield;;Battlefield;;;;;;;;;x #Battlefielder/Bobomb/Bullet Bill/Torpedo Ted/etc Kingdom. Empoleon's original idea, name a placeholder.
+k_battlefield_adj;Battlefielder;Battlefielder;Battlefielder;;Battlefielder;;;;;;;;;x
