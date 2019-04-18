@@ -1620,15 +1620,22 @@ movie_group = {
 }
 
 battlefielder_group = {	#Named after military slang, weapon designations, and all that good stuff.
+			graphical_cultures = { frankishgfx }
+		battlefielder = {
+			color = { 0.05 0.05 0.05 }
+			male_names = {
+				Alfa Charlie_Charles Crocket Blues Bones Boomer Bravo Davy_David "Davy Crockett"_David Delta Golf Hotel Kilo Mike_Micheal Oscar Papa Quebec Romeo Tango Uniform Victor Xray Yankee Zulu
+			}
+			female_names = {
+				"Anne Laurie"_Anne Charlie_Charlotte Echo Foxtrot India Juliett Lima November Mia Sierra Tango Uniform Whiskey 
+			}
+			from_dynasty_prefix = " "
+			from_dynasty_suffix = ""
+			male_patronym = ""
+		}
+	}
+	
+goomba_group = {
 		graphical_cultures = { frankishgfx }
 		
-		color = { 0.05 0.05 0.05 }
-		male_names = {
-			Alfa Charlie_Charles Crocket Blues Bones Boomer Bravo Davy_David "Davy Crockett"_David Delta Golf Hotel Kilo Mike_Micheal Oscar Papa Quebec Romeo Tango Uniform Victor Xray Yankee Zulu
-		}
-		female_names = {
-			"Anne Laurie"_Anne Charlie_Charlotte Echo Foxtrot India Juliett Lima November Mia Sierra Tango Uniform Whiskey 
-		}
-		from_dynasty_prefix = " "
-		from_dynasty_suffix = ""
-		male_patronym = ""
+	
