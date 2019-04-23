@@ -1,0 +1,59 @@
+#JOJOS! Primarily based on the characters of Stardust Crusaders
+#9000 - XXXX
+
+9000 = {
+        name = Jonathan
+        dynasty = Joestar
+        religion = lucienist #Representing that a lot of JoJo fightscenes are just Out-Bull****ing the enemy. The fact it's a Baskite heresy also represents the fact JoJo's is the MANIME to end all MANI
+        culture = diamond_city
+        add_trait = species_men
+        historical = yes
+        1868.4.4 = {
+        birth = yes
+        add_trait = strong
+        1884.4.4 = {
+        add_trait = proud
+        add_trait = kind
+        add_trait = brave
+        
+
+9010 = {
+        name = Joseph
+        dynaty = Joestar
+        religion = lucienst 
+        culture = diamond_city
+        add_trait = species_men
+        historical = yes
+        1920.9.27 = {
+               birth = yes
+               add_trait = strong
+              }
+       1938.9.27 = { #Due to how far in the past this was, he's using his Stardust Crusaders personality after he's long mellowed out until further notice
+       add_trait = lustful
+       add_trait = just
+       add_trait = shrewd
+       add_trait = intricate_webweaver #Basically acts as the spy of Stardust Crusaders
+9020 = {
+        name = Jotaro
+        dynasty = Kujo
+        religion = lucienist
+        culture = waterlander
+        add_trait = species_men
+        historical = yes
+        1970.10.9 = { #Referring to the date Stardust Crusaders first released in Japan
+        birth = yes
+        add_trait = strong
+        add_trait = quick #when you look at a fight scene in Stardust Crusaders, you realize that Jotaro's a real crafty guy with quick thinkin'
+        }
+        
+        1985.9.13 = {
+        add_trait = brooding
+        add_trait = rowdy
+        add_trait = fussy #Most of the enemies in Stardust Crusaders are defeated by focusing on very small details
+        }
+        1986.10.9 = {
+        add_trait = proud
+        add_trait = wroth
+        add_trait = just
+        add_trait = shrewd
+        add_trait = skilled_tactition
