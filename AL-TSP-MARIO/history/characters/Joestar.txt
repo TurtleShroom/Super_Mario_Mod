@@ -3,7 +3,7 @@
 
 9000 = {
         name = Jonathan
-        dynasty = Joestar
+        dynasty = 9000
         religion = lucienist #Representing that a lot of JoJo fightscenes are just Out-Bull****ing the enemy. The fact it's a Baskite heresy also represents the fact JoJo's is the MANIME to end all MANI
         culture = diamond_city
         add_trait = species_men
@@ -19,7 +19,7 @@
 
 9010 = {
         name = Joseph
-        dynaty = Joestar
+        dynaty = 9000
         religion = lucienst 
         culture = diamond_city
         add_trait = species_men
@@ -35,7 +35,7 @@
        add_trait = intricate_webweaver #Basically acts as the spy of Stardust Crusaders
 9020 = {
         name = Jotaro
-        dynasty = Kujo
+        dynasty = 9001
         religion = lucienist
         culture = waterlander
         add_trait = species_men

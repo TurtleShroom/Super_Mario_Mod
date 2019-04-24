@@ -1,0 +1,7 @@
+9000 = {
+	name = "Joestar"
+	culture = "diamond_city_men"
+
+9001 = {
+	name = "Kujo"
+	culture = "waterlander"
