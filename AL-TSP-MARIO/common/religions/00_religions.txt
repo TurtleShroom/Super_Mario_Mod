@@ -1116,46 +1116,7 @@ outlaw = {
 		religious_clothing_priest = 7
 	}
 
-	witchcraft = {
-		graphical_culture = westerngfx
-		
-		icon = 5
-		heresy_icon = 5
 
-		color = { 153 0 0 }
-
-		crusade_name = DARK_HARVEST
-		scripture_name = THE_BOOK_OF_SPELLS
-		priest_title = MAGICIAN
-
-		high_god_name = DARK_MAGIC
-
-		god_names = {
-			EVIL_SPIRITS FUNGUS_POCUS THE_IMPURE_VOICE
-		}
-
-		evil_god_names = {
-			GOODY_TWO_SHOES THE_IGNORANT THE_FEARFUL THE_FOOLISH
-		}
-
-		character_modifier = {
-			diplomacy = -2
-			learning = 4
-		}
-
-		piety_name = FEAR
-
-		priests_can_marry = no
-		priests_can_inherit = no
-		can_hold_temples = no
-		female_temple_holders = no
-		feminist = yes
-		uses_jizya_tax = no
-
-		religious_clothing_head = 3
-		religious_clothing_priest = 3
-	}
-}
 
 personality_cult = {
 	has_coa_on_barony_only = yes
@@ -1199,6 +1160,10 @@ personality_cult = {
 			GOD_MARIO GOD_THE_MARIO_BROTHERS GOD_THE_STAR_SPIRITS CACKLETTA BOWLETTA
 		}
 		
+		character_modifier = {
+		ai_zeal = 10
+	}
+
 		piety_name = STRENGTH
 		priests_can_marry = yes
 		priests_can_inherit = no
@@ -1356,7 +1321,10 @@ lunatheology = {
 		}
 		
 		piety_name = LOVE
-		
+
+		character_modifier = {
+		ai_zeal = 10
+
 		intermarry = astrotheology
 		intermarry = dogmatic
 		
@@ -1738,6 +1706,7 @@ movie_religion_group = {
 		character_modifiers = {
 			ambition_opinion = -50
 			infidel_opinion = -1000
+			ai_zeal = 5000
 #			same_religion_opinion = 1050
 		}
 
@@ -1811,6 +1780,11 @@ prognosticus_faiths = {
 			PROPHET_MAN_IN_RED GOD_PIXL_QUEEN GOD_PURE_HEARTS PROPHET_FOUR_SAGES
 		}
 
+		character_modifier = {
+			ai_zeal = 5000
+			ai_ambition = 5
+			infidel_opinion = -20
+
 		piety_name = INNER_PEACE
 		intermarry = outlaw
 
@@ -1883,7 +1857,7 @@ prognosticus_faiths = {
 		allow_looting = no
 
 		aggression = 0.8
-		
+
 		allow_in_ruler_designer = no
 		raised_vassal_opinion_loss = yes
 
@@ -1938,5 +1912,156 @@ prognosticus_faiths = {
 
 		religious_clothing_head = 0
 		religious_clothing_priest = 0
+	}
+}
+
+supernatural_group = {
+	has_coa_on_barony_only = yes
+	graphical_culture = westerngfx
+	crusade_cb = crusade
+	playable = yes
+
+	ai_peaceful = no
+	ai_convert_same_group = 2 # always convert
+	ai_convert_other_group = 1 # convert when ai_zeal is high
+
+	# Names given only to Supernatural characters
+	male_names = {
+		Aleister Harry Merlin
+	}
+
+	female_names = {
+		Baba Beldam Morgan_Morgan Morgana_Morgan Hermione bony_Ebony Enoby_Ebony Eboby_Ebony Ebory_Ebony Enobby_Ebony Egogy_Ebony 
+	}
+
+	boolish = { #Boo and Generic Ghost Religion
+		graphical_culture = westerngfx
+		
+		color = { 240 248 255 }
+		
+		icon = x
+		heresy_icon = x
+		
+		crusade_name = HALLOWED_EVE
+		scripture_name = X
+		priest_title = X
+
+		high_god_name = KING_BOO
+
+		god_names = {
+			KING_BOO THE_BOSS EVIL_SPIRITS
+		}
+		
+		evil_god_names = {
+			THE_LIGHT THE_PURE_VOICE GOODY_TWO_SHOES
+
+		piety_name = FEAR
+		intermarry = outlaw
+		intermarry = personality_cult
+
+
+		character_modifier = {
+			diplomacy = -2
+			intrigue = 2
+			ai_honor = -20
+		}
+
+		priests_can_marry = yes
+		priests_can_inherit = no
+		can_hold_temples = no
+		female_temple_holders = yes
+		landed_kin_prestige_bonus = yes
+		dislike_tribal_organization = no
+
+		allow_looting = yes
+
+		allow_in_ruler_designer = yes
+		raised_vassal_opinion_loss = no
+
+		religious_clothing_head = 0
+		religious_clothing_priest = 0
+	}
+	
+	witchcraft = {
+		graphical_culture = westerngfx
+		
+		icon = 5
+		heresy_icon = 5
+
+		color = { 153 0 0 }
+
+		crusade_name = DARK_HARVEST
+		scripture_name = THE_BOOK_OF_SPELLS
+		priest_title = MAGICIAN
+
+		high_god_name = DARK_MAGIC
+
+		god_names = {
+			EVIL_SPIRITS FUNGUS_POCUS THE_IMPURE_VOICE
+		}
+
+		evil_god_names = {
+			GOODY_TWO_SHOES THE_IGNORANT THE_FEARFUL THE_FOOLISH
+		}
+
+		character_modifier = {
+			diplomacy = -2
+			ai_honor = -5
+			learning = 4
+		}
+
+		piety_name = FEAR
+
+		priests_can_marry = no
+		priests_can_inherit = no
+		can_hold_temples = no
+		female_temple_holders = yes
+		feminist = yes
+		uses_jizya_tax = no
+
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
+	}
+
+	shadow_queen = { #Self-explanatory, the faith revering the Shadow Queen
+		graphical_culture = westerngfx
+
+		icon = x
+		heresy_icon = x
+
+		colour = { 51 0 102 }
+
+		crusade_name = DARK_HARVEST
+		scripture_name = x
+		priest_title = x
+
+		high_god = SHADOW_QUEEN
+
+		god_names = {
+		SHADOW_SIRENS THE_IMPURE_VOICE
+	}
+		evil_god_names = {
+		THE_PURE_VOICE GOD_SEVEN_STARS GOD_ROSALINA
+	}
+		piety_name = FEAR
+
+		character_modifier = {
+		aggression = 30
+		ai_honor = -15
+		ai_zeal = 5000
+		infidel_opinion = -1000
+		}
+
+		priests_can_marry = no
+		priests_can_inherit = no
+		can_hold_temples = no
+		female_temple_holders = yes
+		feminist = yes
+		uses_jizya_tax = no
+		intermarry = witchcraft
+		intermarry = dark_prognosticus
+
+		religious_clothing_head = 3
+		religious_clothing_priest = 3	
 	}
 }

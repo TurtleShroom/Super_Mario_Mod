@@ -4,7 +4,7 @@
 8251 = {
 	name = "Harry" #Ficitional, only created so the Shadow Sirens would consider one another as sisters, named after Harry Houdini
 #	dynasty = x
-	religion = greed
+	religion = shadow_queen
 	culture = utility
 	add_trait = species_shadow_sister 
 	984.1.1 = {
@@ -21,7 +21,7 @@
 	name = "Beldam" #Beldam
 	female = yes
 #	dynasty = x
-	religion = greed
+	religion = shadow_queen
 	culture = utility
 	#dna = "00000000000"
 	#properties = "00000000000"
@@ -43,7 +43,7 @@
 	name = "Marilyn" #Marilyn
 	female = yes
 #	dynasty = x
-	religion = greed
+	religion = shadow_queen
 	culture = utility
 	#dna = "00000000000"
 	#properties = "00000000000"
@@ -66,7 +66,7 @@
 	name = "Vivian" #Vivian
 	female = yes
 #	dynasty = x
-	religion = greed
+	religion = shadow_queen
 	culture = utility
 	#dna = "00000000000"
 	#properties = "00000000000"

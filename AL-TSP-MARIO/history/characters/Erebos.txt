@@ -5,7 +5,7 @@
 	name = "Senka" #The Shadow Queen, I gave her the name "Senka" as it's a Serbo-Croatian name meaning "shadow"
 	female = yes
 #	dynasty = x
-	religion = dark_prognosticus # Placeholder, the Shadow Queen should assumably have her own psychotic/super-aggressive/genocidal religion
+	religion = shadow_queen
 	culture = utiliy
 	#dna = "00000000000"
 	#properties = "00000000000"
