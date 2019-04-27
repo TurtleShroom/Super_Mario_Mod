@@ -77,6 +77,8 @@ k_vibe_island;Vibe Islander;Vibe Islander;Vibe Islander;;Vibe Islander;;;;;;;;;x
 k_pillow_island;Pi'ilo Island;Pi'ilo Island;Pi'ilo Island;;Pi'ilo Island;;;;;;;;;x
 k_pillow_island_adj;Pi'ilo;Pi'ilo;Pi'ilo;;Pi'ilo;;;;;;;;;x
 k_north_sprixies;North Sprixie Island;North Sprixie Island;North Sprixie Islands;North Sprixie Island;;;;;;;;;x #World of Super Mariol 3D World, which is completely disconnected on the map from the other Worlds, which are close enough to be one kingdom
+k_horrorland;Horror Land;Horror Land;Horror Land;;Horror Land;;;;;;;;;x #The Boo-based Kingdom based around Luigi's Mansion
+k_horrorland_adj;Horrorlander;Horrorlander;Horrorlander;;Horrorlander;;;;;;;;;x
 #Titular
 k_warioland;Warioland;Warioland;Warioland;;Warioland;;;;;;;;;x #If the South Sprixie Islands aren't just flipped, this is the Titular Kingdom that Wario would theoretically start with
 k_warioland_adj;Wariolander;Wariolander;Wariolander;;Wariolander;;;;;;;;;x
