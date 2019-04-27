@@ -15,7 +15,7 @@ b_yoshi_lake = castle
 #b_yoshi_lake_7 = castle
 
 # Misc
-culture = pirate
-religion = seven_stars
+culture = yoshi
+religion = happiness
 
 #History

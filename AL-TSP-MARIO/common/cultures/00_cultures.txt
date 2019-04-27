@@ -1,4 +1,4 @@
-# Do not change tags in here without changing every other reference to them.
+﻿# Do not change tags in here without changing every other reference to them.
 # If adding new groups or cultures, make sure they are unique.
 
 scallywag = {
@@ -173,6 +173,30 @@ mushroom_kingdom_group = {
 		mat_grm_name_chance = 40
 		mother_name_chance = 5
 	}
+
+	down_under_lander = {
+		graphical_cultures = { englishgfx }
+
+		color = { 204 136 0 }
+		
+		male_names = {
+			Bruce Victoad_Victor Steve_Steven Irwin
+	}
+		female_names = {
+			Shazza Shiela
+	}
+		from_dynasty_suffix = "toad"
+		modifier = default_culture_modifier
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
 }
 
 dryite_group = {
