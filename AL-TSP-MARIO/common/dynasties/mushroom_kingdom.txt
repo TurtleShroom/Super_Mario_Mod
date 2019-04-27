@@ -163,3 +163,20 @@
 	name = "E"
 	culture = "mushroom_kingdom"
 }
+
+282 = {
+	used_for_random = no
+	name = "Joestar"
+	culture = "mushroom_kingdom"
+}
+
+283 = {
+	used_for_random = no
+	name = "Brando"
+	culture = "mushroom_kingdom"
+}
+
+284 = {
+	name = "Pendleton"
+	culture = "mushroom_kingdom"
+}

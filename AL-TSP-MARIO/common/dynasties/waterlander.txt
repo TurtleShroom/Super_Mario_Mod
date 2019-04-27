@@ -1,0 +1,11 @@
+3751 = {
+	used_for_random = no
+	name = "Kujo"
+	culture = "waterlander"
+}
+
+3752 = {
+	used_for_random = no
+	name = "Higashikata"
+	culture = "waterlander"
+}

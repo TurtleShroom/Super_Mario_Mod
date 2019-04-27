@@ -37,7 +37,7 @@
 #Moonstone (Ashley)
 #3001-3250
 
-#Iscariot (Victoad)
+#Iscariot (Victoad) *Easter egg
 #3251-3500
 
 #Thang (Jimmy T.)
@@ -76,8 +76,8 @@
 #Uca
 #6251-6500
 
-#Jadeite
-#6501-6750 (Joe)
+#Jadeite (Joe)
+#6501-6750 
 
 #Cricket
 #6751-7000 (Young Cricket)
@@ -88,7 +88,7 @@
 #Fordite
 #7251-7500 (Mike)
 
-#Oofoosoot (tsf4)
+#Oofoosoot (TSF4) *Easter egg
 #7501-7750
 
 #Asterionid (Bifun)
@@ -99,3 +99,12 @@
 
 #Siren (The Shadow Sirens)
 #8251-8500
+
+#Joestar *Easter egg
+#8500-8750
+
+#Brando *Easter egg
+#8750-9000
+
+#Tempus (Iusti) *Easter egg
+#9000-9250

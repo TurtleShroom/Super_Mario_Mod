@@ -102,8 +102,8 @@ mushroom_kingdom_group = {
 			#Non-canonical
 			Agaric
 			Bisporus
-			Hercules
 			Orion
+			Powehi
 			Victoad_Victor
 		}
 		female_names = {
@@ -157,7 +157,7 @@ mushroom_kingdom_group = {
 		}
 
 		female_names = {
-			Anne Amanda Ada April Amphyllis Abigail Alice Adell Amelia Antoinette Arabella Alma Agnes Agatha Barbara Brigit Blanche Bertha Belle Caroline Charlotte Christine Catharine Clementine Clara Constance Claudia Carrie Cora Dolley Dorothy Deborah Daisy Doris Edith Evangeline Elizabeth Esther Emily Emma Ernestine Ethel Flora Frances Florence Gladys Gloria Grace Gertrude Heather Hannah Hermina Harriet Helen Hortense Hope Ida Isabella Joan Jane Julia Josephine Laura Lucy Lydia Lillie Lena Michelle Mary Marta Muriel Mildred Margaret Mercy Mathilda Marion Madeline Marilla Mabel Nancy Noami Nell Olympia Prudence Patricia Pauline Patience Pamela Phoebe Paula Rachel Rebecca Rhoda Rosalie Ruth Rosa Scarlett Sarah Sally Sylvia Susanna Sybil Susa Sophia Tabitha Theodora Victoria Virginia Verina Valeria Winifred Zerelda
+			Anne Amanda Ada April Amphyllis Abigail Alice Adell Amelia Antoinette Arabella Alma Agnes Agatha Barbara Brigit Blanche Bertha Belle Caroline Charlotte Christine Catharine Clementine Clara Constance Claudia Carrie Cora Dolley Dorothy Deborah Daisy Doris Edith Evangeline Elizabeth Esther Emily Emma Ernestine Ethel Flora Frances Florence Gladys Gloria Grace Gertrude Heather Hannah Hermina Harriet Helen Hortense Hope Ida Isabella Joan Jane Julia Josephine Laura Lucy Lydia Lillie Lena Michelle Mary Marta Muriel Mildred Margaret Mercy Mathilda Marion Madeline Marilla Mabel Nancy Noami Nell Olympia Prudence Patricia Pauline Patience Pamela Phoebe Paula Rachel_Rachel Rebecca Rhoda Rosalie Ruth Rosa Scarlett Sarah Sally Sylvia Susanna Sybil Susa Sophia Tabitha Theodora Victoria Virginia Verina Valeria Winifred Zerelda
 		}
 
 		from_dynasty_suffix = "toad"
@@ -353,40 +353,6 @@ yoshi = {
 		mother_name_chance = 10
 	}
 
-lavalava = {
-		graphical_cultures = { frankishgfx }
-		
-		color = { 0.06 0.53 0 }
-		male_names = {
-			#Canonical
-			Black Blue Boshi_Washi Brown Green "Light Blue" Magenta Orange Pink_Pink Purple Red Washi_Washi White Yellow Yoob "Yo'ster" Yoshi_Yoshi Yoshisaur Yoshmeister Yoster
-			
-			#Non-canonical
-			Barney "Burnt Orange" Chartruese Glory Grey_Gray Gray_Gray Hideki Katsuya Koji Shigeru Takashi "Yellow-Orange" Yosh Yoshmeister
-		}
-		female_names = {
-			#Canonical
-			Black Blue Brown Green "Light Blue" Magenta Orange Pink_Pink Purple Red "Red Essence" White Yellow Yoshi_Yoshi Yoshisaur
-
-			#Non-canonical
-			Essence Gloria Pinky_Pink Joy Teal "Yellow-Orange"
-		}
-		from_dynasty_suffix = "shi"
-		grammar_transform = french
-		founder_named_dynasties = yes
-		modifier = default_culture_modifier
-		dukes_called_kings = yes
-		
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 60
-		mat_grf_name_chance = 10
-		father_name_chance = 10
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 10
-		mat_grm_name_chance = 60
-		mother_name_chance = 10
-	}
 }
 
 beanish_group = {
@@ -617,7 +583,7 @@ delfino_group = {
 			Marianu_Marius Masceddelu_Mascezel Masguinu Massuna_Masuna Mauru_Maurus Maxsimu Maxsimilla_Maximilian Mazeu_Matthew Mazighu_Mazigh Merkuriu_Mercurius Metaxsu_Metaxas Micheli_Michael Migali Mugedi
 			Murtina_Martin Nicola_Nicholas Nubelu_Nubel Pascale_Pascal Paulu_Paul Peregrinu_Peregrinus Petru_Peter Pirillu Pontzi Porcellu Pompeju Possidzi Pretu Pupa Rafiele_Raphael Salomon_Solomon
 			Salvettor_Salvator Samaritanu Samueli_Samuel Sarafinu_Seraph Saraginu Saturnu_Saturnus Sauina Serafinu_Seraph Sergiu Sigeriku_Sigeric Simion_Simon Sisinni Stefanu_Stephen Stembanu_Stembanos	
-			Teoderigu_Theodoric Teodore_Theodore Teofanu_Theophanus Terentzi_Terence Tobias Tulemeju_Ptolemaios Tomas_Thomas Tomassu_Thomas Trasamundu_Thrasamund Urieke Urse_Ursus Vivianu
+			Teoderigu_Theodoric Teodore_Theodore Teofanu_Theophanus Terentzi_Terence Tobias_Tobias Tulemeju_Ptolemaios Tomas_Thomas Tomassu_Thomas Trasamundu_Thrasamund Urieke Urse_Ursus Vivianu
 			Vocciu_Boccius Vonifatziu_Bonifacius Vonnannaro_Bonnannaro Jacovu_Jacob Jagu_James Jaroah_Yaroah Jirominu_Jerome Joannei_John Johannei_John Josefu_Joseph Juba_Yuba
 			Julianu_Julian Juliu_Julius Justinu_Justin Justu_Justus
        	}
@@ -762,7 +728,7 @@ delfino_group = {
 			Paccia Paetina Papianilla Papiria Patricia Paula_Paula Paulina_Pauline Phila Phile Placidia Plancina Plautia Plautilla Plotina Pompeia Popillia Poppaea Porcia Prima Prisca Proba Prudentia Petiliana Ptolema Pulcheria Pulchra 
 			Quarta Quinta 
 			Regina Renata Romana Rosalia
-			Sabina Sallustia Salonina Salvatrix Scantilla Secunda Seia Sempronia Septa Septima Seraphina Serena Servilia Severa Sabinia Sidonia Salonia Severina Silvia_Sylvia Sofia Sostrate Statilia Stratonice Sulpicia Supera Sybilla 
+			Sabina Sallustia Salonina Salvatrix Scantilla Secunda Seia Sempronia Septa Septima Seraphina Serena Servilia Severa Sabinia Sidonia Salonia Severina Silvia_Sylvia Sofia Sostrate Sperantia_Sperantia Statilia Stratonice Sulpicia Supera Sybilla 
 			Tatiana_Tatiana Terentia Tertia Tertulla Thais Theodora Theophila Thermantia Thetima Timo Titiana Tranquillina Tullia Turia 
 			Ulpia Undecima Urbica Urgulania Urgulanilla Urgunalla Ursa Ursula_Ursula 
 			Valeria Vesta Verina Verena Veronica_Veronica Violentilla Vibia Vigilantia Vipsania Vistilia Virginia_Virginia Victoria_Victoria Victorina Viviana_Vivian
@@ -1017,7 +983,7 @@ canonical_human_group = {
 
 			# Italian filler
 			Abelina Adalberta Adalgisa Adelaida_Adelaide Adelasia Adelia_Adela Adriana_Adriana Agalina Agnese_Agnes Agostina Albina Alda Alessandra Alfonsina Alisia_Alice Aloisia Amalia_Amelia Ambrosia Anastasia_Anastasia Anna_Anna Antonella Antonia Argentina Augusta Aurelia_Aurelia Ausilia Ausonia Beatrice_Beatrice Benedetta_Benedicta Benilde Berenice Berta Bianca_Blanche Bona_Bonne Brunilde_Brunhilda Camilla Candida Caracosa Carla Carola Caterina_Catherine Cecilia_Cecilia Clara_Clara Claudia Clorinda Clotilde_Clotilde Constanza_Constance Cornelia Delinda Dora Edda Elena_Helen Eleonora_Eleanor Elisa_Elizabeth Elisabetta_Elizabeth Ermenegilda Eudossia Eugenia Fausta Felicia_Felicia Felicita Filippa_Philippa Filomena Flavia Flora_Flora Fortunata Fosca Francesca_Francesca Froizza Giacinta_Hyacintha Ginevra Giovanna_Joan Giuditta Giulia_Julia Giuseppa Ippolita Isabella_Elizabeth Joscella Laura_Laura Lavinia Leonide Letizia Lidia Livia Lodovica Lucia_Lucia Lucinetta Lucrezia Maddalena_Magdalena Marcella Margherita_Margaret Maria_Maria Mariana Marietta Martina Matilda_Matilda Micaela Nunzia Paola_Paula Patrizia_Patricia Renata Ricciarda_Ricarda Silvana Sofia_Sophia Stefania_Stephania Tiziana Tomasina Valentina Violante_Yolanda Virginia			
-	}
+		}
 
 		parent = mushroom_kingdom
 
@@ -1136,29 +1102,24 @@ canonical_human_group = {
 			Waelram_Walram Walter_Walter Wicher Willem_William Wolfard
 			
 			#Yiddish names
-			Abba Adam_Adam Aharon_Aaron Akiva Aleksander_Alexander Alter Amram Andy_Andrew Anton_Anthony Ariel Asher Avomai Avraham_Abraham
-			Baruch_Benedict Benesh_Benedict Ber Ben-Tzion Bill_William Binyamin_Benjamin Bunem
-			Calev Chananel Chaninai Chanoch Chatzkel Chayim Chelbo Chisdai Chiyya Chizkiyah Chofni Chushiel
-			Dan_Daniel Daniel_Daniel David_David Dodai
-			Efrayim Ehud Eina Elchanan Eldad Eli Eliezer Eliyahu_Elijah Elyakim Ethan
-			Faivish Feivel Fishel Fishke Frederik_Frederick
-			Gavriel_Gabriel Gad Gedalyah Gershom Gideon_Gideon Gilead
-			Harold Henry_Henry Hersh Hershel Hillel
-			Ivomai Israel Issac_Isaac Issur Immanuel_Immanuel
-			Kafnai Kahana Kalmen Khlavne Koppel_Jacob
-			James_James Jason Jonah Josh_Joshua Joseph_Joseph Jonathan_Jonathan
-			Lazar Leonard_Leonard Levi
-			Maximilian Maxwell Machir Malcha Matiyahu Meir Mendel Menechem Menashe Mesharsheya Meshulam Mevasser Michael_Michael Mordechai Motel Moshe_Moses
-			Naftali Natan_Nathan Natroi Natronai Nechemiah Nehilai Netanel Nissim Noah
-			Otto_Otto
-			Paltoi Pirkoi
-			Ram Rav Ravi Reuven
-			Saul_Paul Sam_Samuel Selig Scott Sechok Sender_Alexander Seth Shalom Shanoi Shemaryah Sherira Sheshna Shila Shimon_Simon Shlomo Shmuel_Samuel Steven_Stephen
-			Tamar Tevye Todres_Theodore Tzadok Tzemach
-			Uri Uzziyahu
+			Alter Anshel_Anselm Avrum_Abraham 
+			Benesh_Benedict Ber_Dov
+			Chatzkel_Ezekiel
+			Dovid_David Dudel_David
+			Evron_Ephraim
+			Faivish_Phoebus Fayvel_Feivel Feibush_Samson Feivel_Samson Fishel_Fishel Fishke_Fishel
+			Gavrel_Gabriel
+			Haskel_Ezekiel Herschel_Hirsh Hersh_Hirsh Hershel_Hirsh Heshel_Hirsh Hirsh_Hirsh Hirshel_Hirsh Hyman_Hyam Hymie_Hyam
+			Iser_Israel Issur_Israel
+			Kapel_Jacob Koppel_Jacob
+			Lazer_Eliezer Lieber
+			Mendel_Menahem Moishe_Moses Motel_Mordecai Motke_Mordecai
+			Nosson_Nathan
+			Selig_Selig Sender_Alexander Shimmel_Simon Sroel_Israel 
+			Tevye_Tobias
 			Velvel_William
-			Yaakov_Jacob Yachya Yechiel Yehudah_Judah Yeshua_Joshua Yeshayahu Yissachar Yitzchak Yochanan_John Yonatan_Jonathan Yoel Yosef_Joseph
-			Zachary_Zachary Zevulun Zlate Zusman
+			Yankel_Jacob Yidel_Judah Yudel_Judah Yussel_Joseph
+			Zalman_Solomon Zelig_Selig Zusman
 			
 			#Irish filler
 			Aaron_Aaron Abbán Abner_Abner Abél_Abel Adomnán Áed_Hugh Áedgen_Aidan Áeducán_Aodhagan Áedán_Aidan Áengus_Angus Affiath Ailbe Ailbrend Ailbrenn Ailchú Aildobur Ailgel Áilgenán Ailgus Ailill Ailpín_Alwin Ainbchellach Áindle Ainftech_Enfidaig Ainmere Airechtach Airfhindán Airfhinnán Airleid Airmedach Amalgaid Amlaíb_Olaf Anfudán Anlón Anmchaid Ánrothán Ardgal Ardgar Art_Arthur Artbran Artgal Artgus Artucán Artúr_Arthur Assiucc Augaire Augustín_Augustine Aurthuile 
@@ -1260,27 +1221,23 @@ canonical_human_group = {
 			Zoete
 			
 			#Yiddish filler
-			Adina Alte Alisa_Alice Ariela Avigayil Ashley
-			Batsheva Baila Batzion Baylah Belet Beth Beylke Bilhah Bluma Breindel Bridget Bielke
-			Chana Chava Catherine Carmen Charna Courtney
-			Dalia Daniela Doltza Dorothy_Dorothea Doris Debra Devorah Dinah
-			Eidel Elisheva_Elizabeth Elizabeth_Elizabth Emma Erin Esther
-			Faigel Feige Fran Freyde Fruma
-			Gavriela_Gabriela Gittel Golda Gladys Gluke Glukel Guta Guthela
-			Hagit Hannah_Anna Henye_Anna Hila Hodel Hudes
-			Isabel_Isabel Ingrid
-			Jessica_Jessica Jennifer Julia_Julia
-			Kaila Karen Kreindel Kreine
-			Laura Lauren Leah Leeba Lisa_Elizabeth
-			Mary_Mary Matrona Michal Michelle Milcah Minna Mirele_Mary Miriam_Mary
-			Naomi Natalie Nikki Noa
-			Perle Puah Pultzelina
-			Rachel Raisa Rebecca_Rebecca Reina Rivkah_Rebecca Ruth
-			Sara_Sarah Scolaster Scarlett Shayna Sheine Shifrah Shonlin Shluida Shoshana_Susan Shprintza Sisel Sophia_Sofia
-			Tziporah Tzieitel
+			Alte
+			Baila_Baila Beylke_Baila Bluma Breindel
+			Charna
+			Eidel
+			Faiga_Faigel Faigel_Faigel Feige_Faigel Freyde Fruma
+			Gittel Gluke_Gluke Glukel_Gluke Golda_Golda Goldie_Golda
+			Hena_Anna Henda_Anna Hendel_Anna Hene_Anna Henye_Anna Hode_Hadassah Hodel_Hadassah Hudes_Judith
+			Kreindel_Kreine Kreine_Kreine
+			Leeba_Liba Liba_Liba
+			Mirele_Mary
+			Perele_Pearl Perle_Pearl
+			Raisa_Raisa Raisel_Raisa Rayna_Catherine Reina_Catherine Rifka_Rebecca Ruchel_Rachel
+			Shaina_Shayna Shaindel_Shayna Shayna_Shayna Shaynah_Shayna Sheine_Shayna Shprintza_Sperantia Shprintze_Sperantia Shprintzel_Sperantia Sisel_Cecilia Suri_Sarah
+			Toiba Tzeitel_Sarah
 			Velvela
-			Yehudit Yente Yentl
-			Zelda Zilpa Zisel Zoe Zusa
+			Yente Yentl Yutke_Judith
+			Zelda_Zelda Zelde_Zelda Zisel_Cecilia Zusa
 			
 			#Irish filler
 			Ablach Áedammair Affraic_Aifric Aíbinn Aibilín_Eva Aileann Áine_Agnes Anlaith Aróc 
@@ -1322,14 +1279,14 @@ canonical_human_group = {
 			Dribble_Dribble Eighteen_Eighteen Five_Five Jimmy_James:150 Joe_Joseph:150 Mike_Micheal Nine_Nine Spitz_Spitz Wario
 
 			# Made-up filler
-			Anne Amanda Ada April Amphyllis Abigail Alice Adell Amelia Antoinette Arabella Alma Agnes Agatha Barbara Brigit Blanche Bertha Belle Caroline Charlotte Christine Catharine Clementine Clara Constance Claudia Carrie Cora Dolley Dorothy Deborah Daisy Doris Edith Evangeline Elizabeth Esther Emily Emma Ernestine Ethel Flora Frances Florence Gladys Gloria Grace Gertrude Heather Hannah Hermina Harriet Helen Hortense Hope Ida Isabella Joan Jane Julia Josephine Laura Lucy Lydia Lillie Lena Michelle Mary Marta Muriel Mildred Margaret Mercy Mathilda Marion Madeline Marilla Mabel Nancy Noami Nell Olympia Prudence Patricia Pauline Patience Pamela Phoebe Paula Rachel Rebecca Rhoda Rosalie Ruth Rosa Scarlett Sarah Sally Sylvia Susanna Sybil Susa Sophia Tabitha Theodora Victoria Virginia Verina Valeria Winifred Yasutada Yasutomo Yasutoshi Yasuyoshi Yasuzane Yoriaki Yorichika Yorifusa Yoriharu Yorihira Yorihisa Yorikatsu Yorimori Yorioki Yorishige Yoritada Yoritaka Yoritake Yoritoki Yoritsugu Yoritsuna Yoriuji Yoriyasu Yoshiaki Yoshiakira Yoshiari Yoshiatsu Yoshichika Yoshifuyu Yoshiharu Yoshihi Yoshihide Yoshihira Yoshihiro Yoshihisa Yoshihito Yoshikado Yoshikage Yoshikane Yoshikata Yoshikatsu Yoshikiyo Yukihiro Yukimasa Yukimori Yukimura Yukinaga Yukishige
+			Anne Amanda Ada April Amphyllis Abigail Alice Adell Amelia Antoinette Arabella Alma Agnes Agatha Barbara Brigit Blanche Bertha Belle Caroline Charlotte Christine Catharine Clementine Clara Constance Claudia Carrie Cora Dolley Dorothy Deborah Daisy Doris Edith Evangeline Elizabeth Esther Emily Emma Ernestine Ethel Flora Frances Florence Gladys Gloria Grace Gertrude Heather Hannah Hermina Harriet Helen Hortense Hope Ida Isabella Joan Jane Julia Josephine Laura Lucy Lydia Lillie Lena Michelle Mary Marta Muriel Mildred Margaret Mercy Mathilda Marion Madeline Marilla Mabel Nancy Noami Nell Olympia Prudence Patricia Pauline Patience Pamela Phoebe Paula Rachel_Rachel Rebecca Rhoda Rosalie Ruth Rosa Scarlett Sarah Sally Sylvia Susanna Sybil Susa Sophia Tabitha Theodora Victoria Virginia Verina Valeria Winifred Yasutada Yasutomo Yasutoshi Yasuyoshi Yasuzane Yoriaki Yorichika Yorifusa Yoriharu Yorihira Yorihisa Yorikatsu Yorimori Yorioki Yorishige Yoritada Yoritaka Yoritake Yoritoki Yoritsugu Yoritsuna Yoriuji Yoriyasu Yoshiaki Yoshiakira Yoshiari Yoshiatsu Yoshichika Yoshifuyu Yoshiharu Yoshihi Yoshihide Yoshihira Yoshihiro Yoshihisa Yoshihito Yoshikado Yoshikage Yoshikane Yoshikata Yoshikatsu Yoshikiyo Yukihiro Yukimasa Yukimori Yukimura Yukinaga Yukishige
 		}
 		female_names = {
 			# Canonical
 			Ana_Ana:150 Ashley_Ashley:175 Kat_Kat:150 Lulu_Lulu:150 Mona_Monica:200 Penny_Penelope:150
 
 			# Made-up filler
-			Acha Achacha Ago Agogo Ai Aiyasha Akaka Akashi Aki Ako Akoko Ame Amu Asa Asahi Ate Aya Ayamachi Ayaya Azechi Chacha Chago Chau Chibo Chii Etsu Chima Chise Chiyo Cho Chobo Ei Fuku Fuji Fumi Furi Fusa Fuyo Fuyu Gin Go Gomoji Gou Hagi Haku Hana Haru Hatsu Hatsune Hide Hiko Hina Hiro Hisa Hochi Hoju Hou Ia Icha Ichako Ichi Ichiba Ima Imaaki Ina Inaka Ine Ino Inu Iemon Ietoki Iori Ira Iro Iroha Ishi Ishika Ito Itoito Itoko Iwa Iya Iyo Kaga Kai Kaji Kaka Kama Kame Kane Kasuga Katsu Kaze Kazusa Kesa Kichi Kichou Kii Kiku Kimi Kin Kinu Kisa Kita Kitsuno Kiyo Kocha Kochiyo Kochou Kofuku Kogou Koi Koishi Koito Koko Koma Komatsu Kon Koto Kou Kowa Koya Koyaya Kubo Kuma Kuni Kurikaka Kyaku Maa Machi Maki Man Mari Masa Masako Mayo Mate Matsu Matsuno Mego Meshi Minoru Minato Mitsu Miya Mono Miwa Moto Muku Mume Mumetsu Naa Nabe Naka Nami Natsu Natsumi Naya Nene Nii Nishi Nue Oku Olympia Prudence Patricia Pauline Patience Pamela Phoebe Paula Rachel Rebecca Rhoda Rosalie Ruth Rosa Scarlett Sarah Sally Sylvia Susanna Sybil Susa Sophia Tabitha Theodora Uba Ume Uta Wakana Waki Victoria Virginia Verina Valeria Winifred Yaya Yayacha Yome Yone Yachi Yasha Yashayo Yasu Yui Yuki Yuku Yume Yumi Zen Zerelda
+			Acha Achacha Ago Agogo Ai Aiyasha Akaka Akashi Aki Ako Akoko Ame Amu Asa Asahi Ate Aya Ayamachi Ayaya Azechi Chacha Chago Chau Chibo Chii Etsu Chima Chise Chiyo Cho Chobo Ei Fuku Fuji Fumi Furi Fusa Fuyo Fuyu Gin Go Gomoji Gou Hagi Haku Hana Haru Hatsu Hatsune Hide Hiko Hina Hiro Hisa Hochi Hoju Hou Ia Icha Ichako Ichi Ichiba Ima Imaaki Ina Inaka Ine Ino Inu Iemon Ietoki Iori Ira Iro Iroha Ishi Ishika Ito Itoito Itoko Iwa Iya Iyo Kaga Kai Kaji Kaka Kama Kame Kane Kasuga Katsu Kaze Kazusa Kesa Kichi Kichou Kii Kiku Kimi Kin Kinu Kisa Kita Kitsuno Kiyo Kocha Kochiyo Kochou Kofuku Kogou Koi Koishi Koito Koko Koma Komatsu Kon Koto Kou Kowa Koya Koyaya Kubo Kuma Kuni Kurikaka Kyaku Maa Machi Maki Man Mari Masa Masako Mayo Mate Matsu Matsuno Mego Meshi Minoru Minato Mitsu Miya Mono Miwa Moto Muku Mume Mumetsu Naa Nabe Naka Nami Natsu Natsumi Naya Nene Nii Nishi Nue Oku Olympia Prudence Patricia Pauline Patience Pamela Phoebe Paula Rachel_Rachel Rebecca Rhoda Rosalie Ruth Rosa Scarlett Sarah Sally Sylvia Susanna Sybil Susa Sophia Tabitha Theodora Uba Ume Uta Wakana Waki Victoria Virginia Verina Valeria Winifred Yaya Yayacha Yome Yone Yachi Yasha Yashayo Yasu Yui Yuki Yuku Yume Yumi Zen Zerelda
 		}
 		
 		prefix = no
@@ -1632,7 +1589,7 @@ japanese_group = {
 
 movie_group = {
 	movie_culture = { # Invaders from the "Super Mario Brothers Movie", the Dinohattanites
-		graphical_cultures = { englishgfx italiangfx chinesegfx mongolgfx westerngfx }
+		graphical_culture = { englishgfx italiangfx chinesegfx mongolgfx westerngfx }
 		color = { 99 60 33 }
 
 		male_names = {
@@ -1654,7 +1611,7 @@ movie_group = {
 			Terry:150 Annabel:150 Roxette:150 Samantha:150 Fiona:150 Dana:150 Francess:150 Sylvia:150 Desirée_Diseree:175 Melanie:150 Mona_Monica:150
 
 			# Filler
-			Anne Amanda Ada April Amphyllis Abigail Alice Adell Amelia Antoinette Arabella Alma Agnes Agatha Barbara Brigit Blanche Bertha Belle Caroline Charlotte Christine Catharine Clementine Clara Constance Claudia Carrie Cora Dolley Dorothy Deborah Doris Edith Evangeline Elizabeth Esther Emily Emma Ernestine Ethel Flora Frances Florence Gladys Gloria Grace Gertrude Heather Hannah Hermina Harriet Helen Hortense Hope Ida Isabella Joan Jane Julia Josephine Laura Lucy Lydia Lillie Lena Michelle Mary Marta Muriel Mildred Margaret Mercy Mathilda Marion Madeline Marilla Mabel Nancy Noami Nell Olympia Prudence Patricia Pauline Patience Pamela Phoebe Paula Rachel Rebecca Rhoda Rosalie Ruth Rosa Scarlett Sarah Sally Sylvia Susanna Sybil Susa Sophia Tabitha Theodora Victoria Virginia Verina Valeria Winifred Zerelda
+			Anne Amanda Ada April Amphyllis Abigail Alice Adell Amelia Antoinette Arabella Alma Agnes Agatha Barbara Brigit Blanche Bertha Belle Caroline Charlotte Christine Catharine Clementine Clara Constance Claudia Carrie Cora Dolley Dorothy Deborah Doris Edith Evangeline Elizabeth Esther Emily Emma Ernestine Ethel Flora Frances Florence Gladys Gloria Grace Gertrude Heather Hannah Hermina Harriet Helen Hortense Hope Ida Isabella Joan Jane Julia Josephine Laura Lucy Lydia Lillie Lena Michelle Mary Marta Muriel Mildred Margaret Mercy Mathilda Marion Madeline Marilla Mabel Nancy Noami Nell Olympia Prudence Patricia Pauline Patience Pamela Phoebe Paula Rachel_Rachel Rebecca Rhoda Rosalie Ruth Rosa Scarlett Sarah Sally Sylvia Susanna Sybil Susa Sophia Tabitha Theodora Victoria Virginia Verina Valeria Winifred Zerelda
 		}
 
 		horde = yes

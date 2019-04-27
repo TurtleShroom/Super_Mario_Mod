@@ -277,3 +277,15 @@
 	name = "Sirena"
 	culture = "delfino"
 }
+
+1556 = {
+	used_for_random = no
+	name = "Giovanna"
+	culture = "delfino"
+}
+
+1557 = {
+	used_for_random = no
+	name = "Versus"
+	culture = "delfino"
+}

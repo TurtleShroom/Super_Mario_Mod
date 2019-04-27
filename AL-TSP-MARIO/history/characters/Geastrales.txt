@@ -70,6 +70,7 @@
 		add_trait = erudite
 		add_trait = immortal
 		add_trait = cannot_marry
+		immortal_age = 16 #This makes her actually appear young
 	}
 	2007.11.1 = {
 		effect = { add_friend = 256 } #Mario Mario

@@ -94,36 +94,25 @@
 	culture = "jellyfish_islands"
 }
 
-3268 = {
-	used_for_random = no
-	name = "Tempus"
-	culture = "jellyfish_islands"
-}
-
-
 3269 = {
 	name = "de Jalapeno Beach"
 	culture = "jellyfish_islands"
 }
-
 
 3270 = {
 	name = "de Cayenne Cove"
 	culture = "jellyfish_islands"
 }
 
-
 3271 = {
 	name = "de Banana Bay"
 	culture = "jellyfish_islands"
 }
 
-
 3272 = {
 	name = "de Serrano Sound"
 	culture = "jellyfish_islands"
 }
-
 
 3273 = {
 	name = "de Bell Highlands"
