@@ -352,7 +352,40 @@ yoshi = {
 		mat_grm_name_chance = 60
 		mother_name_chance = 10
 	}
+	lavalava = {
+		graphical_cultures = { frankishgfx }
 
+		color = { 0.06 0.53 0 }
+		male_names = {
+			#Canonical
+			Black Blue Boshi_Washi Brown Green "Light Blue" Magenta Orange Pink_Pink Purple Red Washi_Washi White Yellow Yoob "Yo'ster" Yoshi_Yoshi Yoshisaur Yoshmeister Yoster
+
+			#Non-canonical
+			Barney "Burnt Orange" Chartruese Glory Grey_Gray Gray_Gray Hideki Katsuya Koji Shigeru Takashi "Yellow-Orange" Yosh Yoshmeister
+		}
+		female_names = {
+			#Canonical
+			Black Blue Brown Green "Light Blue" Magenta Orange Pink_Pink Purple Red "Red Essence" White Yellow Yoshi_Yoshi Yoshisaur
+
+			#Non-canonical
+			Essence Gloria Pinky_Pink Joy Teal "Yellow-Orange"
+		}
+		from_dynasty_suffix = "shi"
+		grammar_transform = french
+		founder_named_dynasties = yes
+		modifier = default_culture_modifier
+		dukes_called_kings = yes
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+	}
 }
 
 beanish_group = {
@@ -1589,7 +1622,7 @@ japanese_group = {
 
 movie_group = {
 	movie_culture = { # Invaders from the "Super Mario Brothers Movie", the Dinohattanites
-		graphical_culture = { englishgfx italiangfx chinesegfx mongolgfx westerngfx }
+		graphical_cultures = { englishgfx italiangfx chinesegfx mongolgfx westerngfx }
 		color = { 99 60 33 }
 
 		male_names = {
