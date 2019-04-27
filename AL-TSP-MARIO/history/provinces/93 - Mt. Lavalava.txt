@@ -17,5 +17,4 @@ b_mt_lavalava = castle
 # Misc
 culture = lavalava
 religion = happiness
-terrain = mountain
 #History

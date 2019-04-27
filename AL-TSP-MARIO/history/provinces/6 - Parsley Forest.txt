@@ -17,6 +17,5 @@ b_parsley_forest = castle
 # Misc
 culture = pirate
 religion = greed
-terrain = forest
 
 #History

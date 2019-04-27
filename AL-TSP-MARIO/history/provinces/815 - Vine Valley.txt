@@ -17,6 +17,5 @@ b_vine_valley = castle
 # Misc
 culture = kongobongo
 religion = kong_religion
-terrain = jungle
 
 #History

@@ -17,6 +17,5 @@ b_dark_forest = castle
 # Misc
 culture = yoshi_island
 religion = happiness
-terrain = forest
 
 #History

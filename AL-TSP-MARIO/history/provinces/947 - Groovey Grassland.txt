@@ -17,5 +17,4 @@ b_groovey_grassland = castle
 # Misc
 culture = kongobongo
 religion = kong_religion
-terrain = plains
 #History

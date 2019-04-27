@@ -17,6 +17,5 @@ b_kong_village = castle
 # Misc
 culture = kongobongo
 religion = kong_religion
-terrain = jungle
 
 #History

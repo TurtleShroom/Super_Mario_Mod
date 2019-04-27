@@ -17,5 +17,4 @@ b_north_jade_jungle = castle
 # Misc
 culture = lavalava
 religion = happiness
-terrain = jungle
 #History

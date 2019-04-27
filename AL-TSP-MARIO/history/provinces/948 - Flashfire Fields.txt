@@ -17,5 +17,4 @@ b_flashfire_fields = castle
 # Misc
 culture = kongobongo
 religion = kong_religion
-terrain = plains
 #History

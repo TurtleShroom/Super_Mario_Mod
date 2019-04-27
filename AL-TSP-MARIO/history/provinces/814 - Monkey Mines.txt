@@ -17,6 +17,5 @@ b_monkey_mines = castle
 # Misc
 culture = kongobongo
 religion = kong_religion
-terrain = mountain
 
 #History

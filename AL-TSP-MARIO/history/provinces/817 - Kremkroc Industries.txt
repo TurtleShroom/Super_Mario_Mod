@@ -17,7 +17,6 @@ b_kremkroc_industries = castle
 # Misc
 culture = kremling
 religion = kremling_religion
-terrain = mountain
 
 #History
 

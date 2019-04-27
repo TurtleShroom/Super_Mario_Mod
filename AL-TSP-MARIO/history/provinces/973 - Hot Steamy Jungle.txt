@@ -17,5 +17,4 @@ b_hot_steamy_jungle = castle
 # Misc
 culture = yoshi_island
 religion = happiness
-terrain = jungle
 #History

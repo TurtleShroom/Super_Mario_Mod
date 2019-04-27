@@ -17,5 +17,4 @@ b_gorilla_glacier = castle
 # Misc
 culture = kongobongo
 religion = kong_religion
-terrain = arctic
 #History

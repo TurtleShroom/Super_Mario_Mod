@@ -17,5 +17,4 @@ b_autumn_heights = castle
 # Misc
 culture = kongobongo
 religion = kong_religion
-terrain = mountain
 #History

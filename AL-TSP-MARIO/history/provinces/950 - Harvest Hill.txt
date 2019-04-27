@@ -17,5 +17,4 @@ b_harvest_hill = castle
 # Misc
 culture = kongobongo
 religion = kong_religion
-terrain = hills
 #History

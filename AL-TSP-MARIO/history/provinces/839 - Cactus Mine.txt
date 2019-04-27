@@ -17,5 +17,4 @@ b_cactus_mine = castle
 # Misc
 culture = kongobongo
 religion = kong_religion
-terrain = mountain
 #History

@@ -17,5 +17,4 @@ b_fruit_forest = castle
 # Misc
 culture = kongobongo
 religion = kong_religion
-terrain = forest
 #History

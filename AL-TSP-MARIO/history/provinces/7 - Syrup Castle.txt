@@ -17,6 +17,5 @@ b_syrup_castle = castle
 # Misc
 culture = pirate
 religion = piracy
-terrain = mountain
 
 #History

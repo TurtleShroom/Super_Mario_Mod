@@ -17,5 +17,4 @@ b_juicy_jungle = castle
 # Misc
 culture = kongobongo
 religion = kong_religion
-terrain = jungle
 #History

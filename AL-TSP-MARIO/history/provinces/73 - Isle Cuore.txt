@@ -21,5 +21,5 @@ religion = koopa_pagan
 #History
 
 1988.10.23 = { #The events of SMB3 takes place, and Bowser would probably be a lot more world-renowned and not just a one-off conqueror.
-	religion = bowser_ethics
+	religion = bowser_religion
 }

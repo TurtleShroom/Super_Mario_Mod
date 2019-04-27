@@ -17,5 +17,4 @@ b_snowy_hill = castle
 # Misc
 culture = yoshi_island
 religion = happiness
-terrain = hills
 #History
