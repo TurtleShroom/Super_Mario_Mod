@@ -15,7 +15,7 @@ b_snowy_hill = castle
 #b_snowy_hill_7 = castle
 
 # Misc
-culture = pirate
-religion = seven_stars
-
+culture = yoshi_island
+religion = happiness
+terrain = hills
 #History

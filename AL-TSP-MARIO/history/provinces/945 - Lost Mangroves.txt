@@ -15,7 +15,7 @@ b_lost_mangroves = castle
 #b_lost_mangroves_7 = castle
 
 # Misc
-culture = pirate
-religion = seven_stars
-
+culture = kongobongo
+religion = kong_religion
+terrain = jungle
 #History

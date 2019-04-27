@@ -15,7 +15,7 @@ b_juicy_jungle = castle
 #b_juicy_jungle_7 = castle
 
 # Misc
-culture = pirate
-religion = seven_stars
-
+culture = kongobongo
+religion = kong_religion
+terrain = jungle
 #History

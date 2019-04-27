@@ -15,7 +15,7 @@ b_miracle_landing = castle
 #b_miracle_landing_7 = castle
 
 # Misc
-culture = pirate
-religion = seven_stars
+culture = goomba
+religion = goomba_pagan
 
 #History

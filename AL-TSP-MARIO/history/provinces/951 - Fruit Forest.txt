@@ -15,7 +15,7 @@ b_fruit_forest = castle
 #b_fruit_forest_7 = castle
 
 # Misc
-culture = pirate
-religion = seven_stars
-
+culture = kongobongo
+religion = kong_religion
+terrain = forest
 #History

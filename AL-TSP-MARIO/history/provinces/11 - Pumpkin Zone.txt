@@ -15,7 +15,7 @@ b_pumpkin_zone = castle
 #b_pumpkin_zone_7 = castle
 
 # Misc
-culture = mario_bros
+culture = mario_brothers
 religion = witchcraft
 
 #History

@@ -15,7 +15,8 @@ b_kong_village = castle
 #b_kong_village_7 = castle
 
 # Misc
-culture = pirate
-religion = seven_stars
+culture = kongobongo
+religion = kong_religion
+terrain = jungle
 
 #History

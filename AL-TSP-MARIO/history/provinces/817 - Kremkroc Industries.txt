@@ -15,7 +15,13 @@ b_kremkroc_industries = castle
 #b_kremkroc_industries_7 = castle
 
 # Misc
-culture = pirate
-religion = seven_stars
+culture = kremling
+religion = kremling_religion
+terrain = mountain
 
 #History
+
+
+1994.11.21 = {
+	culture = kongobongo
+	religion = kong_religion

@@ -15,7 +15,7 @@ b_chopperbird_race = castle
 #b_chopperbird_race_7 = castle
 
 # Misc
-culture = pirate
-religion = seven_stars
-
+culture = kongobongo
+religion = kong_religion
+terrain = forest
 #History

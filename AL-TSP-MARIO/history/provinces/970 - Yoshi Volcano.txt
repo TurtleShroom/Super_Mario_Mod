@@ -15,7 +15,7 @@ b_yoshi_volcano = castle
 #b_yoshi_volcano_7 = castle
 
 # Misc
-culture = pirate
-religion = seven_stars
-
+culture = yoshi_island
+religion = happiness
+terrain = mountain
 #History

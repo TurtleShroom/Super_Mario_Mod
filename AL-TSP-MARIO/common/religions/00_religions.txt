@@ -1631,6 +1631,49 @@ kongo_group = {
 		
 		secret_religion = no
 	}
+	
+	kremling_religion = {
+		graphical_culture = westerngfx
+
+		icon = 73
+		heresy_icon = 74
+		
+		color = { 204 34 0 }
+		
+		crusade_name = KREM_QUEST
+		scripture_name = THE_INDUSTRIAL_BEAT
+		priest_title = WISE_ONE
+		
+		high_god_name = GOD_CRYSTAL_COCONUT
+		
+		god_names = {
+			GOD_CRYSTAL_COCONUT GOD_THE_INDUSTRIAL_BEAT THE_BOSS GOD_MANKIND K_ROOL
+		}
+		
+		evil_god_names = {
+			THE_KONGS TIKI_TONG
+		}
+		
+		piety_name = BANANAS
+		
+		priests_can_marry = yes
+		can_hold_temples = yes
+		female_temple_holders = yes
+		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		allow_looting = yes
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 1
+
+		intermarry = dogmatic
+		intermarry = outlaw
+		intermarry = personality_cult
+		intermarry = pagan_group
+		intermarry = lunatheology
+		intermarry = pianta_imperialism
+		
+		secret_religion = no
+	}
 }
 
 tennis_group = {

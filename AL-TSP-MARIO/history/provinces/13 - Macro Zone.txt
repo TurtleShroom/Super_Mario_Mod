@@ -15,7 +15,7 @@ b_macro_zone = castle
 #b_macro_zone_7 = castle
 
 # Misc
-culture = mario_bros
+culture = mario_brothers
 religion = seven_stars
 
 #History

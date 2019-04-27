@@ -15,7 +15,7 @@ b_gorilla_glacier = castle
 #b_gorilla_glacier_7 = castle
 
 # Misc
-culture = pirate
-religion = seven_stars
-
+culture = kongobongo
+religion = kong_religion
+terrain = arctic
 #History

@@ -15,7 +15,7 @@ b_warios_island = castle
 #b_warios_island_7 = castle
 
 # Misc
-culture = mushroom_italian
+culture = mario_brothers
 religion = greed
 
 #History

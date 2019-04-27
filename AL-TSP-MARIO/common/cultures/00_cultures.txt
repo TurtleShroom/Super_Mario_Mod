@@ -353,6 +353,40 @@ yoshi = {
 		mother_name_chance = 10
 	}
 
+lavalava = {
+		graphical_cultures = { frankishgfx }
+		
+		color = { 0.06 0.53 0 }
+		male_names = {
+			#Canonical
+			Black Blue Boshi_Washi Brown Green "Light Blue" Magenta Orange Pink_Pink Purple Red Washi_Washi White Yellow Yoob "Yo'ster" Yoshi_Yoshi Yoshisaur Yoshmeister Yoster
+			
+			#Non-canonical
+			Barney "Burnt Orange" Chartruese Glory Grey_Gray Gray_Gray Hideki Katsuya Koji Shigeru Takashi "Yellow-Orange" Yosh Yoshmeister
+		}
+		female_names = {
+			#Canonical
+			Black Blue Brown Green "Light Blue" Magenta Orange Pink_Pink Purple Red "Red Essence" White Yellow Yoshi_Yoshi Yoshisaur
+
+			#Non-canonical
+			Essence Gloria Pinky_Pink Joy Teal "Yellow-Orange"
+		}
+		from_dynasty_suffix = "shi"
+		grammar_transform = french
+		founder_named_dynasties = yes
+		modifier = default_culture_modifier
+		dukes_called_kings = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+	}
 }
 
 beanish_group = {
@@ -1598,7 +1632,7 @@ japanese_group = {
 
 movie_group = {
 	movie_culture = { # Invaders from the "Super Mario Brothers Movie", the Dinohattanites
-		graphical_culture = { englishgfx italiangfx chinesegfx mongolgfx westerngfx }
+		graphical_cultures = { englishgfx italiangfx chinesegfx mongolgfx westerngfx }
 		color = { 99 60 33 }
 
 		male_names = {
@@ -1662,4 +1696,100 @@ battlefielder_group = {	#Named after military slang, weapon designations, and al
 goomba_group = {
 		graphical_cultures = { frankishgfx }
 		
-	
+		goomba = { #Generic Goombas
+			color = { 230 153 0 }
+			male_names = {
+			Goombario_Mario
+			}
+			female_names = {
+				Goombella Goombette
+		}
+
+			from_dynasty_prefix = " "
+			from_dynasty_suffix = ""
+			male_patronym = ""
+		dynasty_title_names = yes
+		dynasty_name_first = yes
+		prefix = no
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 5
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 20
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+}
+koopa_group = {
+		graphical_cultures = { frankishgfx }
+
+		koopa = { #Generic Koopas unaffiliated with the Darklands or Turtle Island
+			color = {
+kong_group = {
+		graphical_cultures = { frankishgfx }
+
+		kongobongo = {
+			color = { 153 77 0 }
+			male_names = {
+			Donkey Diddy_Diddy Diddie_Diddy Lankey Cranky Funky Kiddy Swanky Bluster Chunky Hunky Tanky Clonky Stinky Rocky Rusty Lackey Eddy Kong "Jerry Lee"_Jared Lewis Jerry_Jared
+			}
+			female_names = {
+			Kay Candy Tiny Pretty Dixie Bratty Katty Trixie Roxy 
+		}
+
+			from_dynasty_prefix = " "
+			from_dynasty_suffix = ""
+			male_patronym = ""
+		dynasty_title_names = yes
+		dynasty_name_first = yes
+		prefix = no
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 5
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 20
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+}
+kremling_group = {
+		graphical_cultures = { frankishgfx }
+		
+		kremling = {
+			color = { 0 51 0 }
+			male_names = {
+				Kieth Kuhrool Krusha Klump
+			female_names = {
+				Kalypso
+		}
+
+			from_dynasty_prefix = " "
+			from_dynasty_suffix = ""
+			male_patronym = ""
+		dynasty_title_names = yes
+		dynasty_name_first = yes
+		prefix = no
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 5
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 20
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+}
