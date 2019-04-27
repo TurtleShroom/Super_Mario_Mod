@@ -15,7 +15,7 @@ b_chocolate_island = castle
 #b_chocolate_island_7 = castle
 
 # Misc
-culture = pirate
-religion = seven_stars
+culture = yoshi_island
+religion = happiness
 
 #History

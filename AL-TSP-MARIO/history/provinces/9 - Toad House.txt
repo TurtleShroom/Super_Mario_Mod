@@ -15,7 +15,7 @@ b_toad_house = castle
 #b_toad_house_7 = castle
 
 # Misc
-culture = pirate
+culture = mushroom_kingdom
 religion = seven_stars
 
 #History

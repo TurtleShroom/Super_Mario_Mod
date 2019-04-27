@@ -15,7 +15,7 @@ b_goomba_village = castle
 #b_goomba_village_7 = castle
 
 # Misc
-culture = pirate
-religion = seven_stars
+culture = goomba
+religion = goomba_pagan
 
 #History

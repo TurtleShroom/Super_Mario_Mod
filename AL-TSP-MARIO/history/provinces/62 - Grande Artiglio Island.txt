@@ -15,7 +15,7 @@ b_grande_artiglio_island = castle
 #b_grande_artiglio_island_7 = castle
 
 # Misc
-culture = pirate
-religion = seven_stars
+culture = crab_islands
+religion = shine_sprites
 
 #History

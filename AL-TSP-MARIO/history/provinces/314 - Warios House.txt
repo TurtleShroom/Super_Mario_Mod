@@ -15,7 +15,7 @@ b_warios_house = castle
 #b_warios_house_7 = castle
 
 # Misc
-culture = pirate
-religion = seven_stars
+culture = diamand_city_men
+religion = temple_of_form
 
 #History

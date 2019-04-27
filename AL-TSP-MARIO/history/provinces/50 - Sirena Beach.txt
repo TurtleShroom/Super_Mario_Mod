@@ -15,7 +15,7 @@ b_sirena_beach = castle
 #b_sirena_beach_7 = castle
 
 # Misc
-culture = pirate
-religion = seven_stars
+culture = delfino
+religion = shine_sprites
 
 #History

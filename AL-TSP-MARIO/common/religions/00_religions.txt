@@ -5,8 +5,8 @@ astrotheology = {
 	playable = yes
 	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
 	
-	ai_convert_same_group = 2 # always try to convert
-	ai_convert_other_group = 2 # always try to convert
+	ai_convert_same_group = 1 #  try to convert if ai_zeal is high
+	ai_convert_other_group = 1 #  try to convert if ai_zeal is high
 	
 	# Names given only to Astrotheologian characters (base names)
 	male_names = {
@@ -116,7 +116,8 @@ astrotheology = {
 		intermarry = outlaw
 		intermarry = personality_cult
 		intermarry = lunatheology
-		
+		ai_convert_same_group = 2 #  always try to convert
+		ai_convert_other_group = 2 #  always try to convert
 		priests_can_marry = yes
 		can_hold_temples = no
 		female_temple_holders = yes
@@ -135,6 +136,9 @@ astrotheology = {
 
 		graphical_culture = westerngfx
 		hostile_within_group = yes
+
+		ai_convert_same_group = 2 #  always try to convert
+		ai_convert_other_group = 2 #  always try to convert
 
 		icon = 57
 		heresy_icon = 58
@@ -319,6 +323,9 @@ astrotheology = {
 
 		icon = 59
 		heresy_icon = 60
+
+		ai_convert_same_group = 2 #  always try to convert
+		ai_convert_other_group = 1 #  try to convert if ai_zeal is high
 		
 		color = { 237 41 57 }
 		
@@ -674,6 +681,9 @@ pagan_group = {
 		
 		icon = 5
 		heresy_icon = 5
+
+		ai_convert_same_group = 1 #  try to convert if ai_zeal is high
+		ai_convert_other_group = 1 #  try to convert if ai_zeal is high
 		
 		color = { 102 51 0 }
 		
@@ -717,8 +727,8 @@ dogmatic = {
 	playable = yes
 	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
 	
-	ai_convert_same_group = 2 # always try to convert
-	ai_convert_other_group = 2 # always try to convert
+	ai_convert_same_group = 1 # always try to convert
+	ai_convert_other_group = 1 # always try to convert
 	
 	# Names given only to dogmatic characters (base names)
 	
@@ -874,6 +884,15 @@ dogmatic = {
 }
 
 outlaw = {
+	has_coa_on_barony_only = yes
+	graphical_culture = westerngfx
+	crusade_cb = crusade
+	playable = yes
+	ai_peaceful = no # Will make Hordes lose their super aggressiveness
+
+	ai_convert_same_group = 1 #  try to convert if ai_zeal is high
+	ai_convert_other_group = 1 #  try to convert if ai_zeal is high
+
 	greed = {
 		graphical_culture = westerngfx
 
@@ -1242,8 +1261,8 @@ lunatheology = {
 	playable = yes
 	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
 	
-	ai_convert_same_group = 2 # always try to convert
-	ai_convert_other_group = 2 # always try to convert
+	ai_convert_same_group = 1 # always try to convert
+	ai_convert_other_group = 1 # always try to convert
 	
 	# Names given only to Lunatheologian characters (base names)
 	male_names = {
@@ -1303,7 +1322,10 @@ lunatheology = {
 		
 		icon = 53
 		heresy_icon = 54
-		
+
+		ai_convert_same_group = 1 #  try to convert if ai_zeal is high
+		ai_convert_other_group = 2 #  always try to convert
+
 		color = { 179 242 255 }
 		
 		crusade_name = LIBERATION
@@ -1922,7 +1944,7 @@ supernatural_group = {
 	playable = yes
 
 	ai_peaceful = no
-	ai_convert_same_group = 2 # always convert
+	ai_convert_same_group = 1 # convert when ai_zeal is high
 	ai_convert_other_group = 1 # convert when ai_zeal is high
 
 	# Names given only to Supernatural characters
@@ -2025,6 +2047,9 @@ supernatural_group = {
 
 	shadow_queen = { #Self-explanatory, the faith revering the Shadow Queen
 		graphical_culture = westerngfx
+
+		ai_convert_same_group = 2 # convert when ai_zeal is high
+		ai_convert_other_group = 2 # convert when ai_zeal is high
 
 		icon = x
 		heresy_icon = x

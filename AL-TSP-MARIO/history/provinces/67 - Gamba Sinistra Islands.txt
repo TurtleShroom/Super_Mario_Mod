@@ -15,7 +15,7 @@ b_gamba_sinistra_islands = castle
 #b_gamba_sinistra_islands_7 = castle
 
 # Misc
-culture = pirate
-religion = seven_stars
+culture = crab_islands
+religion = piracy
 
 #History

@@ -16,6 +16,6 @@ b_stove_canyon = castle
 
 # Misc
 culture = pirate
-religion = seven_stars
+religion = piracy
 
 #History

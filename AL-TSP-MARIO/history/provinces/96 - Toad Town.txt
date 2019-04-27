@@ -15,7 +15,7 @@ b_toad_town = castle
 #b_toad_town_7 = castle
 
 # Misc
-culture = pirate
+culture = mushroom_kingdom
 religion = seven_stars
 
 #History

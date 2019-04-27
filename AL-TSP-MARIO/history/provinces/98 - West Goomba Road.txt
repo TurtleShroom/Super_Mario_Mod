@@ -15,7 +15,7 @@ b_west_goomba_road = castle
 #b_west_goomba_road_7 = castle
 
 # Misc
-culture = pirate
-religion = seven_stars
+culture = goomba
+religion = goomba_pagan
 
 #History

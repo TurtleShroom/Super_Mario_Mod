@@ -15,7 +15,7 @@ b_bell_highlands = castle
 #b_bell_highlands_7 = castle
 
 # Misc
-culture = pirate
-religion = seven_stars
+culture = jellyfish_islands
+religion = shine_sprites
 
 #History

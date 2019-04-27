@@ -180,7 +180,7 @@ mushroom_kingdom_group = {
 		color = { 204 136 0 }
 		
 		male_names = {
-			Bruce Victoad_Victor Steve_Steven Irwin
+			Bruce Steve_Steven Irwin
 	}
 		female_names = {
 			Shazza Shiela
