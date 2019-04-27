@@ -16,6 +16,6 @@ b_serrano_sound = castle
 
 # Misc
 culture = jellyfish_islands
-religion = shine_sprites
+religion = pianta_imperialism
 
 #History

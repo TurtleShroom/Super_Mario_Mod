@@ -23,3 +23,4 @@ religion = koopa_pagan
 1991.10.21 = { #An exact year before Seven Golden Coins start date
 	culture = mario_brothers
 	religion = seven_stars
+}

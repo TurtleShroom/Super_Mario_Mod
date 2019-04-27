@@ -25,3 +25,4 @@ terrain = mountain
 1994.11.21 = {
 	culture = kongobongo
 	religion = kong_religion
+}

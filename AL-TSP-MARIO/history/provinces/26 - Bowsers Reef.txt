@@ -22,6 +22,8 @@ religion = happiness
 
 1990.11.23 = {
 	religion = bowser_ethics
+}
 
 1991.1.1 = {
 	religion = happiness
+}
