@@ -5,7 +5,7 @@
 	name = Kingly #Cranky Kong's great grandfather (yes, he is real, he was mentioned in Donkey Kong Country 3: Dixie Kong's Double Trouble!)
 #	dynasty = x
 	religion = kong_religion 
-	culture = utility
+	culture = kongobongo
 	add_trait = species_greater_kong
 	add_trait = strong
 	add_trait = robust
@@ -24,7 +24,7 @@
 	name = Rocky #Fictional
 #	dynasty = x
 	religion = kong_religion 
-	culture = utility
+	culture = kongobongo
 	father = 751
 	add_trait = species_greater_kong
 	add_trait = strong
@@ -43,7 +43,7 @@
 	name = Hunky #Fictional
 #	dynasty = x
 	religion = kong_religion
-	culture = utility
+	culture = kongobongo
 	father = 752
 	add_trait = species_greater_kong
 	add_trait = strong
@@ -61,7 +61,7 @@
 	name = Strongly #Cranky Kong
 #	dynasty = x
 	religion = kong_religion
-	culture = utility
+	culture = kongobongo
 	father = 753
 	add_trait = species_greater_kong
 	add_trait = strong
@@ -92,7 +92,7 @@
 	name = Pretty #Wrinkly Kong
 	female = yes
 	religion = kong_religion
-	culture = utility
+	culture = kongobongo
 	add_trait = species_greater_kong
 	add_trait = fair
 	add_trait = canonical_character
@@ -112,7 +112,7 @@
 	name = Donkey #DK Jr
 #	dynasty = x
 	religion = kong_religion
-	culture = utility
+	culture = kongobongo
 	father = 754
 	mother = 755
 	add_trait = species_greater_kong
@@ -134,7 +134,7 @@
 	name = Donkey #DK
 #	dynasty = x
 	religion = kong_religion
-	culture = utility
+	culture = kongobongo
 	add_trait = species_greater_kong
 	add_trait = strong
 	add_trait = canonical_character
@@ -156,7 +156,7 @@
 	name = Shorty #Fictional
 #	dynasty = x
 	religion = kong_religion
-	culture = utility
+	culture = kongobongo
 	father = 753
 	add_trait = species_greater_kong
 	add_trait = dwarf
@@ -172,7 +172,7 @@
 	name = Ugly #Fictional
 #	dynasty = x
 	religion = kong_religion
-	culture = utility
+	culture = kongobongo
 	father = 758
 	add_trait = species_greater_kong
 	add_trait = ugly
@@ -189,7 +189,7 @@
 	female = yes
 #	dynasty = x
 	religion = kong_religion
-	culture = utility
+	culture = kongobongo
 	father = 759
 	add_trait = species_greater_kong
 	add_trait = fair
@@ -208,7 +208,7 @@
 	name = Normandy #Fictional
 #	dynasty = x
 	religion = kong_religion
-	culture = utility
+	culture = kongobongo
 	father = 753
 	add_trait = species_greater_kong
 	1943.6.1 = {
@@ -223,7 +223,7 @@
 	name = Yankee #Fictional
 #	dynasty = x
 	religion = kong_religion
-	culture = utility
+	culture = kongobongo
 	add_trait = species_greater_kong
 	father = 761
 	1962.6.1 = {
@@ -241,7 +241,7 @@
 	name = Liberty #Fictional
 	female = yes
 	religion = kong_religion
-	culture = utility
+	culture = kongobongo
 	add_trait = species_lesser_kong
 	1961.2.2 = {
 		birth = yes
@@ -256,7 +256,7 @@
 	female = yes
 #	dynasty = x
 	religion = kong_religion
-	culture = utility
+	culture = kongobongo
 	father = 762
 	mother = 763
 	add_trait = species_lesser_kong
@@ -277,7 +277,7 @@
 	female = yes
 #	dynasty = x
 	religion = kong_religion
-	culture = utility
+	culture = kongobongo
 	father = 762
 	mother = 763
 	add_trait = species_greater_kong
@@ -298,7 +298,7 @@
 	name = Weakly #Fictional
 #	dynasty = x
 	religion = kong_religion
-	culture = utility
+	culture = kongobongo
 	father = 761
 	add_trait = weak
 	1963.6.1 = {
@@ -316,7 +316,7 @@
 	name = Smartly #Fictional
 	female = yes
 	religion = kong_religion
-	culture = utility
+	culture = kongobongo
 	add_trait = quick
 	1964.2.2 = {
 		birth = yes
@@ -330,7 +330,7 @@
 	name = Chunky #Chunky Kong
 #	dynasty = x
 	religion = kong_religion
-	culture = utility
+	culture = kongobongo
 	father = 766
 	mother = 767
 	add_trait = species_greater_kong
@@ -353,7 +353,7 @@
 	name = Kiddy #Kiddy Kong
 #	dynasty = x
 	religion = kong_religion
-	culture = utility
+	culture = kongobongo
 	father = 766
 	mother = 767
 	add_trait = species_greater_kong
@@ -371,7 +371,7 @@
 	name = Titchy #Fictional
 #	dynasty = x
 	religion = kong_religion
-	culture = utility
+	culture = kongobongo
 	father = 753
 	add_trait = species_lesser_kong
 	1941.6.1 = {
@@ -386,7 +386,7 @@
 	name = Dinky #Fictional
 #	dynasty = x
 	religion = kong_religion
-	culture = utility
+	culture = kongobongo
 	father = 770
 	add_trait = species_lesser_kong
 	1957.6.1 = {
@@ -401,7 +401,7 @@
 	name = Diddy #Diddy Kong
 #	dynasty = x
 	religion = kong_religion
-	culture = utility
+	culture = kongobongo
 	father = 771
 	add_trait = species_lesser_kong
 	add_trait = canonical_character
@@ -430,7 +430,7 @@
 	name = Swaggy #Fictional
 #	dynasty = x
 	religion = kong_religion
-	culture = utility
+	culture = kongobongo
 	father = 753
 	add_trait = species_lesser_kong
 	1945.6.1 = {
@@ -445,7 +445,7 @@
 	name = Funky #Funky Kong
 #	dynasty = x
 	religion = kong_religion
-	culture = utility
+	culture = kongobongo
 	father = 773
 	add_trait = species_greater_kong
 	add_trait = canonical_character
@@ -469,7 +469,7 @@
 	name = Swanky #Swanky Kong
 #	dynasty = x
 	religion = kong_religion
-	culture = utility
+	culture = kongobongo
 	father = 773
 	add_trait = species_greater_kong
 	add_trait = gregarious
@@ -486,7 +486,7 @@
 	name = Stocky #Fictional
 #	dynasty = x
 	religion = kong_religion
-	culture = utility
+	culture = kongobongo
 	father = 753
 	add_trait = species_greater_kong
 	add_trait = strong
