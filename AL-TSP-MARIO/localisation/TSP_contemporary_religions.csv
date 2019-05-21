@@ -46,6 +46,8 @@ PROPHET_THE_ODYSSEY;The Odyssey;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 GOD_THE_GREAT_FUNGUS;The Great Fungus;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 GOD_THE_FUNGAL_KING;The Fungal King;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 MUSHROOM_KADABRA;Mushroom-Kadabra;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+GOD_THE_FOUR_GREAT_HEROES;The Four Great Heroes;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+GOD_LADY_BOW;Lady Bow;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 THE_BOOTY;The Booty;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 PLUNDER;Plunder;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 PLUNDER_CHEST;Plunder Chest;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
@@ -109,6 +111,9 @@ GOD_THE_FIRST_KOOPAS;The First Koopas;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 GOD_THE_ANCESTORS;The Ancestors;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 PROPHET_THE_INCARNATE;The World Turtle Incarnate;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 GOD_ALMIGHTY_GOOMBA;The Almighty Goomba;FRENCH;GERMAN;;SPANISH;;;;;;;;X
+GOD_LUNAR;The Moon;FRENCH;GERMAN;;SPANISH;;;;;;;;X
+GOD_MOON_GODDESS;The Moon Goddess;FRENCH;GERMAN;;SPANISH;;;;;;;;X
+THE_LUNAR_TRUTHS;The Lunar Truths;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 UNITY;Unity;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 DISUNITY;Disunity;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 THE_FOEMAN;The Foeman;FRENCH;GERMAN;;SPANISH;;;;;;;;X
@@ -116,6 +121,9 @@ PROPHET_GREATEST_GOOMPA;Greatest Goompa;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 GREAT_THUNDER_DRAGON;The Great Thunder Dragon;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 THUNDER_DRAGONS;Thunder Dragons;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 THE_STORM;The Storm;FRENCH;GERMAN;;SPANISH;;;;;;;;X
+BETELGEUSE;Betelgeuse;FRENCH;GERMAN;;SPANISH;;;;;;;;X
+TUBBA_BLUBBA;Tubba Blubba;FRENCH;GERMAN;;SPANISH;;;;;;;;X
+GOD_E_GADD;Professor Elvin Gadd;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 ####################
 # OTHER NAME LISTS #
 ####################
@@ -149,9 +157,7 @@ PROPHETIC_INVASION;Prophetic Invasion;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 THE_LAW;Foreign Law;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 GOOMBA_LAW;Goomba Law;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 GOOMBA_BREVIARY;Universal Goomba Breviary;FRENCH;GERMAN;;SPANISH;;;;;;;;X
-GOD_LUNAR;The Moon;FRENCH;GERMAN;;SPANISH;;;;;;;;X
-GOD_MOON_GODDESS;The Moon Goddess;FRENCH;GERMAN;;SPANISH;;;;;;;;X
-THE_LUNAR_TRUTHS;The Lunar Truths;FRENCH;GERMAN;;SPANISH;;;;;;;;X
+LEGENDS_OF_THE_THOUSAND_YEAR_DOOR;Legends of the Thousand Year Door;FRENCH;GERMAN;;SPANISH;;;;;;;;X
 ##########
 # GROUPS #
 ##########
@@ -169,7 +175,7 @@ prognosticus_group;Prognostic;French;German;;Spanish;;;;;;;;;x
 seven_stars;Astrotheology;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 seven_stars_DESC;Astrotheology is a diverse, expansive religion that proclaims the seven benevolent Star Spirits as the supreme masters of the universe. The Star Spirits reside in the mortal coil, in a far-off place called Star Haven, that can only be reached over the Star Road, starting from Shooting Star Summit. Focused deeply on making wishes and requests to the Star Spirits, the Star Spirits can only use the full scope of their power and divinity when in possession of the Star Rod, a divine instrument that can make any wish they so choose come true. Nearly all other sentient stellar lifeforms are derived from or serve the Star Spirits, and include, in order of importance, the Grand Stars, Power Stars, Lumas (infant Power Stars), and the Star Kids. In addition to the Star Spirits and other stars, there is a host of angel-esque creatures that are revered or worshipped, such as Geno, the guardian of the Star Road, the Star Sprites, who sealed the Dark Star, and Rosalina, who shelters Lumas until they mature into Power Stars.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 rosalina_worship;Rosalina Worship;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-rosalina_worship_DESC;This religion is centered around Rosalina, the immortal human protector of baby Power Stars, called Lumas. A servant of the Star Spirits on the same seniority as Geno and the Star Sprites, Rosalina oversees, shelters, and guards all Lumas, Power Stars, and Grand Stars. In contrast to mainstream Astrotheology, which acknowledges Rosalina as an "archangel" of sorts under the Star Spirits, Rosalina worshippers consider Rosalina to be equal to, or superior to, the Star Spirits and even the Star Rod, with many believing that Rosalina has in fact lived through multiple heatdeaths, forming the new universes from sratch with her children.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+rosalina_worship_DESC;This religion is centered around Rosalina, the immortal human protector of baby Power Stars, called Lumas. To Astrotheologians, she is a servant of the Star Spirits on the same seniority as Geno and the Star Sprites. Rosalina oversees, shelters, and guards all Lumas, Power Stars, and Grand Stars. In contrast to mainstream Astrotheology, which acknowledges Rosalina as an "archangel" of sorts under the Star Spirits, Rosalina worshippers consider Rosalina to be equal to, or superior to, the Star Spirits and even the Star Rod. The most fundamentalist elements of Rosalina Worship argue that Rosalina has in fact lived through multiple heat deaths and Big Crunches of countless universes, harnassing the power of her "children" to restart Creation.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 kong_religion;Crystal Coconut;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 kong_religion_DESC;The worship of the Crystal Coconut, the prophetic idol of the Kongs. Brought to the Tropical Archipelago of Kongo Bongo by the Kremling pirate Kaptain Skurvy, the Crystal Coconut has been the source of conflict on the island for centuries. Its prophetic power, and seemingly alien intelligence being a great boon for those who hold it. Traditions amongst the Kongs who worship the Crystal Coconut are the collection of banana hordes as a show of prosperity, and the changing of one's name at certain points of one's life, such as important life-changing crossroads, or the beginning of one's golden years.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 kremling_religion;Kremling Industrialism;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
@@ -454,3 +460,32 @@ temple_county_of_witchcraft;Coven of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 temple_duchy_of_witchcraft;Fel Lands of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 temple_kingdom_of_witchcraft;Fel Kingdom of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 temple_empire_of_witchcraft;Dark Empire of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_baron_shadow_queen;Mage;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_count_shadow_queen;Wizard;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_count_female_shadow_queen;Witch;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_duke_shadow_queen;Warlock;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_duke_female_shadow_queen;Witch;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_king_shadow_queen;Wizard-King;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_king_female_shadow_queen;Witch-Queen;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_emperor_shadow_queen;Dark Lord;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_emperor_female_shadow_queen;Dark Lady;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_barony_of_shadow_queen;Secret Society of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_county_of_shadow_queen;Coven of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_duchy_of_shadow_queen;Cult of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_kingdom_of_shadow_queen;Gate of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_empire_of_witchcraft;The Millennial;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_baron_boolish;Lord;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_count_boolish;Lady;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_count_female_boolish;Lord;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_duke_boolish;Lady;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_duke_female_boolish;Witch;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_king_boolish;King Boo;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_king_female_boolish;Queen Boo;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_emperor_boolish;Emperor;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_emperor_female_witchcraft;Dark Lady;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_barony_of_boolish;Ghost House;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_county_of_boolish;Boo House of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_duchy_of_boolish;Mansion of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_kingdom_of_boolish;Parlor of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_empire_of_boolish;Palace of;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+X;X;FRENCH;GERMAN;;SPANISH;;;;;;;;;x

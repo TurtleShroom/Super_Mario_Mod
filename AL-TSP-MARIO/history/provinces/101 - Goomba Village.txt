@@ -4,10 +4,10 @@
 title = c_goomba_village
 
 # Settlements
-max_settlements = 7
+max_settlements = 2 # The Goomba Village is one of the smallest areas of the "Paper Mario" map and consists of less than ten Goombas at the start
 
 b_goomba_village = castle
-#b_goomba_village_2 = city
+#b_goomba_village_2 = temple
 #b_goomba_village_3 = temple
 #b_goomba_village_4 = castle
 #b_goomba_village_5 = city
@@ -16,6 +16,6 @@ b_goomba_village = castle
 
 # Misc
 culture = goomba
-religion = goomba_pagan
+religion = seven_stars # If this is the Goomba Village from PM1, they are wholly loyal to the Mushroom Kingdom and worship the Star Spirits
 
 #History
