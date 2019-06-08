@@ -44,6 +44,8 @@ d_greed_spirit = {
 	controls_religion = greed
 	
 	religion = greed
+
+	monthly_income = 100
 	
 	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
 	
@@ -73,6 +75,8 @@ d_gambling = {
 	controls_religion = gambling
 	
 	religion = gambling
+
+	monthly_income = 100
 	
 	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
 }
@@ -154,29 +158,106 @@ d_twilight_towner = {
 	
 }
 
-d_shroob = {
-	color={ 255 0 255 }
+d_shroob_holy_order = {
+	color={ 33 8 66 }
 	color2={ 200 0 200 }
 	
 	capital = 382 # Suomi
 	
-	title = "KING_COMMANDER"
+	title = "COMMANDER_SHROOB"
 	
 	creation_requires_capital = no
 	
 	allow = {
+		has_landed_title = e_shroob
+		culture = shroob
 		religion = shroob
-		#dynasty = BOWSER
-		#trait = bowser
-		piety = 500
+	}
+	
+	short_name = yes
+
+	holy_order = yes	
+	religion = shroob
+	culture = shroob
+
+	mercenary_type = shroob_army_core
+	
+	strength_growth_per_century = 3
+	monthly_income = 5
+
+	extra_ai_eval_troops = 10000
+
+	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+}
+
+d_shroob = {
+	color={ 33 8 66 }
+	color2={ 33 88 66 }
+	
+	capital = 382 # Suomi
+	
+	title = "VIMBORNE"
+	
+	creation_requires_capital = no
+	
+	allow = {
+		has_landed_title = e_shroob
+		culture = shroob
+		religion = shroob
 	}
 	
 	short_name = yes
 	
 	# Controls a religion
 	controls_religion = shroob
-	
+
+	extra_ai_eval_troops = 1000
+
+	culture = shroob
 	religion = shroob
 	
+	strength_growth_per_century = 1.1
+	monthly_income = 1
+
+	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+}
+
+e_shroob = {
+	color = { 181 142 198 }
+	color2 = { 33 8 66 }
+
+	capital = 1 # Will change to Toad Town when Map is ready
+
+	title = "ELDER_PRINCE"
+	title_female = "ELDER_PRINCESS"
+
+	title_prefix = "SHROOB_PRINCIPALITY"
+
+	name_tier = king
+
+	foa = "MASTER"
+	foa_female = "MISTRESS"
+
+	male_names = { Shroob }
+	female_names = { Shroob }
+
+	culture = shroob
+	religion = shroob
+
+	primary = yes
+	caliphate = yes
+	creation_requires_capital = yes
+	purple_born_heirs = yes
+
+	assimilate = no
+	can_be_claimed = no
+	duchy_revocation = yes
+
+	location_ruler_title = yes
+
+	monthly_income = 20
+
+	extra_ai_eval_troops = 2000
+
 	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
 }
