@@ -17,7 +17,7 @@ c_turtle_zone;Turtle Zone;;;;;;;;;;x
 c_macro_zone;Macro Zone;;;;;;;;;;x
 c_hippo_zone;Hippopotamus Zone;;;;;;;;;;x
 c_tree_zone;Tree Zone;;;;;;;;;;x
-c_yoshi_island_zone_one;The Rolling Prairie;;;;;;;;;;x
+c_yoshi_island_zone_one;Rolling Prairie;;;;;;;;;;x
 c_yoshi_island_zone_two;Dusky Uplands;;;;;;;;;;x
 c_yoshi_island_zone_three;Ukiksylvania;;;;;;;;;;x
 c_yoshi_island_zone_four;Rolling Sunset Valley;;;;;;;;;;x
@@ -70,8 +70,10 @@ c_piccolo_artiglio_island;Lesser Claw Island;;;;;;;;;;x
 c_bocca_beach;Mouthshore;;;;;;;;;;x
 c_fianco_harbour;Flankside;;;;;;;;;;x
 c_corrazza_mountains;Mount Armor;;;;;;;;;;x
-c_gamba_sinistra_islands;Isles of the Left Leg;;;;;;;;;;x
-c_gamba_destra_islands;Isles of the Right Leg;;;;;;;;;;x
+c_gamba_sinistra_islands;Gamba Sinistra;;;;;;;;;;x
+c_gamba_sistra_islands_adj;Leftward;;;;;;;;;;x
+c_gamba_destra_islands;Gamba Dextra;;;;;;;;;;x
+c_gamba_destra_islands_adj;Rightward;;;;;;;;;;x
 c_granchio_airport;Fort Crab;;;;;;;;;;x
 c_booty_boardwalk;Big Booty Boardwalk;;;;;;;;;;x
 c_minnow_island;Minnow Island;;;;;;;;;;x
