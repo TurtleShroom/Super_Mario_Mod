@@ -2,19 +2,19 @@
 #3251-3500
 
 3251 = {
-	name = Victoad # Victor Iscariot, known as Empoleon Blownaparte on the Paradox Forums
+	name = Victoad # Victor Iscariot, known as Empoleon Blownaparte on the Paradox Forums and head religion dude on the team.
 #	dynasty = x
-	religion = temple_of_form
+	religion = rosalina_worship
 	culture = down_under_toad
 	#dna = "00000000000"
 	#properties = "00000000000"
 	add_trait = species_mushroom_boy
 	historical = yes
 	disallow_random_traits = yes #Done so that Victoad won't get unfitting traits
-	1963.10.13 = { #Chosen so he is the same age at the earliest start date as he was when he first joined the mod, 17. The 10th of October is his real birth date.
+	1968.10.13 = { #Chosen so he is the same age at the earliest start date as he was when he first joined the mod, 17. The 13th of October is his real birth date.
   		birth = yes
 	}
-	1981.7.9 = {
+	1984.10.13 = {
 		add_trait = scholarly_theologian #In reference to his IRL interest in religious studies and help in writing various in-game religions.
 		add_trait = charitable
 		add_trait = erudite #In reference to the fact he is a writer IRL
@@ -30,23 +30,32 @@
 }
 
 3252 = {
-	name = Rice #Rice Marcelle
+	name = Rice
 	female = yes
 	dynasty = 0 # Lowborn
-	religion = temple_of_form
+	religion = rosalina_worship
 	culture = down_under_toad
+	father = 3257 #Placeholders so her sisters will be considered... Sisters.
+	mother = 3258
 	#dna = "00000000000"
 	#properties = "00000000000"
 	add_trait = species_mushroom_boy
 	add_trait = fair
 	historical = yes
-	disallow_random_traits = yes #Done so that Rice won't get unfitting traits
-	1963.7.27 = {
+	disallow_random_traits = yes
+	1968.7.27 = {
   		birth = yes
 	}
-	1981.7.9 = {
+	1984.7.9 = {
+		effect = {
+			add_friend = 3251
+			add_lover = 3251
+			add_friend = 3253
+			add_friend = 3254
+			add_friend = 3255
+		}
 		add_trait = underhanded_rogue
-		add_trait = wroth
+		add_trait = patient
 		add_trait = honest
 		add_trait = lustful
 		add_trait = kind
@@ -54,4 +63,167 @@
 	2043.7.27 = {
 		death = yes
 	}
+}
+
+3253 = {
+	name = Ainsley
+female = yes
+	dynasty = 0 # Lowborn
+	religion = rosalina_worship
+	culture = down_under_toad
+	father = 3257
+	mother = 3258
+	#dna = "00000000000"
+	#properties = "00000000000"
+	add_trait = species_mushroom_boy
+	add_trait = fair
+	historical = yes
+	disallow_random_traits = yes
+	1968.11.8 = {
+  		birth = yes
+		add_trait = quick
+	}
+	1984.11.8 = {
+		effect = {
+			add_friend = 3251
+			add_friend = 3252
+			add_friend = 3254
+			add_friend = 3255
+		}
+		add_trait = tough_soldier
+		add_trait = ambitious
+		add_trait = brave
+		add_trait = lustful
+		add_trait = diligent
+		add_trait = gamer
+	}
+	2043.11.8 = {
+		death = yes
+	}
+}
+
+3254 = {
+	name = Snow
+	female = yes
+	dynasty = 0 # Lowborn
+	religion = rosalina_worship
+	culture = down_under_toad
+	father = 3257
+	mother = 3258
+	#dna = "00000000000"
+	#properties = "00000000000"
+	add_trait = species_mushroom_boy
+	add_trait = fair
+	historical = yes
+	disallow_random_traits = yes
+	1968.11.18 = {
+  		birth = yes
+	}
+	1984.11.18 = {
+		effect = {
+			add_friend = 3251
+			add_friend = 3252
+			add_friend = 3253
+			add_friend = 3255
+		}
+		add_trait = flamboyant_schemer
+		add_trait = content
+		add_trait = honest
+		add_trait = chaste
+		add_trait = wroth
+		add_trait = homosexual
+	}
+	2043.11.18 = {
+		death = yes
+	}
+}
+3255 = {
+	name = Rose
+	female = yes
+	dynasty = 0 # Lowborn
+	religion = rosalina_worship
+	culture = down_under_toad
+	father = 3257
+	mother = 3258
+	#dna = "00000000000"
+	#properties = "00000000000"
+	add_trait = species_mushroom_boy
+	add_trait = fair
+	historical = yes
+	disallow_random_traits = yes
+	1968.12.23 = {
+  		birth = yes
+		add_trait = quick
+	}
+	1984.12.23 = {
+		effect = {
+			add_friend = 3251
+			add_friend = 3252
+			add_friend = 3253
+			add_friend = 3254
+		}		
+		add_trait = martial_cleric
+		add_trait = content
+		add_trait = kind
+		add_trait = zealous
+		add_trait = diligent
+		add_trait = just
+	}
+	2043.12.23 = {
+		death = yes
+	}
+}
+3256 = {
+	name = Miryah
+	female = yes
+	dynasty = 0 # Lowborn
+	religion = rosalina_worship
+	culture = down_under_toad
+	mother = 3254
+	#dna = "00000000000"
+	#properties = "00000000000"
+	add_trait = species_mushroom_boy
+	add_trait = fair
+	historical = yes
+	disallow_random_traits = yes
+	1974.11.8 = {
+  		birth = yes
+		add_trait = adopted
+	}
+	1985.9.13 = {
+		add_trait = conscientious
+		add_trait = affectionate
+		add_trait = brooding
+	1990.11.8 = {
+		add_trait = thrift_clerk
+		add_trait = just
+		add_trait = honest
+		add_trait = diligent
+		add_trait = wroth
+		add_trait = shrewd
+	}
+	2043.11.8 = {
+		death = yes
+	}
+}
+
+3257 = {
+	name = Sojiro #random shoutout to Coffee Dad from Persona 5 because why not.
+	dynasty = 0 # Lowborn
+	religion = seven_stars
+	culture = waterlander
+	#dna = "00000000000"
+	#properties = "00000000000"
+	add_trait = species_mushroom_boy
+}
+
+3258 = {
+	name = Sheila #THE MOST GENERIC OF AUSSIE GIRL NAMES because she's a placeholder for familial mechanic reasons
+	dynasty = 0
+	religion = seven_stars
+	culture = down_under_toad
+	add_trait = fair
+	#dna = "00000000000"
+	#properties = "00000000000"
+	add_trait = species_mushroom_boy
 }

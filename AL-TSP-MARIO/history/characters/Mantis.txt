@@ -4,7 +4,7 @@
 7001 = {
 	name = "Bruce" #Master Mantis, named after Bruce Lee
 	religion = temple_of_form
-	culture = diamond_city_men
+	culture = ouji_men
 	dynasty = 3010
 	add_trait = species_men
 	add_trait = shrewd

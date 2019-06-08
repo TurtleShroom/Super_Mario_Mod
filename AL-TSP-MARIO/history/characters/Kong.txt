@@ -532,7 +532,7 @@
 	female = yes
 	dynasty = x
 	religion = kong_religion
-	culture = x
+	culture = kongadien
 	father = 753
 	add_trait = species_greater_kong
 	historical = yes
@@ -548,7 +548,7 @@
 	name = Bluster #Bluster Kong
 	dynasty = x
 	religion = kong_religion
-	culture = x
+	culture = kongadien
 	mother = 778
 	add_trait = species_greater_kong
 	historical = yes

@@ -1698,8 +1698,6 @@ goomba_group = {
 			from_dynasty_prefix = " "
 			from_dynasty_suffix = ""
 			male_patronym = ""
-		dynasty_title_names = yes
-		dynasty_name_first = yes
 		prefix = no
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
@@ -1735,8 +1733,6 @@ kong_group = {
 			from_dynasty_prefix = " "
 			from_dynasty_suffix = ""
 			male_patronym = ""
-		dynasty_title_names = yes
-		dynasty_name_first = yes
 		prefix = no
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
@@ -1751,6 +1747,14 @@ kong_group = {
 
 		modifier = default_culture_modifier
 	}
+	kongadien = { #The native Kongs of the arctic islands (alongside the Snowmads). A reference to the fact the cartoon is Franco-Canadian (also known as Canadien)
+			color = { 153 77 0 }
+			male_names = {
+			Bluster Luster Truster Kruster Duster
+			}
+			female_names = {
+			Heather
+		}
 }
 kremling_group = {
 		graphical_cultures = { frankishgfx }
@@ -1766,8 +1770,6 @@ kremling_group = {
 			from_dynasty_prefix = " "
 			from_dynasty_suffix = ""
 			male_patronym = ""
-		dynasty_title_names = yes
-		dynasty_name_first = yes
 		prefix = no
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.

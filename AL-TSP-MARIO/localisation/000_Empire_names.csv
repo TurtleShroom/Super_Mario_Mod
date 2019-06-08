@@ -15,7 +15,7 @@ e_rare_sea;Rare Sea Empire;Rare Sea Empire;Rare Sea Empire;;Rare Sea Empire;;;;;
 e_rare_sea_adj;Rare Sea;Rare Sea;Rare Sea;;Rare Sea;;;;;;;;;x
 e_warioland;Warioland;Warioland;Warioland;;Warioland #Probably gonna be Titular, since the lands that'd comprise it are kinda far between, but if De Jure would be Kitchen Island, Marioland, South Sprixie Islands, and Diamond Shogunate
 e_warioland_adj;Wariolander;Wariolander;Wariolander;;Wariolander;;;;;;;;;x
-#Titular Empires. Cultures without Empires + Plot-important Empires go here.
+#Titular Empires. Cultures without de jure Empires + Plot-important Empires go here.
 e_koopa;Koopa Empire;Koopa Empire;Koopa Empire;;Koopa Empire;;;;;;;;;x #Independent Koopa cultural empire
 e_aurora;Aurorean Empire;Aurorean Empire;Aurorean Empire;;Aurorean Empire;;;;;;;;;x #Titular Empire for Pianta Imperialists
 e_kremling;Kremling Empire;Kremling Empire;Kremling Empire;;Kremling Empire;;;;;;;;;x #Self Explanatory
