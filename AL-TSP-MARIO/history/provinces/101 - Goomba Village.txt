@@ -16,6 +16,6 @@ b_goomba_village = castle
 
 # Misc
 culture = goomba
-religion = seven_stars # If this is the Goomba Village from PM1, they are wholly loyal to the Mushroom Kingdom and worship the Star Spirits
+religion = goomba_pagan # If this is the Goomba Village from PM1, they are wholly loyal to the Mushroom Kingdom and worship the Star Spirits - Re: Actually, the lore we've got for goomba paganism states that it's extremely syncretic and familycentric, so the idea that they follow traditional goomba faith is not contradicted so long as the characters are hardcoded with the proper "Seven Star Sympathy" traits.
 
 #History
