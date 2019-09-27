@@ -1,7 +1,8 @@
-terrain = 29
+terrain = 17
 # Note that costs below 1 may result in somewhat strange pathfinding results. It is thus preferable to increase global movement speed rather than reduce terrain costs below 1
 
 categories =  {
+
 	pti = {
 		color = { 210 210 210 }
 	}
@@ -22,7 +23,6 @@ categories =  {
 		movement_cost = 1.2
 		max_attrition = 0.1
 		color = { 235 235 235 }
-
 		supply_limit = 1
 		bottleneck_chance = 15
 	}
@@ -47,36 +47,34 @@ categories =  {
 	
 	hills = {
 		movement_cost = 1.3
+		defence = 1
 		max_attrition = 0.025
 		color = { 135 70 0 }
 
 		supply_limit = 3
 		bottleneck_chance = 15
-		defence = 1
 	}
 
 	woods = {
 		movement_cost = 1.1
 		max_attrition = 0.025
 		color = { 165 205 108 }
-
 		supply_limit = 3
 		bottleneck_chance = 10
 	}
 	
 	mountain = {
 		movement_cost = 1.5
+		defence = 2
 		max_attrition = 0.1
 		color = { 117 108 119 }
-
-		defence = 2
 		supply_limit = 2
 		bottleneck_chance = 35
 	}
 
 	impassable_mountains = {
 		color = { 128 128 128 }
-		movement_cost = 10.0
+		movement_cost = 2.0
 		bottleneck_chance = 35
 	}
 
@@ -84,25 +82,22 @@ categories =  {
 		movement_cost = 1.0
 		max_attrition = 0.05
 		color = { 211 201 184 }
-
 		supply_limit = 4
-		bottleneck_chance = 0
+		bottleneck_chance = 5
 	}
 	
 	plains = {
 		movement_cost = 1.1
 		color = { 241 221 184 }
-
 		supply_limit = 5
 		bottleneck_chance = 5
 	}
 
 	jungle = {
 		movement_cost = 1.4
+		defence = 1.5
 		max_attrition = 0.1
 		color = { 40 180 149 }
-
-		defence = 1.5
 		supply_limit = 2
 		bottleneck_chance = 25
 	}	
@@ -132,149 +127,7 @@ categories =  {
 
 		supply_limit = 2
 		bottleneck_chance = 5
-	}
-
-	oasis = {
-		movement_cost = 1.0
-		max_attrition = 0.03
-		color = { 0 255 0 }
-
-		siege_defence = 0.05 # Higher supply limit
-		supply_limit = 2.5
-		bottleneck_chance = 4
-	}
-
-	urban = {
-		movement_cost = 1.5
-		max_attrition = 0.01
-		color = { 195 195 195 }
-
-		fort_level = 1
-		siege_defence = 3
-		defence = 4
-		supply_limit = 10 # Logistics and well-paved roads
-		bottleneck_chance = 60 # Urban planning, squares, etc., RL urban warfare is among the hardest forms of strategy
-	}
-
-	caldera = { # Extremely gloomy, lava-covered places, and volcanic religions, e.g. the core Dark Land in SMB3
-		movement_cost = 1.5
-		max_attrition = 0.125
-		color = { 255 128 0 }
-
-		fort_level = 0.5 # Base Fort Level increased on all holdings
-		supply_limit = 1
-		bottleneck_chance = 35
-		global_supply_limit = 0.85 # Fifteen percent reduction
-	}
-
-	the_hand = { # Hand Traps from Dark Land (as seen in SMB3), these are immense fortresses and defense structures
-		movement_cost = 4
-		max_attrition = 0.125
-		color = { 255 203 99 }
-
-		defence = 2.5
-		fort_level = 2
-		supply_limit = 1
-		global_supply_limit = 0.85 # Fifteen percent reduction
-		bottleneck_chance = 99 # All warfare would take place inside closed buildings
-	}
-
-	turnpike = { # Highways and major roads, such as Toad's Turnpike from "Mario Kart" and other such raceways
-		movement_cost = 1
-		max_attrition = 0.02 # Easy logistics and supply
-		color = { 40 40 55 }
-
-		global_movement_speed = 1
-		siege_speed = 1.25
-		supply_limit = 6
-		fort_level = -2
-	}
-
-	athletic = { # Those levels where there are lofty, flat mushrooms/trees/bridges/etc. to jump and walk on, but if you fall off the screen you die, E.G. SMB1 and Sunshine or Galactic, or Doughnut Hills and Sky Land, this is apparently known as an "Athletic" level in platform games
-		movement_cost = 10
-		max_attrition = 0.2 # Ever tried to get a tank across a bridge? Now try getting it across a chasm and hope your soldiers don't fall off. This doesn't even count logistics.
-		color = { 90 150 255 }
-
-		siege_defence = 3
-		defence = 4
-		supply_limit = 1
-		global_supply_limit = 0.8 # Twenty percent reduction
-		bottleneck_chance = 99
-	}
-
-	great_keep = { # An unusually large, sprawling castle/fortress/bunker/etc. that encompasses most of the province
-#		SHOULD ONLY BE USED WHEN EVERYTHING IS A CASTLE, LIKE WORLD 8-4 OR BOWSER'S KEEP. SMB1 WORLDS 1-4 THROUGH 7-4 AND THE KOOPA BROTHERS FORTRESS DO NOT CUT IT.
-
-		movement_cost = 5
-		max_attrition = 0.13
-		color = { 115 117 115 }
-
-		defence = 4
-		fort_level = 4
-		siege_defence = 3
-		supply_limit = 1
-		global_supply_limit = 0.8 # Twenty percent reduction
-		bottleneck_chance = 100 # All warfare would take place inside closed buildings
-	}
-
-	star_hill = { # Shooting Star Summit, which is apparently called "Star Hill" in every other iteration
-		movement_cost = 5 # You must surmount and dismoutn the mountain
-		max_attrition = 0 # Magic
-		color = { 74 77 181 }
-
-		siege_speed = 0.2 # The mountain itself is unguarded and highly vulnerable
-		fort_limit = 2 # The area surrounding it is well guarded
-		defence = 2 # Counts as mountain
-		supply_limit = 10 # Magic
-		bottleneck_chance = 40
-	}
-
-	rainbow_road = { # Supernatural, ethereal, and divine paths and roads (will only and primarily be used while Star Haven is physically on the map pending its removal), especially the Star Road
-		movement_cost = 1.2
-		max_attrition = 0 # Magic
-		color = { 255 0 128 }
-
-		bottleneck_chance = 99 # The Star Road is narrow enough to break and is the only way in and out of Star Haven, for other magical sky paths, play "Mario Kart" and you'll understand this number
-		supply_limit = 5
-		defence = 1
-	}
-
-	badlands = { # Cliffs and rugged terrain, e.g. the Beanbean/Mushroom Kingdom border
-		movement_cost = 1.4
-		max_attrition = 0.1
-		color = { 96 82 2 }
-
-		bottleneck_chance = 30
-		supply_limit = 2
-		defence = 1.5
-	}
-
-	badland_mountains = { # Mount Rugged and similar rugged mountains that are more hazardous than normal mountains
-		movement_cost = 1.55
-		max_attrition = 0.1
-		color = { 96 70 50 }
-
-		bottleneck_chance = 50
-		supply_limit = 1.95
-		defence = 2.15
-	}
-
-	mountain_pass = {
-		movement_cost = 3.0
-		color = { 180 60 160 }
-		defence = 3
-		supply_limit = 5
-		bottleneck_chance = 90
-	}
-	
-	wasteland = {
-		movement_cost = 10
-		max_attrition = 1
-		color = { 213 213 213 }
-	
-		supply_limit = 1
-		bottleneck_chance = 10
-	}
+	}	
 }
 
 text_0	= { type = plains    color = { 	 0	 } priority = 	0	 }

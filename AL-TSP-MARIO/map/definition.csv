@@ -61,12 +61,12 @@ province;red;green;blue;x;x
 60;250;100;255;Angelo Hills;x
 61;200;50;255;Tailfin Bay;x
 62;255;130;0;Grande Artiglio Island;x
-63;255;110;0;Piccolo Artiglio Island;x
-64;255;90;0;Bocca Beach;x
-65;255;70;0;Fianco Harbour;x
-66;255;50;0;Corrazza Mountains;x
-67;255;30;0;Gamba Sinistra Islands;x
-68;255;10;0;Gamba Destra Islands;x
+63;255;110;1;Piccolo Artiglio Island;x
+64;255;90;1;Bocca Beach;x
+65;255;70;1;Fianco Harbour;x
+66;255;50;1;Corrazza Mountains;x
+67;255;30;1;Gamba Sinistra Islands;x
+68;255;11;0;Gamba Destra Islands;x
 69;245;0;0;Granchio Airport;x
 70;245;0;10;Booty Boardwalk;x
 71;255;125;25;Minnow Island;x
@@ -110,7 +110,7 @@ province;red;green;blue;x;x
 109;255;131;255;Toad Cliffs;x
 110;255;21;255;Flower Fields;x
 111;255;71;255;Shooting Star Summit;x
-112;255;81;255;Star Way;x
+112;255;81;255;Star Road;x
 113;255;22;255;Star Haven;x
 114;255;32;255;Star Way_2;x
 115;255;31;255;Shiver City;x
@@ -308,7 +308,7 @@ province;red;green;blue;x;x
 307;255;191;175;Yosu Lake;x
 308;255;201;175;Cloud-Bird Mountain;x
 309;255;211;175;Blaze Cave;x
-310;255;21;255;Ice Cave;x
+310;255;21;254;Ice Cave;x
 311;255;221;175;Cheep Cheep Waters;x
 312;255;231;175;Balloon Bridge;x
 313;255;241;175;Warios Garden;x
@@ -321,7 +321,7 @@ province;red;green;blue;x;x
 320;255;72;175;Wonky Circus;x
 321;255;82;175;Beanstalk Way;x
 322;255;92;175;Mirror Mansion;x
-323;255;240;175;Decalburg;x
+323;255;240;176;Decalburg;x
 324;255;250;175;Surfshine Harbour;x
 325;255;1;175;Warm Fuzzy Plains;x
 326;255;11;175;Bouquet Gardens;x
@@ -1208,274 +1208,282 @@ province;red;green;blue;x;x
 1207;126;91;186;Flurry Current;x
 1208;136;91;186;Ice Cube Coast;x
 1209;146;91;186;Iced Coast;x
-1210;156;91;186;Deep Frigid Trench;x
-1211;166;91;186;Great Frozen Bay;x
-1212;176;91;186;Sticker Sea;x
-1213;186;91;186;Icewater Cove;x
-1214;196;91;186;Straights of Bowser;x
-1215;206;91;186;Pack Ice Coast;x
-1216;216;91;186;Frostbite Sea;x
-1217;226;91;186;e Bay;x
-1218;236;91;186;Blackheart Coast;x
-1219;246;91;186;Sea of Nightmares;x
-1220;7;91;186;Cape of Bad Hope;x
-1221;17;91;186;Jealous Coast;x
-1222;27;91;186;Coast of Rage;x
-1223;37;91;186;Straights of Mist and Fog;x
-1224;47;91;186;Cloudy Coast;x
-1225;57;91;186;e Trench;x
-1226;67;91;186;Big Narrows;x
-1227;77;91;186;Oceanic Bay;x
-1228;87;91;186;Cape of Ocean Side;x
-1229;97;91;186;Oceanic Sea Breach;x
-1230;107;91;186;Cape of Beaches;x
-1231;117;91;186;Dusty Coast_2;x
-1232;127;91;186;Third Coast;x
-1233;137;91;186;Oceanic Straights;x
-1234;147;91;186;Blue Water Coast;x
-1235;157;91;186;Cloudy Straights;x
-1236;167;91;186;Narrow Bay;x
-1237;177;91;186;Mouth of Giants;x
-1238;187;91;186;Mushroom Approach;x
-1239;197;91;186;Great Mushroom Sea;x
-1240;207;91;186;Rogue Harbor;x
-1241;217;91;186;Bay of Petals;x
-1242;227;91;186;Twighlight Narrows;x
-1243;237;91;186;Keelhaul Straights;x
-1244;247;91;186;Cape Poshley;x
-1245;8;91;186;Twighlight Cove;x
-1246;18;91;186;Smugglers Cove;x
-1247;28;91;186;Quiet Firth;x
-1248;38;91;186;Wet-Dry Harbour;x
-1249;48;91;186;Petal Approach;x
-1250;58;91;186;Heavenly Coast;x
-1251;68;91;186;Twilit Sea;x
-1252;78;91;186;Fruity Current;x
-1253;88;91;186;Fruity Countercurrent;x
-1254;98;91;186;Mushroom Deep;x
-1255;108;91;186;Rare Sea;x
-1256;118;91;186;The Great Calm;x
-1257;128;91;186;Boggly Coastline;x
-1258;138;91;186;Hideaway Bay;x
-1259;148;91;186;Fahr Coast;x
-1260;158;91;186;Magnetic Coast;x
-1261;168;91;186;Penguin Coast;x
-1262;178;91;186;Santa Sea;x
-1263;188;91;186;Icepeak Coast;x
-1264;198;91;186;Cool Cool Coastline;x
-1265;208;91;186;Sherbet Coast;x
-1266;218;91;186;Shivering Coastline;x
-1267;228;91;186;Ice Koopa Coast;x
-1268;238;91;186;Frosty Bay;x
-1269;248;91;186;Toadwood Bay_2;x
-1270;9;91;186;Kings Cove;x
-1271;19;91;186;Shipwrecker Bay;x
-1272;29;91;186;Mole Harbour_2;x
-1273;39;91;186;Mole Coast;x
-1274;49;91;186;Shipwreck Sea;x
-1275;59;91;186;Monster Cove;x
-1276;69;91;186;Bay of Storms;x
-1277;79;91;186;Sea of Mario;x
-1278;89;91;186;Marionic Tidal Zone;x
-1279;99;91;186;Yoshis Approach;x
-1280;109;91;186;Nimbus Coast;x
-1281;119;91;186;Sulphuric Coast;x
-1282;129;91;186;Rice Coast;x
-1283;139;91;186;Sherbet Ocean Region;x
-1284;149;91;186;Kitchen Coast;x
-1285;159;91;186;Kitchen Island Approach;x
-1286;169;91;186;Sea of Tranquility;x
-1287;179;91;186;Koopa Coast;x
-1288;189;91;186;Frozen Turtle Coast;x
-1289;199;91;186;Eastern Bowser Approach;x
-1290;209;91;186;North Coast of Toadwood;x
-1291;219;91;186;Hisstocrat Sea;x
-1292;229;91;186;Chain Link Coast;x
-1293;239;91;186;Frosted Ice Coast;x
-1294;249;91;186;Snowberg Alley;x
-1295;0;90;186;Northern Sprixie Sea;x
-1296;10;90;186;Steep Coast;x
-1297;20;90;186;Sandy Coast;x
-1298;30;90;186;Continental Dropoff;x
-1299;40;90;186;Beabbean Cove;x
-1300;50;90;186;Awazon River;x
-1301;60;90;186;Awazon River #2;x
-1302;41;0;158;Awazon River #3;x
-1303;41;10;158;Mouth of the Awazon;x
-1304;41;20;158;Midas Falls;x
-1305;41;30;158;Midas River;x
-1306;41;40;158;Vanilla Falls;x
-1307;41;50;158;Donut River;x
-1308;41;60;158;Banana Bird Falls;x
-1309;41;70;158;Bear River;x
-1310;41;80;158;Razor Falls;x
-1311;41;90;158;Bear Falls;x
-1312;41;100;158;Blackforest River;x
-1313;41;110;158;Blackforest River #2;x
-1314;41;120;158;Tropica River;x
-1315;41;130;158;Tropica River #2;x
-1316;41;140;158;Tropica River #3;x
-1317;41;150;158;Tropica River #4;x
-1318;41;160;158;Verge River;x
-1319;41;170;158;Monkey Falls;x
-1320;41;180;158;Minke Falls;x
-1321;41;190;158;Koco River;x
-1322;41;200;158;Koco River #2;x
-1323;41;210;158;Mill River;x
-1324;41;220;158;Salmon River;x
-1325;41;230;158;Salmon River #2;x
-1326;41;240;158;Salmon River #3;x
-1327;41;250;158;Salmon River #4;x
-1328;41;1;158;Salmon River #5;x
-1329;41;11;158;Salmon River #6;x
-1330;41;21;158;Salmon River #7;x
-1331;41;31;158;Salmon River #8;x
-1332;41;41;158;Salt River;x
-1333;41;51;158;Tylex River;x
-1334;41;61;158;Tylex River #2;x
-1335;41;71;158;Tylex River #3;x
-1336;41;81;158;Tylex River #4;x
-1337;41;91;158;Tylex River #5;x
-1338;41;101;158;Tylex River #6;x
-1339;41;111;158;Tylex River #7;x
-1340;41;121;158;Sprixie River;x
-1341;41;131;158;Star River;x
-1342;41;141;158;Star River #2;x
-1343;41;151;158;Star River #3;x
-1344;41;161;158;Star River #4;x
-1345;41;171;158;Star River #5;x
-1346;41;181;158;Star River #6;x
-1347;41;191;158;Star River #7;x
-1348;41;201;158;Star River #8;x
-1349;41;211;158;Star River #9;x
-1350;41;221;158;Star River #10;x
-1351;41;231;158;Star River #11;x
-1352;41;241;158;Star River #12;x
-1353;41;251;158;Mushroom River;x
-1354;41;2;158;Mushroom River #2;x
-1355;41;12;158;Mushroom River #3;x
-1356;41;22;158;Mushroom River #4;x
-1357;41;32;158;Mushroom River #5;x
-1358;41;42;158;Mushroom River #6;x
-1359;41;52;158;Mushroom River #7;x
-1360;41;62;158;Mushroom River #8;x
-1361;41;72;158;Mushroom River #9;x
-1362;41;82;158;Mushroom River #10;x
-1363;41;92;158;Mushroom River #11;x
-1364;41;102;158;Mushroom River #12;x
-1365;41;112;158;Koopa River;x
-1366;41;122;158;Koopa River #2;x
-1367;41;132;158;Koopa River #3;x
-1368;41;142;158;Koopa River #4;x
-1369;41;152;158;Cold River;x
-1370;41;162;158;Cold River #2;x
-1371;41;172;158;Cold River #3;x
-1372;41;182;158;Cold River #4;x
-1373;41;192;158;Cold River #5;x
-1374;41;202;158;Cold River #6;x
-1375;41;212;158;Cold River #7;x
-1376;41;222;158;Cold River #8;x
-1377;41;232;158;Cold River #9;x
-1378;41;242;158;Cold River #10;x
-1379;41;252;158;Cold River #11;x
-1380;41;3;158;Cold River #12;x
-1381;41;13;158;Cold River #13;x
-1382;41;23;158;Cold River #14;x
-1383;41;33;158;Cold River #15;x
-1384;41;43;158;Toad River;x
-1385;41;53;158;Toad River #2;x
-1386;41;63;158;Toad River #3;x
-1387;41;73;158;Garden River;x
-1388;41;83;158;Garden River #2;x
-1389;41;93;158;Boo River;x
-1390;41;103;158;Boo River #2;x
-1391;41;113;158;Boo River #3;x
-1392;41;123;158;Boo River #4;x
-1393;41;133;158;Boo River #5;x
-1394;41;143;158;Boo River #6;x
-1395;41;153;158;Rapid River;x
-1396;41;163;158;Rapid River #2;x
-1397;41;173;158;Fairy River;x
-1398;41;183;158;Fairy River #2;x
-1399;41;193;158;Fairy River #3;x
-1400;41;203;158;Fairy River #4;x
-1401;41;213;158;Fairy River #5;x
-1402;41;223;158;Fairy River #6;x
-1403;41;243;158;Fairy River #7;x
-1404;41;253;158;Fairy River #8;x
-1405;41;4;158;Yosu Rapids;x
-1406;41;14;158;Diamond River;x
-1407;41;24;158;Diamond River #2;x
-1408;41;34;158;Pacifica;x
-1409;41;0;158;Banana Bird Lake;x
-1410;44;10;244;Lake Orangatanga;x
-1411;44;20;244;Kremling Lake;x
-1412;44;30;244;Kremling Lake #2;x
-1413;44;40;244;Kremling Lake #3;x
-1414;44;50;244;Icy Lake;x
-1415;44;60;244;Lake Lodge;x
-1416;44;70;244;Roolenstein Lake;x
-1417;44;80;244;Kroc Pond;x
-1418;44;90;244;Miller Lake;x
-1419;44;100;244;Great Ape Lakes;x
-1420;44;110;244;Lake of the Vines;x
-1421;44;120;244;Crocodile Lake;x
-1422;44;130;244;Crocodile Lake #2;x
-1423;44;140;244;Crocodile Lake #3;x
-1424;44;150;244;Crocodile Lake #4;x
-1425;44;160;244;Crocodile Lake #5;x
-1426;44;170;244;Crocodile Lake #6;x
-1427;44;180;244;Upper Factory Lake;x
-1428;44;190;244;Lower Factory Lake;x
-1429;44;200;244;Timber Lake;x
-1430;44;210;244;Joy Lake;x
-1431;44;220;244;Lake of Fire;x
-1432;44;230;244;Big Moat;x
-1433;44;240;244;Rough Lake;x
-1434;44;250;244;Jungle Pond;x
-1435;44;1;244;Frozen Lake;x
-1436;44;11;244;Lethal Lava Land;x
-1437;44;21;244;Third Lake;x
-1438;44;31;244;Desert Oasis;x
-1439;44;41;244;Grassland Moat;x
-1440;44;51;244;Warm Fuzzy Lake;x
-1441;44;61;244;Damp Oasis;x
-1442;44;71;244;Gauntlet Pond;x
-1443;44;81;244;Strike Lake;x
-1444;44;91;244;Snowflake Lake;x
-1445;44;101;244;Chilly Lakes;x
-1446;44;111;244;Lake T;x
-1447;44;121;244;Yosu Lake;x
-1448;44;131;244;Cheep Cheep Lake;x
-1449;44;141;244;Park Lake;x
-1450;44;151;244;Boo Lake;x
-1451;44;161;244;Blubble Lake;x
-1452;44;171;244;Yoshi Lake;x
-1453;44;181;244;Turtleshell Lake;x
-1454;44;191;244;Soda Marsh;x
-1455;44;201;244;Fisheye Lake;x
-1456;44;211;244;Jade Jungle;x
-1457;44;221;244;Canyon Lake;x
-1458;44;231;244;Muda Lake;x
-1459;44;241;244;Awazon Basin;x
-1460;44;251;244;Yoshis Island Lake;x
-1461;44;2;244;Donut Lake;x
-1462;44;12;244;Soda Lake;x
-1463;44;22;244;Kettle Lake;x
-1464;44;32;244;Toadwood Lake;x
-1465;44;42;244;Turtle Bog;x
-1466;44;52;244;Mushroom Swamp;x
-1467;44;62;244;Royal Lake;x
-1468;44;72;244;Tadpole Pond;x
-1469;44;82;244;Mushroom Sea;x
-1470;44;92;244;Mushroom Sea #2;x
-1471;44;102;244;Mushroom Sea #3;x
-1472;44;112;244;Mushroom Sea #4;x
-1473;44;122;244;Mushroom Sea #5;x
-1474;44;132;244;Mushroom Sea #6;x
-1475;44;142;244;Mushroom Sea #7;x
-1476;44;152;244;Sulphur Lake;x
-1477;44;162;244;Guffawha Lake;x
-1478;44;172;244;Chucklehuck Lake;x
-1479;44;182;244;Chucklehuck Lake #2;x
-1480;44;192;244;Chucklehuck Lake #3;x
+1210;156;91;186;;x
+1211;166;91;186;Deep Frigid Trench;x
+1212;176;91;186;Great Frozen Bay;x
+1213;186;91;186;Sticker Sea;x
+1214;196;91;186;Icewater Cove;x
+1215;206;91;186;Straights of Bowser;x
+1216;216;91;186;Pack Ice Coast;x
+1217;226;91;186;Frostbite Sea;x
+1218;236;91;186;e Bay;x
+1219;246;91;186;Blackheart Coast;x
+1220;7;91;186;Sea of Nightmares;x
+1221;17;91;186;Cape of Bad Hope;x
+1222;27;91;186;Jealous Coast;x
+1223;37;91;186;Coast of Rage;x
+1224;47;91;186;Straights of Mist and Fog;x
+1225;57;91;186;Cloudy Coast;x
+1226;67;91;186;e Trench;x
+1227;77;91;186;Big Narrows;x
+1228;87;91;186;Oceanic Bay;x
+1229;97;91;186;Cape of Ocean Side;x
+1230;107;91;186;Oceanic Sea Breach;x
+1231;117;91;186;Cape of Beaches;x
+1232;127;91;186;Dusty Coast_2;x
+1233;137;91;186;Third Coast;x
+1234;147;91;186;Oceanic Straights;x
+1235;157;91;186;Blue Water Coast;x
+1236;167;91;186;Cloudy Straights;x
+1237;177;91;186;Narrow Bay;x
+1238;187;91;186;Mouth of Giants;x
+1239;197;91;186;Mushroom Approach;x
+1240;207;91;186;Great Mushroom Sea;x
+1241;217;91;186;Rogue Harbor;x
+1242;227;91;186;Bay of Petals;x
+1243;237;91;186;Twighlight Narrows;x
+1244;247;91;186;Keelhaul Straights;x
+1245;8;91;186;Cape Poshley;x
+1246;18;91;186;Twighlight Cove;x
+1247;28;91;186;Smugglers Cove;x
+1248;38;91;186;Quiet Firth;x
+1249;48;91;186;Wet-Dry Harbour;x
+1250;58;91;186;Petal Approach;x
+1251;68;91;186;Heavenly Coast;x
+1252;78;91;186;Twilit Sea;x
+1253;88;91;186;Fruity Current;x
+1254;98;91;186;Fruity Countercurrent;x
+1255;108;91;186;Mushroom Deep;x
+1256;118;91;186;Rare Sea;x
+1257;128;91;186;The Great Calm;x
+1258;138;91;186;Boggly Coastline;x
+1259;148;91;186;Hideaway Bay;x
+1260;158;91;186;Fahr Coast;x
+1261;168;91;186;Magnetic Coast;x
+1262;178;91;186;Penguin Coast;x
+1263;188;91;186;Santa Sea;x
+1264;198;91;186;Icepeak Coast;x
+1265;208;91;186;Cool Cool Coastline;x
+1266;218;91;186;Sherbet Coast;x
+1267;228;91;186;Shivering Coastline;x
+1268;238;91;186;Ice Koopa Coast;x
+1269;248;91;186;Frosty Bay;x
+1270;9;91;186;Toadwood Bay_2;x
+1271;19;91;186;Kings Cove;x
+1272;29;91;186;Shipwrecker Bay;x
+1273;39;91;186;;x
+1274;59;91;186;Mole Coast;x
+1275;49;91;186;Mole Harbour_2;x
+1276;69;91;186;Shipwreck Sea;x
+1277;79;91;186;Monster Cove;x
+1278;89;91;186;Bay of Storms;x
+1279;99;91;186;Sea of Mario;x
+1280;109;91;186;Marionic Tidal Zone;x
+1281;119;91;186;Yoshis Approach;x
+1282;129;91;186;Nimbus Coast;x
+1283;139;91;186;Sulphuric Coast;x
+1284;149;91;186;Rice Coast;x
+1285;159;91;186;Sherbet Ocean Region;x
+1286;169;91;186;Kitchen Coast;x
+1287;179;91;186;Kitchen Island Approach;x
+1288;189;91;186;Sea of Tranquility;x
+1289;199;91;186;Koopa Coast;x
+1290;209;91;186;Frozen Turtle Coast;x
+1291;219;91;186;Eastern Bowser Approach;x
+1292;229;91;186;North Coast of Toadwood;x
+1293;239;91;186;Hisstocrat Sea;x
+1294;249;91;186;Chain Link Coast;x
+1295;0;90;186;Frosted Ice Coast;x
+1296;10;90;186;Snowberg Alley;x
+1297;20;90;186;Northern Sprixie Sea;x
+1298;30;90;186;Steep Coast;x
+1299;40;90;186;Sandy Coast;x
+1300;50;90;186;Continental Dropoff;x
+1301;60;90;186;Beabbean Cove;x
+1302;41;0;158;Awazon River;x
+1303;41;10;158;Awazon River #2;x
+1304;41;20;158;Awazon River #3;x
+1305;41;30;158;Mouth of the Awazon;x
+1306;41;40;158;Midas Falls;x
+1307;41;50;158;Midas River;x
+1308;41;60;158;Vanilla Falls;x
+1309;41;70;158;Donut River;x
+1310;41;80;158;Banana Bird Falls;x
+1311;41;90;158;Bear River;x
+1312;41;100;158;Razor Falls;x
+1313;41;110;158;Bear Falls;x
+1314;41;120;158;Blackforest River;x
+1315;41;130;158;Blackforest River #2;x
+1316;41;140;158;Tropica River;x
+1317;41;150;158;Tropica River #2;x
+1318;41;160;158;Tropica River #3;x
+1319;41;170;158;Tropica River #4;x
+1320;41;180;158;Verge River;x
+1321;41;190;158;Monkey Falls;x
+1322;41;200;158;Minke Falls;x
+1323;41;210;158;Koco River;x
+1324;41;220;158;Koco River #2;x
+1325;41;230;158;Mill River;x
+1326;41;240;158;Salmon River;x
+1327;41;250;158;Salmon River #2;x
+1328;41;1;158;Salmon River #3;x
+1329;41;11;158;Salmon River #4;x
+1330;41;21;158;Salmon River #5;x
+1331;41;31;158;Salmon River #6;x
+1332;41;41;158;Salmon River #7;x
+1333;41;51;158;Salmon River #8;x
+1334;41;61;158;Salt River;x
+1335;41;71;158;Tylex River;x
+1336;41;81;158;Tylex River #2;x
+1337;41;91;158;Tylex River #3;x
+1338;41;101;158;Tylex River #4;x
+1339;41;111;158;Tylex River #5;x
+1340;41;121;158;Tylex River #6;x
+1341;41;131;158;Tylex River #7;x
+1342;41;141;158;Sprixie River;x
+1343;41;151;158;Star River;x
+1344;41;161;158;Star River #2;x
+1345;41;171;158;Star River #3;x
+1346;41;181;158;Star River #4;x
+1347;41;191;158;Star River #5;x
+1348;41;201;158;Star River #6;x
+1349;41;211;158;Star River #7;x
+1350;41;221;158;Star River #8;x
+1351;41;231;158;Star River #9;x
+1352;41;241;158;Star River #10;x
+1353;41;251;158;Star River #11;x
+1354;41;2;158;Star River #12;x
+1355;41;12;158;Mushroom River;x
+1356;41;22;158;Mushroom River #2;x
+1357;41;32;158;Mushroom River #3;x
+1358;41;42;158;Mushroom River #4;x
+1359;41;52;158;Mushroom River #5;x
+1360;41;62;158;Mushroom River #6;x
+1361;41;72;158;Mushroom River #7;x
+1362;41;82;158;Mushroom River #8;x
+1363;41;92;158;Mushroom River #9;x
+1364;41;102;158;Mushroom River #10;x
+1365;41;112;158;Mushroom River #11;x
+1366;41;122;158;Mushroom River #12;x
+1367;41;132;158;Koopa River;x
+1368;41;142;158;Koopa River #2;x
+1369;41;152;158;Koopa River #3;x
+1370;41;162;158;Koopa River #4;x
+1371;41;172;158;Cold River;x
+1372;41;182;158;Cold River #2;x
+1373;41;192;158;Cold River #3;x
+1374;41;202;158;Cold River #4;x
+1375;41;212;158;Cold River #5;x
+1376;41;222;158;Cold River #6;x
+1377;41;232;158;Cold River #7;x
+1378;41;242;158;Cold River #8;x
+1379;41;252;158;Cold River #9;x
+1380;41;3;158;Cold River #10;x
+1381;41;13;158;Cold River #11;x
+1382;41;23;158;Cold River #12;x
+1383;41;33;158;Cold River #13;x
+1384;41;43;158;Cold River #14;x
+1385;41;53;158;Cold River #15;x
+1386;41;63;158;Toad River;x
+1387;41;73;158;Toad River #2;x
+1388;41;83;158;Toad River #3;x
+1389;41;93;158;Garden River;x
+1390;41;103;158;Garden River #2;x
+1391;41;113;158;Boo River;x
+1392;41;123;158;Boo River #2;x
+1393;41;133;158;Boo River #3;x
+1394;41;143;158;Boo River #4;x
+1395;41;153;158;Boo River #5;x
+1396;41;163;158;Boo River #6;x
+1397;41;173;158;Rapid River;x
+1398;41;183;158;Rapid River #2;x
+1399;41;193;158;Fairy River;x
+1400;41;203;158;Fairy River #2;x
+1401;41;213;158;Fairy River #3;x
+1402;41;223;158;Fairy River #4;x
+1403;41;243;158;Fairy River #5;x
+1404;41;253;158;Fairy River #6;x
+1405;41;4;158;Fairy River #7;x
+1406;41;14;158;Fairy River #8;x
+1407;41;24;158;Yosu Rapids;x
+1408;41;34;158;Diamond River;x
+1409;41;0;158;Diamond River #2;x
+1410;44;0;244;Pacifica;x
+1411;44;10;244;Banana Bird Lake;x
+1412;44;20;244;Lake Orangatanga;x
+1413;44;30;244;Kremling Lake;x
+1414;44;40;244;Kremling Lake #2;x
+1415;44;50;244;Kremling Lake #3;x
+1416;44;60;244;Icy Lake;x
+1417;44;70;244;Lake Lodge;x
+1418;44;80;244;Roolenstein Lake;x
+1419;44;90;244;Kroc Pond;x
+1420;44;100;244;Miller Lake;x
+1421;44;110;244;Great Ape Lakes;x
+1422;44;120;244;Lake of the Vines;x
+1423;44;130;244;Crocodile Lake;x
+1424;44;140;244;Crocodile Lake #2;x
+1425;44;150;244;Crocodile Lake #3;x
+1426;44;160;244;Crocodile Lake #4;x
+1427;44;170;244;Crocodile Lake #5;x
+1428;44;180;244;Crocodile Lake #6;x
+1429;44;190;244;Upper Factory Lake;x
+1430;44;200;244;Lower Factory Lake;x
+1431;44;210;244;Timber Lake;x
+1432;44;220;244;Joy Lake;x
+1433;44;230;244;Lake of Fire;x
+1434;44;240;244;Big Moat;x
+1435;44;250;244;Rough Lake;x
+1436;44;1;244;Jungle Pond;x
+1437;44;11;244;Frozen Lake;x
+1438;44;21;244;Lethal Lava Land;x
+1439;44;31;244;Third Lake;x
+1440;44;41;244;Desert Oasis;x
+1441;44;51;244;Grassland Moat;x
+1442;44;61;244;Warm Fuzzy Lake;x
+1443;44;71;244;Damp Oasis;x
+1444;44;81;244;Gauntlet Pond;x
+1445;44;91;244;Strike Lake;x
+1446;44;101;244;Snowflake Lake;x
+1447;44;111;244;Chilly Lakes;x
+1448;44;121;244;Lake T;x
+1449;44;131;244;Yosu Lake;x
+1450;44;141;244;Cheep Cheep Lake;x
+1451;44;151;244;Park Lake;x
+1452;44;161;244;Boo Lake;x
+1453;44;171;244;Blubble Lake;x
+1454;44;181;244;Yoshi Lake;x
+1455;44;191;244;Turtleshell Lake;x
+1456;44;201;244;Soda Marsh;x
+1457;44;211;244;Fisheye Lake;x
+1458;44;221;244;Jade Jungle;x
+1459;44;231;244;Canyon Lake;x
+1460;44;241;244;Muda Lake;x
+1461;44;251;244;Awazon Basin;x
+1462;44;2;244;Yoshis Island Lake;x
+1463;44;12;244;Donut Lake;x
+1464;44;22;244;Soda Lake;x
+1465;44;32;244;Kettle Lake;x
+1466;44;42;244;Toadwood Lake;x
+1467;44;52;244;Turtle Bog;x
+1468;44;62;244;Mushroom Swamp;x
+1469;44;72;244;Royal Lake;x
+1470;44;82;244;Tadpole Pond;x
+1471;44;92;244;Mushroom Sea;x
+1472;44;102;244;Mushroom Sea #2;x
+1473;44;112;244;Mushroom Sea #3;x
+1474;44;122;244;Mushroom Sea #4;x
+1475;44;132;244;Mushroom Sea #5;x
+1476;44;142;244;Mushroom Sea #6;x
+1477;44;152;244;Mushroom Sea #7;x
+1478;44;162;244;Sulphur Lake;x
+1479;44;172;244;Guffawha Lake;x
+1480;44;182;244;Chucklehuck Lake;x
+1481;44;192;244;Chucklehuck Lake #2;x
+1482;1;2;3;Chucklehuck Lake #3;x
+1483;44;193;244;Oasis;x
+1484;255;28;255;Snowy Fields;x
+1485;255;78;255;Autumn Fields;x
+1486;44;202;244;Turtleshell Lake;x
+1487;245;243;10;Forgetti;x
+1488;245;243;20;Bald Mountain;x
