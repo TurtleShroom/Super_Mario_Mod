@@ -15,6 +15,7 @@ b_monkey_fest = castle
 #b_monkey_fest_7 = castle
 
 # Misc
-culture = kongobongo
-religion = kong_religion
+culture = pirate
+religion = seven_stars
+
 #History

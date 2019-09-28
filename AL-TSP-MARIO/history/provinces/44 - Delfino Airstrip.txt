@@ -15,7 +15,7 @@ b_delfino_airstrip = castle
 #b_delfino_airstrip_7 = castle
 
 # Misc
-culture = delfino
-religion = shine_sprites
+culture = pirate
+religion = seven_stars
 
 #History

@@ -15,6 +15,7 @@ b_desert_oasis_8 = castle
 #b_desert_oasis_14 = castle
 
 # Misc
-culture = kongobongo
-religion = kong_religion
+culture = pirate
+religion = seven_stars
+
 #History

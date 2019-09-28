@@ -15,6 +15,7 @@ b_harvest_hill = castle
 #b_harvest_hill_7 = castle
 
 # Misc
-culture = kongobongo
-religion = kong_religion
+culture = pirate
+religion = seven_stars
+
 #History

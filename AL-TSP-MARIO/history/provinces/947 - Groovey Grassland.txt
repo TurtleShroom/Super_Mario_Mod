@@ -15,6 +15,7 @@ b_groovey_grassland = castle
 #b_groovey_grassland_7 = castle
 
 # Misc
-culture = kongobongo
-religion = kong_religion
+culture = pirate
+religion = seven_stars
+
 #History
