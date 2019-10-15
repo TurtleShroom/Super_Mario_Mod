@@ -15,7 +15,7 @@ b_yoshis_village = castle
 #b_yoshis_village_7 = castle
 
 # Misc
-culture = lavalava
-religion = happiness
+culture = pirate
+religion = seven_stars
 
 #History

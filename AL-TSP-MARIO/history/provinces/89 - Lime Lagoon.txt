@@ -15,7 +15,7 @@ b_lime_lagoon = castle
 #b_lime_lagoon_7 = castle
 
 # Misc
-culture = eel_islands
-religion = shine_sprites
+culture = pirate
+religion = seven_stars
 
 #History

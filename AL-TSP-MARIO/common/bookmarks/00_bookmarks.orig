@@ -1,0 +1,10 @@
+
+bookmark =
+{
+	name = "BM_SMB"
+	desc = "BM_SMB"
+	date = 1985.9.13
+	
+	character = 9999999 # Mario
+	
+}

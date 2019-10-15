@@ -15,6 +15,7 @@ b_yoshi_volcano = castle
 #b_yoshi_volcano_7 = castle
 
 # Misc
-culture = yoshi_island
-religion = happiness
+culture = pirate
+religion = seven_stars
+
 #History

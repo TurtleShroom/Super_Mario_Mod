@@ -15,12 +15,7 @@ b_turtle_zone = castle
 #b_turtle_zone_7 = castle
 
 # Misc
-culture = koopa
-religion = koopa_pagan
+culture = pirate
+religion = seven_stars
 
 #History
-
-1991.10.21 = { #An exact year before Seven Golden Coins start date
-	culture = mario_brothers
-	religion = seven_stars
-}

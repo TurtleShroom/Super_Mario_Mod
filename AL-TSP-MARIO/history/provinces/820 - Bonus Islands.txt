@@ -15,7 +15,7 @@ b_bonus_islands = castle
 #b_bonus_islands_7 = castle
 
 # Misc
-culture = kongobongo
-religion = kong_religion
+culture = pirate
+religion = seven_stars
 
 #History

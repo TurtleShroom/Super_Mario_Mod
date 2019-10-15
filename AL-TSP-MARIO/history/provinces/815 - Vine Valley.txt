@@ -15,7 +15,7 @@ b_vine_valley = castle
 #b_vine_valley_7 = castle
 
 # Misc
-culture = kongobongo
-religion = kong_religion
+culture = pirate
+religion = seven_stars
 
 #History

@@ -15,7 +15,7 @@ b_waluigis_island = castle
 #b_waluigis_island_7 = castle
 
 # Misc
-culture = mario_brothers
-religion = lucienism
+culture = pirate
+religion = seven_stars
 
 #History

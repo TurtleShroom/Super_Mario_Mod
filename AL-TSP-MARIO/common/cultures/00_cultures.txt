@@ -73,7 +73,7 @@ scallywag = {
 }
 
 
-mushroom_kingdom_group = {
+mushroom = {
 	graphical_cultures = { westerngfx }
 
 	mushroom_kingdom = {
@@ -181,10 +181,10 @@ mushroom_kingdom_group = {
 		
 		male_names = {
 			Bruce Steve_Steven Irwin
-	}
+		}
 		female_names = {
 			Shazza Shiela
-	}
+		}
 		from_dynasty_suffix = "toad"
 		modifier = default_culture_modifier
 
@@ -964,7 +964,7 @@ twilighter_group = {
 			Dour Darkly Gloomer
 
 			# made up filler
-			Dusk Dusker Gloom Sorrow Sye Dark'ness Poe Bloodirist Christo_Christopher Edgar Enoby_Ebony Goff Goffik Gerard_Gerard Draco Loopin Allen Black Enopby_Ebony Egogy_Ebony Gothum Ichabod Igor Harry_Harold Harold_Harold Ron_Ronald Ronald_Ronald Gerard "Billie Joel"_William Joel Evony_Ebony "Tre Cool" "Mike Dinrt"_Micheal Kiffmeyer Dirnt Cometbus Trey "Gerard Way"_Gerard James Dewees Mikey_Micheal Dusky Smokey Armstrong Bryar Fallout Dib Jhoenn Skoodge Keif_Keith Keith_Keith Jim_James Jimmy_Hames Crow_Raven William_William
+			Dusk Dusker Gloom Sorrow Sye "Dark'ness" Poe Bloodirist Christo_Christopher Edgar Enoby_Ebony Goff Goffik Gerard_Gerard Draco Loopin Allen Black Enopby_Ebony Egogy_Ebony Gothum Ichabod Igor Harry_Harold Harold_Harold Ron_Ronald Ronald_Ronald Gerard "Billie Joel"_William Joel Evony_Ebony "Tre Cool" "Mike Dinrt"_Micheal Kiffmeyer Dirnt Cometbus Trey "Gerard Way"_Gerard James Dewees Mikey_Micheal Dusky Smokey Armstrong Bryar Fallout Dib Jhoenn Skoodge Keif_Keith Keith_Keith Jim_James Jimmy_Hames Crow_Raven William_William
 		}
 
 		female_names = {
@@ -1312,14 +1312,14 @@ canonical_human_group = {
 			Dribble_Dribble Eighteen_Eighteen Five_Five Jimmy_James:150 Joe_Joseph:150 Mike_Micheal Nine_Nine Spitz_Spitz Wario
 
 			# Made-up filler
-			Anne Amanda Ada April Amphyllis Abigail Alice Adell Amelia Antoinette Arabella Alma Agnes Agatha Barbara Brigit Blanche Bertha Belle Caroline Charlotte Christine Catharine Clementine Clara Constance Claudia Carrie Cora Dolley Dorothy Deborah Daisy Doris Edith Evangeline Elizabeth Esther Emily Emma Ernestine Ethel Flora Frances Florence Gladys Gloria Grace Gertrude Heather Hannah Hermina Harriet Helen Hortense Hope Ida Isabella Joan Jane Julia Josephine Laura Lucy Lydia Lillie Lena Michelle Mary Marta Muriel Mildred Margaret Mercy Mathilda Marion Madeline Marilla Mabel Nancy Noami Nell Olympia Prudence Patricia Pauline Patience Pamela Phoebe Paula Rachel_Rachel Rebecca Rhoda Rosalie Ruth Rosa Scarlett Sarah Sally Sylvia Susanna Sybil Susa Sophia Tabitha Theodora Victoria Virginia Verina Valeria Winifred Yasutada Yasutomo Yasutoshi Yasuyoshi Yasuzane Yoriaki Yorichika Yorifusa Yoriharu Yorihira Yorihisa Yorikatsu Yorimori Yorioki Yorishige Yoritada Yoritaka Yoritake Yoritoki Yoritsugu Yoritsuna Yoriuji Yoriyasu Yoshiaki Yoshiakira Yoshiari Yoshiatsu Yoshichika Yoshifuyu Yoshiharu Yoshihi Yoshihide Yoshihira Yoshihiro Yoshihisa Yoshihito Yoshikado Yoshikage Yoshikane Yoshikata Yoshikatsu Yoshikiyo Yukihiro Yukimasa Yukimori Yukimura Yukinaga Yukishige
+			Anne Amanda Ada April Amphyllis Abigail Alice Adell Amelia Antoinette Arabella Alma Agnes Agatha Barbara Brigit Blanche Bertha Belle Caroline Charlotte Christine Catharine Clementine Clara Constance Claudia Carrie Cora Dolley Dorothy Deborah Daisy Doris Edith Evangeline Elizabeth Esther Emily Emma Ernestine Ethel Flora Frances Florence Gladys Gloria Grace Gertrude Heather Hannah Hermina Harriet Helen Hortense Hope Ida Isabella Jack Joan Jane Julia Josephine Laura Lucy Lydia Lillie Lena Michelle Mary Marta Muriel Mildred Margaret Mercy Mathilda Marion Madeline Marilla Mabel Nancy Noami Nell Olympia Prudence Patricia Pauline Patience Pamela Phoebe Paula Rachel_Rachel Rebecca Rhoda Rosalie Ruth Rosa Scarlett Sarah Sally Sylvia Susanna Sybil Susa Sophia Tabitha Theodora Victoria Virginia Verina Valeria Winifred Yasutada Yasutomo Yasutoshi Yasuyoshi Yasuzane Yoriaki Yorichika Yorifusa Yoriharu Yorihira Yorihisa Yorikatsu Yorimori Yorioki Yorishige Yoritada Yoritaka Yoritake Yoritoki Yoritsugu Yoritsuna Yoriuji Yoriyasu Yoshiaki Yoshiakira Yoshiari Yoshiatsu Yoshichika Yoshifuyu Yoshiharu Yoshihi Yoshihide Yoshihira Yoshihiro Yoshihisa Yoshihito Yoshikado Yoshikage Yoshikane Yoshikata Yoshikatsu Yoshikiyo Yukihiro Yukimasa Yukimori Yukimura Yukinaga Yukishige
 		}
 		female_names = {
 			# Canonical
 			Ana_Ana:150 Ashley_Ashley:175 Kat_Kat:150 Lulu_Lulu:150 Mona_Monica:200 Penny_Penelope:150
 
 			# Made-up filler
-			Acha Achacha Ago Agogo Ai Aiyasha Akaka Akashi Aki Ako Akoko Ame Amu Asa Asahi Ate Aya Ayamachi Ayaya Azechi Chacha Chago Chau Chibo Chii Etsu Chima Chise Chiyo Cho Chobo Ei Fuku Fuji Fumi Furi Fusa Fuyo Fuyu Gin Go Gomoji Gou Hagi Haku Hana Haru Hatsu Hatsune Hide Hiko Hina Hiro Hisa Hochi Hoju Hou Ia Icha Ichako Ichi Ichiba Ima Imaaki Ina Inaka Ine Ino Inu Iemon Ietoki Iori Ira Iro Iroha Ishi Ishika Ito Itoito Itoko Iwa Iya Iyo Kaga Kai Kaji Kaka Kama Kame Kane Kasuga Katsu Kaze Kazusa Kesa Kichi Kichou Kii Kiku Kimi Kin Kinu Kisa Kita Kitsuno Kiyo Kocha Kochiyo Kochou Kofuku Kogou Koi Koishi Koito Koko Koma Komatsu Kon Koto Kou Kowa Koya Koyaya Kubo Kuma Kuni Kurikaka Kyaku Maa Machi Maki Man Mari Masa Masako Mayo Mate Matsu Matsuno Mego Meshi Minoru Minato Mitsu Miya Mono Miwa Moto Muku Mume Mumetsu Naa Nabe Naka Nami Natsu Natsumi Naya Nene Nii Nishi Nue Oku Olympia Prudence Patricia Pauline Patience Pamela Phoebe Paula Rachel_Rachel Rebecca Rhoda Rosalie Ruth Rosa Scarlett Sarah Sally Sylvia Susanna Sybil Susa Sophia Tabitha Theodora Uba Ume Uta Wakana Waki Victoria Virginia Verina Valeria Winifred Yaya Yayacha Yome Yone Yachi Yasha Yashayo Yasu Yui Yuki Yuku Yume Yumi Zen Zerelda
+			Acha Achacha Ago Agogo Ai Aiyasha Akaka Akashi Aki Ako Akoko Ame Amu Asa Asahi Ashi Ate Aya Ayamachi Ayaya Azechi Chacha Chago Chau Chibo Chii Etsu Chima Chise Chiyo Cho Chobo Ei Fuku Fuji Fumi Furi Fusa Fuyo Fuyu Gin Go Gomoji Gou Hagi Haku Hana Haru Hatsu Hatsune Hide Hiko Hina Hiro Hisa Hochi Hoju Hou Ia Icha Ichako Ichi Ichiba Ima Imaaki Ina Inaka Ine Ino Inu Iemon Ietoki Iori Ira Iro Iroha Ishi Ishika Ito Itoito Itoko Iwa Iya Iyo Kaga Kai Kaji Kaka Kama Kame Kane Kasuga Katsu Kaze Kazusa Kesa Kichi Kichou Kii Kiku Kimi Kin Kinu Kisa Kita Kitsuno Kiyo Kocha Kochiyo Kochou Kofuku Kogou Koi Koishi Koito Koko Koma Komatsu Kon Koto Kou Kowa Koya Koyaya Kubo Kuma Kuni Kurikaka Kyaku Maa Machi Maki Man Mari Masa Masako Mayo Mate Matsu Matsuno Mego Meshi Minoru Minato Mitsu Miya Mono Miwa Moto Muku Mume Mumetsu Naa Nabe Naka Nami Natsu Natsumi Naya Nene Nii Nishi Nue Oku Olympia Prudence Patricia Pauline Patience Pamela Phoebe Paula Rachel_Rachel Rebecca Rhoda Rosalie Ruth Rosa Scarlett Sarah Sally Sylvia Susanna Sybil Susa Sophia Tabitha Theodora Uba Ume Uta Wakana Waki Victoria Virginia Verina Valeria Winifred Yaya Yayacha Yome Yone Yachi Yasha Yashayo Yasu Yui Yuki Yuku Yume Yumi Zen Zerelda
 		}
 		
 		prefix = no
@@ -1366,7 +1366,7 @@ canonical_human_group = {
 			Hiroyori Hiroyoshi Hiroyuki Hisaaki Hisahide Hisaka Hisakane Hisamasa Hisamichi Hisamori Hisamoto 
 			Hisanaga Hisanaka Hisatada Hisataka Hisatane Hisatomo Hisatora Hisatoyo Hisatsuna Hisatsune 
 			Hisayasu Hisayuki Ibaranosuke Ichiro Iechika Iehisa Iemasa Iemon Iemori Ienari Ietoki Ietoshi Ietsugu
-			Ieuji Inori Iori Isamu Isao Issen Jiro Jotaro Jubei Jun'ichi Junji Juro Kageakira Kagechika
+			Ieuji Inori Iori Isamu Isao Issen Jack Jiro Jotaro Jubei Jun'ichi Junji Juro Kageakira Kagechika
 			Kagehiro Kageie Kagekata Kagekatsu Kagekuni Kagemasa Kagemochi Kagemoto Kagenobu Kagenori Kagetaka
 			Kagetake Kagetora Kagetoshi Kagetou Kagetsugu Kagetsuna Kagetsura Kageyori Kageyoshi Kakuken Kanemasa
 			Kanemori Kanenaka Kanesada Kanesuke Kanetsugu Kankuro Katahide Kataie Katatoyo Katsuchika Katsuhisa 
@@ -1448,7 +1448,7 @@ canonical_human_group = {
 			Ana_Ana:100 Ashuri_Ashley:100 Faibu_Five:100 Katto_Kat:100 Mona_Monica:100 Ruru_Lulu:100
 
 			# Made-up filler
-			Acha Achacha Ago Agogo Ai Aiyasha Akaka Akashi Aki Ako Akoko Ame Amu Asa Asahi Ate Aya Ayamachi
+			Acha Achacha Ago Agogo Ai Aiyasha Akaka Akashi Aki Ako Akoko Ame Amu Asa Asahi Ashi Ate Aya Ayamachi
 			Ayaya Azechi Chacha Chago Chau Chibo Chii Etsu Chima Chise Chiyo Cho Chobo Ei Fuku Fuji Fumi Furi
 			Fusa Fuyo Fuyu Gin Go Gomoji Gou Hagi Haku Hana Haru Hatsu Hatsune Hide Hiko Hina Hiro Hisa 
 			Hochi Hoju Hou Ia Icha Ichako Ichi Ichiba Ima Imaaki Ina Inaka Ine Ino Inu Iemon Ietoki Iori
@@ -1633,7 +1633,7 @@ movie_group = {
 			Mali:150 Don_Ronald:150 Brad_Bradley:150 Alan_Alan:150 Joseph_Joseph:150 Christopher_Christopher:150 Mark_Mark:150 David_David:150 Fred_Frederick:150 Roland:150 Parker:150 Bob_Robert:150 Fisher:150 Richard:150 Nixon:150 Giani:150 Russo:150 Lance:150 Patt:150
 
 			# Filler
-			Alexander Atticus August Andrew Anthony Angus Allen Asa Alvin Albert Ambrose Arthur Buford Benjamin Benedict Bernard Bartholomew Brigham Braxton Barnabas Cyrus Charles Cyril Christopher Casey Clarence Clark Calvin Chester David Donald Daniel Duncan Eric Ebenezer Elbridge Eugene Eustace Ernest Edmund Ephraim Earl Ezra Emory Francis Frederick_Frederich Freddy_Frederick Ferdinand George Gregory Gideon Gerald Grover Gouveneur Gordon Humphrey Howard Hector Harold Horatio Henry Ian Irving Joseph Jeffrey Jubal John Jebediah James Jacob Julius Julian Justin Josiah Joshua Leonard Louis Lawrence Leland Luke Lionel Lorenzo Lamont Lyman Michael_Micheal Mike_Micheal Mikey_Micheal Mark Martin Milton Merriweather Nathaniel Nehemiah Nicholas Oliver Obadiah Orville Owen Philip Peter Paul Patrick Rutherford Robert Richard Ronald Reuchlin Rufus Rhett Samuel Stephen Sampson Sylvester Theodore Thomas Timothy_Timothy Timmy_Timothy Upton Ulysses Victor Vincent William Walter Winfield Wilbur Wallace Walker Zachary_Zachary Zack_Zachary  Zach_Zachary
+			Alexander Atticus August Andrew Anthony Angus Allen Asa Alvin Albert Ambrose Arthur Buford Benjamin Benedict Bernard Bartholomew Brigham Braxton Barnabas Cyrus Charles Cyril Christopher Casey Clarence Clark Calvin Chester David Donald Daniel Duncan Eric Ebenezer Elbridge Eugene Eustace Ernest Edmund Ephraim Earl Ezra Emory Francis Frederick_Frederich Freddy_Frederick Ferdinand George Gregory Gideon Gerald Grover Gouveneur Gordon Humphrey Howard Hector Harold Horatio Henry Ian Irving Jack Joseph Jeffrey Jubal John Jebediah James Jacob Julius Julian Justin Josiah Joshua Leonard Louis Lawrence Leland Luke Lionel Lorenzo Lamont Lyman Michael_Micheal Mike_Micheal Mikey_Micheal Mark Martin Milton Merriweather Nathaniel Nehemiah Nicholas Oliver Obadiah Orville Owen Philip Peter Paul Patrick Rutherford Robert Richard Ronald Reuchlin Rufus Rhett Samuel Stephen Sampson Sylvester Theodore Thomas Timothy_Timothy Timmy_Timothy Upton Ulysses Victor Vincent William Walter Winfield Wilbur Wallace Walker Zachary_Zachary Zack_Zachary  Zach_Zachary
 		}
 
 		female_names = {
@@ -1677,7 +1677,7 @@ battlefielder_group = {	#Named after military slang, weapon designations, and al
 			female_names = {
 				"Anne Laurie"_Anne Charlie_Charlotte Echo Foxtrot India Juliett Lima November Mia Sierra Tango Uniform Whiskey 
 			}
-			from_dynasty_prefix = " "
+			from_dynasty_prefix = ""
 			from_dynasty_suffix = ""
 			male_patronym = ""
 		}
@@ -1689,14 +1689,14 @@ goomba_group = {
 		goomba = { #Generic Goombas
 			color = { 230 153 0 }
 			male_names = {
-			Goombario_Mario
+				Goombario_Mario Kid Chestnut Kuribo
 			}
 			female_names = {
 				Goombella Goombette
-		}
+			}
 
 			from_dynasty_prefix = " "
-			from_dynasty_suffix = ""
+			from_dynasty_suffix = "goom"
 			male_patronym = ""
 		prefix = no
 		
@@ -1713,12 +1713,14 @@ goomba_group = {
 		modifier = default_culture_modifier
 	}
 }
-koopa_group = {
-		graphical_cultures = { frankishgfx }
 
-		koopa = { #Generic Koopas unaffiliated with the Darklands or Turtle Island
-			color = {
-kong_group = {
+#	koopa_group = {
+#		graphical_cultures = { frankishgfx }
+#
+#		koopa = { #Generic Koopas unaffiliated with the Darklands or Turtle Island
+#			color = {
+
+	kong_group = {
 		graphical_cultures = { frankishgfx }
 
 		kongobongo = {
@@ -1747,6 +1749,7 @@ kong_group = {
 
 		modifier = default_culture_modifier
 	}
+
 	kongadien = { #The native Kongs of the arctic islands (alongside the Snowmads). A reference to the fact the cartoon is Franco-Canadian (also known as Canadien)
 			color = { 153 77 0 }
 			male_names = {
@@ -1756,13 +1759,14 @@ kong_group = {
 			Heather
 		}
 }
+
 kremling_group = {
 		graphical_cultures = { frankishgfx }
 		
 		kremling = {
 			color = { 0 51 0 }
 			male_names = {
-				Kieth Kuhrool Krusha Klump
+				Kieth Kuhrool Krusha Klump Rool
 			female_names = {
 				Kalypso
 		}

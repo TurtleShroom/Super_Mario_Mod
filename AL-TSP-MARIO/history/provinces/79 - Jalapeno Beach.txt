@@ -15,7 +15,7 @@ b_jalapeno_beach = castle
 #b_jalapeno_beach_7 = castle
 
 # Misc
-culture = jellyfish_islands
-religion = pianta_imperialism
+culture = pirate
+religion = seven_stars
 
 #History

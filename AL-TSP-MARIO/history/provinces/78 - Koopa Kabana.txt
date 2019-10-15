@@ -15,11 +15,7 @@ b_koopa_kabana = castle
 #b_koopa_kabana_7 = castle
 
 # Misc
-culture = turtle_islands
-religion = koopa_pagan
+culture = pirate
+religion = seven_stars
 
 #History
-
-1988.10.23 = { #The events of SMB3 takes place, and Bowser would probably be a lot more world-renowned and not just a one-off conqueror.
-	religion = bowser_religion
-}

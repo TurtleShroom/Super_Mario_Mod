@@ -15,7 +15,7 @@ b_habanero_harbour = castle
 #b_habanero_harbour_7 = castle
 
 # Misc
-culture = jellyfish_islands
-religion = pianta_imperialism
+culture = pirate
+religion = seven_stars
 
 #History

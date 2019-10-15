@@ -15,7 +15,7 @@ b_peachs_castle = castle
 #b_peachs_castle_7 = castle
 
 # Misc
-culture = mushroom_kingdom
+culture = pirate
 religion = seven_stars
 
 #History

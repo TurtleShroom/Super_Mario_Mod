@@ -16,6 +16,6 @@ b_rice_beach = castle
 
 # Misc
 culture = pirate
-religion = piracy
+religion = seven_stars
 
 #History

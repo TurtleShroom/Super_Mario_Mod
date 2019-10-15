@@ -15,6 +15,7 @@ b_beehive_hill = castle
 #b_beehive_hill_7 = castle
 
 # Misc
-culture = kongobongo
-religion = kong_religion
+culture = pirate
+religion = seven_stars
+
 #History
