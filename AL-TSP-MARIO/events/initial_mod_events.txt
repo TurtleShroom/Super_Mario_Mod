@@ -7,6 +7,7 @@
 namespace = MARIO
 character_event = {
 	id = MARIO.0
+	title = "X"
 	desc = "EVTDESCSSWISH1"	
 	picture = GFX_evt_emissary
 	border = GFX_event_normal_frame_religion

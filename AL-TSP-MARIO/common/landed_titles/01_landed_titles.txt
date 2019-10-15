@@ -14278,7 +14278,7 @@ e_empire = {
 				b_neo_bowser_city_7 = {
 				}
 			}
-			c_neon_heights_(neon_city) = { # 150
+			c_neon_heights = { # 150
 				color={ 255 172 255 }
 				color2={ 255 255 255 }
 				

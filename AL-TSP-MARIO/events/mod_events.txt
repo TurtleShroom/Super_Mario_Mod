@@ -2319,5 +2319,5 @@ character_event = {
 		name = "EVTOPT_YIPPEE"
 		religion = FROM
 		capital_scope = { religion = FROM }
-		}
+	}
 }

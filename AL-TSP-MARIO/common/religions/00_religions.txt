@@ -912,6 +912,7 @@ outlaw = {
 		scripture_name = THE_CATALOGUE
 		priest_title = KEEPER
 		high_god_name = GOD_THE_GREED_SPIRIT
+		
 		god_names = {
 			GOD_THE_GREED_SPIRIT WARIO PLUNDER THE_BOOTY
 		}
@@ -919,6 +920,7 @@ outlaw = {
 		evil_god_names = {
 			BANKRUPTCY GENEROSITY GOD_THE_MARIO_BROTHERS GOD_MARIO
 		}
+
 		character_modifier = {
 			stewardship = 3
 			diplomacy = -2
@@ -1159,8 +1161,7 @@ outlaw = {
 
 		intermarry = boolish
 	}
-
-
+}
 
 personality_cult = {
 	has_coa_on_barony_only = yes

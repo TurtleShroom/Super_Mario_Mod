@@ -25,7 +25,7 @@ species_rabbit_generic = { # DA BROODALS and other rabbits, original code added 
 }
 
 species_gardener = { # The Steam Gardeners of the Wooded Kingdom.
-	opposite_traits {
+	opposite_traits = {
 		species_uproot
 	}
 	
@@ -44,7 +44,7 @@ species_gardener = { # The Steam Gardeners of the Wooded Kingdom.
 }
 
 species_uproot = { # The other inhabitants of the Wooded Kingdom.
-	opposite_traits {
+	opposite_traits = {
 		species_gardener
 	}
 	
@@ -62,7 +62,7 @@ species_uproot = { # The other inhabitants of the Wooded Kingdom.
 }
 
 species_tostarenan = { # The Tostarenans of the Sand Kingdom
-	opposite_traits {
+	opposite_traits = {
 		species_moe-eye
 		species_chincho
 		species_jaxi
@@ -84,7 +84,7 @@ species_tostarenan = { # The Tostarenans of the Sand Kingdom
 }
 
 species_moe_eye = { #The other sentient species in the Sand Kingdom
-	opposite_traits {
+	opposite_traits = {
 		species_tostarenan
 		species_chincho
 		species_jaxi
@@ -103,7 +103,7 @@ species_moe_eye = { #The other sentient species in the Sand Kingdom
 }
 
 species_chincho = { #The Tostarenan equivalent of Drybones that resemble mummies.
-	opposite_traits {
+	opposite_traits = {
 		species_tostarenan
 		species_chincho
 		species_jaxi
@@ -120,7 +120,7 @@ species_chincho = { #The Tostarenan equivalent of Drybones that resemble mummies
 }
 
 species_jaxi = { # The Komainu-liike equivalent to Yoshis in the Sand Kingdom
-	opposite_traits {
+	opposite_traits = {
 		species_tostarenan
 		species_chincho
 		species_jaxi
@@ -151,7 +151,7 @@ species_burrbo = { #The little spiky fellas that seem to be the Goomba of the Od
 }
 
 species_bubblainian_snail = { # The snail-like inhabitants of Seaside Kingdom
-	opposite_traits {
+	opposite_traits = {
 #		species_gushen # For the purposes of the Mod, all snail creatures are counted similarly, so this has been negated
 # Gushen/Bubblainian hatred will be represented by a custom "BUBBLAINIAN_OPINION" and "GUSHEN_OPINION"
 		species_winkle_snail
@@ -235,15 +235,15 @@ species_shiverian = { # The yeti-like inhabitants of Snow Kingdom
 	customizer = no
 }
 
-species_thunder_dragon = { #The Ruined Dragon of the Ruined Kingdom/Thunder Empire and its fictionalized court/descendants/ancestors,
+species_thunder_dragon = { # The Ruined Dragon of the Ruined Kingdom/Thunder Empire and its fictionalized court/descendants/ancestors,
 	opposites = {
 		species_dragon_generic
 	}
 	
-	martial = 5 # IT'S A DRAGON!
-	personal_combat_skill = 30 # IT'S A DRAGON!!
+	martial = 5
+	personal_combat_skill = 30
 	
-	general opinion = -50 # IT'S. A. DRAGOOOOOONNNNNNN!!!! also it destroyed probably one of the more civilized parts of the world a long long time ago.
+	general opinion = -50 # IT'S. A. DRAGOOOOOONNNNNNN!!!! It destroyed probably one of the more civilized parts of the world a long long time ago.
 	same_opinion = 75
 	opposite_opinion = 60
 
