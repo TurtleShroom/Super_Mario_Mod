@@ -1,6 +1,6 @@
-name = "Avrolancaster's Super Mario Mod!"
+name = "SUPER MARIO MOD TEST"
 path = "mod/AL-TSP-MARIO"
-user_dir = "Mario!"
+user_dir = "AL-TSP-SMM!"
 
 replace_path = "history"
 replace_path = "history/characters"
