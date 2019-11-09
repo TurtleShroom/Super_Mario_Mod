@@ -15,6 +15,7 @@ b_mt_lavalava = castle
 #b_mt_lavalava_7 = castle
 
 # Misc
-culture = lavalava
-religion = happiness
+culture = pirate
+religion = seven_stars
+
 #History

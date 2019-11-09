@@ -15,7 +15,7 @@ b_twin_bridges = castle
 #b_twin_bridges_7 = castle
 
 # Misc
-culture = yoshi_island
-religion = happiness
+culture = pirate
+religion = seven_stars
 
 #History

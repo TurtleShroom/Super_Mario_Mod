@@ -16,6 +16,6 @@ b_teacup_cove = castle
 
 # Misc
 culture = pirate
-religion = piracy
+religion = seven_stars
 
 #History

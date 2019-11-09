@@ -15,7 +15,7 @@ b_temple_of_form = castle
 #b_temple_of_form_7 = castle
 
 # Misc
-culture = diamond_city_men
-religion = temple_of_form
+culture = pirate
+religion = seven_stars
 
 #History

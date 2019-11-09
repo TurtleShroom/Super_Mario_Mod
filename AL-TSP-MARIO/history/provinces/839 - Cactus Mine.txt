@@ -15,6 +15,7 @@ b_cactus_mine = castle
 #b_cactus_mine_7 = castle
 
 # Misc
-culture = kongobongo
-religion = kong_religion
+culture = pirate
+religion = seven_stars
+
 #History

@@ -15,6 +15,7 @@ b_hot_steamy_jungle = castle
 #b_hot_steamy_jungle_7 = castle
 
 # Misc
-culture = yoshi_island
-religion = happiness
+culture = pirate
+religion = seven_stars
+
 #History

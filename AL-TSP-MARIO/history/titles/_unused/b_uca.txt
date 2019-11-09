@@ -1,5 +1,5 @@
 1984.9.13={
-	holding_dynasty = 2020 # Uca - makes this a FAMILY_PALACE type Holding
+	holding_dynasty = 9900720 # Angelo - makes this a FAMILY_PALACE type Holding
 	liege = d_claw_islands
-	holder = 6251
+	holder=9970000
 }

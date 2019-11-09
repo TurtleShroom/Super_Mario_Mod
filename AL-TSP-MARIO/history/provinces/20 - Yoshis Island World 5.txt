@@ -15,7 +15,7 @@ b_yoshis_island_world_5 = castle
 #b_yoshis_island_world_5_7 = castle
 
 # Misc
-culture = yoshi_island
-religion = happiness
+culture = pirate
+religion = seven_stars
 
 #History

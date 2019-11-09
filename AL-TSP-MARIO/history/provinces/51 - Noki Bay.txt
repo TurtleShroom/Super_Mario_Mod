@@ -15,7 +15,7 @@ b_noki_bay = castle
 #b_noki_bay_7 = castle
 
 # Misc
-culture = noki_bay
-religion = shine_sprites
+culture = pirate
+religion = seven_stars
 
 #History
