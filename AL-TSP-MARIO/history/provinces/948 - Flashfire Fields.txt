@@ -15,7 +15,6 @@ b_flashfire_fields = castle
 #b_flashfire_fields_7 = castle
 
 # Misc
-culture = pirate
-religion = seven_stars
-
+culture = kongobongo
+religion = kong_religion
 #History

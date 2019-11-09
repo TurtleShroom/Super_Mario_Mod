@@ -15,7 +15,7 @@ b_hippo_zone = castle
 #b_hippo_zone_7 = castle
 
 # Misc
-culture = pirate
+culture = mario_brothers
 religion = seven_stars
 
 #History

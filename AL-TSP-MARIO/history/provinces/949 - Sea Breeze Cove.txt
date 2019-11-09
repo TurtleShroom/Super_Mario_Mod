@@ -15,7 +15,7 @@ b_sea_breeze_cove = castle
 #b_sea_breeze_cove_7 = castle
 
 # Misc
-culture = pirate
-religion = seven_stars
+culture = kongobongo
+religion = kong_religion
 
 #History

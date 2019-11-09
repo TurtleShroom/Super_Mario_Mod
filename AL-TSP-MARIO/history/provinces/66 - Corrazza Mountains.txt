@@ -15,7 +15,7 @@ b_corrazza_mountains = castle
 #b_corrazza_mountains_7 = castle
 
 # Misc
-culture = pirate
-religion = seven_stars
+culture = crab_islands
+religion = shine_sprites
 
 #History

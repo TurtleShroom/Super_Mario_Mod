@@ -103,13 +103,13 @@ PROV102;Miracle Landing;Miracle Landing;Miracle Landing;;;;;;;;;x
 PROV103;Koopa Village;Koopa Village;Koopa Village;;;;;;;;;x
 PROV104;Pleasant Path;Pleasant Path;Pleasant Path;;;;;;;;;x
 PROV105;Koopa Bros. Fortress;Koopa Bros. Fortress;Koopa Bros. Fortress;;;;;;;;;x
-PROV106;West Forever Forest;West Forever Forest;West Forever Forest;;;;;;;;;x
-PROV107;South Forever Forest;South Forever Forest;South Forever Forest;;;;;;;;;x
+PROV106;East Forever Fortress;East Forever Fortress;East Forever Fortress;;;;;;;;;x
+PROV107;South Forever Fortress;South Forever Fortress;South Forever Fortress;;;;;;;;;x
 PROV108;Mario's House;Mario's House;Mario's House;;;;;;;;;x
 PROV109;Toad Cliffs;Toad Cliffs;Toad Cliffs;;;;;;;;;x
 PROV110;Flower Fields;Flower Fields;Flower Fields;;;;;;;;;x
 PROV111;Shooting Star Summit;Shooting Star Summit;Shooting Star Summit;;;;;;;;;x
-PROV112;Star Road;Star Road;Star Road;;;;;;;;;x
+PROV112;Star Way;Star Way;Star Way;;;;;;;;;x
 PROV113;Star Haven;Star Haven;Star Haven;;;;;;;;;x
 PROV114;Star Way;Star Way;Star Way;;;;;;;;;x
 PROV115;Shiver City;Shiver City;Shiver City;;;;;;;;;x
@@ -277,7 +277,7 @@ PROV280;Windy Mill;Windy Mill;Windy Mill;;;;;;;;;x
 PROV281;Gusty Gultch Town;Gusty Gultch Town;Gusty Gultch Town;;;;;;;;;x
 PROV282;Gusty Gultch;Gusty Gultch;Gusty Gultch;;;;;;;;;x
 PROV283;Tubba Blubba's Castle;Tubba Blubba's Castle;Tubba Blubba's Castle;;;;;;;;;x
-PROV284;East Forever Forest;ast Forever Forest;East Forever Forest;;;;;;;;;x
+PROV284;West Forever Forest;West Forever Forest;West Forever Forest;;;;;;;;;x
 PROV285;Boo's Mansion;Boo's Mansion;Boo's Mansion;;;;;;;;;x
 PROV286;Thwomp Volcano;Thwomp Volcano;Thwomp Volcano;;;;;;;;;x
 PROV287;Thwomp Highlands;Thwomp Highlands;Thwomp Highlands;;;;;;;;;x
@@ -290,13 +290,13 @@ PROV293;Gritzy Caves;Gritzy Caves;Gritzy Caves;;;;;;;;;x
 PROV294;Koopaseum;Koopaseum;Koopaseum;;;;;;;;;x
 PROV295;Blubble Lake;Blubble Lake;Blubble Lake;;;;;;;;;x
 PROV296;Tower of Yikk;Tower of Yikk;Tower of Yikk;;;;;;;;;x
-PROV297;Blubble Islands;Blubble Islands;Blubble Islands;;;;;;;;;x
+PROV297;Bubble Islands;Bubble Islands;Bubble Islands;;;;;;;;;x
 PROV298;Plack Beach;Plack Beach;Plack Beach;;;;;;;;;x
 PROV299;Plack Highlands;Plack Highlands;Plack Highlands;;;;;;;;;x
 PROV300;East Cavi Cape;East Cavi Cape;East Cavi Cape;;;;;;;;;x
 PROV301;Cavi Plains;Cavi Plains;Cavi Plains;;;;;;;;;x
 PROV302;West Cavi Cape;West Cavi Cape;West Cavi Cape;;;;;;;;;x
-PROV303;Dimble Woods;Dimble Woods;Dimble Woods;;;;;;;;;x
+PROV303;Dimple Woods;Dimple Woods;Dimple Woods;;;;;;;;;x
 PROV304;Peaceful Wario's Woods;Peaceful Wario's Woods;Peaceful Wario's Woods;;;;;;;;;x
 PROV305;Battle Canyon;Battle Canyon;Battle Canyon;;;;;;;;;x
 PROV306;Fairy's Forest;Fairy's Forest;Fairy's Forest;;;;;;;;;x
@@ -1196,139 +1196,139 @@ PROV1206;Snowy Sea;Snowy Sea;Snowy Sea;;;;;;;;;x
 PROV1207;Flurry Current;Flurry Current;Flurry Current;;;;;;;;;x
 PROV1208;Ice Cube Coast;Ice Cube Coast;Ice Cube Coast;;;;;;;;;x
 PROV1209;Iced Coast;Iced Coast;Iced Coast;;;;;;;;;x
-PROV1210;;;;;;;;;;;;x
-PROV1211;Deep Frigid Trench;Deep Frigid Trench;Deep Frigid Trench;;;;;;;;;x
-PROV1212;Great Frozen Bay;Great Frozen Bay;Great Frozen Bay;;;;;;;;;x
-PROV1213;Sticker Sea;Sticker Sea;Sticker Sea;;;;;;;;;x
-PROV1214;Icewater Cove;Icewater Cove;Icewater Cove;;;;;;;;;x
-PROV1215;Straights of Bowser;Straights of Bowser;Straights of Bowser;;;;;;;;;x
-PROV1216;Pack Ice Coast;Pack Ice Coast;Pack Ice Coast;;;;;;;;;x
-PROV1217;Frostbite Sea;Frostbite Sea;Frostbite Sea;;;;;;;;;x
-PROV1218;e Bay;e Bay;e Bay;;;;;;;;;x
-PROV1219;Blackheart Coast;Blackheart Coast;Blackheart Coast;;;;;;;;;x
-PROV1220;Sea of Nightmares;Sea of Nightmares;Sea of Nightmares;;;;;;;;;x
-PROV1221;Cape of Bad Hope;Cape of Bad Hope;Cape of Bad Hope;;;;;;;;;x
-PROV1222;Jealous Coast;Jealous Coast;Jealous Coast;;;;;;;;;x
-PROV1223;Coast of Rage;Coast of Rage;Coast of Rage;;;;;;;;;x
-PROV1224;Straights of Mist and Fog;Straights of Mist and Fog;Straights of Mist and Fog;;;;;;;;;x
-PROV1225;Cloudy Coast;Cloudy Coast;Cloudy Coast;;;;;;;;;x
-PROV1226;e Trench;e Trench;e Trench;;;;;;;;;x
-PROV1227;Big Narrows;Big Narrows;Big Narrows;;;;;;;;;x
-PROV1228;Oceanic Bay;Oceanic Bay;Oceanic Bay;;;;;;;;;x
-PROV1229;Cape of Ocean Side;Cape of Ocean Side;Cape of Ocean Side;;;;;;;;;x
-PROV1230;Oceanic Sea Breach;Oceanic Sea Breach;Oceanic Sea Breach;;;;;;;;;x
-PROV1231;Cape of Beaches;Cape of Beaches;Cape of Beaches;;;;;;;;;x
-PROV1232;Dusty Coast;Dusty Coast;Dusty Coast;;;;;;;;;x
-PROV1233;Third Coast;Third Coast;Third Coast;;;;;;;;;x
-PROV1234;Oceanic Straights;Oceanic Straights;Oceanic Straights;;;;;;;;;x
-PROV1235;Blue Water Coast;Blue Water Coast;Blue Water Coast;;;;;;;;;x
-PROV1236;Cloudy Straights;Cloudy Straights;Cloudy Straights;;;;;;;;;x
-PROV1237;Narrow Bay;Narrow Bay;Narrow Bay;;;;;;;;;x
-PROV1238;Mouth of Giants;Mouth of Giants;Mouth of Giants;;;;;;;;;x
-PROV1239;Mushroom Approach;Mushroom Approach;Mushroom Approach;;;;;;;;;x
-PROV1240;Great Mushroom Sea;Great Mushroom Sea;Great Mushroom Sea;;;;;;;;;x
-PROV1241;Rogue Harbor;Rogue Harbor;Rogue Harbor;;;;;;;;;x
-PROV1242;Bay of Petals;Bay of Petals;Bay of Petals;;;;;;;;;x
-PROV1243;Twighlight Narrows;Twighlight Narrows;Twighlight Narrows;;;;;;;;;x
-PROV1244;Keelhaul Straights;Keelhaul Straights;Keelhaul Straights;;;;;;;;;x
-PROV1245;Cape Poshley;Cape Poshley;Cape Poshley;;;;;;;;;x
-PROV1246;Twighlight Cove;Twighlight Cove;Twighlight Cove;;;;;;;;;x
-PROV1247;Smuggler's Cove;Smuggler's Cove;Smuggler's Cove;;;;;;;;;x
-PROV1248;Quiet Firth;Quiet Firth;Quiet Firth;;;;;;;;;x
-PROV1249;Wet-Dry Harbour;Wet-Dry Harbour;Wet-Dry Harbour;;;;;;;;;x
-PROV1250;Petal Approach;Petal Approach;Petal Approach;;;;;;;;;x
-PROV1251;Heavenly Coast;Heavenly Coast;Heavenly Coast;;;;;;;;;x
-PROV1252;Twilit Sea;Twilit Sea;Twilit Sea;;;;;;;;;x
-PROV1253;Fruity Current;Fruity Current;Fruity Current;;;;;;;;;x
-PROV1254;Fruity Countercurrent;Fruity Countercurrent;Fruity Countercurrent;;;;;;;;;x
-PROV1255;Mushroom Deep;Mushroom Deep;Mushroom Deep;;;;;;;;;x
-PROV1256;Rare Sea;Rare Sea;Rare Sea;;;;;;;;;x
-PROV1257;The Great Calm;The Great Calm;The Great Calm;;;;;;;;;x
-PROV1258;Boggly Coastline;Boggly Coastline;Boggly Coastline;;;;;;;;;x
-PROV1259;Hideaway Bay;Hideaway Bay;Hideaway Bay;;;;;;;;;x
-PROV1260;Fahr Coast;Fahr Coast;Fahr Coast;;;;;;;;;x
-PROV1261;Magnetic Coast;Magnetic Coast;Magnetic Coast;;;;;;;;;x
-PROV1262;Penguin Coast;Penguin Coast;Penguin Coast;;;;;;;;;x
-PROV1263;Santa Sea;Santa Sea;Santa Sea;;;;;;;;;x
-PROV1264;Icepeak Coast;Icepeak Coast;Icepeak Coast;;;;;;;;;x
-PROV1265;Cool Cool Coastline;Cool Cool Coastline;Cool Cool Coastline;;;;;;;;;x
-PROV1266;Sherbet Coast;Sherbet Coast;Sherbet Coast;;;;;;;;;x
-PROV1267;Shivering Coastline;Shivering Coastline;Shivering Coastline;;;;;;;;;x
-PROV1268;Ice Koopa Coast;Ice Koopa Coast;Ice Koopa Coast;;;;;;;;;x
-PROV1269;Frosty Bay;Frosty Bay;Frosty Bay;;;;;;;;;x
-PROV1270;Toadwood Bay;Toadwood Bay;Toadwood Bay;;;;;;;;;x
-PROV1271;King's Cove;King's Cove;King's Cove;;;;;;;;;x
-PROV1272;Shipwrecker Bay;Shipwrecker Bay;Shipwrecker Bay;;;;;;;;;x
-PROV1273;;;;;;;;;;;;x
-PROV1274;Mole Harbour;Mole Harbour;Mole Harbour;;;;;;;;;x
-PROV1275;Mole Coast;Mole Coast;Mole Coast;;;;;;;;;x
-PROV1276;Shipwreck Sea;Shipwreck Sea;Shipwreck Sea;;;;;;;;;x
-PROV1277;Monster Cove;Monster Cove;Monster Cove;;;;;;;;;x
-PROV1278;Bay of Storms;Bay of Storms;Bay of Storms;;;;;;;;;x
-PROV1279;Sea of Mario;Sea of Mario;Sea of Mario;;;;;;;;;x
-PROV1280;Marionic Tidal Zone;Marionic Tidal Zone;Marionic Tidal Zone;;;;;;;;;x
-PROV1281;Yoshi's Approach;Yoshi's Approach;Yoshi's Approach;;;;;;;;;x
-PROV1282;Nimbus Coast;Nimbus Coast;Nimbus Coast;;;;;;;;;x
-PROV1283;Sulphuric Coast;Sulphuric Coast;Sulphuric Coast;;;;;;;;;x
-PROV1284;Rice Coast;Rice Coast;Rice Coast;;;;;;;;;x
-PROV1285;Sherbet Ocean Region;Sherbet Ocean Region;Sherbet Ocean Region;;;;;;;;;x
-PROV1286;Kitchen Coast;Kitchen Coast;Kitchen Coast;;;;;;;;;x
-PROV1287;Kitchen Island Approach;Kitchen Island Approach;Kitchen Island Approach;;;;;;;;;x
-PROV1288;Sea of Tranquility;Sea of Tranquility;Sea of Tranquility;;;;;;;;;x
-PROV1289;Koopa Coast;Koopa Coast;Koopa Coast;;;;;;;;;x
-PROV1290;Frozen Turtle Coast;Frozen Turtle Coast;Frozen Turtle Coast;;;;;;;;;x
-PROV1291;Eastern Bowser Approach;Eastern Bowser Approach;Eastern Bowser Approach;;;;;;;;;x
-PROV1292;North Coast of Toadwood;North Coast of Toadwood;North Coast of Toadwood;;;;;;;;;x
-PROV1293;Hisstocrat Sea;Hisstocrat Sea;Hisstocrat Sea;;;;;;;;;x
-PROV1294;Chain Link Coast;Chain Link Coast;Chain Link Coast;;;;;;;;;x
-PROV1295;Frosted Ice Coast;Frosted Ice Coast;Frosted Ice Coast;;;;;;;;;x
-PROV1296;Snowberg Alley;Snowberg Alley;Snowberg Alley;;;;;;;;;x
-PROV1297;Northern Sprixie Sea;Northern Sprixie Sea;Northern Sprixie Sea;;;;;;;;;x
-PROV1298;Steep Coast;Steep Coast;Steep Coast;;;;;;;;;x
-PROV1299;Sandy Coast;Sandy Coast;Sandy Coast;;;;;;;;;x
-PROV1300;Continental Dropoff;Continental Dropoff;Continental Dropoff;;;;;;;;;x
-PROV1301;Beanbean Cove;Beabbean Cove;Beabbean Cove;;;;;;;;;x
+PROV1210;Deep Frigid Trench;Deep Frigid Trench;Deep Frigid Trench;;;;;;;;;x
+PROV1211;Great Frozen Bay;Great Frozen Bay;Great Frozen Bay;;;;;;;;;x
+PROV1212;Sticker Sea;Sticker Sea;Sticker Sea;;;;;;;;;x
+PROV1213;Icewater Cove;Icewater Cove;Icewater Cove;;;;;;;;;x
+PROV1214;Straights of Bowser;Straights of Bowser;Straights of Bowser;;;;;;;;;x
+PROV1215;Pack Ice Coast;Pack Ice Coast;Pack Ice Coast;;;;;;;;;x
+PROV1216;Frostbite Sea;Frostbite Sea;Frostbite Sea;;;;;;;;;x
+PROV1217;e Bay;e Bay;e Bay;;;;;;;;;x
+PROV1218;Blackheart Coast;Blackheart Coast;Blackheart Coast;;;;;;;;;x
+PROV1219;Sea of Nightmares;Sea of Nightmares;Sea of Nightmares;;;;;;;;;x
+PROV1220;Cape of Bad Hope;Cape of Bad Hope;Cape of Bad Hope;;;;;;;;;x
+PROV1221;Jealous Coast;Jealous Coast;Jealous Coast;;;;;;;;;x
+PROV1222;Coast of Rage;Coast of Rage;Coast of Rage;;;;;;;;;x
+PROV1223;Straights of Mist and Fog;Straights of Mist and Fog;Straights of Mist and Fog;;;;;;;;;x
+PROV1224;Cloudy Coast;Cloudy Coast;Cloudy Coast;;;;;;;;;x
+PROV1225;e Trench;e Trench;e Trench;;;;;;;;;x
+PROV1226;Big Narrows;Big Narrows;Big Narrows;;;;;;;;;x
+PROV1227;Oceanic Bay;Oceanic Bay;Oceanic Bay;;;;;;;;;x
+PROV1228;Cape of Ocean Side;Cape of Ocean Side;Cape of Ocean Side;;;;;;;;;x
+PROV1229;Oceanic Sea Breach;Oceanic Sea Breach;Oceanic Sea Breach;;;;;;;;;x
+PROV1230;Cape of Beaches;Cape of Beaches;Cape of Beaches;;;;;;;;;x
+PROV1231;Dusty Coast;Dusty Coast;Dusty Coast;;;;;;;;;x
+PROV1232;Third Coast;Third Coast;Third Coast;;;;;;;;;x
+PROV1233;Oceanic Straights;Oceanic Straights;Oceanic Straights;;;;;;;;;x
+PROV1234;Blue Water Coast;Blue Water Coast;Blue Water Coast;;;;;;;;;x
+PROV1235;Cloudy Straights;Cloudy Straights;Cloudy Straights;;;;;;;;;x
+PROV1236;Narrow Bay;Narrow Bay;Narrow Bay;;;;;;;;;x
+PROV1237;Mouth of Giants;Mouth of Giants;Mouth of Giants;;;;;;;;;x
+PROV1238;Mushroom Approach;Mushroom Approach;Mushroom Approach;;;;;;;;;x
+PROV1239;Great Mushroom Sea;Great Mushroom Sea;Great Mushroom Sea;;;;;;;;;x
+PROV1240;Rogue Harbor;Rogue Harbor;Rogue Harbor;;;;;;;;;x
+PROV1241;Bay of Petals;Bay of Petals;Bay of Petals;;;;;;;;;x
+PROV1242;Twighlight Narrows;Twighlight Narrows;Twighlight Narrows;;;;;;;;;x
+PROV1243;Keelhaul Straights;Keelhaul Straights;Keelhaul Straights;;;;;;;;;x
+PROV1244;Cape Poshley;Cape Poshley;Cape Poshley;;;;;;;;;x
+PROV1245;Twighlight Cove;Twighlight Cove;Twighlight Cove;;;;;;;;;x
+PROV1246;Smuggler's Cove;Smuggler's Cove;Smuggler's Cove;;;;;;;;;x
+PROV1247;Quiet Firth;Quiet Firth;Quiet Firth;;;;;;;;;x
+PROV1248;Wet-Dry Harbour;Wet-Dry Harbour;Wet-Dry Harbour;;;;;;;;;x
+PROV1249;Petal Approach;Petal Approach;Petal Approach;;;;;;;;;x
+PROV1250;Heavenly Coast;Heavenly Coast;Heavenly Coast;;;;;;;;;x
+PROV1251;Twilit Sea;Twilit Sea;Twilit Sea;;;;;;;;;x
+PROV1252;Fruity Current;Fruity Current;Fruity Current;;;;;;;;;x
+PROV1253;Fruity Countercurrent;Fruity Countercurrent;Fruity Countercurrent;;;;;;;;;x
+PROV1254;Mushroom Deep;Mushroom Deep;Mushroom Deep;;;;;;;;;x
+PROV1255;Rare Sea;Rare Sea;Rare Sea;;;;;;;;;x
+PROV1256;The Great Calm;The Great Calm;The Great Calm;;;;;;;;;x
+PROV1257;Boggly Coastline;Boggly Coastline;Boggly Coastline;;;;;;;;;x
+PROV1258;Hideaway Bay;Hideaway Bay;Hideaway Bay;;;;;;;;;x
+PROV1259;Fahr Coast;Fahr Coast;Fahr Coast;;;;;;;;;x
+PROV1260;Magnetic Coast;Magnetic Coast;Magnetic Coast;;;;;;;;;x
+PROV1261;Penguin Coast;Penguin Coast;Penguin Coast;;;;;;;;;x
+PROV1262;Santa Sea;Santa Sea;Santa Sea;;;;;;;;;x
+PROV1263;Icepeak Coast;Icepeak Coast;Icepeak Coast;;;;;;;;;x
+PROV1264;Cool Cool Coastline;Cool Cool Coastline;Cool Cool Coastline;;;;;;;;;x
+PROV1265;Sherbet Coast;Sherbet Coast;Sherbet Coast;;;;;;;;;x
+PROV1266;Shivering Coastline;Shivering Coastline;Shivering Coastline;;;;;;;;;x
+PROV1267;Ice Koopa Coast;Ice Koopa Coast;Ice Koopa Coast;;;;;;;;;x
+PROV1268;Frosty Bay;Frosty Bay;Frosty Bay;;;;;;;;;x
+PROV1269;Toadwood Bay;Toadwood Bay;Toadwood Bay;;;;;;;;;x
+PROV1270;King's Cove;King's Cove;King's Cove;;;;;;;;;x
+PROV1271;Shipwrecker Bay;Shipwrecker Bay;Shipwrecker Bay;;;;;;;;;x
+PROV1272;Mole Harbour;Mole Harbour;Mole Harbour;;;;;;;;;x
+PROV1273;Mole Coast;Mole Coast;Mole Coast;;;;;;;;;x
+PROV1274;Shipwreck Sea;Shipwreck Sea;Shipwreck Sea;;;;;;;;;x
+PROV1275;Monster Cove;Monster Cove;Monster Cove;;;;;;;;;x
+PROV1276;Bay of Storms;Bay of Storms;Bay of Storms;;;;;;;;;x
+PROV1277;Sea of Mario;Sea of Mario;Sea of Mario;;;;;;;;;x
+PROV1278;Marionic Tidal Zone;Marionic Tidal Zone;Marionic Tidal Zone;;;;;;;;;x
+PROV1279;Yoshi's Approach;Yoshi's Approach;Yoshi's Approach;;;;;;;;;x
+PROV1280;Nimbus Coast;Nimbus Coast;Nimbus Coast;;;;;;;;;x
+PROV1281;Sulphuric Coast;Sulphuric Coast;Sulphuric Coast;;;;;;;;;x
+PROV1282;Rice Coast;Rice Coast;Rice Coast;;;;;;;;;x
+PROV1283;Sherbet Ocean Region;Sherbet Ocean Region;Sherbet Ocean Region;;;;;;;;;x
+PROV1284;Kitchen Coast;Kitchen Coast;Kitchen Coast;;;;;;;;;x
+PROV1285;Kitchen Island Approach;Kitchen Island Approach;Kitchen Island Approach;;;;;;;;;x
+PROV1286;Sea of Tranquility;Sea of Tranquility;Sea of Tranquility;;;;;;;;;x
+PROV1287;Koopa Coast;Koopa Coast;Koopa Coast;;;;;;;;;x
+PROV1288;Frozen Turtle Coast;Frozen Turtle Coast;Frozen Turtle Coast;;;;;;;;;x
+PROV1289;Eastern Bowser Approach;Eastern Bowser Approach;Eastern Bowser Approach;;;;;;;;;x
+PROV1290;North Coast of Toadwood;North Coast of Toadwood;North Coast of Toadwood;;;;;;;;;x
+PROV1291;Hisstocrat Sea;Hisstocrat Sea;Hisstocrat Sea;;;;;;;;;x
+PROV1292;Chain Link Coast;Chain Link Coast;Chain Link Coast;;;;;;;;;x
+PROV1293;Frosted Ice Coast;Frosted Ice Coast;Frosted Ice Coast;;;;;;;;;x
+PROV1294;Snowberg Alley;Snowberg Alley;Snowberg Alley;;;;;;;;;x
+PROV1295;Northern Sprixie Sea;Northern Sprixie Sea;Northern Sprixie Sea;;;;;;;;;x
+PROV1296;Steep Coast;Steep Coast;Steep Coast;;;;;;;;;x
+PROV1297;Sandy Coast;Sandy Coast;Sandy Coast;;;;;;;;;x
+PROV1298;Continental Dropoff;Continental Dropoff;Continental Dropoff;;;;;;;;;x
+PROV1299;Beabbean Cove;Beabbean Cove;Beabbean Cove;;;;;;;;;x
+PROV1300;Awazon River;Awazon River;Awazon River;;;;;;;;;x
+PROV1301;Awazon River;Awazon River;Awazon River;;;;;;;;;x
 PROV1302;Awazon River;Awazon River;Awazon River;;;;;;;;;x
-PROV1303;Awazon River;Awazon River;Awazon River;;;;;;;;;x
-PROV1304;Awazon River;Awazon River;Awazon River;;;;;;;;;x
-PROV1305;Mouth of the Awazon;Mouth of the Awazon;Mouth of the Awazon;;;;;;;;;x
-PROV1306;Midas Falls;Midas Falls;Midas Falls;;;;;;;;;x
-PROV1307;Midas River;Midas River;Midas River;;;;;;;;;x
-PROV1308;Vanilla Falls;Vanilla Falls;Vanilla Falls;;;;;;;;;x
-PROV1309;Donut River;Donut River;Donut River;;;;;;;;;x
-PROV1310;Banana Bird Falls;Banana Bird Falls;Banana Bird Falls;;;;;;;;;x
-PROV1311;Bear River;Bear River;Bear River;;;;;;;;;x
-PROV1312;Razor Falls;Razor Falls;Razor Falls;;;;;;;;;x
-PROV1313;Bear Falls;Bear Falls;Bear Falls;;;;;;;;;x
-PROV1314;Blackforest River;Blackforest River;Blackforest River;;;;;;;;;x
-PROV1315;Blackforest River;Blackforest River;Blackforest River;;;;;;;;;x
+PROV1303;Mouth of the Awazon;Mouth of the Awazon;Mouth of the Awazon;;;;;;;;;x
+PROV1304;Midas Falls;Midas Falls;Midas Falls;;;;;;;;;x
+PROV1305;Midas River;Midas River;Midas River;;;;;;;;;x
+PROV1306;Vanilla Falls;Vanilla Falls;Vanilla Falls;;;;;;;;;x
+PROV1307;Donut River;Donut River;Donut River;;;;;;;;;x
+PROV1308;Banana Bird Falls;Banana Bird Falls;Banana Bird Falls;;;;;;;;;x
+PROV1309;Bear River;Bear River;Bear River;;;;;;;;;x
+PROV1310;Razor Falls;Razor Falls;Razor Falls;;;;;;;;;x
+PROV1311;Bear Falls;Bear Falls;Bear Falls;;;;;;;;;x
+PROV1312;Blackforest River;Blackforest River;Blackforest River;;;;;;;;;x
+PROV1313;Blackforest River;Blackforest River;Blackforest River;;;;;;;;;x
+PROV1314;Tropica River;Tropica River;Tropica River;;;;;;;;;x
+PROV1315;Tropica River;Tropica River;Tropica River;;;;;;;;;x
 PROV1316;Tropica River;Tropica River;Tropica River;;;;;;;;;x
 PROV1317;Tropica River;Tropica River;Tropica River;;;;;;;;;x
-PROV1318;Tropica River;Tropica River;Tropica River;;;;;;;;;x
-PROV1319;Tropica River;Tropica River;Tropica River;;;;;;;;;x
-PROV1320;Verge River;Verge River;Verge River;;;;;;;;;x
-PROV1321;Monkey Falls;Monkey Falls;Monkey Falls;;;;;;;;;x
-PROV1322;Minke Falls;Minke Falls;Minke Falls;;;;;;;;;x
-PROV1323;Koco River;Koco River;Koco River;;;;;;;;;x
-PROV1324;Koco River;Koco River;Koco River;;;;;;;;;x
-PROV1325;Mill River;Mill River;Mill River;;;;;;;;;x
+PROV1318;Verge River;Verge River;Verge River;;;;;;;;;x
+PROV1319;Monkey Falls;Monkey Falls;Monkey Falls;;;;;;;;;x
+PROV1320;Minke Falls;Minke Falls;Minke Falls;;;;;;;;;x
+PROV1321;Koco River;Koco River;Koco River;;;;;;;;;x
+PROV1322;Koco River;Koco River;Koco River;;;;;;;;;x
+PROV1323;Mill River;Mill River;Mill River;;;;;;;;;x
+PROV1324;Salmon River;Salmon River;Salmon River;;;;;;;;;x
+PROV1325;Salmon River;Salmon River;Salmon River;;;;;;;;;x
 PROV1326;Salmon River;Salmon River;Salmon River;;;;;;;;;x
 PROV1327;Salmon River;Salmon River;Salmon River;;;;;;;;;x
 PROV1328;Salmon River;Salmon River;Salmon River;;;;;;;;;x
 PROV1329;Salmon River;Salmon River;Salmon River;;;;;;;;;x
 PROV1330;Salmon River;Salmon River;Salmon River;;;;;;;;;x
 PROV1331;Salmon River;Salmon River;Salmon River;;;;;;;;;x
-PROV1332;Salmon River;Salmon River;Salmon River;;;;;;;;;x
-PROV1333;Salmon River;Salmon River;Salmon River;;;;;;;;;x
-PROV1334;Salt River;Salt River;Salt River;;;;;;;;;x
+PROV1332;Salt River;Salt River;Salt River;;;;;;;;;x
+PROV1333;Tylex River;Tylex River;Tylex River;;;;;;;;;x
+PROV1334;Tylex River;Tylex River;Tylex River;;;;;;;;;x
 PROV1335;Tylex River;Tylex River;Tylex River;;;;;;;;;x
 PROV1336;Tylex River;Tylex River;Tylex River;;;;;;;;;x
 PROV1337;Tylex River;Tylex River;Tylex River;;;;;;;;;x
 PROV1338;Tylex River;Tylex River;Tylex River;;;;;;;;;x
 PROV1339;Tylex River;Tylex River;Tylex River;;;;;;;;;x
-PROV1340;Tylex River;Tylex River;Tylex River;;;;;;;;;x
-PROV1341;Tylex River;Tylex River;Tylex River;;;;;;;;;x
-PROV1342;Sprixie River;Sprixie River;Sprixie River;;;;;;;;;x
+PROV1340;Sprixie River;Sprixie River;Sprixie River;;;;;;;;;x
+PROV1341;Star River;Star River;Star River;;;;;;;;;x
+PROV1342;Star River;Star River;Star River;;;;;;;;;x
 PROV1343;Star River;Star River;Star River;;;;;;;;;x
 PROV1344;Star River;Star River;Star River;;;;;;;;;x
 PROV1345;Star River;Star River;Star River;;;;;;;;;x
@@ -1339,8 +1339,8 @@ PROV1349;Star River;Star River;Star River;;;;;;;;;x
 PROV1350;Star River;Star River;Star River;;;;;;;;;x
 PROV1351;Star River;Star River;Star River;;;;;;;;;x
 PROV1352;Star River;Star River;Star River;;;;;;;;;x
-PROV1353;Star River;Star River;Star River;;;;;;;;;x
-PROV1354;Star River;Star River;Star River;;;;;;;;;x
+PROV1353;Mushroom River;Mushroom River;Mushroom River;;;;;;;;;x
+PROV1354;Mushroom River;Mushroom River;Mushroom River;;;;;;;;;x
 PROV1355;Mushroom River;Mushroom River;Mushroom River;;;;;;;;;x
 PROV1356;Mushroom River;Mushroom River;Mushroom River;;;;;;;;;x
 PROV1357;Mushroom River;Mushroom River;Mushroom River;;;;;;;;;x
@@ -1351,12 +1351,12 @@ PROV1361;Mushroom River;Mushroom River;Mushroom River;;;;;;;;;x
 PROV1362;Mushroom River;Mushroom River;Mushroom River;;;;;;;;;x
 PROV1363;Mushroom River;Mushroom River;Mushroom River;;;;;;;;;x
 PROV1364;Mushroom River;Mushroom River;Mushroom River;;;;;;;;;x
-PROV1365;Mushroom River;Mushroom River;Mushroom River;;;;;;;;;x
-PROV1366;Mushroom River;Mushroom River;Mushroom River;;;;;;;;;x
+PROV1365;Koopa River;Koopa River;Koopa River;;;;;;;;;x
+PROV1366;Koopa River;Koopa River;Koopa River;;;;;;;;;x
 PROV1367;Koopa River;Koopa River;Koopa River;;;;;;;;;x
 PROV1368;Koopa River;Koopa River;Koopa River;;;;;;;;;x
-PROV1369;Koopa River;Koopa River;Koopa River;;;;;;;;;x
-PROV1370;Koopa River;Koopa River;Koopa River;;;;;;;;;x
+PROV1369;Cold River;Cold River;Cold River;;;;;;;;;x
+PROV1370;Cold River;Cold River;Cold River;;;;;;;;;x
 PROV1371;Cold River;Cold River;Cold River;;;;;;;;;x
 PROV1372;Cold River;Cold River;Cold River;;;;;;;;;x
 PROV1373;Cold River;Cold River;Cold River;;;;;;;;;x
@@ -1370,108 +1370,100 @@ PROV1380;Cold River;Cold River;Cold River;;;;;;;;;x
 PROV1381;Cold River;Cold River;Cold River;;;;;;;;;x
 PROV1382;Cold River;Cold River;Cold River;;;;;;;;;x
 PROV1383;Cold River;Cold River;Cold River;;;;;;;;;x
-PROV1384;Cold River;Cold River;Cold River;;;;;;;;;x
-PROV1385;Cold River;Cold River;Cold River;;;;;;;;;x
+PROV1384;Toad River;Toad River;Toad River;;;;;;;;;x
+PROV1385;Toad River;Toad River;Toad River;;;;;;;;;x
 PROV1386;Toad River;Toad River;Toad River;;;;;;;;;x
-PROV1387;Toad River;Toad River;Toad River;;;;;;;;;x
-PROV1388;Toad River;Toad River;Toad River;;;;;;;;;x
-PROV1389;Garden River;Garden River;Garden River;;;;;;;;;x
-PROV1390;Garden River;Garden River;Garden River;;;;;;;;;x
+PROV1387;Garden River;Garden River;Garden River;;;;;;;;;x
+PROV1388;Garden River;Garden River;Garden River;;;;;;;;;x
+PROV1389;Boo River;Boo River;Boo River;;;;;;;;;x
+PROV1390;Boo River;Boo River;Boo River;;;;;;;;;x
 PROV1391;Boo River;Boo River;Boo River;;;;;;;;;x
 PROV1392;Boo River;Boo River;Boo River;;;;;;;;;x
 PROV1393;Boo River;Boo River;Boo River;;;;;;;;;x
 PROV1394;Boo River;Boo River;Boo River;;;;;;;;;x
-PROV1395;Boo River;Boo River;Boo River;;;;;;;;;x
-PROV1396;Boo River;Boo River;Boo River;;;;;;;;;x
-PROV1397;Rapid River;Rapid River;Rapid River;;;;;;;;;x
-PROV1398;Rapid River;Rapid River;Rapid River;;;;;;;;;x
+PROV1395;Rapid River;Rapid River;Rapid River;;;;;;;;;x
+PROV1396;Rapid River;Rapid River;Rapid River;;;;;;;;;x
+PROV1397;Fairy River;Fairy River;Fairy River;;;;;;;;;x
+PROV1398;Fairy River;Fairy River;Fairy River;;;;;;;;;x
 PROV1399;Fairy River;Fairy River;Fairy River;;;;;;;;;x
 PROV1400;Fairy River;Fairy River;Fairy River;;;;;;;;;x
 PROV1401;Fairy River;Fairy River;Fairy River;;;;;;;;;x
 PROV1402;Fairy River;Fairy River;Fairy River;;;;;;;;;x
 PROV1403;Fairy River;Fairy River;Fairy River;;;;;;;;;x
 PROV1404;Fairy River;Fairy River;Fairy River;;;;;;;;;x
-PROV1405;Fairy River;Fairy River;Fairy River;;;;;;;;;x
-PROV1406;Fairy River;Fairy River;Fairy River;;;;;;;;;x
-PROV1407;Yosu Rapids;Yosu Rapids;Yosu Rapids;;;;;;;;;x
-PROV1408;Diamond River;Diamond River;Diamond River;;;;;;;;;x
-PROV1409;Diamond River;Diamond River;Diamond River;;;;;;;;;x
-PROV1410;Pacifica;Pacifica;Pacifica;;;;;;;;;x
-PROV1411;Banana Bird Lake;Banana Bird Lake;Banana Bird Lake;;;;;;;;;x
-PROV1412;Lake Orangatanga;Lake Orangatanga;Lake Orangatanga;;;;;;;;;x
+PROV1405;Yosu Rapids;Yosu Rapids;Yosu Rapids;;;;;;;;;x
+PROV1406;Diamond River;Diamond River;Diamond River;;;;;;;;;x
+PROV1407;Diamond River;Diamond River;Diamond River;;;;;;;;;x
+PROV1408;Pacifica;Pacifica;Pacifica;;;;;;;;;x
+PROV1409;Banana Bird Lake;Banana Bird Lake;Banana Bird Lake;;;;;;;;;x
+PROV1410;Lake Orangatanga;Lake Orangatanga;Lake Orangatanga;;;;;;;;;x
+PROV1411;Kremling Lake;Kremling Lake;Kremling Lake;;;;;;;;;x
+PROV1412;Kremling Lake;Kremling Lake;Kremling Lake;;;;;;;;;x
 PROV1413;Kremling Lake;Kremling Lake;Kremling Lake;;;;;;;;;x
-PROV1414;Kremling Lake;Kremling Lake;Kremling Lake;;;;;;;;;x
-PROV1415;Kremling Lake;Kremling Lake;Kremling Lake;;;;;;;;;x
-PROV1416;Icy Lake;Icy Lake;Icy Lake;;;;;;;;;x
-PROV1417;Lake Lodge;Lake Lodge;Lake Lodge;;;;;;;;;x
-PROV1418;Roolenstein Lake;Roolenstein Lake;Roolenstein Lake;;;;;;;;;x
-PROV1419;Kroc Pond;Kroc Pond;Kroc Pond;;;;;;;;;x
-PROV1420;Miller Lake;Miller Lake;Miller Lake;;;;;;;;;x
-PROV1421;Great Ape Lakes;Great Ape Lakes;Great Ape Lakes;;;;;;;;;x
-PROV1422;Lake of the Vines;Lake of the Vines;Lake of the Vines;;;;;;;;;x
+PROV1414;Icy Lake;Icy Lake;Icy Lake;;;;;;;;;x
+PROV1415;Lake Lodge;Lake Lodge;Lake Lodge;;;;;;;;;x
+PROV1416;Roolenstein Lake;Roolenstein Lake;Roolenstein Lake;;;;;;;;;x
+PROV1417;Kroc Pond;Kroc Pond;Kroc Pond;;;;;;;;;x
+PROV1418;Miller Lake;Miller Lake;Miller Lake;;;;;;;;;x
+PROV1419;Great Ape Lakes;Great Ape Lakes;Great Ape Lakes;;;;;;;;;x
+PROV1420;Lake of the Vines;Lake of the Vines;Lake of the Vines;;;;;;;;;x
+PROV1421;Crocodile Lake;Crocodile Lake;Crocodile Lake;;;;;;;;;x
+PROV1422;Crocodile Lake;Crocodile Lake;Crocodile Lake;;;;;;;;;x
 PROV1423;Crocodile Lake;Crocodile Lake;Crocodile Lake;;;;;;;;;x
 PROV1424;Crocodile Lake;Crocodile Lake;Crocodile Lake;;;;;;;;;x
 PROV1425;Crocodile Lake;Crocodile Lake;Crocodile Lake;;;;;;;;;x
 PROV1426;Crocodile Lake;Crocodile Lake;Crocodile Lake;;;;;;;;;x
-PROV1427;Crocodile Lake;Crocodile Lake;Crocodile Lake;;;;;;;;;x
-PROV1428;Crocodile Lake;Crocodile Lake;Crocodile Lake;;;;;;;;;x
-PROV1429;Upper Factory Lake;Upper Factory Lake;Upper Factory Lake;;;;;;;;;x
-PROV1430;Lower Factory Lake;Lower Factory Lake;Lower Factory Lake;;;;;;;;;x
-PROV1431;Timber Lake;Timber Lake;Timber Lake;;;;;;;;;x
-PROV1432;Joy Lake;Joy Lake;Joy Lake;;;;;;;;;x
-PROV1433;Lake of Fire;Lake of Fire;Lake of Fire;;;;;;;;;x
-PROV1434;Big Moat;Big Moat;Big Moat;;;;;;;;;x
-PROV1435;Rough Lake;Rough Lake;Rough Lake;;;;;;;;;x
-PROV1436;Jungle Pond;Jungle Pond;Jungle Pond;;;;;;;;;x
-PROV1437;Frozen Lake;Frozen Lake;Frozen Lake;;;;;;;;;x
-PROV1438;Lethal Lava Land;Lethal Lava Land;Lethal Lava Land;;;;;;;;;x
-PROV1439;Third Lake;Third Lake;Third Lake;;;;;;;;;x
-PROV1440;Desert Oasis;Desert Oasis;Desert Oasis;;;;;;;;;x
-PROV1441;Grassland Moat;Grassland Moat;Grassland Moat;;;;;;;;;x
-PROV1442;Warm Fuzzy Lake;Warm Fuzzy Lake;Warm Fuzzy Lake;;;;;;;;;x
-PROV1443;Damp Oasis;Damp Oasis;Damp Oasis;;;;;;;;;x
-PROV1444;Gauntlet Pond;Gauntlet Pond;Gauntlet Pond;;;;;;;;;x
-PROV1445;Strike Lake;Strike Lake;Strike Lake;;;;;;;;;x
-PROV1446;Snowflake Lake;Snowflake Lake;Snowflake Lake;;;;;;;;;x
-PROV1447;Chilly Lakes;Chilly Lakes;Chilly Lakes;;;;;;;;;x
-PROV1448;Lake T;Lake T;Lake T;;;;;;;;;x
-PROV1449;Yosu Lake;Yosu Lake;Yosu Lake;;;;;;;;;x
-PROV1450;Cheep Cheep Lake;Cheep Cheep Lake;Cheep Cheep Lake;;;;;;;;;x
-PROV1451;Park Lake;Park Lake;Park Lake;;;;;;;;;x
-PROV1452;Boo Lake;Boo Lake;Boo Lake;;;;;;;;;x
-PROV1453;Blubble Lake;Blubble Lake;Blubble Lake;;;;;;;;;x
-PROV1454;Yoshi Lake;Yoshi Lake;Yoshi Lake;;;;;;;;;x
-PROV1455;Turtleshell Lake;Turtleshell Lake;Turtleshell Lake;;;;;;;;;x
-PROV1456;Soda Marsh;Soda Marsh;Soda Marsh;;;;;;;;;x
-PROV1457;Fisheye Lake;Fisheye Lake;Fisheye Lake;;;;;;;;;x
-PROV1458;Jade Jungle;Jade Jungle;Jade Jungle;;;;;;;;;x
-PROV1459;Canyon Lake;Canyon Lake;Canyon Lake;;;;;;;;;x
-PROV1460;Muda Lake;Muda Lake;Muda Lake;;;;;;;;;x
-PROV1461;Awazon Basin;Awazon Basin;Awazon Basin;;;;;;;;;x
-PROV1462;Yoshi's Island Lake;Yoshi's Island Lake;Yoshi's Island Lake;;;;;;;;;x
-PROV1463;Donut Lake;Donut Lake;Donut Lake;;;;;;;;;x
-PROV1464;Soda Lake;Soda Lake;Soda Lake;;;;;;;;;x
-PROV1465;Kettle Lake;Kettle Lake;Kettle Lake;;;;;;;;;x
-PROV1466;Toadwood Lake;Toadwood Lake;Toadwood Lake;;;;;;;;;x
-PROV1467;Turtle Bog;Turtle Bog;Turtle Bog;;;;;;;;;x
-PROV1468;Mushroom Swamp;Mushroom Swamp;Mushroom Swamp;;;;;;;;;x
-PROV1469;Royal Lake;Royal Lake;Royal Lake;;;;;;;;;x
-PROV1470;Tadpole Pond;Tadpole Pond;Tadpole Pond;;;;;;;;;x
+PROV1427;Upper Factory Lake;Upper Factory Lake;Upper Factory Lake;;;;;;;;;x
+PROV1428;Lower Factory Lake;Lower Factory Lake;Lower Factory Lake;;;;;;;;;x
+PROV1429;Timber Lake;Timber Lake;Timber Lake;;;;;;;;;x
+PROV1430;Joy Lake;Joy Lake;Joy Lake;;;;;;;;;x
+PROV1431;Lake of Fire;Lake of Fire;Lake of Fire;;;;;;;;;x
+PROV1432;Big Moat;Big Moat;Big Moat;;;;;;;;;x
+PROV1433;Rough Lake;Rough Lake;Rough Lake;;;;;;;;;x
+PROV1434;Jungle Pond;Jungle Pond;Jungle Pond;;;;;;;;;x
+PROV1435;Frozen Lake;Frozen Lake;Frozen Lake;;;;;;;;;x
+PROV1436;Lethal Lava Land;Lethal Lava Land;Lethal Lava Land;;;;;;;;;x
+PROV1437;Third Lake;Third Lake;Third Lake;;;;;;;;;x
+PROV1438;Desert Oasis;Desert Oasis;Desert Oasis;;;;;;;;;x
+PROV1439;Grassland Moat;Grassland Moat;Grassland Moat;;;;;;;;;x
+PROV1440;Warm Fuzzy Lake;Warm Fuzzy Lake;Warm Fuzzy Lake;;;;;;;;;x
+PROV1441;Damp Oasis;Damp Oasis;Damp Oasis;;;;;;;;;x
+PROV1442;Gauntlet Pond;Gauntlet Pond;Gauntlet Pond;;;;;;;;;x
+PROV1443;Strike Lake;Strike Lake;Strike Lake;;;;;;;;;x
+PROV1444;Snowflake Lake;Snowflake Lake;Snowflake Lake;;;;;;;;;x
+PROV1445;Chilly Lakes;Chilly Lakes;Chilly Lakes;;;;;;;;;x
+PROV1446;Lake T;Lake T;Lake T;;;;;;;;;x
+PROV1447;Yosu Lake;Yosu Lake;Yosu Lake;;;;;;;;;x
+PROV1448;Cheep Cheep Lake;Cheep Cheep Lake;Cheep Cheep Lake;;;;;;;;;x
+PROV1449;Park Lake;Park Lake;Park Lake;;;;;;;;;x
+PROV1450;Boo Lake;Boo Lake;Boo Lake;;;;;;;;;x
+PROV1451;Blubble Lake;Blubble Lake;Blubble Lake;;;;;;;;;x
+PROV1452;Yoshi Lake;Yoshi Lake;Yoshi Lake;;;;;;;;;x
+PROV1453;Turtleshell Lake;Turtleshell Lake;Turtleshell Lake;;;;;;;;;x
+PROV1454;Soda Marsh;Soda Marsh;Soda Marsh;;;;;;;;;x
+PROV1455;Fisheye Lake;Fisheye Lake;Fisheye Lake;;;;;;;;;x
+PROV1456;Jade Jungle;Jade Jungle;Jade Jungle;;;;;;;;;x
+PROV1457;Canyon Lake;Canyon Lake;Canyon Lake;;;;;;;;;x
+PROV1458;Muda Lake;Muda Lake;Muda Lake;;;;;;;;;x
+PROV1459;Awazon Basin;Awazon Basin;Awazon Basin;;;;;;;;;x
+PROV1460;Yoshi's Island Lake;Yoshi's Island Lake;Yoshi's Island Lake;;;;;;;;;x
+PROV1461;Donut Lake;Donut Lake;Donut Lake;;;;;;;;;x
+PROV1462;Soda Lake;Soda Lake;Soda Lake;;;;;;;;;x
+PROV1463;Kettle Lake;Kettle Lake;Kettle Lake;;;;;;;;;x
+PROV1464;Toadwood Lake;Toadwood Lake;Toadwood Lake;;;;;;;;;x
+PROV1465;Turtle Bog;Turtle Bog;Turtle Bog;;;;;;;;;x
+PROV1466;Mushroom Swamp;Mushroom Swamp;Mushroom Swamp;;;;;;;;;x
+PROV1467;Royal Lake;Royal Lake;Royal Lake;;;;;;;;;x
+PROV1468;Tadpole Pond;Tadpole Pond;Tadpole Pond;;;;;;;;;x
+PROV1469;Mushroom Sea;Mushroom Sea;Mushroom Sea;;;;;;;;;x
+PROV1470;Mushroom Sea;Mushroom Sea;Mushroom Sea;;;;;;;;;x
 PROV1471;Mushroom Sea;Mushroom Sea;Mushroom Sea;;;;;;;;;x
 PROV1472;Mushroom Sea;Mushroom Sea;Mushroom Sea;;;;;;;;;x
 PROV1473;Mushroom Sea;Mushroom Sea;Mushroom Sea;;;;;;;;;x
 PROV1474;Mushroom Sea;Mushroom Sea;Mushroom Sea;;;;;;;;;x
 PROV1475;Mushroom Sea;Mushroom Sea;Mushroom Sea;;;;;;;;;x
-PROV1476;Mushroom Sea;Mushroom Sea;Mushroom Sea;;;;;;;;;x
-PROV1477;Mushroom Sea;Mushroom Sea;Mushroom Sea;;;;;;;;;x
-PROV1478;Sulphur Lake;Sulphur Lake;Sulphur Lake;;;;;;;;;x
-PROV1479;Guffawha Lake;Guffawha Lake;Guffawha Lake;;;;;;;;;x
+PROV1476;Sulphur Lake;Sulphur Lake;Sulphur Lake;;;;;;;;;x
+PROV1477;Guffawha Lake;Guffawha Lake;Guffawha Lake;;;;;;;;;x
+PROV1478;Chucklehuck Lake;Chucklehuck Lake;Chucklehuck Lake;;;;;;;;;x
+PROV1479;Chucklehuck Lake;Chucklehuck Lake;Chucklehuck Lake;;;;;;;;;x
 PROV1480;Chucklehuck Lake;Chucklehuck Lake;Chucklehuck Lake;;;;;;;;;x
-PROV1481;Chucklehuck Lake;Chucklehuck Lake;Chucklehuck Lake;;;;;;;;;
-PROV1482;Chucklehuck Lake;Chucklehuck Lake;Chucklehuck Lake;;;;;;;;;
-PROV1483;Oasis;Oasis;Oasis;;;;;;;;;
-PROV1484;Snowy Fields;Snowy Fields;Snowy Fields;;;;;;;;;
-PROV1485;Autumn Fields;Autumn Fields;Autumn Fields;;;;;;;;;
-PROV1486;Turtleshell Lake;Turtleshell Lake;Turtleshell Lake;;;;;;;;;
-PROV1487;Forgetti;Forgetti;Forgetti;;;;;;;;;
-PROV1488;Bald Mountain;Bald Mountain;Bald Mountain;;;;;;;;;

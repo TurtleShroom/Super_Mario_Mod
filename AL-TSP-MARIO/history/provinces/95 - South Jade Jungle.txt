@@ -15,7 +15,6 @@ b_south_jade_jungle = castle
 #b_south_jade_jungle_7 = castle
 
 # Misc
-culture = pirate
-religion = seven_stars
-
+culture = lavalava
+religion = happiness
 #History

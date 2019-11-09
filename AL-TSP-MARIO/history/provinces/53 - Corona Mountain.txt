@@ -15,7 +15,7 @@ b_corona_mountain = castle
 #b_corona_mountain_7 = castle
 
 # Misc
-culture = pirate
-religion = seven_stars
+culture = delfino
+religion = shine_sprites
 
 #History
