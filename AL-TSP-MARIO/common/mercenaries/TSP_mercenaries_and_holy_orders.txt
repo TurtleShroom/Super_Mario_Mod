@@ -1,6 +1,0 @@
-shroob_army_core = {
-	levy_size = 10
-
-	heavy_infantry = 5000
-	archers = 5000
-}

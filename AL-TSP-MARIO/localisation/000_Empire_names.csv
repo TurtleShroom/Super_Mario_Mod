@@ -1,24 +1,3 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 e_empire;Empire;Empire;Empire;;Empire;;;;;;;;;x
 e_empire_adj;Empirean;;empirer;;;;;;;;;;;x
-e_mushroom_kingdom;Greater Mushroom Kingdom;Greater Mushroom Kingdom;Greater Mushroom Kingdom;;Greater Mushroom Kingdom;;;;;;;;;x
-e_mushroom_kingdom_adj;Mushroom Kingdomer;Mushroom Kingdomer;Mushroom Kingdomer;;Mushroom Kingdomer;;;;;;;;;x
-e_bowser;Darkland Empire;Darkland Empire;Darkland Empire;;Darkland Empire;;;;;;;;;x #Bowser's Empire, of course! (Will be De Jure Darkland, and require certain special prerequisites to be decided on)
-e_bowser_adj;Darklander;Darklander;Darklander;;Darklander;;;;;;;;;x
-e_sarasaland;Sarasaland;Sarasaland;Sarasaland;;Sarasaland;;;;;;;;;x
-e_sarasaland_adj;Sarasan;Sarasan;Sarasan;;Sarasan;;;;;;;;;x
-e_sunshine_islands;Sunshine Islands;Sunshine Islands;Sunshine Islands;;Sunshine Islands;;;;;;;;;x
-e_sunshine_islands_adj;Sunshine Islander;Sunshine Islander;Sunshine Islander;;Sunshine Islander;;;;;;;;;x
-e_warudo;Warudo Empire;Warudo Empire;Warudo Empire;;Warudo Empire;;;;;;;;;x #SMB3 Kingdoms. Maybe a placeholder. Named after the Engrish word for World, "Warudo", because the Japanese names all have "Warudo" preceeding them.
-e_warudo_adj;Warudan;Warudan;Warudan;;Warudan;;;;;;;;;x
-e_rare_sea;Rare Sea Empire;Rare Sea Empire;Rare Sea Empire;;Rare Sea Empire;;;;;;;;;x #Kongo Bongo and Kremland. Named after the Rare Sea, which in the mod is the location of Kongo Bongo (Shout out to Avro for that magnificent decision)
-e_rare_sea_adj;Rare Sea;Rare Sea;Rare Sea;;Rare Sea;;;;;;;;;x
-e_warioland;Warioland;Warioland;Warioland;;Warioland #Probably gonna be Titular, since the lands that'd comprise it are kinda far between, but if De Jure would be Kitchen Island, Marioland, South Sprixie Islands, and Diamond Shogunate
-e_warioland_adj;Wariolander;Wariolander;Wariolander;;Wariolander;;;;;;;;;x
-#Titular Empires. Cultures without de jure Empires + Plot-important Empires go here.
-e_koopa;Koopa Empire;Koopa Empire;Koopa Empire;;Koopa Empire;;;;;;;;;x #Independent Koopa cultural empire
-e_aurora;Aurorean Empire;Aurorean Empire;Aurorean Empire;;Aurorean Empire;;;;;;;;;x #Titular Empire for Pianta Imperialists
-e_kremling;Kremling Empire;Kremling Empire;Kremling Empire;;Kremling Empire;;;;;;;;;x #Self Explanatory
-e_diamond;Diamond Empire;Diamond Empire;Diamond Empire;;Diamond Empire;;;;;;;;;x #Diamond City Empire, requires either Diamond/Ouji culture or Formist religion and to own the Diamond Kingdom
-e_yoshi;Super Happy Empire;Super Happy Empire;Super Happy Empire;;Super Happy Empire;;;;;;;;;x
-e_scallywag;Pirate Land;Pirate Land;Pirate Land;;Pirate Land;;;;;;;;;x #Pirate culture/religion titular Empire. Named after Pirate Land from Mario Party.

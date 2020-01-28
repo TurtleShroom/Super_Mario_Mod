@@ -1,9 +1,0 @@
-spriteTypes = {
-	spriteType = {
-		name = "GFX_trait_canonical_character"
-		texturefile = "gfx/traits/canon.tga"
-		noOfFrames = 1
-		norefcount = yes
-		effectFile = "gfx/FX/buttonstate.lua"
-	}
-}
