@@ -1,10 +1,12 @@
-
-bookmark =
-{
+bookmark = { #Super Mario Bros.
 	name = "BM_SMB"
 	desc = "BM_SMB"
 	date = 1985.9.13
 	
-	character = 9999999 # Mario
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_3
+	custom_start = yes				## Choosing "Custom Start" will open this bookmark
 	
+	#character = 256 #Mario Mario
+	#character = 1256 #Bowser Koopa
 }
