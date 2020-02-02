@@ -25,6 +25,8 @@ d_blubble_lake;Blubble Lake;Blubble Lake;Blubble Lake;;Blubble Lake;;;;;;;;;x
 d_blubble_lake_adj;Blubble Lakean;;Blubble Laker;;;;;;;;;;;x
 d_bone_dry_desert;Bone-Dry Desert;Bone-Dry Desert;Bone-Dry Desert;;Bone-Dry Desert;;;;;;;;;x
 d_bone_dry_desert_adj;Bone-Dry Desertian;;Bone-Dry Deserter;;;;;;;;;;;x
+d_boo_lake;Boo Lake;Boo Lake;Boo Lake;;Boo Lake;;;;;;;;;x
+d_boo_lake_adj;Boo Lakean;;Boo Laker;;;;;;;;;;;x
 d_bowser_land;Bowser Land;Bowser Land;Bowser Land;;Bowser Land;;;;;;;;;x
 d_bowser_land_adj;Bowser Landian;;Bowser Lander;;;;;;;;;;;x
 d_car_land;Car Land;Car Land;Car Land;;Car Land;;;;;;;;;x
@@ -35,12 +37,16 @@ d_chai;Chai;Chai;Chai;;Chai;;;;;;;;;x
 d_chai_adj;Chian;;cher;;;;;;;;;;;x
 d_cheep_cheep_bay;Cheep Cheep Bay;Cheep Cheep Bay;Cheep Cheep Bay;;Cheep Cheep Bay;;;;;;;;;x
 d_cheep_cheep_bay_adj;Cheep Cheep Baian;;Cheep Cheep Baer;;;;;;;;;;;x
+d_cheep_cheep_lake;Cheep Cheep Lake;Cheep Cheep Lake;Cheep Cheep Lake;;Cheep Cheep Lake;;;;;;;;;x
+d_cheep_cheep_lake_adj;Cheep Cheep Lakean;;Cheep Cheep Laker;;;;;;;;;;;x
 d_cherry;Cherry;Cherry;Cherry;;Cherry;;;;;;;;;x
 d_cherry_adj;Cherrian;;cherrer;;;;;;;;;;;x
 d_chili_pepper;Chili Pepper;Chili Pepper;Chili Pepper;;Chili Pepper;;;;;;;;;x
 d_chili_pepper_adj;Chili Pepperian;;Chili Pepperer;;;;;;;;;;;x
 d_christmas;Christmas;Christmas;Christmas;;Christmas;;;;;;;;;x
 d_christmas_adj;Christmasian;;christmaser;;;;;;;;;;;x
+d_cloud_bird_mountain;Cloud-Bird Mountain;Cloud-Bird Mountain;Cloud-Bird Mountain;;Cloud-Bird Mountain;;;;;;;;;x
+d_cloud_bird_mountain_adj;Cloud-Bird Mountainian;;Cloud-Bird Mountainer;;;;;;;;;;;x
 d_cold_river;Cold River;Cold River;Cold River;;Cold River;;;;;;;;;x
 d_cold_river_adj;Cold Riverian;;Cold Riverer;;;;;;;;;;;x
 d_cool_cool_mountain;Cool Cool Mountain;Cool Cool Mountain;Cool Cool Mountain;;Cool Cool Mountain;;;;;;;;;x
@@ -87,6 +93,8 @@ d_eel_islands;Eel Islands;Eel Islands;Eel Islands;;Eel Islands;;;;;;;;;x
 d_eel_islands_adj;Eel Islandsian;;Eel Islandser;;;;;;;;;;;x
 d_fahr;Fahr;Fahr;Fahr;;Fahr;;;;;;;;;x
 d_fahr_adj;Fahrian;;fahrer;;;;;;;;;;;x
+d_fire_mountain;Fire Mountain;Fire Mountain;Fire Mountain;;Fire Mountain;;;;;;;;;x
+d_fire_mountain_adj;Fire Mountainian;;Fire Mountainer;;;;;;;;;;;x
 d_forever_fortress;Forever Fortress;Forever Fortress;Forever Fortress;;Forever Fortress;;;;;;;;;x
 d_forever_fortress_adj;Forever Fortressian;;Forever Fortresser;;;;;;;;;;;x
 d_forgetti;Forgetti;Forgetti;Forgetti;;Forgetti;;;;;;;;;x
@@ -143,6 +151,8 @@ d_mushroom_duchy;Mushroom Duchy;Mushroom Duchy;Mushroom Duchy;;Mushroom Duchy;;;
 d_mushroom_duchy_adj;Mushroom Duchian;;Mushroom Ducher;;;;;;;;;;;x
 d_mushroomland;Mushroomland;Mushroomland;Mushroomland;;Mushroomland;;;;;;;;;x
 d_mushroomland_adj;Mushroomlandian;;mushroomlander;;;;;;;;;;;x
+d_mythis;Mythis;Mythis;Mythis;;Mythis;;;;;;;;;x
+d_mythis_adj;Mythisian;;mythiser;;;;;;;;;;;x
 d_neo_bowser_city;Neo Bowser City;Neo Bowser City;Neo Bowser City;;Neo Bowser City;;;;;;;;;x
 d_neo_bowser_city_adj;Neo Bowser Citian;;Neo Bowser Citer;;;;;;;;;;;x
 d_noki_bay;Noki Bay;Noki Bay;Noki Bay;;Noki Bay;;;;;;;;;x
@@ -205,6 +215,8 @@ d_southern_koopa_land;Southern Koopa Land;Southern Koopa Land;Southern Koopa Lan
 d_southern_koopa_land_adj;Southern Koopa Landian;;Southern Koopa Lander;;;;;;;;;;;x
 d_southern_mushroom_cape;Southern Mushroom Cape;Southern Mushroom Cape;Southern Mushroom Cape;;Southern Mushroom Cape;;;;;;;;;x
 d_southern_mushroom_cape_adj;Southern Mushroom Capean;;Southern Mushroom Caper;;;;;;;;;;;x
+d_spooktastic_world;Spooktastic World;Spooktastic World;Spooktastic World;;Spooktastic World;;;;;;;;;x
+d_spooktastic_world_adj;Spooktastic Worldian;;Spooktastic Worlder;;;;;;;;;;;x
 d_sprixieland;Sprixieland;Sprixieland;Sprixieland;;Sprixieland;;;;;;;;;x
 d_sprixieland_adj;Sprixielandian;;sprixielander;;;;;;;;;;;x
 d_star_fruit;Star Fruit;Star Fruit;Star Fruit;;Star Fruit;;;;;;;;;x
@@ -243,17 +255,29 @@ d_vibe_island;Vibe Island;Vibe Island;Vibe Island;;Vibe Island;;;;;;;;;x
 d_vibe_island_adj;Vibe Islandian;;Vibe Islander;;;;;;;;;;;x
 d_warios_island;Wario's Island;Wario's Island;Wario's Island;;Wario's Island;;;;;;;;;x
 d_warios_island_adj;Warios Islandian;;Wario's Islander;;;;;;;;;;;x
+d_warm_fuzzy_lake;Warm Fuzzy Lake;Warm Fuzzy Lake;Warm Fuzzy Lake;;Warm Fuzzy Lake;;;;;;;;;x
+d_warm_fuzzy_lake_adj;Warm Fuzzy Lakean;;Warm Fuzzy Laker;;;;;;;;;;;x
 d_watermelon;Watermelon;Watermelon;Watermelon;;Watermelon;;;;;;;;;x
 d_watermelon_adj;Watermelonian;;watermeloner;;;;;;;;;;;x
 d_western_dry_dry_desert;Western Dry Dry Desert;Western Dry Dry Desert;Western Dry Dry Desert;;Western Dry Dry Desert;;;;;;;;;x
 d_western_dry_dry_desert_adj;Western Dry Dry Desertian;;Western Dry Dry Deserter;;;;;;;;;;;x
 d_western_mushroomland;Western Mushroomland;Western Mushroomland;Western Mushroomland;;Western Mushroomland;;;;;;;;;x
 d_western_mushroomland_adj;Western Mushroomlandian;;Western Mushroomlander;;;;;;;;;;;x
+d_windmills;Windmills;Windmills;Windmills;;Windmills;;;;;;;;;x
+d_windmills_adj;Windmillsian;;windmillser;;;;;;;;;;;x
 d_world_e;World-e;World-e;World-e;;World-e;;;;;;;;;x
 d_world_e_adj;World-ean;;world-er;;;;;;;;;;;x
+d_wunderland;Wunderland;Wunderland;Wunderland;;Wunderland;;;;;;;;;x
+d_wunderland_adj;Wunderlandian;;wunderlander;;;;;;;;;;;x
 d_yoshi_lake;Yoshi Lake;Yoshi Lake;Yoshi Lake;;Yoshi Lake;;;;;;;;;x
 d_yoshi_lake_adj;Yoshi Lakean;;Yoshi Laker;;;;;;;;;;;x
+d_yoshi_land;Yoshi Land;Yoshi Land;Yoshi Land;;Yoshi Land;;;;;;;;;x
+d_yoshi_land_adj;Yoshi Landian;;Yoshi Lander;;;;;;;;;;;x
 d_yoshis_new_island;Yoshi's New Island;Yoshi's New Island;Yoshi's New Island;;Yoshi's New Island;;;;;;;;;x
 d_yoshis_new_island_adj;Yoshis New Islandian;;Yoshi's New Islander;;;;;;;;;;;x
 d_yoshis_village;Yoshi's Village;Yoshi's Village;Yoshi's Village;;Yoshi's Village;;;;;;;;;x
 d_yoshis_village_adj;Yoshis Villagean;;Yoshi's Villager;;;;;;;;;;;x
+d_yosu_lake;Yosu Lake;Yosu Lake;Yosu Lake;;Yosu Lake;;;;;;;;;x
+d_yosu_lake_adj;Yosu Lakean;;Yosu Laker;;;;;;;;;;;x
+d_youth_land;Youth Land;Youth Land;Youth Land;;Youth Land;;;;;;;;;x
+d_youth_land_adj;Youth Landian;;Youth Lander;;;;;;;;;;;x
