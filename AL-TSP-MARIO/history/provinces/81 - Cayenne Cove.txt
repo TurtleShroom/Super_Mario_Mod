@@ -15,7 +15,7 @@ b_cayenne_cove = castle
 #b_cayenne_cove_7 = castle
 
 # Misc
-culture = pirate
+culture = jellyfish_islands
 religion = seven_stars
 
 #History

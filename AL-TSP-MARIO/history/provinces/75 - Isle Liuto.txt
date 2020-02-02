@@ -15,7 +15,7 @@ b_isle_liuto = castle
 #b_isle_liuto_7 = castle
 
 # Misc
-culture = pirate
+culture = turtle_islands
 religion = seven_stars
 
 #History

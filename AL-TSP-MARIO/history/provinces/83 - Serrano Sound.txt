@@ -15,7 +15,7 @@ b_serrano_sound = castle
 #b_serrano_sound_7 = castle
 
 # Misc
-culture = pirate
+culture = jellyfish_islands
 religion = seven_stars
 
 #History

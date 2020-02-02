@@ -15,7 +15,7 @@ b_pinna_island = castle
 #b_pinna_island_7 = castle
 
 # Misc
-culture = pirate
+culture = delfino
 religion = seven_stars
 
 #History

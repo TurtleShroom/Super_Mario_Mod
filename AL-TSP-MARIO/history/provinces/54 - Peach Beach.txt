@@ -15,7 +15,7 @@ b_peach_beach = castle
 #b_peach_beach_7 = castle
 
 # Misc
-culture = pirate
+culture = delfino
 religion = seven_stars
 
 #History

@@ -15,7 +15,7 @@ b_sweet_orange_island = castle
 #b_sweet_orange_island_7 = castle
 
 # Misc
-culture = pirate
+culture = eel_islands
 religion = seven_stars
 
 #History

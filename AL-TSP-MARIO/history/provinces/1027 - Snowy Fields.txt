@@ -1,0 +1,21 @@
+# c_snowy_fields
+
+# County Title
+title = c_snowy_fields
+
+# Settlements
+max_settlements = 7
+
+b_snowy_fields = castle
+#b_snowy_fields_2 = city
+#b_snowy_fields_3 = temple
+#b_snowy_fields_4 = castle
+#b_snowy_fields_5 = city
+#b_snowy_fields_6 = temple
+#b_snowy_fields_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

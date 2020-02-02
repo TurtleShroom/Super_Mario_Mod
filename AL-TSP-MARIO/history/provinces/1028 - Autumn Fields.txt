@@ -1,0 +1,21 @@
+# c_autumn_fields
+
+# County Title
+title = c_autumn_fields
+
+# Settlements
+max_settlements = 7
+
+b_autumn_fields = castle
+#b_autumn_fields_2 = city
+#b_autumn_fields_3 = temple
+#b_autumn_fields_4 = castle
+#b_autumn_fields_5 = city
+#b_autumn_fields_6 = temple
+#b_autumn_fields_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

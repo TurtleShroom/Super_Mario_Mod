@@ -1,0 +1,33 @@
+#THE SUN
+technology = {
+	titles = {
+		d_angelo_island
+		d_artiglio_island
+		d_artiglio_islands
+		d_bianco_hills
+		d_crab_legs
+		d_crabshell
+		d_delfino
+		d_eel_islands
+		d_gelato
+		d_jellyfish_island
+		d_minnow_island
+		d_noki_bay
+		d_pianta_village
+		d_pinna_island
+		d_ricco
+		d_sirena
+		d_turtle_islands
+		d_twin_fishes
+	}
+	800 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

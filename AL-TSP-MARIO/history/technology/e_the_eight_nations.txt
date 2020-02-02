@@ -1,0 +1,26 @@
+#THE EIGHT NATIONS
+technology = {
+	titles = {
+		d_badlands
+		d_bowser_land
+		d_dark_world
+		d_gordon
+		d_magma_mountain
+		d_neo_bowser_city
+		d_shadowland
+		d_the_eight_nations
+		d_the_lake_of_fire
+		d_traitors_bay
+		d_world_e
+	}
+	800 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

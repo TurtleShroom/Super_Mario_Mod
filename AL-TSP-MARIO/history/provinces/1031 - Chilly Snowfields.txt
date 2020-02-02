@@ -1,0 +1,21 @@
+# c_chilly_snowfields
+
+# County Title
+title = c_chilly_snowfields
+
+# Settlements
+max_settlements = 7
+
+b_chilly_snowfields = castle
+#b_chilly_snowfields_2 = city
+#b_chilly_snowfields_3 = temple
+#b_chilly_snowfields_4 = castle
+#b_chilly_snowfields_5 = city
+#b_chilly_snowfields_6 = temple
+#b_chilly_snowfields_7 = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

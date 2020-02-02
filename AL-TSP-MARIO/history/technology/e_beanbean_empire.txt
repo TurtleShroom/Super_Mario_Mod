@@ -1,0 +1,16 @@
+#BEANBEAN EMPIRE
+technology = {
+	titles = {
+		d_beanbean_duchy
+	}
+	800 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

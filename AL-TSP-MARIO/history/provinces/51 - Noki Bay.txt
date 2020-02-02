@@ -15,7 +15,7 @@ b_noki_bay = castle
 #b_noki_bay_7 = castle
 
 # Misc
-culture = pirate
+culture = noki_bay
 religion = seven_stars
 
 #History

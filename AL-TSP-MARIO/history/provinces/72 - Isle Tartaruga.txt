@@ -15,7 +15,7 @@ b_isle_tartaruga = castle
 #b_isle_tartaruga_7 = castle
 
 # Misc
-culture = pirate
+culture = turtle_islands
 religion = seven_stars
 
 #History

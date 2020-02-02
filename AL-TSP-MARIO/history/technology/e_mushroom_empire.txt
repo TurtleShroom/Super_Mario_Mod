@@ -1,0 +1,45 @@
+#MUSHROOM EMPIRE
+technology = {
+	titles = {
+		d_baseball_island
+		d_blubble_lake
+		d_crime_land
+		d_diamond_bay
+		d_dimple_woods
+		d_eastern_mushroomland
+		d_forever_fortress
+		d_goomba_land
+		d_greenhorn
+		d_gusty_gultch
+		d_hollijolli
+		d_jolly_land
+		d_koopa_cape
+		d_mushroom
+		d_mushroom_duchy
+		d_mushroomland
+		d_northern_jade_jungle
+		d_northern_koopa_land
+		d_perilous_land
+		d_rotunda_land
+		d_royal_plaza
+		d_shiver_region
+		d_southern_jade_jungle
+		d_southern_koopa_land
+		d_superstar
+		d_thwomp_land
+		d_toadwood
+		d_warios_island
+		d_yoshis_new_island
+		d_yoshis_village
+	}
+	800 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

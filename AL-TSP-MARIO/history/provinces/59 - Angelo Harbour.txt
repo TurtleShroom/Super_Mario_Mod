@@ -15,7 +15,7 @@ b_angelo_harbour = castle
 #b_angelo_harbour_7 = castle
 
 # Misc
-culture = pirate
+culture = fish_islands
 religion = seven_stars
 
 #History

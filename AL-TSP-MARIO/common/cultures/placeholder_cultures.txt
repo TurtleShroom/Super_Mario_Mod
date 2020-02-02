@@ -1,0 +1,22 @@
+# This a mechanism used only to give a placeholder to cultures that do not exist in the Character History Files. Leaving it blank causes the Validator to misfire.
+
+utility_group = {
+	utility = {
+		graphical_cultures = { mongolgfx westerngfx }
+		color = { 255 255 255 }
+		male_names = { TEMP }
+		female_names = { TEMP }
+
+		modifier = default_culture_modifier
+
+# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 0
+		mat_grf_name_chance = 0
+		father_name_chance = 100
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 0
+		mat_grm_name_chance = 0
+		mother_name_chance = 100
+	}
+}

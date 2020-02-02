@@ -1,0 +1,25 @@
+#SARASALAND
+technology = {
+	titles = {
+		d_birabuto
+		d_chai
+		d_daisyland
+		d_eastern_awazon
+		d_easton
+		d_forgetti
+		d_mineral_coast
+		d_muda
+		d_northern_awazon
+		d_southern_awazon
+	}
+	800 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

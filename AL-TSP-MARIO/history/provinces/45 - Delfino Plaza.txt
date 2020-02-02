@@ -15,7 +15,7 @@ b_delfino_plaza = castle
 #b_delfino_plaza_7 = castle
 
 # Misc
-culture = pirate
+culture = delfino
 religion = seven_stars
 
 #History
