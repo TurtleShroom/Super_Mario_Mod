@@ -13,8 +13,10 @@ k_crab_islands;Crab Islands;Crab Islands;Crab Islands;;Crab Islands;;;;;;;;;x
 k_crab_islands_adj;Crab Islandsian;;Crab Islandser;;;;;;;;;;;x
 k_crocodile_isle;Crocodile Isle;Crocodile Isle;Crocodile Isle;;Crocodile Isle;;;;;;;;;x
 k_crocodile_isle_adj;Crocodile Islean;;Crocodile Isler;;;;;;;;;;;x
-k_darkland;Darkland;Darkland;Darkland;;Darkland;;;;;;;;;x
-k_darkland_adj;Darklandian;;darklander;;;;;;;;;;;x
+k_dark_land;Dark Land;Dark Land;Dark Land;;Dark Land;;;;;;;;;x
+k_dark_land_adj;Dark Landian;;Dark Lander;;;;;;;;;;;x
+k_desert_land;Desert Land;Desert Land;Desert Land;;Desert Land;;;;;;;;;x
+k_desert_land_adj;Desert Landian;;Desert Lander;;;;;;;;;;;x
 k_diamond_land;Diamond Land;Diamond Land;Diamond Land;;Diamond Land;;;;;;;;;x
 k_diamond_land_adj;Diamond Landian;;Diamond Lander;;;;;;;;;;;x
 k_dinosaur_island;Dinosaur Island;Dinosaur Island;Dinosaur Island;;Dinosaur Island;;;;;;;;;x
@@ -33,6 +35,10 @@ k_fish_islands;Fish Islands;Fish Islands;Fish Islands;;Fish Islands;;;;;;;;;x
 k_fish_islands_adj;Fish Islandsian;;Fish Islandser;;;;;;;;;;;x
 k_fruit_islands;Fruit Islands;Fruit Islands;Fruit Islands;;Fruit Islands;;;;;;;;;x
 k_fruit_islands_adj;Fruit Islandsian;;Fruit Islandser;;;;;;;;;;;x
+k_grass_land;Grass Land;Grass Land;Grass Land;;Grass Land;;;;;;;;;x
+k_grass_land_adj;Grass Landian;;Grass Lander;;;;;;;;;;;x
+k_ice_land;Ice Land;Ice Land;Ice Land;;Ice Land;;;;;;;;;x
+k_ice_land_adj;Ice Landian;;Ice Lander;;;;;;;;;;;x
 k_isle_delfino;Isle Delfino;Isle Delfino;Isle Delfino;;Isle Delfino;;;;;;;;;x
 k_isle_delfino_adj;Isle Delfinian;;Isle Delfiner;;;;;;;;;;;x
 k_jellyfish_island;Jellyfish Island;Jellyfish Island;Jellyfish Island;;Jellyfish Island;;;;;;;;;x
@@ -51,10 +57,14 @@ k_mushroom_cape;Mushroom Cape;Mushroom Cape;Mushroom Cape;;Mushroom Cape;;;;;;;;
 k_mushroom_cape_adj;Mushroom Capean;;Mushroom Caper;;;;;;;;;;;x
 k_mushroomland;Mushroomland;Mushroomland;Mushroomland;;Mushroomland;;;;;;;;;x
 k_mushroomland_adj;Mushroomlandian;;mushroomlander;;;;;;;;;;;x
+k_mythis;Mythis;Mythis;Mythis;;Mythis;;;;;;;;;x
+k_mythis_adj;Mythisian;;mythiser;;;;;;;;;;;x
 k_northern_kremisphere;Northern Kremisphere;Northern Kremisphere;Northern Kremisphere;;Northern Kremisphere;;;;;;;;;x
 k_northern_kremisphere_adj;Northern Kremispherean;;Northern Kremispherer;;;;;;;;;;;x
 k_piillo_island;Pi'illo Island;Pi'illo Island;Pi'illo Island;;Pi'illo Island;;;;;;;;;x
 k_piillo_island_adj;Pi'illo Islandian;;Pi'illo Islander;;;;;;;;;;;x
+k_pipe_land;Pipe Land;Pipe Land;Pipe Land;;Pipe Land;;;;;;;;;x
+k_pipe_land_adj;Pipe Landian;;Pipe Lander;;;;;;;;;;;x
 k_rogueport_kingdom;Rogueport Kingdom;Rogueport Kingdom;Rogueport Kingdom;;Rogueport Kingdom;;;;;;;;;x
 k_rogueport_kingdom_adj;Rogueport Kingdomian;;Rogueport Kingdomer;;;;;;;;;;;x
 k_rotunda_land;Rotunda Land;Rotunda Land;Rotunda Land;;Rotunda Land;;;;;;;;;x
@@ -85,5 +95,7 @@ k_warios_island;Wario's Island;Wario's Island;Wario's Island;;Wario's Island;;;;
 k_warios_island_adj;Warios Islandian;;Wario's Islander;;;;;;;;;;;x
 k_western_mushroomland;Western Mushroomland;Western Mushroomland;Western Mushroomland;;Western Mushroomland;;;;;;;;;x
 k_western_mushroomland_adj;Western Mushroomlandian;;Western Mushroomlander;;;;;;;;;;;x
+k_wiggler_land;Wiggler Land;Wiggler Land;Wiggler Land;;Wiggler Land;;;;;;;;;x
+k_wiggler_land_adj;Wiggler Landian;;Wiggler Lander;;;;;;;;;;;x
 k_yoshis_new_island;Yoshi's New Island;Yoshi's New Island;Yoshi's New Island;;Yoshi's New Island;;;;;;;;;x
 k_yoshis_new_island_adj;Yoshis New Islandian;;Yoshi's New Islander;;;;;;;;;;;x
