@@ -91,12 +91,14 @@ d_easton;Easton;Easton;Easton;;Easton;;;;;;;;;x
 d_easton_adj;Eastonian;;eastoner;;;;;;;;;;;x
 d_eel_islands;Eel Islands;Eel Islands;Eel Islands;;Eel Islands;;;;;;;;;x
 d_eel_islands_adj;Eel Islandsian;;Eel Islandser;;;;;;;;;;;x
+d_evershade_valley;Evershade Valley;Evershade Valley;Evershade Valley;;Evershade Valley;;;;;;;;;x
+d_evershade_valley_adj;Evershade Valleian;;Evershade Valleer;;;;;;;;;;;x
 d_fahr;Fahr;Fahr;Fahr;;Fahr;;;;;;;;;x
 d_fahr_adj;Fahrian;;fahrer;;;;;;;;;;;x
 d_fire_mountain;Fire Mountain;Fire Mountain;Fire Mountain;;Fire Mountain;;;;;;;;;x
 d_fire_mountain_adj;Fire Mountainian;;Fire Mountainer;;;;;;;;;;;x
-d_forever_fortress;Forever Fortress;Forever Fortress;Forever Fortress;;Forever Fortress;;;;;;;;;x
-d_forever_fortress_adj;Forever Fortressian;;Forever Fortresser;;;;;;;;;;;x
+d_forever_forest;Forever Forest;Forever Forest;Forever Forest;;Forever Forest;;;;;;;;;x
+d_forever_forest_adj;Forever Forestian;;Forever Forester;;;;;;;;;;;x
 d_forgetti;Forgetti;Forgetti;Forgetti;;Forgetti;;;;;;;;;x
 d_forgetti_adj;Forgettian;;forgetter;;;;;;;;;;;x
 d_frostown;Frostown;Frostown;Frostown;;Frostown;;;;;;;;;x
@@ -115,8 +117,12 @@ d_gritzy_desert;Gritzy Desert;Gritzy Desert;Gritzy Desert;;Gritzy Desert;;;;;;;;
 d_gritzy_desert_adj;Gritzy Desertian;;Gritzy Deserter;;;;;;;;;;;x
 d_gusty_gultch;Gusty Gultch;Gusty Gultch;Gusty Gultch;;Gusty Gultch;;;;;;;;;x
 d_gusty_gultch_adj;Gusty Gultchian;;Gusty Gultcher;;;;;;;;;;;x
+d_haunted_valley;Haunted Valley;Haunted Valley;Haunted Valley;;Haunted Valley;;;;;;;;;x
+d_haunted_valley_adj;Haunted Valleian;;Haunted Valleer;;;;;;;;;;;x
 d_hollijolli;Hollijolli;Hollijolli;Hollijolli;;Hollijolli;;;;;;;;;x
 d_hollijolli_adj;Hollijollian;;hollijoller;;;;;;;;;;;x
+d_horror_land;Horror Land;Horror Land;Horror Land;;Horror Land;;;;;;;;;x
+d_horror_land_adj;Horror Landian;;Horror Lander;;;;;;;;;;;x
 d_ice_cube;Ice Cube;Ice Cube;Ice Cube;;Ice Cube;;;;;;;;;x
 d_ice_cube_adj;Ice Cubean;;Ice Cuber;;;;;;;;;;;x
 d_icepeak;Icepeak;Icepeak;Icepeak;;Icepeak;;;;;;;;;x
@@ -133,6 +139,8 @@ d_lemon;Lemon;Lemon;Lemon;;Lemon;;;;;;;;;x
 d_lemon_adj;Lemonian;;lemoner;;;;;;;;;;;x
 d_lethal_laval_land;Lethal Laval Land;Lethal Laval Land;Lethal Laval Land;;Lethal Laval Land;;;;;;;;;x
 d_lethal_laval_land_adj;Lethal Laval Landian;;Lethal Laval Lander;;;;;;;;;;;x
+d_luigi_land;Luigi Land;Luigi Land;Luigi Land;;Luigi Land;;;;;;;;;x
+d_luigi_land_adj;Luigi Landian;;Luigi Lander;;;;;;;;;;;x
 d_lychee;Lychee;Lychee;Lychee;;Lychee;;;;;;;;;x
 d_lychee_adj;Lycheean;;lycher;;;;;;;;;;;x
 d_magma_mountain;Magma Mountain;Magma Mountain;Magma Mountain;;Magma Mountain;;;;;;;;;x

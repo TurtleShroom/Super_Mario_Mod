@@ -549,8 +549,8 @@ c_e_gadd_outpost;E. Gadd Outpost;E. Gadd Outpost;E. Gadd Outpost;;E. Gadd Outpos
 c_e_gadd_outpost_adj;E. Gadd Outpostian;;E. Gadd Outposter;;;;;;;;;;;x
 c_east_cavi_cape;East Cavi Cape;East Cavi Cape;East Cavi Cape;;East Cavi Cape;;;;;;;;;x
 c_east_cavi_cape_adj;East Cavi Capean;;East Cavi Caper;;;;;;;;;;;x
-c_east_forever_fortress;East Forever Fortress;East Forever Fortress;East Forever Fortress;;East Forever Fortress;;;;;;;;;x
-c_east_forever_fortress_adj;East Forever Fortressian;;East Forever Fortresser;;;;;;;;;;;x
+c_east_forever_forest;East Forever Forest;East Forever Forest;East Forever Forest;;East Forever Forest;;;;;;;;;x
+c_east_forever_forest_adj;East Forever Forestian;;East Forever Forester;;;;;;;;;;;x
 c_east_goomba_road;East Goomba Road;East Goomba Road;East Goomba Road;;East Goomba Road;;;;;;;;;x
 c_east_goomba_road_adj;East Goomba Roadian;;East Goomba Roader;;;;;;;;;;;x
 c_eastern_gritzy_desert;Eastern Gritzy Desert;Eastern Gritzy Desert;Eastern Gritzy Desert;;Eastern Gritzy Desert;;;;;;;;;x
@@ -1661,8 +1661,8 @@ c_soda_jungle;Soda Jungle;Soda Jungle;Soda Jungle;;Soda Jungle;;;;;;;;;x
 c_soda_jungle_adj;Soda Junglean;;Soda Jungler;;;;;;;;;;;x
 c_somnom_woods;Somnom Woods;Somnom Woods;Somnom Woods;;Somnom Woods;;;;;;;;;x
 c_somnom_woods_adj;Somnom Woodsian;;Somnom Woodser;;;;;;;;;;;x
-c_south_forever_fortress;South Forever Fortress;South Forever Fortress;South Forever Fortress;;South Forever Fortress;;;;;;;;;x
-c_south_forever_fortress_adj;South Forever Fortressian;;South Forever Fortresser;;;;;;;;;;;x
+c_south_forever_forest;South Forever Forest;South Forever Forest;South Forever Forest;;South Forever Forest;;;;;;;;;x
+c_south_forever_forest_adj;South Forever Forestian;;South Forever Forester;;;;;;;;;;;x
 c_south_jade_jungle;South Jade Jungle;South Jade Jungle;South Jade Jungle;;South Jade Jungle;;;;;;;;;x
 c_south_jade_jungle_adj;South Jade Junglean;;South Jade Jungler;;;;;;;;;;;x
 c_southern_desert_toad_house;Southern Desert Toad House;Southern Desert Toad House;Southern Desert Toad House;;Southern Desert Toad House;;;;;;;;;x

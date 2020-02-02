@@ -3,6 +3,8 @@ k_beanbean_kingdom;Beanbean Kingdom;Beanbean Kingdom;Beanbean Kingdom;;Beanbean 
 k_beanbean_kingdom_adj;Beanbean Kingdomian;;Beanbean Kingdomer;;;;;;;;;;;x
 k_birabuto;Birabuto;Birabuto;Birabuto;;Birabuto;;;;;;;;;x
 k_birabuto_adj;Birabutian;;birabuter;;;;;;;;;;;x
+k_blubble_lake;Blubble Lake;Blubble Lake;Blubble Lake;;Blubble Lake;;;;;;;;;x
+k_blubble_lake_adj;Blubble Lakean;;Blubble Laker;;;;;;;;;;;x
 k_central_mushroomland;Central Mushroomland;Central Mushroomland;Central Mushroomland;;Central Mushroomland;;;;;;;;;x
 k_central_mushroomland_adj;Central Mushroomlandian;;Central Mushroomlander;;;;;;;;;;;x
 k_chai;Chai;Chai;Chai;;Chai;;;;;;;;;x
@@ -55,10 +57,14 @@ k_piillo_island;Pi'illo Island;Pi'illo Island;Pi'illo Island;;Pi'illo Island;;;;
 k_piillo_island_adj;Pi'illo Islandian;;Pi'illo Islander;;;;;;;;;;;x
 k_rogueport_kingdom;Rogueport Kingdom;Rogueport Kingdom;Rogueport Kingdom;;Rogueport Kingdom;;;;;;;;;x
 k_rogueport_kingdom_adj;Rogueport Kingdomian;;Rogueport Kingdomer;;;;;;;;;;;x
+k_rotunda_land;Rotunda Land;Rotunda Land;Rotunda Land;;Rotunda Land;;;;;;;;;x
+k_rotunda_land_adj;Rotunda Landian;;Rotunda Lander;;;;;;;;;;;x
 k_shiver_land;Shiver Land;Shiver Land;Shiver Land;;Shiver Land;;;;;;;;;x
 k_shiver_land_adj;Shiver Landian;;Shiver Lander;;;;;;;;;;;x
 k_shiver_region;Shiver Region;Shiver Region;Shiver Region;;Shiver Region;;;;;;;;;x
 k_shiver_region_adj;Shiver Regionian;;Shiver Regioner;;;;;;;;;;;x
+k_spectralvania;Spectralvania;Spectralvania;Spectralvania;;Spectralvania;;;;;;;;;x
+k_spectralvania_adj;Spectralvanian;;spectralvaner;;;;;;;;;;;x
 k_sprixieland;Sprixieland;Sprixieland;Sprixieland;;Sprixieland;;;;;;;;;x
 k_sprixieland_adj;Sprixielandian;;sprixielander;;;;;;;;;;;x
 k_the_eight_nations;The Eight Nations;The Eight Nations;The Eight Nations;;The Eight Nations;;;;;;;;;x
