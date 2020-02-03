@@ -1750,26 +1750,22 @@ koopa_group = {
 kong_group = {
 		graphical_cultures = { frankishgfx }
 
-		kongobongo = {
+		kongobongo = { #Make sure all names end with a "ee" sound
 			color = { 153 77 0 }
 			male_names = {
-			Donkey Diddy_Diddy Diddie_Diddy Lankey Cranky Funky Kiddy Swanky Bluster Chunky Hunky Tanky Clonky Stinky Rocky Rusty Lackey Eddy Kong "Jerry Lee"_Jared Lewis Jerry_Jared
+				Donkey Diddy_Diddy Diddie_Diddy Lankey Cranky Funky Kiddy Swanky Bluster Chunky Hunky Tanky Clonky Stinky Rocky Rusty Lackey Eddy Kong "Jerry Lee"_Jared Lewis Jerry_Jared
 			}
 			female_names = {
-			Kay Candy Tiny Pretty Dixie Bratty Katty Trixie Roxy 
+				Kay Candy Tiny Pretty Dixie Bratty Katty Trixie Roxy 
+			}
 		}
 
-			from_dynasty_prefix = " "
-			from_dynasty_suffix = ""
-			male_patronym = ""
-		dynasty_title_names = yes
-		dynasty_name_first = yes
-		prefix = no
+		from_dynasty_prefix = "ee "
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 5
-		mat_grf_name_chance = 0
-		father_name_chance = 0
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 5
+		father_name_chance = 20
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 10
@@ -1783,21 +1779,18 @@ kong_group = {
 kremling_group = {
 		graphical_cultures = { frankishgfx }
 		
-		kremling = {
+		kremling = { #Make sure all names starts with a "k"
 			color = { 0 51 0 }
 			male_names = {
 				Kieth Kuhrool Krusha Klump
+			}
 			female_names = {
 				Kalypso
+			}
 		}
 
-			from_dynasty_prefix = " "
-			from_dynasty_suffix = ""
-			male_patronym = ""
-		dynasty_title_names = yes
-		dynasty_name_first = yes
-		prefix = no
-		
+		from_dynasty_prefix = "kae"
+			
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 5
 		mat_grf_name_chance = 0

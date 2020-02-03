@@ -2,154 +2,6 @@
 
 
 
-e_beanbean_empire = {
-	color={ 51 54 29 }
-	color2={ 255 255 20 }
-	
-	capital = 27 # c_beanbean_castle
-	culture = pirate
-	
-	k_beanbean_kingdom = {
-		color={ 41 64 24 }
-		color2={ 255 255 255 }
-		
-		capital = 27 # c_beanbean_castle
-		culture = pirate
-		
-		d_beanbean_duchy = {
-			color={ 21 84 14 }
-			color2={ 255 255 255 }
-			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 27 province_id = 28 province_id = 29 province_id = 30 province_id = 31 province_id = 32 province_id = 33 province_id = 34 province_id = 35 province_id = 36 province_id = 37 province_id = 38 province_id = 39 province_id = 40 province_id = 41 province_id = 42 province_id = 43 } }
-				}
-			}
-			capital = 27 # c_beanbean_castle
-			
-			c_beanbean_castle = { # 27
-				color={ 11 94 9 }
-				color2={ 255 255 255 }
-				
-				b_beanbean_castle = {
-				}
-			}
-			c_beanbean_airport = { # 28
-				color={ 16 91 19 }
-				color2={ 255 255 255 }
-				
-				b_beanbean_airport = {
-				}
-			}
-			c_beanbean_meadows = { # 43
-				color={ 71 76 166 }
-				color2={ 255 255 255 }
-				
-				b_beanbean_meadows = {
-				}
-			}
-			c_beanbean_swamp = { # 29
-				color={ 20 89 28 }
-				color2={ 255 255 255 }
-				
-				b_beanbean_swamp = {
-				}
-			}
-			c_chateau_de_chucklehuck = { # 33
-				color={ 40 86 67 }
-				color2={ 255 255 255 }
-				
-				b_chateau_de_chucklehuck = {
-				}
-			}
-			c_chucklehuck_woods = { # 34
-				color={ 44 84 77 }
-				color2={ 255 255 255 }
-				
-				b_chucklehuck_woods = {
-				}
-			}
-			c_guffawha_ruins = { # 39
-				color={ 59 79 127 }
-				color2={ 255 255 255 }
-				
-				b_guffawha_ruins = {
-				}
-			}
-			c_gwarhar_lagoon = { # 40
-				color={ 63 79 137 }
-				color2={ 255 255 255 }
-				
-				b_gwarhar_lagoon = {
-				}
-			}
-			c_hoohoo_mountain = { # 32
-				color={ 36 86 57 }
-				color2={ 255 255 255 }
-				
-				b_hoohoo_mountain = {
-				}
-			}
-			c_hoohoo_village = { # 31
-				color={ 33 89 48 }
-				color2={ 255 255 255 }
-				
-				b_hoohoo_village = {
-				}
-			}
-			c_jokes_end = { # 42
-				color={ 68 76 156 }
-				color2={ 255 255 255 }
-				
-				b_jokes_end = {
-				}
-			}
-			c_little_fungitown = { # 38
-				color={ 56 79 117 }
-				color2={ 255 255 255 }
-				
-				b_little_fungitown = {
-				}
-			}
-			c_oho_oasis = { # 36
-				color={ 50 81 97 }
-				color2={ 255 255 255 }
-				
-				b_oho_oasis = {
-				}
-			}
-			c_stardust_fields = { # 30
-				color={ 29 89 38 }
-				color2={ 255 255 255 }
-				
-				b_stardust_fields = {
-				}
-			}
-			c_teehee_valley = { # 37
-				color={ 52 79 107 }
-				color2={ 255 255 255 }
-				
-				b_teehee_valley = {
-				}
-			}
-			c_woohoo_university = { # 35
-				color={ 46 81 87 }
-				color2={ 255 255 255 }
-				
-				b_woohoo_university = {
-				}
-			}
-			c_yoshi_theatre = { # 41
-				color={ 64 76 146 }
-				color2={ 255 255 255 }
-				
-				b_yoshi_theatre = {
-				}
-			}
-		}
-	}
-}
 e_mushroom_empire = {
 	color={ 215 40 235 }
 	color2={ 255 255 20 }
@@ -2298,7 +2150,7 @@ e_mushroom_empire = {
 		color2={ 255 255 255 }
 		
 		capital = 945 # c_warios_island
-		culture = pirate
+		culture = kongobongo
 		
 		d_warios_island = {
 			color={ 183 218 251 }
@@ -2406,6 +2258,244 @@ e_mushroom_ring = {
 			}
 		}
 	}
+	k_beanbean_kingdom = {
+		color={ 41 64 24 }
+		color2={ 255 255 255 }
+		
+		capital = 27 # c_beanbean_castle
+		culture = pirate
+		
+		d_beanbean_duchy = {
+			color={ 21 84 14 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 27 province_id = 28 province_id = 29 province_id = 30 province_id = 31 province_id = 32 province_id = 33 province_id = 34 province_id = 35 province_id = 36 province_id = 37 province_id = 38 province_id = 39 province_id = 40 province_id = 41 province_id = 42 province_id = 43 } }
+				}
+			}
+			capital = 27 # c_beanbean_castle
+			
+			c_beanbean_castle = { # 27
+				color={ 11 94 9 }
+				color2={ 255 255 255 }
+				
+				b_beanbean_castle = {
+				}
+			}
+			c_beanbean_airport = { # 28
+				color={ 16 91 19 }
+				color2={ 255 255 255 }
+				
+				b_beanbean_airport = {
+				}
+			}
+			c_beanbean_meadows = { # 43
+				color={ 71 76 166 }
+				color2={ 255 255 255 }
+				
+				b_beanbean_meadows = {
+				}
+			}
+			c_beanbean_swamp = { # 29
+				color={ 20 89 28 }
+				color2={ 255 255 255 }
+				
+				b_beanbean_swamp = {
+				}
+			}
+			c_chateau_de_chucklehuck = { # 33
+				color={ 40 86 67 }
+				color2={ 255 255 255 }
+				
+				b_chateau_de_chucklehuck = {
+				}
+			}
+			c_chucklehuck_woods = { # 34
+				color={ 44 84 77 }
+				color2={ 255 255 255 }
+				
+				b_chucklehuck_woods = {
+				}
+			}
+			c_guffawha_ruins = { # 39
+				color={ 59 79 127 }
+				color2={ 255 255 255 }
+				
+				b_guffawha_ruins = {
+				}
+			}
+			c_gwarhar_lagoon = { # 40
+				color={ 63 79 137 }
+				color2={ 255 255 255 }
+				
+				b_gwarhar_lagoon = {
+				}
+			}
+			c_hoohoo_mountain = { # 32
+				color={ 36 86 57 }
+				color2={ 255 255 255 }
+				
+				b_hoohoo_mountain = {
+				}
+			}
+			c_hoohoo_village = { # 31
+				color={ 33 89 48 }
+				color2={ 255 255 255 }
+				
+				b_hoohoo_village = {
+				}
+			}
+			c_jokes_end = { # 42
+				color={ 68 76 156 }
+				color2={ 255 255 255 }
+				
+				b_jokes_end = {
+				}
+			}
+			c_little_fungitown = { # 38
+				color={ 56 79 117 }
+				color2={ 255 255 255 }
+				
+				b_little_fungitown = {
+				}
+			}
+			c_oho_oasis = { # 36
+				color={ 50 81 97 }
+				color2={ 255 255 255 }
+				
+				b_oho_oasis = {
+				}
+			}
+			c_stardust_fields = { # 30
+				color={ 29 89 38 }
+				color2={ 255 255 255 }
+				
+				b_stardust_fields = {
+				}
+			}
+			c_teehee_valley = { # 37
+				color={ 52 79 107 }
+				color2={ 255 255 255 }
+				
+				b_teehee_valley = {
+				}
+			}
+			c_woohoo_university = { # 35
+				color={ 46 81 87 }
+				color2={ 255 255 255 }
+				
+				b_woohoo_university = {
+				}
+			}
+			c_yoshi_theatre = { # 41
+				color={ 64 76 146 }
+				color2={ 255 255 255 }
+				
+				b_yoshi_theatre = {
+				}
+			}
+		}
+	}
+	k_lands_end = {
+		color={ 30 251 23 }
+		color2={ 255 255 255 }
+		
+		capital = 698 # c_monstro_town
+		culture = pirate
+		
+		d_lands_end = {
+			color={ 10 15 13 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 698 province_id = 699 province_id = 700 province_id = 702 province_id = 703 province_id = 704 province_id = 705 province_id = 706 province_id = 707 province_id = 708 province_id = 709 } }
+				}
+			}
+			capital = 698 # c_monstro_town
+			
+			c_monstro_town = { # 698
+				color={ 0 25 8 }
+				color2={ 255 255 255 }
+				
+				b_monstro_town = {
+				}
+			}
+			c_bean_valley = { # 700
+				color={ 20 25 8 }
+				color2={ 255 255 255 }
+				
+				b_bean_valley = {
+				}
+			}
+			c_belome_temple = { # 702
+				color={ 40 25 8 }
+				color2={ 255 255 255 }
+				
+				b_belome_temple = {
+				}
+			}
+			c_cliff_of_beasts = { # 703
+				color={ 50 25 8 }
+				color2={ 255 255 255 }
+				
+				b_cliff_of_beasts = {
+				}
+			}
+			c_lands_end = { # 699
+				color={ 10 25 8 }
+				color2={ 255 255 255 }
+				
+				b_lands_end = {
+				}
+			}
+			c_long_fall_cliffs = { # 707
+				color={ 90 25 8 }
+				color2={ 255 255 255 }
+				
+				b_long_fall_cliffs = {
+				}
+			}
+			c_quartz_crag = { # 709
+				color={ 110 25 8 }
+				color2={ 255 255 255 }
+				
+				b_quartz_crag = {
+				}
+			}
+			c_savage_heights = { # 706
+				color={ 80 25 8 }
+				color2={ 255 255 255 }
+				
+				b_savage_heights = {
+				}
+			}
+			c_shadow_bay = { # 704
+				color={ 60 25 8 }
+				color2={ 255 255 255 }
+				
+				b_shadow_bay = {
+				}
+			}
+			c_sunrise_coast = { # 705
+				color={ 70 25 8 }
+				color2={ 255 255 255 }
+				
+				b_sunrise_coast = {
+				}
+			}
+			c_tower_of_sand = { # 708
+				color={ 100 25 8 }
+				color2={ 255 255 255 }
+				
+				b_tower_of_sand = {
+				}
+			}
+		}
+	}
 	k_mario_land = {
 		color={ 157 226 15 }
 		color2={ 255 255 255 }
@@ -2483,79 +2573,30 @@ e_mushroom_ring = {
 			}
 		}
 	}
-	k_western_mushroomland = {
-		color={ 30 43 29 }
+	k_mole_mountains = {
+		color={ 30 36 33 }
 		color2={ 255 255 255 }
 		
-		capital = 654 # c_mushroom_castle
+		capital = 677 # c_mole_mountain
 		culture = pirate
 		
-		d_western_mushroomland = {
-			color={ 10 63 19 }
+		d_mole_mountains = {
+			color={ 10 56 23 }
 			color2={ 255 255 255 }
 			
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 654 province_id = 655 province_id = 656 province_id = 657 province_id = 658 province_id = 659 province_id = 660 province_id = 661 province_id = 662 province_id = 663 province_id = 664 province_id = 665 province_id = 666 province_id = 667 province_id = 668 province_id = 669 province_id = 670 province_id = 671 province_id = 672 province_id = 673 province_id = 674 province_id = 675 province_id = 676 province_id = 677 province_id = 678 province_id = 679 province_id = 680 province_id = 681 province_id = 682 province_id = 683 province_id = 684 province_id = 685 province_id = 686 province_id = 687 province_id = 688 province_id = 689 province_id = 690 province_id = 691 province_id = 692 province_id = 693 province_id = 694 province_id = 695 province_id = 696 province_id = 697 province_id = 698 province_id = 699 province_id = 700 province_id = 701 province_id = 702 province_id = 703 province_id = 704 province_id = 705 province_id = 706 province_id = 707 province_id = 708 province_id = 709 province_id = 710 province_id = 711 province_id = 712 province_id = 713 province_id = 714 province_id = 715 province_id = 716 province_id = 717 province_id = 718 province_id = 719 province_id = 720 province_id = 721 province_id = 722 province_id = 723 province_id = 724 province_id = 725 province_id = 726 province_id = 727 province_id = 728 province_id = 729 province_id = 730 province_id = 731 province_id = 732 province_id = 733 province_id = 734 province_id = 735 province_id = 736 province_id = 737 province_id = 738 province_id = 739 } }
+					any_demesne_province = { OR = { province_id = 677 province_id = 678 province_id = 679 province_id = 680 province_id = 681 province_id = 682 province_id = 683 province_id = 684 province_id = 685 province_id = 686 province_id = 687 province_id = 688 } }
 				}
 			}
-			capital = 654 # c_mushroom_castle
+			capital = 677 # c_mole_mountain
 			
-			c_mushroom_castle = { # 654
-				color={ 0 73 14 }
+			c_mole_mountain = { # 677
+				color={ 0 66 18 }
 				color2={ 255 255 255 }
 				
-				b_mushroom_castle = {
-				}
-			}
-			c_ashen_slope = { # 714
-				color={ 40 48 9 }
-				color2={ 255 255 255 }
-				
-				b_ashen_slope = {
-				}
-			}
-			c_bandits_way = { # 657
-				color={ 30 73 14 }
-				color2={ 255 255 255 }
-				
-				b_bandits_way = {
-				}
-			}
-			c_barrel_slope = { # 718
-				color={ 80 48 9 }
-				color2={ 255 255 255 }
-				
-				b_barrel_slope = {
-				}
-			}
-			c_barren_badlands = { # 734
-				color={ 140 22 4 }
-				color2={ 255 255 255 }
-				
-				b_barren_badlands = {
-				}
-			}
-			c_bean_valley = { # 700
-				color={ 20 25 8 }
-				color2={ 255 255 255 }
-				
-				b_bean_valley = {
-				}
-			}
-			c_belome_temple = { # 702
-				color={ 40 25 8 }
-				color2={ 255 255 255 }
-				
-				b_belome_temple = {
-				}
-			}
-			c_black_beach = { # 716
-				color={ 60 48 9 }
-				color2={ 255 255 255 }
-				
-				b_black_beach = {
+				b_mole_mountain = {
 				}
 			}
 			c_booster_field = { # 683
@@ -2593,18 +2634,95 @@ e_mushroom_ring = {
 				b_boulder_field = {
 				}
 			}
-			c_bowser_bay = { # 723
-				color={ 30 22 4 }
+			c_granite_flats = { # 684
+				color={ 70 66 18 }
 				color2={ 255 255 255 }
 				
-				b_bowser_bay = {
+				b_granite_flats = {
 				}
 			}
-			c_bowsers_keep = { # 721
-				color={ 10 22 4 }
+			c_marrymore = { # 681
+				color={ 40 66 18 }
 				color2={ 255 255 255 }
 				
-				b_bowsers_keep = {
+				b_marrymore = {
+				}
+			}
+			c_mole_harbour = { # 688
+				color={ 110 66 18 }
+				color2={ 255 255 255 }
+				
+				b_mole_harbour = {
+				}
+			}
+			c_pirates_bluff = { # 686
+				color={ 90 66 18 }
+				color2={ 255 255 255 }
+				
+				b_pirates_bluff = {
+				}
+			}
+			c_smugglers_bay = { # 687
+				color={ 100 66 18 }
+				color2={ 255 255 255 }
+				
+				b_smugglers_bay = {
+				}
+			}
+			c_southport = { # 685
+				color={ 80 66 18 }
+				color2={ 255 255 255 }
+				
+				b_southport = {
+				}
+			}
+		}
+	}
+	k_nimbus_land = {
+		color={ 60 251 23 }
+		color2={ 255 255 255 }
+		
+		capital = 701 # c_nimbus_land
+		culture = pirate
+		
+		d_nimbus_land = {
+			color={ 40 15 13 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 701 province_id = 710 province_id = 711 province_id = 712 province_id = 713 province_id = 714 province_id = 715 province_id = 716 province_id = 717 province_id = 718 province_id = 719 } }
+				}
+			}
+			capital = 701 # c_nimbus_land
+			
+			c_nimbus_land = { # 701
+				color={ 30 25 8 }
+				color2={ 255 255 255 }
+				
+				b_nimbus_land = {
+				}
+			}
+			c_ashen_slope = { # 714
+				color={ 40 48 9 }
+				color2={ 255 255 255 }
+				
+				b_ashen_slope = {
+				}
+			}
+			c_barrel_slope = { # 718
+				color={ 80 48 9 }
+				color2={ 255 255 255 }
+				
+				b_barrel_slope = {
+				}
+			}
+			c_black_beach = { # 716
+				color={ 60 48 9 }
+				color2={ 255 255 255 }
+				
+				b_black_beach = {
 				}
 			}
 			c_burning_beach = { # 713
@@ -2628,207 +2746,11 @@ e_mushroom_ring = {
 				b_choking_cliffs = {
 				}
 			}
-			c_cliff_of_beasts = { # 703
-				color={ 50 25 8 }
-				color2={ 255 255 255 }
-				
-				b_cliff_of_beasts = {
-				}
-			}
-			c_crown_bay = { # 662
-				color={ 80 73 14 }
-				color2={ 255 255 255 }
-				
-				b_crown_bay = {
-				}
-			}
-			c_crownwood_forest = { # 660
-				color={ 60 73 14 }
-				color2={ 255 255 255 }
-				
-				b_crownwood_forest = {
-				}
-			}
-			c_dagger_coast = { # 730
-				color={ 100 22 4 }
-				color2={ 255 255 255 }
-				
-				b_dagger_coast = {
-				}
-			}
-			c_deep_forest_maze = { # 676
-				color={ 80 45 8 }
-				color2={ 255 255 255 }
-				
-				b_deep_forest_maze = {
-				}
-			}
-			c_flaming_harbour = { # 733
-				color={ 130 22 4 }
-				color2={ 255 255 255 }
-				
-				b_flaming_harbour = {
-				}
-			}
-			c_freshwater_beach = { # 697
-				color={ 80 40 6 }
-				color2={ 255 255 255 }
-				
-				b_freshwater_beach = {
-				}
-			}
-			c_frostbite_islands = { # 725
-				color={ 50 22 4 }
-				color2={ 255 255 255 }
-				
-				b_frostbite_islands = {
-				}
-			}
-			c_grand_staircase = { # 664
-				color={ 100 73 14 }
-				color2={ 255 255 255 }
-				
-				b_grand_staircase = {
-				}
-			}
-			c_granite_flats = { # 684
-				color={ 70 66 18 }
-				color2={ 255 255 255 }
-				
-				b_granite_flats = {
-				}
-			}
-			c_harbour_hold = { # 695
-				color={ 60 40 6 }
-				color2={ 255 255 255 }
-				
-				b_harbour_hold = {
-				}
-			}
-			c_hightop_flats = { # 663
-				color={ 90 73 14 }
-				color2={ 255 255 255 }
-				
-				b_hightop_flats = {
-				}
-			}
-			c_icewater_bay = { # 665
-				color={ 110 73 14 }
-				color2={ 255 255 255 }
-				
-				b_icewater_bay = {
-				}
-			}
-			c_icy_claw = { # 729
-				color={ 90 22 4 }
-				color2={ 255 255 255 }
-				
-				b_icy_claw = {
-				}
-			}
-			c_kero_sewers = { # 668
-				color={ 0 45 8 }
-				color2={ 255 255 255 }
-				
-				b_kero_sewers = {
-				}
-			}
-			c_kings_pass = { # 659
-				color={ 50 73 14 }
-				color2={ 255 255 255 }
-				
-				b_kings_pass = {
-				}
-			}
-			c_koopa_bay = { # 724
-				color={ 40 22 4 }
-				color2={ 255 255 255 }
-				
-				b_koopa_bay = {
-				}
-			}
-			c_koopa_cape_2 = { # 726
-				color={ 60 22 4 }
-				color2={ 255 255 255 }
-				
-				b_koopa_cape_2 = {
-				}
-			}
-			c_lands_end = { # 699
-				color={ 10 25 8 }
-				color2={ 255 255 255 }
-				
-				b_lands_end = {
-				}
-			}
 			c_lava_hill = { # 719
 				color={ 90 48 9 }
 				color2={ 255 255 255 }
 				
 				b_lava_hill = {
-				}
-			}
-			c_lightning_bay = { # 694
-				color={ 50 40 6 }
-				color2={ 255 255 255 }
-				
-				b_lightning_bay = {
-				}
-			}
-			c_long_fall_cliffs = { # 707
-				color={ 90 25 8 }
-				color2={ 255 255 255 }
-				
-				b_long_fall_cliffs = {
-				}
-			}
-			c_lost_caves = { # 735
-				color={ 150 22 4 }
-				color2={ 255 255 255 }
-				
-				b_lost_caves = {
-				}
-			}
-			c_marios_pad = { # 655
-				color={ 10 73 14 }
-				color2={ 255 255 255 }
-				
-				b_marios_pad = {
-				}
-			}
-			c_marrymore = { # 681
-				color={ 40 66 18 }
-				color2={ 255 255 255 }
-				
-				b_marrymore = {
-				}
-			}
-			c_midas_river = { # 669
-				color={ 10 45 8 }
-				color2={ 255 255 255 }
-				
-				b_midas_river = {
-				}
-			}
-			c_mole_harbour = { # 688
-				color={ 110 66 18 }
-				color2={ 255 255 255 }
-				
-				b_mole_harbour = {
-				}
-			}
-			c_mole_mountain = { # 677
-				color={ 0 66 18 }
-				color2={ 255 255 255 }
-				
-				b_mole_mountain = {
-				}
-			}
-			c_monstro_town = { # 698
-				color={ 0 25 8 }
-				color2={ 255 255 255 }
-				
-				b_monstro_town = {
 				}
 			}
 			c_mouth_of_the_barrel = { # 710
@@ -2838,55 +2760,6 @@ e_mushroom_ring = {
 				b_mouth_of_the_barrel = {
 				}
 			}
-			c_mushroom_harbour = { # 661
-				color={ 70 73 14 }
-				color2={ 255 255 255 }
-				
-				b_mushroom_harbour = {
-				}
-			}
-			c_mushroom_mountains = { # 658
-				color={ 40 73 14 }
-				color2={ 255 255 255 }
-				
-				b_mushroom_mountains = {
-				}
-			}
-			c_mushroom_thicket = { # 667
-				color={ 130 73 14 }
-				color2={ 255 255 255 }
-				
-				b_mushroom_thicket = {
-				}
-			}
-			c_mushroom_way = { # 656
-				color={ 20 73 14 }
-				color2={ 255 255 255 }
-				
-				b_mushroom_way = {
-				}
-			}
-			c_nimbus_land = { # 701
-				color={ 30 25 8 }
-				color2={ 255 255 255 }
-				
-				b_nimbus_land = {
-				}
-			}
-			c_pipe_vault = { # 673
-				color={ 50 45 8 }
-				color2={ 255 255 255 }
-				
-				b_pipe_vault = {
-				}
-			}
-			c_pirates_bluff = { # 686
-				color={ 90 66 18 }
-				color2={ 255 255 255 }
-				
-				b_pirates_bluff = {
-				}
-			}
 			c_potash_bay = { # 712
 				color={ 20 48 9 }
 				color2={ 255 255 255 }
@@ -2894,18 +2767,60 @@ e_mushroom_ring = {
 				b_potash_bay = {
 				}
 			}
-			c_quartz_crag = { # 709
-				color={ 110 25 8 }
+			c_sulpher_coast = { # 711
+				color={ 10 48 9 }
 				color2={ 255 255 255 }
 				
-				b_quartz_crag = {
+				b_sulpher_coast = {
 				}
 			}
-			c_redstone_reach = { # 728
-				color={ 80 22 4 }
+		}
+	}
+	k_seaside = {
+		color={ 30 10 21 }
+		color2={ 255 255 255 }
+		
+		capital = 689 # c_star_hill
+		culture = pirate
+		
+		d_seaside = {
+			color={ 10 30 11 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 689 province_id = 690 province_id = 691 province_id = 692 province_id = 693 province_id = 694 province_id = 695 province_id = 696 province_id = 697 } }
+				}
+			}
+			capital = 689 # c_star_hill
+			
+			c_star_hill = { # 689
+				color={ 0 40 6 }
 				color2={ 255 255 255 }
 				
-				b_redstone_reach = {
+				b_star_hill = {
+				}
+			}
+			c_freshwater_beach = { # 697
+				color={ 80 40 6 }
+				color2={ 255 255 255 }
+				
+				b_freshwater_beach = {
+				}
+			}
+			c_harbour_hold = { # 695
+				color={ 60 40 6 }
+				color2={ 255 255 255 }
+				
+				b_harbour_hold = {
+				}
+			}
+			c_lightning_bay = { # 694
+				color={ 50 40 6 }
+				color2={ 255 255 255 }
+				
+				b_lightning_bay = {
 				}
 			}
 			c_rocky_fields = { # 696
@@ -2920,6 +2835,69 @@ e_mushroom_ring = {
 				color2={ 255 255 255 }
 				
 				b_rolling_flats = {
+				}
+			}
+			c_salty_beach = { # 692
+				color={ 30 40 6 }
+				color2={ 255 255 255 }
+				
+				b_salty_beach = {
+				}
+			}
+			c_salty_path = { # 691
+				color={ 20 40 6 }
+				color2={ 255 255 255 }
+				
+				b_salty_path = {
+				}
+			}
+			c_seaside_town = { # 690
+				color={ 10 40 6 }
+				color2={ 255 255 255 }
+				
+				b_seaside_town = {
+				}
+			}
+		}
+	}
+	k_tadpole_pond = {
+		color={ 40 15 23 }
+		color2={ 255 255 255 }
+		
+		capital = 669 # c_midas_river
+		culture = pirate
+		
+		d_tadpole_pond = {
+			color={ 20 35 13 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 669 province_id = 670 province_id = 671 province_id = 672 province_id = 673 province_id = 674 province_id = 675 province_id = 676 } }
+				}
+			}
+			capital = 669 # c_midas_river
+			
+			c_midas_river = { # 669
+				color={ 10 45 8 }
+				color2={ 255 255 255 }
+				
+				b_midas_river = {
+				}
+			}
+			c_deep_forest_maze = { # 676
+				color={ 80 45 8 }
+				color2={ 255 255 255 }
+				
+				b_deep_forest_maze = {
+				}
+			}
+			c_pipe_vault = { # 673
+				color={ 50 45 8 }
+				color2={ 255 255 255 }
+				
+				b_pipe_vault = {
 				}
 			}
 			c_rose_forest_maze = { # 674
@@ -2943,39 +2921,123 @@ e_mushroom_ring = {
 				b_rose_way = {
 				}
 			}
-			c_salty_beach = { # 692
-				color={ 30 40 6 }
+			c_shore_forest_maze = { # 675
+				color={ 70 45 8 }
 				color2={ 255 255 255 }
 				
-				b_salty_beach = {
+				b_shore_forest_maze = {
 				}
 			}
-			c_salty_path = { # 691
-				color={ 20 40 6 }
+			c_tadpole_pond = { # 670
+				color={ 20 45 8 }
 				color2={ 255 255 255 }
 				
-				b_salty_path = {
+				b_tadpole_pond = {
 				}
 			}
-			c_savage_heights = { # 706
-				color={ 80 25 8 }
-				color2={ 255 255 255 }
-				
-				b_savage_heights = {
+		}
+	}
+	k_the_gate = {
+		color={ 30 248 19 }
+		color2={ 255 255 255 }
+		
+		capital = 720 # c_vista_hill
+		culture = pirate
+		
+		d_the_gate = {
+			color={ 10 12 9 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 720 province_id = 721 province_id = 722 province_id = 723 province_id = 724 province_id = 725 province_id = 726 province_id = 727 province_id = 728 province_id = 729 province_id = 730 province_id = 731 province_id = 732 province_id = 733 province_id = 734 province_id = 735 province_id = 736 province_id = 737 province_id = 738 } }
 				}
 			}
-			c_seaside_town = { # 690
-				color={ 10 40 6 }
+			capital = 720 # c_vista_hill
+			
+			c_vista_hill = { # 720
+				color={ 0 22 4 }
 				color2={ 255 255 255 }
 				
-				b_seaside_town = {
+				b_vista_hill = {
 				}
 			}
-			c_shadow_bay = { # 704
-				color={ 60 25 8 }
+			c_barren_badlands = { # 734
+				color={ 140 22 4 }
 				color2={ 255 255 255 }
 				
-				b_shadow_bay = {
+				b_barren_badlands = {
+				}
+			}
+			c_bowser_bay = { # 723
+				color={ 30 22 4 }
+				color2={ 255 255 255 }
+				
+				b_bowser_bay = {
+				}
+			}
+			c_bowsers_keep = { # 721
+				color={ 10 22 4 }
+				color2={ 255 255 255 }
+				
+				b_bowsers_keep = {
+				}
+			}
+			c_dagger_coast = { # 730
+				color={ 100 22 4 }
+				color2={ 255 255 255 }
+				
+				b_dagger_coast = {
+				}
+			}
+			c_flaming_harbour = { # 733
+				color={ 130 22 4 }
+				color2={ 255 255 255 }
+				
+				b_flaming_harbour = {
+				}
+			}
+			c_frostbite_islands = { # 725
+				color={ 50 22 4 }
+				color2={ 255 255 255 }
+				
+				b_frostbite_islands = {
+				}
+			}
+			c_icy_claw = { # 729
+				color={ 90 22 4 }
+				color2={ 255 255 255 }
+				
+				b_icy_claw = {
+				}
+			}
+			c_koopa_bay = { # 724
+				color={ 40 22 4 }
+				color2={ 255 255 255 }
+				
+				b_koopa_bay = {
+				}
+			}
+			c_koopa_cape_2 = { # 726
+				color={ 60 22 4 }
+				color2={ 255 255 255 }
+				
+				b_koopa_cape_2 = {
+				}
+			}
+			c_lost_caves = { # 735
+				color={ 150 22 4 }
+				color2={ 255 255 255 }
+				
+				b_lost_caves = {
+				}
+			}
+			c_redstone_reach = { # 728
+				color={ 80 22 4 }
+				color2={ 255 255 255 }
+				
+				b_redstone_reach = {
 				}
 			}
 			c_shattered_anchor = { # 731
@@ -2985,67 +3047,11 @@ e_mushroom_ring = {
 				b_shattered_anchor = {
 				}
 			}
-			c_shore_forest_maze = { # 675
-				color={ 70 45 8 }
-				color2={ 255 255 255 }
-				
-				b_shore_forest_maze = {
-				}
-			}
-			c_smugglers_bay = { # 687
-				color={ 100 66 18 }
-				color2={ 255 255 255 }
-				
-				b_smugglers_bay = {
-				}
-			}
-			c_southport = { # 685
-				color={ 80 66 18 }
-				color2={ 255 255 255 }
-				
-				b_southport = {
-				}
-			}
 			c_spikeline_shoreline = { # 732
 				color={ 120 22 4 }
 				color2={ 255 255 255 }
 				
 				b_spikeline_shoreline = {
-				}
-			}
-			c_square_shore = { # 666
-				color={ 120 73 14 }
-				color2={ 255 255 255 }
-				
-				b_square_shore = {
-				}
-			}
-			c_star_hill = { # 689
-				color={ 0 40 6 }
-				color2={ 255 255 255 }
-				
-				b_star_hill = {
-				}
-			}
-			c_sulpher_coast = { # 711
-				color={ 10 48 9 }
-				color2={ 255 255 255 }
-				
-				b_sulpher_coast = {
-				}
-			}
-			c_sunrise_coast = { # 705
-				color={ 70 25 8 }
-				color2={ 255 255 255 }
-				
-				b_sunrise_coast = {
-				}
-			}
-			c_tadpole_pond = { # 670
-				color={ 20 45 8 }
-				color2={ 255 255 255 }
-				
-				b_tadpole_pond = {
 				}
 			}
 			c_teeth_islands = { # 722
@@ -3076,13 +3082,6 @@ e_mushroom_ring = {
 				b_thousand_needles = {
 				}
 			}
-			c_tower_of_sand = { # 708
-				color={ 100 25 8 }
-				color2={ 255 255 255 }
-				
-				b_tower_of_sand = {
-				}
-			}
 			c_tranquil_bay = { # 727
 				color={ 70 22 4 }
 				color2={ 255 255 255 }
@@ -3090,13 +3089,153 @@ e_mushroom_ring = {
 				b_tranquil_bay = {
 				}
 			}
-			c_vista_hill = { # 720
-				color={ 0 22 4 }
-				color2={ 255 255 255 }
-				
-				b_vista_hill = {
+		}
+	}
+	k_western_mushroomland = {
+		color={ 30 43 29 }
+		color2={ 255 255 255 }
+		
+		capital = 654 # c_mushroom_castle
+		culture = pirate
+		
+		d_western_mushroomland = {
+			color={ 10 63 19 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 654 province_id = 655 province_id = 656 province_id = 657 province_id = 658 province_id = 659 province_id = 660 province_id = 661 province_id = 662 province_id = 663 province_id = 664 province_id = 665 province_id = 666 province_id = 667 province_id = 668 } }
 				}
 			}
+			capital = 654 # c_mushroom_castle
+			
+			c_mushroom_castle = { # 654
+				color={ 0 73 14 }
+				color2={ 255 255 255 }
+				
+				b_mushroom_castle = {
+				}
+			}
+			c_bandits_way = { # 657
+				color={ 30 73 14 }
+				color2={ 255 255 255 }
+				
+				b_bandits_way = {
+				}
+			}
+			c_crown_bay = { # 662
+				color={ 80 73 14 }
+				color2={ 255 255 255 }
+				
+				b_crown_bay = {
+				}
+			}
+			c_crownwood_forest = { # 660
+				color={ 60 73 14 }
+				color2={ 255 255 255 }
+				
+				b_crownwood_forest = {
+				}
+			}
+			c_grand_staircase = { # 664
+				color={ 100 73 14 }
+				color2={ 255 255 255 }
+				
+				b_grand_staircase = {
+				}
+			}
+			c_hightop_flats = { # 663
+				color={ 90 73 14 }
+				color2={ 255 255 255 }
+				
+				b_hightop_flats = {
+				}
+			}
+			c_icewater_bay = { # 665
+				color={ 110 73 14 }
+				color2={ 255 255 255 }
+				
+				b_icewater_bay = {
+				}
+			}
+			c_kero_sewers = { # 668
+				color={ 0 45 8 }
+				color2={ 255 255 255 }
+				
+				b_kero_sewers = {
+				}
+			}
+			c_kings_pass = { # 659
+				color={ 50 73 14 }
+				color2={ 255 255 255 }
+				
+				b_kings_pass = {
+				}
+			}
+			c_marios_pad = { # 655
+				color={ 10 73 14 }
+				color2={ 255 255 255 }
+				
+				b_marios_pad = {
+				}
+			}
+			c_mushroom_harbour = { # 661
+				color={ 70 73 14 }
+				color2={ 255 255 255 }
+				
+				b_mushroom_harbour = {
+				}
+			}
+			c_mushroom_mountains = { # 658
+				color={ 40 73 14 }
+				color2={ 255 255 255 }
+				
+				b_mushroom_mountains = {
+				}
+			}
+			c_mushroom_thicket = { # 667
+				color={ 130 73 14 }
+				color2={ 255 255 255 }
+				
+				b_mushroom_thicket = {
+				}
+			}
+			c_mushroom_way = { # 656
+				color={ 20 73 14 }
+				color2={ 255 255 255 }
+				
+				b_mushroom_way = {
+				}
+			}
+			c_square_shore = { # 666
+				color={ 120 73 14 }
+				color2={ 255 255 255 }
+				
+				b_square_shore = {
+				}
+			}
+		}
+	}
+	k_yoster_island = {
+		color={ 115 110 76 }
+		color2={ 255 255 255 }
+		
+		capital = 739 # c_yoster_island
+		culture = pirate
+		
+		d_yoster_island = {
+			color={ 95 130 66 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 739 } }
+				}
+			}
+			capital = 739 # c_yoster_island
+			
 			c_yoster_island = { # 739
 				color={ 85 140 61 }
 				color2={ 255 255 255 }
@@ -3970,14 +4109,14 @@ e_piillo_island = {
 	color2={ 255 255 20 }
 	
 	capital = 947 # c_piillo_blimport
-	culture = pirate
+	culture = kongobongo
 	
 	k_piillo_island = {
 		color={ 226 25 240 }
 		color2={ 255 255 255 }
 		
 		capital = 947 # c_piillo_blimport
-		culture = pirate
+		culture = kongobongo
 		
 		d_piillo_island = {
 			color={ 246 5 250 }
@@ -4062,14 +4201,14 @@ e_rare_country = {
 	color2={ 255 255 20 }
 	
 	capital = 802 # c_kong_village
-	culture = pirate
+	culture = kongobongo
 	
 	k_kong_isle = {
 		color={ 226 151 15 }
 		color2={ 255 255 255 }
 		
 		capital = 802 # c_kong_village
-		culture = pirate
+		culture = kongobongo
 		
 		d_kongo = {
 			color={ 206 171 5 }
@@ -4240,7 +4379,7 @@ e_rare_country = {
 		color2={ 255 255 255 }
 		
 		capital = 848 # c_crocodile_cauldron
-		culture = pirate
+		culture = kremling
 		
 		d_crocodile_coast = {
 			color={ 130 186 5 }
@@ -4329,7 +4468,7 @@ e_rare_country = {
 		color2={ 255 255 255 }
 		
 		capital = 816 # c_dawn_savanna
-		culture = pirate
+		culture = kongobongo
 		
 		d_banana = {
 			color={ 222 223 251 }
@@ -4880,7 +5019,7 @@ e_rare_country = {
 		color2={ 255 255 255 }
 		
 		capital = 854 # c_lake_orangatanga
-		culture = pirate
+		culture = kremling
 		
 		d_lake_orangatanga = {
 			color={ 29 186 5 }
@@ -4906,6 +5045,115 @@ e_rare_country = {
 				color2={ 255 255 255 }
 				
 				b_kremwood_forest = {
+				}
+			}
+		}
+		d_black_land = {
+			color={ 29 186 155 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 869 province_id = 870 province_id = 871 province_id = 872 } }
+				}
+			}
+			capital = 869 # c_black_ice_mountain
+			
+			c_black_ice_mountain = { # 869
+				color={ 19 196 150 }
+				color2={ 255 255 255 }
+				
+				b_black_ice_mountain = {
+				}
+			}
+			c_blackforest_plateau = { # 871
+				color={ 19 196 170 }
+				color2={ 255 255 255 }
+				
+				b_blackforest_plateau = {
+				}
+			}
+			c_riverbank_mill = { # 870
+				color={ 19 196 160 }
+				color2={ 255 255 255 }
+				
+				b_riverbank_mill = {
+				}
+			}
+			c_vertigo_verge = { # 872
+				color={ 19 196 180 }
+				color2={ 255 255 255 }
+				
+				b_vertigo_verge = {
+				}
+			}
+		}
+		d_crocodile_lake = {
+			color={ 29 186 95 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 863 province_id = 880 province_id = 898 } }
+				}
+			}
+			capital = 863 # c_cape_codswallop
+			
+			c_cape_codswallop = { # 863
+				color={ 19 196 90 }
+				color2={ 255 255 255 }
+				
+				b_cape_codswallop = {
+				}
+			}
+			c_banana_ruins = { # 898
+				color={ 19 196 171 }
+				color2={ 255 255 255 }
+				
+				b_banana_ruins = {
+				}
+			}
+			c_the_lost_land = { # 880
+				color={ 19 196 255 }
+				color2={ 255 255 255 }
+				
+				b_the_lost_land = {
+				}
+			}
+		}
+		d_dino_coast = {
+			color={ 29 186 156 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 896 province_id = 897 province_id = 899 } }
+				}
+			}
+			capital = 896 # c_jungle_ruins
+			
+			c_jungle_ruins = { # 896
+				color={ 19 196 151 }
+				color2={ 255 255 255 }
+				
+				b_jungle_ruins = {
+				}
+			}
+			c_dino_dino_jungle = { # 899
+				color={ 19 196 181 }
+				color2={ 255 255 255 }
+				
+				b_dino_dino_jungle = {
+				}
+			}
+			c_treetop_temple = { # 897
+				color={ 19 196 161 }
+				color2={ 255 255 255 }
+				
+				b_treetop_temple = {
 				}
 			}
 		}
@@ -5018,6 +5266,40 @@ e_rare_country = {
 				}
 			}
 		}
+		d_kermling_jaw = {
+			color={ 29 186 66 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 887 province_id = 888 province_id = 892 } }
+				}
+			}
+			capital = 887 # c_lockjaw_falls
+			
+			c_lockjaw_falls = { # 887
+				color={ 19 196 61 }
+				color2={ 255 255 255 }
+				
+				b_lockjaw_falls = {
+				}
+			}
+			c_banana_bungalow = { # 892
+				color={ 19 196 111 }
+				color2={ 255 255 255 }
+				
+				b_banana_bungalow = {
+				}
+			}
+			c_kremling_kamp = { # 888
+				color={ 19 196 71 }
+				color2={ 255 255 255 }
+				
+				b_kremling_kamp = {
+				}
+			}
+		}
 		d_kremling_lake = {
 			color={ 29 186 25 }
 			color2={ 255 255 255 }
@@ -5127,72 +5409,23 @@ e_rare_country = {
 				}
 			}
 		}
-		d_northern_kremisphere = {
-			color={ 29 186 95 }
+		d_misty_coast = {
+			color={ 29 186 126 }
 			color2={ 255 255 255 }
 			
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 863 province_id = 864 province_id = 865 province_id = 866 province_id = 867 province_id = 868 province_id = 869 province_id = 870 province_id = 871 province_id = 872 province_id = 880 province_id = 887 province_id = 888 province_id = 889 province_id = 890 province_id = 891 province_id = 892 province_id = 893 province_id = 894 province_id = 895 province_id = 896 province_id = 897 province_id = 898 province_id = 899 province_id = 900 province_id = 902 province_id = 903 province_id = 905 province_id = 907 province_id = 910 province_id = 911 province_id = 912 province_id = 913 province_id = 914 province_id = 916 province_id = 917 province_id = 918 province_id = 919 province_id = 920 } }
+					any_demesne_province = { OR = { province_id = 893 province_id = 894 province_id = 895 } }
 				}
 			}
-			capital = 863 # c_cape_codswallop
+			capital = 893 # c_tropical_treetops
 			
-			c_cape_codswallop = { # 863
-				color={ 19 196 90 }
+			c_tropical_treetops = { # 893
+				color={ 19 196 121 }
 				color2={ 255 255 255 }
 				
-				b_cape_codswallop = {
-				}
-			}
-			c_banana_bird_bay = { # 912
-				color={ 19 196 52 }
-				color2={ 255 255 255 }
-				
-				b_banana_bird_bay = {
-				}
-			}
-			c_banana_bungalow = { # 892
-				color={ 19 196 111 }
-				color2={ 255 255 255 }
-				
-				b_banana_bungalow = {
-				}
-			}
-			c_banana_ruins = { # 898
-				color={ 19 196 171 }
-				color2={ 255 255 255 }
-				
-				b_banana_ruins = {
-				}
-			}
-			c_bear_pines = { # 907
-				color={ 19 196 2 }
-				color2={ 255 255 255 }
-				
-				b_bear_pines = {
-				}
-			}
-			c_black_ice_mountain = { # 869
-				color={ 19 196 150 }
-				color2={ 255 255 255 }
-				
-				b_black_ice_mountain = {
-				}
-			}
-			c_blackforest_plateau = { # 871
-				color={ 19 196 170 }
-				color2={ 255 255 255 }
-				
-				b_blackforest_plateau = {
-				}
-			}
-			c_cactus_woods = { # 890
-				color={ 19 196 91 }
-				color2={ 255 255 255 }
-				
-				b_cactus_woods = {
+				b_tropical_treetops = {
 				}
 			}
 			c_contraption_cave = { # 894
@@ -5202,125 +5435,6 @@ e_rare_country = {
 				b_contraption_cave = {
 				}
 			}
-			c_dino_dino_jungle = { # 899
-				color={ 19 196 181 }
-				color2={ 255 255 255 }
-				
-				b_dino_dino_jungle = {
-				}
-			}
-			c_eastern_lowlands = { # 920
-				color={ 19 196 132 }
-				color2={ 255 255 255 }
-				
-				b_eastern_lowlands = {
-				}
-			}
-			c_fishers_coast = { # 919
-				color={ 19 196 122 }
-				color2={ 255 255 255 }
-				
-				b_fishers_coast = {
-				}
-			}
-			c_ford_knocks = { # 864
-				color={ 19 196 100 }
-				color2={ 255 255 255 }
-				
-				b_ford_knocks = {
-				}
-			}
-			c_jumpy_jungle = { # 900
-				color={ 19 196 191 }
-				color2={ 255 255 255 }
-				
-				b_jumpy_jungle = {
-				}
-			}
-			c_jungle_ruins = { # 896
-				color={ 19 196 151 }
-				color2={ 255 255 255 }
-				
-				b_jungle_ruins = {
-				}
-			}
-			c_koco_channel = { # 866
-				color={ 19 196 120 }
-				color2={ 255 255 255 }
-				
-				b_koco_channel = {
-				}
-			}
-			c_kremling_kamp = { # 888
-				color={ 19 196 71 }
-				color2={ 255 255 255 }
-				
-				b_kremling_kamp = {
-				}
-			}
-			c_lockjaw_falls = { # 887
-				color={ 19 196 61 }
-				color2={ 255 255 255 }
-				
-				b_lockjaw_falls = {
-				}
-			}
-			c_madcap_mine = { # 891
-				color={ 19 196 101 }
-				color2={ 255 255 255 }
-				
-				b_madcap_mine = {
-				}
-			}
-			c_mill_hill = { # 865
-				color={ 19 196 110 }
-				color2={ 255 255 255 }
-				
-				b_mill_hill = {
-				}
-			}
-			c_minkey_woods = { # 868
-				color={ 19 196 140 }
-				color2={ 255 255 255 }
-				
-				b_minkey_woods = {
-				}
-			}
-			c_monkey_marsh = { # 917
-				color={ 19 196 102 }
-				color2={ 255 255 255 }
-				
-				b_monkey_marsh = {
-				}
-			}
-			c_mt_dynamite = { # 902
-				color={ 19 196 211 }
-				color2={ 255 255 255 }
-				
-				b_mt_dynamite = {
-				}
-			}
-			c_neckys_canyon = { # 889
-				color={ 19 196 81 }
-				color2={ 255 255 255 }
-				
-				b_neckys_canyon = {
-				}
-			}
-			c_parched_palace = { # 905
-				color={ 19 196 241 }
-				color2={ 255 255 255 }
-				
-				b_parched_palace = {
-				}
-			}
-			c_primate_plains = { # 867
-				color={ 19 196 130 }
-				color2={ 255 255 255 }
-				
-				b_primate_plains = {
-				}
-			}
 			c_puzzling_pyramid = { # 895
 				color={ 19 196 141 }
 				color2={ 255 255 255 }
@@ -5328,11 +5442,31 @@ e_rare_country = {
 				b_puzzling_pyramid = {
 				}
 			}
-			c_riverbank_mill = { # 870
-				color={ 19 196 160 }
+		}
+		d_northern_salmon_river = {
+			color={ 29 186 37 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 910 province_id = 911 province_id = 912 province_id = 913 province_id = 914 } }
+				}
+			}
+			capital = 910 # c_trout_river_bend
+			
+			c_trout_river_bend = { # 910
+				color={ 19 196 32 }
 				color2={ 255 255 255 }
 				
-				b_riverbank_mill = {
+				b_trout_river_bend = {
+				}
+			}
+			c_banana_bird_bay = { # 912
+				color={ 19 196 52 }
+				color2={ 255 255 255 }
+				
+				b_banana_bird_bay = {
 				}
 			}
 			c_rocky_heights = { # 913
@@ -5340,13 +5474,6 @@ e_rare_country = {
 				color2={ 255 255 255 }
 				
 				b_rocky_heights = {
-				}
-			}
-			c_rough_scrubland = { # 916
-				color={ 19 196 92 }
-				color2={ 255 255 255 }
-				
-				b_rough_scrubland = {
 				}
 			}
 			c_salmon_shoreline = { # 911
@@ -5361,55 +5488,6 @@ e_rare_country = {
 				color2={ 255 255 255 }
 				
 				b_salty_shore = {
-				}
-			}
-			c_scorching_canyon = { # 903
-				color={ 19 196 221 }
-				color2={ 255 255 255 }
-				
-				b_scorching_canyon = {
-				}
-			}
-			c_screaming_peaks = { # 918
-				color={ 19 196 112 }
-				color2={ 255 255 255 }
-				
-				b_screaming_peaks = {
-				}
-			}
-			c_the_lost_land = { # 880
-				color={ 19 196 255 }
-				color2={ 255 255 255 }
-				
-				b_the_lost_land = {
-				}
-			}
-			c_treetop_temple = { # 897
-				color={ 19 196 161 }
-				color2={ 255 255 255 }
-				
-				b_treetop_temple = {
-				}
-			}
-			c_tropical_treetops = { # 893
-				color={ 19 196 121 }
-				color2={ 255 255 255 }
-				
-				b_tropical_treetops = {
-				}
-			}
-			c_trout_river_bend = { # 910
-				color={ 19 196 32 }
-				color2={ 255 255 255 }
-				
-				b_trout_river_bend = {
-				}
-			}
-			c_vertigo_verge = { # 872
-				color={ 19 196 180 }
-				color2={ 255 255 255 }
-				
-				b_vertigo_verge = {
 				}
 			}
 		}
@@ -5481,13 +5559,191 @@ e_rare_country = {
 				}
 			}
 		}
+		d_rough_land = {
+			color={ 9 206 186 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 900 province_id = 903 province_id = 905 province_id = 907 province_id = 916 } }
+				}
+			}
+			capital = 900 # c_jumpy_jungle
+			
+			c_jumpy_jungle = { # 900
+				color={ 19 196 191 }
+				color2={ 255 255 255 }
+				
+				b_jumpy_jungle = {
+				}
+			}
+			c_bear_pines = { # 907
+				color={ 19 196 2 }
+				color2={ 255 255 255 }
+				
+				b_bear_pines = {
+				}
+			}
+			c_parched_palace = { # 905
+				color={ 19 196 241 }
+				color2={ 255 255 255 }
+				
+				b_parched_palace = {
+				}
+			}
+			c_rough_scrubland = { # 916
+				color={ 19 196 92 }
+				color2={ 255 255 255 }
+				
+				b_rough_scrubland = {
+				}
+			}
+			c_scorching_canyon = { # 903
+				color={ 19 196 221 }
+				color2={ 255 255 255 }
+				
+				b_scorching_canyon = {
+				}
+			}
+		}
+		d_southern_salmon_river = {
+			color={ 29 186 135 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 867 province_id = 868 province_id = 889 province_id = 890 province_id = 891 } }
+				}
+			}
+			capital = 867 # c_primate_plains
+			
+			c_primate_plains = { # 867
+				color={ 19 196 130 }
+				color2={ 255 255 255 }
+				
+				b_primate_plains = {
+				}
+			}
+			c_cactus_woods = { # 890
+				color={ 19 196 91 }
+				color2={ 255 255 255 }
+				
+				b_cactus_woods = {
+				}
+			}
+			c_madcap_mine = { # 891
+				color={ 19 196 101 }
+				color2={ 255 255 255 }
+				
+				b_madcap_mine = {
+				}
+			}
+			c_minkey_woods = { # 868
+				color={ 19 196 140 }
+				color2={ 255 255 255 }
+				
+				b_minkey_woods = {
+				}
+			}
+			c_neckys_canyon = { # 889
+				color={ 19 196 81 }
+				color2={ 255 255 255 }
+				
+				b_neckys_canyon = {
+				}
+			}
+		}
+		d_the_lowlands = {
+			color={ 9 206 206 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 902 province_id = 917 province_id = 918 province_id = 919 province_id = 920 } }
+				}
+			}
+			capital = 902 # c_mt_dynamite
+			
+			c_mt_dynamite = { # 902
+				color={ 19 196 211 }
+				color2={ 255 255 255 }
+				
+				b_mt_dynamite = {
+				}
+			}
+			c_eastern_lowlands = { # 920
+				color={ 19 196 132 }
+				color2={ 255 255 255 }
+				
+				b_eastern_lowlands = {
+				}
+			}
+			c_fishers_coast = { # 919
+				color={ 19 196 122 }
+				color2={ 255 255 255 }
+				
+				b_fishers_coast = {
+				}
+			}
+			c_monkey_marsh = { # 917
+				color={ 19 196 102 }
+				color2={ 255 255 255 }
+				
+				b_monkey_marsh = {
+				}
+			}
+			c_screaming_peaks = { # 918
+				color={ 19 196 112 }
+				color2={ 255 255 255 }
+				
+				b_screaming_peaks = {
+				}
+			}
+		}
+		d_the_rivers = {
+			color={ 29 186 105 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 864 province_id = 865 province_id = 866 } }
+				}
+			}
+			capital = 864 # c_ford_knocks
+			
+			c_ford_knocks = { # 864
+				color={ 19 196 100 }
+				color2={ 255 255 255 }
+				
+				b_ford_knocks = {
+				}
+			}
+			c_koco_channel = { # 866
+				color={ 19 196 120 }
+				color2={ 255 255 255 }
+				
+				b_koco_channel = {
+				}
+			}
+			c_mill_hill = { # 865
+				color={ 19 196 110 }
+				color2={ 255 255 255 }
+				
+				b_mill_hill = {
+				}
+			}
+		}
 	}
 	k_timber_island = {
 		color={ 218 9 15 }
 		color2={ 255 255 255 }
 		
 		capital = 921 # c_sherbet_island
-		culture = pirate
+		culture = kongobongo
 		
 		d_timber_island = {
 			color={ 198 29 5 }
@@ -5557,7 +5813,7 @@ e_rare_country = {
 		color2={ 255 255 255 }
 		
 		capital = 935 # c_lost_mangroves
-		culture = pirate
+		culture = kongobongo
 		
 		d_mangrove_island = {
 			color={ 186 191 95 }
@@ -5713,7 +5969,7 @@ e_rare_country = {
 		color2={ 255 255 255 }
 		
 		capital = 928 # c_wavy_beach
-		culture = pirate
+		culture = kongobongo
 		
 		d_vibe_island = {
 			color={ 237 10 209 }
@@ -9387,21 +9643,21 @@ e_umbrosa = {
 	capital = 601 # c_rogueport
 	culture = pirate
 	
-	k_rogueport_kingdom = {
+	k_rogueport = {
 		color={ 145 226 218 }
 		color2={ 255 255 255 }
 		
 		capital = 601 # c_rogueport
 		culture = pirate
 		
-		d_rogueport_duchy = {
+		d_rogueport = {
 			color={ 125 246 208 }
 			color2={ 255 255 255 }
 			
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 601 province_id = 602 province_id = 603 province_id = 604 province_id = 605 province_id = 606 province_id = 611 province_id = 612 province_id = 613 province_id = 614 province_id = 615 province_id = 616 province_id = 617 province_id = 618 province_id = 619 province_id = 620 province_id = 621 province_id = 622 province_id = 623 province_id = 624 province_id = 625 province_id = 626 province_id = 627 province_id = 628 province_id = 629 province_id = 630 province_id = 631 province_id = 632 province_id = 633 province_id = 634 province_id = 635 province_id = 636 province_id = 637 province_id = 638 province_id = 639 province_id = 640 province_id = 641 province_id = 642 province_id = 643 province_id = 644 province_id = 645 province_id = 646 province_id = 647 province_id = 648 province_id = 649 province_id = 650 province_id = 651 province_id = 652 province_id = 653 } }
+					any_demesne_province = { OR = { province_id = 601 } }
 				}
 			}
 			capital = 601 # c_rogueport
@@ -9413,32 +9669,24 @@ e_umbrosa = {
 				b_rogueport = {
 				}
 			}
-			c_avalanche_alley = { # 651
-				color={ 115 251 203 }
-				color2={ 255 255 255 }
-				
-				b_avalanche_alley = {
+		}
+		d_boggly_woods = {
+			color={ 125 0 208 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 602 province_id = 603 province_id = 631 province_id = 634 } }
 				}
 			}
-			c_black_meadow = { # 635
-				color={ 115 91 203 }
+			capital = 602 # c_lower_boggly_woods
+			
+			c_lower_boggly_woods = { # 602
+				color={ 115 10 203 }
 				color2={ 255 255 255 }
 				
-				b_black_meadow = {
-				}
-			}
-			c_bleak_peak = { # 652
-				color={ 115 2 203 }
-				color2={ 255 255 255 }
-				
-				b_bleak_peak = {
-				}
-			}
-			c_boggly_bay = { # 628
-				color={ 115 21 203 }
-				color2={ 255 255 255 }
-				
-				b_boggly_bay = {
+				b_lower_boggly_woods = {
 				}
 			}
 			c_boggly_reach = { # 634
@@ -9448,46 +9696,38 @@ e_umbrosa = {
 				b_boggly_reach = {
 				}
 			}
-			c_bounty_harbor = { # 646
-				color={ 115 201 203 }
+			c_the_great_tree = { # 603
+				color={ 115 20 203 }
 				color2={ 255 255 255 }
 				
-				b_bounty_harbor = {
+				b_the_great_tree = {
 				}
 			}
-			c_city_of_traitors = { # 625
-				color={ 115 250 203 }
+			c_upper_boggly_woods = { # 631
+				color={ 115 51 203 }
 				color2={ 255 255 255 }
 				
-				b_city_of_traitors = {
+				b_upper_boggly_woods = {
 				}
 			}
-			c_creepy_stable = { # 611
-				color={ 115 100 203 }
-				color2={ 255 255 255 }
-				
-				b_creepy_stable = {
+		}
+		d_dire_dire_land = {
+			color={ 105 190 198 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 619 province_id = 621 province_id = 636 } }
 				}
 			}
-			c_crows_rest = { # 641
-				color={ 115 151 203 }
-				color2={ 255 255 255 }
-				
-				b_crows_rest = {
-				}
-			}
+			capital = 619 # c_dire_dire_docks
+			
 			c_dire_dire_docks = { # 619
 				color={ 115 180 203 }
 				color2={ 255 255 255 }
 				
 				b_dire_dire_docks = {
-				}
-			}
-			c_faire_square = { # 617
-				color={ 115 160 203 }
-				color2={ 255 255 255 }
-				
-				b_faire_square = {
 				}
 			}
 			c_gray_glade = { # 636
@@ -9497,11 +9737,72 @@ e_umbrosa = {
 				b_gray_glade = {
 				}
 			}
-			c_hazy_maze_cave = { # 620
-				color={ 115 190 203 }
+			c_jolly_roger_bay = { # 621
+				color={ 115 200 203 }
 				color2={ 255 255 255 }
 				
-				b_hazy_maze_cave = {
+				b_jolly_roger_bay = {
+				}
+			}
+		}
+		d_keelhaul_key = {
+			color={ 105 150 198 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 615 province_id = 616 } }
+				}
+			}
+			capital = 615 # c_keelhaul_key
+			
+			c_keelhaul_key = { # 615
+				color={ 115 140 203 }
+				color2={ 255 255 255 }
+				
+				b_keelhaul_key = {
+				}
+			}
+			c_pirates_grotto = { # 616
+				color={ 115 150 203 }
+				color2={ 255 255 255 }
+				
+				b_pirates_grotto = {
+				}
+			}
+		}
+		d_petalburg = {
+			color={ 125 30 208 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 605 province_id = 606 province_id = 628 province_id = 630 province_id = 635 } }
+				}
+			}
+			capital = 605 # c_petalburg
+			
+			c_petalburg = { # 605
+				color={ 115 40 203 }
+				color2={ 255 255 255 }
+				
+				b_petalburg = {
+				}
+			}
+			c_black_meadow = { # 635
+				color={ 115 91 203 }
+				color2={ 255 255 255 }
+				
+				b_black_meadow = {
+				}
+			}
+			c_boggly_bay = { # 628
+				color={ 115 21 203 }
+				color2={ 255 255 255 }
+				
+				b_boggly_bay = {
 				}
 			}
 			c_hooktail_castle = { # 606
@@ -9511,53 +9812,107 @@ e_umbrosa = {
 				b_hooktail_castle = {
 				}
 			}
-			c_hush_valley = { # 653
-				color={ 115 12 203 }
+			c_petal_meadows = { # 630
+				color={ 115 41 203 }
 				color2={ 255 255 255 }
 				
-				b_hush_valley = {
+				b_petal_meadows = {
 				}
 			}
-			c_ice_rift = { # 640
-				color={ 115 141 203 }
-				color2={ 255 255 255 }
-				
-				b_ice_rift = {
+		}
+		d_poshley_heights = {
+			color={ 125 20 208 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 604 } }
 				}
 			}
-			c_icicle_town = { # 633
-				color={ 115 71 203 }
+			capital = 604 # c_poshley_heights
+			
+			c_poshley_heights = { # 604
+				color={ 115 30 203 }
 				color2={ 255 255 255 }
 				
-				b_icicle_town = {
+				b_poshley_heights = {
 				}
 			}
-			c_jolly_roger_bay = { # 621
-				color={ 115 200 203 }
-				color2={ 255 255 255 }
-				
-				b_jolly_roger_bay = {
+		}
+	}
+	k_golden_silence = {
+		color={ 85 190 188 }
+		color2={ 255 255 255 }
+		
+		capital = 617 # c_faire_square
+		culture = pirate
+		
+		d_pirate_land = {
+			color={ 105 170 198 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 617 province_id = 618 province_id = 641 province_id = 646 } }
 				}
 			}
-			c_keelhaul_key = { # 615
-				color={ 115 140 203 }
+			capital = 617 # c_faire_square
+			
+			c_faire_square = { # 617
+				color={ 115 160 203 }
 				color2={ 255 255 255 }
 				
-				b_keelhaul_key = {
+				b_faire_square = {
 				}
 			}
-			c_last_refuge = { # 639
-				color={ 115 131 203 }
+			c_bounty_harbor = { # 646
+				color={ 115 201 203 }
 				color2={ 255 255 255 }
 				
-				b_last_refuge = {
+				b_bounty_harbor = {
 				}
 			}
-			c_lower_boggly_woods = { # 602
-				color={ 115 10 203 }
+			c_crows_rest = { # 641
+				color={ 115 151 203 }
 				color2={ 255 255 255 }
 				
-				b_lower_boggly_woods = {
+				b_crows_rest = {
+				}
+			}
+			c_pirates_dream = { # 618
+				color={ 115 170 203 }
+				color2={ 255 255 255 }
+				
+				b_pirates_dream = {
+				}
+			}
+		}
+		d_meloncholy = {
+			color={ 105 220 198 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 622 province_id = 642 province_id = 648 province_id = 651 } }
+				}
+			}
+			capital = 622 # c_wet_dry_world
+			
+			c_wet_dry_world = { # 622
+				color={ 115 210 203 }
+				color2={ 255 255 255 }
+				
+				b_wet_dry_world = {
+				}
+			}
+			c_avalanche_alley = { # 651
+				color={ 115 251 203 }
+				color2={ 255 255 255 }
+				
+				b_avalanche_alley = {
 				}
 			}
 			c_meloncholy_estuary = { # 642
@@ -9574,81 +9929,24 @@ e_umbrosa = {
 				b_meloncholy_fjord = {
 				}
 			}
-			c_moonlight_pass = { # 638
-				color={ 115 121 203 }
-				color2={ 255 255 255 }
-				
-				b_moonlight_pass = {
+		}
+		d_silent_mountains = {
+			color={ 105 240 198 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 623 province_id = 632 province_id = 643 } }
 				}
 			}
+			capital = 623 # c_mushville
+			
 			c_mushville = { # 623
 				color={ 115 230 203 }
 				color2={ 255 255 255 }
 				
 				b_mushville = {
-				}
-			}
-			c_nights_chill = { # 647
-				color={ 115 211 203 }
-				color2={ 255 255 255 }
-				
-				b_nights_chill = {
-				}
-			}
-			c_north_pole = { # 624
-				color={ 115 240 203 }
-				color2={ 255 255 255 }
-				
-				b_north_pole = {
-				}
-			}
-			c_penguin_paradise = { # 626
-				color={ 115 1 203 }
-				color2={ 255 255 255 }
-				
-				b_penguin_paradise = {
-				}
-			}
-			c_petal_meadows = { # 630
-				color={ 115 41 203 }
-				color2={ 255 255 255 }
-				
-				b_petal_meadows = {
-				}
-			}
-			c_petalburg = { # 605
-				color={ 115 40 203 }
-				color2={ 255 255 255 }
-				
-				b_petalburg = {
-				}
-			}
-			c_pirates_dream = { # 618
-				color={ 115 170 203 }
-				color2={ 255 255 255 }
-				
-				b_pirates_dream = {
-				}
-			}
-			c_pirates_grotto = { # 616
-				color={ 115 150 203 }
-				color2={ 255 255 255 }
-				
-				b_pirates_grotto = {
-				}
-			}
-			c_poshley_heights = { # 604
-				color={ 115 30 203 }
-				color2={ 255 255 255 }
-				
-				b_poshley_heights = {
-				}
-			}
-			c_reindeer_run = { # 645
-				color={ 115 191 203 }
-				color2={ 255 255 255 }
-				
-				b_reindeer_run = {
 				}
 			}
 			c_silent_mountains = { # 632
@@ -9658,69 +9956,6 @@ e_umbrosa = {
 				b_silent_mountains = {
 				}
 			}
-			c_silent_valley = { # 629
-				color={ 115 31 203 }
-				color2={ 255 255 255 }
-				
-				b_silent_valley = {
-				}
-			}
-			c_snow_cone_dome = { # 650
-				color={ 115 241 203 }
-				color2={ 255 255 255 }
-				
-				b_snow_cone_dome = {
-				}
-			}
-			c_snowfort_mountain = { # 649
-				color={ 115 231 203 }
-				color2={ 255 255 255 }
-				
-				b_snowfort_mountain = {
-				}
-			}
-			c_starlight_hills = { # 644
-				color={ 115 181 203 }
-				color2={ 255 255 255 }
-				
-				b_starlight_hills = {
-				}
-			}
-			c_the_great_tree = { # 603
-				color={ 115 20 203 }
-				color2={ 255 255 255 }
-				
-				b_the_great_tree = {
-				}
-			}
-			c_twilight_town = { # 612
-				color={ 115 110 203 }
-				color2={ 255 255 255 }
-				
-				b_twilight_town = {
-				}
-			}
-			c_twilight_trail = { # 613
-				color={ 115 120 203 }
-				color2={ 255 255 255 }
-				
-				b_twilight_trail = {
-				}
-			}
-			c_twilight_vale = { # 627
-				color={ 115 11 203 }
-				color2={ 255 255 255 }
-				
-				b_twilight_vale = {
-				}
-			}
-			c_twilight_woods = { # 614
-				color={ 115 130 203 }
-				color2={ 255 255 255 }
-				
-				b_twilight_woods = {
-				}
-			}
 			c_tylex_peak = { # 643
 				color={ 115 171 203 }
 				color2={ 255 255 255 }
@@ -9728,28 +9963,49 @@ e_umbrosa = {
 				b_tylex_peak = {
 				}
 			}
-			c_upper_boggly_woods = { # 631
-				color={ 115 51 203 }
-				color2={ 255 255 255 }
-				
-				b_upper_boggly_woods = {
+		}
+		d_slient_hill = {
+			color={ 105 4 198 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 625 province_id = 652 province_id = 653 } }
 				}
 			}
-			c_wet_dry_world = { # 622
-				color={ 115 210 203 }
+			capital = 625 # c_city_of_traitors
+			
+			c_city_of_traitors = { # 625
+				color={ 115 250 203 }
 				color2={ 255 255 255 }
 				
-				b_wet_dry_world = {
+				b_city_of_traitors = {
 				}
 			}
-			c_whitevale = { # 637
-				color={ 115 111 203 }
+			c_bleak_peak = { # 652
+				color={ 115 2 203 }
 				color2={ 255 255 255 }
 				
-				b_whitevale = {
+				b_bleak_peak = {
+				}
+			}
+			c_hush_valley = { # 653
+				color={ 115 12 203 }
+				color2={ 255 255 255 }
+				
+				b_hush_valley = {
 				}
 			}
 		}
+	}
+	k_hyperborea = {
+		color={ 145 30 218 }
+		color2={ 255 255 255 }
+		
+		capital = 607 # c_fahr_outpost
+		culture = pirate
+		
 		d_fahr = {
 			color={ 125 50 208 }
 			color2={ 255 255 255 }
@@ -9788,6 +10044,238 @@ e_umbrosa = {
 				color2={ 255 255 255 }
 				
 				b_southern_fahr_ridge = {
+				}
+			}
+		}
+		d_nightlight = {
+			color={ 105 141 198 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 639 province_id = 647 } }
+				}
+			}
+			capital = 639 # c_last_refuge
+			
+			c_last_refuge = { # 639
+				color={ 115 131 203 }
+				color2={ 255 255 255 }
+				
+				b_last_refuge = {
+				}
+			}
+			c_nights_chill = { # 647
+				color={ 115 211 203 }
+				color2={ 255 255 255 }
+				
+				b_nights_chill = {
+				}
+			}
+		}
+		d_north_pole = {
+			color={ 105 250 198 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 624 province_id = 633 } }
+				}
+			}
+			capital = 624 # c_north_pole
+			
+			c_north_pole = { # 624
+				color={ 115 240 203 }
+				color2={ 255 255 255 }
+				
+				b_north_pole = {
+				}
+			}
+			c_icicle_town = { # 633
+				color={ 115 71 203 }
+				color2={ 255 255 255 }
+				
+				b_icicle_town = {
+				}
+			}
+		}
+		d_penguin_land = {
+			color={ 125 247 208 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 626 province_id = 640 province_id = 644 } }
+				}
+			}
+			capital = 626 # c_penguin_paradise
+			
+			c_penguin_paradise = { # 626
+				color={ 115 1 203 }
+				color2={ 255 255 255 }
+				
+				b_penguin_paradise = {
+				}
+			}
+			c_ice_rift = { # 640
+				color={ 115 141 203 }
+				color2={ 255 255 255 }
+				
+				b_ice_rift = {
+				}
+			}
+			c_starlight_hills = { # 644
+				color={ 115 181 203 }
+				color2={ 255 255 255 }
+				
+				b_starlight_hills = {
+				}
+			}
+		}
+		d_reindeer_land = {
+			color={ 105 201 198 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 645 province_id = 649 province_id = 650 } }
+				}
+			}
+			capital = 645 # c_reindeer_run
+			
+			c_reindeer_run = { # 645
+				color={ 115 191 203 }
+				color2={ 255 255 255 }
+				
+				b_reindeer_run = {
+				}
+			}
+			c_snow_cone_dome = { # 650
+				color={ 115 241 203 }
+				color2={ 255 255 255 }
+				
+				b_snow_cone_dome = {
+				}
+			}
+			c_snowfort_mountain = { # 649
+				color={ 115 231 203 }
+				color2={ 255 255 255 }
+				
+				b_snowfort_mountain = {
+				}
+			}
+		}
+	}
+	k_twilight_zone = {
+		color={ 85 130 188 }
+		color2={ 255 255 255 }
+		
+		capital = 611 # c_creepy_stable
+		culture = pirate
+		
+		d_twilight_woods = {
+			color={ 105 110 198 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 611 province_id = 614 province_id = 627 } }
+				}
+			}
+			capital = 611 # c_creepy_stable
+			
+			c_creepy_stable = { # 611
+				color={ 115 100 203 }
+				color2={ 255 255 255 }
+				
+				b_creepy_stable = {
+				}
+			}
+			c_twilight_vale = { # 627
+				color={ 115 11 203 }
+				color2={ 255 255 255 }
+				
+				b_twilight_vale = {
+				}
+			}
+			c_twilight_woods = { # 614
+				color={ 115 130 203 }
+				color2={ 255 255 255 }
+				
+				b_twilight_woods = {
+				}
+			}
+		}
+		d_moonlight = {
+			color={ 105 200 198 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 620 province_id = 629 province_id = 637 province_id = 638 } }
+				}
+			}
+			capital = 620 # c_hazy_maze_cave
+			
+			c_hazy_maze_cave = { # 620
+				color={ 115 190 203 }
+				color2={ 255 255 255 }
+				
+				b_hazy_maze_cave = {
+				}
+			}
+			c_moonlight_pass = { # 638
+				color={ 115 121 203 }
+				color2={ 255 255 255 }
+				
+				b_moonlight_pass = {
+				}
+			}
+			c_silent_valley = { # 629
+				color={ 115 31 203 }
+				color2={ 255 255 255 }
+				
+				b_silent_valley = {
+				}
+			}
+			c_whitevale = { # 637
+				color={ 115 111 203 }
+				color2={ 255 255 255 }
+				
+				b_whitevale = {
+				}
+			}
+		}
+		d_twilight_land = {
+			color={ 105 120 198 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 612 province_id = 613 } }
+				}
+			}
+			capital = 612 # c_twilight_town
+			
+			c_twilight_town = { # 612
+				color={ 115 110 203 }
+				color2={ 255 255 255 }
+				
+				b_twilight_town = {
+				}
+			}
+			c_twilight_trail = { # 613
+				color={ 115 120 203 }
+				color2={ 255 255 255 }
+				
+				b_twilight_trail = {
 				}
 			}
 		}
