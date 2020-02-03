@@ -1,4 +1,6 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+k_battle_land;Battle Land;Battle Land;Battle Land;;Battle Land;;;;;;;;;x
+k_battle_land_adj;Battle Landian;;Battle Lander;;;;;;;;;;;x
 k_beanbean_kingdom;Beanbean Kingdom;Beanbean Kingdom;Beanbean Kingdom;;Beanbean Kingdom;;;;;;;;;x
 k_beanbean_kingdom_adj;Beanbean Kingdomian;;Beanbean Kingdomer;;;;;;;;;;;x
 k_birabuto;Birabuto;Birabuto;Birabuto;;Birabuto;;;;;;;;;x
@@ -15,6 +17,8 @@ k_cloud_sprixieland;Cloud Sprixieland;Cloud Sprixieland;Cloud Sprixieland;;Cloud
 k_cloud_sprixieland_adj;Cloud Sprixielandian;;Cloud Sprixielander;;;;;;;;;;;x
 k_crab_islands;Crab Islands;Crab Islands;Crab Islands;;Crab Islands;;;;;;;;;x
 k_crab_islands_adj;Crab Islandsian;;Crab Islandser;;;;;;;;;;;x
+k_cramalot;Cramalot;Cramalot;Cramalot;;Cramalot;;;;;;;;;x
+k_cramalot_adj;Cramalotian;;cramaloter;;;;;;;;;;;x
 k_crocodile_isle;Crocodile Isle;Crocodile Isle;Crocodile Isle;;Crocodile Isle;;;;;;;;;x
 k_crocodile_isle_adj;Crocodile Islean;;Crocodile Isler;;;;;;;;;;;x
 k_crystalia;Crystalia;Crystalia;Crystalia;;Crystalia;;;;;;;;;x
@@ -87,6 +91,8 @@ k_piillo_island;Pi'illo Island;Pi'illo Island;Pi'illo Island;;Pi'illo Island;;;;
 k_piillo_island_adj;Pi'illo Islandian;;Pi'illo Islander;;;;;;;;;;;x
 k_pipe_land;Pipe Land;Pipe Land;Pipe Land;;Pipe Land;;;;;;;;;x
 k_pipe_land_adj;Pipe Landian;;Pipe Lander;;;;;;;;;;;x
+k_river_world;River World;River World;River World;;River World;;;;;;;;;x
+k_river_world_adj;River Worldian;;River Worlder;;;;;;;;;;;x
 k_rogueport;Rogueport;Rogueport;Rogueport;;Rogueport;;;;;;;;;x
 k_rogueport_adj;Rogueportian;;rogueporter;;;;;;;;;;;x
 k_rotunda_land;Rotunda Land;Rotunda Land;Rotunda Land;;Rotunda Land;;;;;;;;;x
