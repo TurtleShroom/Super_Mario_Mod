@@ -7,8 +7,8 @@ c_alpine_peak;Alpine Peak;Alpine Peak;Alpine Peak;;Alpine Peak;;;;;;;;;x
 c_alpine_peak_adj;Alpine Peakian;;Alpine Peaker;;;;;;;;;;;x
 c_ancient_foundry;Ancient Foundry;Ancient Foundry;Ancient Foundry;;Ancient Foundry;;;;;;;;;x
 c_ancient_foundry_adj;Ancient Foundrian;;Ancient Foundrer;;;;;;;;;;;x
-c_angelo_harbour;Angelo Harbour;Angelo Harbour;Angelo Harbour;;Angelo Harbour;;;;;;;;;x
-c_angelo_harbour_adj;Angelo Harbourian;;Angelo Harbourer;;;;;;;;;;;x
+c_angelo_harbor;Angelo Harbor;Angelo Harbor;Angelo Harbor;;Angelo Harbor;;;;;;;;;x
+c_angelo_harbor_adj;Angelo Harborian;;Angelo Harborer;;;;;;;;;;;x
 c_angelo_hills;Angelo Hills;Angelo Hills;Angelo Hills;;Angelo Hills;;;;;;;;;x
 c_angelo_hills_adj;Angelo Hillsian;;Angelo Hillser;;;;;;;;;;;x
 c_ant_trooper_hill;Ant Trooper Hill;Ant Trooper Hill;Ant Trooper Hill;;Ant Trooper Hill;;;;;;;;;x
@@ -575,14 +575,14 @@ c_faire_square;Faire Square;Faire Square;Faire Square;;Faire Square;;;;;;;;;x
 c_faire_square_adj;Faire Squarean;;Faire Squarer;;;;;;;;;;;x
 c_fairys_forest;Fairy's Forest;Fairy's Forest;Fairy's Forest;;Fairy's Forest;;;;;;;;;x
 c_fairys_forest_adj;Fairys Forestian;;Fairy's Forester;;;;;;;;;;;x
-c_fianco_harbour;Fianco Harbour;Fianco Harbour;Fianco Harbour;;Fianco Harbour;;;;;;;;;x
-c_fianco_harbour_adj;Fianco Harbourian;;Fianco Harbourer;;;;;;;;;;;x
+c_fianco_harbor;Fianco Harbor;Fianco Harbor;Fianco Harbor;;Fianco Harbor;;;;;;;;;x
+c_fianco_harbor_adj;Fianco Harborian;;Fianco Harborer;;;;;;;;;;;x
 c_fire_mountain;Fire Mountain;Fire Mountain;Fire Mountain;;Fire Mountain;;;;;;;;;x
 c_fire_mountain_adj;Fire Mountainian;;Fire Mountainer;;;;;;;;;;;x
 c_fishers_coast;Fisher's Coast;Fisher's Coast;Fisher's Coast;;Fisher's Coast;;;;;;;;;x
 c_fishers_coast_adj;Fishers Coastian;;Fisher's Coaster;;;;;;;;;;;x
-c_flaming_harbour;Flaming Harbour;Flaming Harbour;Flaming Harbour;;Flaming Harbour;;;;;;;;;x
-c_flaming_harbour_adj;Flaming Harbourian;;Flaming Harbourer;;;;;;;;;;;x
+c_flaming_harbor;Flaming Harbor;Flaming Harbor;Flaming Harbor;;Flaming Harbor;;;;;;;;;x
+c_flaming_harbor_adj;Flaming Harborian;;Flaming Harborer;;;;;;;;;;;x
 c_flashfire_fields;Flashfire Fields;Flashfire Fields;Flashfire Fields;;Flashfire Fields;;;;;;;;;x
 c_flashfire_fields_adj;Flashfire Fieldsian;;Flashfire Fieldser;;;;;;;;;;;x
 c_floral_peeks;Floral Peeks;Floral Peeks;Floral Peeks;;Floral Peeks;;;;;;;;;x
@@ -717,8 +717,8 @@ c_grande_artiglio_island;Grande Artiglio Island;Grande Artiglio Island;Grande Ar
 c_grande_artiglio_island_adj;Grande Artiglio Islandian;;Grande Artiglio Islander;;;;;;;;;;;x
 c_granite_flats;Granite Flats;Granite Flats;Granite Flats;;Granite Flats;;;;;;;;;x
 c_granite_flats_adj;Granite Flatsian;;Granite Flatser;;;;;;;;;;;x
-c_grapefruit_harbour;Grapefruit Harbour;Grapefruit Harbour;Grapefruit Harbour;;Grapefruit Harbour;;;;;;;;;x
-c_grapefruit_harbour_adj;Grapefruit Harbourian;;Grapefruit Harbourer;;;;;;;;;;;x
+c_grapefruit_harbor;Grapefruit Harbor;Grapefruit Harbor;Grapefruit Harbor;;Grapefruit Harbor;;;;;;;;;x
+c_grapefruit_harbor_adj;Grapefruit Harborian;;Grapefruit Harborer;;;;;;;;;;;x
 c_grass_land;Grass Land;Grass Land;Grass Land;;Grass Land;;;;;;;;;x
 c_grass_land_adj;Grass Landian;;Grass Lander;;;;;;;;;;;x
 c_grass_land_castle;Grass Land Castle;Grass Land Castle;Grass Land Castle;;Grass Land Castle;;;;;;;;;x
@@ -761,12 +761,12 @@ c_gusty_gultch_town;Gusty Gultch Town;Gusty Gultch Town;Gusty Gultch Town;;Gusty
 c_gusty_gultch_town_adj;Gusty Gultch Townian;;Gusty Gultch Towner;;;;;;;;;;;x
 c_gwarhar_lagoon;Gwarhar Lagoon;Gwarhar Lagoon;Gwarhar Lagoon;;Gwarhar Lagoon;;;;;;;;;x
 c_gwarhar_lagoon_adj;Gwarhar Lagoonian;;Gwarhar Lagooner;;;;;;;;;;;x
-c_habanero_harbour;Habanero Harbour;Habanero Harbour;Habanero Harbour;;Habanero Harbour;;;;;;;;;x
-c_habanero_harbour_adj;Habanero Harbourian;;Habanero Harbourer;;;;;;;;;;;x
-c_happy_harbour;Happy Harbour;Happy Harbour;Happy Harbour;;Happy Harbour;;;;;;;;;x
-c_happy_harbour_adj;Happy Harbourian;;Happy Harbourer;;;;;;;;;;;x
-c_harbour_hold;Harbour Hold;Harbour Hold;Harbour Hold;;Harbour Hold;;;;;;;;;x
-c_harbour_hold_adj;Harbour Holdian;;Harbour Holder;;;;;;;;;;;x
+c_habanero_harbor;Habanero Harbor;Habanero Harbor;Habanero Harbor;;Habanero Harbor;;;;;;;;;x
+c_habanero_harbor_adj;Habanero Harborian;;Habanero Harborer;;;;;;;;;;;x
+c_happy_harbor;Happy Harbor;Happy Harbor;Happy Harbor;;Happy Harbor;;;;;;;;;x
+c_happy_harbor_adj;Happy Harborian;;Happy Harborer;;;;;;;;;;;x
+c_harbor_hold;Harbor Hold;Harbor Hold;Harbor Hold;;Harbor Hold;;;;;;;;;x
+c_harbor_hold_adj;Harbor Holdian;;Harbor Holder;;;;;;;;;;;x
 c_harmony_hills;Harmony Hills;Harmony Hills;Harmony Hills;;Harmony Hills;;;;;;;;;x
 c_harmony_hills_adj;Harmony Hillsian;;Harmony Hillser;;;;;;;;;;;x
 c_harvest_hill;Harvest Hill;Harvest Hill;Harvest Hill;;Harvest Hill;;;;;;;;;x
@@ -1135,8 +1135,8 @@ c_misty_marsh;Misty Marsh;Misty Marsh;Misty Marsh;;Misty Marsh;;;;;;;;;x
 c_misty_marsh_adj;Misty Marshian;;Misty Marsher;;;;;;;;;;;x
 c_moai_flats;Moai Flats;Moai Flats;Moai Flats;;Moai Flats;;;;;;;;;x
 c_moai_flats_adj;Moai Flatsian;;Moai Flatser;;;;;;;;;;;x
-c_mole_harbour;Mole Harbour;Mole Harbour;Mole Harbour;;Mole Harbour;;;;;;;;;x
-c_mole_harbour_adj;Mole Harbourian;;Mole Harbourer;;;;;;;;;;;x
+c_mole_harbor;Mole Harbor;Mole Harbor;Mole Harbor;;Mole Harbor;;;;;;;;;x
+c_mole_harbor_adj;Mole Harborian;;Mole Harborer;;;;;;;;;;;x
 c_mole_mountain;Mole Mountain;Mole Mountain;Mole Mountain;;Mole Mountain;;;;;;;;;x
 c_mole_mountain_adj;Mole Mountainian;;Mole Mountainer;;;;;;;;;;;x
 c_monkey_fest;Monkey Fest;Monkey Fest;Monkey Fest;;Monkey Fest;;;;;;;;;x
@@ -1185,8 +1185,8 @@ c_mushroom_castle;Mushroom Castle;Mushroom Castle;Mushroom Castle;;Mushroom Cast
 c_mushroom_castle_adj;Mushroom Castlean;;Mushroom Castler;;;;;;;;;;;x
 c_mushroom_gorge;Mushroom Gorge;Mushroom Gorge;Mushroom Gorge;;Mushroom Gorge;;;;;;;;;x
 c_mushroom_gorge_adj;Mushroom Gorgean;;Mushroom Gorger;;;;;;;;;;;x
-c_mushroom_harbour;Mushroom Harbour;Mushroom Harbour;Mushroom Harbour;;Mushroom Harbour;;;;;;;;;x
-c_mushroom_harbour_adj;Mushroom Harbourian;;Mushroom Harbourer;;;;;;;;;;;x
+c_mushroom_harbor;Mushroom Harbor;Mushroom Harbor;Mushroom Harbor;;Mushroom Harbor;;;;;;;;;x
+c_mushroom_harbor_adj;Mushroom Harborian;;Mushroom Harborer;;;;;;;;;;;x
 c_mushroom_land;Mushroom Land;Mushroom Land;Mushroom Land;;Mushroom Land;;;;;;;;;x
 c_mushroom_land_adj;Mushroom Landian;;Mushroom Lander;;;;;;;;;;;x
 c_mushroom_mountains;Mushroom Mountains;Mushroom Mountains;Mushroom Mountains;;Mushroom Mountains;;;;;;;;;x
@@ -1217,8 +1217,8 @@ c_neo_bowser_castle;Neo Bowser Castle;Neo Bowser Castle;Neo Bowser Castle;;Neo B
 c_neo_bowser_castle_adj;Neo Bowser Castlean;;Neo Bowser Castler;;;;;;;;;;;x
 c_neo_bowser_city;Neo Bowser City;Neo Bowser City;Neo Bowser City;;Neo Bowser City;;;;;;;;;x
 c_neo_bowser_city_adj;Neo Bowser Citian;;Neo Bowser Citer;;;;;;;;;;;x
-c_neon_heights_(neon_city);Neon Heights (Neon City);Neon Heights (Neon City);Neon Heights (Neon City);;Neon Heights (Neon City);;;;;;;;;x
-c_neon_heights_(neon_city)_adj;Neon Heights (Neon City)ian;;Neon Heights (Neon City)er;;;;;;;;;;;x
+c_neon_heights;Neon Heights;Neon Heights;Neon Heights;;Neon Heights;;;;;;;;;x
+c_neon_heights_adj;Neon Heightsian;;Neon Heightser;;;;;;;;;;;x
 c_neon_hills;Neon Hills;Neon Hills;Neon Hills;;Neon Hills;;;;;;;;;x
 c_neon_hills_adj;Neon Hillsian;;Neon Hillser;;;;;;;;;;;x
 c_nights_chill;Night's Chill;Night's Chill;Night's Chill;;Night's Chill;;;;;;;;;x
@@ -1431,8 +1431,8 @@ c_reindeer_run;Reindeer Run;Reindeer Run;Reindeer Run;;Reindeer Run;;;;;;;;;x
 c_reindeer_run_adj;Reindeer Runian;;Reindeer Runer;;;;;;;;;;;x
 c_ribbon_road;Ribbon Road;Ribbon Road;Ribbon Road;;Ribbon Road;;;;;;;;;x
 c_ribbon_road_adj;Ribbon Roadian;;Ribbon Roader;;;;;;;;;;;x
-c_ricco_harbour;Ricco Harbour;Ricco Harbour;Ricco Harbour;;Ricco Harbour;;;;;;;;;x
-c_ricco_harbour_adj;Ricco Harbourian;;Ricco Harbourer;;;;;;;;;;;x
+c_ricco_harbor;Ricco Harbor;Ricco Harbor;Ricco Harbor;;Ricco Harbor;;;;;;;;;x
+c_ricco_harbor_adj;Ricco Harborian;;Ricco Harborer;;;;;;;;;;;x
 c_rice_beach;Rice Beach;Rice Beach;Rice Beach;;Rice Beach;;;;;;;;;x
 c_rice_beach_adj;Rice Beachian;;Rice Beacher;;;;;;;;;;;x
 c_river_manor;River Manor;River Manor;River Manor;;River Manor;;;;;;;;;x
@@ -1741,10 +1741,10 @@ c_stump_glade;Stump Glade;Stump Glade;Stump Glade;;Stump Glade;;;;;;;;;x
 c_stump_glade_adj;Stump Gladean;;Stump Glader;;;;;;;;;;;x
 c_sudden_death_valley;Sudden Death Valley;Sudden Death Valley;Sudden Death Valley;;Sudden Death Valley;;;;;;;;;x
 c_sudden_death_valley_adj;Sudden Death Valleian;;Sudden Death Valleer;;;;;;;;;;;x
-c_sulpher_coast;Sulpher Coast;Sulpher Coast;Sulpher Coast;;Sulpher Coast;;;;;;;;;x
-c_sulpher_coast_adj;Sulpher Coastian;;Sulpher Coaster;;;;;;;;;;;x
-c_sulpher_fields;Sulpher Fields;Sulpher Fields;Sulpher Fields;;Sulpher Fields;;;;;;;;;x
-c_sulpher_fields_adj;Sulpher Fieldsian;;Sulpher Fieldser;;;;;;;;;;;x
+c_sulfur_coast;Sulfur Coast;Sulfur Coast;Sulfur Coast;;Sulfur Coast;;;;;;;;;x
+c_sulfur_coast_adj;Sulfur Coastian;;Sulfur Coaster;;;;;;;;;;;x
+c_sulfur_fields;Sulfur Fields;Sulfur Fields;Sulfur Fields;;Sulfur Fields;;;;;;;;;x
+c_sulfur_fields_adj;Sulfur Fieldsian;;Sulfur Fieldser;;;;;;;;;;;x
 c_sun_sun_island;Sun Sun Island;Sun Sun Island;Sun Sun Island;;Sun Sun Island;;;;;;;;;x
 c_sun_sun_island_adj;Sun Sun Islandian;;Sun Sun Islander;;;;;;;;;;;x
 c_sunrise_coast;Sunrise Coast;Sunrise Coast;Sunrise Coast;;Sunrise Coast;;;;;;;;;x
@@ -1757,8 +1757,8 @@ c_sunshine_seaside;Sunshine Seaside;Sunshine Seaside;Sunshine Seaside;;Sunshine 
 c_sunshine_seaside_adj;Sunshine Seasidean;;Sunshine Seasider;;;;;;;;;;;x
 c_super_bell_hill;Super Bell Hill;Super Bell Hill;Super Bell Hill;;Super Bell Hill;;;;;;;;;x
 c_super_bell_hill_adj;Super Bell Hillian;;Super Bell Hiller;;;;;;;;;;;x
-c_surfshine_harbour;Surfshine Harbour;Surfshine Harbour;Surfshine Harbour;;Surfshine Harbour;;;;;;;;;x
-c_surfshine_harbour_adj;Surfshine Harbourian;;Surfshine Harbourer;;;;;;;;;;;x
+c_surfshine_harbor;Surfshine Harbor;Surfshine Harbor;Surfshine Harbor;;Surfshine Harbor;;;;;;;;;x
+c_surfshine_harbor_adj;Surfshine Harborian;;Surfshine Harborer;;;;;;;;;;;x
 c_sweet_orange_island;Sweet Orange Island;Sweet Orange Island;Sweet Orange Island;;Sweet Orange Island;;;;;;;;;x
 c_sweet_orange_island_adj;Sweet Orange Islandian;;Sweet Orange Islander;;;;;;;;;;;x
 c_sweet_paradise;Sweet Paradise;Sweet Paradise;Sweet Paradise;;Sweet Paradise;;;;;;;;;x
@@ -1847,8 +1847,8 @@ c_toad_cliffs;Toad Cliffs;Toad Cliffs;Toad Cliffs;;Toad Cliffs;;;;;;;;;x
 c_toad_cliffs_adj;Toad Cliffsian;;Toad Cliffser;;;;;;;;;;;x
 c_toad_fjord;Toad Fjord;Toad Fjord;Toad Fjord;;Toad Fjord;;;;;;;;;x
 c_toad_fjord_adj;Toad Fjordian;;Toad Fjorder;;;;;;;;;;;x
-c_toad_harbour;Toad Harbour;Toad Harbour;Toad Harbour;;Toad Harbour;;;;;;;;;x
-c_toad_harbour_adj;Toad Harbourian;;Toad Harbourer;;;;;;;;;;;x
+c_toad_harbor;Toad Harbor;Toad Harbor;Toad Harbor;;Toad Harbor;;;;;;;;;x
+c_toad_harbor_adj;Toad Harborian;;Toad Harborer;;;;;;;;;;;x
 c_toad_heights;Toad Heights;Toad Heights;Toad Heights;;Toad Heights;;;;;;;;;x
 c_toad_heights_adj;Toad Heightsian;;Toad Heightser;;;;;;;;;;;x
 c_toad_highlands;Toad Highlands;Toad Highlands;Toad Highlands;;Toad Highlands;;;;;;;;;x

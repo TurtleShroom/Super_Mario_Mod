@@ -45,7 +45,7 @@ province;red;green;blue;x;x
 44;255;150;0;Delfino Airstrip;x
 45;232;175;20;Delfino Plaza;x
 46;206;183;37;Bianco Hills;x
-47;181;183;49;Ricco Harbour;x
+47;181;183;49;Ricco Harbor;x
 48;142;158;56;Gelato Beach;x
 49;112;135;60;Pinna Island;x
 50;86;109;59;Sirena Beach;x
@@ -57,13 +57,13 @@ province;red;green;blue;x;x
 56;255;150;100;Little Fish Island;x
 57;255;150;150;Pectoral Fin Peninsula;x
 58;255;150;200;Dorsal Fin Bay;x
-59;255;150;250;Angelo Harbour;x
+59;255;150;250;Angelo Harbor;x
 60;250;100;255;Angelo Hills;x
 61;200;50;255;Tailfin Bay;x
 62;255;130;0;Grande Artiglio Island;x
 63;255;110;1;Piccolo Artiglio Island;x
 64;255;90;1;Bocca Beach;x
-65;255;70;1;Fianco Harbour;x
+65;255;70;1;Fianco Harbor;x
 66;255;50;1;Corrazza Mountains;x
 67;255;30;1;Gamba Sinistra Islands;x
 68;255;11;0;Gamba Destra Islands;x
@@ -78,14 +78,14 @@ province;red;green;blue;x;x
 77;135;150;0;Isle Schiena Piatta;x
 78;145;150;0;Koopa Kabana;x
 79;255;158;22;Jalapeno Beach;x
-80;255;171;53;Habanero Harbour;x
+80;255;171;53;Habanero Harbor;x
 81;255;183;84;Cayenne Cove;x
 82;255;196;114;Banana Bay;x
 83;255;207;145;Serrano Sound;x
 84;255;219;175;Bell Highlands;x
 85;224;130;0;Blood Orange Bay;x
 86;193;113;0;Sweet Orange Island;x
-87;163;95;0;Grapefruit Harbour;x
+87;163;95;0;Grapefruit Harbor;x
 88;132;77;0;Lemon Anchorage;x
 89;102;59;0;Lime Lagoon;x
 90;71;41;0;Tangerine Beach;x
@@ -148,7 +148,7 @@ province;red;green;blue;x;x
 147;255;142;255;Mini-Game House;x
 148;255;152;255;Mushroom Village;x
 149;255;162;255;Mini-Game Island;x
-150;255;172;255;Neon Heights (Neon City);x
+150;255;172;255;Neon Heights;x
 151;255;182;255;Shroom City;x
 152;255;192;255;Toad Road;x
 153;255;202;255;Towering Treetop;x
@@ -195,7 +195,7 @@ province;red;green;blue;x;x
 194;255;124;255;Dome City;x
 195;255;134;255;Spy Land;x
 196;255;144;255;Fort Hard Knox;x
-197;255;154;255;Happy Harbour;x
+197;255;154;255;Happy Harbor;x
 198;255;164;255;Koopacropolis;x
 199;255;174;255;Land of Ice;x
 200;255;184;255;Land of Romance;x
@@ -318,7 +318,7 @@ province;red;green;blue;x;x
 317;255;82;175;Beanstalk Way;x
 318;255;92;175;Mirror Mansion;x
 319;255;240;175;Decalburg;x
-320;255;250;175;Surfshine Harbour;x
+320;255;250;175;Surfshine Harbor;x
 321;255;1;175;Warm Fuzzy Plains;x
 322;255;11;175;Bouquet Gardens;x
 323;255;21;175;Waters Edge Way;x
@@ -373,7 +373,7 @@ province;red;green;blue;x;x
 372;255;153;175;Sunset Wilds;x
 373;255;163;175;Thwomp Desert;x
 374;255;173;175;Thwomp Ruins;x
-375;255;183;175;Toad Harbour;x
+375;255;183;175;Toad Harbor;x
 376;255;193;175;Twilight House;x
 377;255;203;175;Twisted Mansion;x
 378;255;213;175;Yoshi Falls;x
@@ -659,7 +659,7 @@ province;red;green;blue;x;x
 658;40;73;14;Mushroom Mountains;x
 659;50;73;14;Kings Pass;x
 660;60;73;14;Crownwood Forest;x
-661;70;73;14;Mushroom Harbour;x
+661;70;73;14;Mushroom Harbor;x
 662;80;73;14;Crown Bay;x
 663;90;73;14;Hightop Flats;x
 664;100;73;14;Grand Staircase;x
@@ -686,14 +686,14 @@ province;red;green;blue;x;x
 685;80;66;18;Southport;x
 686;90;66;18;Pirates Bluff;x
 687;100;66;18;Smugglers Bay;x
-688;110;66;18;Mole Harbour;x
+688;110;66;18;Mole Harbor;x
 689;0;40;6;Star Hill;x
 690;10;40;6;Seaside Town;x
 691;20;40;6;Salty Path;x
 692;30;40;6;Salty Beach;x
 693;40;40;6;Rolling Flats;x
 694;50;40;6;Lightning Bay;x
-695;60;40;6;Harbour Hold;x
+695;60;40;6;Harbor Hold;x
 696;70;40;6;Rocky Fields;x
 697;80;40;6;Freshwater Beach;x
 698;0;25;8;Monstro Town;x
@@ -709,7 +709,7 @@ province;red;green;blue;x;x
 708;100;25;8;Tower of Sand;x
 709;110;25;8;Quartz Crag;x
 710;0;48;9;Mouth of the Barrel;x
-711;10;48;9;Sulpher Coast;x
+711;10;48;9;Sulfur Coast;x
 712;20;48;9;Potash Bay;x
 713;30;48;9;Burning Beach;x
 714;40;48;9;Ashen Slope;x
@@ -731,7 +731,7 @@ province;red;green;blue;x;x
 730;100;22;4;Dagger Coast;x
 731;110;22;4;Shattered Anchor;x
 732;120;22;4;Spikeline Shoreline;x
-733;130;22;4;Flaming Harbour;x
+733;130;22;4;Flaming Harbor;x
 734;140;22;4;Barren Badlands;x
 735;150;22;4;Lost Caves;x
 736;160;22;4;The Shadowlands;x
@@ -763,7 +763,7 @@ province;red;green;blue;x;x
 762;220;223;237;Icy Cool Coast;x
 763;230;223;237;Frosty Field;x
 764;240;223;237;Biting Slopes;x
-765;250;223;237;Sulpher Fields;x
+765;250;223;237;Sulfur Fields;x
 766;1;223;237;Bitter Cold Glacier;x
 767;11;223;237;Penguin Village;x
 768;21;223;237;Bundle-up Bay;x
@@ -1053,7 +1053,7 @@ province;red;green;blue;x;x
 1052;190;91;186;Chucklehuck Coast;x
 1053;200;91;186;Anuran Waters;x
 1054;210;91;186;Muda Cove;x
-1055;220;91;186;Toad Town Harbour;x
+1055;220;91;186;Toad Town Harbor;x
 1056;230;91;186;Delfino Sea Lane;x
 1057;240;91;186;Airstrip Straights;x
 1058;250;91;186;Corona Coast;x
@@ -1061,7 +1061,7 @@ province;red;green;blue;x;x
 1060;11;91;186;Pianta Cove;x
 1061;21;91;186;Sirena Straights;x
 1062;31;91;186;Gelato Bay;x
-1063;41;91;186;Ricco Harbour;x
+1063;41;91;186;Ricco Harbor;x
 1064;51;91;186;Pinna Bay;x
 1065;61;91;186;Northern Crab Coast;x
 1066;71;91;186;Artglio Bay;x
@@ -1121,7 +1121,7 @@ province;red;green;blue;x;x
 1120;93;91;186;Warios Island;x
 1121;103;91;186;Fungus Coast;x
 1122;113;91;186;Shroom Bay;x
-1123;123;91;186;Happy Harbour;x
+1123;123;91;186;Happy Harbor;x
 1124;133;91;186;Southern Fruit Kingdoms;x
 1125;143;91;186;Shy Guy Islands;x
 1126;153;91;186;Secret Island;x
@@ -1241,7 +1241,7 @@ province;red;green;blue;x;x
 1240;18;91;186;Twighlight Cove;x
 1241;28;91;186;Smugglers Cove;x
 1242;38;91;186;Quiet Firth;x
-1243;48;91;186;Wet-Dry Harbour;x
+1243;48;91;186;Wet-Dry Harbor;x
 1244;58;91;186;Petal Approach;x
 1245;68;91;186;Heavenly Coast;x
 1246;78;91;186;Twilit Sea;x
@@ -1266,7 +1266,7 @@ province;red;green;blue;x;x
 1265;19;91;186;Kings Cove;x
 1266;29;91;186;Shipwrecker Bay;x
 1267;39;91;186;Mole Gulf;x
-1268;49;91;186;Mole Harbour;x
+1268;49;91;186;Mole Harbor;x
 1269;59;91;186;Mole Coast;x
 1270;69;91;186;Shipwreck Sea;x
 1271;79;91;186;Monster Cove;x

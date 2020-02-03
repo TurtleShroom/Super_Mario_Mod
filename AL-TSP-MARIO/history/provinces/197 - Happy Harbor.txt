@@ -1,0 +1,15 @@
+# c_happy_harbor
+
+# County Title
+title = c_happy_harbor
+
+# Settlements
+max_settlements = 1
+
+b_happy_harbor = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

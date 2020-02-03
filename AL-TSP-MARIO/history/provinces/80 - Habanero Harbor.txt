@@ -1,0 +1,15 @@
+# c_habanero_harbor
+
+# County Title
+title = c_habanero_harbor
+
+# Settlements
+max_settlements = 1
+
+b_habanero_harbor = castle
+
+# Misc
+culture = jellyfish_islands
+religion = seven_stars
+
+#History

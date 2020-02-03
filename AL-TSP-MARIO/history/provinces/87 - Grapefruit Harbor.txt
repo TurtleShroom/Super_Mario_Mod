@@ -1,0 +1,15 @@
+# c_grapefruit_harbor
+
+# County Title
+title = c_grapefruit_harbor
+
+# Settlements
+max_settlements = 1
+
+b_grapefruit_harbor = castle
+
+# Misc
+culture = eel_islands
+religion = seven_stars
+
+#History

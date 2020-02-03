@@ -1,0 +1,15 @@
+# c_flaming_harbor
+
+# County Title
+title = c_flaming_harbor
+
+# Settlements
+max_settlements = 1
+
+b_flaming_harbor = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_ricco_harbor
+
+# County Title
+title = c_ricco_harbor
+
+# Settlements
+max_settlements = 1
+
+b_ricco_harbor = castle
+
+# Misc
+culture = delfino
+religion = seven_stars
+
+#History
