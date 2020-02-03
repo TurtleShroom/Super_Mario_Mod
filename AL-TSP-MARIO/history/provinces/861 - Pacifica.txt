@@ -4,15 +4,9 @@
 title = c_pacifica
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_pacifica = castle
-#b_pacifica_2 = city
-#b_pacifica_3 = temple
-#b_pacifica_4 = castle
-#b_pacifica_5 = city
-#b_pacifica_6 = temple
-#b_pacifica_7 = castle
 
 # Misc
 culture = pirate

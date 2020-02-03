@@ -4,15 +4,9 @@
 title = c_helibird_nest
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_helibird_nest = castle
-#b_helibird_nest_2 = city
-#b_helibird_nest_3 = temple
-#b_helibird_nest_4 = castle
-#b_helibird_nest_5 = city
-#b_helibird_nest_6 = temple
-#b_helibird_nest_7 = castle
 
 # Misc
 culture = pirate

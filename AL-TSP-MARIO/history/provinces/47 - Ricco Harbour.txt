@@ -4,15 +4,9 @@
 title = c_ricco_harbour
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_ricco_harbour = castle
-#b_ricco_harbour_2 = city
-#b_ricco_harbour_3 = temple
-#b_ricco_harbour_4 = castle
-#b_ricco_harbour_5 = city
-#b_ricco_harbour_6 = temple
-#b_ricco_harbour_7 = castle
 
 # Misc
 culture = delfino

@@ -4,15 +4,9 @@
 title = c_frosty_frosty_tundra
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_frosty_frosty_tundra = castle
-#b_frosty_frosty_tundra_2 = city
-#b_frosty_frosty_tundra_3 = temple
-#b_frosty_frosty_tundra_4 = castle
-#b_frosty_frosty_tundra_5 = city
-#b_frosty_frosty_tundra_6 = temple
-#b_frosty_frosty_tundra_7 = castle
 
 # Misc
 culture = pirate

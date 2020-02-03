@@ -4,15 +4,9 @@
 title = c_balloon_bridge
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_balloon_bridge = castle
-#b_balloon_bridge_2 = city
-#b_balloon_bridge_3 = temple
-#b_balloon_bridge_4 = castle
-#b_balloon_bridge_5 = city
-#b_balloon_bridge_6 = temple
-#b_balloon_bridge_7 = castle
 
 # Misc
 culture = pirate

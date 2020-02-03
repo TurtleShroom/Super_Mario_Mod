@@ -4,15 +4,9 @@
 title = c_twisted_mansion
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_twisted_mansion = castle
-#b_twisted_mansion_2 = city
-#b_twisted_mansion_3 = temple
-#b_twisted_mansion_4 = castle
-#b_twisted_mansion_5 = city
-#b_twisted_mansion_6 = temple
-#b_twisted_mansion_7 = castle
 
 # Misc
 culture = pirate

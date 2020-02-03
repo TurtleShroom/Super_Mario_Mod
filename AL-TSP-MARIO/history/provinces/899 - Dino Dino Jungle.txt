@@ -4,15 +4,9 @@
 title = c_dino_dino_jungle
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_dino_dino_jungle = castle
-#b_dino_dino_jungle_2 = city
-#b_dino_dino_jungle_3 = temple
-#b_dino_dino_jungle_4 = castle
-#b_dino_dino_jungle_5 = city
-#b_dino_dino_jungle_6 = temple
-#b_dino_dino_jungle_7 = castle
 
 # Misc
 culture = pirate

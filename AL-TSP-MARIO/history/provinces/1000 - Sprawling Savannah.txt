@@ -4,15 +4,9 @@
 title = c_sprawling_savannah
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_sprawling_savannah = castle
-#b_sprawling_savannah_2 = city
-#b_sprawling_savannah_3 = temple
-#b_sprawling_savannah_4 = castle
-#b_sprawling_savannah_5 = city
-#b_sprawling_savannah_6 = temple
-#b_sprawling_savannah_7 = castle
 
 # Misc
 culture = pirate

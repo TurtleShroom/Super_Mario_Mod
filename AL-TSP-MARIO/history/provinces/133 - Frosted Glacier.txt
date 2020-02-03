@@ -4,15 +4,9 @@
 title = c_frosted_glacier
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_frosted_glacier = castle
-#b_frosted_glacier_2 = city
-#b_frosted_glacier_3 = temple
-#b_frosted_glacier_4 = castle
-#b_frosted_glacier_5 = city
-#b_frosted_glacier_6 = temple
-#b_frosted_glacier_7 = castle
 
 # Misc
 culture = pirate

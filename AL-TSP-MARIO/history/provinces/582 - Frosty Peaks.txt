@@ -4,15 +4,9 @@
 title = c_frosty_peaks
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_frosty_peaks = castle
-#b_frosty_peaks_2 = city
-#b_frosty_peaks_3 = temple
-#b_frosty_peaks_4 = castle
-#b_frosty_peaks_5 = city
-#b_frosty_peaks_6 = temple
-#b_frosty_peaks_7 = castle
 
 # Misc
 culture = pirate

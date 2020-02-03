@@ -5,10 +5,14 @@ d_apple;Apple;Apple;Apple;;Apple;;;;;;;;;x
 d_apple_adj;Applean;;appler;;;;;;;;;;;x
 d_artiglio_islands;Artiglio Islands;Artiglio Islands;Artiglio Islands;;Artiglio Islands;;;;;;;;;x
 d_artiglio_islands_adj;Artiglio Islandsian;;Artiglio Islandser;;;;;;;;;;;x
+d_autumn_island;Autumn Island;Autumn Island;Autumn Island;;Autumn Island;;;;;;;;;x
+d_autumn_island_adj;Autumn Islandian;;Autumn Islander;;;;;;;;;;;x
 d_badlands;Badlands;Badlands;Badlands;;Badlands;;;;;;;;;x
 d_badlands_adj;Badlandsian;;badlandser;;;;;;;;;;;x
 d_banana;Banana;Banana;Banana;;Banana;;;;;;;;;x
 d_banana_adj;Bananan;;bananer;;;;;;;;;;;x
+d_banana_fairy_island;Banana Fairy Island;Banana Fairy Island;Banana Fairy Island;;Banana Fairy Island;;;;;;;;;x
+d_banana_fairy_island_adj;Banana Fairy Islandian;;Banana Fairy Islander;;;;;;;;;;;x
 d_baseball_island;Baseball Island;Baseball Island;Baseball Island;;Baseball Island;;;;;;;;;x
 d_baseball_island_adj;Baseball Islandian;;Baseball Islander;;;;;;;;;;;x
 d_beanbean_duchy;Beanbean Duchy;Beanbean Duchy;Beanbean Duchy;;Beanbean Duchy;;;;;;;;;x
@@ -43,6 +47,8 @@ d_chili_pepper;Chili Pepper;Chili Pepper;Chili Pepper;;Chili Pepper;;;;;;;;;x
 d_chili_pepper_adj;Chili Pepperian;;Chili Pepperer;;;;;;;;;;;x
 d_christmas;Christmas;Christmas;Christmas;;Christmas;;;;;;;;;x
 d_christmas_adj;Christmasian;;christmaser;;;;;;;;;;;x
+d_climber_chain;Climber Chain;Climber Chain;Climber Chain;;Climber Chain;;;;;;;;;x
+d_climber_chain_adj;Climber Chainian;;Climber Chainer;;;;;;;;;;;x
 d_cloud_bird_mountain;Cloud-Bird Mountain;Cloud-Bird Mountain;Cloud-Bird Mountain;;Cloud-Bird Mountain;;;;;;;;;x
 d_cloud_bird_mountain_adj;Cloud-Bird Mountainian;;Cloud-Bird Mountainer;;;;;;;;;;;x
 d_cold_river;Cold River;Cold River;Cold River;;Cold River;;;;;;;;;x
@@ -57,8 +63,8 @@ d_crabshell;Crabshell;Crabshell;Crabshell;;Crabshell;;;;;;;;;x
 d_crabshell_adj;Crabshellian;;crabsheller;;;;;;;;;;;x
 d_crime_land;Crime Land;Crime Land;Crime Land;;Crime Land;;;;;;;;;x
 d_crime_land_adj;Crime Landian;;Crime Lander;;;;;;;;;;;x
-d_crocodile_isle;Crocodile Isle;Crocodile Isle;Crocodile Isle;;Crocodile Isle;;;;;;;;;x
-d_crocodile_isle_adj;Crocodile Islean;;Crocodile Isler;;;;;;;;;;;x
+d_crocodile_coast;Crocodile Coast;Crocodile Coast;Crocodile Coast;;Crocodile Coast;;;;;;;;;x
+d_crocodile_coast_adj;Crocodile Coastian;;Crocodile Coaster;;;;;;;;;;;x
 d_daisyland;Daisyland;Daisyland;Daisyland;;Daisyland;;;;;;;;;x
 d_daisyland_adj;Daisylandian;;daisylander;;;;;;;;;;;x
 d_dark_world;Dark World;Dark World;Dark World;;Dark World;;;;;;;;;x
@@ -77,8 +83,6 @@ d_dinosaur_island;Dinosaur Island;Dinosaur Island;Dinosaur Island;;Dinosaur Isla
 d_dinosaur_island_adj;Dinosaur Islandian;;Dinosaur Islander;;;;;;;;;;;x
 d_dolphin_coast;Dolphin Coast;Dolphin Coast;Dolphin Coast;;Dolphin Coast;;;;;;;;;x
 d_dolphin_coast_adj;Dolphin Coastian;;Dolphin Coaster;;;;;;;;;;;x
-d_donkey_kong_duchy;Donkey Kong Duchy;Donkey Kong Duchy;Donkey Kong Duchy;;Donkey Kong Duchy;;;;;;;;;x
-d_donkey_kong_duchy_adj;Donkey Kong Duchian;;Donkey Kong Ducher;;;;;;;;;;;x
 d_dry_dry_outpost;Dry Dry Outpost;Dry Dry Outpost;Dry Dry Outpost;;Dry Dry Outpost;;;;;;;;;x
 d_dry_dry_outpost_adj;Dry Dry Outpostian;;Dry Dry Outposter;;;;;;;;;;;x
 d_durian;Durian;Durian;Durian;;Durian;;;;;;;;;x
@@ -95,6 +99,8 @@ d_eel_islands;Eel Islands;Eel Islands;Eel Islands;;Eel Islands;;;;;;;;;x
 d_eel_islands_adj;Eel Islandsian;;Eel Islandser;;;;;;;;;;;x
 d_evershade_valley;Evershade Valley;Evershade Valley;Evershade Valley;;Evershade Valley;;;;;;;;;x
 d_evershade_valley_adj;Evershade Valleian;;Evershade Valleer;;;;;;;;;;;x
+d_factory_lake;Factory Lake;Factory Lake;Factory Lake;;Factory Lake;;;;;;;;;x
+d_factory_lake_adj;Factory Lakean;;Factory Laker;;;;;;;;;;;x
 d_fahr;Fahr;Fahr;Fahr;;Fahr;;;;;;;;;x
 d_fahr_adj;Fahrian;;fahrer;;;;;;;;;;;x
 d_fire_mountain;Fire Mountain;Fire Mountain;Fire Mountain;;Fire Mountain;;;;;;;;;x
@@ -117,16 +123,22 @@ d_grape;Grape;Grape;Grape;;Grape;;;;;;;;;x
 d_grape_adj;Grapean;;graper;;;;;;;;;;;x
 d_grass_land;Grass Land;Grass Land;Grass Land;;Grass Land;;;;;;;;;x
 d_grass_land_adj;Grass Landian;;Grass Lander;;;;;;;;;;;x
+d_great_ape_lake;Great Ape Lake;Great Ape Lake;Great Ape Lake;;Great Ape Lake;;;;;;;;;x
+d_great_ape_lake_adj;Great Ape Lakean;;Great Ape Laker;;;;;;;;;;;x
 d_greenhorn;Greenhorn;Greenhorn;Greenhorn;;Greenhorn;;;;;;;;;x
 d_greenhorn_adj;Greenhornian;;greenhorner;;;;;;;;;;;x
 d_gritzy_desert;Gritzy Desert;Gritzy Desert;Gritzy Desert;;Gritzy Desert;;;;;;;;;x
 d_gritzy_desert_adj;Gritzy Desertian;;Gritzy Deserter;;;;;;;;;;;x
+d_grizzly_land;Grizzly Land;Grizzly Land;Grizzly Land;;Grizzly Land;;;;;;;;;x
+d_grizzly_land_adj;Grizzly Landian;;Grizzly Lander;;;;;;;;;;;x
 d_gusty_gultch;Gusty Gultch;Gusty Gultch;Gusty Gultch;;Gusty Gultch;;;;;;;;;x
 d_gusty_gultch_adj;Gusty Gultchian;;Gusty Gultcher;;;;;;;;;;;x
 d_haunted_valley;Haunted Valley;Haunted Valley;Haunted Valley;;Haunted Valley;;;;;;;;;x
 d_haunted_valley_adj;Haunted Valleian;;Haunted Valleer;;;;;;;;;;;x
 d_hollijolli;Hollijolli;Hollijolli;Hollijolli;;Hollijolli;;;;;;;;;x
 d_hollijolli_adj;Hollijollian;;hollijoller;;;;;;;;;;;x
+d_hominina;Hominina;Hominina;Hominina;;Hominina;;;;;;;;;x
+d_hominina_adj;Homininan;;homininer;;;;;;;;;;;x
 d_horror_land;Horror Land;Horror Land;Horror Land;;Horror Land;;;;;;;;;x
 d_horror_land_adj;Horror Landian;;Horror Lander;;;;;;;;;;;x
 d_ice_cube;Ice Cube;Ice Cube;Ice Cube;;Ice Cube;;;;;;;;;x
@@ -137,12 +149,22 @@ d_icepeak;Icepeak;Icepeak;Icepeak;;Icepeak;;;;;;;;;x
 d_icepeak_adj;Icepeakian;;icepeaker;;;;;;;;;;;x
 d_jellyfish_island;Jellyfish Island;Jellyfish Island;Jellyfish Island;;Jellyfish Island;;;;;;;;;x
 d_jellyfish_island_adj;Jellyfish Islandian;;Jellyfish Islander;;;;;;;;;;;x
-d_jewelry_land;Jewelry Land;Jewelry Land;Jewelry Land;;Jewelry Land;;;;;;;;;x
-d_jewelry_land_adj;Jewelry Landian;;Jewelry Lander;;;;;;;;;;;x
 d_jolly_land;Jolly Land;Jolly Land;Jolly Land;;Jolly Land;;;;;;;;;x
 d_jolly_land_adj;Jolly Landian;;Jolly Lander;;;;;;;;;;;x
+d_juicy_jungle_island;Juicy Jungle Island;Juicy Jungle Island;Juicy Jungle Island;;Juicy Jungle Island;;;;;;;;;x
+d_juicy_jungle_island_adj;Juicy Jungle Islandian;;Juicy Jungle Islander;;;;;;;;;;;x
+d_kongo;Kongo;Kongo;Kongo;;Kongo;;;;;;;;;x
+d_kongo_adj;Kongian;;konger;;;;;;;;;;;x
 d_koopa_cape;Koopa Cape;Koopa Cape;Koopa Cape;;Koopa Cape;;;;;;;;;x
 d_koopa_cape_adj;Koopa Capean;;Koopa Caper;;;;;;;;;;;x
+d_kremland;Kremland;Kremland;Kremland;;Kremland;;;;;;;;;x
+d_kremland_adj;Kremlandian;;kremlander;;;;;;;;;;;x
+d_kremling_lake;Kremling Lake;Kremling Lake;Kremling Lake;;Kremling Lake;;;;;;;;;x
+d_kremling_lake_adj;Kremling Lakean;;Kremling Laker;;;;;;;;;;;x
+d_lake_lodge;Lake Lodge;Lake Lodge;Lake Lodge;;Lake Lodge;;;;;;;;;x
+d_lake_lodge_adj;Lake Lodgean;;Lake Lodger;;;;;;;;;;;x
+d_lake_orangatanga;Lake Orangatanga;Lake Orangatanga;Lake Orangatanga;;Lake Orangatanga;;;;;;;;;x
+d_lake_orangatanga_adj;Lake Orangatangan;;Lake Orangatanger;;;;;;;;;;;x
 d_leaflitter_inlet;Leaflitter Inlet;Leaflitter Inlet;Leaflitter Inlet;;Leaflitter Inlet;;;;;;;;;x
 d_leaflitter_inlet_adj;Leaflitter Inletian;;Leaflitter Inleter;;;;;;;;;;;x
 d_lemon;Lemon;Lemon;Lemon;;Lemon;;;;;;;;;x
@@ -155,6 +177,10 @@ d_lychee;Lychee;Lychee;Lychee;;Lychee;;;;;;;;;x
 d_lychee_adj;Lycheean;;lycher;;;;;;;;;;;x
 d_magma_mountain;Magma Mountain;Magma Mountain;Magma Mountain;;Magma Mountain;;;;;;;;;x
 d_magma_mountain_adj;Magma Mountainian;;Magma Mountainer;;;;;;;;;;;x
+d_mammoth_coast;Mammoth Coast;Mammoth Coast;Mammoth Coast;;Mammoth Coast;;;;;;;;;x
+d_mammoth_coast_adj;Mammoth Coastian;;Mammoth Coaster;;;;;;;;;;;x
+d_mangrove_island;Mangrove Island;Mangrove Island;Mangrove Island;;Mangrove Island;;;;;;;;;x
+d_mangrove_island_adj;Mangrove Islandian;;Mangrove Islander;;;;;;;;;;;x
 d_mario_land;Mario Land;Mario Land;Mario Land;;Mario Land;;;;;;;;;x
 d_mario_land_adj;Mario Landian;;Mario Lander;;;;;;;;;;;x
 d_melon;Melon;Melon;Melon;;Melon;;;;;;;;;x
@@ -181,12 +207,16 @@ d_northern_awazon;Northern Awazon;Northern Awazon;Northern Awazon;;Northern Awaz
 d_northern_awazon_adj;Northern Awazonian;;Northern Awazoner;;;;;;;;;;;x
 d_northern_jade_jungle;Northern Jade Jungle;Northern Jade Jungle;Northern Jade Jungle;;Northern Jade Jungle;;;;;;;;;x
 d_northern_jade_jungle_adj;Northern Jade Junglean;;Northern Jade Jungler;;;;;;;;;;;x
+d_northern_jewelry_islands;Northern Jewelry Islands;Northern Jewelry Islands;Northern Jewelry Islands;;Northern Jewelry Islands;;;;;;;;;x
+d_northern_jewelry_islands_adj;Northern Jewelry Islandsian;;Northern Jewelry Islandser;;;;;;;;;;;x
 d_northern_koopa_land;Northern Koopa Land;Northern Koopa Land;Northern Koopa Land;;Northern Koopa Land;;;;;;;;;x
 d_northern_koopa_land_adj;Northern Koopa Landian;;Northern Koopa Lander;;;;;;;;;;;x
 d_northern_kremisphere;Northern Kremisphere;Northern Kremisphere;Northern Kremisphere;;Northern Kremisphere;;;;;;;;;x
 d_northern_kremisphere_adj;Northern Kremispherean;;Northern Kremispherer;;;;;;;;;;;x
 d_orange;Orange;Orange;Orange;;Orange;;;;;;;;;x
 d_orange_adj;Orangean;;oranger;;;;;;;;;;;x
+d_pacifica;Pacifica;Pacifica;Pacifica;;Pacifica;;;;;;;;;x
+d_pacifica_adj;Pacifican;;pacificer;;;;;;;;;;;x
 d_peach;Peach;Peach;Peach;;Peach;;;;;;;;;x
 d_peach_adj;Peachian;;peacher;;;;;;;;;;;x
 d_pear;Pear;Pear;Pear;;Pear;;;;;;;;;x
@@ -211,6 +241,8 @@ d_ricco;Ricco;Ricco;Ricco;;Ricco;;;;;;;;;x
 d_ricco_adj;Riccian;;riccer;;;;;;;;;;;x
 d_rogueport_duchy;Rogueport Duchy;Rogueport Duchy;Rogueport Duchy;;Rogueport Duchy;;;;;;;;;x
 d_rogueport_duchy_adj;Rogueport Duchian;;Rogueport Ducher;;;;;;;;;;;x
+d_roolenstein_lake;Roolenstein Lake;Roolenstein Lake;Roolenstein Lake;;Roolenstein Lake;;;;;;;;;x
+d_roolenstein_lake_adj;Roolenstein Lakean;;Roolenstein Laker;;;;;;;;;;;x
 d_rotunda_land;Rotunda Land;Rotunda Land;Rotunda Land;;Rotunda Land;;;;;;;;;x
 d_rotunda_land_adj;Rotunda Landian;;Rotunda Lander;;;;;;;;;;;x
 d_royal_desert;Royal Desert;Royal Desert;Royal Desert;;Royal Desert;;;;;;;;;x
@@ -219,6 +251,12 @@ d_royal_plaza;Royal Plaza;Royal Plaza;Royal Plaza;;Royal Plaza;;;;;;;;;x
 d_royal_plaza_adj;Royal Plazan;;Royal Plazer;;;;;;;;;;;x
 d_ruin_area;Ruin Area;Ruin Area;Ruin Area;;Ruin Area;;;;;;;;;x
 d_ruin_area_adj;Ruin Arean;;Ruin Arer;;;;;;;;;;;x
+d_savannah_island;Savannah Island;Savannah Island;Savannah Island;;Savannah Island;;;;;;;;;x
+d_savannah_island_adj;Savannah Islandian;;Savannah Islander;;;;;;;;;;;x
+d_sea_breeze_cove;Sea Breeze Cove;Sea Breeze Cove;Sea Breeze Cove;;Sea Breeze Cove;;;;;;;;;x
+d_sea_breeze_cove_adj;Sea Breeze Covean;;Sea Breeze Cover;;;;;;;;;;;x
+d_secret_seclusion;Secret Seclusion;Secret Seclusion;Secret Seclusion;;Secret Seclusion;;;;;;;;;x
+d_secret_seclusion_adj;Secret Seclusionian;;Secret Seclusioner;;;;;;;;;;;x
 d_shadowland;Shadowland;Shadowland;Shadowland;;Shadowland;;;;;;;;;x
 d_shadowland_adj;Shadowlandian;;shadowlander;;;;;;;;;;;x
 d_shifting_desert;Shifting Desert;Shifting Desert;Shifting Desert;;Shifting Desert;;;;;;;;;x
@@ -233,6 +271,8 @@ d_southern_dry_dry_desert;Southern Dry Dry Desert;Southern Dry Dry Desert;Southe
 d_southern_dry_dry_desert_adj;Southern Dry Dry Desertian;;Southern Dry Dry Deserter;;;;;;;;;;;x
 d_southern_jade_jungle;Southern Jade Jungle;Southern Jade Jungle;Southern Jade Jungle;;Southern Jade Jungle;;;;;;;;;x
 d_southern_jade_jungle_adj;Southern Jade Junglean;;Southern Jade Jungler;;;;;;;;;;;x
+d_southern_jewelry_islands;Southern Jewelry Islands;Southern Jewelry Islands;Southern Jewelry Islands;;Southern Jewelry Islands;;;;;;;;;x
+d_southern_jewelry_islands_adj;Southern Jewelry Islandsian;;Southern Jewelry Islandser;;;;;;;;;;;x
 d_southern_koopa_land;Southern Koopa Land;Southern Koopa Land;Southern Koopa Land;;Southern Koopa Land;;;;;;;;;x
 d_southern_koopa_land_adj;Southern Koopa Landian;;Southern Koopa Lander;;;;;;;;;;;x
 d_southern_mushroom_cape;Southern Mushroom Cape;Southern Mushroom Cape;Southern Mushroom Cape;;Southern Mushroom Cape;;;;;;;;;x
@@ -253,10 +293,14 @@ d_sudden_death_valley;Sudden Death Valley;Sudden Death Valley;Sudden Death Valle
 d_sudden_death_valley_adj;Sudden Death Valleian;;Sudden Death Valleer;;;;;;;;;;;x
 d_superstar;Superstar;Superstar;Superstar;;Superstar;;;;;;;;;x
 d_superstar_adj;Superstarian;;superstarer;;;;;;;;;;;x
+d_swinging_monkey;Swinging Monkey;Swinging Monkey;Swinging Monkey;;Swinging Monkey;;;;;;;;;x
+d_swinging_monkey_adj;Swinging Monkeian;;Swinging Monkeer;;;;;;;;;;;x
 d_the_eight_nations;The Eight Nations;The Eight Nations;The Eight Nations;;The Eight Nations;;;;;;;;;x
 d_the_eight_nations_adj;The Eight Nationsian;;The Eight Nationser;;;;;;;;;;;x
 d_the_lake_of_fire;The Lake of Fire;The Lake of Fire;The Lake of Fire;;The Lake of Fire;;;;;;;;;x
 d_the_lake_of_fire_adj;The Lake of Firean;;The Lake of Firer;;;;;;;;;;;x
+d_the_lost_world;The Lost World;The Lost World;The Lost World;;The Lost World;;;;;;;;;x
+d_the_lost_world_adj;The Lost Worldian;;The Lost Worlder;;;;;;;;;;;x
 d_thwomp_desert;Thwomp Desert;Thwomp Desert;Thwomp Desert;;Thwomp Desert;;;;;;;;;x
 d_thwomp_desert_adj;Thwomp Desertian;;Thwomp Deserter;;;;;;;;;;;x
 d_thwomp_land;Thwomp Land;Thwomp Land;Thwomp Land;;Thwomp Land;;;;;;;;;x
@@ -265,12 +309,18 @@ d_timber_island;Timber Island;Timber Island;Timber Island;;Timber Island;;;;;;;;
 d_timber_island_adj;Timber Islandian;;Timber Islander;;;;;;;;;;;x
 d_toad_cove;Toad Cove;Toad Cove;Toad Cove;;Toad Cove;;;;;;;;;x
 d_toad_cove_adj;Toad Covean;;Toad Cover;;;;;;;;;;;x
-d_toadwood;Toadwood;Toadwood;Toadwood;;Toadwood;;;;;;;;;x
-d_toadwood_adj;Toadwoodian;;toadwooder;;;;;;;;;;;x
+d_toad_jams;Toad Jams;Toad Jams;Toad Jams;;Toad Jams;;;;;;;;;x
+d_toad_jams_adj;Toad Jamsian;;Toad Jamser;;;;;;;;;;;x
+d_toad_throat;Toad Throat;Toad Throat;Toad Throat;;Toad Throat;;;;;;;;;x
+d_toad_throat_adj;Toad Throatian;;Toad Throater;;;;;;;;;;;x
+d_toadheart;Toadheart;Toadheart;Toadheart;;Toadheart;;;;;;;;;x
+d_toadheart_adj;Toadheartian;;toadhearter;;;;;;;;;;;x
+d_toads_cove;Toad's Cove;Toad's Cove;Toad's Cove;;Toad's Cove;;;;;;;;;x
+d_toads_cove_adj;Toads Covean;;Toad's Cover;;;;;;;;;;;x
+d_toads_misery;Toad's Misery;Toad's Misery;Toad's Misery;;Toad's Misery;;;;;;;;;x
+d_toads_misery_adj;Toads Miserian;;Toad's Miserer;;;;;;;;;;;x
 d_traitors_bay;Traitor's Bay;Traitor's Bay;Traitor's Bay;;Traitor's Bay;;;;;;;;;x
 d_traitors_bay_adj;Traitors Baian;;Traitor's Baer;;;;;;;;;;;x
-d_tropical_freeze_islands;Tropical Freeze Islands;Tropical Freeze Islands;Tropical Freeze Islands;;Tropical Freeze Islands;;;;;;;;;x
-d_tropical_freeze_islands_adj;Tropical Freeze Islandsian;;Tropical Freeze Islandser;;;;;;;;;;;x
 d_turtle_islands;Turtle Islands;Turtle Islands;Turtle Islands;;Turtle Islands;;;;;;;;;x
 d_turtle_islands_adj;Turtle Islandsian;;Turtle Islandser;;;;;;;;;;;x
 d_twin_fishes;Twin Fishes;Twin Fishes;Twin Fishes;;Twin Fishes;;;;;;;;;x

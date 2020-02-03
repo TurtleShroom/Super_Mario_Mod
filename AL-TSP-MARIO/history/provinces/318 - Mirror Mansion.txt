@@ -4,15 +4,9 @@
 title = c_mirror_mansion
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_mirror_mansion = castle
-#b_mirror_mansion_2 = city
-#b_mirror_mansion_3 = temple
-#b_mirror_mansion_4 = castle
-#b_mirror_mansion_5 = city
-#b_mirror_mansion_6 = temple
-#b_mirror_mansion_7 = castle
 
 # Misc
 culture = pirate

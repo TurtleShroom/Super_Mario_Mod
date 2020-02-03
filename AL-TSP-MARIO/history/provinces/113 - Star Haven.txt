@@ -4,15 +4,9 @@
 title = c_star_haven
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_star_haven = castle
-#b_star_haven_2 = city
-#b_star_haven_3 = temple
-#b_star_haven_4 = castle
-#b_star_haven_5 = city
-#b_star_haven_6 = temple
-#b_star_haven_7 = castle
 
 # Misc
 culture = pirate

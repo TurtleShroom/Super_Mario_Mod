@@ -4,15 +4,9 @@
 title = c_banshee_swamp
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_banshee_swamp = castle
-#b_banshee_swamp_2 = city
-#b_banshee_swamp_3 = temple
-#b_banshee_swamp_4 = castle
-#b_banshee_swamp_5 = city
-#b_banshee_swamp_6 = temple
-#b_banshee_swamp_7 = castle
 
 # Misc
 culture = pirate

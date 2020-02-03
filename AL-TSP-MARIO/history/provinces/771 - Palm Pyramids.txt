@@ -4,15 +4,9 @@
 title = c_palm_pyramids
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_palm_pyramids = castle
-#b_palm_pyramids_2 = city
-#b_palm_pyramids_3 = temple
-#b_palm_pyramids_4 = castle
-#b_palm_pyramids_5 = city
-#b_palm_pyramids_6 = temple
-#b_palm_pyramids_7 = castle
 
 # Misc
 culture = birabuton

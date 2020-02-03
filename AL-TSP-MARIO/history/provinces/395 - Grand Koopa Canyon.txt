@@ -4,15 +4,9 @@
 title = c_grand_koopa_canyon
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_grand_koopa_canyon = castle
-#b_grand_koopa_canyon_2 = city
-#b_grand_koopa_canyon_3 = temple
-#b_grand_koopa_canyon_4 = castle
-#b_grand_koopa_canyon_5 = city
-#b_grand_koopa_canyon_6 = temple
-#b_grand_koopa_canyon_7 = castle
 
 # Misc
 culture = pirate

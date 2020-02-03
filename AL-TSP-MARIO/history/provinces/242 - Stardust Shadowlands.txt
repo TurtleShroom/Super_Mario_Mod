@@ -4,15 +4,9 @@
 title = c_stardust_shadowlands
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_stardust_shadowlands = castle
-#b_stardust_shadowlands_2 = city
-#b_stardust_shadowlands_3 = temple
-#b_stardust_shadowlands_4 = castle
-#b_stardust_shadowlands_5 = city
-#b_stardust_shadowlands_6 = temple
-#b_stardust_shadowlands_7 = castle
 
 # Misc
 culture = pirate

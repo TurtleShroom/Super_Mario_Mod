@@ -4,15 +4,9 @@
 title = c_sparkling_waters
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_sparkling_waters = castle
-#b_sparkling_waters_2 = city
-#b_sparkling_waters_3 = temple
-#b_sparkling_waters_4 = castle
-#b_sparkling_waters_5 = city
-#b_sparkling_waters_6 = temple
-#b_sparkling_waters_7 = castle
 
 # Misc
 culture = pirate

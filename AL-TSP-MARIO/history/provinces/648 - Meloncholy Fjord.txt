@@ -4,15 +4,9 @@
 title = c_meloncholy_fjord
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_meloncholy_fjord = castle
-#b_meloncholy_fjord_2 = city
-#b_meloncholy_fjord_3 = temple
-#b_meloncholy_fjord_4 = castle
-#b_meloncholy_fjord_5 = city
-#b_meloncholy_fjord_6 = temple
-#b_meloncholy_fjord_7 = castle
 
 # Misc
 culture = pirate

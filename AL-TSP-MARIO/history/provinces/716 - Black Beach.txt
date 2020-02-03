@@ -4,15 +4,9 @@
 title = c_black_beach
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_black_beach = castle
-#b_black_beach_2 = city
-#b_black_beach_3 = temple
-#b_black_beach_4 = castle
-#b_black_beach_5 = city
-#b_black_beach_6 = temple
-#b_black_beach_7 = castle
 
 # Misc
 culture = pirate

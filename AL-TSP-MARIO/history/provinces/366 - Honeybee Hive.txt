@@ -4,15 +4,9 @@
 title = c_honeybee_hive
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_honeybee_hive = castle
-#b_honeybee_hive_2 = city
-#b_honeybee_hive_3 = temple
-#b_honeybee_hive_4 = castle
-#b_honeybee_hive_5 = city
-#b_honeybee_hive_6 = temple
-#b_honeybee_hive_7 = castle
 
 # Misc
 culture = pirate

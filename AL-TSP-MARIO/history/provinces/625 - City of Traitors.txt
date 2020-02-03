@@ -4,15 +4,9 @@
 title = c_city_of_traitors
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_city_of_traitors = castle
-#b_city_of_traitors_2 = city
-#b_city_of_traitors_3 = temple
-#b_city_of_traitors_4 = castle
-#b_city_of_traitors_5 = city
-#b_city_of_traitors_6 = temple
-#b_city_of_traitors_7 = castle
 
 # Misc
 culture = pirate

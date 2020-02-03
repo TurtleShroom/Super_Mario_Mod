@@ -4,15 +4,9 @@
 title = c_vista_hill
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_vista_hill = castle
-#b_vista_hill_2 = city
-#b_vista_hill_3 = temple
-#b_vista_hill_4 = castle
-#b_vista_hill_5 = city
-#b_vista_hill_6 = temple
-#b_vista_hill_7 = castle
 
 # Misc
 culture = pirate

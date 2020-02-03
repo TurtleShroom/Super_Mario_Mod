@@ -1,10 +1,6 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 e_beanbean_empire;Beanbean Empire;Beanbean Empire;Beanbean Empire;;Beanbean Empire;;;;;;;;;x
 e_beanbean_empire_adj;Beanbean Empirean;;Beanbean Empirer;;;;;;;;;;;x
-e_donkey_kong_country;Donkey Kong Country;Donkey Kong Country;Donkey Kong Country;;Donkey Kong Country;;;;;;;;;x
-e_donkey_kong_country_adj;Donkey Kong Countrian;;Donkey Kong Countrer;;;;;;;;;;;x
-e_jewelry_land;Jewelry Land;Jewelry Land;Jewelry Land;;Jewelry Land;;;;;;;;;x
-e_jewelry_land_adj;Jewelry Landian;;Jewelry Lander;;;;;;;;;;;x
 e_mushroom_empire;Mushroom Empire;Mushroom Empire;Mushroom Empire;;Mushroom Empire;;;;;;;;;x
 e_mushroom_empire_adj;Mushroom Empirean;;Mushroom Empirer;;;;;;;;;;;x
 e_mushroom_ring;Mushroom Ring;Mushroom Ring;Mushroom Ring;;Mushroom Ring;;;;;;;;;x
@@ -13,6 +9,8 @@ e_mythis;Mythis;Mythis;Mythis;;Mythis;;;;;;;;;x
 e_mythis_adj;Mythisian;;mythiser;;;;;;;;;;;x
 e_piillo_island;Pi'illo Island;Pi'illo Island;Pi'illo Island;;Pi'illo Island;;;;;;;;;x
 e_piillo_island_adj;Pi'illo Islandian;;Pi'illo Islander;;;;;;;;;;;x
+e_rare_country;Rare Country;Rare Country;Rare Country;;Rare Country;;;;;;;;;x
+e_rare_country_adj;Rare Countrian;;Rare Countrer;;;;;;;;;;;x
 e_sarasaland;Sarasaland;Sarasaland;Sarasaland;;Sarasaland;;;;;;;;;x
 e_sarasaland_adj;Sarasalandian;;sarasalander;;;;;;;;;;;x
 e_sprixieland;Sprixieland;Sprixieland;Sprixieland;;Sprixieland;;;;;;;;;x
@@ -25,5 +23,5 @@ e_the_sun;The Sun;The Sun;The Sun;;The Sun;;;;;;;;;x
 e_the_sun_adj;The Sunian;;The Suner;;;;;;;;;;;x
 e_umbrosa;Umbrosa;Umbrosa;Umbrosa;;Umbrosa;;;;;;;;;x
 e_umbrosa_adj;Umbrosan;;umbroser;;;;;;;;;;;x
-e_yoshi_kingdom;Yoshi Kingdom;Yoshi Kingdom;Yoshi Kingdom;;Yoshi Kingdom;;;;;;;;;x
-e_yoshi_kingdom_adj;Yoshi Kingdomian;;Yoshi Kingdomer;;;;;;;;;;;x
+e_yoshi_world;Yoshi World;Yoshi World;Yoshi World;;Yoshi World;;;;;;;;;x
+e_yoshi_world_adj;Yoshi Worldian;;Yoshi Worlder;;;;;;;;;;;x

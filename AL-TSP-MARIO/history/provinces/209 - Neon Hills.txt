@@ -4,15 +4,9 @@
 title = c_neon_hills
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_neon_hills = castle
-#b_neon_hills_2 = city
-#b_neon_hills_3 = temple
-#b_neon_hills_4 = castle
-#b_neon_hills_5 = city
-#b_neon_hills_6 = temple
-#b_neon_hills_7 = castle
 
 # Misc
 culture = pirate

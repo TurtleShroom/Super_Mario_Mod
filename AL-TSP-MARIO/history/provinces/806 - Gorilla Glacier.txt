@@ -4,15 +4,9 @@
 title = c_gorilla_glacier
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_gorilla_glacier = castle
-#b_gorilla_glacier_2 = city
-#b_gorilla_glacier_3 = temple
-#b_gorilla_glacier_4 = castle
-#b_gorilla_glacier_5 = city
-#b_gorilla_glacier_6 = temple
-#b_gorilla_glacier_7 = castle
 
 # Misc
 culture = pirate

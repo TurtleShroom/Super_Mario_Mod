@@ -4,15 +4,9 @@
 title = c_habanero_harbour
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_habanero_harbour = castle
-#b_habanero_harbour_2 = city
-#b_habanero_harbour_3 = temple
-#b_habanero_harbour_4 = castle
-#b_habanero_harbour_5 = city
-#b_habanero_harbour_6 = temple
-#b_habanero_harbour_7 = castle
 
 # Misc
 culture = jellyfish_islands

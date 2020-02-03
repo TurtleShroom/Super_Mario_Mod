@@ -4,15 +4,9 @@
 title = c_sulpher_fields
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_sulpher_fields = castle
-#b_sulpher_fields_2 = city
-#b_sulpher_fields_3 = temple
-#b_sulpher_fields_4 = castle
-#b_sulpher_fields_5 = city
-#b_sulpher_fields_6 = temple
-#b_sulpher_fields_7 = castle
 
 # Misc
 culture = pirate

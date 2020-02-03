@@ -4,15 +4,9 @@
 title = c_steel_cliffs
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_steel_cliffs = castle
-#b_steel_cliffs_2 = city
-#b_steel_cliffs_3 = temple
-#b_steel_cliffs_4 = castle
-#b_steel_cliffs_5 = city
-#b_steel_cliffs_6 = temple
-#b_steel_cliffs_7 = castle
 
 # Misc
 culture = pirate

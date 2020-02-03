@@ -4,15 +4,9 @@
 title = c_icepeak
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_icepeak = castle
-#b_icepeak_2 = city
-#b_icepeak_3 = temple
-#b_icepeak_4 = castle
-#b_icepeak_5 = city
-#b_icepeak_6 = temple
-#b_icepeak_7 = castle
 
 # Misc
 culture = pirate

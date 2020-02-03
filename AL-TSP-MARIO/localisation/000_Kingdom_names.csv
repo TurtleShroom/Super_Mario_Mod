@@ -21,8 +21,6 @@ k_diamond_land;Diamond Land;Diamond Land;Diamond Land;;Diamond Land;;;;;;;;;x
 k_diamond_land_adj;Diamond Landian;;Diamond Lander;;;;;;;;;;;x
 k_dinosaur_island;Dinosaur Island;Dinosaur Island;Dinosaur Island;;Dinosaur Island;;;;;;;;;x
 k_dinosaur_island_adj;Dinosaur Islandian;;Dinosaur Islander;;;;;;;;;;;x
-k_donkey_kong_kingdom;Donkey Kong Kingdom;Donkey Kong Kingdom;Donkey Kong Kingdom;;Donkey Kong Kingdom;;;;;;;;;x
-k_donkey_kong_kingdom_adj;Donkey Kong Kingdomian;;Donkey Kong Kingdomer;;;;;;;;;;;x
 k_dry_dry_desert;Dry Dry Desert;Dry Dry Desert;Dry Dry Desert;;Dry Dry Desert;;;;;;;;;x
 k_dry_dry_desert_adj;Dry Dry Desertian;;Dry Dry Deserter;;;;;;;;;;;x
 k_eastern_mushroomland;Eastern Mushroomland;Eastern Mushroomland;Eastern Mushroomland;;Eastern Mushroomland;;;;;;;;;x
@@ -47,6 +45,8 @@ k_jewelry_land;Jewelry Land;Jewelry Land;Jewelry Land;;Jewelry Land;;;;;;;;;x
 k_jewelry_land_adj;Jewelry Landian;;Jewelry Lander;;;;;;;;;;;x
 k_kitchen_island;Kitchen Island;Kitchen Island;Kitchen Island;;Kitchen Island;;;;;;;;;x
 k_kitchen_island_adj;Kitchen Islandian;;Kitchen Islander;;;;;;;;;;;x
+k_kong_isle;Kong Isle;Kong Isle;Kong Isle;;Kong Isle;;;;;;;;;x
+k_kong_isle_adj;Kong Islean;;Kong Isler;;;;;;;;;;;x
 k_lavalava_island;Lavalava Island;Lavalava Island;Lavalava Island;;Lavalava Island;;;;;;;;;x
 k_lavalava_island_adj;Lavalava Islandian;;Lavalava Islander;;;;;;;;;;;x
 k_mario_land;Mario Land;Mario Land;Mario Land;;Mario Land;;;;;;;;;x
@@ -83,8 +83,8 @@ k_the_wild_west;The Wild West;The Wild West;The Wild West;;The Wild West;;;;;;;;
 k_the_wild_west_adj;The Wild Westian;;The Wild Wester;;;;;;;;;;;x
 k_timber_island;Timber Island;Timber Island;Timber Island;;Timber Island;;;;;;;;;x
 k_timber_island_adj;Timber Islandian;;Timber Islander;;;;;;;;;;;x
-k_toadwood;Toadwood;Toadwood;Toadwood;;Toadwood;;;;;;;;;x
-k_toadwood_adj;Toadwoodian;;toadwooder;;;;;;;;;;;x
+k_toadwood_forest;Toadwood Forest;Toadwood Forest;Toadwood Forest;;Toadwood Forest;;;;;;;;;x
+k_toadwood_forest_adj;Toadwood Forestian;;Toadwood Forester;;;;;;;;;;;x
 k_tropical_freeze_islands;Tropical Freeze Islands;Tropical Freeze Islands;Tropical Freeze Islands;;Tropical Freeze Islands;;;;;;;;;x
 k_tropical_freeze_islands_adj;Tropical Freeze Islandsian;;Tropical Freeze Islandser;;;;;;;;;;;x
 k_turtle_islands;Turtle Islands;Turtle Islands;Turtle Islands;;Turtle Islands;;;;;;;;;x

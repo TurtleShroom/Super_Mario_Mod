@@ -4,15 +4,9 @@
 title = c_thickwood
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_thickwood = castle
-#b_thickwood_2 = city
-#b_thickwood_3 = temple
-#b_thickwood_4 = castle
-#b_thickwood_5 = city
-#b_thickwood_6 = temple
-#b_thickwood_7 = castle
 
 # Misc
 culture = pirate

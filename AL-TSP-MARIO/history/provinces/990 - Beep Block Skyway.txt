@@ -4,15 +4,9 @@
 title = c_beep_block_skyway
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_beep_block_skyway = castle
-#b_beep_block_skyway_2 = city
-#b_beep_block_skyway_3 = temple
-#b_beep_block_skyway_4 = castle
-#b_beep_block_skyway_5 = city
-#b_beep_block_skyway_6 = temple
-#b_beep_block_skyway_7 = castle
 
 # Misc
 culture = pirate

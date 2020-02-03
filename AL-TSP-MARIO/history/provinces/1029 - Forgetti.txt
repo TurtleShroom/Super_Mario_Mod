@@ -4,15 +4,9 @@
 title = c_forgetti
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_forgetti = castle
-#b_forgetti_2 = city
-#b_forgetti_3 = temple
-#b_forgetti_4 = castle
-#b_forgetti_5 = city
-#b_forgetti_6 = temple
-#b_forgetti_7 = castle
 
 # Misc
 culture = birabuton

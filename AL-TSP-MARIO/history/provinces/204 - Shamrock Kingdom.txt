@@ -4,15 +4,9 @@
 title = c_shamrock_kingdom
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_shamrock_kingdom = castle
-#b_shamrock_kingdom_2 = city
-#b_shamrock_kingdom_3 = temple
-#b_shamrock_kingdom_4 = castle
-#b_shamrock_kingdom_5 = city
-#b_shamrock_kingdom_6 = temple
-#b_shamrock_kingdom_7 = castle
 
 # Misc
 culture = pirate

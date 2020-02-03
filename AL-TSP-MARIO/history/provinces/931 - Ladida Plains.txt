@@ -4,15 +4,9 @@
 title = c_ladida_plains
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_ladida_plains = castle
-#b_ladida_plains_2 = city
-#b_ladida_plains_3 = temple
-#b_ladida_plains_4 = castle
-#b_ladida_plains_5 = city
-#b_ladida_plains_6 = temple
-#b_ladida_plains_7 = castle
 
 # Misc
 culture = pirate

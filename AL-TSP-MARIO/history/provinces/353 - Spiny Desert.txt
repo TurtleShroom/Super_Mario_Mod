@@ -4,15 +4,9 @@
 title = c_spiny_desert
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_spiny_desert = castle
-#b_spiny_desert_2 = city
-#b_spiny_desert_3 = temple
-#b_spiny_desert_4 = castle
-#b_spiny_desert_5 = city
-#b_spiny_desert_6 = temple
-#b_spiny_desert_7 = castle
 
 # Misc
 culture = pirate

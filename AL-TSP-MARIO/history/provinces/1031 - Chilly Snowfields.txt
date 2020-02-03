@@ -4,15 +4,9 @@
 title = c_chilly_snowfields
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_chilly_snowfields = castle
-#b_chilly_snowfields_2 = city
-#b_chilly_snowfields_3 = temple
-#b_chilly_snowfields_4 = castle
-#b_chilly_snowfields_5 = city
-#b_chilly_snowfields_6 = temple
-#b_chilly_snowfields_7 = castle
 
 # Misc
 culture = pirate

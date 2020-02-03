@@ -4,15 +4,9 @@
 title = c_marion
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_marion = castle
-#b_marion_2 = city
-#b_marion_3 = temple
-#b_marion_4 = castle
-#b_marion_5 = city
-#b_marion_6 = temple
-#b_marion_7 = castle
 
 # Misc
 culture = pirate

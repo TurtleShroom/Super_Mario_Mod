@@ -4,15 +4,9 @@
 title = c_salty_shore
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_salty_shore = castle
-#b_salty_shore_2 = city
-#b_salty_shore_3 = temple
-#b_salty_shore_4 = castle
-#b_salty_shore_5 = city
-#b_salty_shore_6 = temple
-#b_salty_shore_7 = castle
 
 # Misc
 culture = pirate

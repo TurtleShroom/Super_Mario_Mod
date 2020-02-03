@@ -4,15 +4,9 @@
 title = c_bamboo_forest
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_bamboo_forest = castle
-#b_bamboo_forest_2 = city
-#b_bamboo_forest_3 = temple
-#b_bamboo_forest_4 = castle
-#b_bamboo_forest_5 = city
-#b_bamboo_forest_6 = temple
-#b_bamboo_forest_7 = castle
 
 # Misc
 culture = chaian

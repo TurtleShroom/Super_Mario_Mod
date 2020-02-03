@@ -4,15 +4,9 @@
 title = c_georges_gorge
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_georges_gorge = castle
-#b_georges_gorge_2 = city
-#b_georges_gorge_3 = temple
-#b_georges_gorge_4 = castle
-#b_georges_gorge_5 = city
-#b_georges_gorge_6 = temple
-#b_georges_gorge_7 = castle
 
 # Misc
 culture = awazonian

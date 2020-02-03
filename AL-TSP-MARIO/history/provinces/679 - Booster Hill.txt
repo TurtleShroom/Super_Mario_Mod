@@ -4,15 +4,9 @@
 title = c_booster_hill
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_booster_hill = castle
-#b_booster_hill_2 = city
-#b_booster_hill_3 = temple
-#b_booster_hill_4 = castle
-#b_booster_hill_5 = city
-#b_booster_hill_6 = temple
-#b_booster_hill_7 = castle
 
 # Misc
 culture = pirate

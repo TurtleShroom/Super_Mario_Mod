@@ -4,15 +4,9 @@
 title = c_bald_mountain
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_bald_mountain = castle
-#b_bald_mountain_2 = city
-#b_bald_mountain_3 = temple
-#b_bald_mountain_4 = castle
-#b_bald_mountain_5 = city
-#b_bald_mountain_6 = temple
-#b_bald_mountain_7 = castle
 
 # Misc
 culture = birabuton

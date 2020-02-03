@@ -4,15 +4,9 @@
 title = c_asteriod_belt
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_asteriod_belt = castle
-#b_asteriod_belt_2 = city
-#b_asteriod_belt_3 = temple
-#b_asteriod_belt_4 = castle
-#b_asteriod_belt_5 = city
-#b_asteriod_belt_6 = temple
-#b_asteriod_belt_7 = castle
 
 # Misc
 culture = pirate

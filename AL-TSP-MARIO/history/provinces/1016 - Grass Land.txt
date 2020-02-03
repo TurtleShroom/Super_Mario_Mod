@@ -4,15 +4,9 @@
 title = c_grass_land
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_grass_land = castle
-#b_grass_land_2 = city
-#b_grass_land_3 = temple
-#b_grass_land_4 = castle
-#b_grass_land_5 = city
-#b_grass_land_6 = temple
-#b_grass_land_7 = castle
 
 # Misc
 culture = pirate

@@ -4,15 +4,9 @@
 title = c_chimewood
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_chimewood = castle
-#b_chimewood_2 = city
-#b_chimewood_3 = temple
-#b_chimewood_4 = castle
-#b_chimewood_5 = city
-#b_chimewood_6 = temple
-#b_chimewood_7 = castle
 
 # Misc
 culture = pirate

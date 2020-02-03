@@ -4,15 +4,9 @@
 title = c_rap_land
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_rap_land = castle
-#b_rap_land_2 = city
-#b_rap_land_3 = temple
-#b_rap_land_4 = castle
-#b_rap_land_5 = city
-#b_rap_land_6 = temple
-#b_rap_land_7 = castle
 
 # Misc
 culture = pirate
