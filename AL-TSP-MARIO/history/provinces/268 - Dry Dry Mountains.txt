@@ -11,5 +11,5 @@ b_dry_dry_mountains = castle
 # Misc
 culture = dryite
 religion = seven_stars
-
+terrain = mountain
 #History

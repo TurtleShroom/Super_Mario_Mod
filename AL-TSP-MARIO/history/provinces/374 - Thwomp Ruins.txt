@@ -11,5 +11,5 @@ b_thwomp_ruins = castle
 # Misc
 culture = dryite
 religion = seven_stars
-
+terrain = desert
 #History

@@ -11,5 +11,5 @@ b_silver_snow_peak = castle
 # Misc
 culture = kongobongo
 religion = seven_stars
-
+terrain = mountain
 #History

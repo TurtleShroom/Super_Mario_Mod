@@ -11,5 +11,5 @@ b_channel_sands = castle
 # Misc
 culture = pirate
 religion = seven_stars
-
+terrain = desert
 #History

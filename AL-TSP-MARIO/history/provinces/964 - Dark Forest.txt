@@ -11,5 +11,5 @@ b_dark_forest = castle
 # Misc
 culture = yoshi_island
 religion = seven_stars
-
+terrain = forest
 #History

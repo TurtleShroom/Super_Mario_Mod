@@ -11,5 +11,5 @@ b_el_desert_land = castle
 # Misc
 culture = pirate
 religion = seven_stars
-
+terrain = desert
 #History

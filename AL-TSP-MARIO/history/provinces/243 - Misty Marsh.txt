@@ -11,5 +11,5 @@ b_misty_marsh = castle
 # Misc
 culture = pirate
 religion = seven_stars
-
+terrain = marsh
 #History

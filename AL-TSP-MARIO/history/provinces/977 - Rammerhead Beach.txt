@@ -11,5 +11,5 @@ b_rammerhead_beach = castle
 # Misc
 culture = pirate
 religion = seven_stars
-
+terrain = arctic
 #History

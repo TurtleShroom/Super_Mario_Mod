@@ -11,5 +11,5 @@ b_chomp_pyramids = castle
 # Misc
 culture = pirate
 religion = seven_stars
-
+terrain = desert
 #History

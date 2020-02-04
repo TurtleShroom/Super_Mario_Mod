@@ -11,5 +11,5 @@ b_jeopardy_jungle = castle
 # Misc
 culture = kremling
 religion = seven_stars
-
+terrain = jungle
 #History

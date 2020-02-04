@@ -11,5 +11,5 @@ b_dusty_dunes = castle
 # Misc
 culture = pirate
 religion = seven_stars
-
+terrain = desert
 #History

@@ -11,5 +11,5 @@ b_cloud_bird_mountain = castle
 # Misc
 culture = pirate
 religion = seven_stars
-
+terrain = mountain
 #History

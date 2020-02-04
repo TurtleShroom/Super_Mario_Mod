@@ -11,5 +11,5 @@ b_desert_hills = castle
 # Misc
 culture = dryite
 religion = seven_stars
-
+terrain = hills
 #History

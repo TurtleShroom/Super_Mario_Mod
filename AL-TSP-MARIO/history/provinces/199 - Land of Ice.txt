@@ -11,5 +11,5 @@ b_land_of_ice = castle
 # Misc
 culture = pirate
 religion = seven_stars
-
+terrain = arctic
 #History

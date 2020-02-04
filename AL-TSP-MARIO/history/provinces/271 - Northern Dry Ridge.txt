@@ -11,5 +11,5 @@ b_northern_dry_ridge = castle
 # Misc
 culture = dryite
 religion = seven_stars
-
+terrain = mountain
 #History

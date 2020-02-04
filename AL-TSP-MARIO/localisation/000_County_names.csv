@@ -311,8 +311,6 @@ c_chilly_hills;Chilly Hills;Chilly Hills;Chilly Hills;;Chilly Hills;;;;;;;;;x
 c_chilly_hills_adj;Chilly Hillsian;;Chilly Hillser;;;;;;;;;;;x
 c_chilly_mountain;Chilly Mountain;Chilly Mountain;Chilly Mountain;;Chilly Mountain;;;;;;;;;x
 c_chilly_mountain_adj;Chilly Mountainian;;Chilly Mountainer;;;;;;;;;;;x
-c_chilly_snowfields;Chilly Snowfields;Chilly Snowfields;Chilly Snowfields;;Chilly Snowfields;;;;;;;;;x
-c_chilly_snowfields_adj;Chilly Snowfieldsian;;Chilly Snowfieldser;;;;;;;;;;;x
 c_chilly_waters;Chilly Waters;Chilly Waters;Chilly Waters;;Chilly Waters;;;;;;;;;x
 c_chilly_waters_adj;Chilly Watersian;;Chilly Waterser;;;;;;;;;;;x
 c_chimewood;Chimewood;Chimewood;Chimewood;;Chimewood;;;;;;;;;x
@@ -929,6 +927,8 @@ c_kalimari_desert;Kalimari Desert;Kalimari Desert;Kalimari Desert;;Kalimari Dese
 c_kalimari_desert_adj;Kalimari Desertian;;Kalimari Deserter;;;;;;;;;;;x
 c_kaos_kore;KAOS Kore;KAOS Kore;KAOS Kore;;KAOS Kore;;;;;;;;;x
 c_kaos_kore_adj;KAOS Korean;;KAOS Korer;;;;;;;;;;;x
+c_kappa_isle;Kappa Isle;Kappa Isle;Kappa Isle;;Kappa Isle;;;;;;;;;x
+c_kappa_isle_adj;Kappa Islean;;Kappa Isler;;;;;;;;;;;x
 c_keelhaul_key;Keelhaul Key;Keelhaul Key;Keelhaul Key;;Keelhaul Key;;;;;;;;;x
 c_keelhaul_key_adj;Keelhaul Keian;;Keelhaul Keer;;;;;;;;;;;x
 c_kero_sewers;Kero Sewers;Kero Sewers;Kero Sewers;;Kero Sewers;;;;;;;;;x

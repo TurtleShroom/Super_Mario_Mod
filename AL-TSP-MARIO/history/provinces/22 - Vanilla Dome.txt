@@ -11,5 +11,5 @@ b_vanilla_dome = castle
 # Misc
 culture = pirate
 religion = seven_stars
-
+terrain = mountain
 #History

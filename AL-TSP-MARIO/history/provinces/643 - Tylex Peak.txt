@@ -11,5 +11,5 @@ b_tylex_peak = castle
 # Misc
 culture = pirate
 religion = seven_stars
-
+terrain = mountain
 #History

@@ -11,5 +11,5 @@ b_palm_pyramids = castle
 # Misc
 culture = birabuton
 religion = tennis_religion
-
+terrain = desert
 #History

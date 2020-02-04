@@ -11,5 +11,5 @@ b_hoohoo_mountain = castle
 # Misc
 culture = hoohooligan
 religion = seven_stars
-
+terrain = mountain
 #History

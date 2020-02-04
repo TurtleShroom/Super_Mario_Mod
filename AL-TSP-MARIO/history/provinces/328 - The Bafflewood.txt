@@ -11,5 +11,5 @@ b_the_bafflewood = castle
 # Misc
 culture = pirate
 religion = seven_stars
-
+terrain = woods
 #History

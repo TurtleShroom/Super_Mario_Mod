@@ -304,7 +304,7 @@ province;red;green;blue;x;x
 303;255;191;175;Yosu Lake;x
 304;255;201;175;Cloud-Bird Mountain;x
 305;255;211;175;Blaze Cave;x
-306;255;21;255;Ice Cave;x
+306;114;212;207;Ice Cave;x
 307;255;221;175;Cheep Cheep Waters;x
 308;255;231;175;Balloon Bridge;x
 309;255;241;175;Warios Garden;x
@@ -317,7 +317,7 @@ province;red;green;blue;x;x
 316;255;72;175;Wonky Circus;x
 317;255;82;175;Beanstalk Way;x
 318;255;92;175;Mirror Mansion;x
-319;255;240;175;Decalburg;x
+319;255;245;175;Decalburg;x
 320;255;250;175;Surfshine Harbor;x
 321;255;1;175;Warm Fuzzy Plains;x
 322;255;11;175;Bouquet Gardens;x
@@ -498,7 +498,7 @@ province;red;green;blue;x;x
 497;246;220;73;Ice Castle;x
 498;246;220;83;Ice Fortress;x
 499;246;220;93;Frigid Forest;x
-500;246;220;102;Ice Lake;x
+500;246;220;103;Ice Lake;x
 501;246;220;113;Thawed Hills;x
 502;246;220;123;Snowy Hills;x
 503;246;220;133;Icy Lake Fortress;x
@@ -1029,8 +1029,8 @@ province;red;green;blue;x;x
 1028;255;78;255;Autumn Fields;x
 1029;245;243;10;Forgetti;x
 1030;245;243;20;Bald Mountain;x
-1031;246;220;103;Chilly Snowfields;x
-1032;255;64;175;Whomps Forest;x
+1031;255;64;175;Whomps Forest;x
+1032;243;228;11;Kappa Isle;x
 1033;0;91;186;Lemon Soda Ocean Coast;x
 1034;10;91;186;Lemon Soda Ocean Trench;x
 1035;20;91;186;Yoshis Island Coast;x
@@ -1398,80 +1398,79 @@ province;red;green;blue;x;x
 1397;41;243;158;Fairy River #5;x
 1398;41;253;158;Fairy River #6;x
 1399;41;4;158;Fairy River #7;x
-1400;41;14;158;Fairy River #8;x
-1401;41;24;158;Yosu Rapids;x
-1402;41;34;158;Diamond River;x
-1403;41;0;158;Diamond River #2;x
-1404;44;0;244;Pacifica;x
-1405;44;10;244;Banana Bird Lake;x
-1406;44;20;244;Lake Orangatanga;x
-1407;44;30;244;Kremling Lake;x
-1408;44;40;244;Kremling Lake #2;x
-1409;44;50;244;Kremling Lake #3;x
-1410;44;60;244;Icy Lake;x
-1411;44;70;244;Lake Lodge;x
-1412;44;80;244;Roolenstein Lake;x
-1413;44;90;244;Kroc Pond;x
-1414;44;100;244;Miller Lake;x
-1415;44;110;244;Great Ape Lakes;x
-1416;44;120;244;Lake of the Vines;x
-1417;44;130;244;Crocodile Lake;x
-1418;44;140;244;Crocodile Lake #2;x
-1419;44;150;244;Crocodile Lake #3;x
-1420;44;160;244;Crocodile Lake #4;x
-1421;44;170;244;Crocodile Lake #5;x
-1422;44;180;244;Crocodile Lake #6;x
-1423;44;190;244;Upper Factory Lake;x
-1424;44;200;244;Lower Factory Lake;x
-1425;44;210;244;Timber Lake;x
-1426;44;220;244;Joy Lake;x
-1427;44;230;244;Lake of Fire;x
-1428;44;240;244;Big Moat;x
-1429;44;250;244;Rough Lake;x
-1430;44;1;244;Jungle Pond;x
-1431;44;11;244;Frozen Lake;x
-1432;44;21;244;Lethal Lava Land;x
-1433;44;31;244;Third Lake;x
-1434;44;41;244;Desert Oasis;x
-1435;44;51;244;Grassland Moat;x
-1436;44;61;244;Warm Fuzzy Lake;x
-1437;44;71;244;Damp Oasis;x
-1438;44;81;244;Gauntlet Pond;x
-1439;44;91;244;Strike Lake;x
-1440;44;101;244;Snowflake Lake;x
-1441;44;111;244;Chilly Lakes;x
-1442;44;121;244;Lake T;x
-1443;44;131;244;Yosu Lake;x
-1444;44;141;244;Cheep Cheep Lake;x
-1445;44;151;244;Park Lake;x
-1446;44;161;244;Boo Lake;x
-1447;44;171;244;Blubble Lake;x
-1448;44;181;244;Yoshi Lake;x
-1449;44;191;244;Turtleshell Lake;x
-1450;44;201;244;Soda Marsh;x
-1451;44;211;244;Fisheye Lake;x
-1452;44;221;244;Jade Jungle;x
-1453;44;231;244;Canyon Lake;x
-1454;44;241;244;Muda Lake;x
-1455;44;251;244;Awazon Basin;x
-1456;44;2;244;Yoshis Island Lake;x
-1457;44;12;244;Donut Lake;x
-1458;44;22;244;Soda Lake;x
-1459;44;32;244;Kettle Lake;x
-1460;44;42;244;Toadwood Lake;x
-1461;44;52;244;Turtle Bog;x
-1462;44;62;244;Mushroom Swamp;x
-1463;44;72;244;Royal Lake;x
-1464;44;82;244;Tadpole Pond;x
-1465;44;92;244;Mushroom Sea;x
-1466;44;102;244;Mushroom Sea #2;x
-1467;44;112;244;Mushroom Sea #3;x
-1468;44;122;244;Mushroom Sea #4;x
-1469;44;132;244;Mushroom Sea #5;x
-1470;44;142;244;Mushroom Sea #6;x
-1471;44;152;244;Mushroom Sea #7;x
-1472;44;162;244;Sulphur Lake;x
-1473;44;172;244;Guffawha Lake;x
-1474;44;182;244;Chucklehuck Lake;x
-1475;44;192;244;Oasis;x
-1476;44;202;244;Turtleshell Lake #2;x
+1400;41;14;158;Yosu Rapids;x
+1401;41;24;158;Diamond River;x
+1402;41;34;158;Diamond River #2;x
+1403;44;0;244;Pacifica;x
+1404;44;10;244;Banana Bird Lake;x
+1405;44;20;244;Lake Orangatanga;x
+1406;44;30;244;Kremling Lake;x
+1407;44;40;244;Kremling Lake #2;x
+1408;44;50;244;Kremling Lake #3;x
+1409;44;60;244;Icy Lake;x
+1410;44;70;244;Lake Lodge;x
+1411;44;80;244;Roolenstein Lake;x
+1412;44;90;244;Kroc Pond;x
+1413;44;100;244;Miller Lake;x
+1414;44;110;244;Great Ape Lakes;x
+1415;44;120;244;Lake of the Vines;x
+1416;44;130;244;Crocodile Lake;x
+1417;44;140;244;Crocodile Lake #2;x
+1418;44;150;244;Crocodile Lake #3;x
+1419;44;160;244;Crocodile Lake #4;x
+1420;44;170;244;Crocodile Lake #5;x
+1421;44;180;244;Crocodile Lake #6;x
+1422;44;190;244;Upper Factory Lake;x
+1423;44;200;244;Lower Factory Lake;x
+1424;44;210;244;Timber Lake;x
+1425;44;220;244;Joy Lake;x
+1426;44;230;244;Lake of Fire;x
+1427;44;240;244;Big Moat;x
+1428;44;250;244;Rough Lake;x
+1429;44;1;244;Jungle Pond;x
+1430;44;11;244;Frozen Lake;x
+1431;44;21;244;Lethal Lava Land;x
+1432;44;31;244;Third Lake;x
+1433;44;41;244;Desert Oasis;x
+1434;44;51;244;Grassland Moat;x
+1435;44;61;244;Warm Fuzzy Lake;x
+1436;44;71;244;Damp Oasis;x
+1437;44;81;244;Gauntlet Pond;x
+1438;44;91;244;Strike Lake;x
+1439;44;101;244;Snowflake Lake;x
+1440;44;111;244;Chilly Lakes;x
+1441;44;121;244;Lake T;x
+1442;44;131;244;Yosu Lake;x
+1443;44;141;244;Cheep Cheep Lake;x
+1444;44;151;244;Park Lake;x
+1445;44;161;244;Boo Lake;x
+1446;44;171;244;Blubble Lake;x
+1447;44;181;244;Yoshi Lake;x
+1448;44;191;244;Turtleshell Lake;x
+1449;44;201;244;Soda Marsh;x
+1450;44;211;244;Fisheye Lake;x
+1451;44;221;244;Jade Jungle;x
+1452;44;231;244;Canyon Lake;x
+1453;44;241;244;Muda Lake;x
+1454;44;251;244;Awazon Basin;x
+1455;44;2;244;Yoshis Island Lake;x
+1456;44;12;244;Donut Lake;x
+1457;44;22;244;Soda Lake;x
+1458;44;32;244;Kettle Lake;x
+1459;44;42;244;Toadwood Lake;x
+1460;44;52;244;Turtle Bog;x
+1461;44;62;244;Mushroom Swamp;x
+1462;44;72;244;Royal Lake;x
+1463;44;82;244;Tadpole Pond;x
+1464;44;92;244;Mushroom Sea;x
+1465;44;102;244;Mushroom Sea #2;x
+1466;44;112;244;Mushroom Sea #3;x
+1467;44;122;244;Mushroom Sea #4;x
+1468;44;132;244;Mushroom Sea #5;x
+1469;44;142;244;Mushroom Sea #6;x
+1470;44;152;244;Mushroom Sea #7;x
+1471;44;162;244;Sulphur Lake;x
+1472;44;172;244;Guffawha Lake;x
+1473;44;182;244;Chucklehuck Lake;x
+1474;44;192;244;Oasis;x
+1475;44;202;244;Turtleshell Lake #2;x

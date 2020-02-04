@@ -11,5 +11,5 @@ b_razor_ridge_2 = castle
 # Misc
 culture = kremling
 religion = seven_stars
-
+terrain = mountain
 #History

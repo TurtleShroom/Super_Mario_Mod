@@ -11,5 +11,5 @@ b_alpine_peak = castle
 # Misc
 culture = kremling
 religion = seven_stars
-
+terrain = mountain
 #History

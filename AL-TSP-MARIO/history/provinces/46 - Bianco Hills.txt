@@ -11,5 +11,5 @@ b_bianco_hills = castle
 # Misc
 culture = delfino
 religion = seven_stars
-
+terrain = hills
 #History

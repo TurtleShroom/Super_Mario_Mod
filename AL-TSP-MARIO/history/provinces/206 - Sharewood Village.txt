@@ -11,5 +11,5 @@ b_sharewood_village = castle
 # Misc
 culture = pirate
 religion = seven_stars
-
+terrain = forest
 #History

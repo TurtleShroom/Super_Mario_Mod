@@ -95,8 +95,12 @@ d_cloud_bird_mountain;Cloud-Bird Mountain;Cloud-Bird Mountain;Cloud-Bird Mountai
 d_cloud_bird_mountain_adj;Cloud-Bird Mountainian;;Cloud-Bird Mountainer;;;;;;;;;;;x
 d_cloud_nine;Cloud Nine;Cloud Nine;Cloud Nine;;Cloud Nine;;;;;;;;;x
 d_cloud_nine_adj;Cloud Ninean;;Cloud Niner;;;;;;;;;;;x
+d_coin_land;Coin Land;Coin Land;Coin Land;;Coin Land;;;;;;;;;x
+d_coin_land_adj;Coin Landian;;Coin Lander;;;;;;;;;;;x
 d_cold_river;Cold River;Cold River;Cold River;;Cold River;;;;;;;;;x
 d_cold_river_adj;Cold Riverian;;Cold Riverer;;;;;;;;;;;x
+d_cookie_land;Cookie Land;Cookie Land;Cookie Land;;Cookie Land;;;;;;;;;x
+d_cookie_land_adj;Cookie Landian;;Cookie Lander;;;;;;;;;;;x
 d_cookie_mountain;Cookie Mountain;Cookie Mountain;Cookie Mountain;;Cookie Mountain;;;;;;;;;x
 d_cookie_mountain_adj;Cookie Mountainian;;Cookie Mountainer;;;;;;;;;;;x
 d_cool_cool_mountain;Cool Cool Mountain;Cool Cool Mountain;Cool Cool Mountain;;Cool Cool Mountain;;;;;;;;;x
@@ -119,6 +123,8 @@ d_crownlands;Crownlands;Crownlands;Crownlands;;Crownlands;;;;;;;;;x
 d_crownlands_adj;Crownlandsian;;crownlandser;;;;;;;;;;;x
 d_daisyland;Daisyland;Daisyland;Daisyland;;Daisyland;;;;;;;;;x
 d_daisyland_adj;Daisylandian;;daisylander;;;;;;;;;;;x
+d_damp_oasis;Damp Oasis;Damp Oasis;Damp Oasis;;Damp Oasis;;;;;;;;;x
+d_damp_oasis_adj;Damp Oasisian;;Damp Oasiser;;;;;;;;;;;x
 d_dark_world;Dark World;Dark World;Dark World;;Dark World;;;;;;;;;x
 d_dark_world_adj;Dark Worldian;;Dark Worlder;;;;;;;;;;;x
 d_dawn;Dawn;Dawn;Dawn;;Dawn;;;;;;;;;x
@@ -151,8 +157,6 @@ d_eastern_awazon;Eastern Awazon;Eastern Awazon;Eastern Awazon;;Eastern Awazon;;;
 d_eastern_awazon_adj;Eastern Awazonian;;Eastern Awazoner;;;;;;;;;;;x
 d_eastern_mushroom_cape;Eastern  Mushroom Cape;Eastern  Mushroom Cape;Eastern  Mushroom Cape;;Eastern  Mushroom Cape;;;;;;;;;x
 d_eastern_mushroom_cape_adj;Eastern  Mushroom Capean;;Eastern  Mushroom Caper;;;;;;;;;;;x
-d_eastern_mushroomland;Eastern Mushroomland;Eastern Mushroomland;Eastern Mushroomland;;Eastern Mushroomland;;;;;;;;;x
-d_eastern_mushroomland_adj;Eastern Mushroomlandian;;Eastern Mushroomlander;;;;;;;;;;;x
 d_easton;Easton;Easton;Easton;;Easton;;;;;;;;;x
 d_easton_adj;Eastonian;;eastoner;;;;;;;;;;;x
 d_eel_islands;Eel Islands;Eel Islands;Eel Islands;;Eel Islands;;;;;;;;;x
@@ -197,6 +201,10 @@ d_grape;Grape;Grape;Grape;;Grape;;;;;;;;;x
 d_grape_adj;Grapean;;graper;;;;;;;;;;;x
 d_grass_land;Grass Land;Grass Land;Grass Land;;Grass Land;;;;;;;;;x
 d_grass_land_adj;Grass Landian;;Grass Lander;;;;;;;;;;;x
+d_grassy_fortress;Grassy Fortress;Grassy Fortress;Grassy Fortress;;Grassy Fortress;;;;;;;;;x
+d_grassy_fortress_adj;Grassy Fortressian;;Grassy Fortresser;;;;;;;;;;;x
+d_grassy_pipe_land;Grassy Pipe Land;Grassy Pipe Land;Grassy Pipe Land;;Grassy Pipe Land;;;;;;;;;x
+d_grassy_pipe_land_adj;Grassy Pipe Landian;;Grassy Pipe Lander;;;;;;;;;;;x
 d_great_ape_lake;Great Ape Lake;Great Ape Lake;Great Ape Lake;;Great Ape Lake;;;;;;;;;x
 d_great_ape_lake_adj;Great Ape Lakean;;Great Ape Laker;;;;;;;;;;;x
 d_greenhorn;Greenhorn;Greenhorn;Greenhorn;;Greenhorn;;;;;;;;;x
@@ -265,6 +273,8 @@ d_lemon;Lemon;Lemon;Lemon;;Lemon;;;;;;;;;x
 d_lemon_adj;Lemonian;;lemoner;;;;;;;;;;;x
 d_lethal_laval_land;Lethal Laval Land;Lethal Laval Land;Lethal Laval Land;;Lethal Laval Land;;;;;;;;;x
 d_lethal_laval_land_adj;Lethal Laval Landian;;Lethal Laval Lander;;;;;;;;;;;x
+d_linguine_land;Linguine Land;Linguine Land;Linguine Land;;Linguine Land;;;;;;;;;x
+d_linguine_land_adj;Linguine Landian;;Linguine Lander;;;;;;;;;;;x
 d_lucky_star;Lucky Star;Lucky Star;Lucky Star;;Lucky Star;;;;;;;;;x
 d_lucky_star_adj;Lucky Starian;;Lucky Starer;;;;;;;;;;;x
 d_luigi_land;Luigi Land;Luigi Land;Luigi Land;;Luigi Land;;;;;;;;;x
@@ -329,12 +339,12 @@ d_mushroom_woods;Mushroom Woods;Mushroom Woods;Mushroom Woods;;Mushroom Woods;;;
 d_mushroom_woods_adj;Mushroom Woodsian;;Mushroom Woodser;;;;;;;;;;;x
 d_mushroomland;Mushroomland;Mushroomland;Mushroomland;;Mushroomland;;;;;;;;;x
 d_mushroomland_adj;Mushroomlandian;;mushroomlander;;;;;;;;;;;x
-d_mythis;Mythis;Mythis;Mythis;;Mythis;;;;;;;;;x
-d_mythis_adj;Mythisian;;mythiser;;;;;;;;;;;x
 d_neo_bowser_city;Neo Bowser City;Neo Bowser City;Neo Bowser City;;Neo Bowser City;;;;;;;;;x
 d_neo_bowser_city_adj;Neo Bowser Citian;;Neo Bowser Citer;;;;;;;;;;;x
 d_neon_land;Neon Land;Neon Land;Neon Land;;Neon Land;;;;;;;;;x
 d_neon_land_adj;Neon Landian;;Neon Lander;;;;;;;;;;;x
+d_new_mushroomland;New Mushroomland;New Mushroomland;New Mushroomland;;New Mushroomland;;;;;;;;;x
+d_new_mushroomland_adj;New Mushroomlandian;;New Mushroomlander;;;;;;;;;;;x
 d_nightlight;Nightlight;Nightlight;Nightlight;;Nightlight;;;;;;;;;x
 d_nightlight_adj;Nightlightian;;nightlighter;;;;;;;;;;;x
 d_nimbus_land;Nimbus Land;Nimbus Land;Nimbus Land;;Nimbus Land;;;;;;;;;x
@@ -455,6 +465,8 @@ d_singing_grassland;Singing Grassland;Singing Grassland;Singing Grassland;;Singi
 d_singing_grassland_adj;Singing Grasslandian;;Singing Grasslander;;;;;;;;;;;x
 d_sirena;Sirena;Sirena;Sirena;;Sirena;;;;;;;;;x
 d_sirena_adj;Sirenan;;sirener;;;;;;;;;;;x
+d_sizzling_desert;Sizzling Desert;Sizzling Desert;Sizzling Desert;;Sizzling Desert;;;;;;;;;x
+d_sizzling_desert_adj;Sizzling Desertian;;Sizzling Deserter;;;;;;;;;;;x
 d_sky_high;Sky High;Sky High;Sky High;;Sky High;;;;;;;;;x
 d_sky_high_adj;Sky Highian;;Sky Higher;;;;;;;;;;;x
 d_sky_island;Sky Island;Sky Island;Sky Island;;Sky Island;;;;;;;;;x
@@ -593,14 +605,14 @@ d_west_coast;West Coast;West Coast;West Coast;;West Coast;;;;;;;;;x
 d_west_coast_adj;West Coastian;;West Coaster;;;;;;;;;;;x
 d_western_dry_dry_desert;Western Dry Dry Desert;Western Dry Dry Desert;Western Dry Dry Desert;;Western Dry Dry Desert;;;;;;;;;x
 d_western_dry_dry_desert_adj;Western Dry Dry Desertian;;Western Dry Dry Deserter;;;;;;;;;;;x
-d_western_mushroomland;Western Mushroomland;Western Mushroomland;Western Mushroomland;;Western Mushroomland;;;;;;;;;x
-d_western_mushroomland_adj;Western Mushroomlandian;;Western Mushroomlander;;;;;;;;;;;x
 d_windmills;Windmills;Windmills;Windmills;;Windmills;;;;;;;;;x
 d_windmills_adj;Windmillsian;;windmillser;;;;;;;;;;;x
 d_world_e;World-e;World-e;World-e;;World-e;;;;;;;;;x
 d_world_e_adj;World-ean;;world-er;;;;;;;;;;;x
 d_wunderland;Wunderland;Wunderland;Wunderland;;Wunderland;;;;;;;;;x
 d_wunderland_adj;Wunderlandian;;wunderlander;;;;;;;;;;;x
+d_yoshi_desert;Yoshi Desert;Yoshi Desert;Yoshi Desert;;Yoshi Desert;;;;;;;;;x
+d_yoshi_desert_adj;Yoshi Desertian;;Yoshi Deserter;;;;;;;;;;;x
 d_yoshi_lake;Yoshi Lake;Yoshi Lake;Yoshi Lake;;Yoshi Lake;;;;;;;;;x
 d_yoshi_lake_adj;Yoshi Lakean;;Yoshi Laker;;;;;;;;;;;x
 d_yoshi_land;Yoshi Land;Yoshi Land;Yoshi Land;;Yoshi Land;;;;;;;;;x

@@ -335,7 +335,7 @@ yoshi = {
 			#Non-canonical
 			Essence Gloria Pinky_Pink Joy Teal "Yellow-Orange"
 		}
-		from_dynasty_suffix = "shi"
+		from_dynasty_suffix = "shi "
 		grammar_transform = french
 		founder_named_dynasties = yes
 		modifier = default_culture_modifier
@@ -400,7 +400,7 @@ beanish_group = {
 		female_names = {
 			Bubbles Lima Vicia Cracella Pandalis Lugubrella Alcetas Amandus Flame Pastinum "Angle Shades" Colias Sinapis Nigricana Americana Benghalensis Caroliniana Cracca Ervilia Hassei Hirsuta Lathyroides Lutea Menziesia Pannonica Pyrenaica Sativa Sepia Sylvatica Tetrasperma Sparrow Villosa Winter Broad Bell Phaseolus Acutifolia Coccinea Scarlet  Multiflora Butter Fine Aconitifolia Moth Matki Adzuki Minumulu Vigna Bambara Pea Subterranea Umbellata Cowpea Unguiculata Sesquipedalis Bora Bodi Cicerea Chickpea Ceci Cece Chana Kabuli Arietinum Pisum Hyacinth Bonavista Egypt India Bataw Australia Glycine Soy Goa Manila Pigeon Mucuna Prurien Velvet Bengal Florida Yokohama Cowage Cowitch Lacuna Cyamopsis Guar Fasolada Kuru Fasulye Fasoulia Fagiolata Peanut Lupine_Lupin Canavalia Gladiata Canavalia Ricinus Coco
 		}
-		from_dynasty_suffix = "bean"
+		from_dynasty_suffix = "bean "
 		grammar_transform = french
 		founder_named_dynasties = yes
 		modifier = default_culture_modifier
@@ -427,7 +427,7 @@ beanish_group = {
 		female_names = {
 			Emma Ayn Liberty Antigone Millicent Soledad Valerie Victory Ron Morrigan Evie Adversa Anarchazelie Anemy Azelie Vanzetti Catalonia Decency Decency Discordia Dissidence Equality Inimica Libertine Messie Mononoke Nicola Sacco Rebel Sham Sinner Stza Valourie Voltairine X Brassens Sante Chernyi Czolgosz Alexandra_Alexander Durruti Ellul Fabbri Guardia Garcia Ursula "Le Guin" Louise_Louise Most Elisée_Elise Reclus Ferrua Marie-Christine  Marianne_Marie Jo Mira Amy Susan Jessie Rothstien Auca Sam Zabalaza  Ann Hansen Juliet Caroline Belmas Hannah Malatesta Lucy Parsons Flores Magón Práxedis Sostre Luisa Dumba Cindy Milstein Harsha Walia May Mujeres Creando María Galindo Mónica Mendoza Julieta Paredes Penina Pellicer Paraire Huang Xing He-Yin Zhen 
 		}
-		from_dynasty_prefix = "de "
+		from_dynasty_prefix = "hoo "
 		grammar_transform = french
 		founder_named_dynasties = yes
 		modifier = default_culture_modifier

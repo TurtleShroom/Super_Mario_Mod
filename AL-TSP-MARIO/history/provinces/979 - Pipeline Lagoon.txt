@@ -11,5 +11,5 @@ b_pipeline_lagoon = castle
 # Misc
 culture = pirate
 religion = seven_stars
-
+terrain = arctic
 #History

@@ -11,5 +11,5 @@ b_dry_dry_oasis = castle
 # Misc
 culture = dryite
 religion = seven_stars
-
+terrain = desert
 #History

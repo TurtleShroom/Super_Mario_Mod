@@ -9,7 +9,7 @@ max_settlements = 1
 b_woohoo_university = castle
 
 # Misc
-culture = pirate
+culture = beanbean_kingdom
 religion = seven_stars
 
 #History

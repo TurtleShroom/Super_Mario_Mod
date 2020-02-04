@@ -11,5 +11,5 @@ b_thwomp_foothills = castle
 # Misc
 culture = pirate
 religion = seven_stars
-
+terrain = hills
 #History

@@ -11,5 +11,5 @@ b_rock_rock_mountain = castle
 # Misc
 culture = pirate
 religion = seven_stars
-
+terrain = mountain
 #History

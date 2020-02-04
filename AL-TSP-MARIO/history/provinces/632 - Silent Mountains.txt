@@ -11,5 +11,5 @@ b_silent_mountains = castle
 # Misc
 culture = pirate
 religion = seven_stars
-
+terrain = mountain
 #History

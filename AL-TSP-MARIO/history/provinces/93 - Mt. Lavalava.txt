@@ -11,5 +11,5 @@ b_mt_lavalava = castle
 # Misc
 culture = lavalava
 religion = seven_stars
-
+terrain = mountain
 #History

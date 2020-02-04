@@ -11,5 +11,5 @@ b_forest_of_perpetual_night_and_terrible_dangers = castle
 # Misc
 culture = pirate
 religion = seven_stars
-
+terrain = forest
 #History

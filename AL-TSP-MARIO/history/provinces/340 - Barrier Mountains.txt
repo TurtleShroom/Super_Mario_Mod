@@ -11,5 +11,5 @@ b_barrier_mountains = castle
 # Misc
 culture = dryite
 religion = seven_stars
-
+terrain = mountain
 #History

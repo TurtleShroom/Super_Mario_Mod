@@ -11,5 +11,5 @@ b_shimmer_bank = castle
 # Misc
 culture = awazonian
 religion = tennis_religion
-
+terrain = jungle
 #History

@@ -11,5 +11,5 @@ b_west_forever_forest = castle
 # Misc
 culture = pirate
 religion = seven_stars
-
+terrain = forest
 #History

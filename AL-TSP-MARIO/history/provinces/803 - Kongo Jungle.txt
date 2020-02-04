@@ -11,5 +11,5 @@ b_kongo_jungle = castle
 # Misc
 culture = kongobongo
 religion = seven_stars
-
+terrain = jungle
 #History

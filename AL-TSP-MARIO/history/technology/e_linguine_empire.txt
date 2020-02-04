@@ -1,0 +1,37 @@
+#LINGUINE EMPIRE
+technology = {
+	titles = {
+		d_baseball_island
+		d_cheep_cheep_lake
+		d_cloud_bird_mountain
+		d_crime_land
+		d_decalburg
+		d_diamond_bay
+		d_fire_mountain
+		d_gauntlet_pond
+		d_greenhorn
+		d_jolly_land
+		d_leaflitter_inlet
+		d_linguine_land
+		d_mushroom_woods
+		d_rotunda_land
+		d_spooktastic_world
+		d_strike_lake
+		d_warm_fuzzy_lake
+		d_windmills
+		d_wunderland
+		d_yoshi_land
+		d_yosu_lake
+		d_youth_land
+	}
+	800 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

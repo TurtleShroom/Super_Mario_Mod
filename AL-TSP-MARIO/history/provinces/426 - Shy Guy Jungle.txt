@@ -11,5 +11,5 @@ b_shy_guy_jungle = castle
 # Misc
 culture = pirate
 religion = seven_stars
-
+terrain = jungle
 #History

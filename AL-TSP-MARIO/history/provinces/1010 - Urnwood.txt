@@ -11,5 +11,5 @@ b_urnwood = castle
 # Misc
 culture = pirate
 religion = seven_stars
-
+terrain = forest
 #History

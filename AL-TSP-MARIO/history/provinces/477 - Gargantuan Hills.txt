@@ -11,5 +11,5 @@ b_gargantuan_hills = castle
 # Misc
 culture = pirate
 religion = seven_stars
-
+terrain = hills
 #History

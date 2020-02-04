@@ -11,5 +11,5 @@ b_north_pole = castle
 # Misc
 culture = pirate
 religion = seven_stars
-
+terrain = arctic
 #History

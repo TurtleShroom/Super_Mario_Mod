@@ -11,5 +11,5 @@ b_razor_ridge = castle
 # Misc
 culture = pirate
 religion = seven_stars
-
+terrain = mountain
 #History

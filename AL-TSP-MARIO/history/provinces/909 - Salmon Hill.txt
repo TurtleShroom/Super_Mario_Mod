@@ -11,5 +11,5 @@ b_salmon_hill = castle
 # Misc
 culture = kremling
 religion = seven_stars
-
+terrain = hills
 #History

@@ -11,5 +11,5 @@ b_forgetti = castle
 # Misc
 culture = birabuton
 religion = tennis_religion
-
+terrain = desert
 #History

@@ -11,5 +11,5 @@ b_lower_awazon = castle
 # Misc
 culture = awazonian
 religion = tennis_religion
-
+terrain = jungle
 #History

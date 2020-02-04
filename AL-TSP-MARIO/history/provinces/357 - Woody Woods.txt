@@ -11,5 +11,5 @@ b_woody_woods = castle
 # Misc
 culture = pirate
 religion = seven_stars
-
+terrain = woods
 #History

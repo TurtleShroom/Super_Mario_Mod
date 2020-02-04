@@ -11,5 +11,5 @@ b_tiki_forest = castle
 # Misc
 culture = eastonese
 religion = tennis_religion
-
+terrain = forest
 #History
