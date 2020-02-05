@@ -5594,6 +5594,33 @@ e_rare_country = {
 				}
 			}
 		}
+		d_orange = {
+			color={ 247 113 5 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 818 province_id = 819 } }
+				}
+			}
+			capital = 818 # c_silver_snow_peak
+			
+			c_silver_snow_peak = { # 818
+				color={ 237 123 0 }
+				color2={ 255 255 255 }
+				
+				b_silver_snow_peak = {
+				}
+			}
+			c_sky_garden_2 = { # 819
+				color={ 237 123 10 }
+				color2={ 255 255 255 }
+				
+				b_sky_garden_2 = {
+				}
+			}
+		}
 		d_peach = {
 			color={ 243 193 15 }
 			color2={ 255 255 255 }
@@ -10686,14 +10713,14 @@ e_the_sun = {
 		capital = 85 # c_blood_orange_bay
 		culture = eel_islands
 		
-		d_orange = {
+		d_sweet = {
 			color={ 234 120 5 }
 			color2={ 255 255 255 }
 			
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 85 province_id = 86 province_id = 87 province_id = 818 province_id = 819 } }
+					any_demesne_province = { OR = { province_id = 85 province_id = 86 province_id = 87 } }
 				}
 			}
 			capital = 85 # c_blood_orange_bay
@@ -10710,20 +10737,6 @@ e_the_sun = {
 				color2={ 255 255 255 }
 				
 				b_grapefruit_harbor = {
-				}
-			}
-			c_silver_snow_peak = { # 818
-				color={ 237 123 0 }
-				color2={ 255 255 255 }
-				
-				b_silver_snow_peak = {
-				}
-			}
-			c_sky_garden_2 = { # 819
-				color={ 237 123 10 }
-				color2={ 255 255 255 }
-				
-				b_sky_garden_2 = {
 				}
 			}
 			c_sweet_orange_island = { # 86
