@@ -280,7 +280,7 @@ dryite_group = {
 	}
 
 	nomadimouse = {
-		graphical_cultures = { muslimgfx arabicgfx westerngfx frankishgfx
+		graphical_cultures = { muslimgfx arabicgfx westerngfx frankishgfx }
 
 		color = { 0.2 0.9 0.2 } # Same as Vanilla rendition Berber
 
@@ -971,15 +971,15 @@ twilighter_group = {
 			Eve
 
 			# made up filler
-			Luna Dusk Gothgf Victoria Ashley Dawn Raven_Raven Enoby_Ebony Ebony_Ebony Rose "Raven Way"_Raven Gilesbie Tara Theresa Eboby_Ebony Ebory_Ebony Enobby_Enoby Taebory_Tara Avada Marcelline Gotha Gloomer Gotha Twila_Twila Twyla_Twila Belle Bella Betty Buffy Alice Sam Hermione Gaz_Gazlene Gazlynn_Gazlene Gazelene Deb Dibra Tak Paramore Smaragdine Raven_Raven
+			Luna Dusk Goth Victoria Ashley Dawn Raven_Raven Enoby_Ebony Ebony_Ebony Rose "Raven Way"_Raven Gilesbie Tara Theresa Eboby_Ebony Ebory_Ebony Enobby_Enoby Taebory_Tara Avada Marcelline Gotha Gloomer Gotha Twila_Twila Twyla_Twila Belle Bella Betty Buffy Alice Sam Hermione Gaz_Gazlene Gazlynn_Gazlene Gazelene Deb Dibra Tak Paramore Smaragdine Raven_Raven
 		}
 
-		from_dynastry_suffix = "ly"
+		from_dynasty_suffix = "oth"
 		founder_named_dynasties = yes
 		disinherit_from_blinding = yes
 
 		female_patronym = "gf"
-		female_matronym = "gf"
+		male_patronym = "bf"
 	
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 0
@@ -1748,7 +1748,7 @@ koopa_group = {
 }
 
 kong_group = {
-		graphical_cultures = { frankishgfx }
+	graphical_cultures = { frankishgfx }
 
 		kongobongo = { #Make sure all names end with a "ee" sound
 			color = { 153 77 0 }
@@ -1777,7 +1777,7 @@ kong_group = {
 }
 
 kremling_group = {
-		graphical_cultures = { frankishgfx }
+	graphical_cultures = { frankishgfx }
 		
 		kremling = { #Make sure all names starts with a "k"
 			color = { 0 51 0 }
