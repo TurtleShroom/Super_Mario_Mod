@@ -280,7 +280,7 @@ dryite_group = {
 	}
 
 	nomadimouse = {
-		graphical_cultures = { muslimgfx arabicgfx westerngfx frankishgfx
+		graphical_cultures = { muslimgfx arabicgfx westerngfx frankishgfx }
 
 		color = { 0.2 0.9 0.2 } # Same as Vanilla rendition Berber
 
@@ -974,7 +974,7 @@ twilighter_group = {
 			Luna Dusk Gothgf Victoria Ashley Dawn Raven_Raven Enoby_Ebony Ebony_Ebony Rose "Raven Way"_Raven Gilesbie Tara Theresa Eboby_Ebony Ebory_Ebony Enobby_Enoby Taebory_Tara Avada Marcelline Gotha Gloomer Gotha Twila_Twila Twyla_Twila Belle Bella Betty Buffy Alice Sam Hermione Gaz_Gazlene Gazlynn_Gazlene Gazelene Deb Dibra Tak Paramore Smaragdine Raven_Raven
 		}
 
-		from_dynastry_suffix = "ly"
+		from_dynasty_suffix = "ly"
 		founder_named_dynasties = yes
 		disinherit_from_blinding = yes
 
@@ -1748,16 +1748,16 @@ koopa_group = {
 }
 
 kong_group = {
-		graphical_cultures = { frankishgfx }
+	graphical_cultures = { frankishgfx }
 
-		kongobongo = { #Make sure all names end with a "ee" sound
-			color = { 153 77 0 }
-			male_names = {
-				Donkey Diddy_Diddy Diddie_Diddy Lankey Cranky Funky Kiddy Swanky Bluster Chunky Hunky Tanky Clonky Stinky Rocky Rusty Lackey Eddy Kong "Jerry Lee"_Jared Lewis Jerry_Jared
-			}
-			female_names = {
-				Kay Candy Tiny Pretty Dixie Bratty Katty Trixie Roxy 
-			}
+	kongobongo = { #Make sure all names end with a "ee" sound
+		color = { 153 77 0 }
+		
+		male_names = {
+			Donkey Diddy_Diddy Diddie_Diddy Lankey Cranky Funky Kiddy Swanky Bluster Chunky Hunky Tanky Clonky Stinky Rocky Rusty Lackey Eddy Kong "Jerry Lee"_Jared Lewis Jerry_Jared
+		}
+		female_names = {
+			Kay Candy Tiny Pretty Dixie Bratty Katty Trixie Roxy 
 		}
 
 		from_dynasty_prefix = "ee "
@@ -1777,16 +1777,16 @@ kong_group = {
 }
 
 kremling_group = {
-		graphical_cultures = { frankishgfx }
+	graphical_cultures = { frankishgfx }
 		
-		kremling = { #Make sure all names starts with a "k"
-			color = { 0 51 0 }
-			male_names = {
-				Kieth Kuhrool Krusha Klump
-			}
-			female_names = {
-				Kalypso
-			}
+	kremling = { #Make sure all names starts with a "k"
+		color = { 0 51 0 }
+        
+		male_names = {
+			Kieth Kuhrool Krusha Klump
+		}
+		female_names = {
+			Kalypso
 		}
 
 		from_dynasty_prefix = "kae"
