@@ -1751,7 +1751,7 @@ kong_group = {
 	graphical_cultures = { frankishgfx }
 
 		kongobongo = { #Make sure all names end with a "ee" sound
-			color = { 153 77 0 }
+		color = { 153 77 0 }
 			male_names = {
 				Donkey Diddy_Diddy Diddie_Diddy Lankey Cranky Funky Kiddy Swanky Bluster Chunky Hunky Tanky Clonky Stinky Rocky Rusty Lackey Eddy Kong "Jerry Lee"_Jared Lewis Jerry_Jared
 			}
@@ -1780,7 +1780,7 @@ kremling_group = {
 	graphical_cultures = { frankishgfx }
 		
 		kremling = { #Make sure all names starts with a "k"
-			color = { 0 51 0 }
+		color = { 0 51 0 }
 			male_names = {
 				Kieth Kuhrool Krusha Klump
 			}
