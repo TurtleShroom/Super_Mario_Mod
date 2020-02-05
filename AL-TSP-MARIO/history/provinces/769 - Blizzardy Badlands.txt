@@ -11,5 +11,5 @@ b_blizzardy_badlands = castle
 # Misc
 culture = pirate
 religion = seven_stars
-
+terrain = arctic
 #History

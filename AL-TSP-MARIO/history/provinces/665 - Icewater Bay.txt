@@ -11,5 +11,5 @@ b_icewater_bay = castle
 # Misc
 culture = mushroom_kingdom
 religion = seven_stars
-
+terrain = arctic
 #History

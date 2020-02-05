@@ -11,5 +11,5 @@ b_sarasa_palace = castle
 # Misc
 culture = chaian
 religion = tennis_religion
-
+terrain = mountain
 #History
