@@ -1,0 +1,15 @@
+# c_hot_steamy_jungle
+
+# County Title
+title = c_hot_steamy_jungle
+
+# Settlements
+max_settlements = 1
+
+b_hot_steamy_jungle = castle
+
+# Misc
+culture = yoshi_island
+religion = seven_stars
+terrain = jungle
+#History

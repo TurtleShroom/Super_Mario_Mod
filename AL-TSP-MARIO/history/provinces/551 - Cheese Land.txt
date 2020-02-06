@@ -1,0 +1,15 @@
+# c_cheese_land
+
+# County Title
+title = c_cheese_land
+
+# Settlements
+max_settlements = 1
+
+b_cheese_land = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = desert
+#History

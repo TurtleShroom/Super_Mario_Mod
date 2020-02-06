@@ -1,0 +1,15 @@
+# c_bitter_cold_glacier
+
+# County Title
+title = c_bitter_cold_glacier
+
+# Settlements
+max_settlements = 1
+
+b_bitter_cold_glacier = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = arctic
+#History

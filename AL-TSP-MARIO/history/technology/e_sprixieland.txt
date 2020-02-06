@@ -1,0 +1,29 @@
+#SPRIXIELAND
+technology = {
+	titles = {
+		d_ant_islands
+		d_arid_islands
+		d_beanpole
+		d_bell
+		d_brolder_islands
+		d_canyon_islands
+		d_cloud_nine
+		d_frost_land
+		d_hisstocrat_island
+		d_marshmallow_land
+		d_midpoint
+		d_sand_land
+		d_sunshine
+		d_urbania
+	}
+	800 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

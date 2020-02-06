@@ -1,0 +1,15 @@
+# c_rolling_flats
+
+# County Title
+title = c_rolling_flats
+
+# Settlements
+max_settlements = 1
+
+b_rolling_flats = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

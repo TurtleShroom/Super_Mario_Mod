@@ -1,0 +1,60 @@
+#MUSHROOM RING
+technology = {
+	titles = {
+		d_anuran_coast
+		d_ash_land
+		d_beanbean_duchy
+		d_beanbean_fields
+		d_beanbean_islands
+		d_black_beach
+		d_booster_land
+		d_chucklehuck
+		d_counterbottom
+		d_countertop
+		d_crownlands
+		d_dawn
+		d_flame_land
+		d_frozen_turtle
+		d_highlands
+		d_hoohooligia
+		d_koopa_bay
+		d_lands_end
+		d_mario_land
+		d_mario_zones
+		d_marrymore
+		d_midas
+		d_mole_harbor
+		d_mole_mountains
+		d_monster_land
+		d_mushroom_mountains
+		d_mushroom_stairs
+		d_mushroom_tops
+		d_new_mushroomland
+		d_nimbus_land
+		d_rolling_rock
+		d_rose_land
+		d_salt_land
+		d_sandy_quartz
+		d_seaside
+		d_smugglers_bay
+		d_stardust
+		d_sulfur_land
+		d_the_barrel
+		d_the_gate
+		d_the_rockies
+		d_thunder
+		d_tranquility
+		d_vista_hill
+		d_yoster_island
+	}
+	800 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

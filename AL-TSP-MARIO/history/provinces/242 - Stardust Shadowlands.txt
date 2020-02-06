@@ -1,0 +1,15 @@
+# c_stardust_shadowlands
+
+# County Title
+title = c_stardust_shadowlands
+
+# Settlements
+max_settlements = 1
+
+b_stardust_shadowlands = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

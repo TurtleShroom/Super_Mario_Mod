@@ -1,0 +1,15 @@
+# c_dino_domain
+
+# County Title
+title = c_dino_domain
+
+# Settlements
+max_settlements = 1
+
+b_dino_domain = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

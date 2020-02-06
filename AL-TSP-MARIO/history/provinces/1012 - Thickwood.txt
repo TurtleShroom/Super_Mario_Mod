@@ -1,0 +1,15 @@
+# c_thickwood
+
+# County Title
+title = c_thickwood
+
+# Settlements
+max_settlements = 1
+
+b_thickwood = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = forest
+#History

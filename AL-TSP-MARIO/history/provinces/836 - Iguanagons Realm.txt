@@ -1,0 +1,15 @@
+# c_iguanagons_realm
+
+# County Title
+title = c_iguanagons_realm
+
+# Settlements
+max_settlements = 1
+
+b_iguanagons_realm = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

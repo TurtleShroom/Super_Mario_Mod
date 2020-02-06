@@ -1,0 +1,15 @@
+# c_shore_forest_maze
+
+# County Title
+title = c_shore_forest_maze
+
+# Settlements
+max_settlements = 1
+
+b_shore_forest_maze = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = forest
+#History

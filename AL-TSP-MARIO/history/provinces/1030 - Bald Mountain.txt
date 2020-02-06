@@ -1,0 +1,15 @@
+# c_bald_mountain
+
+# County Title
+title = c_bald_mountain
+
+# Settlements
+max_settlements = 1
+
+b_bald_mountain = castle
+
+# Misc
+culture = birabuton
+religion = tennis_religion
+terrain = mountain
+#History

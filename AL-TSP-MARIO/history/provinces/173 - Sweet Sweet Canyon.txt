@@ -4,15 +4,9 @@
 title = c_sweet_sweet_canyon
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_sweet_sweet_canyon = castle
-#b_sweet_sweet_canyon_2 = city
-#b_sweet_sweet_canyon_3 = temple
-#b_sweet_sweet_canyon_4 = castle
-#b_sweet_sweet_canyon_5 = city
-#b_sweet_sweet_canyon_6 = temple
-#b_sweet_sweet_canyon_7 = castle
 
 # Misc
 culture = pirate

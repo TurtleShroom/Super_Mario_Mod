@@ -1,0 +1,15 @@
+# c_gleam_glacier
+
+# County Title
+title = c_gleam_glacier
+
+# Settlements
+max_settlements = 1
+
+b_gleam_glacier = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

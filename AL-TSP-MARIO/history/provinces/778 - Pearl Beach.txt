@@ -1,0 +1,15 @@
+# c_pearl_beach
+
+# County Title
+title = c_pearl_beach
+
+# Settlements
+max_settlements = 1
+
+b_pearl_beach = castle
+
+# Misc
+culture = mudan
+religion = tennis_religion
+
+#History

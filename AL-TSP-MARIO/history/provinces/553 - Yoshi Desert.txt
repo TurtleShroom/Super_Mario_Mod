@@ -1,0 +1,15 @@
+# c_yoshi_desert
+
+# County Title
+title = c_yoshi_desert
+
+# Settlements
+max_settlements = 1
+
+b_yoshi_desert = castle
+
+# Misc
+culture = yoshi_island
+religion = seven_stars
+terrain = desert
+#History

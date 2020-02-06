@@ -1,4 +1,6 @@
-max_provinces = 1995
+max_provinces = 1476
+# stats:  1475 provinces
+# unused:
 definitions = "definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
@@ -14,28 +16,20 @@ region = "island_region.txt"
 geographical_region = "geographical_region.txt"
 static = "statics"
 seasons = "seasons.txt"
-
-# All traversable sea tiles
-sea_zones = { 1039 1046 }
-sea_zones = { 1048 1052 }
-sea_zones = { 1054 1094 }
-sea_zones = { 1094 1483 }
-
-# Non-accessible sea zones
-sea_zones = { 1047 1047 }
-sea_zones = { 1053 1053 }
-sea_zones = { 1095 1101 }
-
-
-ocean_region = {	# European Ocean
-	sea_zones = { 1 2 3 4 }
+externals = {
 }
 
+sea_zones = { 1033 1475 }
+
+ocean_region = {	# OCEAN
+	sea_zones = { 1 }
+}
 
 # Define which indices in trees.bmp palette which should count as trees for automatic terrain assignment
 tree = { 3 4 7 10 }
 
-major_rivers = { 1300 1483	}
-major_rivers = { 1486	}
-
-externals = { 1509 1510 1512 } # Silkroad Paths to china
+major_rivers = 
+{
+	# OCEAN
+	
+}

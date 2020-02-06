@@ -1,0 +1,15 @@
+# c_turtles_teeth
+
+# County Title
+title = c_turtles_teeth
+
+# Settlements
+max_settlements = 1
+
+b_turtles_teeth = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

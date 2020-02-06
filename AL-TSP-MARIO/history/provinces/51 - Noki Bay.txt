@@ -4,18 +4,12 @@
 title = c_noki_bay
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_noki_bay = castle
-#b_noki_bay_2 = city
-#b_noki_bay_3 = temple
-#b_noki_bay_4 = castle
-#b_noki_bay_5 = city
-#b_noki_bay_6 = temple
-#b_noki_bay_7 = castle
 
 # Misc
-culture = pirate
+culture = noki_bay
 religion = seven_stars
 
 #History

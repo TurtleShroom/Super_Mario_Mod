@@ -79,7 +79,6 @@ astrotheology = {
 		can_grant_divorce = yes
 		can_grant_claim = yes
 		priests_can_marry = no
-		can_hold_temples = no
 		female_temple_holders = yes
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		cousin_marriage = no
@@ -119,7 +118,6 @@ astrotheology = {
 		ai_convert_same_group = 2 #  always try to convert
 		ai_convert_other_group = 2 #  always try to convert
 		priests_can_marry = yes
-		can_hold_temples = no
 		female_temple_holders = yes
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		allow_looting = yes
@@ -132,10 +130,7 @@ astrotheology = {
 	}
 	
 	dark_star_faith = {
-		ai_peaceful = no
-
 		graphical_culture = westerngfx
-		hostile_within_group = yes
 
 		ai_convert_same_group = 2 #  always try to convert
 		ai_convert_other_group = 2 #  always try to convert
@@ -171,7 +166,6 @@ astrotheology = {
 		intermarry = witchcraft
 		
 		priests_can_marry = no
-		can_hold_temples = no
 		female_temple_holders = yes
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		allow_looting = yes
@@ -215,7 +209,6 @@ astrotheology = {
 		intermarry = tennis_group
 		
 		priests_can_marry = yes
-		can_hold_temples = no
 		female_temple_holders = yes
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		cousin_marriage = no
@@ -258,7 +251,6 @@ astrotheology = {
 		intermarry = tennis_group
 		
 		priests_can_marry = no
-		can_hold_temples = no
 		female_temple_holders = yes
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		attacking_same_religion_piety_loss = yes
@@ -311,7 +303,6 @@ astrotheology = {
 		can_call_crusade = yes
 		priests_can_marry = yes
 		priests_can_inherit = no
-		can_hold_temples = no
 		female_temple_holders = yes
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		peace_piety_gain = 0.2
@@ -359,7 +350,6 @@ astrotheology = {
 		can_grant_claim = yes
 		priests_can_marry = yes
 		priests_can_inherit = no
-		can_hold_temples = no
 		female_temple_holders = yes
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		peace_prestige_loss = yes
@@ -387,19 +377,9 @@ pagan_group = {
 	graphical_culture = westerngfx
 	crusade_cb = crusade
 	playable = yes
-	ai_peaceful = no # Will make Hordes lose their super aggressiveness
 	
 	ai_convert_same_group = 2 # always try to convert
 	ai_convert_other_group = 2 # always try to convert
-	
-	# Names given only to dogmatic characters (base names)
-
-	male_names = {
-		
-	}
-	female_names = {
-		
-	}
 
 	dryite_pagan_reformed = {
 		graphical_culture = muslimgfx 
@@ -427,12 +407,9 @@ pagan_group = {
 		
 		max_wives = 3
 		
-		feminist = no
 		allow_looting = yes
 		attacking_same_religion_piety_loss = yes
-		can_grant_claims = yes
 		uses_jizya_tax = yes
-		female_temple_holders = no
 		priests_can_marry = yes
 		priests_can_inherit = no
 		
@@ -473,13 +450,9 @@ pagan_group = {
 		
 		max_wives = 3
 		
-		feminist = no
 		allow_looting = yes
 		attacking_same_religion_piety_loss = yes
-		can_grant_claims = yes
 		uses_jizya_tax = yes
-		female_temple_holders = no
-		feminist = no
 		priests_can_marry = no
 		priests_can_inherit = no
 		
@@ -503,8 +476,6 @@ pagan_group = {
 		
 		color = { 206 97 57 }
 		
-		parent = dryite_pagan_reformed
-		
 		crusade_name = PACIFICATION
 		scripture_name = OIL_LAMP_MAINTENANCE
 		priest_title = IMAMAMIA
@@ -523,11 +494,7 @@ pagan_group = {
 		
 		max_wives = 3
 		
-		feminist = yes
 		attacking_same_religion_piety_loss = yes
-		can_grant_claims = yes
-		uses_jizya_tax = no
-		female_temple_holders = no
 		feminist = yes
 		priests_can_marry = yes
 		priests_can_inherit = no
@@ -571,7 +538,6 @@ pagan_group = {
 		
 		max_consorts = 3
 		
-		feminist = yes
 		allow_looting = yes
 		attacking_same_religion_piety_loss = yes
 		female_temple_holders = yes
@@ -616,7 +582,6 @@ pagan_group = {
 		
 		max_consorts = 3
 		
-		feminist = yes
 		allow_looting = yes
 		attacking_same_religion_piety_loss = yes
 		female_temple_holders = yes
@@ -660,7 +625,6 @@ pagan_group = {
 		
 		max_consorts = 3
 		
-		feminist = yes
 		allow_looting = yes
 		attacking_same_religion_piety_loss = yes
 		female_temple_holders = yes
@@ -733,15 +697,6 @@ dogmatic = {
 	
 	ai_convert_same_group = 1 # always try to convert
 	ai_convert_other_group = 1 # always try to convert
-	
-	# Names given only to dogmatic characters (base names)
-	
-	male_names = {
-		
-	}
-	female_names = {
-		
-	}
 
 	happiness = {
 		graphical_culture = westerngfx
@@ -772,7 +727,6 @@ dogmatic = {
 		
 		aggression = 0.25
 		priests_can_marry = no
-		can_hold_temples = no
 		female_temple_holders = yes
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		pacifist =  yes
@@ -819,14 +773,12 @@ dogmatic = {
 			CONFORMITY SADNESS
 		}
 		
-		aggression = 0.50
-		ambition = 0.75
 		landed_kin_prestige_bonus = yes
 		priests_can_marry = yes
 		female_temple_holders = yes
 		feminist = yes
 		ignores_defensive_attrition = yes
-		can_retire_to_monastary = yes
+		can_retire_to_monastery = yes
 		
 		hard_to_convert = yes
 		
@@ -867,7 +819,6 @@ dogmatic = {
 		
 		aggression = 0.70
 		priests_can_marry = no
-		can_hold_temples = no
 		female_temple_holders = yes
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		pacifist =  yes
@@ -887,12 +838,60 @@ dogmatic = {
 	}
 }
 
+tennis_group = {
+	has_coa_on_barony_only = yes
+	graphical_culture = westerngfx
+	crusade_cb = crusade
+	playable = yes
+
+	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
+	ai_convert_same_group = 2 # always convert
+	ai_convert_other_group = 1 # only convert if AI_ZEAL is high
+
+	tennis_religion = { # Baskism - name, features, etc. etc. courtesy of Empoleon and friends, pending
+		graphical_culture = westerngfx
+		
+		icon = 5
+		heresy_icon = 5
+
+		color = { 198 237 44 }
+
+		crusade_name = PACIFICATION
+		scripture_name = RULES_OF_ASTER
+		priest_title = PRIEST
+
+		high_god_name = GOD_ASTER
+
+		god_names = {
+			GOD_ASTER GOD_TENNIS GOD_THE_PERFECT_BODY PROPHET_KING_BASK
+		}
+
+		evil_god_names = {
+			LUCIEN CHEATING BOWSER BOWCIEN TATANGA WALUIGI_TIME
+		}
+
+		character_modifier = {
+			martial = 2
+			intrigue = -3
+		}
+
+		piety_name = STRENGTH
+
+		priests_can_marry = no
+		priests_can_inherit = no
+		female_temple_holders = yes
+		feminist = yes
+
+		religious_clothing_head = 6
+		religious_clothing_priest = 10
+	}
+}
+
 outlaw = {
 	has_coa_on_barony_only = yes
 	graphical_culture = westerngfx
 	crusade_cb = crusade
 	playable = yes
-	ai_peaceful = no # Will make Hordes lose their super aggressiveness
 
 	ai_convert_same_group = 2 # Will try to convert
 	ai_convert_other_group = 1 #  try to convert if ai_zeal is high
@@ -925,13 +924,11 @@ outlaw = {
 			stewardship = 3
 			diplomacy = -2
 			global_tax_modifier = 0.1
-			ai_greed = 100
 		}
 		
 		piety_name = ENVY
 		priests_can_marry = yes
 		priests_can_inherit = yes
-		can_hold_temples = yes # Greed ideologies do not have temples or clergy
 		female_temple_holders = yes
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		allow_looting = yes
@@ -980,16 +977,14 @@ outlaw = {
 		evil_god_names = {
 			BANKRUPTCY CHEATING
 		}
+		
 		character_modifier = {
 			global_tax_modifier = -0.05
-			ai_greed = 500
 		}
 		
 		piety_name = LUCK
 		priests_can_marry = yes
 		priests_can_inherit = no # Private sector
-		female_temple_holders = no # No casino in any Mario game has ever been run by or hosted by a female
-#		can_hold_temples = yes # Temples replaced with casinoes
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		raised_vassal_opinion_loss = no
 		
@@ -1037,7 +1032,6 @@ outlaw = {
 		priests_can_marry = yes
 		priests_can_inherit = yes
 		female_temple_holders = yes
-		can_hold_temples = yes
 		feminist = yes
 		defensive_attrition = yes
 		peace_prestige_loss = yes
@@ -1081,19 +1075,16 @@ outlaw = {
 		evil_god_names = {
 			BANKRUPTCY DA_POPO BETRAYAL THE_POLICE
 		}
+		
 		character_modifier = {
 			stewardship = 3
 			diplomacy = -2
 			global_tax_modifier = 0.1
-			ai_greed = 50
 		}
 		
 		piety_name = ENVY
 		priests_can_marry = yes
 		priests_can_inherit = yes
-		can_hold_temples = yes
-		female_temple_holders = no
-		feminist = no
 		allow_looting = yes
 		raised_vassal_opinion_loss = no
 		uses_jizya_tax = yes # protection rackets
@@ -1123,7 +1114,7 @@ outlaw = {
 
 		parent = tennis_religion # Shout out to Iustinius and friends for pointing out that heresies can be in other groups
 
-		color = { 95, 29, 163 }
+		color = { 95 29 163 }
 
 		crusade_name = ACQUISITION
 		scripture_name = THE_WAHELEGY
@@ -1143,16 +1134,12 @@ outlaw = {
 			intrigue = 4
 			martial = -3
 			learning = 1
-			ai_honor = -30
-			ai_greed = 10
 		}
 
 		piety_name = SUBTERFUGE
 
 		priests_can_marry = no
 		priests_can_inherit = no
-		can_hold_temples = no
-		female_temple_holders = no
 		feminist = yes
 		uses_jizya_tax = yes # protection rackets
 
@@ -1168,20 +1155,11 @@ personality_cult = {
 	graphical_culture = westerngfx
 	crusade_cb = crusade
 	playable = yes
-	ai_peaceful = no # Will make Hordes lose their super aggressiveness
 	
 	ai_convert_same_group = 2 # always try to convert
 	ai_convert_other_group = 2 # always try to convert
 
 	hostile_within_group = yes
-	
-	# Names given only to personality cult characters (base names)
-	male_names = {
-
-	}
-	female_names = {
-		
-	}
 
 	bowser_religion = {
 		graphical_culture = westerngfx
@@ -1205,14 +1183,9 @@ personality_cult = {
 			GOD_MARIO GOD_THE_MARIO_BROTHERS GOD_THE_STAR_SPIRITS CACKLETTA BOWLETTA
 		}
 		
-		character_modifier = {
-			ai_zeal = 10
-		}
-
 		piety_name = STRENGTH
 		priests_can_marry = yes
 		priests_can_inherit = no
-		can_hold_temples = yes
 		female_temple_holders = yes
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		allow_looting = yes
@@ -1262,7 +1235,6 @@ personality_cult = {
 
 		priests_can_marry = yes
 		priests_can_inherit = no
-		can_hold_temples = yes
 		female_temple_holders = yes
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		allow_looting = yes
@@ -1314,12 +1286,10 @@ personality_cult = {
 		character_modifier = {
 			diplomacy = -2
 			intrigue = 2
-			ai_honor = -20
 		}
 
 		priests_can_marry = yes
 		priests_can_inherit = no
-		can_hold_temples = no
 		female_temple_holders = yes
 		landed_kin_prestige_bonus = yes
 		dislike_tribal_organization = no
@@ -1350,14 +1320,6 @@ lunatheology = {
 	ai_convert_same_group = 1 # always try to convert
 	ai_convert_other_group = 1 # always try to convert
 	
-	# Names given only to Lunatheologian characters (base names)
-	male_names = {
-		Dusk Darkly Evony_Ebony Enopby_Ebony Claude Frollo Quasimodo
-	}
-	female_names = {
-		Ebony_Ebony Enoby_Ebony Eboby_Ebony Ebory_Ebony Enobby_Ebony Egogy_Ebony Tara_Tara Taebory_Tara
-	}
-
 	power_moon_worship = {
 		graphical_culture = westerngfx
 		
@@ -1395,9 +1357,8 @@ lunatheology = {
 		can_grant_divorce = no
 		can_grant_claim = no
 		can_call_crusade = no
-		can_retire_to_monastery = no
 		priests_can_inherit = no
-		can_retire_to_monastary = yes
+		can_retire_to_monastery = yes
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		
 		religious_clothing_head = 0
@@ -1431,10 +1392,6 @@ lunatheology = {
 		
 		piety_name = LOVE
 
-		character_modifier = {
-			ai_zeal = 10
-		}
-
 		intermarry = astrotheology
 		intermarry = dogmatic
 		
@@ -1445,18 +1402,15 @@ lunatheology = {
 		can_grant_divorce = yes
 		can_grant_claim = yes
 		can_call_crusade = yes
-		can_retire_to_monastery = no
 		priests_can_inherit = no
-		can_retire_to_monastary = yes
+		can_retire_to_monastery = yes
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
 	}
 
-	twilight_towner_reformed = {
-		ai_peaceful = yes
-		
+	twilight_towner_reformed = {		
 		graphical_culture = westerngfx
 
 		icon = 69
@@ -1485,16 +1439,8 @@ lunatheology = {
 		intermarry = witchcraft
 		intermarry = boolish
 		
-		investiture = yes
-		can_have_antipopes = no
-		can_excommunicate = yes
-		can_grant_divorce = yes
-		can_grant_invasion_cb = invasion
-		can_grant_claim = yes
-		can_call_crusade = no
 		can_retire_to_monastery = yes
 		priests_can_inherit = no
-		female_temple_holders = no
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		raised_vassal_opinion_loss = no
 		
@@ -1544,7 +1490,6 @@ lunatheology = {
 		can_call_crusade = no
 		can_retire_to_monastery = yes
 		priests_can_inherit = no
-		female_temple_holders = no
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		raised_vassal_opinion_loss = no
 		
@@ -1559,18 +1504,9 @@ extraterrestrial = {
 	graphical_culture = westerngfx
 	crusade_cb = crusade
 	playable = yes
-	ai_peaceful = no # Will make Hordes lose their super aggressiveness
 	
 	ai_convert_same_group = 2 # always try to convert
 	ai_convert_other_group = 2 # always try to convert
-	
-	# Names given only to alien characters (base names)
-	male_names = {
-		
-	}
-	female_names = {
-		
-	}
 
 	shroob = {
 		graphical_culture = westerngfx
@@ -1594,10 +1530,9 @@ extraterrestrial = {
 			GOD_MARIO GOD_THE_MARIO_BROTHERS
 		}
 		
-		aggression = 100
+		aggression = 5
 		piety_name = VIM
 		priests_can_marry = yes
-		can_hold_temples = yes
 		female_temple_holders = yes
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		allow_looting = yes
@@ -1639,16 +1574,15 @@ extraterrestrial = {
 		piety_name = STRENGTH
 		priests_can_marry = yes
 		priests_can_inherit = yes
-		can_hold_temples = yes
 		female_temple_holders = yes
 		allow_looting = yes
 		allow_viking_invasion = yes
 		defensive_attrition = yes
 		peace_prestige_loss = yes
 		raised_vassal_opinion_loss = no
-		max_concubines = 7
+		max_consorts = 4
 		
-		aggression = 999
+		aggression = 5
 
 		intermarry = dogmatic
 		intermarry = witchcraft
@@ -1668,20 +1602,11 @@ kongo_group = {
 	graphical_culture = westerngfx
 	crusade_cb = crusade
 	playable = yes
-	ai_peaceful = no # Will make Hordes lose their super aggressiveness
 	
 	ai_convert_same_group = 2 # always try to convert
 	ai_convert_other_group = 1 # only convert if ai_zeal is high
 
 	kong_religion = {
-		# Names given only to Kong characters (base names)
-		male_names = {
-			Donkey Diddy_Diddy Diddie_Diddy Lankey Cranky Funky Kiddy Swanky Bluster Chunky Hunky Tanky Clonky Stinky Rocky Rusty Lackey Eddy Kong "Jerry Lee"_Jared Lewis Jerry_Jared
-		}
-		female_names = {
-			Kay Candy Tiny Pretty Dixie Bratty Katty Trixie Roxy 
-		}
-	
 		graphical_culture = westerngfx
 
 		icon = 73
@@ -1706,7 +1631,6 @@ kongo_group = {
 		piety_name = BANANAS
 		
 		priests_can_marry = yes
-		can_hold_temples = yes
 		female_temple_holders = yes
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		allow_looting = yes
@@ -1749,7 +1673,6 @@ kongo_group = {
 		piety_name = BANANAS
 		
 		priests_can_marry = yes
-		can_hold_temples = yes
 		female_temple_holders = yes
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		allow_looting = yes
@@ -1802,9 +1725,8 @@ tennis_group = {
 			LUCIEN CHEATING BOWSER BOWCIEN TATANGA WALUIGI_TIME
 		}
 
-		character_modifiers = {
+		character_modifier = {
 			martial = 2
-			ai_honor = 15
 			intrigue = -3
 		}
 
@@ -1812,7 +1734,6 @@ tennis_group = {
 
 		priests_can_marry = no
 		priests_can_inherit = no
-		can_hold_temples = no
 		female_temple_holders = yes
 		feminist = yes
 
@@ -1827,18 +1748,8 @@ movie_religion_group = {
 	crusade_cb = crusade
 	playable = yes
 
-	ai_peaceful = no # Will not make Hordes lose their super aggressiveness
 	ai_convert_same_group = 2 # always convert
 	ai_convert_other_group = 1 # convert when ai_zeal is high
-
-	# Names given only to Dinohattanite characters
-	male_names = {
-		Reznor Renzor Karma Rex Tyran Triceratops Toad Spike
-	}
-
-	female_names = {
-		Veloci Daisy
-	}
 
 	movie_cult = { # Dinohattan Portal Guardian Cult (as corrupted by President Koopa)
 		graphical_culture = muslimgfx
@@ -1862,19 +1773,10 @@ movie_religion_group = {
 			GOD_MARIO GOD_THE_MARIO_BROTHERS GOD_MANKIND GOD_THE_GREAT_FUNGUS GOD_THE_FUNGAL_KING
 		}
 
-		character_modifiers = {
-			ambition_opinion = -50
-			infidel_opinion = -1000
-			ai_zeal = 5000
-#			same_religion_opinion = 1050
-		}
-
 		piety_name = EVOLUTION
 
 		priests_can_marry = no
 		priests_can_inherit = no
-		can_hold_temples = no
-		female_temple_holders = no
 		can_grant_invasion_cb = invasion
 		can_call_crusade = yes
 		can_grant_claim = yes
@@ -1886,7 +1788,7 @@ movie_religion_group = {
 		allow_looting = yes
 		allow_viking_invasion = yes
 
-		aggression = 50
+		aggression = 5
 
 		allow_in_ruler_designer = no
 		raised_vassal_opinion_loss = no 
@@ -1904,18 +1806,8 @@ prognosticus_faiths = {
 	crusade_cb = crusade
 	playable = yes
 
-	ai_peaceful = no # Will not make Hordes lose their super aggressiveness
 	ai_convert_same_group = 2 # always convert
 	ai_convert_other_group = 1 # convert when ai_zeal is high
-
-	# Names given only to Prognostic characters
-	male_names = {
-		Blek Bleck Dimentio Luigi
-	}
-
-	female_names = {
-		Nastasia
-	}
 
 	dark_prognosticus = { # Followers of the Dark Prophecy
 		graphical_culture = muslimgfx
@@ -1939,18 +1831,11 @@ prognosticus_faiths = {
 			PROPHET_MAN_IN_RED GOD_PIXL_QUEEN GOD_PURE_HEARTS PROPHET_FOUR_SAGES
 		}
 
-		character_modifier = {
-			ai_zeal = 5000
-			ai_ambition = 5
-			infidel_opinion = -20
-		}
-
 		piety_name = INNER_PEACE
 		intermarry = outlaw
 
 		priests_can_marry = yes
 		priests_can_inherit = no
-		can_hold_temples = no
 		female_temple_holders = yes
 		can_grant_invasion_cb = invasion
 		can_call_crusade = yes
@@ -2010,7 +1895,6 @@ prognosticus_faiths = {
 
 		priests_can_marry = no
 		priests_can_inherit = no
-		can_hold_temples = no
 		female_temple_holders = yes
 		can_call_crusade = yes
 		can_grant_claim = yes
@@ -2061,7 +1945,6 @@ prognosticus_faiths = {
 		
 		priests_can_marry = yes
 		priests_can_inherit = no
-		can_hold_temples = no
 		female_temple_holders = yes
 		can_call_crusade = yes
 		can_grant_claim = yes
@@ -2086,17 +1969,12 @@ supernatural_group = {
 	crusade_cb = crusade
 	playable = yes
 
-	ai_peaceful = no
 	ai_convert_same_group = 1 # convert when ai_zeal is high
 	ai_convert_other_group = 1 # convert when ai_zeal is high
 
 	# Names given only to Supernatural characters
-	male_names = {
-		Aleister Harry Merlin
-	}
-
 	female_names = {
-		Baba Beldam Morgan_Morgan Morgana_Morgan Hermione Ebony_Ebony Enoby_Ebony Eboby_Ebony Ebory_Ebony Enobby_Ebony Egogy_Ebony 
+		Senka
 	}
 	
 	witchcraft = {
@@ -2123,7 +2001,6 @@ supernatural_group = {
 
 		character_modifier = {
 			diplomacy = -2
-			ai_honor = -5
 			learning = 4
 		}
 
@@ -2131,10 +2008,8 @@ supernatural_group = {
 
 		priests_can_marry = no
 		priests_can_inherit = no
-		can_hold_temples = no
 		female_temple_holders = yes
 		feminist = yes
-		uses_jizya_tax = no
 
 		intermarry = outlaw
 		intermarry = dark_prognosticus
@@ -2152,13 +2027,13 @@ supernatural_group = {
 		icon = 5
 		heresy_icon = 5
 
-		colour = { 51 0 102 }
+		color = { 51 0 102 }
 
 		crusade_name = DARK_HARVEST
 		scripture_name = LEGENDS_OF_THE_THOUSAND_YEAR_DOOR
 		priest_title = SEER
 
-		high_god = SHADOW_QUEEN
+		high_god_name = SHADOW_QUEEN
 
 		god_names = {
 			SHADOW_SIRENS THE_IMPURE_VOICE SHADOW_QUEEN DARK_MAGIC THE_DARKNESS
@@ -2169,17 +2044,10 @@ supernatural_group = {
 
 		piety_name = FEAR
 
-		aggression = 50
-
-		character_modifier = {
-			ai_honor = -50
-			ai_zeal = 5000
-			infidel_opinion = -1000
-		}
+		aggression = 5
 
 		priests_can_marry = no
 		priests_can_inherit = no
-		can_hold_temples = no
 		female_temple_holders = yes
 		feminist = yes
 		uses_jizya_tax = yes

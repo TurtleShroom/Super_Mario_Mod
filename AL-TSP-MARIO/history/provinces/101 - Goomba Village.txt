@@ -4,18 +4,12 @@
 title = c_goomba_village
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_goomba_village = castle
-#b_goomba_village_2 = city
-#b_goomba_village_3 = temple
-#b_goomba_village_4 = castle
-#b_goomba_village_5 = city
-#b_goomba_village_6 = temple
-#b_goomba_village_7 = castle
 
 # Misc
-culture = pirate
+culture = goomba
 religion = seven_stars
 
 #History

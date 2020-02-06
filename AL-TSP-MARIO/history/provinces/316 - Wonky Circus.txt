@@ -1,0 +1,15 @@
+# c_wonky_circus
+
+# County Title
+title = c_wonky_circus
+
+# Settlements
+max_settlements = 1
+
+b_wonky_circus = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

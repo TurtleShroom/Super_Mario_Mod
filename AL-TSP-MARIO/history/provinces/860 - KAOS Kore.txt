@@ -1,0 +1,15 @@
+# c_kaos_kore
+
+# County Title
+title = c_kaos_kore
+
+# Settlements
+max_settlements = 1
+
+b_kaos_kore = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

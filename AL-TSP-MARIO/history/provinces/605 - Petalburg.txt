@@ -1,0 +1,15 @@
+# c_petalburg
+
+# County Title
+title = c_petalburg
+
+# Settlements
+max_settlements = 1
+
+b_petalburg = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

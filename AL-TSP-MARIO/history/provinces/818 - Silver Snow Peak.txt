@@ -1,0 +1,15 @@
+# c_silver_snow_peak
+
+# County Title
+title = c_silver_snow_peak
+
+# Settlements
+max_settlements = 1
+
+b_silver_snow_peak = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+terrain = mountain
+#History

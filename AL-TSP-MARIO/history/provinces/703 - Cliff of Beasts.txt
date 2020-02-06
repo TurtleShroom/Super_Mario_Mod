@@ -1,0 +1,15 @@
+# c_cliff_of_beasts
+
+# County Title
+title = c_cliff_of_beasts
+
+# Settlements
+max_settlements = 1
+
+b_cliff_of_beasts = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = mountain
+#History

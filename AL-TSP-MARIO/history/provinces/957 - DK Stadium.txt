@@ -1,0 +1,15 @@
+# c_dk_stadium
+
+# County Title
+title = c_dk_stadium
+
+# Settlements
+max_settlements = 1
+
+b_dk_stadium = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

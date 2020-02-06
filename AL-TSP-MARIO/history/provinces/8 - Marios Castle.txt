@@ -4,18 +4,12 @@
 title = c_marios_castle
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_marios_castle = castle
-#b_marios_castle_2 = city
-#b_marios_castle_3 = temple
-#b_marios_castle_4 = castle
-#b_marios_castle_5 = city
-#b_marios_castle_6 = temple
-#b_marios_castle_7 = castle
 
 # Misc
-culture = pirate
+culture = mario_brothers
 religion = seven_stars
 
 #History

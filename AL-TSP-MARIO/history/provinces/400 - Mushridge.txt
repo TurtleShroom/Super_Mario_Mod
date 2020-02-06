@@ -1,0 +1,15 @@
+# c_mushridge
+
+# County Title
+title = c_mushridge
+
+# Settlements
+max_settlements = 1
+
+b_mushridge = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = mountain
+#History

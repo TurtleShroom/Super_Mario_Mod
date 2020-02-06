@@ -1,0 +1,15 @@
+# c_bazaar_bay
+
+# County Title
+title = c_bazaar_bay
+
+# Settlements
+max_settlements = 1
+
+b_bazaar_bay = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

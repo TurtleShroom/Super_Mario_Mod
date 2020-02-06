@@ -1,0 +1,15 @@
+# c_pacifica
+
+# County Title
+title = c_pacifica
+
+# Settlements
+max_settlements = 1
+
+b_pacifica = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

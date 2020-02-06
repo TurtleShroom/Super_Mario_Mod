@@ -1,0 +1,15 @@
+# c_autumn_heights
+
+# County Title
+title = c_autumn_heights
+
+# Settlements
+max_settlements = 1
+
+b_autumn_heights = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+terrain = mountain
+#History

@@ -1,0 +1,15 @@
+# c_the_great_tree
+
+# County Title
+title = c_the_great_tree
+
+# Settlements
+max_settlements = 1
+
+b_the_great_tree = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = woods
+#History

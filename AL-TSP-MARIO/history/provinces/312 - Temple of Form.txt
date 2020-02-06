@@ -1,0 +1,15 @@
+# c_temple_of_form
+
+# County Title
+title = c_temple_of_form
+
+# Settlements
+max_settlements = 1
+
+b_temple_of_form = castle
+
+# Misc
+culture = diamond_city_men
+religion = seven_stars
+
+#History

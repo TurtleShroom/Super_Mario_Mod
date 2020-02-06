@@ -1,0 +1,15 @@
+# c_tiny_huge_island
+
+# County Title
+title = c_tiny_huge_island
+
+# Settlements
+max_settlements = 1
+
+b_tiny_huge_island = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

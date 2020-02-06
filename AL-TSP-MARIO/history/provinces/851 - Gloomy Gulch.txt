@@ -1,0 +1,15 @@
+# c_gloomy_gulch
+
+# County Title
+title = c_gloomy_gulch
+
+# Settlements
+max_settlements = 1
+
+b_gloomy_gulch = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

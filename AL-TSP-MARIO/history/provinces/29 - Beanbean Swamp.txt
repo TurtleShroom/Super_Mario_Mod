@@ -4,18 +4,12 @@
 title = c_beanbean_swamp
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_beanbean_swamp = castle
-#b_beanbean_swamp_2 = city
-#b_beanbean_swamp_3 = temple
-#b_beanbean_swamp_4 = castle
-#b_beanbean_swamp_5 = city
-#b_beanbean_swamp_6 = temple
-#b_beanbean_swamp_7 = castle
 
 # Misc
-culture = pirate
+culture = beanbean_kingdom
 religion = seven_stars
 
 #History

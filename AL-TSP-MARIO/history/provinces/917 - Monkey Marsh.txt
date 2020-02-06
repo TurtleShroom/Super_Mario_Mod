@@ -1,0 +1,15 @@
+# c_monkey_marsh
+
+# County Title
+title = c_monkey_marsh
+
+# Settlements
+max_settlements = 1
+
+b_monkey_marsh = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+terrain = marsh
+#History

@@ -1,0 +1,15 @@
+# c_eastern_ruin_area
+
+# County Title
+title = c_eastern_ruin_area
+
+# Settlements
+max_settlements = 1
+
+b_eastern_ruin_area = castle
+
+# Misc
+culture = dryite
+religion = seven_stars
+
+#History

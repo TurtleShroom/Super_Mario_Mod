@@ -4,18 +4,12 @@
 title = c_forest_of_illusion
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_forest_of_illusion = castle
-#b_forest_of_illusion_2 = city
-#b_forest_of_illusion_3 = temple
-#b_forest_of_illusion_4 = castle
-#b_forest_of_illusion_5 = city
-#b_forest_of_illusion_6 = temple
-#b_forest_of_illusion_7 = castle
 
 # Misc
 culture = pirate
 religion = seven_stars
-
+terrain = forest
 #History

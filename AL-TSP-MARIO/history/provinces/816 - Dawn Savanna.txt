@@ -1,0 +1,15 @@
+# c_dawn_savanna
+
+# County Title
+title = c_dawn_savanna
+
+# Settlements
+max_settlements = 1
+
+b_dawn_savanna = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

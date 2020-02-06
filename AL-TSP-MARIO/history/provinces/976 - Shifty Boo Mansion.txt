@@ -1,0 +1,15 @@
+# c_shifty_boo_mansion
+
+# County Title
+title = c_shifty_boo_mansion
+
+# Settlements
+max_settlements = 1
+
+b_shifty_boo_mansion = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = arctic
+#History

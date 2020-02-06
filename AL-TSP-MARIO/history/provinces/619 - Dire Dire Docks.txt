@@ -1,0 +1,15 @@
+# c_dire_dire_docks
+
+# County Title
+title = c_dire_dire_docks
+
+# Settlements
+max_settlements = 1
+
+b_dire_dire_docks = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

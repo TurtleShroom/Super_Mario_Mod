@@ -4,15 +4,9 @@
 title = c_seasons_greens
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_seasons_greens = castle
-#b_seasons_greens_2 = city
-#b_seasons_greens_3 = temple
-#b_seasons_greens_4 = castle
-#b_seasons_greens_5 = city
-#b_seasons_greens_6 = temple
-#b_seasons_greens_7 = castle
 
 # Misc
 culture = pirate

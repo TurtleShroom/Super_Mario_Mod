@@ -1,0 +1,15 @@
+# c_honeybee_hive
+
+# County Title
+title = c_honeybee_hive
+
+# Settlements
+max_settlements = 1
+
+b_honeybee_hive = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

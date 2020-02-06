@@ -1,0 +1,15 @@
+# c_lucky_hills
+
+# County Title
+title = c_lucky_hills
+
+# Settlements
+max_settlements = 1
+
+b_lucky_hills = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = hills
+#History

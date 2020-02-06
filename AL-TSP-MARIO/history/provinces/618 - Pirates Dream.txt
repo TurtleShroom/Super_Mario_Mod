@@ -1,0 +1,15 @@
+# c_pirates_dream
+
+# County Title
+title = c_pirates_dream
+
+# Settlements
+max_settlements = 1
+
+b_pirates_dream = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

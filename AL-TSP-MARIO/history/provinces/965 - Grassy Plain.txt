@@ -1,0 +1,15 @@
+# c_grassy_plain
+
+# County Title
+title = c_grassy_plain
+
+# Settlements
+max_settlements = 1
+
+b_grassy_plain = castle
+
+# Misc
+culture = yoshi_island
+religion = seven_stars
+
+#History

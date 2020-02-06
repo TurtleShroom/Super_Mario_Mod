@@ -1,0 +1,15 @@
+# c_awazon_plateau
+
+# County Title
+title = c_awazon_plateau
+
+# Settlements
+max_settlements = 1
+
+b_awazon_plateau = castle
+
+# Misc
+culture = awazonian
+religion = tennis_religion
+terrain = jungle
+#History

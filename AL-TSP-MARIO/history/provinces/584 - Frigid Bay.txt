@@ -1,0 +1,15 @@
+# c_frigid_bay
+
+# County Title
+title = c_frigid_bay
+
+# Settlements
+max_settlements = 1
+
+b_frigid_bay = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = arctic
+#History

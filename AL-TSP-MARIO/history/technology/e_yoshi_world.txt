@@ -1,0 +1,26 @@
+#YOSHI WORLD
+technology = {
+	titles = {
+		d_chocolate_island
+		d_cookie_mountain
+		d_east_coast
+		d_no_coast
+		d_northern_jade_jungle
+		d_soda_sea
+		d_southern_jade_jungle
+		d_vanilla_donut
+		d_west_coast
+		d_yoshis_dinosaur_island
+		d_yoshis_village
+	}
+	800 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

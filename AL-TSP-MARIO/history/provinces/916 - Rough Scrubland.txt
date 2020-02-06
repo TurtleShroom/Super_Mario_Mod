@@ -1,0 +1,15 @@
+# c_rough_scrubland
+
+# County Title
+title = c_rough_scrubland
+
+# Settlements
+max_settlements = 1
+
+b_rough_scrubland = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

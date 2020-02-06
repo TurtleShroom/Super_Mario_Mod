@@ -1,0 +1,15 @@
+# c_stalagmite_caverns
+
+# County Title
+title = c_stalagmite_caverns
+
+# Settlements
+max_settlements = 1
+
+b_stalagmite_caverns = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

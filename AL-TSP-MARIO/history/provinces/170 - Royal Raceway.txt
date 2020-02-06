@@ -4,15 +4,9 @@
 title = c_royal_raceway
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_royal_raceway = castle
-#b_royal_raceway_2 = city
-#b_royal_raceway_3 = temple
-#b_royal_raceway_4 = castle
-#b_royal_raceway_5 = city
-#b_royal_raceway_6 = temple
-#b_royal_raceway_7 = castle
 
 # Misc
 culture = pirate

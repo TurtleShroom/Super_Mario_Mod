@@ -1,0 +1,15 @@
+# c_dino_dino_jungle
+
+# County Title
+title = c_dino_dino_jungle
+
+# Settlements
+max_settlements = 1
+
+b_dino_dino_jungle = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+terrain = jungle
+#History

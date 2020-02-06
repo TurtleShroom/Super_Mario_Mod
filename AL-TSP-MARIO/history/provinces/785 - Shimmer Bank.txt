@@ -1,0 +1,15 @@
+# c_shimmer_bank
+
+# County Title
+title = c_shimmer_bank
+
+# Settlements
+max_settlements = 1
+
+b_shimmer_bank = castle
+
+# Misc
+culture = awazonian
+religion = tennis_religion
+terrain = jungle
+#History

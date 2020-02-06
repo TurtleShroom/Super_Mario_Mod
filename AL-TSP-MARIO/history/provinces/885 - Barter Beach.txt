@@ -1,0 +1,15 @@
+# c_barter_beach
+
+# County Title
+title = c_barter_beach
+
+# Settlements
+max_settlements = 1
+
+b_barter_beach = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

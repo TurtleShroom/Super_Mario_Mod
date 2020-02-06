@@ -1,0 +1,15 @@
+# c_kings_pass
+
+# County Title
+title = c_kings_pass
+
+# Settlements
+max_settlements = 1
+
+b_kings_pass = castle
+
+# Misc
+culture = mushroom_kingdom
+religion = seven_stars
+
+#History

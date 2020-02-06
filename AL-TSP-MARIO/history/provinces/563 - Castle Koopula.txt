@@ -1,0 +1,15 @@
+# c_castle_koopula
+
+# County Title
+title = c_castle_koopula
+
+# Settlements
+max_settlements = 1
+
+b_castle_koopula = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

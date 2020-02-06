@@ -1,0 +1,15 @@
+# c_goomstar_temple
+
+# County Title
+title = c_goomstar_temple
+
+# Settlements
+max_settlements = 1
+
+b_goomstar_temple = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = arctic
+#History

@@ -1,0 +1,15 @@
+# c_caveman_land
+
+# County Title
+title = c_caveman_land
+
+# Settlements
+max_settlements = 1
+
+b_caveman_land = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

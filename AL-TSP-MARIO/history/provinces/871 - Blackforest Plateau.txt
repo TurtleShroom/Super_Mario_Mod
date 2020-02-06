@@ -1,0 +1,15 @@
+# c_blackforest_plateau
+
+# County Title
+title = c_blackforest_plateau
+
+# Settlements
+max_settlements = 1
+
+b_blackforest_plateau = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

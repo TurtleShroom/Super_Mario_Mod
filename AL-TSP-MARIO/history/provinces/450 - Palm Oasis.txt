@@ -1,0 +1,15 @@
+# c_palm_oasis
+
+# County Title
+title = c_palm_oasis
+
+# Settlements
+max_settlements = 1
+
+b_palm_oasis = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = desert
+#History

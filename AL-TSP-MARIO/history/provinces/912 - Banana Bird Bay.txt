@@ -1,0 +1,15 @@
+# c_banana_bird_bay
+
+# County Title
+title = c_banana_bird_bay
+
+# Settlements
+max_settlements = 1
+
+b_banana_bird_bay = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

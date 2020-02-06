@@ -1,0 +1,15 @@
+# c_kremling_kamp
+
+# County Title
+title = c_kremling_kamp
+
+# Settlements
+max_settlements = 1
+
+b_kremling_kamp = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

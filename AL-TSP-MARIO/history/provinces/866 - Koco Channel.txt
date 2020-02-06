@@ -1,0 +1,15 @@
+# c_koco_channel
+
+# County Title
+title = c_koco_channel
+
+# Settlements
+max_settlements = 1
+
+b_koco_channel = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

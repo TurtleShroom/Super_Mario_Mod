@@ -1,0 +1,15 @@
+# c_chilly_hills
+
+# County Title
+title = c_chilly_hills
+
+# Settlements
+max_settlements = 1
+
+b_chilly_hills = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = hills
+#History

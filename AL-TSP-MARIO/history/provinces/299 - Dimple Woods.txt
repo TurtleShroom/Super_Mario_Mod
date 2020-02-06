@@ -1,0 +1,15 @@
+# c_dimple_woods
+
+# County Title
+title = c_dimple_woods
+
+# Settlements
+max_settlements = 1
+
+b_dimple_woods = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = woods
+#History

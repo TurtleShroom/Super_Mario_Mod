@@ -1,0 +1,15 @@
+# c_daisy_circuit
+
+# County Title
+title = c_daisy_circuit
+
+# Settlements
+max_settlements = 1
+
+b_daisy_circuit = castle
+
+# Misc
+culture = eastonese
+religion = tennis_religion
+
+#History

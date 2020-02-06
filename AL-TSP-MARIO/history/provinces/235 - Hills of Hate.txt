@@ -1,0 +1,15 @@
+# c_hills_of_hate
+
+# County Title
+title = c_hills_of_hate
+
+# Settlements
+max_settlements = 1
+
+b_hills_of_hate = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = hills
+#History

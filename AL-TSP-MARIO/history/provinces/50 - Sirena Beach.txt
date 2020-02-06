@@ -4,18 +4,12 @@
 title = c_sirena_beach
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_sirena_beach = castle
-#b_sirena_beach_2 = city
-#b_sirena_beach_3 = temple
-#b_sirena_beach_4 = castle
-#b_sirena_beach_5 = city
-#b_sirena_beach_6 = temple
-#b_sirena_beach_7 = castle
 
 # Misc
-culture = pirate
+culture = delfino
 religion = seven_stars
 
 #History

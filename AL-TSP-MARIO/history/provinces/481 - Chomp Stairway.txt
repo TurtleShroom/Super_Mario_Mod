@@ -1,0 +1,15 @@
+# c_chomp_stairway
+
+# County Title
+title = c_chomp_stairway
+
+# Settlements
+max_settlements = 1
+
+b_chomp_stairway = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

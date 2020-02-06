@@ -1,0 +1,15 @@
+# c_mystic_forest
+
+# County Title
+title = c_mystic_forest
+
+# Settlements
+max_settlements = 1
+
+b_mystic_forest = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = forest
+#History

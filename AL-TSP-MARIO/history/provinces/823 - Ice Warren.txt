@@ -1,0 +1,15 @@
+# c_ice_warren
+
+# County Title
+title = c_ice_warren
+
+# Settlements
+max_settlements = 1
+
+b_ice_warren = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+terrain = arctic
+#History

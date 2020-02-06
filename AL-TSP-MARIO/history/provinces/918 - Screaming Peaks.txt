@@ -1,0 +1,15 @@
+# c_screaming_peaks
+
+# County Title
+title = c_screaming_peaks
+
+# Settlements
+max_settlements = 1
+
+b_screaming_peaks = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+terrain = mountain
+#History

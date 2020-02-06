@@ -1,0 +1,15 @@
+# c_clock_tower
+
+# County Title
+title = c_clock_tower
+
+# Settlements
+max_settlements = 1
+
+b_clock_tower = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

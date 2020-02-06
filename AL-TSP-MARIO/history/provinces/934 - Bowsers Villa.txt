@@ -1,0 +1,15 @@
+# c_bowsers_villa
+
+# County Title
+title = c_bowsers_villa
+
+# Settlements
+max_settlements = 1
+
+b_bowsers_villa = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

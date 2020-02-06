@@ -1,0 +1,15 @@
+# c_parched_dry_dry_desert
+
+# County Title
+title = c_parched_dry_dry_desert
+
+# Settlements
+max_settlements = 1
+
+b_parched_dry_dry_desert = castle
+
+# Misc
+culture = dryite
+religion = seven_stars
+terrain = desert
+#History

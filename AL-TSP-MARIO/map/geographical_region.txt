@@ -32,6 +32,7 @@ world_europe_west_iberia = {
 	}
 }
 world_europe_west = {
+	inclusive = yes
 	regions = {
 		world_europe_west_iberia world_europe_west_francia world_europe_west_germania world_europe_west_brittania
 	}
@@ -64,6 +65,7 @@ world_europe_south_italy = {
 	}
 }
 world_europe_south = {
+	inclusive = yes
 	regions = {
 		world_europe_south_east world_europe_south_italy
 	}
@@ -85,6 +87,7 @@ world_europe_east = {
 	}
 }
 world_asia_minor = {
+	inclusive = yes
 	duchies = {
 		d_nikaea d_samos d_cibyrrhaeot d_anatolia d_charsianon d_armeniacon d_paphlagonia d_trebizond d_armenia_minor d_armenia d_mesopotamia d_edessa d_coloneia d_kartli d_derbent d_abkhazia  d_thracesia d_aegean_islands
 	}
@@ -177,6 +180,7 @@ world_africa_east = {
 	}
 }
 world_africa = {
+	inclusive = yes
 	regions = {
 		world_africa_north world_africa_west world_africa_east
 	}
@@ -200,21 +204,25 @@ world_steppe_east = {
 	}
 }
 world_steppe = {
+	inclusive = yes
 	regions = {
 		world_steppe_west world_steppe_east world_steppe_tarim
 	}
 }
 world_europe = {
+	inclusive = yes
 	regions = {
 		world_europe_west world_europe_south world_europe_east world_europe_north
 	}
 }
 world_middle_east = {
+	inclusive = yes
 	regions = {
 		world_middle_east_arabia world_middle_east_jerusalem
 	}
 }
 world_india = {
+	inclusive = yes
 	regions = {
 		world_india_deccan world_india_bengal world_india_rajastan
 	}

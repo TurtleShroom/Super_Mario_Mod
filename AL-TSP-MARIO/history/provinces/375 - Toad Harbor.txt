@@ -1,0 +1,15 @@
+# c_toad_harbor
+
+# County Title
+title = c_toad_harbor
+
+# Settlements
+max_settlements = 1
+
+b_toad_harbor = castle
+
+# Misc
+culture = dryite
+religion = seven_stars
+
+#History

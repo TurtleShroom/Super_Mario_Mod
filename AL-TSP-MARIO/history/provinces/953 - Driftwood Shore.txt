@@ -1,0 +1,15 @@
+# c_driftwood_shore
+
+# County Title
+title = c_driftwood_shore
+
+# Settlements
+max_settlements = 1
+
+b_driftwood_shore = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

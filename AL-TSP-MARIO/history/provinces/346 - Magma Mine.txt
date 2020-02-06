@@ -1,0 +1,15 @@
+# c_magma_mine
+
+# County Title
+title = c_magma_mine
+
+# Settlements
+max_settlements = 1
+
+b_magma_mine = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = mountain
+#History

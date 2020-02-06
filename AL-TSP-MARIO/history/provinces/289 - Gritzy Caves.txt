@@ -1,0 +1,15 @@
+# c_gritzy_caves
+
+# County Title
+title = c_gritzy_caves
+
+# Settlements
+max_settlements = 1
+
+b_gritzy_caves = castle
+
+# Misc
+culture = dryite
+religion = seven_stars
+
+#History

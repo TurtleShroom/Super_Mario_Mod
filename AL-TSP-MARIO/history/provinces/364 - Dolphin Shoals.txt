@@ -1,0 +1,15 @@
+# c_dolphin_shoals
+
+# County Title
+title = c_dolphin_shoals
+
+# Settlements
+max_settlements = 1
+
+b_dolphin_shoals = castle
+
+# Misc
+culture = dryite
+religion = seven_stars
+
+#History

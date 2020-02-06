@@ -1,0 +1,15 @@
+# c_bonus_desert
+
+# County Title
+title = c_bonus_desert
+
+# Settlements
+max_settlements = 1
+
+b_bonus_desert = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = desert
+#History

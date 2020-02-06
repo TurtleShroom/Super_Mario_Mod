@@ -1,0 +1,15 @@
+# c_north_pole
+
+# County Title
+title = c_north_pole
+
+# Settlements
+max_settlements = 1
+
+b_north_pole = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = arctic
+#History

@@ -1,0 +1,15 @@
+# c_taj_falls
+
+# County Title
+title = c_taj_falls
+
+# Settlements
+max_settlements = 1
+
+b_taj_falls = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

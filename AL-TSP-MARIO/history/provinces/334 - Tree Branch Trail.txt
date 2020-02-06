@@ -1,0 +1,15 @@
+# c_tree_branch_trail
+
+# County Title
+title = c_tree_branch_trail
+
+# Settlements
+max_settlements = 1
+
+b_tree_branch_trail = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = woods
+#History

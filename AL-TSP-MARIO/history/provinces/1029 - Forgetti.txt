@@ -1,0 +1,15 @@
+# c_forgetti
+
+# County Title
+title = c_forgetti
+
+# Settlements
+max_settlements = 1
+
+b_forgetti = castle
+
+# Misc
+culture = birabuton
+religion = tennis_religion
+terrain = desert
+#History

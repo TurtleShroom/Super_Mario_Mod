@@ -1,0 +1,15 @@
+# c_ninjape_rally
+
+# County Title
+title = c_ninjape_rally
+
+# Settlements
+max_settlements = 1
+
+b_ninjape_rally = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_ice_caverns
+
+# County Title
+title = c_ice_caverns
+
+# Settlements
+max_settlements = 1
+
+b_ice_caverns = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = arctic
+#History

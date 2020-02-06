@@ -1,0 +1,15 @@
+# c_misty_heights
+
+# County Title
+title = c_misty_heights
+
+# Settlements
+max_settlements = 1
+
+b_misty_heights = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = mountain
+#History

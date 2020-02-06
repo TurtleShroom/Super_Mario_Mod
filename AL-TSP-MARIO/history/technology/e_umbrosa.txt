@@ -1,0 +1,33 @@
+#UMBROSA
+technology = {
+	titles = {
+		d_boggly_woods
+		d_dire_dire_land
+		d_fahr
+		d_keelhaul_key
+		d_meloncholy
+		d_moonlight
+		d_nightlight
+		d_north_pole
+		d_penguin_land
+		d_petalburg
+		d_pirate_land
+		d_poshley_heights
+		d_reindeer_land
+		d_rogueport
+		d_silent_mountains
+		d_slient_hill
+		d_twilight_land
+		d_twilight_woods
+	}
+	800 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

@@ -1,0 +1,15 @@
+# c_ford_knocks
+
+# County Title
+title = c_ford_knocks
+
+# Settlements
+max_settlements = 1
+
+b_ford_knocks = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

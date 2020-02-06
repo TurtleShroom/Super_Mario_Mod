@@ -1,0 +1,15 @@
+# c_jumpy_jungle
+
+# County Title
+title = c_jumpy_jungle
+
+# Settlements
+max_settlements = 1
+
+b_jumpy_jungle = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+terrain = jungle
+#History

@@ -1,0 +1,15 @@
+# c_treetop_temple
+
+# County Title
+title = c_treetop_temple
+
+# Settlements
+max_settlements = 1
+
+b_treetop_temple = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

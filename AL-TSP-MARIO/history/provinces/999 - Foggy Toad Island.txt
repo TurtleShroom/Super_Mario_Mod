@@ -1,0 +1,15 @@
+# c_foggy_toad_island
+
+# County Title
+title = c_foggy_toad_island
+
+# Settlements
+max_settlements = 1
+
+b_foggy_toad_island = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

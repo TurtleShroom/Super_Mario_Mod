@@ -1,0 +1,15 @@
+# c_sky_garden_2
+
+# County Title
+title = c_sky_garden_2
+
+# Settlements
+max_settlements = 1
+
+b_sky_garden_2 = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

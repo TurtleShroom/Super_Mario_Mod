@@ -1,0 +1,15 @@
+# c_kremwood_forest
+
+# County Title
+title = c_kremwood_forest
+
+# Settlements
+max_settlements = 1
+
+b_kremwood_forest = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+terrain = forest
+#History

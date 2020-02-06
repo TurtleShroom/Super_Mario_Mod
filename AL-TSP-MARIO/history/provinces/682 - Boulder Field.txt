@@ -1,0 +1,15 @@
+# c_boulder_field
+
+# County Title
+title = c_boulder_field
+
+# Settlements
+max_settlements = 1
+
+b_boulder_field = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

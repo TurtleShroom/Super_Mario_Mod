@@ -1,0 +1,15 @@
+# c_snowflake_lake
+
+# County Title
+title = c_snowflake_lake
+
+# Settlements
+max_settlements = 1
+
+b_snowflake_lake = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = arctic
+#History

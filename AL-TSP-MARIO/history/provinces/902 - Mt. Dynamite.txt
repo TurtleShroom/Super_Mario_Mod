@@ -1,0 +1,15 @@
+# c_mt_dynamite
+
+# County Title
+title = c_mt_dynamite
+
+# Settlements
+max_settlements = 1
+
+b_mt_dynamite = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+terrain = mountain
+#History

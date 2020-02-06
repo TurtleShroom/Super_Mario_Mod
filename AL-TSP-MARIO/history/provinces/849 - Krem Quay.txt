@@ -1,0 +1,15 @@
+# c_krem_quay
+
+# County Title
+title = c_krem_quay
+
+# Settlements
+max_settlements = 1
+
+b_krem_quay = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

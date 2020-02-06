@@ -1,0 +1,15 @@
+# c_the_enigmansion
+
+# County Title
+title = c_the_enigmansion
+
+# Settlements
+max_settlements = 1
+
+b_the_enigmansion = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = arctic
+#History

@@ -1,0 +1,15 @@
+# c_warios_island
+
+# County Title
+title = c_warios_island
+
+# Settlements
+max_settlements = 1
+
+b_warios_island = castle
+
+# Misc
+culture = mario_brothers
+religion = seven_stars
+
+#History

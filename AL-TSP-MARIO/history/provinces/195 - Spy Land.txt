@@ -1,0 +1,15 @@
+# c_spy_land
+
+# County Title
+title = c_spy_land
+
+# Settlements
+max_settlements = 1
+
+b_spy_land = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_lollipop_lowlands
+
+# County Title
+title = c_lollipop_lowlands
+
+# Settlements
+max_settlements = 1
+
+b_lollipop_lowlands = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

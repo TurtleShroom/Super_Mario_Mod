@@ -1,0 +1,15 @@
+# c_dark_coast
+
+# County Title
+title = c_dark_coast
+
+# Settlements
+max_settlements = 1
+
+b_dark_coast = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

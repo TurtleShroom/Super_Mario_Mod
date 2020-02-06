@@ -1,0 +1,15 @@
+# c_helibird_nest
+
+# County Title
+title = c_helibird_nest
+
+# Settlements
+max_settlements = 1
+
+b_helibird_nest = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

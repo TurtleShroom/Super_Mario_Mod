@@ -1,0 +1,15 @@
+# c_kero_sewers
+
+# County Title
+title = c_kero_sewers
+
+# Settlements
+max_settlements = 1
+
+b_kero_sewers = castle
+
+# Misc
+culture = mushroom_kingdom
+religion = seven_stars
+
+#History

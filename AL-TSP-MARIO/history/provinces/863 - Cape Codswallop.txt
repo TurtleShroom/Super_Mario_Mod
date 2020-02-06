@@ -1,0 +1,15 @@
+# c_cape_codswallop
+
+# County Title
+title = c_cape_codswallop
+
+# Settlements
+max_settlements = 1
+
+b_cape_codswallop = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

@@ -4,15 +4,9 @@
 title = c_big_boos_haunt
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_big_boos_haunt = castle
-#b_big_boos_haunt_2 = city
-#b_big_boos_haunt_3 = temple
-#b_big_boos_haunt_4 = castle
-#b_big_boos_haunt_5 = city
-#b_big_boos_haunt_6 = temple
-#b_big_boos_haunt_7 = castle
 
 # Misc
 culture = pirate

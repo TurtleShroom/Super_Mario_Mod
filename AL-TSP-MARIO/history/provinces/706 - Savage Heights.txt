@@ -1,0 +1,15 @@
+# c_savage_heights
+
+# County Title
+title = c_savage_heights
+
+# Settlements
+max_settlements = 1
+
+b_savage_heights = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = mountain
+#History

@@ -1,0 +1,15 @@
+# c_bar_sands
+
+# County Title
+title = c_bar_sands
+
+# Settlements
+max_settlements = 1
+
+b_bar_sands = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = desert
+#History

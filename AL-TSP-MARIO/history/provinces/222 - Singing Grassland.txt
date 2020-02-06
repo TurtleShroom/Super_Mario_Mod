@@ -1,0 +1,15 @@
+# c_singing_grassland
+
+# County Title
+title = c_singing_grassland
+
+# Settlements
+max_settlements = 1
+
+b_singing_grassland = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_sifters_island
+
+# County Title
+title = c_sifters_island
+
+# Settlements
+max_settlements = 1
+
+b_sifters_island = castle
+
+# Misc
+culture = awazonian
+religion = tennis_religion
+terrain = jungle
+#History

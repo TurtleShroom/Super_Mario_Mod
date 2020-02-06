@@ -1,0 +1,15 @@
+# c_razor_ridge
+
+# County Title
+title = c_razor_ridge
+
+# Settlements
+max_settlements = 1
+
+b_razor_ridge = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = mountain
+#History

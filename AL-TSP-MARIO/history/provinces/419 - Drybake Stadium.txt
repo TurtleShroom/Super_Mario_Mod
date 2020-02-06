@@ -1,0 +1,15 @@
+# c_drybake_stadium
+
+# County Title
+title = c_drybake_stadium
+
+# Settlements
+max_settlements = 1
+
+b_drybake_stadium = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

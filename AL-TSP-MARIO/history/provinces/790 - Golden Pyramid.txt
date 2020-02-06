@@ -1,0 +1,15 @@
+# c_golden_pyramid
+
+# County Title
+title = c_golden_pyramid
+
+# Settlements
+max_settlements = 1
+
+b_golden_pyramid = castle
+
+# Misc
+culture = awazonian
+religion = tennis_religion
+terrain = jungle
+#History

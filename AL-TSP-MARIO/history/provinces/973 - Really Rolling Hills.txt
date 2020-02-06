@@ -1,0 +1,15 @@
+# c_really_rolling_hills
+
+# County Title
+title = c_really_rolling_hills
+
+# Settlements
+max_settlements = 1
+
+b_really_rolling_hills = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = hills
+#History

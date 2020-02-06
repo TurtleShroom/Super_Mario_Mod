@@ -1,0 +1,15 @@
+# c_wavy_beach
+
+# County Title
+title = c_wavy_beach
+
+# Settlements
+max_settlements = 1
+
+b_wavy_beach = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

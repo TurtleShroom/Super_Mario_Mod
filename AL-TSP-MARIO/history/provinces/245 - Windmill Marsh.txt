@@ -1,0 +1,15 @@
+# c_windmill_marsh
+
+# County Title
+title = c_windmill_marsh
+
+# Settlements
+max_settlements = 1
+
+b_windmill_marsh = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = marsh
+#History

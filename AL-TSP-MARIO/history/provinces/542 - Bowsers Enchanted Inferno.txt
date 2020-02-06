@@ -1,0 +1,15 @@
+# c_bowsers_enchanted_inferno
+
+# County Title
+title = c_bowsers_enchanted_inferno
+
+# Settlements
+max_settlements = 1
+
+b_bowsers_enchanted_inferno = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = mountain
+#History

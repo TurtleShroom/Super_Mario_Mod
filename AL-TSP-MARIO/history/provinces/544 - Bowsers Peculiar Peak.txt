@@ -1,0 +1,15 @@
+# c_bowsers_peculiar_peak
+
+# County Title
+title = c_bowsers_peculiar_peak
+
+# Settlements
+max_settlements = 1
+
+b_bowsers_peculiar_peak = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = mountain
+#History

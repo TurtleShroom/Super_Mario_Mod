@@ -1,0 +1,15 @@
+# c_tylex_peak
+
+# County Title
+title = c_tylex_peak
+
+# Settlements
+max_settlements = 1
+
+b_tylex_peak = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = mountain
+#History

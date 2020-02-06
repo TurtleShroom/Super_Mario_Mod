@@ -1,0 +1,15 @@
+# c_powder_valley
+
+# County Title
+title = c_powder_valley
+
+# Settlements
+max_settlements = 1
+
+b_powder_valley = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

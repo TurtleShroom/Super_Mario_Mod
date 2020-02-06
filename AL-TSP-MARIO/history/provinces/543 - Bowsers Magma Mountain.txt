@@ -1,0 +1,15 @@
+# c_bowsers_magma_mountain
+
+# County Title
+title = c_bowsers_magma_mountain
+
+# Settlements
+max_settlements = 1
+
+b_bowsers_magma_mountain = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = mountain
+#History

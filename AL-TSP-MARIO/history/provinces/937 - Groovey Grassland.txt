@@ -1,0 +1,15 @@
+# c_groovey_grassland
+
+# County Title
+title = c_groovey_grassland
+
+# Settlements
+max_settlements = 1
+
+b_groovey_grassland = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

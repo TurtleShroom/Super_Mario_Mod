@@ -1,0 +1,15 @@
+# c_lake_orangatanga
+
+# County Title
+title = c_lake_orangatanga
+
+# Settlements
+max_settlements = 1
+
+b_lake_orangatanga = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_river_manor
+
+# County Title
+title = c_river_manor
+
+# Settlements
+max_settlements = 1
+
+b_river_manor = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

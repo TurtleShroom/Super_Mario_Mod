@@ -1,0 +1,15 @@
+# c_yoshi_lake
+
+# County Title
+title = c_yoshi_lake
+
+# Settlements
+max_settlements = 1
+
+b_yoshi_lake = castle
+
+# Misc
+culture = yoshi_island
+religion = seven_stars
+
+#History

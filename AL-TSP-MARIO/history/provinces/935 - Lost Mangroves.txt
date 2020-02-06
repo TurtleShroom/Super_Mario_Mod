@@ -1,0 +1,15 @@
+# c_lost_mangroves
+
+# County Title
+title = c_lost_mangroves
+
+# Settlements
+max_settlements = 1
+
+b_lost_mangroves = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

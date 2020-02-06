@@ -1,0 +1,15 @@
+# c_hoos_wood
+
+# County Title
+title = c_hoos_wood
+
+# Settlements
+max_settlements = 1
+
+b_hoos_wood = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+terrain = woods
+#History

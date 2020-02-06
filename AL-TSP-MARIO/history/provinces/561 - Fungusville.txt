@@ -1,0 +1,15 @@
+# c_fungusville
+
+# County Title
+title = c_fungusville
+
+# Settlements
+max_settlements = 1
+
+b_fungusville = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

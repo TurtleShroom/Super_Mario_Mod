@@ -1,0 +1,15 @@
+# c_whitevale
+
+# County Title
+title = c_whitevale
+
+# Settlements
+max_settlements = 1
+
+b_whitevale = castle
+
+# Misc
+culture = twilighter
+religion = seven_stars
+
+#History

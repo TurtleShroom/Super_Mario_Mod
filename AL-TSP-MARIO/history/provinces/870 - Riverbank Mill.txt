@@ -1,0 +1,15 @@
+# c_riverbank_mill
+
+# County Title
+title = c_riverbank_mill
+
+# Settlements
+max_settlements = 1
+
+b_riverbank_mill = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

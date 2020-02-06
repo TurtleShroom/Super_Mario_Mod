@@ -4,18 +4,12 @@
 title = c_toad_house
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_toad_house = castle
-#b_toad_house_2 = city
-#b_toad_house_3 = temple
-#b_toad_house_4 = castle
-#b_toad_house_5 = city
-#b_toad_house_6 = temple
-#b_toad_house_7 = castle
 
 # Misc
-culture = pirate
+culture = mario_brothers
 religion = seven_stars
 
 #History

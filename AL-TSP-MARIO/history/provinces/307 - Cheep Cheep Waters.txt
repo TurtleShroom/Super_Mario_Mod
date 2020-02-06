@@ -1,0 +1,15 @@
+# c_cheep_cheep_waters
+
+# County Title
+title = c_cheep_cheep_waters
+
+# Settlements
+max_settlements = 1
+
+b_cheep_cheep_waters = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

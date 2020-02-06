@@ -1,0 +1,15 @@
+# c_shifting_sands
+
+# County Title
+title = c_shifting_sands
+
+# Settlements
+max_settlements = 1
+
+b_shifting_sands = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = desert
+#History

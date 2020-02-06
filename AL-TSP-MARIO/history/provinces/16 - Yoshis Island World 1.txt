@@ -4,18 +4,12 @@
 title = c_yoshis_island_world_1
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_yoshis_island_world_1 = castle
-#b_yoshis_island_world_1_2 = city
-#b_yoshis_island_world_1_3 = temple
-#b_yoshis_island_world_1_4 = castle
-#b_yoshis_island_world_1_5 = city
-#b_yoshis_island_world_1_6 = temple
-#b_yoshis_island_world_1_7 = castle
 
 # Misc
-culture = pirate
+culture = yoshi_island
 religion = seven_stars
 
 #History

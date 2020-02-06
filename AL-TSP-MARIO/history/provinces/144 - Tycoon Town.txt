@@ -4,15 +4,9 @@
 title = c_tycoon_town
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_tycoon_town = castle
-#b_tycoon_town_2 = city
-#b_tycoon_town_3 = temple
-#b_tycoon_town_4 = castle
-#b_tycoon_town_5 = city
-#b_tycoon_town_6 = temple
-#b_tycoon_town_7 = castle
 
 # Misc
 culture = pirate

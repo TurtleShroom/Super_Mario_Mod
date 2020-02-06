@@ -1,0 +1,15 @@
+# c_chill_n_char_island
+
+# County Title
+title = c_chill_n_char_island
+
+# Settlements
+max_settlements = 1
+
+b_chill_n_char_island = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

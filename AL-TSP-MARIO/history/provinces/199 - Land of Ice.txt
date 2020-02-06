@@ -1,0 +1,15 @@
+# c_land_of_ice
+
+# County Title
+title = c_land_of_ice
+
+# Settlements
+max_settlements = 1
+
+b_land_of_ice = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = arctic
+#History

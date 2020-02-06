@@ -1,0 +1,15 @@
+# c_turtlevania
+
+# County Title
+title = c_turtlevania
+
+# Settlements
+max_settlements = 1
+
+b_turtlevania = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

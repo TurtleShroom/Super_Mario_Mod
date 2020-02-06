@@ -1,0 +1,15 @@
+# c_awazon_estuary
+
+# County Title
+title = c_awazon_estuary
+
+# Settlements
+max_settlements = 1
+
+b_awazon_estuary = castle
+
+# Misc
+culture = awazonian
+religion = tennis_religion
+terrain = jungle
+#History

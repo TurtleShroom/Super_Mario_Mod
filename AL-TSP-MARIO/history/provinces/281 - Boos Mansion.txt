@@ -1,0 +1,15 @@
+# c_boos_mansion
+
+# County Title
+title = c_boos_mansion
+
+# Settlements
+max_settlements = 1
+
+b_boos_mansion = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = forest
+#History

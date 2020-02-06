@@ -1,0 +1,15 @@
+# c_robo_land
+
+# County Title
+title = c_robo_land
+
+# Settlements
+max_settlements = 1
+
+b_robo_land = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

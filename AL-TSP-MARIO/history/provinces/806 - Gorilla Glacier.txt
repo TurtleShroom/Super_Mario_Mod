@@ -1,0 +1,15 @@
+# c_gorilla_glacier
+
+# County Title
+title = c_gorilla_glacier
+
+# Settlements
+max_settlements = 1
+
+b_gorilla_glacier = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

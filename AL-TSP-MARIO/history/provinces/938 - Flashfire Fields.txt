@@ -1,0 +1,15 @@
+# c_flashfire_fields
+
+# County Title
+title = c_flashfire_fields
+
+# Settlements
+max_settlements = 1
+
+b_flashfire_fields = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

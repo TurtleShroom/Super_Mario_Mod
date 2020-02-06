@@ -1,0 +1,15 @@
+# c_tiki_town
+
+# County Title
+title = c_tiki_town
+
+# Settlements
+max_settlements = 1
+
+b_tiki_town = castle
+
+# Misc
+culture = eastonese
+religion = tennis_religion
+
+#History

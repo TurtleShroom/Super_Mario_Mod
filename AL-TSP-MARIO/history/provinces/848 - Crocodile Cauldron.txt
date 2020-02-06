@@ -1,0 +1,15 @@
+# c_crocodile_cauldron
+
+# County Title
+title = c_crocodile_cauldron
+
+# Settlements
+max_settlements = 1
+
+b_crocodile_cauldron = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

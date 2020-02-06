@@ -1,0 +1,15 @@
+# c_diamond_city
+
+# County Title
+title = c_diamond_city
+
+# Settlements
+max_settlements = 1
+
+b_diamond_city = castle
+
+# Misc
+culture = diamond_city_men
+religion = seven_stars
+
+#History

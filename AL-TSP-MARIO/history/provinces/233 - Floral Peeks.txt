@@ -1,0 +1,15 @@
+# c_floral_peeks
+
+# County Title
+title = c_floral_peeks
+
+# Settlements
+max_settlements = 1
+
+b_floral_peeks = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

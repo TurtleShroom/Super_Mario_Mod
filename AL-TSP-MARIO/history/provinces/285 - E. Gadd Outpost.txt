@@ -1,0 +1,15 @@
+# c_e_gadd_outpost
+
+# County Title
+title = c_e_gadd_outpost
+
+# Settlements
+max_settlements = 1
+
+b_e_gadd_outpost = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

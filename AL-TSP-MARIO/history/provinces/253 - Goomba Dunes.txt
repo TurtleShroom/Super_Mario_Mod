@@ -1,0 +1,15 @@
+# c_goomba_dunes
+
+# County Title
+title = c_goomba_dunes
+
+# Settlements
+max_settlements = 1
+
+b_goomba_dunes = castle
+
+# Misc
+culture = goomba
+religion = seven_stars
+terrain = desert
+#History

@@ -1,0 +1,177 @@
+9930000 = {
+	name = "Bean"
+	religion = seven_stars
+	culture = beanbean_kingdom
+	dynasty = 9900309
+	female = yes
+	
+	
+	1966.1.1 = { 
+		birth = yes
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}
+
+9930001 = {
+	name = "Bush"
+	religion = seven_stars
+	culture = beanbean_kingdom
+	
+	
+	1966.1.1 = {
+		birth = yes
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}
+
+9930002 = {
+	name = Cork
+	religion = seven_stars
+	culture = beanbean_kingdom
+	dynasty = 9900303
+	
+	1966.1.1 = {
+		birth = yes
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}
+
+9930003 = {
+	name = Cask
+	religion = seven_stars
+	culture = beanbean_kingdom
+	employer = 9930002
+	dynasty = 9900303
+	
+	1966.1.1 = {
+		birth = yes
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}
+
+
+9930004 = {
+	name = Chuckalola
+	religion = seven_stars
+	culture = beanbean_kingdom
+	female = yes
+	
+	1966.1.1 = {
+		birth = yes
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}
+
+9930005 = {
+	name = Cannellini
+	religion = seven_stars
+	culture = beanbean_kingdom
+
+	
+	1966.1.1 = {
+		birth = yes
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}
+
+9930006 = {
+	name = Oho
+	religion = happiness
+	culture = beanbean_kingdom
+
+	
+	1966.1.1 = {
+		birth = yes
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}
+
+9930007 = {
+	name = Coco
+	religion = seven_stars
+	culture = beanbean_kingdom
+
+	
+	1966.1.1 = {
+		birth = yes
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}
+
+9930008 = {
+	name = Gigi
+	religion = seven_stars
+	culture = beanbean_kingdom
+	female = yes
+	dynasty = 9900310
+	
+	
+	1966.1.1 = {
+		birth = yes
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}
+
+9930009 = {
+	name = Merri
+	religion = seven_stars
+	culture = beanbean_kingdom
+	female = yes
+	employer = 9930008
+	dynasty = 9900310
+	
+	
+	1966.1.1 = {
+		birth = yes
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}
+
+9930010 = {
+	name = Boddle
+	religion = seven_stars
+	culture = beanbean_kingdom
+	
+	
+	1966.1.1 = {
+		birth = yes
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}
+
+
+9930011 = {
+	name = Jojora
+	religion = seven_stars
+	culture = beanbean_kingdom
+	female = yes
+	
+	1966.1.1 = {
+		birth = yes
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}

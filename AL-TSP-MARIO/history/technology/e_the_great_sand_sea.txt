@@ -1,0 +1,36 @@
+#THE GREAT SAND SEA
+technology = {
+	titles = {
+		d_big_city_bay
+		d_bone_dry_desert
+		d_car_land
+		d_cavi_cape
+		d_cheep_cheep_bay
+		d_dolphin_coast
+		d_dry_dry_outpost
+		d_eastern_mushroom_cape
+		d_gritzy_desert
+		d_plack_island
+		d_pyramid_park
+		d_royal_desert
+		d_ruin_area
+		d_shifting_desert
+		d_southern_dry_dry_desert
+		d_southern_mushroom_cape
+		d_sudden_death_valley
+		d_thwomp_desert
+		d_toad_cove
+		d_western_dry_dry_desert
+		d_yoshi_lake
+	}
+	800 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

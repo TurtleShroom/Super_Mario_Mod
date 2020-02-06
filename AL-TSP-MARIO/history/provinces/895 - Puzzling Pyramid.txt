@@ -1,0 +1,15 @@
+# c_puzzling_pyramid
+
+# County Title
+title = c_puzzling_pyramid
+
+# Settlements
+max_settlements = 1
+
+b_puzzling_pyramid = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

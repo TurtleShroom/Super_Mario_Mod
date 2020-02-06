@@ -1,0 +1,15 @@
+# c_mole_harbor
+
+# County Title
+title = c_mole_harbor
+
+# Settlements
+max_settlements = 1
+
+b_mole_harbor = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

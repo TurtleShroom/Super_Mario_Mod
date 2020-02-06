@@ -1,0 +1,41 @@
+#THE EIGHT NATIONS
+technology = {
+	titles = {
+		d_badlands
+		d_bowser_land
+		d_coin_land
+		d_cookie_land
+		d_damp_oasis
+		d_dark_world
+		d_desert_land
+		d_enigma
+		d_giant_land
+		d_gordon
+		d_grass_land
+		d_grassy_fortress
+		d_grassy_pipe_land
+		d_ice_land
+		d_magma_mountain
+		d_neo_bowser_city
+		d_pipe_land
+		d_shadowland
+		d_sizzling_desert
+		d_sky_land
+		d_snowball_mountain
+		d_the_lake_of_fire
+		d_traitors_bay
+		d_water_land
+		d_world_e
+		d_yoshi_desert
+	}
+	800 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

@@ -1,0 +1,15 @@
+# c_salt_coast
+
+# County Title
+title = c_salt_coast
+
+# Settlements
+max_settlements = 1
+
+b_salt_coast = castle
+
+# Misc
+culture = mudan
+religion = tennis_religion
+
+#History

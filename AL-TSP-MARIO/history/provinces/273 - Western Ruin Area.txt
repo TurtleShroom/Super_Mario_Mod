@@ -1,0 +1,15 @@
+# c_western_ruin_area
+
+# County Title
+title = c_western_ruin_area
+
+# Settlements
+max_settlements = 1
+
+b_western_ruin_area = castle
+
+# Misc
+culture = dryite
+religion = seven_stars
+
+#History

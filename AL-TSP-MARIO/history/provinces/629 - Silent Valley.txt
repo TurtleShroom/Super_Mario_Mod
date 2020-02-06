@@ -1,0 +1,15 @@
+# c_silent_valley
+
+# County Title
+title = c_silent_valley
+
+# Settlements
+max_settlements = 1
+
+b_silent_valley = castle
+
+# Misc
+culture = twilighter
+religion = seven_stars
+
+#History

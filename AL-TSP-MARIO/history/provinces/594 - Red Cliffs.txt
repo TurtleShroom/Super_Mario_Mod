@@ -1,0 +1,15 @@
+# c_red_cliffs
+
+# County Title
+title = c_red_cliffs
+
+# Settlements
+max_settlements = 1
+
+b_red_cliffs = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = mountain
+#History

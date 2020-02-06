@@ -1,0 +1,15 @@
+# c_urnwood
+
+# County Title
+title = c_urnwood
+
+# Settlements
+max_settlements = 1
+
+b_urnwood = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = forest
+#History

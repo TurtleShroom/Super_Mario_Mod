@@ -1,0 +1,15 @@
+# c_parched_palace
+
+# County Title
+title = c_parched_palace
+
+# Settlements
+max_settlements = 1
+
+b_parched_palace = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

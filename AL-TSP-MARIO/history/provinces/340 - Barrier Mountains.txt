@@ -1,0 +1,15 @@
+# c_barrier_mountains
+
+# County Title
+title = c_barrier_mountains
+
+# Settlements
+max_settlements = 1
+
+b_barrier_mountains = castle
+
+# Misc
+culture = dryite
+religion = seven_stars
+terrain = mountain
+#History

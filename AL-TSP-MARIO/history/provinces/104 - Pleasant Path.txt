@@ -4,15 +4,9 @@
 title = c_pleasant_path
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_pleasant_path = castle
-#b_pleasant_path_2 = city
-#b_pleasant_path_3 = temple
-#b_pleasant_path_4 = castle
-#b_pleasant_path_5 = city
-#b_pleasant_path_6 = temple
-#b_pleasant_path_7 = castle
 
 # Misc
 culture = pirate

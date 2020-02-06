@@ -1,0 +1,15 @@
+# c_rebel_fort
+
+# County Title
+title = c_rebel_fort
+
+# Settlements
+max_settlements = 1
+
+b_rebel_fort = castle
+
+# Misc
+culture = dryite
+religion = seven_stars
+
+#History

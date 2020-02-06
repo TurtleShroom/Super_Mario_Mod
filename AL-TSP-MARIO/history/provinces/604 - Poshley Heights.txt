@@ -1,0 +1,15 @@
+# c_poshley_heights
+
+# County Title
+title = c_poshley_heights
+
+# Settlements
+max_settlements = 1
+
+b_poshley_heights = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

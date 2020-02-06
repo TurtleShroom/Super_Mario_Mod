@@ -1,0 +1,15 @@
+# c_dry_bake_desert
+
+# County Title
+title = c_dry_bake_desert
+
+# Settlements
+max_settlements = 1
+
+b_dry_bake_desert = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = desert
+#History

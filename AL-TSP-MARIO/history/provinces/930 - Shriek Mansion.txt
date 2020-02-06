@@ -1,0 +1,15 @@
+# c_shriek_mansion
+
+# County Title
+title = c_shriek_mansion
+
+# Settlements
+max_settlements = 1
+
+b_shriek_mansion = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

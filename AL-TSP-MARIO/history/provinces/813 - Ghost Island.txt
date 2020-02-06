@@ -1,0 +1,15 @@
+# c_ghost_island
+
+# County Title
+title = c_ghost_island
+
+# Settlements
+max_settlements = 1
+
+b_ghost_island = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

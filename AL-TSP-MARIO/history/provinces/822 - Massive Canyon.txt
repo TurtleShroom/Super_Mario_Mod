@@ -1,0 +1,15 @@
+# c_massive_canyon
+
+# County Title
+title = c_massive_canyon
+
+# Settlements
+max_settlements = 1
+
+b_massive_canyon = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

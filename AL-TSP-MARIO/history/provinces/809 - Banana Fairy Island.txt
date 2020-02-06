@@ -1,0 +1,15 @@
+# c_banana_fairy_island
+
+# County Title
+title = c_banana_fairy_island
+
+# Settlements
+max_settlements = 1
+
+b_banana_fairy_island = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

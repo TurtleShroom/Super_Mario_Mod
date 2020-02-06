@@ -1,0 +1,15 @@
+# c_easton_range
+
+# County Title
+title = c_easton_range
+
+# Settlements
+max_settlements = 1
+
+b_easton_range = castle
+
+# Misc
+culture = eastonese
+religion = tennis_religion
+
+#History

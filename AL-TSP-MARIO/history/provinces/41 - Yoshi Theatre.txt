@@ -4,18 +4,12 @@
 title = c_yoshi_theatre
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_yoshi_theatre = castle
-#b_yoshi_theatre_2 = city
-#b_yoshi_theatre_3 = temple
-#b_yoshi_theatre_4 = castle
-#b_yoshi_theatre_5 = city
-#b_yoshi_theatre_6 = temple
-#b_yoshi_theatre_7 = castle
 
 # Misc
-culture = pirate
+culture = yoshi_island
 religion = seven_stars
 
 #History

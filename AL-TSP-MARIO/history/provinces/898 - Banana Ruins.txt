@@ -1,0 +1,15 @@
+# c_banana_ruins
+
+# County Title
+title = c_banana_ruins
+
+# Settlements
+max_settlements = 1
+
+b_banana_ruins = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

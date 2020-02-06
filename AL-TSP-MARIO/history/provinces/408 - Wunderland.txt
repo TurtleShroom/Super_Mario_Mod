@@ -1,0 +1,15 @@
+# c_wunderland
+
+# County Title
+title = c_wunderland
+
+# Settlements
+max_settlements = 1
+
+b_wunderland = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

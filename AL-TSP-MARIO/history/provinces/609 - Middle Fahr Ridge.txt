@@ -1,0 +1,15 @@
+# c_middle_fahr_ridge
+
+# County Title
+title = c_middle_fahr_ridge
+
+# Settlements
+max_settlements = 1
+
+b_middle_fahr_ridge = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = mountain
+#History

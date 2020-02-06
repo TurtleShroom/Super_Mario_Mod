@@ -1,0 +1,15 @@
+# c_chopperbird_race
+
+# County Title
+title = c_chopperbird_race
+
+# Settlements
+max_settlements = 1
+
+b_chopperbird_race = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

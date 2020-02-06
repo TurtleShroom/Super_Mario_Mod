@@ -1,0 +1,15 @@
+# c_cloud_stairway
+
+# County Title
+title = c_cloud_stairway
+
+# Settlements
+max_settlements = 1
+
+b_cloud_stairway = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

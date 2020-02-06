@@ -1,0 +1,15 @@
+# c_bamboo_forest
+
+# County Title
+title = c_bamboo_forest
+
+# Settlements
+max_settlements = 1
+
+b_bamboo_forest = castle
+
+# Misc
+culture = chaian
+religion = tennis_religion
+terrain = forest
+#History

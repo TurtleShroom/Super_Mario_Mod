@@ -1,0 +1,15 @@
+# c_dark_forest
+
+# County Title
+title = c_dark_forest
+
+# Settlements
+max_settlements = 1
+
+b_dark_forest = castle
+
+# Misc
+culture = yoshi_island
+religion = seven_stars
+terrain = forest
+#History

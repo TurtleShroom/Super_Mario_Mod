@@ -1,0 +1,15 @@
+# c_asteriod_belt
+
+# County Title
+title = c_asteriod_belt
+
+# Settlements
+max_settlements = 1
+
+b_asteriod_belt = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

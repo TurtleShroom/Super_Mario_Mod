@@ -1,0 +1,15 @@
+# c_flower_koku
+
+# County Title
+title = c_flower_koku
+
+# Settlements
+max_settlements = 1
+
+b_flower_koku = castle
+
+# Misc
+culture = chaian
+religion = tennis_religion
+
+#History

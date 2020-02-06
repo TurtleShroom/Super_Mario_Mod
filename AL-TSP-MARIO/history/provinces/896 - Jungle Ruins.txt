@@ -1,0 +1,15 @@
+# c_jungle_ruins
+
+# County Title
+title = c_jungle_ruins
+
+# Settlements
+max_settlements = 1
+
+b_jungle_ruins = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+terrain = jungle
+#History

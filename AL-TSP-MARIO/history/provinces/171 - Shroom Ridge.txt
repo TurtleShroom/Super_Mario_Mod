@@ -4,18 +4,12 @@
 title = c_shroom_ridge
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_shroom_ridge = castle
-#b_shroom_ridge_2 = city
-#b_shroom_ridge_3 = temple
-#b_shroom_ridge_4 = castle
-#b_shroom_ridge_5 = city
-#b_shroom_ridge_6 = temple
-#b_shroom_ridge_7 = castle
 
 # Misc
 culture = pirate
 religion = seven_stars
-
+terrain = mountain
 #History

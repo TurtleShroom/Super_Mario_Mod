@@ -1,0 +1,15 @@
+# c_snow_rise
+
+# County Title
+title = c_snow_rise
+
+# Settlements
+max_settlements = 1
+
+b_snow_rise = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = arctic
+#History

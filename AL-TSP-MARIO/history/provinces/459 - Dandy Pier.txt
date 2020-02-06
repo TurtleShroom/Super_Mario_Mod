@@ -1,0 +1,15 @@
+# c_dandy_pier
+
+# County Title
+title = c_dandy_pier
+
+# Settlements
+max_settlements = 1
+
+b_dandy_pier = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_apple_mountain
+
+# County Title
+title = c_apple_mountain
+
+# Settlements
+max_settlements = 1
+
+b_apple_mountain = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = mountain
+#History

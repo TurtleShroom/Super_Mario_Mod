@@ -1,0 +1,15 @@
+# c_madcap_mine
+
+# County Title
+title = c_madcap_mine
+
+# Settlements
+max_settlements = 1
+
+b_madcap_mine = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+terrain = mountain
+#History

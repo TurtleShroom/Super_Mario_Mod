@@ -1,0 +1,15 @@
+# c_channel_sands
+
+# County Title
+title = c_channel_sands
+
+# Settlements
+max_settlements = 1
+
+b_channel_sands = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = desert
+#History

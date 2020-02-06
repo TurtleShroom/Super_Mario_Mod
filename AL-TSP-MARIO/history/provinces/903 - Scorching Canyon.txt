@@ -1,0 +1,15 @@
+# c_scorching_canyon
+
+# County Title
+title = c_scorching_canyon
+
+# Settlements
+max_settlements = 1
+
+b_scorching_canyon = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_magma_colliseum
+
+# County Title
+title = c_magma_colliseum
+
+# Settlements
+max_settlements = 1
+
+b_magma_colliseum = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

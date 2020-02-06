@@ -1,0 +1,15 @@
+# c_plack_highlands
+
+# County Title
+title = c_plack_highlands
+
+# Settlements
+max_settlements = 1
+
+b_plack_highlands = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

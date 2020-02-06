@@ -1,0 +1,15 @@
+# c_icicle_coast
+
+# County Title
+title = c_icicle_coast
+
+# Settlements
+max_settlements = 1
+
+b_icicle_coast = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = arctic
+#History

@@ -4,18 +4,12 @@
 title = c_tree_zone
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_tree_zone = castle
-#b_tree_zone_2 = city
-#b_tree_zone_3 = temple
-#b_tree_zone_4 = castle
-#b_tree_zone_5 = city
-#b_tree_zone_6 = temple
-#b_tree_zone_7 = castle
 
 # Misc
-culture = pirate
+culture = mario_brothers
 religion = seven_stars
 
 #History

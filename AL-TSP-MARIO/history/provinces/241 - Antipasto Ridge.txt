@@ -1,0 +1,15 @@
+# c_antipasto_ridge
+
+# County Title
+title = c_antipasto_ridge
+
+# Settlements
+max_settlements = 1
+
+b_antipasto_ridge = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = mountain
+#History

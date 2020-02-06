@@ -1,0 +1,15 @@
+# c_kappa_isle
+
+# County Title
+title = c_kappa_isle
+
+# Settlements
+max_settlements = 1
+
+b_kappa_isle = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

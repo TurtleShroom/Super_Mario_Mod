@@ -1,0 +1,15 @@
+# c_mushroom_harbor
+
+# County Title
+title = c_mushroom_harbor
+
+# Settlements
+max_settlements = 1
+
+b_mushroom_harbor = castle
+
+# Misc
+culture = mushroom_kingdom
+religion = seven_stars
+
+#History

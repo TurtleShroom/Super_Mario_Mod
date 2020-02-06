@@ -1,0 +1,15 @@
+# c_battle_canyon
+
+# County Title
+title = c_battle_canyon
+
+# Settlements
+max_settlements = 1
+
+b_battle_canyon = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_twilight_trail
+
+# County Title
+title = c_twilight_trail
+
+# Settlements
+max_settlements = 1
+
+b_twilight_trail = castle
+
+# Misc
+culture = twilighter
+religion = seven_stars
+
+#History

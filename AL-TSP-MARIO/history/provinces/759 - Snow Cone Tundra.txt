@@ -1,0 +1,15 @@
+# c_snow_cone_tundra
+
+# County Title
+title = c_snow_cone_tundra
+
+# Settlements
+max_settlements = 1
+
+b_snow_cone_tundra = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = arctic
+#History

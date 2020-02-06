@@ -1,0 +1,15 @@
+# c_razor_ridge_2
+
+# County Title
+title = c_razor_ridge_2
+
+# Settlements
+max_settlements = 1
+
+b_razor_ridge_2 = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+terrain = mountain
+#History

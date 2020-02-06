@@ -1,0 +1,15 @@
+# c_sphinx_caverns
+
+# County Title
+title = c_sphinx_caverns
+
+# Settlements
+max_settlements = 1
+
+b_sphinx_caverns = castle
+
+# Misc
+culture = birabuton
+religion = tennis_religion
+terrain = desert
+#History

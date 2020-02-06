@@ -1,0 +1,15 @@
+# c_k3
+
+# County Title
+title = c_k3
+
+# Settlements
+max_settlements = 1
+
+b_k3 = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

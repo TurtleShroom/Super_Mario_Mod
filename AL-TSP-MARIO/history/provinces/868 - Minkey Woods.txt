@@ -1,0 +1,15 @@
+# c_minkey_woods
+
+# County Title
+title = c_minkey_woods
+
+# Settlements
+max_settlements = 1
+
+b_minkey_woods = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+terrain = woods
+#History

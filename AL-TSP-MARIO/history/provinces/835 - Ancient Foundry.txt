@@ -1,0 +1,15 @@
+# c_ancient_foundry
+
+# County Title
+title = c_ancient_foundry
+
+# Settlements
+max_settlements = 1
+
+b_ancient_foundry = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

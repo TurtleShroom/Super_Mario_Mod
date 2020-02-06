@@ -1,0 +1,15 @@
+# c_nights_chill
+
+# County Title
+title = c_nights_chill
+
+# Settlements
+max_settlements = 1
+
+b_nights_chill = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

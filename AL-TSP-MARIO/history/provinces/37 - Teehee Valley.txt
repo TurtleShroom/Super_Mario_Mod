@@ -4,18 +4,12 @@
 title = c_teehee_valley
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_teehee_valley = castle
-#b_teehee_valley_2 = city
-#b_teehee_valley_3 = temple
-#b_teehee_valley_4 = castle
-#b_teehee_valley_5 = city
-#b_teehee_valley_6 = temple
-#b_teehee_valley_7 = castle
 
 # Misc
-culture = pirate
+culture = beanbean_kingdom
 religion = seven_stars
 
 #History

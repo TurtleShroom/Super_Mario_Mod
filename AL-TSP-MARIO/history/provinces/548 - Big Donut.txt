@@ -1,0 +1,15 @@
+# c_big_donut
+
+# County Title
+title = c_big_donut
+
+# Settlements
+max_settlements = 1
+
+b_big_donut = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

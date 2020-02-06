@@ -1,0 +1,15 @@
+# c_sweet_paradise
+
+# County Title
+title = c_sweet_paradise
+
+# Settlements
+max_settlements = 1
+
+b_sweet_paradise = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

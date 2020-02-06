@@ -1,0 +1,15 @@
+# c_quartz_crag
+
+# County Title
+title = c_quartz_crag
+
+# Settlements
+max_settlements = 1
+
+b_quartz_crag = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = mountain
+#History

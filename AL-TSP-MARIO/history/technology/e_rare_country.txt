@@ -1,0 +1,73 @@
+#RARE COUNTRY
+technology = {
+	titles = {
+		d_apple
+		d_autumn_island
+		d_banana
+		d_banana_fairy_island
+		d_black_land
+		d_cherry
+		d_chili_pepper
+		d_climber_chain
+		d_crocodile_coast
+		d_crocodile_lake
+		d_dino_coast
+		d_durian
+		d_emotion
+		d_factory_lake
+		d_grape
+		d_great_ape_lake
+		d_grizzly_land
+		d_hominina
+		d_juicy_jungle_island
+		d_kermling_jaw
+		d_kongo
+		d_kremland
+		d_kremling_lake
+		d_lake_lodge
+		d_lake_orangatanga
+		d_lemon
+		d_lychee
+		d_mammoth_coast
+		d_mangrove_island
+		d_melon
+		d_misty_coast
+		d_northern_jewelry_islands
+		d_northern_salmon_river
+		d_orange
+		d_pacifica
+		d_peach
+		d_pear
+		d_pillow_land
+		d_pineapple
+		d_roolenstein_lake
+		d_rough_land
+		d_savannah_island
+		d_sea_breeze_cove
+		d_secret_seclusion
+		d_sensation
+		d_sleeper
+		d_southern_jewelry_islands
+		d_southern_salmon_river
+		d_star_fruit
+		d_strawberry
+		d_swinging_monkey
+		d_the_lost_world
+		d_the_lowlands
+		d_the_rivers
+		d_timber_coast
+		d_timber_lake
+		d_wakeup
+		d_watermelon
+	}
+	800 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

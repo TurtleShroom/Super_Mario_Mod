@@ -1,0 +1,15 @@
+# c_frosty_peaks
+
+# County Title
+title = c_frosty_peaks
+
+# Settlements
+max_settlements = 1
+
+b_frosty_peaks = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = mountain
+#History

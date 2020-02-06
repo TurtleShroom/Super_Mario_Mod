@@ -1,0 +1,15 @@
+# c_marrymore
+
+# County Title
+title = c_marrymore
+
+# Settlements
+max_settlements = 1
+
+b_marrymore = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

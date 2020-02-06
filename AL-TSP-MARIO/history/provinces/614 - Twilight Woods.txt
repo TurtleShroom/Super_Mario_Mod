@@ -1,0 +1,15 @@
+# c_twilight_woods
+
+# County Title
+title = c_twilight_woods
+
+# Settlements
+max_settlements = 1
+
+b_twilight_woods = castle
+
+# Misc
+culture = twilighter
+religion = seven_stars
+terrain = woods
+#History

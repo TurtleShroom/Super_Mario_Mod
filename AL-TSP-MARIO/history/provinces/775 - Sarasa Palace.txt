@@ -1,0 +1,15 @@
+# c_sarasa_palace
+
+# County Title
+title = c_sarasa_palace
+
+# Settlements
+max_settlements = 1
+
+b_sarasa_palace = castle
+
+# Misc
+culture = chaian
+religion = tennis_religion
+terrain = mountain
+#History

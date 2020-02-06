@@ -1,0 +1,15 @@
+# c_thousand_needles
+
+# County Title
+title = c_thousand_needles
+
+# Settlements
+max_settlements = 1
+
+b_thousand_needles = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

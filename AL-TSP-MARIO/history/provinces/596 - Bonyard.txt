@@ -1,0 +1,15 @@
+# c_bonyard
+
+# County Title
+title = c_bonyard
+
+# Settlements
+max_settlements = 1
+
+b_bonyard = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

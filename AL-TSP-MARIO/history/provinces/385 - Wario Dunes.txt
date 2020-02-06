@@ -1,0 +1,15 @@
+# c_wario_dunes
+
+# County Title
+title = c_wario_dunes
+
+# Settlements
+max_settlements = 1
+
+b_wario_dunes = castle
+
+# Misc
+culture = dryite
+religion = seven_stars
+terrain = desert
+#History

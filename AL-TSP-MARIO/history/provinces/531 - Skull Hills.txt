@@ -1,0 +1,15 @@
+# c_skull_hills
+
+# County Title
+title = c_skull_hills
+
+# Settlements
+max_settlements = 1
+
+b_skull_hills = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = hills
+#History

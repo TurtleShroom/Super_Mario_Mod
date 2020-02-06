@@ -1,0 +1,15 @@
+# c_moai_flats
+
+# County Title
+title = c_moai_flats
+
+# Settlements
+max_settlements = 1
+
+b_moai_flats = castle
+
+# Misc
+culture = eastonese
+religion = tennis_religion
+
+#History

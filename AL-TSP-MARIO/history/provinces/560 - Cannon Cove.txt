@@ -1,0 +1,15 @@
+# c_cannon_cove
+
+# County Title
+title = c_cannon_cove
+
+# Settlements
+max_settlements = 1
+
+b_cannon_cove = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

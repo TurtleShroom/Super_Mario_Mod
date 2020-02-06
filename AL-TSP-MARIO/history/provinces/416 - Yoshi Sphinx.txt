@@ -1,0 +1,15 @@
+# c_yoshi_sphinx
+
+# County Title
+title = c_yoshi_sphinx
+
+# Settlements
+max_settlements = 1
+
+b_yoshi_sphinx = castle
+
+# Misc
+culture = yoshi_island
+religion = seven_stars
+terrain = desert
+#History

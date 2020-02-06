@@ -1,0 +1,15 @@
+# c_shaved_ice_cave
+
+# County Title
+title = c_shaved_ice_cave
+
+# Settlements
+max_settlements = 1
+
+b_shaved_ice_cave = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = arctic
+#History

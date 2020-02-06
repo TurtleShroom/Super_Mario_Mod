@@ -1,0 +1,15 @@
+# c_pastadena
+
+# County Title
+title = c_pastadena
+
+# Settlements
+max_settlements = 1
+
+b_pastadena = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_peaceful_warios_woods
+
+# County Title
+title = c_peaceful_warios_woods
+
+# Settlements
+max_settlements = 1
+
+b_peaceful_warios_woods = castle
+
+# Misc
+culture = mario_brothers
+religion = seven_stars
+terrain = woods
+#History

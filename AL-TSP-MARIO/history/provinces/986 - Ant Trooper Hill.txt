@@ -1,0 +1,15 @@
+# c_ant_trooper_hill
+
+# County Title
+title = c_ant_trooper_hill
+
+# Settlements
+max_settlements = 1
+
+b_ant_trooper_hill = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = hills
+#History

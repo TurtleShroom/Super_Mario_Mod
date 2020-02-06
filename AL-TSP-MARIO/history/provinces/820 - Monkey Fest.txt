@@ -1,0 +1,15 @@
+# c_monkey_fest
+
+# County Title
+title = c_monkey_fest
+
+# Settlements
+max_settlements = 1
+
+b_monkey_fest = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_tightrope_tropics
+
+# County Title
+title = c_tightrope_tropics
+
+# Settlements
+max_settlements = 1
+
+b_tightrope_tropics = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

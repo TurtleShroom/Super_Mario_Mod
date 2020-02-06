@@ -1,0 +1,15 @@
+# c_easton_caves
+
+# County Title
+title = c_easton_caves
+
+# Settlements
+max_settlements = 1
+
+b_easton_caves = castle
+
+# Misc
+culture = eastonese
+religion = tennis_religion
+
+#History

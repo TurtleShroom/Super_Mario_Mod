@@ -1,0 +1,15 @@
+# c_vertigo_verge
+
+# County Title
+title = c_vertigo_verge
+
+# Settlements
+max_settlements = 1
+
+b_vertigo_verge = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

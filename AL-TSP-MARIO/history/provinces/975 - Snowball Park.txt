@@ -1,0 +1,15 @@
+# c_snowball_park
+
+# County Title
+title = c_snowball_park
+
+# Settlements
+max_settlements = 1
+
+b_snowball_park = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = arctic
+#History

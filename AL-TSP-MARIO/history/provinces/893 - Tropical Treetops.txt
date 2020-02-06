@@ -1,0 +1,15 @@
+# c_tropical_treetops
+
+# County Title
+title = c_tropical_treetops
+
+# Settlements
+max_settlements = 1
+
+b_tropical_treetops = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_calm_coast
+
+# County Title
+title = c_calm_coast
+
+# Settlements
+max_settlements = 1
+
+b_calm_coast = castle
+
+# Misc
+culture = mudan
+religion = tennis_religion
+
+#History

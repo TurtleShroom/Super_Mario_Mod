@@ -4,15 +4,9 @@
 title = c_toad_town
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_toad_town = castle
-#b_toad_town_2 = city
-#b_toad_town_3 = temple
-#b_toad_town_4 = castle
-#b_toad_town_5 = city
-#b_toad_town_6 = temple
-#b_toad_town_7 = castle
 
 # Misc
 culture = pirate

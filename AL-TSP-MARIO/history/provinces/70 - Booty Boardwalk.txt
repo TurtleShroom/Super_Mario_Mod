@@ -4,18 +4,12 @@
 title = c_booty_boardwalk
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_booty_boardwalk = castle
-#b_booty_boardwalk_2 = city
-#b_booty_boardwalk_3 = temple
-#b_booty_boardwalk_4 = castle
-#b_booty_boardwalk_5 = city
-#b_booty_boardwalk_6 = temple
-#b_booty_boardwalk_7 = castle
 
 # Misc
-culture = pirate
+culture = crab_islands
 religion = seven_stars
 
 #History

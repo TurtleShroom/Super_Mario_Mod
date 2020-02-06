@@ -1,0 +1,15 @@
+# c_meloncholy_estuary
+
+# County Title
+title = c_meloncholy_estuary
+
+# Settlements
+max_settlements = 1
+
+b_meloncholy_estuary = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

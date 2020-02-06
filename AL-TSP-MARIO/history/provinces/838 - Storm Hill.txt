@@ -1,0 +1,15 @@
+# c_storm_hill
+
+# County Title
+title = c_storm_hill
+
+# Settlements
+max_settlements = 1
+
+b_storm_hill = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+terrain = hills
+#History

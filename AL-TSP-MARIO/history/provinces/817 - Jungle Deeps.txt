@@ -1,0 +1,15 @@
+# c_jungle_deeps
+
+# County Title
+title = c_jungle_deeps
+
+# Settlements
+max_settlements = 1
+
+b_jungle_deeps = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+terrain = jungle
+#History

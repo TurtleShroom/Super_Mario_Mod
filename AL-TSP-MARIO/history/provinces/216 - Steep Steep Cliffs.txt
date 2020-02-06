@@ -1,0 +1,15 @@
+# c_steep_steep_cliffs
+
+# County Title
+title = c_steep_steep_cliffs
+
+# Settlements
+max_settlements = 1
+
+b_steep_steep_cliffs = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = mountain
+#History

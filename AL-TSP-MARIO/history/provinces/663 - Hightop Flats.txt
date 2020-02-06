@@ -1,0 +1,15 @@
+# c_hightop_flats
+
+# County Title
+title = c_hightop_flats
+
+# Settlements
+max_settlements = 1
+
+b_hightop_flats = castle
+
+# Misc
+culture = mushroom_kingdom
+religion = seven_stars
+
+#History

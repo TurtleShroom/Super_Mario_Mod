@@ -1,7 +1,7 @@
 ##########################################################################
 #				Mario Mod events and bugs
 ##########################################################################
-#				Written by Shawn Gordon - AKA AvroLancaster
+#				Written by Shawn Gordon - aka AvroLancaster
 ##########################################################################
 namespace = MARIONACTIONS
 # Vassal accepts religious conversion demand. 

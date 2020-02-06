@@ -1,0 +1,15 @@
+# c_spice_coast
+
+# County Title
+title = c_spice_coast
+
+# Settlements
+max_settlements = 1
+
+b_spice_coast = castle
+
+# Misc
+culture = mudan
+religion = tennis_religion
+
+#History

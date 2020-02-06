@@ -4,18 +4,12 @@
 title = c_toad_cliffs
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_toad_cliffs = castle
-#b_toad_cliffs_2 = city
-#b_toad_cliffs_3 = temple
-#b_toad_cliffs_4 = castle
-#b_toad_cliffs_5 = city
-#b_toad_cliffs_6 = temple
-#b_toad_cliffs_7 = castle
 
 # Misc
 culture = pirate
 religion = seven_stars
-
+terrain = mountain
 #History

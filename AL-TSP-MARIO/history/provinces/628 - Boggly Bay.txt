@@ -1,0 +1,15 @@
+# c_boggly_bay
+
+# County Title
+title = c_boggly_bay
+
+# Settlements
+max_settlements = 1
+
+b_boggly_bay = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

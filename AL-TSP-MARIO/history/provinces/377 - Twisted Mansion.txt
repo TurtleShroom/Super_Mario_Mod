@@ -1,0 +1,15 @@
+# c_twisted_mansion
+
+# County Title
+title = c_twisted_mansion
+
+# Settlements
+max_settlements = 1
+
+b_twisted_mansion = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

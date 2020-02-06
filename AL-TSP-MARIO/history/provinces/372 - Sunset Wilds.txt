@@ -1,0 +1,15 @@
+# c_sunset_wilds
+
+# County Title
+title = c_sunset_wilds
+
+# Settlements
+max_settlements = 1
+
+b_sunset_wilds = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

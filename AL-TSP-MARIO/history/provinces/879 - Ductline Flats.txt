@@ -1,0 +1,15 @@
+# c_ductline_flats
+
+# County Title
+title = c_ductline_flats
+
+# Settlements
+max_settlements = 1
+
+b_ductline_flats = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

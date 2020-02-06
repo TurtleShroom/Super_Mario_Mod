@@ -1,0 +1,15 @@
+# c_vine_valley
+
+# County Title
+title = c_vine_valley
+
+# Settlements
+max_settlements = 1
+
+b_vine_valley = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

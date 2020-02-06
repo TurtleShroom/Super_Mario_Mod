@@ -1,0 +1,15 @@
+# c_monkey_mines
+
+# County Title
+title = c_monkey_mines
+
+# Settlements
+max_settlements = 1
+
+b_monkey_mines = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+terrain = mountain
+#History

@@ -1,0 +1,15 @@
+# c_avalanche_alley
+
+# County Title
+title = c_avalanche_alley
+
+# Settlements
+max_settlements = 1
+
+b_avalanche_alley = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

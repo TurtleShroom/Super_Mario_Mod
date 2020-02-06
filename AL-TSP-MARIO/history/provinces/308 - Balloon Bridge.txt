@@ -1,0 +1,15 @@
+# c_balloon_bridge
+
+# County Title
+title = c_balloon_bridge
+
+# Settlements
+max_settlements = 1
+
+b_balloon_bridge = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = mountain
+#History

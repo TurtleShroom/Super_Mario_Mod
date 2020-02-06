@@ -1,0 +1,15 @@
+# c_pyramid_park
+
+# County Title
+title = c_pyramid_park
+
+# Settlements
+max_settlements = 1
+
+b_pyramid_park = castle
+
+# Misc
+culture = dryite
+religion = seven_stars
+terrain = desert
+#History

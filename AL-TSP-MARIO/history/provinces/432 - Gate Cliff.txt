@@ -1,0 +1,15 @@
+# c_gate_cliff
+
+# County Title
+title = c_gate_cliff
+
+# Settlements
+max_settlements = 1
+
+b_gate_cliff = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = mountain
+#History

@@ -1,0 +1,15 @@
+# c_haunted_toadwood
+
+# County Title
+title = c_haunted_toadwood
+
+# Settlements
+max_settlements = 1
+
+b_haunted_toadwood = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = forest
+#History

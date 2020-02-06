@@ -1,0 +1,15 @@
+# c_primate_plains
+
+# County Title
+title = c_primate_plains
+
+# Settlements
+max_settlements = 1
+
+b_primate_plains = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

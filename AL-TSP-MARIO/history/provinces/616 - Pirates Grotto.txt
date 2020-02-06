@@ -1,0 +1,15 @@
+# c_pirates_grotto
+
+# County Title
+title = c_pirates_grotto
+
+# Settlements
+max_settlements = 1
+
+b_pirates_grotto = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

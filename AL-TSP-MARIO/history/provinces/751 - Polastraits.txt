@@ -1,0 +1,15 @@
+# c_polastraits
+
+# County Title
+title = c_polastraits
+
+# Settlements
+max_settlements = 1
+
+b_polastraits = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = arctic
+#History

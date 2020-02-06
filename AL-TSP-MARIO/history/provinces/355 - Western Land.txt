@@ -1,0 +1,15 @@
+# c_western_land
+
+# County Title
+title = c_western_land
+
+# Settlements
+max_settlements = 1
+
+b_western_land = castle
+
+# Misc
+culture = dryite
+religion = seven_stars
+
+#History

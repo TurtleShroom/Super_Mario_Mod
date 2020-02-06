@@ -1,0 +1,15 @@
+# c_jungle_jam
+
+# County Title
+title = c_jungle_jam
+
+# Settlements
+max_settlements = 1
+
+b_jungle_jam = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = jungle
+#History

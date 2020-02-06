@@ -1,0 +1,15 @@
+# c_koopacropolis
+
+# County Title
+title = c_koopacropolis
+
+# Settlements
+max_settlements = 1
+
+b_koopacropolis = castle
+
+# Misc
+culture = koopa
+religion = seven_stars
+
+#History

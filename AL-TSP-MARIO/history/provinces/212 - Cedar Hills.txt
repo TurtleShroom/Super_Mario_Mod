@@ -1,0 +1,15 @@
+# c_cedar_hills
+
+# County Title
+title = c_cedar_hills
+
+# Settlements
+max_settlements = 1
+
+b_cedar_hills = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

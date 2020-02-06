@@ -1,0 +1,15 @@
+# c_palm_pyramids
+
+# County Title
+title = c_palm_pyramids
+
+# Settlements
+max_settlements = 1
+
+b_palm_pyramids = castle
+
+# Misc
+culture = birabuton
+religion = tennis_religion
+terrain = desert
+#History

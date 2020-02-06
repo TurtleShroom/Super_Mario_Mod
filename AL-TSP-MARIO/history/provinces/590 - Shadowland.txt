@@ -1,0 +1,15 @@
+# c_shadowland
+
+# County Title
+title = c_shadowland
+
+# Settlements
+max_settlements = 1
+
+b_shadowland = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

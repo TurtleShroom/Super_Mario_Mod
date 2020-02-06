@@ -1,0 +1,15 @@
+# c_mushroom_way
+
+# County Title
+title = c_mushroom_way
+
+# Settlements
+max_settlements = 1
+
+b_mushroom_way = castle
+
+# Misc
+culture = mushroom_kingdom
+religion = seven_stars
+
+#History

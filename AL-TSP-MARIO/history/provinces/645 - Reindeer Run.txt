@@ -1,0 +1,15 @@
+# c_reindeer_run
+
+# County Title
+title = c_reindeer_run
+
+# Settlements
+max_settlements = 1
+
+b_reindeer_run = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

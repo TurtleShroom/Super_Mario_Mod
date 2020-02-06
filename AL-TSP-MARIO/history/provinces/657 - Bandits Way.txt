@@ -1,0 +1,15 @@
+# c_bandits_way
+
+# County Title
+title = c_bandits_way
+
+# Settlements
+max_settlements = 1
+
+b_bandits_way = castle
+
+# Misc
+culture = mushroom_kingdom
+religion = seven_stars
+
+#History

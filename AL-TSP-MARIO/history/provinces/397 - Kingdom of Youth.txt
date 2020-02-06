@@ -1,0 +1,15 @@
+# c_kingdom_of_youth
+
+# County Title
+title = c_kingdom_of_youth
+
+# Settlements
+max_settlements = 1
+
+b_kingdom_of_youth = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

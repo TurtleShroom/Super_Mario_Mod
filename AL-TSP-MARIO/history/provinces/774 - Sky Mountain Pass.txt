@@ -1,0 +1,15 @@
+# c_sky_mountain_pass
+
+# County Title
+title = c_sky_mountain_pass
+
+# Settlements
+max_settlements = 1
+
+b_sky_mountain_pass = castle
+
+# Misc
+culture = chaian
+religion = tennis_religion
+terrain = mountain
+#History

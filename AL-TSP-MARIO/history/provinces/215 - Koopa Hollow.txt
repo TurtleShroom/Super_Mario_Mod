@@ -1,0 +1,15 @@
+# c_koopa_hollow
+
+# County Title
+title = c_koopa_hollow
+
+# Settlements
+max_settlements = 1
+
+b_koopa_hollow = castle
+
+# Misc
+culture = koopa
+religion = seven_stars
+
+#History

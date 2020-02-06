@@ -1,0 +1,15 @@
+# c_salty_shore
+
+# County Title
+title = c_salty_shore
+
+# Settlements
+max_settlements = 1
+
+b_salty_shore = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

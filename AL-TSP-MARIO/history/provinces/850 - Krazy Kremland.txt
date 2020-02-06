@@ -1,0 +1,15 @@
+# c_krazy_kremland
+
+# County Title
+title = c_krazy_kremland
+
+# Settlements
+max_settlements = 1
+
+b_krazy_kremland = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_trout_river_bend
+
+# County Title
+title = c_trout_river_bend
+
+# Settlements
+max_settlements = 1
+
+b_trout_river_bend = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

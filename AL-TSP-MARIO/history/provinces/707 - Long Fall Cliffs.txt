@@ -1,0 +1,15 @@
+# c_long_fall_cliffs
+
+# County Title
+title = c_long_fall_cliffs
+
+# Settlements
+max_settlements = 1
+
+b_long_fall_cliffs = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = mountain
+#History

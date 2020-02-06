@@ -4,18 +4,12 @@
 title = c_hippo_zone
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_hippo_zone = castle
-#b_hippo_zone_2 = city
-#b_hippo_zone_3 = temple
-#b_hippo_zone_4 = castle
-#b_hippo_zone_5 = city
-#b_hippo_zone_6 = temple
-#b_hippo_zone_7 = castle
 
 # Misc
-culture = pirate
+culture = mario_brothers
 religion = seven_stars
 
 #History

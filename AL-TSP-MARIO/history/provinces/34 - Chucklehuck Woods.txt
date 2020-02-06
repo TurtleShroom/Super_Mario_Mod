@@ -4,18 +4,12 @@
 title = c_chucklehuck_woods
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_chucklehuck_woods = castle
-#b_chucklehuck_woods_2 = city
-#b_chucklehuck_woods_3 = temple
-#b_chucklehuck_woods_4 = castle
-#b_chucklehuck_woods_5 = city
-#b_chucklehuck_woods_6 = temple
-#b_chucklehuck_woods_7 = castle
 
 # Misc
-culture = pirate
+culture = beanbean_kingdom
 religion = seven_stars
-
+terrain = woods
 #History

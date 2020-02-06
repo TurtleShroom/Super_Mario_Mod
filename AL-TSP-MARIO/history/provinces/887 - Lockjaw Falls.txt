@@ -1,0 +1,15 @@
+# c_lockjaw_falls
+
+# County Title
+title = c_lockjaw_falls
+
+# Settlements
+max_settlements = 1
+
+b_lockjaw_falls = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

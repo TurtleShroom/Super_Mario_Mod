@@ -1,0 +1,15 @@
+# c_midas_river
+
+# County Title
+title = c_midas_river
+
+# Settlements
+max_settlements = 1
+
+b_midas_river = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_rustle_burrow
+
+# County Title
+title = c_rustle_burrow
+
+# Settlements
+max_settlements = 1
+
+b_rustle_burrow = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

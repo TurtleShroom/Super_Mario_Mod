@@ -1,0 +1,15 @@
+# c_sparkleton
+
+# County Title
+title = c_sparkleton
+
+# Settlements
+max_settlements = 1
+
+b_sparkleton = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = mountain
+#History

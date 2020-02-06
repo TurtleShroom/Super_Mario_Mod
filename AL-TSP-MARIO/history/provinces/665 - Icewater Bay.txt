@@ -1,0 +1,15 @@
+# c_icewater_bay
+
+# County Title
+title = c_icewater_bay
+
+# Settlements
+max_settlements = 1
+
+b_icewater_bay = castle
+
+# Misc
+culture = mushroom_kingdom
+religion = seven_stars
+terrain = arctic
+#History

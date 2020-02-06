@@ -1,0 +1,15 @@
+# c_the_lost_land
+
+# County Title
+title = c_the_lost_land
+
+# Settlements
+max_settlements = 1
+
+b_the_lost_land = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

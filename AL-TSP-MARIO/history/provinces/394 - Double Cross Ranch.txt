@@ -1,0 +1,15 @@
+# c_double_cross_ranch
+
+# County Title
+title = c_double_cross_ranch
+
+# Settlements
+max_settlements = 1
+
+b_double_cross_ranch = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

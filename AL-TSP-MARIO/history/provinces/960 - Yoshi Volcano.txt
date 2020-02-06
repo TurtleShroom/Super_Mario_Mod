@@ -1,0 +1,15 @@
+# c_yoshi_volcano
+
+# County Title
+title = c_yoshi_volcano
+
+# Settlements
+max_settlements = 1
+
+b_yoshi_volcano = castle
+
+# Misc
+culture = yoshi_island
+religion = seven_stars
+
+#History

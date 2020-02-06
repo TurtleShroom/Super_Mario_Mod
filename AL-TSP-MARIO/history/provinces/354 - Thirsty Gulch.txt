@@ -1,0 +1,15 @@
+# c_thirsty_gulch
+
+# County Title
+title = c_thirsty_gulch
+
+# Settlements
+max_settlements = 1
+
+b_thirsty_gulch = castle
+
+# Misc
+culture = dryite
+religion = seven_stars
+
+#History

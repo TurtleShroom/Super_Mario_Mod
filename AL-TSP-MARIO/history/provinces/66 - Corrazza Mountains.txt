@@ -4,18 +4,12 @@
 title = c_corrazza_mountains
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_corrazza_mountains = castle
-#b_corrazza_mountains_2 = city
-#b_corrazza_mountains_3 = temple
-#b_corrazza_mountains_4 = castle
-#b_corrazza_mountains_5 = city
-#b_corrazza_mountains_6 = temple
-#b_corrazza_mountains_7 = castle
 
 # Misc
-culture = pirate
+culture = crab_islands
 religion = seven_stars
-
+terrain = mountain
 #History

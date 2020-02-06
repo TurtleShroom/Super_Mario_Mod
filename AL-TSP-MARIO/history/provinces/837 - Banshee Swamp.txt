@@ -1,0 +1,15 @@
+# c_banshee_swamp
+
+# County Title
+title = c_banshee_swamp
+
+# Settlements
+max_settlements = 1
+
+b_banshee_swamp = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

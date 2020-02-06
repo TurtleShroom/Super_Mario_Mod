@@ -1,0 +1,15 @@
+# c_conkdor_canyon
+
+# County Title
+title = c_conkdor_canyon
+
+# Settlements
+max_settlements = 1
+
+b_conkdor_canyon = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = desert
+#History

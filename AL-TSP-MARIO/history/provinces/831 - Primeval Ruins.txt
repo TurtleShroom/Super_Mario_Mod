@@ -1,0 +1,15 @@
+# c_primeval_ruins
+
+# County Title
+title = c_primeval_ruins
+
+# Settlements
+max_settlements = 1
+
+b_primeval_ruins = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

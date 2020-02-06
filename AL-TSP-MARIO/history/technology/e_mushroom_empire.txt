@@ -1,0 +1,90 @@
+#MUSHROOM EMPIRE
+technology = {
+	titles = {
+		d_antipasto
+		d_autumn_heart
+		d_battle_land
+		d_blubble_lake
+		d_bob_omb_battlefield
+		d_boo_lake
+		d_boo_woods
+		d_chilly_fields
+		d_christmas
+		d_cold_river
+		d_cool_cool_mountain
+		d_cramalot
+		d_dimple_woods
+		d_dynamica
+		d_evershade_valley
+		d_foggy_autumn
+		d_forever_forest
+		d_frostown
+		d_golden_acorn_cake
+		d_goomba_land
+		d_gusty_gultch
+		d_happy_harbor
+		d_hate
+		d_haunted_valley
+		d_hollijolli
+		d_horror_land
+		d_ice_cube
+		d_icepeak
+		d_iron_petals
+		d_koopa_cape
+		d_lethal_laval_land
+		d_lucky_star
+		d_marion
+		d_meadows_and_orchards
+		d_mount_wario
+		d_mountains
+		d_mushroom_river
+		d_mushroomland
+		d_neon_land
+		d_northern_koopa_land
+		d_pasta_land
+		d_perilous_land
+		d_rainbow_road
+		d_river_world
+		d_rock_rock_mountain
+		d_rolling_steeps
+		d_sand_dunes
+		d_shamrock
+		d_sharewood_forest
+		d_shiver_region
+		d_shivering_mountains
+		d_shooting_star
+		d_singing_grassland
+		d_sky_high
+		d_sky_island
+		d_snow_land
+		d_southern_koopa_land
+		d_star_haven
+		d_star_river
+		d_star_road
+		d_star_valley
+		d_sub_zero
+		d_sweet_land
+		d_tall_tall_mountain
+		d_thunderdome
+		d_thwomp_land
+		d_toad_jams
+		d_toad_throat
+		d_toadheart
+		d_toads_cove
+		d_toads_misery
+		d_tundra
+		d_turtleshell
+		d_tycoon_land
+		d_warios_island
+	}
+	800 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

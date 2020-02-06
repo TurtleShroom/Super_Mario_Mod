@@ -1,0 +1,15 @@
+# c_eastern_lowlands
+
+# County Title
+title = c_eastern_lowlands
+
+# Settlements
+max_settlements = 1
+
+b_eastern_lowlands = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

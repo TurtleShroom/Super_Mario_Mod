@@ -1,0 +1,15 @@
+# c_kremkroc_industries
+
+# County Title
+title = c_kremkroc_industries
+
+# Settlements
+max_settlements = 1
+
+b_kremkroc_industries = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

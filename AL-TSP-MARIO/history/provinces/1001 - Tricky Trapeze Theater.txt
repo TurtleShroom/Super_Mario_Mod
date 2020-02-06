@@ -1,0 +1,15 @@
+# c_tricky_trapeze_theater
+
+# County Title
+title = c_tricky_trapeze_theater
+
+# Settlements
+max_settlements = 1
+
+b_tricky_trapeze_theater = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

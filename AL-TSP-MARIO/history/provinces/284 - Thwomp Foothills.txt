@@ -1,0 +1,15 @@
+# c_thwomp_foothills
+
+# County Title
+title = c_thwomp_foothills
+
+# Settlements
+max_settlements = 1
+
+b_thwomp_foothills = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = hills
+#History

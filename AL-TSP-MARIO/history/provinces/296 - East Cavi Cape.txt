@@ -1,0 +1,15 @@
+# c_east_cavi_cape
+
+# County Title
+title = c_east_cavi_cape
+
+# Settlements
+max_settlements = 1
+
+b_east_cavi_cape = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

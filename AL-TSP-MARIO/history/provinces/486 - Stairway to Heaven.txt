@@ -1,0 +1,15 @@
+# c_stairway_to_heaven
+
+# County Title
+title = c_stairway_to_heaven
+
+# Settlements
+max_settlements = 1
+
+b_stairway_to_heaven = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

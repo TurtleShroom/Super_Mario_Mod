@@ -1,0 +1,15 @@
+# c_rumble_falls
+
+# County Title
+title = c_rumble_falls
+
+# Settlements
+max_settlements = 1
+
+b_rumble_falls = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

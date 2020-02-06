@@ -1,0 +1,15 @@
+# c_spikeline_shoreline
+
+# County Title
+title = c_spikeline_shoreline
+
+# Settlements
+max_settlements = 1
+
+b_spikeline_shoreline = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

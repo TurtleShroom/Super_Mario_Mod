@@ -1,0 +1,15 @@
+# c_tin_can_valley
+
+# County Title
+title = c_tin_can_valley
+
+# Settlements
+max_settlements = 1
+
+b_tin_can_valley = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

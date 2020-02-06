@@ -1,0 +1,15 @@
+# c_decrescendo_swamp
+
+# County Title
+title = c_decrescendo_swamp
+
+# Settlements
+max_settlements = 1
+
+b_decrescendo_swamp = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+
+#History

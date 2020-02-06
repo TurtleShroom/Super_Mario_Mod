@@ -1,0 +1,15 @@
+# c_frosty_frontier
+
+# County Title
+title = c_frosty_frontier
+
+# Settlements
+max_settlements = 1
+
+b_frosty_frontier = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = arctic
+#History

@@ -1,0 +1,15 @@
+# c_bramble_headland
+
+# County Title
+title = c_bramble_headland
+
+# Settlements
+max_settlements = 1
+
+b_bramble_headland = castle
+
+# Misc
+culture = kremling
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_creepy_stable
+
+# County Title
+title = c_creepy_stable
+
+# Settlements
+max_settlements = 1
+
+b_creepy_stable = castle
+
+# Misc
+culture = twilighter
+religion = seven_stars
+terrain = woods
+#History

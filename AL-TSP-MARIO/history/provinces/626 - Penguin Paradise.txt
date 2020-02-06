@@ -1,0 +1,15 @@
+# c_penguin_paradise
+
+# County Title
+title = c_penguin_paradise
+
+# Settlements
+max_settlements = 1
+
+b_penguin_paradise = castle
+
+# Misc
+culture = pirate
+religion = seven_stars
+terrain = arctic
+#History

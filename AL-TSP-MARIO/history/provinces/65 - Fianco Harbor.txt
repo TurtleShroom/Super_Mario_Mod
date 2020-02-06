@@ -1,0 +1,15 @@
+# c_fianco_harbor
+
+# County Title
+title = c_fianco_harbor
+
+# Settlements
+max_settlements = 1
+
+b_fianco_harbor = castle
+
+# Misc
+culture = crab_islands
+religion = seven_stars
+
+#History

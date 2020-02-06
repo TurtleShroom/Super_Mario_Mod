@@ -1,0 +1,15 @@
+# c_sun_sun_island
+
+# County Title
+title = c_sun_sun_island
+
+# Settlements
+max_settlements = 1
+
+b_sun_sun_island = castle
+
+# Misc
+culture = kongobongo
+religion = seven_stars
+
+#History

@@ -1,0 +1,15 @@
+# c_koopaseum
+
+# County Title
+title = c_koopaseum
+
+# Settlements
+max_settlements = 1
+
+b_koopaseum = castle
+
+# Misc
+culture = koopa
+religion = seven_stars
+
+#History

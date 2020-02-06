@@ -4,18 +4,12 @@
 title = c_pinna_island
 
 # Settlements
-max_settlements = 7
+max_settlements = 1
 
 b_pinna_island = castle
-#b_pinna_island_2 = city
-#b_pinna_island_3 = temple
-#b_pinna_island_4 = castle
-#b_pinna_island_5 = city
-#b_pinna_island_6 = temple
-#b_pinna_island_7 = castle
 
 # Misc
-culture = pirate
+culture = delfino
 religion = seven_stars
 
 #History

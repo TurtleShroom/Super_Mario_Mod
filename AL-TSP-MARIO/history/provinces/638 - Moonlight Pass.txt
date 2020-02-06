@@ -1,0 +1,15 @@
+# c_moonlight_pass
+
+# County Title
+title = c_moonlight_pass
+
+# Settlements
+max_settlements = 1
+
+b_moonlight_pass = castle
+
+# Misc
+culture = twilighter
+religion = seven_stars
+
+#History

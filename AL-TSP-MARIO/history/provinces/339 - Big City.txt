@@ -1,0 +1,15 @@
+# c_big_city
+
+# County Title
+title = c_big_city
+
+# Settlements
+max_settlements = 1
+
+b_big_city = castle
+
+# Misc
+culture = dryite
+religion = seven_stars
+
+#History
