@@ -1,8 +1,8 @@
-# e_mushroom_world
+# e_the_eight_nations
 500.1.1={
 	law = agnatic_succession
 	law = succ_gavelkind
 }
 800.1.1={
-	liege=k_darkland
+	liege=k_dark_land
 }

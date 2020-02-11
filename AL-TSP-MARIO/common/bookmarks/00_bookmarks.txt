@@ -1,4 +1,4 @@
-bookmark = { #Super Mario Bros.
+bm_smb = { #Super Mario Bros.
 	name = "BM_SMB"
 	desc = "BM_SMB"
 	date = 1985.9.13
@@ -6,6 +6,308 @@ bookmark = { #Super Mario Bros.
 	era = yes						## Will be shown on Era screen.
 	picture = GFX_pick_era_image_3
 	custom_start = yes				## Choosing "Custom Start" will open this bookmark
+	
+	#character = 1256 #Bowser Koopa
+	
+	selectable_character = {
+		id = 256 #Mario Mario
+		name = ERA_CHAR_NAME_256
+		age = 27
+		title = c_marios_house
+		title_name = c_marios_house
+		
+		character = {
+			dna = aldccxlhgaf #Make this accurate at some point
+			properties = ai0afa000000 #Make this accurate at some point
+			religion = "seven_stars"
+			culture = "mario_brothers"
+			government = "feudal_government"
+			dynasty = 250
+		}
+	}
+}
+
+bm_smbtll = { #Super Mario Bros.: The Lost Levels
+	name = "BM_SMBTLL"
+	desc = "BM_SMBTLL"
+	date = 1986.6.3
+	
+	#character = 256 #Mario Mario
+	#character = 1258 #Jeffrey Koopa/"Blue Bowser"
+}
+
+bm_smb2 = { #Super Mario Bros. 2
+	name = "BM_SMB2"
+	desc = "BM_SMB2"
+	date = 1988.10.9
+	
+	#character = 256 #Mario Mario
+	#character = 257 #Luigi Mario
+	#character = 2006 #Peach Toadstool
+}
+
+bm_smb3 = { #Super Mario Bros. 3
+	name = "BM_SMB3"
+	desc = "BM_SMB3"
+	date = 1988.10.23
+	
+	#character = 256 #Mario Mario
+	#character = 1256 #Bowser Koopa
+}
+
+bm_sml = { #Super Mario Land
+	name = "BM_SML"
+	desc = "BM_SML"
+	date = 1989.4.10
+	
+	#character = 256 #Mario Mario
+	#character = 1752 #Daisy Bruisewort
+}
+
+bm_smw = { #Super Mario World(: Super Mario Bros. 4)
+	name = "BM_SMW"
+	desc = "BM_SMW"
+	date = 1990.11.21
+	
+	#character = 256 #Mario Mario
+	#character = 1256 #Bowser Koopa
+}
+
+bm_sml26gc = { #Super Mario Land 2: 6 Golden Coins
+	name = "BM_SML26GC"
+	desc = "BM_SML26GC"
+	date = 1992.10.21
+	
+	#character = 256 #Mario Mario
+	#character = 2251 #Wario Capitoline
+}
+
+bm_dkc = { #Donkey Kong Country
+	name = "BM_DKC"
+	desc = "BM_DKC"
+	date = 1994.11.21
+	
+	#character = 757 #Donkey Kong
+	#character = 772 #Diddy Kong
+}
+
+bm_dkl = { #Donkey Kong Land
+	name = "BM_DKL"
+	desc = "BM_DKL"
+	date = 1995.6.25
+	
+	#character = 757 #Donkey Kong
+	#character = 772 #Diddy Kong
+}
+
+bm_dkc2dkq = { #Donkey Kong Country 2: Diddy's Kong Quest/Donkey Kong Land 2
+	name = "BM_DKC2DKQ"
+	desc = "BM_DKC2DKQ"
+	date = 1995.11.20
+	
+	#character = 772 #Diddy Kong
+	#character = 764 #Dixie Kong
+}
+
+bm_smrpglotss = { #Super Mario RPG: Legend of the Seven Stars
+	name = "BM_SMRPGLOTSS"
+	desc = "BM_SMRPGLOTSS"
+	date = 1996.3.9
+	
+	#character = 256 #Mario Mario
+	#character = 2006 #Peach Toadstool
+	#character = 1256 #Bowser Koopa
+}
+
+bm_sm64 = { #Super Mario 64
+	name = "BM_SM64"
+	desc = "BM_SM64"
+	date = 1996.6.23
+	
+	#character = 256 #Mario Mario
+	#character = 1256 #Bowser Koopa
+}
+
+bm_dkc3dkdt = { #Donkey Kong Country 3: Dixie Kong's Double Trouble!
+	name = "BM_DKC3DKDT"
+	desc = "BM_DKC3DKDT"
+	date = 1996.11.22
+	
+	#character = 764 #Dixie Kong
+	#character = 769 #Kiddy Kong
+}
+
+bm_dkl3 = { #Donkey Kong Land 3
+	name = "BM_DKL3"
+	desc = "BM_DKL3"
+	date = 1997.10.1
+	
+	#character = 764 #Dixie Kong
+	#character = 769 #Kiddy Kong
+}
+
+bm_dk64 = { #Donkey Kong 64
+	name = "BM_DK64"
+	desc = "BM_DK64"
+	date = 1999.11.22
+	
+	#character = 757 #Donkey Kong
+	#character = 772 #Diddy Kong
+	#character = 777 #Lanky Kong
+	#character = 765 #Tiny Kong
+	#character = 768 #Chunky Kong
+}
+
+bm_pm = { #Paper Mario
+	name = "BM_PM"
+	desc = "BM_PM"
+	date = 2000.8.11
+	
+	#character = 256 #Mario Mario
+	#character = 1256 #Bowser Koopa
+}
+
+bm_sms = { #Super Mario Sunshine
+	name = "BM_SMS"
+	desc = "BM_SMS"
+	date = 2002.7.19
+	
+	#character = 256 #Mario Mario
+	#character = 1256 #Bowser Koopa
+}
+
+bm_pmttyd = { #Paper Mario: The Thousand-Year Door
+	name = "BM_PMTTYD"
+	desc = "BM_PMTTYD"
+	date = 2004.7.22
+	
+	#character = 256 #Mario Mario
+}
+
+bm_nsmb = { #New Super Mario Bros.
+	name = "BM_NSMB"
+	desc = "BM_NSMB"
+	date = 2006.5.15
+	
+	#character = 256 #Mario Mario
+	#character = 257 #Luigi Mario
+	#character = 1256 #Bowser Koopa
+}
+
+bm_spm = { #Super Paper Mario
+	name = "BM_SPM"
+	desc = "BM_SPM"
+	date = 2007.4.9
+	
+	#character = 256 #Mario Mario
+	#character = 257 #Luigi Mario
+	#character = 2006 #Peach Toadstool
+	#character = 1256 #Bowser Koopa
+}
+
+bm_smg = { #Super Mario Galaxy
+	name = "BM_SMG"
+	desc = "BM_SMG"
+	date = 2007.11.1
+	
+	#character = 256 #Mario Mario
+	#character = 1003 #Rosalina Geastrales
+	#character = 1256 #Bowser Koopa
+}
+
+bm_nsmbw = { #New Super Mario Bros. Wii
+	name = "BM_NSMBW"
+	desc = "BM_NSMBW"
+	date = 2009.11.12
+	
+	#character = 256 #Mario Mario
+	#character = 257 #Luigi Mario
+	#character = 1256 #Bowser Koopa
+}
+
+bm_dkcr = { #Donkey Kong Country Returns
+	name = "BM_DKCR"
+	desc = "BM_DKCR"
+	date = 2010.11.21
+	
+	#character = 757 #Donkey Kong
+	#character = 772 #Diddy Kong
+}
+
+bm_sm3dl = { #Super Mario 3D Land
+	name = "BM_SM3DL"
+	desc = "BM_SM3DL"
+	date = 2011.11.3
+	
+	#character = 256 #Mario Mario
+	#character = 1256 #Bowser Koopa
+}
+
+bm_nsnb2 = { #New Super Mario Bros. 2
+	name = "BM_NSMB2"
+	desc = "BM_NSMB2"
+	date = 2012.7.28
+	
+	#character = 256 #Mario Mario
+	#character = 257 #Luigi Mario
+	#character = 1256 #Bowser Koopa
+}
+
+bm_pmss = { #Paper Mario: Sticker Star
+	name = "BM_PMSS"
+	desc = "BM_PMSS"
+	date = 2012.11.11
+	
+	#character = 256 #Mario Mario
+	#character = 1256 #Bowser Koopa
+}
+
+bm_nsmbu = { #New Super Mario Bros. U
+	name = "BM_NSMBU"
+	desc = "BM_NSMBU"
+	date = 2012.11.18
+	
+	#character = 256 #Mario Mario
+	#character = 257 #Luigi Mario
+	#character = 1256 #Bowser Koopa
+}
+
+bm_sm3dw = { #Super Mario 3D World
+	name = "BM_SM3DW"
+	desc = "BM_SM3DW"
+	date = 2013.11.21
+	
+	#character = 256 #Mario Mario
+	#character = 257 #Luigi Mario
+	#character = 2006 #Peach Toadstool
+	#character = 1256 #Bowser Koopa
+}
+
+bm_dkctf = { #Donkey Kong Country: Tropical Freeze
+	name = "BM_DKCTF"
+	desc = "BM_DKCTF"
+	date = 2014.2.13
+	
+	#character = 757 #Donkey Kong
+	#character = 772 #Diddy Kong
+	#character = 764 #Dixie Kong
+	#character = 754 #Cranky Kong
+	#character = 774 #Funky Kong
+}
+
+bm_pmcs = { #Paper Mario: Color Splash
+	name = "BM_PMCS"
+	desc = "BM_PMCS"
+	date = 2016.10.7
+	
+	#character = 256 #Mario Mario
+	#character = 1256 #Bowser Koopa
+}
+
+bm_smo = { #Super Mario Odyssey
+	name = "BM_SMO"
+	desc = "BM_SMO"
+	date = 2017.10.27
 	
 	#character = 256 #Mario Mario
 	#character = 1256 #Bowser Koopa

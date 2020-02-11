@@ -10,6 +10,6 @@ b_taj_falls = castle
 
 # Misc
 culture = kongobongo
-religion = seven_stars
+religion = kong_religion
 
 #History

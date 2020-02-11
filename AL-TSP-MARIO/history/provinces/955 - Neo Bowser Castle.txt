@@ -10,6 +10,6 @@ b_neo_bowser_castle = castle
 
 # Misc
 culture = pirate
-religion = seven_stars
+religion = pillow
 
 #History

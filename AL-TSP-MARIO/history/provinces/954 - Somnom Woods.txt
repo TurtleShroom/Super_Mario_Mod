@@ -10,6 +10,6 @@ b_somnom_woods = castle
 
 # Misc
 culture = pirate
-religion = seven_stars
+religion = pillow
 terrain = woods
 #History

@@ -10,6 +10,6 @@ b_koopa_ridge = castle
 
 # Misc
 culture = koopa
-religion = seven_stars
+religion = koopa_pagan
 terrain = mountain
 #History

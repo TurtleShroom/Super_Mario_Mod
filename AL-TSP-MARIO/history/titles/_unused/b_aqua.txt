@@ -1,5 +1,0 @@
-1984.9.13={
-	holding_dynasty = 9900603 # Aqua - makes this a FAMILY_PALACE type Holding
-	liege = d_big_little_fish
-	holder=9960001
-}

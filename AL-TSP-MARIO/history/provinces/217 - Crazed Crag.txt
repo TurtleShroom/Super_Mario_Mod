@@ -10,6 +10,6 @@ b_crazed_crag = castle
 
 # Misc
 culture = pirate
-religion = seven_stars
+religion = boolish
 terrain = mountain
 #History

@@ -10,6 +10,6 @@ b_vertigo_verge = castle
 
 # Misc
 culture = kremling
-religion = seven_stars
+religion = kremling_religion
 
 #History

@@ -10,6 +10,6 @@ b_lavalava_beach = castle
 
 # Misc
 culture = lavalava
-religion = seven_stars
+religion = happiness
 
 #History

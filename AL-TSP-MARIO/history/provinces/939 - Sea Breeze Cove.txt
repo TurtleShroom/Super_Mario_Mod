@@ -10,6 +10,6 @@ b_sea_breeze_cove = castle
 
 # Misc
 culture = kongobongo
-religion = seven_stars
+religion = kong_religion
 
 #History

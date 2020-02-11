@@ -1,0 +1,23 @@
+2750 = {
+	used_for_random = no
+	name = "Iga"
+	culture = "ouji_men"
+}
+
+2751 = {
+	used_for_random = no
+	name = "Ludlamite"
+	culture = "ouji_men"
+}
+
+2752 = {
+	used_for_random = no
+	name = "Cricket"
+	culture = "ouji_men"
+}
+
+2753 = {
+	used_for_random = no
+	name = "Mantis"
+	culture = "ouji_men"
+}

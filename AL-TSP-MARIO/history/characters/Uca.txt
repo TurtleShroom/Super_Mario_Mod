@@ -1,0 +1,16 @@
+#Uca
+#6251-6500
+
+6251 = {
+	name = "Pietro"
+	religion = shine_sprites
+	culture = crab_islands
+	dynasty = 2020
+	add_trait = species_pianta
+	1966.1.1 = { 
+		birth = yes
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}

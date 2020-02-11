@@ -1,0 +1,126 @@
+#Toadstool
+#2001-2250
+
+2001 = {
+	name = Agaric #Fictional, named after another name of the Amanita muscaria fungus, the fly agaric
+	dynasty = 252
+	religion = seven_stars 
+	culture = mushroom_kingdom 
+	add_trait = species_men
+	1897.6.1 = { 
+		birth = yes
+	}
+	1923.11.16 = { 
+		add_spouse = 2002
+	}
+	1977.6.1 = { 
+		death = yes
+	}
+}
+
+2002 = {
+	name = Banana #Peach's grandma, choose banana as a pun on nana, another word for grandma
+	female = yes
+	religion = seven_stars 
+	culture = mushroom_kingdom
+	add_trait = species_men
+	add_trait = canonical_character
+	historical = yes
+	1907.11.16 = { #November 16th is a reference to her first appearance in "Little Red Riding Princess", the forty-fourth episode of The Super Mario Bros. Super Show!
+		birth = yes
+	}
+	1991.11.16 = { #She has to live long enough for Peach to see her again in November 16, 1989, which is when "Little Red Riding Princess" happens
+		death = yes
+	}
+}
+
+2003 = {
+	name = Bisporus #Peach's father, the Mushroom King, named after the agaricus bisporus
+	dynasty = 252
+	religion = seven_stars 
+	culture = mushroom_kingdom
+	father = 2001
+	mother = 2002
+	add_trait = species_men
+	historical = yes
+	1927.5.15 = { #May 15st is a reference to the release date of Super Mario Bros in EU
+		birth = yes
+	}
+	1944.6.1 = { 
+		add_spouse = 2004
+	}
+	2007.5.15 = {
+		death = yes
+	}
+}
+
+2004 = {
+	name = Nectarine #Peach's mother, the Mushroom Queen, named after the peach with recessive hairless traits, the nectarine
+	female = yes
+	religion = seven_stars 
+	culture = mushroom_kingdom
+	add_trait = species_men
+	historical = yes
+	1928.6.1 = { 
+		birth = yes
+	}
+	2008.6.1 = {
+		death = yes
+	}
+}
+
+2005 = {
+	name = Tangerine #Fictional, Daisy's mother, in the Prima guides for Mario Kart: Double Dash!! and Mario Kart Wii, Daisy is incorrectly stated to be Peach's cousin, however, for this mod, this misinformation is true. Named after the daisy tangerine
+	female = yes
+	dynasty = 252
+	religion = seven_stars 
+	culture = mushroom_kingdom
+	father = 2001
+	mother = 2002
+	add_trait = species_men
+	1929.6.1 = { 
+		birth = yes
+	}
+	2009.6.1 = {
+		death = yes
+	}
+}
+
+2006 = {
+	name = Peach #Peach
+	female = yes
+	dynasty = 252
+	religion = seven_stars 
+	culture = mushroom_kingdom
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 2003
+	mother = 2004
+	add_trait = species_men
+	add_trait = fair
+	add_trait = kind
+	add_trait = just
+	add_trait = humble
+	add_trait = patient
+	add_trait = stubborn
+	add_trait = gregarious
+	add_trait = shrewd
+	add_trait = charitable
+	add_trait = temperate
+	add_trait = content
+	historical = yes
+	disallow_random_traits = yes #Done so that Peach won't get unfitting traits
+	1957.8.13 = { #September 13th is a reference to the release date of Super Mario Bros in Japan
+		birth = yes
+		effect = { set_character_flag = is_peach_toadstool }
+	}
+	1962.8.13 = { #"The two [Mario and Peach] are shown to have been close companions since childhood in Mario & Luigi: Partners in Time", I'm assuming Luigi became friends with her during this point as well
+		effect = {
+			add_friend = 256 #Mario Mario
+			add_friend = 257 #Mario Luigi
+		}
+	}
+	2037.8.13 = {
+		death = yes
+	}
+}

@@ -1,7 +1,0 @@
-
-1984.9.13=
-{
-	holder = 9980002
-	liege= d_turtle_islands
-}
-

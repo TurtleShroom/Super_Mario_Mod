@@ -720,10 +720,6 @@ dogmatic = {
 		evil_god_names = {
 			SADNESS BOWSER MISERY KAMEK KAMMY
 		}
-
-#		character_modifier = {
-#			general_opinion = 30 # The Happiness Trait already handles this
-#		}
 		
 		aggression = 0.25
 		priests_can_marry = no
@@ -848,7 +844,7 @@ tennis_group = {
 	ai_convert_same_group = 2 # always convert
 	ai_convert_other_group = 1 # only convert if AI_ZEAL is high
 
-	tennis_religion = { # Baskism - name, features, etc. etc. courtesy of Empoleon and friends, pending
+	tennis_religion = { # Baskism - name, features, etc. etc. courtesy of Victor and friends, pending
 		graphical_culture = westerngfx
 		
 		icon = 5
@@ -1690,55 +1686,6 @@ kongo_group = {
 		intermarry = boolish
 		
 		secret_religion = no
-	}
-}
-
-tennis_group = {
-	has_coa_on_barony_only = yes
-	graphical_culture = westerngfx
-	crusade_cb = crusade
-	playable = yes
-
-	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
-	ai_convert_same_group = 2 # always convert
-	ai_convert_other_group = 1 # only convert if AI_ZEAL is high
-
-	tennis_religion = { # Baskism - name, features, etc. etc. courtesy of Empoleon and friends, pending
-		graphical_culture = westerngfx
-		
-		icon = 5
-		heresy_icon = 5
-
-		color = { 198 237 44 }
-
-		crusade_name = PACIFICATION
-		scripture_name = RULES_OF_ASTER
-		priest_title = PRIEST
-
-		high_god_name = GOD_ASTER
-
-		god_names = {
-			GOD_ASTER GOD_TENNIS GOD_THE_PERFECT_BODY PROPHET_KING_BASK
-		}
-
-		evil_god_names = {
-			LUCIEN CHEATING BOWSER BOWCIEN TATANGA WALUIGI_TIME
-		}
-
-		character_modifier = {
-			martial = 2
-			intrigue = -3
-		}
-
-		piety_name = STRENGTH
-
-		priests_can_marry = no
-		priests_can_inherit = no
-		female_temple_holders = yes
-		feminist = yes
-
-		religious_clothing_head = 6
-		religious_clothing_priest = 10
 	}
 }
 

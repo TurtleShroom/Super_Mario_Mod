@@ -10,6 +10,6 @@ b_mill_hill = castle
 
 # Misc
 culture = kremling
-religion = seven_stars
+religion = kremling_religion
 terrain = hills
 #History

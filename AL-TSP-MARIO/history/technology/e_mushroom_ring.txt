@@ -3,9 +3,9 @@ technology = {
 	titles = {
 		d_anuran_coast
 		d_ash_land
-		d_beanbean_duchy
 		d_beanbean_fields
 		d_beanbean_islands
+		d_beanbean_land
 		d_black_beach
 		d_booster_land
 		d_chucklehuck

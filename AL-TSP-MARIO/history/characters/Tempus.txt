@@ -1,0 +1,29 @@
+#Tempus
+#9001-9250 #I couldn't figure out who should get the meme number so I decided to take it for myself
+
+9001 = {
+	name = "Iustinus"
+	dynasty = 3268
+	religion = shine_sprites
+	culture = jellyfish_islands
+	#dna = "00000000000"
+	#properties = "00000000000"
+	add_trait = species_shadow_sister
+	historical = yes
+	disallow_random_traits = yes #Done so that this character won't get unfitting traits
+	1962.2.26 = { #Chosen so I can same age at the earliest start date as when I first joined the mod, 23.
+  		birth = yes
+		add_trait = legit_bastard
+	}
+	1978.2.26 = {
+		add_trait = fortune_builder
+		add_trait = architect
+		add_trait = charitable
+		add_trait = kind
+		add_trait = content
+		add_trait = honest
+	}
+	2962.2.26 = {
+		death = yes
+	}
+}

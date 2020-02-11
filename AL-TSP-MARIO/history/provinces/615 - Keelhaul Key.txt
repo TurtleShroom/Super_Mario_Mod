@@ -10,6 +10,6 @@ b_keelhaul_key = castle
 
 # Misc
 culture = pirate
-religion = seven_stars
+religion = piracy
 
 #History

@@ -10,6 +10,6 @@ b_grim_volcano = castle
 
 # Misc
 culture = kongobongo
-religion = seven_stars
+religion = kong_religion
 
 #History

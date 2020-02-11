@@ -1,0 +1,66 @@
+751 = {
+	used_for_random = no
+	name = "Syrup"
+	culture = "pirate"
+}
+
+752 = {
+	name = "Jolly Roger"
+	culture = "pirate"
+}
+
+753 = {
+	name = "Stinky"
+	culture = "pirate"
+}
+
+754 = {
+	name = "Horrible"
+	culture = "pirate"
+}
+	
+755 = {
+	name = "Captain"
+	culture = "pirate"
+}
+
+756 = {
+	name = "Dreadful"
+	culture = "pirate"
+}
+
+757 = {
+	name = "Scurvey"
+	culture = "pirate"
+}
+
+758 = {
+	name = "Shipwreck"
+	culture = "pirate"
+}
+
+759 = {
+	name = "Anchor"
+	culture = "pirate"
+}
+
+760 = {
+	name = "Landlubber"
+	culture = "pirate"
+}
+
+761 = {
+	name = "Skull"
+	culture = "pirate"
+}
+
+762 = {
+	name = "Clump"
+	culture = "pirate"
+}
+
+763 = {
+	used_for_random = no
+	name = "Asterionid"
+	culture = "pirate"
+} 

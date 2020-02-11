@@ -1,8 +1,8 @@
-# e_crocodile_winterlands
+# e_rare_country
 500.1.1={
 	law = agnatic_succession
 	law = succ_gavelkind
 }
 800.1.1={
-	liege=k_mt_croc
+	liege=k_crocodile_isle
 }

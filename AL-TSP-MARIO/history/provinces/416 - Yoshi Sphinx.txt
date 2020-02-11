@@ -10,6 +10,6 @@ b_yoshi_sphinx = castle
 
 # Misc
 culture = yoshi_island
-religion = seven_stars
+religion = happiness
 terrain = desert
 #History

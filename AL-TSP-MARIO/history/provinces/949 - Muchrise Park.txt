@@ -10,6 +10,6 @@ b_muchrise_park = castle
 
 # Misc
 culture = pirate
-religion = seven_stars
+religion = pillow
 
 #History

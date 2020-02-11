@@ -10,6 +10,6 @@ b_sirena_beach = castle
 
 # Misc
 culture = delfino
-religion = seven_stars
+religion = boolish
 
 #History

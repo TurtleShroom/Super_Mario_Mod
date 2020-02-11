@@ -1,0 +1,27 @@
+#Oofoosoot
+#7501-7750
+
+7501 = {
+	name = "Toosoofoo" #tsf4
+	dynasty = 1007
+	religion = happiness
+	culture = yoshi_island
+	#dna = "00000000000" #Note to self, TSF4 wants to be a light blue Yoshi
+	#properties = "00000000000"
+	add_trait = species_the_yoshmeister
+	historical = yes
+	disallow_random_traits = yes #Done so that Toosoofoo won't get unfitting traits
+	1959.4.4 = {
+  		birth = yes
+		effect = { set_character_flag = is_tsf4 }
+	}
+	1975.4.4 = {
+		add_trait = scholarly_theologian
+		add_trait = kind
+		add_trait = gregarious
+		add_trait = lustful
+	}
+	2039.4.4 = {
+		death = yes
+	}
+}

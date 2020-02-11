@@ -10,6 +10,6 @@ b_banana_bay = castle
 
 # Misc
 culture = jellyfish_islands
-religion = seven_stars
+religion = shine_sprites
 
 #History

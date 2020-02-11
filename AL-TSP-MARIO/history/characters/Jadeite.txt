@@ -1,0 +1,24 @@
+#Jadeite
+#6501-6750
+
+6501 = {
+	name = "Joe" #Manager Joe
+	religion = temple_of_form
+	culture = diamond_city_men
+	dynasty = 3008
+	add_trait = species_generic_animal #Dog
+	add_trait = canonical_character
+	historical = yes
+	disallow_random_traits = yes #Done so that Joe won't get unfitting traits
+	1973.12.16 = { #This date is a reference to the release date of 3DS WarioWare, Inc.: Mega Microgame$! in US
+  		birth = yes
+		effect = { set_character_flag = is_joe_jadeite }
+	}
+	1989.12.16 = { 
+		add_trait = midas_touched #He has about 6 businesses under his belt and has side jobs as well.
+		add_trait = diligent
+	}
+	2053.12.16 = {
+		death = yes
+	}
+}

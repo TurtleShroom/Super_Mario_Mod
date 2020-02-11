@@ -10,6 +10,6 @@ b_krem_quay = castle
 
 # Misc
 culture = kremling
-religion = seven_stars
+religion = kremling_religion
 
 #History

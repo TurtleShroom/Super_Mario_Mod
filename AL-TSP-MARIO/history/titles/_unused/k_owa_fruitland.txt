@@ -1,5 +1,0 @@
-# k_owa_fruitland
-500.1.1={
-	law = agnatic_succession
-	law = succ_gavelkind
-}

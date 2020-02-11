@@ -1,0 +1,22 @@
+#Ludlamite
+#4001-4250
+
+4001 = {
+	name = Lulu #Lulu
+	dynasty = 2751
+	religion = temple_of_form
+	culture = ouji_men #Considering how behind the times Lulu's village is, the village's culture is more than likely a lot more traditional than Diamond City
+	#dna = "00000000000"
+	#properties = "00000000000"
+	add_trait = species_men
+	add_trait = canonical_character
+	historical = yes
+	disallow_random_traits = yes #Done so that Lulu won't get unfitting traits
+	2010.7.27 = { #July 27th is a reference to the release date of WarioWare Gold in EU
+  		birth = yes
+		effect = { set_character_flag = is_lulu_ludlamite }
+	}
+	2090.7.27 = {
+		death = yes
+	}
+}

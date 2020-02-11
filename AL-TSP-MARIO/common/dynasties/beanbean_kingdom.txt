@@ -1,0 +1,65 @@
+500 = {
+	used_for_random = no
+	name = "Legume"
+	culture = "beanbean_kingdom"
+}
+
+501 = {
+	name="Beanbean"
+	culture="beanbean_kingdom"
+}
+
+502 = {
+	name="Hoohoo"
+	culture="beanbean_kingdom"
+}
+
+502 = {
+	name="Stardust"
+	culture="beanbean_kingdom"
+}
+
+503 = {
+	name="Chucklehuck"
+	culture="beanbean_kingdom"
+}
+
+504 = {
+	name="Woohoo"
+	culture="beanbean_kingdom"
+}
+
+505 = {
+	name="Oho"
+	culture="beanbean_kingdom"
+}
+
+506 = {
+	name="Teehee"
+	culture="beanbean_kingdom"
+}
+
+507 = {
+	name="Guffawha"
+	culture="beanbean_kingdom"
+}
+
+508 = {
+	name="Gwarhar"
+	culture="beanbean_kingdom"
+}
+
+509 = {
+	name="Bean"
+	culture="beanbean_kingdom"
+}
+
+510 = {
+	name="Border"
+	culture="beanbean_kingdom"
+}
+
+511 = {
+	name="L'oel"
+	culture="beanbean_kingdom"
+}

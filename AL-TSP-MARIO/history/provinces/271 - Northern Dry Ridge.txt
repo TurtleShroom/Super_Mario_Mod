@@ -10,6 +10,6 @@ b_northern_dry_ridge = castle
 
 # Misc
 culture = dryite
-religion = seven_stars
+religion = dryite_pagan
 terrain = mountain
 #History

@@ -1,0 +1,37 @@
+1001 = {
+	name = "Yoshi"
+	culture = "yoshi_island"
+}
+
+1002 = {
+	name = "Dinosaur"
+	culture = "yoshi_island"
+}
+
+1003 = {
+	name = "Berry"
+	culture = "yoshi_island"
+}
+
+1004 = {
+	name = "Bonus"
+	culture = "yoshi_island"
+}
+
+1005 = {
+	name = "Cloud"
+	culture = "yoshi_island"
+}	
+
+
+1006 = {
+	used_for_random = no
+	name = "Munchakoopas"
+	culture = "yoshi_island"
+} 
+
+1007 = {
+	used_for_random = no
+	name = "Oofoosoot"
+	culture = "yoshi_island"
+} 

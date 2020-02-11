@@ -10,6 +10,6 @@ b_monkey_marsh = castle
 
 # Misc
 culture = kremling
-religion = seven_stars
+religion = kremling_religion
 terrain = marsh
 #History

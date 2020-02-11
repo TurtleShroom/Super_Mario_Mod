@@ -31,7 +31,7 @@ technology = {
 		d_icepeak
 		d_iron_petals
 		d_koopa_cape
-		d_lethal_laval_land
+		d_lethal_lava_land
 		d_lucky_star
 		d_marion
 		d_meadows_and_orchards

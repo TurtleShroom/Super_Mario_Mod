@@ -10,6 +10,6 @@ b_cotton_top_cove = castle
 
 # Misc
 culture = kremling
-religion = seven_stars
+religion = kremling_religion
 
 #History

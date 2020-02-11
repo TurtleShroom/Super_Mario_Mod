@@ -10,6 +10,6 @@ b_bone_dry_dunes = castle
 
 # Misc
 culture = dryite
-religion = seven_stars
+religion = dryite_pagan
 terrain = desert
 #History

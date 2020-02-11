@@ -1,0 +1,264 @@
+2000 = {
+	name = "Pagurus"
+	culture = "crab_islands"
+}
+
+2001 = {
+	name = "Cryptolithodes"
+	culture = "crab_islands"
+}
+
+2002= {
+	name = "Cancer"
+	culture = "crab_islands"
+}
+
+2003= {
+	name = "Petrolistthes"
+	culture = "crab_islands"
+}
+
+2004= {
+	name = "Rhinolithodes"
+	culture = "crab_islands"
+}
+
+2005= {
+	name = "Oregonia"
+	culture = "crab_islands"
+}
+
+2006= {
+	name = "Pugettia"
+	culture = "crab_islands"
+}
+
+2007 = {
+	name = "Hemigrapsus"
+	culture = "crab_islands"
+}
+
+2008 = {
+	name = "Telmessus"
+	culture = "crab_islands"
+}
+
+2009 = {
+	name = "Chorilia"
+	culture = "crab_islands"
+}
+
+2010 = {
+	name = "Loxorhynchus"
+	culture= "crab_islands"
+}
+
+2011 = {
+	name = "Paguristes"
+	culture = "crab_islands"
+}
+
+2012 = {
+	name = "Lopholithodes"
+	culture = "crab_islands"
+}
+
+2013 = {
+	name = "Scyra"
+	culture = "crab_islands"
+}
+
+2014 = {
+	name = "Acantholithodes"
+	culture = "crab_islands"
+}
+
+2015 = {
+	name = "Elassochirus"
+	culture = "crab_islands"
+}
+
+2016 = {
+	name = "Acetes"
+	culture = "crab_islands"
+}
+
+2017 = {
+	name = "Ogyrides"
+	culture = "crab_islands"
+}
+
+2018 = {
+	name = "Stenopus"
+	culture = "crab_islands"
+}
+
+2019 = {
+	name = "Jasus"
+	culture = "crab_islands"
+}
+
+2020 = {
+	name = "Axius"
+	culture = "crab_islands"
+}
+
+2020 = {
+	name = "Uca"
+	culture = "crab_islands"
+}
+
+2021 = {
+	name = "Homarus"
+	culture = "crab_islands"
+}
+
+2022 = {
+	name = "Dardanus"
+	culture = "crab_islands"
+}
+
+2023 = {
+	name = "Diogenes"
+	culture = "crab_islands"
+}
+
+2024 = {
+	name = "Munida"
+	culture = "crab_islands"
+}
+
+2025 = {
+	name = "Porcellana"
+	culture = "crab_islands"
+}
+
+2026 = {
+	name = "Bellia"
+	culture = "crab_islands"
+}
+
+2027 = {
+	name = "Ebalia"
+	culture = "crab_islands"
+}
+
+2028 = {
+	name = "Ethusa"
+	culture = "crab_islands"
+}
+
+2029 = {
+	name = "Eurytium"
+	culture = "crab_islands"
+}
+
+2030 = {
+	name = "Geryon"
+	culture = "crab_islands"
+}
+
+2031 = {
+	name = "Goneplax"
+	culture = "crab_islands"
+}
+
+2032 = {
+	name = "Hemus"
+	culture = "crab_islands"
+}
+
+2033 = {
+	name = "Hepatus"
+	culture = "crab_islands"
+}
+
+2034 = {
+	name = "Hyas"
+	culture = "crab_islands"
+}
+
+2035 = {
+	name = "Libinia"
+	culture = "crab_islands"
+}
+
+2036 = {
+	name = "Macropodia"
+	culture = "crab_islands"
+}
+
+2037 = {
+	name = "Maja"
+	culture = "crab_islands"
+}
+
+2038 = {
+	name = "Mithraculus"
+	culture = "crab_islands"
+}
+
+2039 = {
+	name = "Mithrax"
+	culture = "crab_islands"
+}
+
+2040 = {
+	name = "Necora"
+	culture = "crab_islands"
+}
+
+2041 = {
+	name = "Pelia"
+	culture = "crab_islands"
+}
+
+2042 = {
+	name = "Percnon"
+	culture = "crab_islands"
+}
+
+2043 = {
+	name = "Grapsus"
+	culture = "crab_islands"
+}
+
+2044 = {
+	name = "Pisa"
+	culture = "crab_islands"
+}
+
+2045 = {
+	name = "Polybius"
+	culture = "crab_islands"
+}
+
+2046 = {
+	name = "Pyromaia"
+	culture = "crab_islands"
+}
+
+2047 = {
+	name = "Sesarma"
+	culture = "crab_islands"
+}
+
+2048 = {
+	name = "Thia"
+	culture = "crab_islands"
+}
+
+2049 = {
+	name = "Xaiva"
+	culture = "crab_islands"
+}
+
+2050 = {
+	name = "Xantho"
+	culture = "crab_islands"
+}
+
+2051 = {
+	name = "Zaops"
+	culture = "crab_islands"
+}

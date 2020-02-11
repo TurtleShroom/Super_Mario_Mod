@@ -1,0 +1,59 @@
+#Bruisewort
+#1751-2000
+
+1751 = {
+	name = Garland #Daisy's father, Daisy mentioned her father in games including Mario Party 3 and Fortune Street, named after the general name a daisy chain which is a garland
+	dynasty = 4001
+	religion = baskism 
+	culture = chaian
+	add_trait = species_men
+	add_trait = canonical_character
+	historical = yes
+	1928.6.1 = {
+		birth = yes
+	}
+	1945.6.1 = { 
+		add_spouse = 2005
+	}
+	2008.6.1 = {
+		death = yes
+	}
+}
+
+1752 = {
+	name = Daisy #Daisy
+	female = yes
+	dynasty = 4001
+	religion = baskism 
+	culture = mushroom_kingdom
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 1751
+	mother = 2005 #In the Prima guides for Mario Kart: Double Dash and Mario Kart Wii, Daisy is incorrectly stated to be Peach's cousin, however, for this mod, this misinformation is true
+	add_trait = species_men
+	add_trait = canonical_character
+	historical = yes
+	disallow_random_traits = yes #Done so that Daisy won't get unfitting traits
+	1958.4.21 = { #April 24th is a reference to the release date of Super Mario Land in Japan
+		birth = yes
+		effect = { set_character_flag = is_daisy_bruisewort }
+	}
+	1980.6.1 = { #Assuming she and Peach become friends very earlier on
+		effect = {
+			add_friend = 2006 #Peach Toadstool
+		}
+	}
+	1989.4.21 = { #On this date, Super Mario Land releases
+		effect = {
+			add_friend = 256 #Mario Mario
+		}
+	}
+	1991.9.20 = { #On this date, NES Open Tournament Golf releases
+		effect = {
+			add_friend = 257 #Luigi Mario
+		}
+	}
+	2038.4.21 = {
+		death = yes
+	}
+}

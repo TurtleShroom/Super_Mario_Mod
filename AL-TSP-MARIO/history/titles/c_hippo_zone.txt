@@ -1,7 +1,8 @@
-
-1984.9.13=
-{
-	holder = 9910003
-	liege = d_mario_land
+# e_mushroom_ring
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
 }
-
+800.1.1={
+	liege=k_mario_land
+}

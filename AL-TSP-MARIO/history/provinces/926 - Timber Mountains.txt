@@ -10,6 +10,6 @@ b_timber_mountains = castle
 
 # Misc
 culture = kongobongo
-religion = seven_stars
+religion = kong_religion
 terrain = mountain
 #History

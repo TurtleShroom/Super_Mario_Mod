@@ -1,0 +1,85 @@
+#Siren (The Shadow Sirens)
+#8251-8500
+
+8251 = {
+	name = "Harry" #Ficitional, only created so the Shadow Sirens would consider one another as sisters, named after Harry Houdini
+#	dynasty = x
+	religion = shadow_queen
+	culture = utility
+	add_trait = species_shadow_sister 
+	984.1.1 = {
+  		birth = yes
+	}
+	1004.1.1 = { 
+		death = {
+			death_reason = death_missing
+		}
+	}
+}
+
+8252 = {
+	name = "Beldam" #Beldam
+	female = yes
+#	dynasty = x
+	religion = shadow_queen
+	culture = utility
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 8251
+	add_trait = species_shadow_sister
+	add_trait = canonical_character
+	historical = yes
+	disallow_random_traits = yes #Done so that Beldam won't get unfitting traits
+	1001.10.11 = { #This date is a reference to the release date of Paper Mario: The Thousand-Year Door in US.
+  		birth = yes
+		effect = { set_character_flag = is_beldam_siren }
+	}
+	9999.10.11 = {
+		death = yes
+	}
+}
+
+8253 = {
+	name = "Marilyn" #Marilyn
+	female = yes
+#	dynasty = x
+	religion = shadow_queen
+	culture = utility
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 8251
+	add_trait = strong
+	add_trait = species_shadow_sister
+	add_trait = canonical_character
+	historical = yes
+	disallow_random_traits = yes #Done so that Marilyn won't get unfitting traits
+	1002.11.12 = { #This date is a reference to the release date of Paper Mario: The Thousand-Year Door in EU.
+  		birth = yes
+		effect = { set_character_flag = is_marilyn_siren }
+	}
+	9999.11.12 = {
+		death = yes
+	}
+}
+
+8254 = {
+	name = "Vivian" #Vivian
+	female = yes
+#	dynasty = x
+	religion = shadow_queen
+	culture = utility
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 8251
+	add_trait = species_shadow_sister
+	add_trait = canonical_character
+	historical = yes
+	disallow_random_traits = yes #Done so that Vivian won't get unfitting traits
+	1003.11.18 = { #This date is a reference to the release date of Paper Mario: The Thousand-Year Door in Australia.
+  		birth = yes
+		effect = { set_character_flag = is_vivian_siren }
+	}
+	9999.11.18 = {
+		death = yes
+	}
+}

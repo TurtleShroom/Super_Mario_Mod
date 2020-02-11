@@ -10,6 +10,6 @@ b_cayenne_cove = castle
 
 # Misc
 culture = jellyfish_islands
-religion = seven_stars
+religion = shine_sprites
 
 #History

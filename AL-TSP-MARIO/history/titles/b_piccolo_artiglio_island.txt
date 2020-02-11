@@ -1,7 +1,0 @@
-
-1984.9.13=
-{
-	holder = 9970001
-	liege = d_claw_islands
-}
-

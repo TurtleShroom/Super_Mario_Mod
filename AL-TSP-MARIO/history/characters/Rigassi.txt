@@ -1,0 +1,142 @@
+#Rigassi
+#501-750
+
+501 = {
+	name = Rigel #Fictional, I picked this name as the first three letter matches his last name and Rigel is the name of the star that forms the left foot of the constellation Orion
+	dynasty = 251
+	religion = seven_stars
+	culture = mario_brothers
+	add_trait = species_men
+	1905.5.19 = { 
+		birth = yes
+	}
+	1985.5.19= { 
+		death = yes
+	}
+}
+
+502 = {
+	name = Luigina #Mama Mario was portrayed by Lou Albano in the Super Mario Bros. Super Show! so I went with the full, feminine, and Italian version of Lou: Luigina
+	female = yes
+	dynasty = 251
+	religion = seven_stars
+	culture = mario_brothers
+	father = 501
+	add_trait = species_men
+	add_trait = canonical_character
+	historical = yes
+	1927.8.3 = { #August 3 is a reference to his first appearance in "Super Mario Issun-boshi"
+		birth = yes
+	}
+	2012.8.3= { #I made her about 85 years old when she dies which about the life expectancy for female Italians, this death age will be used for all of the females in here
+		death = yes
+	}
+}
+
+503 = {
+	name = Maria #It is not revealed which sides of the family any of the relatives hail from, so it is unknown whether Aunt Maria is his sister or sister-in-law so I made her Luigina's sister
+	female = yes
+	dynasty = 251
+	religion = seven_stars
+	culture = mario_brothers
+	father = 501
+	add_trait = species_men
+	add_trait = canonical_character
+	historical = yes
+	1928.9.18 = { #September 18 is a reference to her first appearance in "Mama Mia Mario", the eleventh live-action segment of The Super Mario Bros. Super Show!
+		birth = yes
+	}
+	1945.8.3 = {
+		add_spouse_matrilineal = 504 #Billy
+	}
+	2013.9.18= {
+		death = yes
+	}
+}
+
+504 = {
+	name = Billy #Fictional, I picked this name as it is befitting of his children's names
+	religion = seven_stars
+	culture = mario_brothers
+	father = 501
+	add_trait = species_men
+	1926.4.9 = {
+		birth = yes
+	}
+	2006.4.9= {
+		death = yes
+	}
+}
+
+505 = {
+	name = "Mario Joe" #It is not revealed which sides of the family any of the relatives hail from, so I made Mario Joe the son of Maria Rigassi
+	dynasty = 251
+	religion = seven_stars
+	culture = mario_brothers
+	father = 504
+	mother = 503
+	add_trait = species_men
+	add_trait = twin
+	add_trait = canonical_character
+	historical = yes
+	1958.10.4 = { # October 4th is a reference to his first appearance in "Mario Hillbillies", the twenty-third live-action segment of The Super Mario Bros. Super Show!
+		birth = yes
+	}
+	2038.10.4 = { 
+		death = yes
+	}
+}
+
+506 = {
+	name = "Luigi Bob" #It is not revealed which sides of the family any of the relatives hail from, so I made Mario Joe the son of Maria Rigassi
+	dynasty = 251
+	religion = seven_stars
+	culture = mario_brothers
+	father = 504
+	mother = 503
+	add_trait = species_men
+	add_trait = twin
+	add_trait = tall
+	add_trait = canonical_character
+	historical = yes
+	1958.10.4 = { # October 4th is a reference to his first appearance in "Mario Hillbillies", the twenty-third live-action segment of The Super Mario Bros. Super Show!
+		birth = yes
+	}
+	2038.10.4 = {
+		death = yes
+	}
+}
+
+507 = {
+	name = Troy #It is not revealed which sides of the family any of the relatives hail from, so I made Uncle Troy the son of Rigel Rigassi
+	dynasty = 251
+	religion = seven_stars
+	culture = mario_brothers
+	father = 501
+	add_trait = species_men
+	add_trait = canonical_character
+	historical = yes
+	1929.9.22 = { #September 2 is a reference to his only named appearance in "Wild Thing", the fifteenth live-action segment of The Super Mario Bros. Super Show!
+		birth = yes
+	}
+	2009.9.22= {
+		death = yes
+	}
+}
+
+508 = {
+	name = Tony #It is not revealed which sides of the family any of the relatives hail from, so I made Uncle Tony the son of Rigel Rigassi
+	dynasty = 251
+	religion = seven_stars
+	culture = mario_brothers
+	father = 501
+	add_trait = species_men
+	add_trait = canonical_character
+	historical = yes
+	1930.11.9 = { #November 9th is a reference to his only named appearance in "Glasnuts", the forty-ninth live-action segment of The Super Mario Bros. Super Show!
+		birth = yes
+	}
+	2010.11.9= {
+		death = yes
+	}
+}

@@ -1,0 +1,34 @@
+#Syrup
+#6001-6250
+
+6001 = {
+	name = Maple #Captain Syrup
+	female = yes
+	dynasty = 751
+	religion = piracy
+	culture = pirate
+	#dna = "00000000000"
+	#properties = "00000000000"
+	add_trait = species_men
+	add_trait = fair
+	add_trait = canonical_character
+	historical = yes
+	disallow_random_traits = yes #Done so that Captain Syrup won't get unfitting traits
+	1974.1.21 = { #This date is a reference to the release date of Wario Land: Super Mario Land 3 in Japan.
+		birth = yes
+		effect = { set_character_flag = is_maple_syrup }
+	}
+	1994.1.21 = { #Wario Land: Super Mario Land 3 happens
+		effect = { 
+			add_rival = 2251 #Wario Capitoline
+		}
+		add_trait = ambitious
+		add_trait = brave
+		add_trait = greedy
+		add_trait = deceitful
+		add_trait = inspiring_leader
+	}
+	2059.1.21 = {
+		death = yes
+	}
+}

@@ -1,0 +1,1023 @@
+3501 = {
+	name = "Roosevelt"
+	culture = "new_donk_city_men"
+}
+
+3502 = {
+	name = "Astor"
+	culture = "new_donk_city_men"
+}
+
+3503 = {
+	name = "Livingston"
+	culture = "new_donk_city_men"
+}
+
+3504 = {
+	name = "Hoffman"
+	culture = "new_donk_city_men"
+}
+
+3505 = {
+	name = "Schuyler"
+	culture = "new_donk_city_men"
+}
+
+3506 = {
+	name = "van Rensselaer"
+	culture = "new_donk_city_men"
+}
+
+3507 = {
+	name = "van Cortlandt"
+	culture = "new_donk_city_men"
+}
+
+3508 = {
+	name = "Goodyear"
+	culture = "new_donk_city_men"
+}
+
+3509 = {
+	name = "Knox"
+	culture = "new_donk_city_men"
+}
+
+3510 = {
+	name = "de Peyster"
+	culture = "new_donk_city_men"
+}
+
+3511 = {
+	name = "Rockefeller"
+	culture = "new_donk_city_men"
+}
+
+3512 = {
+	name = "Vanderbilt"
+	culture = "new_donk_city_men"
+}
+
+3513 = {
+	name = "Gagliano"
+	culture = "new_donk_city_men"
+}
+
+3514 = {
+	name = "Luciano"
+	culture = "new_donk_city_men"
+}
+
+3515 = {
+	name = "Mangano"
+	culture = "new_donk_city_men"
+}
+
+3516 = {
+	name = "Maranzano"
+	culture = "new_donk_city_men"
+}
+
+3517 = {
+	name = "Profaci"
+	culture = "new_donk_city_men"
+}
+
+3518 = {
+	name = "Lucchese"
+	culture = "new_donk_city_men"
+}
+
+3519 = {
+	name = "Genovese"
+	culture = "new_donk_city_men"
+}
+
+3520 = {
+	name = "Bonanno"
+	culture = "new_donk_city_men"
+}
+
+3521 = {
+	name = "Colombo"
+	culture = "new_donk_city_men"
+}
+
+3522 = {
+	name = "Cuomo"
+	culture = "new_donk_city_men"
+}
+
+3523 = {
+	name = "Parker"
+	culture = "new_donk_city_men"
+}
+
+3524 = {
+	name = "Murdock"
+	culture = "new_donk_city_men"
+}
+
+3525 = {
+	name = "Lieber"
+	culture = "new_donk_city_men"
+}
+
+3526 = {
+	name = "Kurtzberg"
+	culture = "new_donk_city_men"
+}
+
+3526 = {
+	name = "Wayne"
+	culture = "new_donk_city_men"
+}
+
+3527 = {
+	name = "Addabbo"
+	culture = "new_donk_city_men"
+}
+
+3528 = {
+	name = "Bennet"
+	culture = "new_donk_city_men"
+}
+
+3529 = {
+	name = "Boyland"
+	culture = "new_donk_city_men"
+}
+
+3530 = {
+	name = "Allen"
+	culture = "new_donk_city_men"
+}
+
+3531 = {
+	name = "Rose"
+	culture = "new_donk_city_men"
+}
+
+3532 = {
+	name = "Ambro"
+	culture = "new_donk_city_men"
+}
+3533 = {
+	name = "Byrne"
+	culture = "new_donk_city_men"
+}
+
+3534 = {
+	name = "McCooey"
+	culture = "new_donk_city_men"
+}
+
+3535 = {
+	name = "Andrus"
+	culture = "new_donk_city_men"
+}
+
+3536 = {
+	name = "Davenport"
+	culture = "new_donk_city_men"
+}
+
+3537 = {
+	name = "Armstrong"
+	culture = "new_donk_city_men"
+}
+
+3538 = {
+	name = "Arnold"
+	culture = "new_donk_city_men"
+}
+
+3539 = {
+	name = "Bovee"
+	culture = "new_donk_city_men"
+}
+
+3540 = {
+	name = "Bacon"
+	culture = "new_donk_city_men"
+}
+
+3541 = {
+	name = "Barber"
+	culture = "new_donk_city_men"
+}
+
+3542 = {
+	name = "Bartlett"
+	culture = "new_donk_city_men"
+}
+
+3543 = {
+	name = "Becker"
+	culture = "new_donk_city_men"
+}
+
+3544 = {
+	name = "Belmont"
+	culture = "new_donk_city_men"
+}
+
+3545 = {
+	name = "Bennet"
+	culture = "new_donk_city_men"
+}
+
+3546 = {
+	name = "Benton"
+	culture = "new_donk_city_men"
+}
+
+3547 = {
+	name = "Bergen"
+	culture = "new_donk_city_men"
+}
+
+3548 = {
+	name = "Biddle"
+	culture = "new_donk_city_men"
+}
+
+3549 = {
+	name = "Blair"
+	culture = "new_donk_city_men"
+}
+
+3550 = {
+	name = "Blakeman"
+	culture = "new_donk_city_men"
+}
+
+3551 = {
+	name = "Blatchford"
+	culture = "new_donk_city_men"
+}
+
+3552 = {
+	name = "Bleecker"
+	culture = "new_donk_city_men"
+}
+
+3553 = {
+	name = "Bliss"
+	culture = "new_donk_city_men"
+}
+
+3554 = {
+	name = "Bouck"
+	culture = "new_donk_city_men"
+}
+
+3555 = {
+	name = "Buckley"
+	culture = "new_donk_city_men"
+}
+
+3556 = {
+	name = "Burrow"
+	culture = "new_donk_city_men"
+}
+
+3557 = {
+	name = "Cady"
+	culture = "new_donk_city_men"
+}
+
+3558 = {
+	name = "Cardozo"
+	culture = "new_donk_city_men"
+}
+
+3559 = {
+	name = "Carew"
+	culture = "new_donk_city_men"
+}
+
+3560 = {
+	name = "Magner"
+	culture = "new_donk_city_men"
+}
+
+3561 = {
+	name = "Carlino"
+	culture = "new_donk_city_men"
+}
+
+3562 = {
+	name = "Chanler"
+	culture = "new_donk_city_men"
+}
+
+3563 = {
+	name = "Christ"
+	culture = "new_donk_city_men"
+}
+
+3564 = {
+	name = "Clark"
+	culture = "new_donk_city_men"
+}
+
+3565 = {
+	name = "William"
+	culture = "new_donk_city_men"
+}
+
+3566 = {
+	name = "Clarke"
+	culture = "new_donk_city_men"
+}
+
+3567 = {
+	name = "Clinton"
+	culture = "new_donk_city_men"
+}
+
+3568 = {
+	name = "Cocks"
+	culture = "new_donk_city_men"
+}
+
+3569 = {
+	name = "Hicks"
+	culture = "new_donk_city_men"
+}
+
+3570 = {
+	name = "Conkling"
+	culture = "new_donk_city_men"
+}
+
+3571 = {
+	name = "Cooper"
+	culture = "new_donk_city_men"
+}
+
+3572 = {
+	name = "Hewitt"
+	culture = "new_donk_city_men"
+}
+
+3573 = {
+	name = "Tiemann"
+	culture = "new_donk_city_men"
+}
+
+3574 = {
+	name = "Cornell"
+	culture = "new_donk_city_men"
+}
+
+3575 = {
+	name = "Corning"
+	culture = "new_donk_city_men"
+}
+
+3576 = {
+	name = "Couder"
+	culture = "new_donk_city_men"
+}
+
+3577 = {
+	name = "Rand"
+	culture = "new_donk_city_men"
+}
+
+3578 = {
+	name = "Tracy"
+	culture = "new_donk_city_men"
+}
+
+3579 = {
+	name = "Crocheron"
+	culture = "new_donk_city_men"
+}
+
+3580 = {
+	name = "Cuyler"
+	culture = "new_donk_city_men"
+}
+
+3581 = {
+	name = "Low"
+	culture = "new_donk_city_men"
+}
+
+3582 = {
+	name = "D'Amatos"
+	culture = "new_donk_city_men"
+}
+
+3583 = {
+	name = "Davise"
+	culture = "new_donk_city_men"
+}
+
+3584 = {
+	name = "Tredwell"
+	culture = "new_donk_city_men"
+}
+
+3585 = {
+	name = "De Witt"
+	culture = "new_donk_city_men"
+}
+
+3586 = {
+	name = "DiCarlo"
+	culture = "new_donk_city_men"
+}
+
+3587 = {
+	name = "Dickson"
+	culture = "new_donk_city_men"
+}
+
+3588 = {
+	name = "White"
+	culture = "new_donk_city_men"
+}
+
+3589 = {
+	name = "Dix"
+	culture = "new_donk_city_men"
+}
+
+3590 = {
+	name = "Morgan"
+	culture = "new_donk_city_men"
+}
+
+3591 = {
+	name = "Downey"
+	culture = "new_donk_city_men"
+}
+
+3592 = {
+	name = "Duell"
+	culture = "new_donk_city_men"
+}
+
+3593 = {
+	name = "Dwight"
+	culture = "new_donk_city_men"
+}
+
+3594 = {
+	name = "Earll"
+	culture = "new_donk_city_men"
+}
+
+3595 = {
+	name = "Emerson"
+	culture = "new_donk_city_men"
+}
+
+3596 = {
+	name = "Evertson"
+	culture = "new_donk_city_men"
+}
+
+3597 = {
+	name = "Farley"
+	culture = "new_donk_city_men"
+}
+
+3598 = {
+	name = "Fillmore"
+	culture = "new_donk_city_men"
+}
+
+3599 = {
+	name = "Flanagan"
+	culture = "new_donk_city_men"
+}
+
+3600 = {
+	name = "Floyd"
+	culture = "new_donk_city_men"
+}
+
+3601 = {
+	name = "Flynn"
+	culture = "new_donk_city_men"
+}
+
+3602 = {
+	name = "Fossella"
+	culture = "new_donk_city_men"
+}
+
+3603 = {
+	name = "O'Leary"
+	culture = "new_donk_city_men"
+}
+
+3604 = {
+	name = "Franchot"
+	culture = "new_donk_city_men"
+}
+
+3605 = {
+	name = "Patterson"
+	culture = "new_donk_city_men"
+}
+
+3606 = {
+	name = "Frank"
+	culture = "new_donk_city_men"
+}
+
+3607 = {
+	name = "Geddes"
+	culture = "new_donk_city_men"
+}
+
+3608 = {
+	name = "Goodell"
+	culture = "new_donk_city_men"
+}
+
+3609 = {
+	name = "Gorski"
+	culture = "new_donk_city_men"
+}
+
+3610 = {
+	name = "Granger"
+	culture = "new_donk_city_men"
+}
+
+3611 = {
+	name = "Grant"
+	culture = "new_donk_city_men"
+}
+
+3612 = {
+	name = "Murphy"
+	culture = "new_donk_city_men"
+}
+
+3613 = {
+	name = "Gulotta"
+	culture = "new_donk_city_men"
+}
+
+3614 = {
+	name = "Hall"
+	culture = "new_donk_city_men"
+}
+
+3615 = {
+	name = "Halpern"
+	culture = "new_donk_city_men"
+}
+
+3616 = {
+	name = "Solarz"
+	culture = "new_donk_city_men"
+}
+
+3617 = {
+	name = "Halsey"
+	culture = "new_donk_city_men"
+}
+
+3618 = {
+	name = "Hand"
+	culture = "new_donk_city_men"
+}
+
+3619 = {
+	name = "Harper"
+	culture = "new_donk_city_men"
+}
+
+3620 = {
+	name = "Hearst"
+	culture = "new_donk_city_men"
+}
+
+3621 = {
+	name = "Houghton"
+	culture = "new_donk_city_men"
+}
+
+3622 = {
+	name = "Irving"
+	culture = "new_donk_city_men"
+}
+
+3623 = {
+	name = "Jay"
+	culture = "new_donk_city_men"
+}
+
+3624 = {
+	name = "Nicholas"
+	culture = "new_donk_city_men"
+}
+
+3625 = {
+	name = "Keating"
+	culture = "new_donk_city_men"
+}
+
+3626 = {
+	name = "Kelsey"
+	culture = "new_donk_city_men"
+}
+
+3627 = {
+	name = "Kilburn"
+	culture = "new_donk_city_men"
+}
+
+3628 = {
+	name = "King"
+	culture = "new_donk_city_men"
+}
+
+3629 = {
+	name = "Lansing"
+	culture = "new_donk_city_men"
+}
+
+3630 = {
+	name = "LaValle"
+	culture = "new_donk_city_men"
+}
+
+3631 = {
+	name = "Lawrence"
+	culture = "new_donk_city_men"
+}
+
+3632 = {
+	name = "LeFever"
+	culture = "new_donk_city_men"
+}
+
+3633 = {
+	name = "Lehman"
+	culture = "new_donk_city_men"
+}
+
+3634 = {
+	name = "Lewis"
+	culture = "new_donk_city_men"
+}
+
+3635 = {
+	name = "Lindsay"
+	culture = "new_donk_city_men"
+}
+
+3636 = {
+	name = "Rudd"
+	culture = "new_donk_city_men"
+}
+
+3637 = {
+	name = "Longyear"
+	culture = "new_donk_city_men"
+}
+
+3638 = {
+	name = "Magee"
+	culture = "new_donk_city_men"
+}
+
+3639 = {
+	name = "Malone"
+	culture = "new_donk_city_men"
+}
+
+3640 = {
+	name = "O'Gorman"
+	culture = "new_donk_city_men"
+}
+
+3641 = {
+	name = "Markell"
+	culture = "new_donk_city_men"
+}
+
+3642 = {
+	name = "Martindale"
+	culture = "new_donk_city_men"
+}
+
+3643 = {
+	name = "Mathews"
+	culture = "new_donk_city_men"
+}
+
+3644 = {
+	name = "Merritt"
+	culture = "new_donk_city_men"
+}
+
+3645 = {
+	name = "Miller"
+	culture = "new_donk_city_men"
+}
+
+3646 = {
+	name = "Mill"
+	culture = "new_donk_city_men"
+}
+
+3647 = {
+	name = "Dean"
+	culture = "new_donk_city_men"
+}
+
+3648 = {
+	name = "Moffat"
+	culture = "new_donk_city_men"
+}
+
+3649 = {
+	name = "Molinari"
+	culture = "new_donk_city_men"
+}
+
+3650 = {
+	name = "Morgenthau"
+	culture = "new_donk_city_men"
+}
+
+3651 = {
+	name = "Morris"
+	culture = "new_donk_city_men"
+}
+
+3652 = {
+	name = "Mullin"
+	culture = "new_donk_city_men"
+}
+
+3653 = {
+	name = "Odell"
+	culture = "new_donk_city_men"
+}
+
+3654 = {
+	name = "O'Dwyer"
+	culture = "new_donk_city_men"
+}
+
+3655 = {
+	name = "Olcott"
+	culture = "new_donk_city_men"
+}
+
+3656 = {
+	name = "Ottinger"
+	culture = "new_donk_city_men"
+}
+
+3657 = {
+	name = "Palmer"
+	culture = "new_donk_city_men"
+}
+
+3658 = {
+	name = "Pardee"
+	culture = "new_donk_city_men"
+}
+
+3659 = {
+	name = "Paterson"
+	culture = "new_donk_city_men"
+}
+
+3660 = {
+	name = "Patterson"
+	culture = "new_donk_city_men"
+}
+
+3661 = {
+	name = "Peckham"
+	culture = "new_donk_city_men"
+}
+
+3662 = {
+	name = "Platt"
+	culture = "new_donk_city_men"
+}
+
+3663 = {
+	name = "Porter"
+	culture = "new_donk_city_men"
+}
+
+3664 = {
+	name = "Potter"
+	culture = "new_donk_city_men"
+}
+
+3665 = {
+	name = "Powell"
+	culture = "new_donk_city_men"
+}
+
+3666 = {
+	name = "Pruyn"
+	culture = "new_donk_city_men"
+}
+
+3667 = {
+	name = "Quinn"
+	culture = "new_donk_city_men"
+}
+
+3668 = {
+	name = "Raines"
+	culture = "new_donk_city_men"
+}
+
+3669 = {
+	name = "Ryan"
+	culture = "new_donk_city_men"
+}
+
+3670 = {
+	name = "Sanders"
+	culture = "new_donk_city_men"
+}
+
+3671 = {
+	name = "Sanford"
+	culture = "new_donk_city_men"
+}
+
+3672 = {
+	name = "Schell"
+	culture = "new_donk_city_men"
+}
+
+3673 = {
+	name = "Schoonmaker"
+	culture = "new_donk_city_men"
+}
+
+3674 = {
+	name = "Scudder"
+	culture = "new_donk_city_men"
+}
+
+3675 = {
+	name = "Serrano"
+	culture = "new_donk_city_men"
+}
+
+3676 = {
+	name = "Seward"
+	culture = "new_donk_city_men"
+}
+
+3677 = {
+	name = "Seymour"
+	culture = "new_donk_city_men"
+}
+
+3678 = {
+	name = "Sherman"
+	culture = "new_donk_city_men"
+}
+
+3679 = {
+	name = "Silvester"
+	culture = "new_donk_city_men"
+}
+
+3680 = {
+	name = "Spencer"
+	culture = "new_donk_city_men"
+}
+
+3681 = {
+	name = "Stratton"
+	culture = "new_donk_city_men"
+}
+
+3682 = {
+	name = "Straus"
+	culture = "new_donk_city_men"
+}
+
+3683 = {
+	name = "Suozzi"
+	culture = "new_donk_city_men"
+}
+
+3684 = {
+	name = "Taber"
+	culture = "new_donk_city_men"
+}
+
+3685 = {
+	name = "Tompkins"
+	culture = "new_donk_city_men"
+}
+
+3686 = {
+	name = "Towns"
+	culture = "new_donk_city_men"
+}
+
+3687 = {
+	name = "Tuthill"
+	culture = "new_donk_city_men"
+}
+
+3688 = {
+	name = "Vallone"
+	culture = "new_donk_city_men"
+}
+
+3689 = {
+	name = "Van Alen"
+	culture = "new_donk_city_men"
+}
+
+3690 = {
+	name = "Van Buren"
+	culture = "new_donk_city_men"
+}
+
+3691 = {
+	name = "Van Ness"
+	culture = "new_donk_city_men"
+}
+
+3692 = {
+	name = "Verplanck"
+	culture = "new_donk_city_men"
+}
+
+3693 = {
+	name = "Wadsworth"
+	culture = "new_donk_city_men"
+}
+
+3694 = {
+	name = "Wagner"
+	culture = "new_donk_city_men"
+}
+
+3695 = {
+	name = "Walbridge"
+	culture = "new_donk_city_men"
+}
+
+3696 = {
+	name = "Walker"
+	culture = "new_donk_city_men"
+}
+
+3697 = {
+	name = "Walsh"
+	culture = "new_donk_city_men"
+}
+
+3698 = {
+	name = "Ward"
+	culture = "new_donk_city_men"
+}
+
+3699 = {
+	name = "Wilber"
+	culture = "new_donk_city_men"
+}
+
+3700 = {
+	name = "Wilkin"
+	culture = "new_donk_city_men"
+}
+
+3701 = {
+	name = "Wilson"
+	culture = "new_donk_city_men"
+}
+
+3702 = {
+	name = "Wisnor"
+	culture = "new_donk_city_men"
+}
+
+3703 = {
+	name = "Woodhull"
+	culture = "new_donk_city_men"
+}
+
+3704 = {
+	name = "Wood"
+	culture = "new_donk_city_men"
+}

@@ -10,6 +10,6 @@ b_twilight_woods = castle
 
 # Misc
 culture = twilighter
-religion = seven_stars
+religion = twilight_towner
 terrain = woods
 #History

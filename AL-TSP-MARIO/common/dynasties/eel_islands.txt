@@ -1,0 +1,174 @@
+2500 = {
+	name = "Conger"
+	culture = "eel_islands"
+}
+
+2501 = {
+	name = "Moray"
+	culture = "eel_islands"
+}
+
+2502 = {
+	name = "Garden"
+	culture = "eel_islands"
+}
+
+2503 = {
+	name = "Shortfin"
+	culture = "eel_islands"
+}
+
+2504 = {
+	name = "Blackfin"
+	culture = "eel_islands"
+}
+
+2505 = {
+	name = "Marbled"
+	culture = "eel_islands"
+}
+
+2506 = {
+	name = "Highlands Longfin"
+	culture = "eel_islands"
+}
+
+2507 = {
+	name = "Speckled Longfin"
+	culture = "eel_islands"
+}
+
+2508 = {
+	name = "Brantevik"
+	culture = "eel_islands"
+}
+
+2509 = {
+	name = "Sea Serpent"
+	culture = "eel_islands"
+}
+
+2510 = {
+	name = "Froghead"
+	culture = "eel_islands"
+}
+
+2511 = {
+	name = "Long-toothed"
+	culture = "eel_islands"
+}
+
+2512 = {
+	name = "Orange"
+	culture = "eel_islands"
+}
+
+2513 = {
+	name = "Red"
+	culture = "eel_islands"
+}
+
+2514 = {
+	name = "Shorttail"
+	culture = "eel_islands"
+}
+
+2515= {
+	name = "Freshwater"
+	culture = "eel_islands"
+}
+
+2516 = {
+	name = "False Moray"
+	culture = "eel_islands"
+}
+
+2517 = {
+	name = "Mud"
+	culture = "eel_islands"
+}
+
+2518 = {
+	name = "Spaghetti"
+	culture = "eel_islands"
+}
+
+2519 = {
+	name = "Thin"
+	culture = "eel_islands"
+}
+
+2520 = {
+	name = "Worm"
+	culture = "eel_islands"
+}
+
+2521 = {
+	name = "Longneck"
+	culture = "eel_islands"
+}
+
+2522 = {
+	name = "Pike Congers"
+	culture = "eel_islands"
+}
+
+2523 = {
+	name = "Duckbill"
+	culture = "eel_islands"
+}
+
+2524 = {
+	name = "Snake"
+	culture = "eel_islands"
+}
+
+2525 = {
+	name = "Snipe"
+	culture = "eel_islands"
+}
+
+2526 = {
+	name = "Sawtooth"
+	culture = "eel_islands"
+}
+
+2527 = {
+	name = "Cutthroat"
+	culture = "eel_islands"
+}
+
+2528 = {
+	name = "Blind Cave"
+	culture = "eel_islands"
+}
+
+2529 = {
+	name = "Cusk"
+	culture = "eel_islands"
+}
+
+2530 = {
+	name = "Electric"
+	culture = "eel_islands"
+}
+
+2531 = {
+	name = "Fire"
+	culture = "eel_islands"
+}
+
+2532 = {
+	name = "Gulper"
+	culture = "eel_islands"
+}
+
+2533 = {
+	name=  "Pelican"
+	culture = "eel_islands"
+}
+
+2534 = {
+	name = "Wolf"
+	culture = "eel_islands"
+}

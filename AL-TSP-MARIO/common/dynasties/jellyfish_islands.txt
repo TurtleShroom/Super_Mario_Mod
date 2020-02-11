@@ -1,0 +1,120 @@
+3250 = {
+	name = "Phyllorhiza"
+	culture = "jellyfish_islands"
+}
+
+3251 = {
+	name = "Chrysaora"
+	culture = "jellyfish_islands"
+}
+
+3252 = {
+	name = "Diplulmaris"
+	culture = "jellyfish_islands"
+}
+
+3253 = {
+	name = "Atolla"
+	culture = "jellyfish_islands"
+}
+
+3254 = {
+	name = "Porpita"
+	culture = "jellyfish_islands"
+}
+
+3255 = {
+	name = "Crossota"
+	culture = "jellyfish_islands"
+}
+
+3256 = {
+	name = "Cyanea"
+	culture = "jellyfish_islands"
+}
+
+3257 = {
+	name = "Bathykorus"
+	culture = "jellyfish_islands"
+}
+
+3258 = {
+	name = "Aurelia"
+	culture = "jellyfish_islands"
+}
+
+3259 = {
+	name = "Phacellophora"
+	culture = "jellyfish_islands"
+}
+
+3260 = {
+	name = "Olindias"
+	culture = "jellyfish_islands"
+}
+
+3261 = {
+	name = "Stomolophus"
+	culture = "jellyfish_islands"
+}
+
+3262 = {
+	name = "Catostylus"
+	culture = "jellyfish_islands"
+}
+
+3263 = {
+	name = "Malo"
+	culture = "jellyfish_islands"
+}
+
+3264 = {
+	name = "Cassiopea"
+	culture = "jellyfish_islands"
+}
+
+3265 = {
+	name = "Craspedacusta"
+	culture = "jellyfish_islands"
+}
+
+3266 = {
+	name = "Cephea"
+	culture = "jellyfish_islands"
+}
+
+3267 = {
+	name = "Turritopsis"
+	culture = "jellyfish_islands"
+}
+
+3268 = {
+	used_for_random = no
+	name = "Tempus"
+	culture = "jellyfish_islands"
+}
+
+3269 = {
+	name = "de Jalapeno Beach"
+	culture = "jellyfish_islands"
+}
+
+3270 = {
+	name = "de Cayenne Cove"
+	culture = "jellyfish_islands"
+}
+
+3271 = {
+	name = "de Banana Bay"
+	culture = "jellyfish_islands"
+}
+
+3272 = {
+	name = "de Serrano Sound"
+	culture = "jellyfish_islands"
+}
+
+3273 = {
+	name = "de Bell Highlands"
+	culture = "jellyfish_islands"
+}

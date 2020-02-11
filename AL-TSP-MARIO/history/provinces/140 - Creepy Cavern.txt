@@ -10,6 +10,6 @@ b_creepy_cavern = castle
 
 # Misc
 culture = pirate
-religion = seven_stars
+religion = boolish
 
 #History

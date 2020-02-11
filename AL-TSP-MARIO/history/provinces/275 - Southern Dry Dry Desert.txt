@@ -10,6 +10,6 @@ b_southern_dry_dry_desert = castle
 
 # Misc
 culture = dryite
-religion = seven_stars
+religion = dryite_pagan
 terrain = desert
 #History

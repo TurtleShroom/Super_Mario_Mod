@@ -1,0 +1,96 @@
+#Thang
+#3501-3750
+
+3501 = {
+	name = Johnny #Jimmy's father
+	dynasty = 3002
+	religion = temple_of_form
+	culture = diamond_city_men
+	add_trait = species_men
+	add_trait = tall
+	historical = yes
+	1922.6.1 = {
+  		birth = yes
+	}
+	1953.6.1 = { 
+		add_spouse = 3502
+	}
+	2002.6.1 = {
+		death = yes
+	}
+}
+
+3502 = {
+	name = Jennie #Jimmy's mother
+	female = yes
+	religion = temple_of_form
+	culture = diamond_city_men
+	add_trait = species_men
+	historical = yes
+	1923.6.1 = {
+  		birth = yes
+	}
+	2003.6.1 = {
+		death = yes
+	}
+}
+
+3503 = {
+	name = Jimmy #Jimmy
+	dynasty = 3002
+	religion = temple_of_form
+	culture = diamond_city_men
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 3501
+	mother = 3502
+	add_trait = species_men
+	add_trait = canonical_character
+	historical = yes
+	disallow_random_traits = yes #Done so that Jimmy won't get unfitting traits
+	1958.5.23 = { #May 23th is a reference to the release date of WarioWare, Inc.: Mega Microgame$! in EU
+  		birth = yes
+		effect = { set_character_flag = is_jimmy_thang }
+		add_trait = socializer
+		add_trait = gregarious
+		add_trait = kind
+	}
+	2038.5.23 = {
+		death = yes
+	}
+}
+
+3504 = {
+	name = James #Jimmy's brother
+	dynasty = 3002
+	religion = temple_of_form
+	culture = diamond_city_men
+	father = 3501
+	mother = 3502
+	add_trait = species_men
+	historical = yes
+	1959.6.1 = {
+  		birth = yes
+	}
+	2039.6.1 = {
+		death = yes
+	}
+}
+
+3505 = {
+	name = Jamie #Jimmy's sister
+	female = yes
+	dynasty = 3002
+	religion = temple_of_form
+	culture = diamond_city_men
+	father = 3501
+	mother = 3502
+	add_trait = species_men
+	historical = yes
+	1960.6.1 = {
+  		birth = yes
+	}
+	2040.6.1 = {
+		death = yes
+	}
+}

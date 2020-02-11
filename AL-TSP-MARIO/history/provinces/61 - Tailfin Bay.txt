@@ -10,6 +10,6 @@ b_tailfin_bay = castle
 
 # Misc
 culture = fish_islands
-religion = seven_stars
+religion = shine_sprites
 
 #History

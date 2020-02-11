@@ -1,0 +1,34 @@
+#Wadlow
+#2501-2750
+
+2501 = {
+	name = Waluigi #Waluigi
+	dynasty = 274
+	religion = lucienism 
+	culture = mario_brothers
+	#dna = "00000000000"
+	#properties = "00000000000"
+	add_trait = species_men
+	add_trait = tall
+	historical = yes
+	disallow_random_traits = yes #Done so that Waluigi won't get unfitting traits
+	1957.7.21 = { #July 21th is a reference to the release date of Mario Tennis in Japan
+		birth = yes
+		effect = { set_character_flag = is_waluigi_wadlow }
+	}
+	1973.7.21 = {
+		add_trait = envious
+		add_trait = deceitful
+		add_trait = wroth
+		add_trait = robust
+	}
+	2000.7.21 = { ##On this date, Mario Tennis releases
+		effect = {
+			add_friend = 2251 #Wario Capitoline
+			add_rival = 257 #Luigi Mario
+		}
+	}
+	2037.7.21 = {
+		death = yes
+	}
+}

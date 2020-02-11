@@ -10,6 +10,6 @@ b_isle_embricata = castle
 
 # Misc
 culture = turtle_islands
-religion = seven_stars
+religion = shine_sprites
 
 #History

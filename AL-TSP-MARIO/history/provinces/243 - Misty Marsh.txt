@@ -9,7 +9,7 @@ max_settlements = 1
 b_misty_marsh = castle
 
 # Misc
-culture = pirate
+culture = mushroom_kingdom
 religion = seven_stars
 terrain = marsh
 #History

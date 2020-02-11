@@ -10,6 +10,6 @@ b_sun_sun_island = castle
 
 # Misc
 culture = kongobongo
-religion = seven_stars
+religion = kong_religion
 
 #History

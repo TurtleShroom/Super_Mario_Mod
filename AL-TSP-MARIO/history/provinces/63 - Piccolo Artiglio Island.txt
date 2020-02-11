@@ -10,6 +10,6 @@ b_piccolo_artiglio_island = castle
 
 # Misc
 culture = crab_islands
-religion = seven_stars
+religion = shine_sprites
 
 #History

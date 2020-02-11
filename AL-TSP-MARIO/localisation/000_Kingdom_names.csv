@@ -1,8 +1,8 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 k_battle_land;Battle Land;Battle Land;Battle Land;;Battle Land;;;;;;;;;x
 k_battle_land_adj;Battle Landian;;Battle Lander;;;;;;;;;;;x
-k_beanbean_kingdom;Beanbean Kingdom;Beanbean Kingdom;Beanbean Kingdom;;Beanbean Kingdom;;;;;;;;;x
-k_beanbean_kingdom_adj;Beanbean Kingdomian;;Beanbean Kingdomer;;;;;;;;;;;x
+k_beanbean_land;Beanbean Land;Beanbean Land;Beanbean Land;;Beanbean Land;;;;;;;;;x
+k_beanbean_land_adj;Beanbean Landian;;Beanbean Lander;;;;;;;;;;;x
 k_birabuto;Birabuto;Birabuto;Birabuto;;Birabuto;;;;;;;;;x
 k_birabuto_adj;Birabutian;;birabuter;;;;;;;;;;;x
 k_blubble_lake;Blubble Lake;Blubble Lake;Blubble Lake;;Blubble Lake;;;;;;;;;x
@@ -47,8 +47,8 @@ k_golden_silence;Golden Silence;Golden Silence;Golden Silence;;Golden Silence;;;
 k_golden_silence_adj;Golden Silencean;;Golden Silencer;;;;;;;;;;;x
 k_grass_land;Grass Land;Grass Land;Grass Land;;Grass Land;;;;;;;;;x
 k_grass_land_adj;Grass Landian;;Grass Lander;;;;;;;;;;;x
-k_happy_land;Happy land;Happy land;Happy land;;Happy land;;;;;;;;;x
-k_happy_land_adj;Happy landian;;Happy lander;;;;;;;;;;;x
+k_happy_land;Happy Land;Happy Land;Happy Land;;Happy Land;;;;;;;;;x
+k_happy_land_adj;Happy Landian;;Happy Lander;;;;;;;;;;;x
 k_hyperborea;Hyperborea;Hyperborea;Hyperborea;;Hyperborea;;;;;;;;;x
 k_hyperborea_adj;Hyperborean;;hyperborer;;;;;;;;;;;x
 k_ice_land;Ice Land;Ice Land;Ice Land;;Ice Land;;;;;;;;;x

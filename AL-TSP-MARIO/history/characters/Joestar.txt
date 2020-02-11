@@ -1,0 +1,366 @@
+#Joestar
+#8500-8750
+#Started by Victor Iscariot/Empoleon Blownaparte. I, Iustinus, is expanding this section and yes, it will have SPOLIERS so don't read this if ones doesn't want that.
+#However, I will try to keep any and all of my notes to an absolute minimum as to minimize spoilers.
+
+8501 = {
+	name = George
+	dynasty = 282
+	religion = seven_stars
+	culture = mushroom_kingdom #About as close to England culture in the mod
+	add_trait = species_men
+	1833.3.3 = { 
+  		birth = yes
+	}
+	1851.5.1 = {
+		add_spouse = 8502
+	}
+	1888.8.8 = {
+		death = {
+			death_reason = death_murder
+			killer = 8753
+		}
+	}
+}
+
+8502 = {
+	name = Mary
+	dynasty = 0
+	religion = seven_stars
+	culture = mushroom_kingdom
+	add_trait = species_men
+	female = yes
+	1834.3.4 = { 
+  		birth = yes
+	}
+	1868.8.6 = {
+		death = {
+			death_reason = death_accident_fall
+		}
+	}
+}
+
+8503 = {
+	name = Jonathan
+	dynasty = 282
+	religion = tennis_religion #Representing that a lot of JoJo fightscenes are just Out-Bull****ing the enemy. The fact it's a Baskite heresy also represents the fact JoJo's is the MANIME to end all MANI #Changed from lucienism to Baskite, he is way too honorable and good for being a part of that faith - Iustinus
+	culture = mushroom_kingdom
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 8501
+	mother = 8502
+	add_trait = species_men
+	historical = yes
+	1868.4.4 = { #Canonical birthday
+		birth = yes
+		add_trait = strong
+	}
+	1884.4.4 = {
+		add_trait = fortune_builder #Educated to be an archaeologist
+		add_trait = kind
+		add_trait = brave
+		add_trait = just
+		add_trait = robust
+	}
+	1889.8.9 = {
+		add_spouse = 8501
+	}
+	1889.8.9 = {
+		death = {
+			death_reason = death_duel
+			killer = 8753
+		}
+	}
+}
+
+8504 = {
+	name = Erina
+	dynasty = 284
+	religion = seven_stars
+	culture = mushroom_kingdom
+	add_trait = species_men
+	female = yes
+	1869.11.22 = { 
+  		birth = yes
+	}
+	1950.11.22 = {
+		death = yes
+	}
+}
+
+8505 = {
+	name = George
+	dynasty = 282
+	religion = seven_stars
+	culture = mushroom_kingdom
+	father = 8503
+	mother = 8504
+	add_trait = species_men
+	1889.12.21= { 
+  		birth = yes
+	}
+	1919.1.9 = {
+		add_spouse = 8506
+	}
+	1921.12.21 = {
+		death = {
+			death_reason = death_murder_unknown
+		}
+	}
+}
+
+8506 = {
+	name = Elizabeth
+	dynasty = 0
+	religion = seven_stars
+	culture = mushroom_kingdom
+	add_trait = species_men
+	female = yes
+	1888.12.12 = { 
+  		birth = yes
+	}
+	1976.12.12 = {
+		death = yes
+	}
+}
+
+8507 = {
+	name = Joseph
+	dynasty = 282
+	religion = lucienism 
+	culture = mushroom_kingdom
+	#dna = "00000000000"
+	#properties = "00000000000"
+	add_trait = species_men
+	father = 8505
+	mother = 8506
+	historical = yes
+	disallow_random_traits = yes #Done so that this character won't get unfitting traits
+	1920.9.27 = {
+		birth = yes
+		add_trait = strong
+	}
+	1938.9.27 = { #Due to how far in the past this was, he's using his Stardust Crusaders personality after he's long mellowed out until further notice
+		culture = new_donk_city_men #closest thing to American culture
+		add_trait = lustful
+		add_trait = just
+		add_trait = shrewd
+		add_trait = robust
+		add_trait = fortune_builder #He's a real estate agent
+	}
+	1939.9.27 = {
+  		add_trait = one_handed
+		add_artifact = prosthetic_hand_metal
+	}
+	1840.8.4 = {
+		add_spouse = 8508
+	}
+	1999.1.1 = { #Got caught about cheating and has mellowed out a lot around this part of time
+		remove_trait = lustful
+	}
+	2020.9.27 = {
+		death = yes
+	}
+}
+
+8508 = {
+	name = Suzi
+	dynasty = 0
+	religion = seven_stars
+	culture = delfino
+	add_trait = species_men
+	female = yes
+	1921.2.1 = { 
+  		birth = yes
+	}
+	2001.2.1 = {
+		death = yes
+	}
+}
+
+8509 = {
+	name = Holly
+	dynasty = 282
+	religion = seven_stars
+	culture = new_donk_city_men
+	add_trait = species_men
+	father = 8507
+	mother = 8508
+	female = yes
+	1942.4.2 = { 
+  		birth = yes
+	}
+	2022.4.2 = {
+		death = yes
+	}
+}
+
+8510 = {
+	name = Sadao
+	dynasty = 3751
+	religion = seven_stars
+	culture = waterlander
+	add_trait = species_men
+	1941.1.4 = { 
+  		birth = yes
+	}
+	1966.2.14 = {
+		add_spouse = 8509
+	}
+	2021.1.4 = {
+		death = yes
+	}
+}
+
+8511 = {
+	name = Jotaro
+	dynasty = 3751
+	religion = lucienism
+	culture = waterlander
+	#dna = "00000000000"
+	#properties = "00000000000"
+	add_trait = species_men
+	father = 8510
+	mother = 8509
+	historical = yes
+	disallow_random_traits = yes #Done so that this character won't get unfitting traits
+	1970.10.9 = { #Referring to the date Stardust Crusaders first released in Japan
+		birth = yes
+		add_trait = strong
+		add_trait = quick #when you look at a fight scene in Stardust Crusaders, you realize that Jotaro's a real crafty guy with quick thinkin'
+	}
+	1985.9.13 = {
+		add_trait = brooding
+		add_trait = rowdy
+		add_trait = fussy #Most of the enemies in Stardust Crusaders are defeated by focusing on very small details
+	}
+	1986.10.9 = {
+		add_trait = proud
+		add_trait = wroth
+		add_trait = just
+		add_trait = shrewd
+		add_trait = skilled_tactition
+	}
+	1991.1.9 = {
+		add_spouse = 8512
+	}
+	2007.3.9 = {
+		remove_spouse = 8512
+	}
+	2050.10.9 = {
+		death = yes
+	}
+}
+
+8512 = {
+	name = Dolly #Name unknown
+	dynasty = 0
+	religion = seven_stars
+	culture = new_donk_city_men
+	add_trait = species_men
+	female = yes
+	1971.7.1 = { 
+  		birth = yes
+	}
+	2051.7.1 = {
+		death = yes
+	}
+}
+
+8513 = {
+	name = Jolyne
+	dynasty = 3751
+	religion = lucienism
+	culture = new_donk_city_men
+	#dna = "00000000000"
+	#properties = "00000000000"
+	add_trait = species_men
+	father = 8511
+	mother = 8512
+	female = yes
+	historical = yes
+	disallow_random_traits = yes #Done so that this character won't get unfitting traits
+	1993.3.9 = { 
+  		birth = yes
+	}
+	2073.3.9 = {
+		death = yes
+	}
+}
+
+8514 = {
+	name = Ryohei
+	dynasty = 3752
+	religion = seven_stars
+	culture = waterlander
+	add_trait = species_men
+	1944.4.4 = { 
+  		birth = yes
+	}
+	1999.4.4 = {
+		death = {
+			death_reason = death_murder_unknown
+		}
+	}
+}
+
+8515 = {
+	name = Tomoko
+	dynasty = 3752
+	religion = seven_stars
+	culture = waterlander
+	add_trait = species_men
+	father = 8515
+	female = yes
+	1962.6.2 = { 
+  		birth = yes
+	}
+	2042.6.2 = {
+		death = yes
+	}
+}
+
+8516 = {
+	name = Josuke
+	dynasty = 3752
+	religion = lucienism
+	culture = waterlander
+	#dna = "00000000000"
+	#properties = "00000000000"
+	add_trait = species_men
+	father = 8507
+	mother = 8515
+	historical = yes
+	disallow_random_traits = yes #Done so that this character won't get unfitting traits
+	1983.5.21 = { 
+  		birth = yes
+		add_trait = bastard
+	}
+	1999.6.21 = { 
+  		remove_trait = bastard
+		add_trait = legit_bastard
+	}
+	2063.5.21 = {
+		death = yes
+	}
+}
+
+8517 = {
+	name = Shizuka
+	dynasty = 282
+	religion = lucienism
+	culture = waterlander
+	add_trait = species_men
+	father = 8507 #She's adopted by Joseph but due to the game not having adoption mechanics, she'll be his actual child
+	1999.2.17 = { 
+  		birth = yes
+		add_trait = bastard
+	}
+	1999.6.21 = { 
+  		remove_trait = bastard
+		add_trait = legit_bastard
+	}
+	2079.2.17 = {
+		death = yes
+	}
+}

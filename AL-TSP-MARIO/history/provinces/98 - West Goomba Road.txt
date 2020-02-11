@@ -10,6 +10,6 @@ b_west_goomba_road = castle
 
 # Misc
 culture = goomba
-religion = seven_stars
+religion = goomba_pagan
 
 #History

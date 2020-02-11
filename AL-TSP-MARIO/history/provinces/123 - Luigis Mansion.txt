@@ -10,6 +10,6 @@ b_luigis_mansion = castle
 
 # Misc
 culture = mario_brothers
-religion = seven_stars
+religion = boolish
 
 #History

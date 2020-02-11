@@ -10,6 +10,6 @@ b_stalagmite_caverns = castle
 
 # Misc
 culture = kremling
-religion = seven_stars
+religion = kremling_religion
 
 #History

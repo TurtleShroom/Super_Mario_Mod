@@ -1,8 +1,8 @@
-# e_waterland_empire
+# e_the_eight_nations
 500.1.1={
 	law = agnatic_succession
 	law = succ_gavelkind
 }
 800.1.1={
-	liege=k_the_big_ocean
+	liege=k_water_land
 }

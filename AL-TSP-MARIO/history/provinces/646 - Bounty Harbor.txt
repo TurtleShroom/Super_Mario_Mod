@@ -10,6 +10,6 @@ b_bounty_harbor = castle
 
 # Misc
 culture = pirate
-religion = seven_stars
+religion = piracy
 
 #History

@@ -10,6 +10,6 @@ b_the_lost_world = castle
 
 # Misc
 culture = kremling
-religion = seven_stars
+religion = kremling_religion
 
 #History

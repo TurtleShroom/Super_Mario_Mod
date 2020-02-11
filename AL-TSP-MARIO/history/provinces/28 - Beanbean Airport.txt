@@ -10,6 +10,6 @@ b_beanbean_airport = castle
 
 # Misc
 culture = beanbean_kingdom
-religion = seven_stars
+religion = beanstar_faith
 
 #History

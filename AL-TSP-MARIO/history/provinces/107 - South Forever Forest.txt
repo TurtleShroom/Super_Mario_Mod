@@ -10,6 +10,6 @@ b_south_forever_forest = castle
 
 # Misc
 culture = pirate
-religion = seven_stars
+religion = boolish
 terrain = forest
 #History

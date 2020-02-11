@@ -1,0 +1,42 @@
+#Legume
+#1501-1750
+
+1501 = {
+	name = Bean #Queen Bean
+	female = yes
+	dynasty = 500
+	religion = beanstar_faith 
+	culture = beanbean_kingdom
+	add_trait = species_beanish
+	add_trait = canonical_character
+	add_trait = strong
+	add_trait = tall
+	add_trait = is_fat
+	historical = yes
+	disallow_random_traits = yes #Done so that Queen Bean won't get unfitting traits
+	1952.11.17 = { #November 17th is a reference to the release date of Mario & Luigi: Superstar Saga in US
+		birth = yes
+	}
+	2042.11.17 = {
+		death = yes
+	}
+}
+
+1502 = {
+	name = Peasley #Prince Peasley
+	dynasty = 500
+	religion = beanstar_faith 
+	culture = beanbean_kingdom
+	mother = 1501
+	add_trait = species_beanish
+	add_trait = fair
+	add_trait = canonical_character
+	historical = yes
+	disallow_random_traits = yes #Done so that Prince Peasley won't get unfitting traits
+	1981.11.21 = { #November 21th is a reference to the release date of Mario & Luigi: Superstar Saga in Japan
+		birth = yes
+	}
+	2061.11.21 = {
+		death = yes
+	}
+}

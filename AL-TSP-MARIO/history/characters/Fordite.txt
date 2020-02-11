@@ -1,0 +1,20 @@
+#Fordite
+#7251-7500
+
+7251 = {
+	name = "Mike" #Mike
+	religion = temple_of_form
+	culture = diamond_city_men
+	dynasty = 3011
+	add_trait = species_machine_generic
+	add_trait = canonical_character
+	historical = yes
+	disallow_random_traits = yes #Done so that Mike won't get unfitting traits
+	1988.12.2 = { #The date is a reference to the release date of WarioWare: Touched! in RoC
+  		birth = yes
+		effect = { set_character_flag = is_mike_fordite }
+	}
+	9999.12.2 = {
+		death = yes
+	}
+}

@@ -1,8 +1,8 @@
-# e_the_super_snowy_land
+# e_sprixieland
 500.1.1={
 	law = agnatic_succession
 	law = succ_gavelkind
 }
 800.1.1={
-	liege=k_super_castles
+	liege=k_meadow_sprixieland
 }

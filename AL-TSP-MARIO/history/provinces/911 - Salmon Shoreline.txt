@@ -10,6 +10,6 @@ b_salmon_shoreline = castle
 
 # Misc
 culture = kremling
-religion = seven_stars
+religion = kremling_religion
 
 #History

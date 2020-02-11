@@ -1,0 +1,70 @@
+#Crygor
+#4501-4750
+
+4501 = {
+	name = Victor # Doctor Crygor, named after Victor Frankenstein since his last name is probably a fusion of "'cryogenics' and the name "Igor," likely in reference to the character from Universal's Frankenstein films."
+	dynasty = 3003
+	religion = temple_of_form
+	culture = diamond_city_men
+	#dna = "00000000000"
+	#properties = "00000000000"
+	add_trait = species_men
+	add_trait = canonical_character
+	add_trait = genius
+	historical = yes
+	disallow_random_traits = yes #Done so that Dr. Crygor won't get unfitting traits
+	1900.7.4 = { #July 4th is a reference to the release date of WarioWare, Inc.: Mega Microgame$! in China
+  		birth = yes
+		effect = { set_character_flag = is_victor_crygor }
+	}
+	1916.7.4 = {
+		add_trait = scholar
+	}
+	1950.7.4 = {
+		add_trait = immortal #Note to self, see if possible to make an artifact of his suit that gives immortality
+	}
+	9999.12.31 = {
+		death = yes
+	}
+}
+
+4502 = {
+	name = Adam # Fictional, named after Frankenstein's Monster, who compares himself to Adam
+	dynasty = 3003
+	religion = temple_of_form
+	culture = diamond_city_men
+	father = 4501
+	add_trait = species_men
+	1951.6.1 = {
+  		birth = yes
+	}
+	2031.6.1 = {
+		death = yes
+	}
+}
+
+4503 = {
+	name = Penny # Penny
+	female = yes
+	dynasty = 3003
+	religion = temple_of_form
+	culture = diamond_city_men
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 4502
+	add_trait = species_men
+	add_trait = canonical_character
+	add_trait = genius
+	historical = yes
+	disallow_random_traits = yes # Done so that Penny won't get unfitting traits
+	1993.12.2 = { #December 12th is a reference to the release date of WarioWare: Smooth Moves in Japan
+  		birth = yes
+		effect = { set_character_flag = is_penny_crygor }
+	}
+	2006.12.2 = {
+		add_trait = scholar
+	}
+	2073.12.2 = {
+		death = yes
+	}
+}
