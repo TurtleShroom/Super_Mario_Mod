@@ -1032,7 +1032,7 @@ outlaw = {
 		priests_can_marry = yes
 		priests_can_inherit = yes
 		female_temple_holders = yes
-		feminist = yes
+		feminist = yes # As Captain Syrup is one of the greatest canonical pirates in the Mushroom World
 		defensive_attrition = yes
 		peace_prestige_loss = yes
 		raised_vassal_opinion_loss = no
@@ -1147,6 +1147,7 @@ outlaw = {
 		religious_clothing_priest = 7
 
 		intermarry = boolish
+		intermarry = tennis_religion
 	}
 }
 
@@ -1506,7 +1507,7 @@ extraterrestrial = {
 	playable = yes
 	
 	ai_convert_same_group = 2 # always try to convert
-	ai_convert_other_group = 2 # always try to convert
+	ai_convert_other_group = 0 # Never try to convert, the Shroobs only care about the Dark Harvest
 
 	shroob = {
 		graphical_culture = westerngfx
@@ -1974,7 +1975,7 @@ supernatural_group = {
 
 	# Names given only to Supernatural characters
 	female_names = {
-		Senka
+		Ashley Senka
 	}
 	
 	witchcraft = {
@@ -2022,7 +2023,7 @@ supernatural_group = {
 		graphical_culture = norsegfx
 
 		ai_convert_same_group = 0 # Will never convert
-		ai_convert_other_group = 2 # Will convert
+		ai_convert_other_group = 0 # Will never convert
 
 		icon = 5
 		heresy_icon = 5
@@ -2049,6 +2050,7 @@ supernatural_group = {
 		priests_can_marry = no
 		priests_can_inherit = no
 		female_temple_holders = yes
+		male_temple_holders = no # Shadow Sirens
 		feminist = yes
 		uses_jizya_tax = yes
 
