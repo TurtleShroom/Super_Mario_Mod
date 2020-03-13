@@ -1,0 +1,9 @@
+name = "Avrolancaster's REPLACE PATH TEST Super Mario Mod!"
+path = "mod/Super_Mario_Mod-6b2f286b493d422fb787cb050802d70b688ef4a2"
+user_dir = "Mario!"
+
+replace_path = "common/trade_routes"
+replace_path = "history/provinces"
+replace_path = "history/technology"
+replace_path = "history/wars"
+replace_path = "gfx/flags"
