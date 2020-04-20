@@ -1,10 +1,10 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 k_battle_land;Battle Land;Battle Land;Battle Land;;Battle Land;;;;;;;;;x
-k_battle_land_adj;Battle Landian;;Battle Lander;;;;;;;;;;;x
+k_battle_land_adj;Battlelander;Battlelander;Battlelander;;Battlelander;;;;;;;;;x
 k_beanbean_land;Beanbean Land;Beanbean Land;Beanbean Land;;Beanbean Land;;;;;;;;;x
-k_beanbean_land_adj;Beanbean Landian;;Beanbean Lander;;;;;;;;;;;x
+k_beanbean_land_adj;Beanbeanlander;Beanbeanlander;Beanbeanlander;;Beanbeanlander;;;;;;;;;x
 k_birabuto;Birabuto;Birabuto;Birabuto;;Birabuto;;;;;;;;;x
-k_birabuto_adj;Birabutian;;birabuter;;;;;;;;;;;x
+k_birabuto_adj;Birabutian;Birabutian;Birabutian;;Birabutian;;;;;;;;;x
 k_blubble_lake;Blubble Lake;Blubble Lake;Blubble Lake;;Blubble Lake;;;;;;;;;x
 k_blubble_lake_adj;Blubble Lakean;;Blubble Laker;;;;;;;;;;;x
 k_canyon_sprixieland;Canyon Sprixieland;Canyon Sprixieland;Canyon Sprixieland;;Canyon Sprixieland;;;;;;;;;x
@@ -78,11 +78,11 @@ k_mole_mountains_adj;Mole Mountainsian;;Mole Mountainser;;;;;;;;;;;x
 k_muda;Muda;Muda;Muda;;Muda;;;;;;;;;x
 k_muda_adj;Mudan;;muder;;;;;;;;;;;x
 k_mushroom_cape;Mushroom Cape;Mushroom Cape;Mushroom Cape;;Mushroom Cape;;;;;;;;;x
-k_mushroom_cape_adj;Mushroom Capean;;Mushroom Caper;;;;;;;;;;;x
+k_mushroom_cape_adj;Mushroom Caper;Mushroom Caper;Mushroom Caper;;Mushroom Caper;;;;;;;;;x
 k_mushroomland;Mushroomland;Mushroomland;Mushroomland;;Mushroomland;;;;;;;;;x
-k_mushroomland_adj;Mushroomlandian;;mushroomlander;;;;;;;;;;;x
+k_mushroomland_adj;Mushroomlandic;Mushroomlandic;Mushroomlandic;;Mushroomlandic;;;;;;;;;x
 k_new_mushroomland;New Mushroomland;New Mushroomland;New Mushroomland;;New Mushroomland;;;;;;;;;x
-k_new_mushroomland_adj;New Mushroomlandian;;New Mushroomlander;;;;;;;;;;;x
+k_new_mushroomland_adj;New Mushroomlandic;New Mushroomlandic;New Mushroomlandic;;New Mushroomlandic;;;;;;;;;x
 k_nimbus_land;Nimbus Land;Nimbus Land;Nimbus Land;;Nimbus Land;;;;;;;;;x
 k_nimbus_land_adj;Nimbus Landian;;Nimbus Lander;;;;;;;;;;;x
 k_northern_kremisphere;Northern Kremisphere;Northern Kremisphere;Northern Kremisphere;;Northern Kremisphere;;;;;;;;;x
@@ -128,7 +128,7 @@ k_twilight_zone_adj;Twilight Zonean;;Twilight Zoner;;;;;;;;;;;x
 k_vibe_island;Vibe Island;Vibe Island;Vibe Island;;Vibe Island;;;;;;;;;x
 k_vibe_island_adj;Vibe Islandian;;Vibe Islander;;;;;;;;;;;x
 k_warios_island;Wario's Island;Wario's Island;Wario's Island;;Wario's Island;;;;;;;;;x
-k_warios_island_adj;Warios Islandian;;Wario's Islander;;;;;;;;;;;x
+k_warios_island_adj;Wario Islander;Wario Islander;Wario Islander;;Wario Islander;;;;;;;;;x
 k_water_land;Water Land;Water Land;Water Land;;Water Land;;;;;;;;;x
 k_water_land_adj;Water Landian;;Water Lander;;;;;;;;;;;x
 k_wiggler_land;Wiggler Land;Wiggler Land;Wiggler Land;;Wiggler Land;;;;;;;;;x

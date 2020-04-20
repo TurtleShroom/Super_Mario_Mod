@@ -7,7 +7,7 @@ scallywag = {
 	pirate = {
 		graphical_cultures = { frankishgfx }
 		
-		color = { 0 0 0 }
+		color = { 30 30 30 }
 		male_names = {
 			#Canonical
 			Bifun Bobo
@@ -78,57 +78,40 @@ mushroom_kingdom_group = {
 	mushroom_kingdom = {
 		graphical_cultures = { frankishgfx }
 		
-		color = { 255 40 40 }
+		color = { 255 100 100 }
 		male_names = {
-			#Canonical
-			Chet_Chester Chuck_Charles 
+			#Canonical 
 			Bingo
 			Dane Doe
 			Ed_Edward
-			Fice Fishmael_Ishmael Frail Frost 
-			George Gino Ghiottoad
-			Har_Harry Harry_Harry Heff Henry_Henry Herb Hinopio Hugo
-			Jack Jake
+			Fice Frail Frost 
+			George Ghiottoad
+			Harry_Harry Heff Herb Hinopio
+			Jack
 			Little_Little 
 			Mini Mort_Morton Mush Mushbert_Albert Muss
 			Niff			
-			Perry Pine Pino Pio Plenn Porter Pronto Puff
-			Raz Rip Russ_Russell
+			Pine Plenn Porter Pronto Puff
+			Raz Russ_Russell
 			Scooter
-			Toad Toadbert_Robert Thriff Tony Troy
+			Toad Toadbert_Robert Thriff
 			Zip
 			
 			#Non-canonical
-			Agaric
-			Bisporus
-			Orion
-			Powehi
 			Victoad_Victor
 		}
 		female_names = {
-			#Canonical
-			Bit 
-			Chanterelle
-			Divini 
-			Frail Felissa_Felicity Frost 
+			#Canonical 
+			Chanterelle 
+			Frost 
 			Jolene
-			Kris_Christina
-			Mia Minh Miss_Misty
-			Nancy
-			Peach_Peach
-			Raini Rosalina
+			Minh
+			Raini
 			Tayce Toadette Toadia Toadiko Toadorica Toce Toodles Trini 
 			Vanna 
 			Zess
-			
-			#Non-canonical
-			Banana:0
-			Luna
-			Maple_Maple:10
-			Nectarine:0
-			Starfruit:0
-			Tangerine:0
 		}
+		
 		from_dynasty_suffix = "toad"
 		founder_named_dynasties = yes
 		modifier = default_culture_modifier
@@ -151,7 +134,7 @@ mushroom_kingdom_group = {
 		color = { 0.8 0.2 0.2 }
 		
 		male_names = {
-			Alexander Atticus August Andrew Anthony Angus Allen Asa Alvin Albert Ambrose Arthur Buford Benjamin Benedict Bernard Bartholomew Brigham Braxton Barnabas Cyrus Charles Cyril Christopher Casey Clarence Clark Calvin Chester David Donald Daniel Duncan Eric Ebenezer Elbridge Eugene Eustace Ernest Edmund Ephraim Earl Ezra Emory Francis Frederick_Frederich Freddy_Frederick Ferdinand George:250 Gregory Gideon Gerald Grover Gouveneur Gordon Humphrey Howard Hector Harold Horatio Henry Ian Irving Joseph Jeffrey Jubal John Jebediah James Jacob Julius Julian Justin Josiah Joshua Leonard Louis Lawrence Leland Luke Lionel Lorenzo Lamont Lyman Michael_Micheal Mike_Micheal Mikey_Micheal Mark Martin Milton Merriweather Nathaniel Noah Nehemiah Nicholas Oliver Obadiah Orville Owen Philip Peter Paul Patrick Rutherford Robert Richard Ronald Reuchlin Rufus Rhett Samuel Stephen Sampson Sylvester Theodore Thomas Timothy_Timothy Timmy_Timothy Upton Ulysses Victor Vincent William Walter Winfield Wilbur Wallace Walker Zachary_Zachary Zack_Zachary  Zach_Zachary
+			Alexander Atticus August Andrew Anthony Angus Allen Asa Alvin Albert Ambrose Arthur Buford Benjamin Benedict Bernard Bartholomew Brigham Braxton Barnabas Cyrus Charles Cyril Christopher Casey Clarence Clark Calvin Chester David Donald Daniel Duncan Eric Ebenezer Elbridge Eugene_Eugene Eustace Ernest Edmund Ephraim Earl Ezra Emory Francis Frederick_Frederich Freddy_Frederick Ferdinand George:250 Gregory Gideon Gerald Grover Gouveneur Gordon Humphrey Howard Hector Harold Horatio Henry Ian Irving Joseph Jeffrey Jubal John Jebediah James Jacob Julius Julian Justin Josiah Joshua Leonard Louis Lawrence Leland Luke Lionel Lorenzo Lamont Lyman Michael_Micheal Mike_Micheal Mikey_Micheal Mark Martin Milton Merriweather Nathaniel Noah Nehemiah Nicholas Oliver Obadiah Orville Owen Philip Peter Paul Patrick Rutherford Robert Richard Ronald Reuchlin Rufus Rhett Samuel Stephen Sampson Sylvester Theodore Thomas Timothy_Timothy Timmy_Timothy Upton Ulysses Victor Vincent William Walter Winfield Wilbur Wallace Walker Zachary_Zachary Zack_Zachary  Zach_Zachary
 		}
 
 		female_names = {
@@ -202,7 +185,7 @@ dryite_group = {
 	graphical_cultures = { muslimgfx arabicgfx frankishgfx }
 
 	dryite = {
-		color = { 0.1 0.75 0.1 } # Same as Vanilla rendition Bedouin
+		color = { 193 154 107 } #Desert
 
 		male_names = {
 			# Canonical
@@ -279,7 +262,7 @@ yoshi = {
 	yoshi_island = {
 		graphical_cultures = { frankishgfx }
 		
-		color = { 0.06 0.53 0 }
+		color = { 150 113 23 } #Sand dune
 		male_names = {
 			#Canonical
 			Black Blue Boshi_Washi Brown Green "Light Blue" Magenta Orange Pink_Pink Purple Red Washi_Washi White Yellow Yoob "Yo'ster" Yoshi_Yoshi Yoshisaur Yoshmeister Yoster
@@ -542,7 +525,7 @@ delfino_group = {
 	 crab_islands = { # For the purpose of this Mod, this location should be full of Nokis and not just Piantas, French
 		graphical_cultures = { frankishgfx }
 		
-		color = { 1 0 0 }
+		color = { 49 140 231 } #Bleu de France
 		male_names = {
 			Édouard_Edward Érrard Étienne_Stephen Adalbert_Albert Adémar Adrien Aimery_Aymeric Alain_Alan Aldebert_Albert Aldéric Alphonse_Alphonse Amaury_Amalric
 			Amédée Ancel André_Andrew Angelbert Antoine_Antonius Archambaud_Archibald Arnaud_Arnold Arnault_Arnold Arnoul_Arnulf Aubry_Aubrey Aymar Barthélémi_Bartolomeus
@@ -635,7 +618,7 @@ delfino_group = {
 	eel_islands = { #Portuguese
 		graphical_cultures = { frankishgfx }
 		
-		color = { 0.95 0.88 0.18 }
+		color = { 75 199 207 } #Sea serpent
 		male_names = {
 			Aarão_Aaron Abraão_Abraham Adalberto_Albert Ademar_Ademar Adriano_Adrian Adão_Adam Afonso_Alphonse Agostinho_Augustine Aires Alberto_Albert Aleixandre_Alexander Aloísio_Louis 
 			André_Andrew Anrique_Henry Antero_Andrew António_Antonius Aníbal_Hannibal Arnaldo_Arnold Artur_Arthur Augusto_Augustus 
@@ -706,7 +689,7 @@ delfino_group = {
 	jellyfish_islands = { #Latin
 		graphical_cultures = { frankishgfx }
 		
-		color = { 153 0 36 }
+		color = { 102 2 60 } #Tyrian purple
 		male_names = {
 			Aelagabalus Aelius_Aelius Aemilianus Aemilius Aetius_Ezio Agapitus_Agapito Albinus_Albino Albus Alexander_Alexander Alexius_Alexis Amadeus Anacletus Anastasius_Anastasius Anicius Annius Antadus Anterus Anthemius Antius Antonius_Anthony Antoninus_Anthony Appianus Appius Aratus Arcadius_Arkadios Aulianius Aulimius Aulus Aurelianus_Aurelian Aurianius Auspex Avitus Alethius
 			Balbinus Balbus Barbatus Basiliscus Basilius Benignus_Benignus Bibulus Benedictus_Benedict Belisarius_Belisarius Bonifatius_Bonifacius Brutus Bubo Buteo Britannicus
@@ -780,7 +763,7 @@ delfino_group = {
 	 noki = { # Catch-all for all other Nokis, used Old Frankish names as I'm assuming these Noki are gonna be separated from the rest of the Noki of the Sunshine Isles which would be fitting as this language is uninfluenced by the languages of the Sunshine Isles
 		graphical_cultures = { frankishgfx }
 		
-		color = { 1 56 99 }
+		color = { 119 181 254 } #French sky blue
 		male_names = {
 			Abrahil Abram Adalbald Adalbert_Albert Adalgari Adalgrim Aegidius Ageric Agilbert Agiulf Ailbert Albric Aldedramn Andica Ansovald Arcambald Aregisel Arnegisel Arnulf_Arnulf Ascaric Audovald Austregisel Autbert Autgari Autgeri Avremar Badegisel 
 			Balduin_Baldwin Barnard_Bernard Berald_Berard Bernard_Bernard Berneri Bero Berold Berthefried Bertlin Bertram Bertrand Burchard_Bouchard 
@@ -844,7 +827,7 @@ delfino_group = {
 	 noki_bay = { # Nokis only, please, Occitan
 		graphical_cultures = { frankishgfx }
 		
-		color = { 2 60 103 }
+		color = { 134 96 142 } #French lilac
 		male_names = { 
 			Adhémar_Ademar Adrian_Adrian Acfred_Alfred Aimeric_Aymeric Alberic_Aubrey Albert_Albert Aldebert_Albert Alexandre_Alexander Alexis_Alexis Alias_Helias Anfòs_Alphonse Amalric_Amalric Amaneus Ancelmes 
 			André_Andrew Archambaut_Archibald Arnaut_Arnold Artau_Artal Aton Audoïn August_Augustus Aurèli_Aurelius Aymar_Aymeric Aymeric_Aymeric Aznar_Aznar
@@ -941,14 +924,14 @@ twilighter_group = {
 	twilighter = {
 		graphical_cultures = { frankish_gfx }
 
-		color = { 222 100 82 }
+		color = { 138 73 107 } #Twilight lavender
 
 		male_names = {
 			# canonical names
 			Dour Darkly Gloomer
 
 			# made up filler
-			Dusk Dusker Gloom Sorrow Sye Dark'ness Poe Bloodirist Christo_Christopher Edgar Enoby_Ebony Goff Goffik Gerard_Gerard Draco Loopin Allen Black Enopby_Ebony Egogy_Ebony Gothum Ichabod Igor Harry_Harold Harold_Harold Ron_Ronald Ronald_Ronald Gerard "Billie Joel"_William Joel Evony_Ebony "Tre Cool" "Mike Dinrt"_Micheal Kiffmeyer Dirnt Cometbus Trey "Gerard Way"_Gerard James Dewees Mikey_Micheal Dusky Smokey Armstrong Bryar Fallout Dib Jhoenn Skoodge Keif_Keith Keith_Keith Jim_James Jimmy_Hames Crow_Raven William_William
+			Dusk Dusker Gloom Sorrow Sye Dark'ness Poe Bloodirist Christo_Christopher Edgar Enoby_Ebony Goff Goffik Gerard_Gerard Draco Loopin Allen Black Enopby_Ebony Egogy_Ebony Gothum Ichabod Igor Harry_Harold Harold_Harold Ron_Ronald Ronald_Ronald Gerard "Billie Joel"_William Joel Evony_Ebony "Tre Cool" "Mike Dinrt"_Micheal Kiffmeyer Dirnt Cometbus Trey "Gerard Way"_Gerard James Dewees Mikey_Micheal Dusky Smokey Armstrong Bryar Fallout Dib Jhoenn Skoodge Keif_Keith Keith_Keith Jim_James Jimmy_James Crow_Raven William_William
 		}
 
 		female_names = {
@@ -981,24 +964,16 @@ twilighter_group = {
 canonical_human_group = {
 	mario_brothers = { # Mario Brothers special culture to differentiate them and anyone related to them from geting Toad names
 		graphical_cultures = { italiangfx frankishgfx westerngfx chinesegfx } 
-		color = { 255 0 0 }
+		color = { 205 33 42 } #Italian flag red
 
 		male_names = {
 			# Canonical
 			Mario_Mario:300 "Mario Joe"_Mario Luigi_Luigi:120 "Luigi Bob"_Luigi Waluigi:120 Wario:120
 
 			#Non-canonical
-			Billy_William Marco_Mark Mareeus Rigel
+			Billy_William Marco_Mark Mareeus Pio Rigel Tony Troy
 
-			# Italian filler
-			Abbondanzio Abbondio Abelardo_Abelard Abelino Achille Adalberto_Albert Adelfo Adelmio_Adelmo Adelmo_Adelmo Adone Adriano_Adrian Agapito Agostino_Augustine Aimone Alamanno Alarico_Alaric Albano Alberico Alberto_Albert Albino Alboino Alcide Aldobrandino Aleardo Aleramo Alessandro_Alexander Alessio_Alexis Alighiero Alvise Ambrogio_Ambrosius Amedeo Anastasio_Anastasius  Andrea_Andrew Angelo_Angel Annibale Anselmo_Anselm Antonino_Antoninus Antonio_Antoninus Antoniotto Arcibaldo_Archibald Arderico Armando_Armand Arnolfo_Arnulf Arrigo Arsenio Artemio Ascanio Astorre Atenolfo_Atenulf Attilio Augusto_Augustine Aurelio_Aurelius Ausilio Ausonio Averado Azzo Azzone Baldassarre Baldovino_Baldwin Barnaba_Barnabas Bartolomeo_Bartolomeus Basilio_Basil Bassiano Basso Battista Beltrano_Bertrand Benedetto_Benedict Benvenuto Berardo Bernabò_Barnabas Bernardo_Bernard Berto Bertoldo_Berthold Biagio Bonaventura Bonifacio_Bonifacius Borso Bruno Bruto Buonconte Buoso Callisto_Callistus Camillo_Camillus Candido Cangrande Carlo_Charles Cassio Castore Cataldo Catone Cecco Cesare_Caesar Chiaffredo Chiano Ciro Ciuccio Claudio_Claudius Clemente_Clement Comita Conone Cornelio_Cornelius Corradino Corrado_Konrad Cosimo Cosma_Cosmas Costante Costantino Costanzo Cristoforo_Christopher Damiano_Damian Davide_David Demetrio_Demetrius Dioniso_Dionysus Doménico_Dominic Durante Eduardo_Edward Elio Emmanuele_Manuel Ennio Enrico_Henry Enzio Enzo Ercole_Heracles Eriprando Ermenegildo Ettore_Hector Eugenio_Eugene Ezio Ezzelino Fabrizio Fausto Federigo_Frederick Felice_Felix Ferdinando_Ferdinand Ferruccio Filippo_Philip Fiorello Flavio Folco_Folke Fortunato Fosco Francesco_Francis Fresco Gabriele_Gabriel Gabrino Gaetano Galasso Galeazzo Galeotto Gaspare Gastone_Gaston Gelasio Gentile Geraldo_Gerald Gerardo_Gerard Germano_Germanus Gerolamo Gherardo_Gerard Giacinto_Hyacinth Giacomo_Jacob Gian_John Gianfranco Gianleone Giano_John Giberto Gilberto_Gilbert Giolio Giordano_Jordan Giorgio_George Giovanni_John Giulio_Julius Giuseppe_Joseph Goffredo_Godfrey Gregorio_Gregory Gualtiero_Walter Guarnito Guerrino Guglielmo_William Guido_Guy Guidone_Guy Guigliadore Iacopo_Jacob Igino nzo Ippolito_Hippolytus Isnardo Jacopo_Jacob Lamberto_Lambert Landolfo_Landolf Landone Lanfranco Lattanzio Lazzarino Lazzaro_Lazarus Lealdo Leonardo Leone_Leo Leonello_Lionel Leopoldo Libero Lionello_Lionel Livio Lodovico_Louis Lorenzo_Laurence Luca_Luke Luchino Lucio_Lucius Malacresta Manfredo Manuele_Manuel Marco_Marcus Mariano_Marius Marino Marsiglio Martino_Martin Massimo_Maximus Mastino Matteo_Matthew Merigo Michelangelo Michele_Michael  Napoleone Nazareno Nestore Niccolò_Nicholas Nicola_Nicholas Nino Nolfo Oberto Obizzino Obizzo Oddone Omero Onorio Oreste Orlando Ottavio Ottobono Ottone_Otto Pagano_Pagan Pancrazio Pandolfo_Randolph Paolo_Paul Pasquale_Pascal Patrizio_Patrick Pellegrino Pericle Pietro_Peter Pio Prospero Rafaello_Raphael Radul Raimondo_Raymond Rainero_Rainer Raineri_Rainer Riccardo_Richard Rinaldo_Reinhold Rizzardo Roberto_Robert Rodolfo_Ralph Rolando_Roland Rosso Ruggiero Salinguerra Salvatore_Salvador Salvestro_Silvester Sante_Sancho Saverio Sciarra Sebastiano_Sebastian Secondotto Serafino_Seraphin Sergio Sesto Settimio Severino Severo Silvano Silvestro Simone_Simon Simonetto Sinibaldo Sinucello Sozzo Spinetto Stefano_Stephen Stentore Taddeo Tedaldo Tedice Teodoro_Theodore Tibaldo_Theobald Tiziano Tommaso_Thomas Torgodorio Torquato Ubaldo Uberto Ugo_Hugh Ugoccione Ugolino Umberto_Humbert Urbano_Urban Valentino_Valentin Valerio_Valerius Vincentello Vincenzo_Vincent Virginio Vitale Vittore_Victor Vittorio_Victor Zaccaria_Zachary
-		}
-
-		female_names = {
-			# Canonical
-			Marianne_Maria Marilyn Maria_Maria:200 Luigeena_Luigina Luigina_Luigina:200 Paulina:150
-
-			# Italian filler
+			#Italian filler
 			Abbondanzio_Abbondanzio Abbondio_Abundius Abelardo_Abelard Abelino_Abel Achille_Achilles Adalberto_Albert Adelfo_Adolf Adone_Adonis Adriano_Adrian Agapito_Agapito Agostino_Augustine Aimone_Aimone Alamanno_Aleman Alarico_Alaric Albano_Alban Alberico_Aubrey Albertino_Albert Albino_Albino Alboino_Alwin Alberto_Albert Alcide_Alcides Aldobrandino_Aldebrand Aleardo_Ale Aleramo_Aleram Alessio_Alexis Alessandro_Alexander Ambrogio_Ambrosius Amedeo_Amadeus Anastasio_Anastasius Andrea_Andrew Annibale_Hannibal Anselmo_Anselm Antonio_Antonius Antonino_Antoninus Arcibaldo_Archibald Arderico_Aldaric Arduino_Hartwin Armando_Armand Arnolfo_Arnulf Arrigo_Arrigo Arsenio_Arsenios Artemio_Artemius Arturio_Arthur Ascanio_Ascanius Astorre_Astor Atenolfo_Atenulf Attilio_Atilius Augusto_August Aurelio_Aurelius Ausilio_Ausilius Ausonio_Ausonius Averado_Everard Azzo_Azzus Azzone_Azzus
             Baldassarre_Baltasar Baldovino_Baldwin Bartolomeo_Bartolomeus Bassiano_Bassianus Battista_Baptist Berardo_Berard Bernardo_Bernard Berto_Bernard Bertoldo_Bernard Beltrano_Bertrand Benedetto_Benedict Benvenuto_Benvenuto Biagio_Blaise Bonaventura_Bonaventura Bonifacio_Bonifacius Borso_Boris Bruno_Bruno Bruto_Brutus Buonconte_Buonconte Buoso_Buoso
             Callisto_Callisto Camillo_Camillus Candido_Candidus Cangrande_Cangrande Carlo_Charles Cassio_Cassius Castore_Castor Cataldo_Catald Catone_Catone Cecco_Francis Cesare_Caesar Chiaffredo_Chiaffredo Chiano_Chiano Ciro_Cyrus Ciuccio_Cyriacus Claudio_Claudius Clemente_Clement Columba_Columba Comita_Comita Cornelio_Cornelius Corrado_Konrad Cosimo_Cosmas Costantino_Constantine Costanzo_Constans Cristoforo_Christopher
@@ -1017,9 +992,27 @@ canonical_human_group = {
             Rafaello_Raphael Raimondo_Raymond Riccardo_Richard Rinaldo_Reinhold Roberto_Robert Rodolfo_Ralph Rolando_Roland Rosso_Russus Ruggiero_Roger
             Salinguerra_Salinguerra Salvatore_Salvador Salvestro_Silvester Sante_Sancho Saverio_Xavier Sebastiano_Sebastian Secondotto_Secundius Serafino_Seraphinus Sergio_Sergius Sesto_Sextus Settimio_Septimius Severino_Severinus Severo_Severus Silvano_Sylvan Silvestro_Silvester Simone_Simon Sinibaldo_Sinibald Sozzo_Sozzo Stefano_Stephen Stentore_Stentore
             Taddeo_Thaddeus Tedaldo_Theodald Tedice_Thaddeus Teodoro_Theodore Tibaldo_Theobald Tiziano_Titus Tolomeo_Ptolemaios Tommaso_Thomas Torgodorio_Torcotore Torquato_Torquatus
-            Ubaldo_Humbert Uberto_Hubert Ugo_Hugh Ugoccione Ugolino_Ugolino Urbano_Urban
-            Valentino_Valentin Valerio_Valerian Vincentello Vincenzo_Vincent Virginio_Virginius Vitale_Vitalis Vittore_Victor Vittorio_Victor
+            Ubaldo_Humbert Ugo_Hugh Ugolino_Ugolino Urbano_Urban
+            Valentino_Valentin Valerio_Valerian Vincentello Vincenzo_Vincent Virginio_Virginius Vitale_Vitalis
             Zaccaria_Zachary
+		}
+
+		female_names = {
+			# Canonical
+			Marianne_Maria Marilyn Maria_Maria:200 Luigeena_Luigina Luigina_Luigina:200 Paulina:150
+
+			#Italian Filler
+			Abelina_Abelina Adalberta_Adalberta Adalgisa_Adalgisa Adelaida_Adelaide Adelasia_Adelasia Adelia_Adela Adriana_Adriana Agalina_Agalina Agnese_Agnes Agostina_Augustina Albina_Albina Alda_Alda Alessandra_Alexandra Alfonsina_Alfonsina Alisia_Alice Amalia_Amelia Ambrosia_Ambrosia Anastasia_Anastasia Anna_Anna Antonella_Antonina Antonia_Antonia Argentina_Argentina Augusta_Augusta Aurelia_Aurelia Ausonia_Ausonia
+            Beatrice_Beatrice Benedetta_Benedicta Benilde_Brunhilda Berenice_Berenice Berta_Bertha Bianca_Blanche Bona_Bonne Brunilde_Brunhilda
+            Camilla_Camille Candida_Candida Caracosa_Caracosa Carla_Carla Carola_Carola Caterina_Catherine Cecilia_Cecilia Clara_Clara Claudia_Claudia Clorinda_Clorinda Clotilde_Clotilde Constanza_Constance Cornelia_Cornelia Delinda_Delinda Dora_Dora Edda_Edda Elena_Helen Eleonora_Eleanor Elisa_Elizabeth Elisabetta_Elizabeth Ermenegilda Eudossia_Eudossia Eugenia_Eugenia
+			Fausta_Fausta Felicia_Felicia Felicita_Felicita Filippa_Philippa Filomena_Philomena Flavia_Flavia Flora_Flora Fortunata_Fortunata Fosca_Fosca Francesca_Francesca Froizza_Froizza
+            Giacinta_Hyacintha Ginevra_Ginevra Giovanna_Joan Giuditta_Giuditta Giulia_Juliana Giuseppa_Giuseppa
+            Ippolita_Ippolita Isabella_Elizabeth
+            Joscella_Joscella
+            Laura_Laura Lavinia_Lavinia Leonide_Leonide Letizia_Letizia Lidia_Lidia Livia_Livia Lodovica_Elizabeth Lucia_Lucia Lucinetta_Lucinetta Lucrezia_Lucrezia Maddalena_Magdalena Marcella_Marcella
+			Margherita_Margaret Maria_Maria Mariana_Mariana Marina_Marine Marietta_Mariette Martina_Martina Matilda_Matilda Mia Micaela_Michelle Oria_Oria Paola_Paula Patrizia_Patricia Renata_Renata Ricciarda_Ricarda Silvana_Sylvana
+			Sofia_Sophia Stefania_Stephania Tiziana_Tiziana Tomasina_Thomasina
+            Valentina_Valentina Violante_Yolanda 
 		}
 
 		parent = mushroom_kingdom
@@ -1040,15 +1033,93 @@ canonical_human_group = {
 		used_for_random = no
 		allow_in_ruler_designer = no
 	}
+	
+	anglo_mushroomite = { #Try to keep the non-canonical names to fruit and star based names
+		graphical_cultures = { frankishgfx }
+		
+		color = { 231 56 149 } #Royal pink
+		male_names = {
+			#Canonical
+			Alex_Alexander Allie_Alan
+			Bean Billy_William Bird Bob_Robert Brian Buzz
+			Chad Charlie_Charles Chas_Charles Chet_Chester Chris_Christopher Clay Curt
+			Dweezil
+			Elden Elroy Elvin
+			Flit
+			Gary Gene_Eugene
+			Stanley
+			
+			#Non-canonical
+			Apricot
+			Orion
+			Plum Powehi
+		}
+		female_names = {
+			#Canonical
+			Ace Azalea
+			Barb_Barbra Beth_Elizabeth
+			Ella_Eleanor Emi Emily
+			Fay
+			Nina
+			Peach_Peach
+			Rosalina 
+			Tina
+			
+			#Non-canonical
+			Banana
+			Luna
+			Nectarine
+			Starfruit
+			Tangerine
+		}
+		
+		parent = mushroom_kingdom
+
+		from_dynasty_prefix = "of "
+		founder_named_dynasties = yes
+		modifier = default_culture_modifier
+		dukes_called_kings = yes
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+	}
 
 	new_donk_city_men = {
-		color = { 200 25 25 }
+		color = { 128 128 128 } #Gray
 		graphical_cultures = { italiangfx frankishgfx westerngfx chinesegfx }
 
 		male_names = {
 			# Canonical, assuming Mario and Luigi can be lumped with the New Donkers
 			Mario_Mario:150 "Mario Joe"_Mario Luigi_Luigi:150 "Luigi Bob"_Luigi
 
+			#English filler
+			Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm_Anselm Arnold_Arnold Arthur_Arthur Aubrey_Aubrey 
+			Brice_Brice Bryce_Brice 
+			Christopher_Christopher Coleman_Columba
+			David_David 
+			Edmund_Edmund Edward_Edward Eric_Erik Eustace_Eustace Evander_Ivar 
+			Franklin_Franklin Fulk_Folke 
+			Gavin_Gavin Geoffrey George_George Gerald_Gerald Gilbert_Gilbert Godfrey_Godfrey Gregory_Gregory Guy_Guy 
+			Henry_Henry Hugh_Hugh Humphrey_Humphrey 
+			Ives_Ivo 
+			Joscelin_Joscelin John_John Joseph_Joseph Jordan_Jordan 
+			Laurence_Laurence Lionel_Lionel Luke_Lucas 
+			Mark_Marcus Martin_Martin Matthew_Matthew Maurice_Maurice Michael_Michael 
+			Nicholas_Nicholas 
+			Paul_Paul Peter_Peter Philip_Philip
+			Quentin_Quintius
+			Ralph_Ralph Randolph_Ralph Reginald Richard_Richard Robert_Robert Roger_Roger 
+			Simon_Simon Stephen_Stephen 
+			Theobald_Theobald Theodore_Theodore Thomas_Thomas 
+			Waleran_Walram Walter_Walter William_William
+			
 			# Italian filler
 			Abbondanzio_Abbondanzio Abbondio_Abundius Abelardo_Abelard Abelino_Abel Achille_Achilles Adalberto_Albert Adelfo_Adolf Adone_Adonis Adriano_Adrian Agapito_Agapito Agostino_Augustine Aimone_Aimone Alamanno_Aleman Alarico_Alaric Albano_Alban Alberico_Aubrey Albertino_Albert Albino_Albino Alboino_Alwin Alberto_Albert Alcide_Alcides Aldobrandino_Aldebrand Aleardo_Ale Aleramo_Aleram Alessio_Alexis Alessandro_Alexander Ambrogio_Ambrosius Amedeo_Amadeus Anastasio_Anastasius Andrea_Andrew Annibale_Hannibal Anselmo_Anselm Antonio_Antonius Antonino_Antoninus Arcibaldo_Archibald Arderico_Aldaric Arduino_Hartwin Armando_Armand Arnolfo_Arnulf Arrigo_Arrigo Arsenio_Arsenios Artemio_Artemius Arturio_Arthur Ascanio_Ascanius Astorre_Astor Atenolfo_Atenulf Attilio_Atilius Augusto_August Aurelio_Aurelius Ausilio_Ausilius Ausonio_Ausonius Averado_Everard Azzo_Azzus Azzone_Azzus
             Baldassarre_Baltasar Baldovino_Baldwin Bartolomeo_Bartolomeus Bassiano_Bassianus Battista_Baptist Berardo_Berard Bernardo_Bernard Berto_Bernard Bertoldo_Bernard Beltrano_Bertrand Benedetto_Benedict Benvenuto_Benvenuto Biagio_Blaise Bonaventura_Bonaventura Bonifacio_Bonifacius Borso_Boris Bruno_Bruno Bruto_Brutus Buonconte_Buonconte Buoso_Buoso
@@ -1071,27 +1142,6 @@ canonical_human_group = {
             Ubaldo_Humbert Uberto_Hubert Ugo_Hugh Ugoccione Ugolino_Ugolino Urbano_Urban
             Valentino_Valentin Valerio_Valerian Vincentello Vincenzo_Vincent Virginio_Virginius Vitale_Vitalis Vittore_Victor Vittorio_Victor
             Zaccaria_Zachary
-			
-			#English filler
-			Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm_Anselm Arnold_Arnold Arthur_Arthur Aubrey_Aubrey 
-			Brice_Brice Bryce_Brice 
-			Christopher_Christopher Coleman_Columba
-			David_David 
-			Edmund_Edmund Edward_Edward Eric_Erik Eustace_Eustace Evander_Ivar 
-			Franklin_Franklin Fulk_Folke 
-			Gavin_Gavin Geoffrey George_George Gerald_Gerald Gilbert_Gilbert Godfrey_Godfrey Gregory_Gregory Guy_Guy 
-			Henry_Henry Hugh_Hugh Humphrey_Humphrey 
-			Ives_Ivo 
-			Joscelin_Joscelin John_John Joseph_Joseph Jordan_Jordan 
-			Laurence_Laurence Lionel_Lionel Luke_Lucas 
-			Mark_Marcus Martin_Martin Matthew_Matthew Maurice_Maurice Michael_Michael 
-			Nicholas_Nicholas 
-			Paul_Paul Peter_Peter Philip_Philip
-			Quentin_Quintius
-			Ralph_Ralph Randolph_Ralph Reginald Richard_Richard Robert_Robert Roger_Roger 
-			Simon_Simon Stephen_Stephen 
-			Theobald_Theobald Theodore_Theodore Thomas_Thomas 
-			Waleran_Walram Walter_Walter William_William
 			
 			#German filler
 			Adalbero_Adalbero Adalbert_Albert Adalhard_Adalhard Adam_Adam Ademar_Adémar Adolf_Adolf Alarich_Alaric Alberich_Aubrey Albrecht_Albert Aldrich_Aldric Alois_Louis Amadeus_Amadeus Amalrich_Amalric Andreas_Andrew Anselm_Anselm Ansgar_Oscar Archembald_Archibald Arnold_Arnold Arnulf_Arnulf Augustin_Augustine 
@@ -1182,6 +1232,18 @@ canonical_human_group = {
 			# Canonical names
 			Paulina_Paulina:120 Paulene_Paulina:115
 
+			#English filler
+			Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina 
+			Beatrice_Beatrice Blanche_Blanche 
+			Catherine_Catherine Cecilia_Cecilia Constance_Constance 
+			Edith_Edith Ela Eleanor_Eleanor Elizabeth_Elizabeth Emma_Emma 
+			Hawise 
+			Isabel_Elizabeth Isabella_Elizabeth 
+			Joan_Joan Joanna_Joan Juliana_Juliana 
+			Mahaut_Mahaut Margaret_Margaret Mary_Maria Matilda_Matilda Maud_Matilda 
+			Philippa_Philippa 
+			Sybilla_Sibylla
+			
 			# Italian filler
 			Abelina Adalberta Adalgisa Adelaida_Adelaide Adelasia Adelia_Adela Adriana_Adriana Agalina Agnese_Agnes Agostina Albina Alda Alessandra Alfonsina Alisia_Alice Aloisia Amalia_Amelia Ambrosia Anastasia_Anastasia Anna_Anna Antonella Antonia Argentina Augusta Aurelia_Aurelia Ausilia Ausonia 
 			Beatrice_Beatrice Benedetta_Benedicta Benilde Berenice Berta Bianca_Blanche Bona_Bonne Brunilde_Brunhilda 
@@ -1200,18 +1262,6 @@ canonical_human_group = {
 			Silvana Sofia_Sophia Stefania_Stephania 
 			Tiziana Tomasina 
 			Valentina Violante_Yolanda Virginia
-			
-			#English filler
-			Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina 
-			Beatrice_Beatrice Blanche_Blanche 
-			Catherine_Catherine Cecilia_Cecilia Constance_Constance 
-			Edith_Edith Ela Eleanor_Eleanor Elizabeth_Elizabeth Emma_Emma 
-			Hawise 
-			Isabel_Elizabeth Isabella_Elizabeth 
-			Joan_Joan Joanna_Joan Juliana_Juliana 
-			Mahaut_Mahaut Margaret_Margaret Mary_Maria Matilda_Matilda Maud_Matilda 
-			Philippa_Philippa 
-			Sybilla_Sibylla
 			
 			#German filler
 			Adela_Adela Adelheid_Adelaide Adelinde Agathe_Agatha Agnes_Agnes Alberade Amalberga Amalie_Amelia 
@@ -1309,7 +1359,7 @@ canonical_human_group = {
 	diamond_city_men = { # 
 		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		
-		color = { 0.85 0.85 0.01 }
+		color = { 154 197 219 } #Diamond
 		
 		male_names = {
 			# Canonical
@@ -1320,7 +1370,7 @@ canonical_human_group = {
 		}
 		female_names = {
 			# Canonical
-			Ana_Ana:150 Ashley_Ashley:175 Kat_Kat:150 Lulu_Lulu:150 Mona_Monica:200 Penny_Penelope:150
+			Ana_Ana Ashley_Ashley Kat_Kat Lulu_Lulu Mona_Monica Penny_Penelope
 
 			# Made-up filler
 			Acha Achacha Ago Agogo Ai Aiyasha Akaka Akashi Aki Ako Akoko Ame Amu Asa Asahi Ate Aya Ayamachi Ayaya Azechi Chacha Chago Chau Chibo Chii Etsu Chima Chise Chiyo Cho Chobo Ei Fuku Fuji Fumi Furi Fusa Fuyo Fuyu Gin Go Gomoji Gou Hagi Haku Hana Haru Hatsu Hatsune Hide Hiko Hina Hiro Hisa Hochi Hoju Hou Ia Icha Ichako Ichi Ichiba Ima Imaaki Ina Inaka Ine Ino Inu Iemon Ietoki Iori Ira Iro Iroha Ishi Ishika Ito Itoito Itoko Iwa Iya Iyo Kaga Kai Kaji Kaka Kama Kame Kane Kasuga Katsu Kaze Kazusa Kesa Kichi Kichou Kii Kiku Kimi Kin Kinu Kisa Kita Kitsuno Kiyo Kocha Kochiyo Kochou Kofuku Kogou Koi Koishi Koito Koko Koma Komatsu Kon Koto Kou Kowa Koya Koyaya Kubo Kuma Kuni Kurikaka Kyaku Maa Machi Maki Man Mari Masa Masako Mayo Mate Matsu Matsuno Mego Meshi Minoru Minato Mitsu Miya Mono Miwa Moto Muku Mume Mumetsu Naa Nabe Naka Nami Natsu Natsumi Naya Nene Nii Nishi Nue Oku Olympia Prudence Patricia Pauline Patience Pamela Phoebe Paula Rachel_Rachel Rebecca Rhoda Rosalie Ruth Rosa Scarlett Sarah Sally Sylvia Susanna Sybil Susa Sophia Tabitha Theodora Uba Ume Uta Wakana Waki Victoria Virginia Verina Valeria Winifred Yaya Yayacha Yome Yone Yachi Yasha Yashayo Yasu Yui Yuki Yuku Yume Yumi Zen Zerelda
@@ -1347,12 +1397,12 @@ canonical_human_group = {
 	ouji_men = { # The Edo/Shogun/Feudal Japanese-esque ruler of Diamond City's culture, includes Kat and Ana, and "Ouji" is literally Japanese for "Prince"
 		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		
-		color = { 0.85 0.85 0.01 }
+		color = { 246 214 222 } #Pink diamond
 		
 		male_names = {
 			# Canonical (transcluded from Wario's names and Diamond City's names)
 			# Will use Japanese translation for "Wario Ware" characters
-			Doriburu_Dribble:100 Eitin_Eighteen:100 Jimi_James:100 Maiku_Micheal:100 Nain_Nine:100 Supittsu_Spitz:100
+			Doriburu_Dribble Eitin_Eighteen Jimi_James Maiku_Micheal Nain_Nine Supittsu_Spitz
 
 			# Made-up filler
 			Akifusa Akihaya Akihisa Akikage Akimori Akimoto Akimune Akimura Akinaga Akinao Akisada Akisuke Akitada
@@ -1449,7 +1499,7 @@ canonical_human_group = {
 		female_names = {
 			# Canonical
 			# Will use Japanese translation for "Wario Ware" characters
-			Ana_Ana:100 Ashuri_Ashley:100 Faibu_Five:100 Katto_Kat:100 Mona_Monica:100 Ruru_Lulu:100
+			Ana_Ana Ashuri_Ashley Faibu_Five Katto_Kat Mona_Monica Ruru_Lulu
 
 			# Made-up filler
 			Acha Achacha Ago Agogo Ai Aiyasha Akaka Akashi Aki Ako Akoko Ame Amu Asa Asahi Ate Aya Ayamachi
@@ -1493,7 +1543,7 @@ extradimensional_asians = {
 		#Try to make this as Nintendo as possible and not just Japanese
 		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		
-		color = { 0.85 0.85 0.01 }
+		color = { 195 39 43 } #Akabeni (Pure crimson)
 		
 		male_names = {
 			#Nintendo Characters, try to go for names are from human characters, go for the Japanese spelling and if no Japanese spelling than don't use it, and be *only* from video games
@@ -1525,7 +1575,7 @@ extradimensional_asians = {
 		dynasty_name_first = yes
 		male_patronym = "ko"
 		female_patronym = "ko"
-		from_dynasty_prefix = "di " #Added for some Italianism
+		from_dynasty_prefix = "D'" #Added for some Italianism
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 5
@@ -1556,7 +1606,7 @@ movie_group = {
 			Mali:150 Don_Ronald:150 Brad_Bradley:150 Alan_Alan:150 Joseph_Joseph:150 Christopher_Christopher:150 Mark_Mark:150 David_David:150 Fred_Frederick:150 Roland:150 Parker:150 Bob_Robert:150 Fisher:150 Richard:150 Nixon:150 Giani:150 Russo:150 Lance:150 Patt:150
 
 			# Filler
-			Alexander Atticus August Andrew Anthony Angus Allen Asa Alvin Albert Ambrose Arthur Buford Benjamin Benedict Bernard Bartholomew Brigham Braxton Barnabas Cyrus Charles Cyril Christopher Casey Clarence Clark Calvin Chester David Donald Daniel Duncan Eric Ebenezer Elbridge Eugene Eustace Ernest Edmund Ephraim Earl Ezra Emory Francis Frederick_Frederich Freddy_Frederick Ferdinand George Gregory Gideon Gerald Grover Gouveneur Gordon Humphrey Howard Hector Harold Horatio Henry Ian Irving Joseph Jeffrey Jubal John Jebediah James Jacob Julius Julian Justin Josiah Joshua Leonard Louis Lawrence Leland Luke Lionel Lorenzo Lamont Lyman Michael_Micheal Mike_Micheal Mikey_Micheal Mark Martin Milton Merriweather Nathaniel Nehemiah Nicholas Oliver Obadiah Orville Owen Philip Peter Paul Patrick Rutherford Robert Richard Ronald Reuchlin Rufus Rhett Samuel Stephen Sampson Sylvester Theodore Thomas Timothy_Timothy Timmy_Timothy Upton Ulysses Victor Vincent William Walter Winfield Wilbur Wallace Walker Zachary_Zachary Zack_Zachary  Zach_Zachary
+			Alexander Atticus August Andrew Anthony Angus Allen Asa Alvin Albert Ambrose Arthur Buford Benjamin Benedict Bernard Bartholomew Brigham Braxton Barnabas Cyrus Charles_Charles Cyril Christopher_Christopher Casey Clarence Clark Calvin Chester David Donald Daniel Duncan Eric Ebenezer Elbridge Eugene Eustace Ernest Edmund Ephraim Earl Ezra Emory Francis Frederick_Frederich Freddy_Frederick Ferdinand George Gregory Gideon Gerald Grover Gouveneur Gordon Humphrey Howard Hector Harold Horatio Henry Ian Irving Joseph Jeffrey Jubal John Jebediah James Jacob Julius Julian Justin Josiah Joshua Leonard Louis Lawrence Leland Luke Lionel Lorenzo Lamont Lyman Michael_Micheal Mike_Micheal Mikey_Micheal Mark Martin Milton Merriweather Nathaniel Nehemiah Nicholas Oliver Obadiah Orville Owen Philip Peter Paul Patrick Rutherford Robert Richard Ronald Reuchlin Rufus Rhett Samuel Stephen Sampson Sylvester Theodore Thomas Timothy_Timothy Timmy_Timothy Upton Ulysses Victor Vincent William Walter Winfield Wilbur Wallace Walker Zachary_Zachary Zack_Zachary  Zach_Zachary
 		}
 
 		female_names = {
@@ -1591,39 +1641,40 @@ movie_group = {
 }
 
 battlefielder_group = {	#Named after military slang, weapon designations, and all that good stuff.
-			graphical_cultures = { frankishgfx }
-		battlefielder = {
-			color = { 0.05 0.05 0.05 }
-			male_names = {
-				Alfa Charlie_Charles Crocket Blues Bones Boomer Bravo Davy_David "Davy Crockett"_David Delta Golf Hotel Kilo Mike_Micheal Oscar Papa Quebec Romeo Tango Uniform Victor Xray Yankee Zulu
-			}
-			female_names = {
-				"Anne Laurie"_Anne Charlie_Charlotte Echo Foxtrot India Juliett Lima November Mia Sierra Tango Uniform Whiskey 
-			}
-			from_dynasty_prefix = " "
-			from_dynasty_suffix = ""
-			male_patronym = ""
+	graphical_cultures = { frankishgfx }
+	battlefielder = {
+		color = { 132 132 130 } #Battleship gray
+		male_names = {
+			Alfa Charlie_Charles Crocket Blues Bones Boomer Bravo Davy_David "Davy Crockett"_David Delta Golf Hotel Kilo Mike_Micheal Oscar Papa Quebec Romeo Tango Uniform Victor Xray Yankee Zulu
 		}
+		female_names = {
+			"Anne Laurie"_Anne Charlie_Charlotte Echo Foxtrot India Juliett Lima November Mia Sierra Tango Uniform Whiskey 
+		}
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 5
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 20
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
 	}
+}
 	
 goomba_group = {
 		graphical_cultures = { frankishgfx }
 		
 		goomba = { #Generic Goombas
-			color = { 230 153 0 }
+			color = { 149 69 53 } #Chestnut
 			male_names = {
-			Goombario_Mario
+				Goombario_Mario
 			}
-			female_names = {
-				Goombella Goombette
-		}
-
-			from_dynasty_prefix = " "
-			from_dynasty_suffix = ""
-			male_patronym = ""
-		dynasty_title_names = yes
-		dynasty_name_first = yes
-		prefix = no
+				female_names = {
+					Goombella Goombette
+			}
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 5
@@ -1671,7 +1722,7 @@ kong_group = {
 		kongobongo = { #Make sure all names end with a "ee" sound
 		color = { 153 77 0 }
 		male_names = {
-			Donkey Diddy_Diddy Diddie_Diddy Lankey Cranky Funky Kiddy Swanky Bluster Chunky Hunky Tanky Clonky Stinky Rocky Rusty Lackey Eddy Kong "Jerry Lee"_Jared Lewis Jerry_Jared
+			Donkey Diddy_Diddy Diddie_Diddy Lankey Cranky Funky Kiddy Swanky Bluster Chunky Hunky Tanky Clonky Stinky Rocky Rusty Lackey Eddy_Edward Kong "Jerry Lee"_Jared Lewis Jerry_Jared
 		}
 		female_names = {
 			Kay Candy Tiny Pretty Dixie Bratty Katty Trixie Roxy 
@@ -1724,7 +1775,7 @@ kremling_group = {
 sarasan = {
 	chaian = { #Chinese culture
 		graphical_cultures = { englishgfx italiangfx chinesegfx mongolgfx westerngfx }
-		color = { 250 218 94 }
+		color = { 250 218 94 } #Royal yellow
 
 		male_names = {
 			# Canonical
@@ -1799,7 +1850,7 @@ sarasan = {
 	birabuton = { #Egyptian culture
 		graphical_cultures = { englishgfx italiangfx chinesegfx mongolgfx westerngfx }
 
-		color = { 237 201 175 }
+		color = { 237 201 175 } #Desert sand
 
 		male_names = {
 		   Aahotep Aaka Aakheperure Aba Adjib Ahmose "Ahmose-Ankh" Akhethetep Akhre Amenemhat Amenemhatankh Amenemnisu Amenemope Amenemopet Amenherkhepshef Amenhotep Amenirdisu Amenmesse Ameny Amka "Amun-her-khepeshef" Amunemopet Amunemwia Amunherkhepeshef Anedjib Anen Ani Ankherfenedjef Ankhersheretef Ankhesenpaaten Ankhhaf Ankhka Ankhmakis Ankhmare Ankhor Antef Anu Aperanat Aperel Astarteherwenemef Auibra Awybre Ay 
@@ -1980,7 +2031,7 @@ sarasan = {
 	awazonian = { #Mayan culture
 		graphical_cultures = { englishgfx italiangfx chinesegfx mongolgfx westerngfx }
 
-		color = { 115 194 251 }
+		color = { 115 194 251 } #Mayan blue
 		
 		male_names = {
 			Acat "Ah Cimih" "Ah Cizin" "Ah Cacao" "Ah K'in" "Ah K'in Chob" "Ah Mun" "Ah Muzen Cab" "Ah Puch" Akha Alom

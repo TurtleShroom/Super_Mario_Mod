@@ -48,7 +48,7 @@ astrotheology = {
 		icon = 53
 		heresy_icon = 54
 		
-		color = { 255 255 51 }
+		color = { 255 248 171 } #Variant of cosmic latte
 		
 		crusade_name = PACIFICATION
 		scripture_name = THE_STARS
@@ -96,7 +96,7 @@ astrotheology = {
 		icon = 55
 		heresy_icon = 56
 		
-		color = { 0.25 0.27 0.38 }
+		color = { 0 7 24 } #Opposite of cosmic latte
 		parent = seven_stars
 		
 		crusade_name = PURGE
@@ -138,7 +138,7 @@ astrotheology = {
 		icon = 57
 		heresy_icon = 58
 		
-		color = { 0 0 0 }
+		color = { 22 22 29 } #Eigengrau
 		parent = seven_stars
 		
 		crusade_name = PURGE
@@ -183,7 +183,7 @@ astrotheology = {
 		icon = 53
 		heresy_icon = 54
 		
-		color = { 115 170 165 }
+		color = { 137 209 214 } #Color taken from Rosalina's clothing
 		parent = seven_stars
 		
 		crusade_name = PACIFICATION
@@ -271,7 +271,7 @@ astrotheology = {
 		icon = 59
 		heresy_icon = 60
 		
-		color = { 255 255 128 }
+		color = { 255 185 88 }
 		
 		crusade_name = WAR_OF_THE_DAWN
 		scripture_name = THE_SHINES
@@ -387,7 +387,7 @@ pagan_group = {
 		icon = 5
 		heresy_icon = 5
 		
-		color = { 115 142 66 }
+		color = { 233 154 107 } #Variant of Desert
 		
 		crusade_name = JIHAD
 		scripture_name = DRY_DRY_RUNES
@@ -431,7 +431,7 @@ pagan_group = {
 		icon = 5
 		heresy_icon = 5
 		
-		color = { 115 142 66 }
+		color = { 193 154 107 } #Desert
 		
 		crusade_name = JIHAD
 		scripture_name = DRY_DRY_RUNES
@@ -474,7 +474,7 @@ pagan_group = {
 		icon = 5
 		heresy_icon = 5
 		
-		color = { 206 97 57 }
+		color = { 225 169 95 } #Earth yellow
 		
 		crusade_name = PACIFICATION
 		scripture_name = OIL_LAMP_MAINTENANCE
@@ -720,6 +720,10 @@ dogmatic = {
 		evil_god_names = {
 			SADNESS BOWSER MISERY KAMEK KAMMY
 		}
+
+#		character_modifier = {
+#			general_opinion = 30 # The Happiness Trait already handles this
+#		}
 		
 		aggression = 0.25
 		priests_can_marry = no
@@ -850,7 +854,7 @@ tennis_group = {
 		icon = 5
 		heresy_icon = 5
 
-		color = { 198 237 44 }
+		color = { 204 255 0 } #Something akin to optic yellow aka official tennis ball color
 
 		crusade_name = PACIFICATION
 		scripture_name = RULES_OF_ASTER
@@ -901,7 +905,7 @@ outlaw = {
 		icon = 63
 		heresy_icon = 64
 		
-		color = { 133 138 101 }
+		color = { 255 215 0 } #Gold
 		
 		crusade_name = ACQUISITION
 		scripture_name = THE_CATALOGUE
@@ -957,7 +961,7 @@ outlaw = {
 		icon = 65
 		heresy_icon = 66
 		
-		color = { 1 0.62 0 }
+		color = { 197 179 88 } #Vegas gold
 		parent = greed
 		
 		crusade_name = GAMBIT
@@ -1003,7 +1007,7 @@ outlaw = {
 		ai_convert_other_group = 1 # try to convert if ai_zeal is high
 
 		icon = 5
-		color = { 0.5 0.5 0.5 }
+		color = { 207 181 59 } #Old Gold
 		
 		crusade_name = GREAT_BOOTY_HUNT
 		high_god_name = GOD_THE_GREED_SPIRIT
@@ -1028,7 +1032,7 @@ outlaw = {
 		priests_can_marry = yes
 		priests_can_inherit = yes
 		female_temple_holders = yes
-		feminist = yes
+		feminist = yes # As Captain Syrup is one of the greatest canonical pirates in the Mushroom World
 		defensive_attrition = yes
 		peace_prestige_loss = yes
 		raised_vassal_opinion_loss = no
@@ -1056,7 +1060,7 @@ outlaw = {
 		icon = 63
 		heresy_icon = 64
 		
-		color = { 0.37 0.74 0 }
+		color = { 133 187 101 } #Something akin to the green of dollars
 		
 		crusade_name = GO_TO_THE_MATTRESSESS
 		scripture_name = KOOPOMERTA
@@ -1110,7 +1114,7 @@ outlaw = {
 
 		parent = tennis_religion # Shout out to Iustinius and friends for pointing out that heresies can be in other groups
 
-		color = { 95 29 163 }
+		color = { 90 230 0 } #Green variant of the tennis religion as a bit of a joke about the tennis debate, is the ball yellow or green?
 
 		crusade_name = ACQUISITION
 		scripture_name = THE_WAHELEGY
@@ -1143,6 +1147,7 @@ outlaw = {
 		religious_clothing_priest = 7
 
 		intermarry = boolish
+		intermarry = tennis_religion
 	}
 }
 
@@ -1370,7 +1375,7 @@ lunatheology = {
 		ai_convert_same_group = 1 #  try to convert if ai_zeal is high
 		ai_convert_other_group = 2 #  always try to convert
 
-		color = { 179 242 255 }
+		color = { 25 25 112 } #Midnight blue
 		
 		crusade_name = LIBERATION
 		scripture_name = THE_LUNAR_TRUTHS
@@ -1412,7 +1417,7 @@ lunatheology = {
 		icon = 69
 		heresy_icon = 70
 		
-		color = { 0.25 0.64 1 }
+		color = { 168 103 107 } #Variant of twilight lavender
 		
 		crusade_name = PACIFICATION
 		scripture_name = IMMORTAL_BELLS
@@ -1452,7 +1457,7 @@ lunatheology = {
 		icon = 69
 		heresy_icon = 70
 		
-		color = { 0.25 0.64 1 }
+		color = { 138 73 107 } #Twilight lavender
 		
 		crusade_name = PACIFICATION
 		scripture_name = IMMORTAL_BELLS
@@ -1502,7 +1507,7 @@ extraterrestrial = {
 	playable = yes
 	
 	ai_convert_same_group = 2 # always try to convert
-	ai_convert_other_group = 2 # always try to convert
+	ai_convert_other_group = 0 # Never try to convert, the Shroobs only care about the Dark Harvest
 
 	shroob = {
 		graphical_culture = westerngfx
@@ -1510,7 +1515,7 @@ extraterrestrial = {
 		icon = 73
 		heresy_icon = 74
 		
-		color = { 1 0 1 }
+		color = { 100 83 148 } #Ultra violet
 		
 		crusade_name = CONSUMPTION
 		scripture_name = THE_SHROOK
@@ -1551,7 +1556,7 @@ extraterrestrial = {
 		icon = 71
 		heresy_icon = 72
 		
-		color = { 0.75 0.75 0.75 }
+		color = { 83 98 103 } #Gunmetal
 		
 		crusade_name = PURGE
 		scripture_name = FACTORY_INVENTORY
@@ -1969,12 +1974,12 @@ supernatural_group = {
 		graphical_culture = norsegfx
 
 		ai_convert_same_group = 0 # Will never convert
-		ai_convert_other_group = 2 # Will convert
+		ai_convert_other_group = 0 # Will never convert
 
 		icon = 5
 		heresy_icon = 5
 
-		color = { 51 0 102 }
+		color = { 99 81 71 } #Umbra
 
 		crusade_name = DARK_HARVEST
 		scripture_name = LEGENDS_OF_THE_THOUSAND_YEAR_DOOR
@@ -1996,6 +2001,7 @@ supernatural_group = {
 		priests_can_marry = no
 		priests_can_inherit = no
 		female_temple_holders = yes
+		male_temple_holders = no # Shadow Sirens
 		feminist = yes
 		uses_jizya_tax = yes
 

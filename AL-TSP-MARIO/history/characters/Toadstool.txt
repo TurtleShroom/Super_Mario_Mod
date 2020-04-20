@@ -2,10 +2,10 @@
 #2001-2250
 
 2001 = {
-	name = Agaric #Fictional, named after another name of the Amanita muscaria fungus, the fly agaric
+	name = Plum #Fictional
 	dynasty = 252
 	religion = seven_stars 
-	culture = mushroom_kingdom 
+	culture = anglo_mushroomite 
 	add_trait = species_men
 	1897.6.1 = { 
 		birth = yes
@@ -22,7 +22,7 @@
 	name = Banana #Peach's grandma, choose banana as a pun on nana, another word for grandma
 	female = yes
 	religion = seven_stars 
-	culture = mushroom_kingdom
+	culture = anglo_mushroomite
 	add_trait = species_men
 	add_trait = canonical_character
 	historical = yes
@@ -35,10 +35,10 @@
 }
 
 2003 = {
-	name = Bisporus #Peach's father, the Mushroom King, named after the agaricus bisporus
+	name = Apricot #Peach's father
 	dynasty = 252
 	religion = seven_stars 
-	culture = mushroom_kingdom
+	culture = anglo_mushroomite
 	father = 2001
 	mother = 2002
 	add_trait = species_men
@@ -58,7 +58,7 @@
 	name = Nectarine #Peach's mother, the Mushroom Queen, named after the peach with recessive hairless traits, the nectarine
 	female = yes
 	religion = seven_stars 
-	culture = mushroom_kingdom
+	culture = anglo_mushroomite
 	add_trait = species_men
 	historical = yes
 	1928.6.1 = { 
@@ -74,7 +74,7 @@
 	female = yes
 	dynasty = 252
 	religion = seven_stars 
-	culture = mushroom_kingdom
+	culture = anglo_mushroomite
 	father = 2001
 	mother = 2002
 	add_trait = species_men
@@ -91,7 +91,7 @@
 	female = yes
 	dynasty = 252
 	religion = seven_stars 
-	culture = mushroom_kingdom
+	culture = anglo_mushroomite
 	#dna = "00000000000"
 	#properties = "00000000000"
 	father = 2003

@@ -5,7 +5,7 @@
 	name = Orion #Rosalina's father that was mentioned in the final chapter in the French version of Super Mario Galaxy, named after the star constellation of Orion
 	dynasty = 267
 	religion = seven_stars 
-	culture = mushroom_kingdom
+	culture = anglo_mushroomite
 	add_trait = species_men
 	historical = yes
 	961.11.12 = { #November 12th is a reference to the release date of Super Mario Galaxy in US
@@ -23,7 +23,7 @@
 	name = Starfruit #Rosalina's mother, named after the star fruit as to be a slight nod to the crazy hypothesis that Mario and Peach are actually Rosalina's parents, which is not recognized in this Mod
 	female = yes
 	religion = seven_stars 
-	culture = mushroom_kingdom
+	culture = anglo_mushroomite
 	add_trait = species_men
 	historical = yes
 	962.11.16 = { #November 16th is a reference to the release date of Super Mario Galaxy in EU
@@ -42,7 +42,7 @@
 	female = yes
 	dynasty = 267
 	religion = seven_stars 
-	culture = mushroom_kingdom
+	culture = anglo_mushroomite
 	#dna = "00000000000"
 	#properties = "00000000000"
 	father = 1001
@@ -84,7 +84,7 @@
 	name = Powehi #Rosalina's brother, named after the first photographed black hole: this is a nod to the fact that nothing is known about him and he disappeared after SMG1
 	dynasty = 267
 	religion = seven_stars 
-	culture = mushroom_kingdom
+	culture = anglo_mushroomite
 	father = 1001
 	mother = 1002
 	add_trait = species_men

@@ -7,7 +7,7 @@
 	name = George
 	dynasty = 282
 	religion = seven_stars
-	culture = mushroom_kingdom #About as close to England culture in the mod
+	culture = anglo_mushroomite #About as close to England culture in the mod
 	add_trait = species_men
 	1833.3.3 = { 
   		birth = yes
@@ -27,7 +27,7 @@
 	name = Mary
 	dynasty = 0
 	religion = seven_stars
-	culture = mushroom_kingdom
+	culture = anglo_mushroomite
 	add_trait = species_men
 	female = yes
 	1834.3.4 = { 
@@ -44,7 +44,7 @@
 	name = Jonathan
 	dynasty = 282
 	religion = tennis_religion #Representing that a lot of JoJo fightscenes are just Out-Bull****ing the enemy. The fact it's a Baskite heresy also represents the fact JoJo's is the MANIME to end all MANI #Changed from lucienism to Baskite, he is way too honorable and good for being a part of that faith - Iustinus
-	culture = mushroom_kingdom
+	culture = anglo_mushroomite
 	#dna = "00000000000"
 	#properties = "00000000000"
 	father = 8501
@@ -63,7 +63,7 @@
 		add_trait = robust
 	}
 	1889.8.9 = {
-		add_spouse = 8501
+		add_spouse = 8504
 	}
 	1889.8.9 = {
 		death = {
@@ -77,7 +77,7 @@
 	name = Erina
 	dynasty = 284
 	religion = seven_stars
-	culture = mushroom_kingdom
+	culture = anglo_mushroomite
 	add_trait = species_men
 	female = yes
 	1869.11.22 = { 
@@ -92,7 +92,7 @@
 	name = George
 	dynasty = 282
 	religion = seven_stars
-	culture = mushroom_kingdom
+	culture = anglo_mushroomite
 	father = 8503
 	mother = 8504
 	add_trait = species_men
@@ -113,7 +113,7 @@
 	name = Elizabeth
 	dynasty = 0
 	religion = seven_stars
-	culture = mushroom_kingdom
+	culture = anglo_mushroomite
 	add_trait = species_men
 	female = yes
 	1888.12.12 = { 
@@ -128,7 +128,7 @@
 	name = Joseph
 	dynasty = 282
 	religion = lucienism 
-	culture = mushroom_kingdom
+	culture = anglo_mushroomite
 	#dna = "00000000000"
 	#properties = "00000000000"
 	add_trait = species_men

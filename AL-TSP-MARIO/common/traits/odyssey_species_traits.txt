@@ -1,0 +1,252 @@
+species_bonneter = { # Cappy's race, the Bonneters
+		
+		intrigue = 5 #Can literally hide in plain sight as hats of any kind, extraordinary possession abilities
+		same_opinion = 10
+		
+		immortal = yes # Special Events will take out ghosts, representing ascension to the Underwhere/Overthere a la Excess Express, since GHOSTS...... DON'T....... DIE................. as stated in SM64
+		
+		random = no
+		customizer = no
+}
+
+species_rabbit_generic = { # DA BROODALS and other rabbits, original code added by Empoleon
+	
+	diplomacy = 2 # Broodals run a bridal business, which requires a lot of charisma, other rabbits use the "cute offensive"
+	martial = 1 # Fast, swift, and capable thieves
+
+	ai_honor = -3
+	ai_ambition = 10
+	ai_greed = 30
+	
+	same_opinion = 10
+
+	random = no
+	customizer = no
+}
+
+species_gardener = { # The Steam Gardeners of the Wooded Kingdom.
+	opposite_traits {
+		species_uproot
+	}
+	
+	stewardship = 2 # Maintain the Wooded Kingdom and its famed gardens by nature
+	martial = -2 # Naturally peaceful people.
+
+	immortal = yes # Machines die by Event but can survive indefinitely if repaired
+	
+	ai_honor = 15
+	
+	same_opinion = 10
+	opposite_opinion = -10
+
+	random = no
+	customizer = no
+}
+
+species_uproot = { # The other inhabitants of the Wooded Kingdom.
+	opposite_traits {
+		species_gardener
+	}
+	
+	diplomacy = -4 # Stated to be canonically malicious
+	intrigue = 3
+
+	ai_honor = -15
+	
+	general_opinion = -30
+	same_opinion = 10
+	opposite_opinion = -10
+
+	random = no
+	customizer = no
+}
+
+species_tostarenan = { # The Tostarenans of the Sand Kingdom
+	opposite_traits {
+		species_moe-eye
+		species_chincho
+		species_jaxi
+	}
+	
+	diplomacy = 1 # Extremely affable fellas
+	stewardship = 1 # Gambling seems to be an important part of their culture.
+	learning = 1 # Between their Dia De Los Muertos (a religious holiday) theme, Mexican inspiration (Mexico is considered very Catholic in some areas) and vaguely religious veneration of the Binding Band, I think it's safe to make them a little bit pious
+	
+	ai_greed = 5 # Same reason as the Stewardship bonus
+	
+	tolerates_outlaw = yes # Same reason as slightly higher greed
+	
+	same_opinion = 10
+	opposite_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_moe_eye = { #The other sentient species in the Sand Kingdom
+	opposite_traits {
+		species_tostarenan
+		species_chincho
+		species_jaxi
+	}
+	
+	diplomacy = 2 # Do you see those shades? They're charmin' fellas!
+	stewardship = -2 # Don't seem to have much by way of civilization, probably have some tribal provinces ruled by them
+
+	health = 2
+	
+	same_opinion = 10
+	opposite_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_chincho = { #The Tostarenan equivalent of Drybones that resemble mummies.
+	opposite_traits {
+		species_tostarenan
+		species_chincho
+		species_jaxi
+	}
+	
+	immortal = yes # something something GHOSTS...... DONT...... DIEEEEEEE
+	
+	general_opinon = -15
+	same_opinion = 20
+	opposite_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_jaxi = { # The Komainu-liike equivalent to Yoshis in the Sand Kingdom
+	opposite_traits {
+		species_tostarenan
+		species_chincho
+		species_jaxi
+	}
+	
+	martial = 3 # Extremely fast lion-like creatures, most likely stronk in a fight
+	personal_combat_skill = 15 # See above
+	
+	same_opinion = 10
+	opposite_opinion = 5
+
+	random = no
+	customizer = no
+}
+
+species_burrbo = { #The little spiky fellas that seem to be the Goomba of the Odyssey continents, possibly the main sentient race of the Cascade and Ruined Kingdoms	
+	diplomacy = -3 # Pretty aggressive and not that big on words, it seems
+	martial = 1 # Seem to have a good grasp on strategy, since they tend to ambush you.
+	personal_combat_skill = 2 # Spiky fellas and good at hops, basically a living booby trap that can throw itself at your face.
+
+	ai_ambition = 15
+	ai_rationality = -5
+	
+	same_opinion = 10
+
+ 	random = no
+	customizer = no
+}
+
+species_bubblainian_snail = { # The snail-like inhabitants of Seaside Kingdom
+	opposite_traits {
+#		species_gushen # For the purposes of the Mod, all snail creatures are counted similarly, so this has been negated
+# Gushen/Bubblainian hatred will be represented by a custom "BUBBLAINIAN_OPINION" and "GUSHEN_OPINION"
+		species_winkle_snail
+		species_ishsnail_koopa
+		species_slug_generic
+		species_sluggy
+	}
+	
+	diplomacy = 3 # Extremely chill and friendly
+	martial = -2
+	personal_combat_skill = -15
+	
+	ai_honor = 5
+	ai_ambition = -15
+	
+	same_opinion = 10
+	opposite_opinion = 10 # Snail bros
+
+	gushen_opinion = -20
+	
+	random = no
+	customizer = no
+}
+
+species_gushen = { # The other race of the Seaside Kingdom
+#	opposite_traits {
+#		species_bubblainian
+#	}
+# Gushen/Bubblainian hatred will be represented by a custom "BUBBLAINIAN_OPINION" and "GUSHEN_OPINION"
+	
+	martial = 3
+	personal_combat_skill = 15
+	
+	ai_ambition = 20
+	ai_greed = 5
+	
+	general_opinion = -5
+	same_opinion = 15
+	
+	bubblainian_opinion = -20
+
+	random = no
+	customizer = no
+}
+
+species_lochlady = { # The Mermaid-like inhabitants of the Lake Kingdom
+	diplomacy = 2 # Were designed to have a "certain charm" aesthetically
+	stewardship = 1 # Seem to very much like their aesthetics and have beautiful architecture
+	
+	ai_honor = 15
+	ai_ambition = -15
+	
+	general_opinion = 5
+	same_opinion = 10
+
+	random = no
+	customizer = no
+}
+
+species_volbonan = { # The... Fork-like people of Luncheon Kingdom
+	diplomacy = 1
+	stewardship = 2 # Based on ancient Italians culturally, and have deep architecture. Plus balance reasons.
+	
+	personal_combat_skill = 10 # Not canonically a warmongering race, but definitely would have an advantage with sturdy metal bodies, naturally sharp metal arms, and living in a literal lavaland
+	
+	general_opinion = 5
+	same_opinion = 10
+
+	random = no
+	customizer = no
+}
+
+species_shiverian = { # The yeti-like inhabitants of Snow Kingdom
+	diplomacy = 2
+#	martial = 1 # Their own special brand of racing, seem to be culturally important. It's a bit intense and would probably build up some muscle.
+	
+	general opinion = 5 # THEY'RE ADORABLE THOUGH
+	same_opinion = 10
+
+	random = no
+	customizer = no
+}
+
+species_thunder_dragon = { #The Ruined Dragon of the Ruined Kingdom/Thunder Empire and its fictionalized court/descendants/ancestors,
+	opposites = {
+		species_dragon_generic
+	}
+	
+	martial = 5 # IT'S A DRAGON!
+	personal_combat_skill = 30 # IT'S A DRAGON!!
+	
+	general opinion = -50 # IT'S. A. DRAGOOOOOONNNNNNN!!!! also it destroyed probably one of the more civilized parts of the world a long long time ago.
+	same_opinion = 75
+	opposite_opinion = 60
+
+	random = no
+	customizer = no
+}

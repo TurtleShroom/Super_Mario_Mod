@@ -25,7 +25,7 @@
 	female = yes
 	dynasty = 4001
 	religion = baskism 
-	culture = mushroom_kingdom
+	culture = anglo_mushroomite
 	#dna = "00000000000"
 	#properties = "00000000000"
 	father = 1751

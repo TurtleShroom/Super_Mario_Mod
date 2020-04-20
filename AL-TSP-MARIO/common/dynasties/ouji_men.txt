@@ -21,3 +21,9 @@
 	name = "Mantis"
 	culture = "ouji_men"
 }
+
+2754 = {
+	used_for_random = no
+	name = "Kongoseki"
+	culture = "ouji_men"
+}

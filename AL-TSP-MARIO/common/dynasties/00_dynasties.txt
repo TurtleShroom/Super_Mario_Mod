@@ -1,0 +1,1410 @@
+9900001=
+{
+	name="Syrup"
+	culture="pirate"
+}
+
+9900002=
+{
+	name="Jolly Roger"
+	culture="pirate"
+}
+
+9900003=
+{
+	name="Stinky"
+	culture="pirate"
+}
+
+9900004=
+{
+	name="Horrible"
+	culture="pirate"
+	}
+	
+9900005=
+{
+	name="Captain"
+	culture="pirate"
+}
+
+9900006=
+{
+	name="Dreadful"
+	culture="pirate"
+}
+
+9900007=
+{
+	name="Scurvey"
+	culture="pirate"
+}
+
+9900008=
+{
+	name="Shipwreck"
+	culture="pirate"
+}
+
+9900009=
+{
+	name="Anchor"
+	culture="pirate"
+}
+
+9900010=
+{
+	name="Landlubber"
+	culture="pirate"
+}
+
+9900011=
+{
+	name="Captain Goomba"
+	culture="pirate"
+}
+
+9900101=
+{
+	name="Toadsworth"
+	culture="mushroom_kingdom"
+}
+
+9900102=
+{
+	name="Toad"
+	culture="mushroom_kingdom"
+}
+
+9900103=
+{
+	name="T"
+	culture="mushroom_kingdom"
+}
+
+9900104=
+{
+	name="Shroomlock"
+	culture="mushroom_kingdom"
+}
+
+9900105=
+{
+	name="E"
+	culture="mushroom_kingdom"
+}	
+
+9900106=
+{
+	name="Starshade"
+	culture="mushroom_kingdom"
+}	
+
+9900201=
+{
+	name="Yoshi"
+	culture="yoshi_island"
+}
+
+9900202=
+{
+	name="Dinosaur"
+	culture="yoshi_island"
+}
+
+9900203=
+{
+	name="Berry"
+	culture="yoshi_island"
+}
+
+9900204=
+{
+	name="Bonus"
+	culture="yoshi_island"
+}
+
+9900205=
+{
+	name="Cloud"
+	culture="yoshi_island"
+}	
+
+
+9900206=
+{
+	name="Munchakoopas"
+	culture="yoshi_island"
+}	
+
+9900300=
+{
+	name="BeanBean"
+	culture="beanbean_kingdom"
+}
+
+9900301=
+{
+	name="HooHoo"
+	culture="beanbean_kingdom"
+}
+
+9900302=
+{
+	name="Stardust"
+	culture="beanbean_kingdom"
+}
+
+9900303=
+{
+	name="Chucklehuck"
+	culture="beanbean_kingdom"
+}
+
+9900304=
+{
+	name="Woohoo"
+	culture="beanbean_kingdom"
+}
+
+9900305=
+{
+	name="Oho"
+	culture="beanbean_kingdom"
+}
+
+9900306=
+{
+	name="Teehee"
+	culture="beanbean_kingdom"
+}
+
+9900307=
+{
+	name="Guffawha"
+	culture="beanbean_kingdom"
+}
+
+9900308=
+{
+	name="Gwarhar"
+	culture="beanbean_kingdom"
+}
+
+9900309=
+{
+	name="Bean"
+	culture="beanbean_kingdom"
+}
+
+9900310=
+{
+	name="Jellyfish"
+	culture="beanbean_kingdom"
+}
+
+9900400=
+{
+	name="Hoohoo"
+	culture="hoohooligan"
+}
+
+9900401=
+{
+	name="Blabla"
+	culture="hoohooligan"
+}
+
+9900402=
+{
+	name="Hoho"
+	culture="hoohooligan"
+}
+
+9900403=
+{
+	name="Hoohooros"
+	culture="hoohooligan"
+}
+
+9900404=
+{
+	name="Hammerhead"
+	culture="hoohooligan"
+}
+
+9900500=
+{
+	name="Doot-Doot"
+	culture="delfino"
+}
+
+9900501=
+{
+	name="Barbaro"
+	culture="delfino"
+}
+
+9900502=
+{
+	name="Capo"
+	culture="delfino"
+}
+
+9900503=
+{
+	name="Costello"
+	culture="delfino"
+}
+
+9900504=
+{
+	name="Deniro"
+	culture="delfino"
+}
+
+9900505=
+{
+	name="Drago"
+	culture="delfino"
+}
+
+9900506=
+{
+	name="Esposito"
+	culture="delfino"
+}
+
+9900507=
+{
+	name="Falcone"
+	culture="delfino"
+}
+
+9900508=
+{
+	name="Bonanno"
+	culture="delfino"
+}
+
+9900509=
+{
+	name="Maroni"
+	culture="delfino"
+}
+
+9900510=
+{
+	name="Carbone"
+	culture="delfino"
+}
+
+9900511=
+{
+	name="Capone"
+	culture="delfino"
+}
+
+9900512=
+{
+	name="Coppola"
+	culture="delfino"
+}
+
+9900513=
+{
+	name="Coppola"
+	culture="delfino"
+}
+
+9900514=
+{
+	name="Gallo"
+	culture="delfino"
+}
+
+9900515=
+{
+	name="Genovese"
+	culture="delfino"
+}
+
+9900516=
+{
+	name="Gotti"
+	culture="delfino"
+}
+
+9900517=
+{
+	name="Juliano"
+	culture="delfino"
+}
+
+9900518=
+{
+	name="Leo"
+	culture="delfino"
+}
+
+9900519=
+{
+	name="Lombardo"
+	culture="delfino"
+}
+
+9900520=
+{
+	name="Delfino"
+	culture="delfino"
+}
+
+9900521=
+{
+	name="Pianta"
+	culture="delfino"
+}
+
+9900522=
+{
+	name="Napolitano"
+	culture="delfino"
+}
+
+9900523=
+{
+	name="Pagano"
+	culture="delfino"
+}
+
+9900524=
+{
+	name="Borgia"
+	culture="delfino"
+}
+
+9900525=
+{
+	name="Ricco"
+	culture="delfino"
+}
+
+9900526=
+{
+	name="Russo"
+	culture="delfino"
+}
+
+9900527=
+{
+	name="Santoro"
+	culture="delfino"
+}
+
+9900528=
+{
+	name="Scalise"
+	culture="delfino"
+}
+
+9900529=
+{
+	name="Scarfo"
+	culture="delfino"
+}
+
+9900530=
+{
+	name="Scarpa"
+	culture="delfino"
+}
+
+9900531=
+{
+	name="Vitale"
+	culture="delfino"
+}
+
+9900532=
+{
+	name="Zito"
+	culture="delfino"
+}
+
+9900533=
+{
+	name="Bufalino"
+	culture="delfino"
+}
+
+9900534=
+{
+	name="Colombo"
+	culture="delfino"
+}
+
+9900535=
+{
+	name="DeCavalcante"
+	culture="delfino"
+}
+
+9900536=
+{
+	name="Gambino"
+	culture="delfino"
+}
+
+9900537=
+{
+	name="Genovese"
+	culture="delfino"
+}
+
+9900538=
+{
+	name="Lucchese"
+	culture="delfino"
+}
+
+9900539=
+{
+	name="Patriarca"
+	culture="delfino"
+}
+
+9900540=
+{
+	name="Trafficante"
+	culture="delfino"
+}
+
+9900541=
+{
+	name="Bruno"
+	culture="delfino"
+}
+
+9900542=
+{
+	name="Bufalino"
+	culture="delfino"
+}
+
+9900543=
+{
+	name="Camorra"
+	culture="delfino"
+}
+
+9900544=
+{
+	name="Genna"
+	culture="delfino"
+}
+
+9900545=
+{
+	name="Morello"
+	culture="delfino"
+}
+
+9900546=
+{
+	name="Lanzetta"
+	culture="delfino"
+}
+
+9900547=
+{
+	name="Rizzuto"
+	culture="delfino"
+}
+
+9900548=
+{
+	name="Cotroni"
+	culture="delfino"
+}
+
+9900549=
+{
+	name="Musitano"
+	culture="delfino"
+}
+
+9900550=
+{
+	name="Bianco"
+	culture="delfino"
+}
+
+9900551=
+{
+	name="Corona"
+	culture="delfino"
+}
+
+9900552=
+{
+	name="Gelato"
+	culture="delfino"
+}
+
+9900553=
+{
+	name="Noki"
+	culture="delfino"
+}
+
+9900554=
+{
+	name="Pinna"
+	culture="delfino"
+}
+
+9900555=
+{
+	name="Sirena"
+	culture="delfino"
+}
+
+9900600=
+{
+	name="Angelo"
+	culture="fish_islands"
+}
+
+9900601=
+{
+	name="Minnow"
+	culture="fish_islands"
+}
+
+9900602=
+{
+	name="Barco"
+	culture="fish_islands"
+}
+
+9900603=
+{
+	name="Aqua"
+	culture="fish_islands"
+}
+
+9900604=
+{
+	name="Castro"
+	culture="fish_islands"
+}
+
+9900605=
+{
+	name="Domingo"
+	culture="fish_islands"
+}
+
+9900606=
+{
+	name="Esparza"
+	culture="fish_islands"
+}
+
+9900607=
+{
+	name="Felix"
+	culture="fish_islands"
+}
+
+9900608=
+{
+	name="Gomez"
+	culture="fish_islands"
+}
+
+9900609=
+{
+	name="Herrero"
+	culture="fish_islands"
+}
+
+9900610=
+{
+	name="Inigo"
+	culture="fish_islands"
+}
+
+9900611=
+{
+	name="Jaso"
+	culture="fish_islands"
+}
+
+9900612=
+{
+	name="Lobo"
+	culture="fish_islands"
+}
+
+9900613=
+{
+	name="Montoya"
+	culture="fish_islands"
+}
+
+9900614=
+{
+	name="Núñez"
+	culture="fish_islands"
+}
+
+9900615=
+{
+	name="Ortega"
+	culture="fish_islands"
+}
+
+9900616=
+{
+	name="Picasso"
+	culture="fish_islands"
+}
+
+9900617=
+{
+	name="Quintana"
+	culture="fish_islands"
+}
+
+9900618=
+{
+	name="Rana"
+	culture="fish_islands"
+}
+
+9900619=
+{
+	name="Rana"
+	culture="fish_islands"
+}
+
+9900620=
+{
+	name="Salazar"
+	culture="fish_islands"
+}
+
+9900621=
+{
+	name="Trujillo"
+	culture="fish_islands"
+}
+
+9900622=
+{
+	name="Urbina"
+	culture="fish_islands"
+}
+
+9900623=
+{
+	name="Ventura"
+	culture="fish_islands"
+}
+
+9900624=
+{
+	name="Ybarra"
+	culture="fish_islands"
+}
+
+9900625=
+{
+	name="Zapata"
+	culture="fish_islands"
+}
+
+9900700=
+{
+	name="Pagurus"
+	culture="crab_islands"
+}
+
+9900701=
+{
+	name="Cryptolithodes"
+	culture="crab_islands"
+}
+
+9900702=
+{
+	name="Cancer"
+	culture="crab_islands"
+}
+
+9900703=
+{
+	name="Petrolistthes"
+	culture="crab_islands"
+}
+
+9900704=
+{
+	name="Rhinolithodes"
+	culture="crab_islands"
+}
+
+9900705=
+{
+	name="Oregonia"
+	culture="crab_islands"
+}
+
+9900706=
+{
+	name="Pugettia"
+	culture="crab_islands"
+}
+
+9900707=
+{
+	name="Hemigrapsus"
+	culture="crab_islands"
+}
+
+9900708=
+{
+	name="Telmessus"
+	culture="crab_islands"
+}
+
+9900709=
+{
+	name="Chorilia"
+	culture="crab_islands"
+}
+
+9900710=
+{
+	name="Loxorhynchus"
+	culture="crab_islands"
+}
+
+9900711=
+{
+	name="Paguristes"
+	culture="crab_islands"
+}
+
+9900712=
+{
+	name="Lopholithodes"
+	culture="crab_islands"
+}
+
+9900713=
+{
+	name="Scyra"
+	culture="crab_islands"
+}
+
+9900714=
+{
+	name="Acantholithodes"
+	culture="crab_islands"
+}
+
+9900715=
+{
+	name="Elassochirus"
+	culture="crab_islands"
+}
+
+9900716=
+{
+	name="Acetes"
+	culture="crab_islands"
+}
+
+9900717=
+{
+	name="Ogyrides"
+	culture="crab_islands"
+}
+
+9900718=
+{
+	name="Stenopus"
+	culture="crab_islands"
+}
+
+9900719=
+{
+	name="Jasus"
+	culture="crab_islands"
+}
+
+9900720=
+{
+	name="Axius"
+	culture="crab_islands"
+}
+
+9900721=
+{
+	name="Homarus"
+	culture="crab_islands"
+}
+
+9900722=
+{
+	name="Dardanus"
+	culture="crab_islands"
+}
+
+9900723=
+{
+	name="Diogenes"
+	culture="crab_islands"
+}
+
+9900724=
+{
+	name="Munida"
+	culture="crab_islands"
+}
+
+9900725=
+{
+	name="Porcellana"
+	culture="crab_islands"
+}
+
+9900726=
+{
+	name="Bellia"
+	culture="crab_islands"
+}
+
+9900727=
+{
+	name="Ebalia"
+	culture="crab_islands"
+}
+
+9900728=
+{
+	name="Ethusa"
+	culture="crab_islands"
+}
+
+9900729=
+{
+	name="Eurytium"
+	culture="crab_islands"
+}
+
+9900730=
+{
+	name="Geryon"
+	culture="crab_islands"
+}
+
+9900731=
+{
+	name="Goneplax"
+	culture="crab_islands"
+}
+
+9900732=
+{
+	name="Hemus"
+	culture="crab_islands"
+}
+
+9900733=
+{
+	name="Hepatus"
+	culture="crab_islands"
+}
+
+9900734=
+{
+	name="Hyas"
+	culture="crab_islands"
+}
+
+9900735=
+{
+	name="Libinia"
+	culture="crab_islands"
+}
+
+9900736=
+{
+	name="Macropodia"
+	culture="crab_islands"
+}
+
+9900737=
+{
+	name="Maja"
+	culture="crab_islands"
+}
+
+9900738=
+{
+	name="Mithraculus"
+	culture="crab_islands"
+}
+
+9900739=
+{
+	name="Mithrax"
+	culture="crab_islands"
+}
+
+9900740=
+{
+	name="Necora"
+	culture="crab_islands"
+}
+
+9900741=
+{
+	name="Pelia"
+	culture="crab_islands"
+}
+
+9900742=
+{
+	name="Percnon"
+	culture="crab_islands"
+}
+
+9900743=
+{
+	name="Grapsus"
+	culture="crab_islands"
+}
+
+9900744=
+{
+	name="Pisa"
+	culture="crab_islands"
+}
+
+9900745=
+{
+	name="Polybius"
+	culture="crab_islands"
+}
+
+9900746=
+{
+	name="Pyromaia"
+	culture="crab_islands"
+}
+
+9900747=
+{
+	name="Sesarma"
+	culture="crab_islands"
+}
+
+9900748=
+{
+	name="Thia"
+	culture="crab_islands"
+}
+
+9900749=
+{
+	name="Xaiva"
+	culture="crab_islands"
+}
+
+9900750=
+{
+	name="Xantho"
+	culture="crab_islands"
+}
+
+9900751=
+{
+	name="Zaops"
+	culture="crab_islands"
+}
+
+9900800=
+{
+	name="Leatherback"
+	culture="turtle_islands"
+}
+
+9900801=
+{
+	name="Musk"
+	culture="turtle_islands"
+}
+
+9900802=
+{
+	name="Tortoise"
+	culture="turtle_islands"
+}
+
+9900803=
+{
+	name="Softshell"
+	culture="turtle_islands"
+}
+
+9900804=
+{
+	name="Sideneck"
+	culture="turtle_islands"
+}
+
+9900805=
+{
+	name="Big-Head"
+	culture="turtle_islands"
+}
+
+9900806=
+{
+	name="River"
+	culture="turtle_islands"
+}
+
+9900807=
+{
+	name="Pitted-Shell"
+	culture="turtle_islands"
+}
+
+9900808=
+{
+	name="Pig-Nose"
+	culture="turtle_islands"
+}
+
+9900809=
+{
+	name="Loggerhead"
+	culture="turtle_islands"
+}
+
+9900810=
+{
+	name="Ridley"
+	culture="turtle_islands"
+}
+
+9900811=
+{
+	name="Kemp"
+	culture="turtle_islands"
+}
+
+9900812=
+{
+	name="Olive"
+	culture="turtle_islands"
+}
+
+9900813=
+{
+	name="Green"
+	culture="turtle_islands"
+}
+
+9900814=
+{
+	name="Black"
+	culture="turtle_islands"
+}
+
+9900815=
+{
+	name="Sea"
+	culture="turtle_islands"
+}
+
+9900816=
+{
+	name="Hawksbill"
+	culture="turtle_islands"
+}
+
+9900817=
+{
+	name="Flatback"
+	culture="turtle_islands"
+}
+
+9900818=
+{
+	name="Snapping"
+	culture="turtle_islands"
+}
+
+9900819=
+{
+	name="Alligator Snapping"
+	culture="turtle_islands"
+}
+
+9900820=
+{
+	name="Lute"
+	culture="turtle_islands"
+}
+
+9900821=
+{
+	name="Pond"
+	culture="turtle_islands"
+}
+
+9900822=
+{
+	name="Map"
+	culture="turtle_islands"
+}
+
+9900823=
+{
+	name="Alligator"
+	culture="turtle_islands"
+}
+
+9900824=
+{
+	name="Marsh"
+	culture="turtle_islands"
+}
+
+9900825=
+{
+	name="Mata Mata"
+	culture="turtle_islands"
+}
+
+9900900=
+{
+	name="Hydra"
+	culture="jellyfish_islands"
+}
+
+9900901=
+{
+	name="Medusa"
+	culture="jellyfish_islands"
+}
+
+9900902=
+{
+	name="Box"
+	culture="jellyfish_islands"
+}
+
+9900903=
+{
+	name="Sea Wasp"
+	culture="jellyfish_islands"
+}
+
+9900904=
+{
+	name="Kingslayer"
+	culture="jellyfish_islands"
+}
+
+9900905=
+{
+	name="Irukandji"
+	culture="jellyfish_islands"
+}
+
+9900906=
+{
+	name="Malo"
+	culture="jellyfish_islands"
+}
+
+9900907=
+{
+	name="Morbakka"
+	culture="jellyfish_islands"
+}
+
+9900908=
+{
+	name="Four-Handed"
+	culture="jellyfish_islands"
+}
+
+9900909=
+{
+	name="Sea Serpent"
+	culture="jellyfish_islands"
+}
+
+9900910=
+{
+	name="Obelia"
+	culture="jellyfish_islands"
+}
+
+9900911=
+{
+	name="Man-of-war"
+	culture="jellyfish_islands"
+}
+
+9900912=
+{
+	name="Bluebottle"
+	culture="jellyfish_islands"
+}
+
+9900913=
+{
+	name="Floating Terror"
+	culture="jellyfish_islands"
+}
+
+9900914=
+{
+	name="Blue Button"
+	culture="jellyfish_islands"
+}
+
+9900915=
+{
+	name="Sea Raft"
+	culture="jellyfish_islands"
+}
+
+9900916=
+{
+	name="By-the-Wind Sailor"
+	culture="jellyfish_islands"
+}
+
+9900917=
+{
+	name="Purple Sail"
+	culture="jellyfish_islands"
+}
+
+9900918=
+{
+	name="Little Sail"
+	culture="jellyfish_islands"
+}
+
+9900919=
+{
+	name="Velella"
+	culture="jellyfish_islands"
+}
+
+9900920=
+{
+	name="Neptune plant"
+	culture="jellyfish_islands"
+}
+
+9900921=
+{
+	name="Air Fern"
+	culture="jellyfish_islands"
+}
+
+9900922=
+{
+	name="Sea Fir"
+	culture="jellyfish_islands"
+}
+
+9900923=
+{
+	name="Pink-Mouth"
+	culture="jellyfish_islands"
+}
+
+9900924=
+{
+	name="Pink-Heart"
+	culture="jellyfish_islands"
+}
+
+9900925=
+{
+	name="Jellyfish"
+	culture="jellyfish_islands"
+}
+
+9900926=
+{
+	name="Sea Jelly"
+	culture="jellyfish_islands"
+}
+
+9900927=
+{
+	name="Stalked Jelly"
+	culture="jellyfish_islands"
+}
+
+9900928=
+{
+	name="Sea Nettle"
+	culture="jellyfish_islands"
+}
+
+9900929=
+{
+	name="Comb Jelly"
+	culture="jellyfish_islands"
+}
+
+9900930=
+{
+	name="Venus Girdle"
+	culture="jellyfish_islands"
+}
+
+9900931=
+{
+	name="Nuda"
+	culture="jellyfish_islands"
+}
+
+9900932=
+{
+	name="Bero"
+	culture="jellyfish_islands"
+}
+
+9900933=
+{
+	name="Lion's Mane"
+	culture="jellyfish_islands"
+}
+
+9900934=
+{
+	name="Nomura"
+	culture="jellyfish_islands"
+}
+
+9900720=
+{
+	name="Uca"
+	culture="crab_islands"
+}

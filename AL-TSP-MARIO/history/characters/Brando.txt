@@ -6,7 +6,7 @@
 	name = "Dario"
 	dynasty = 283
 	religion = greed
-	culture = mushroom_kingdom #About as close to England culture in the mod
+	culture = anglo_mushroomite #About as close to England culture in the mod
 	add_trait = species_men
 	add_trait = greed_religion_trait
 	1827.2.11 = {
@@ -24,7 +24,7 @@
 	name = "Dione" #Name unknown
 	dynasty = 0
 	religion = seven_stars
-	culture = mushroom_kingdom
+	culture = anglo_mushroomite
 	add_trait = species_men
 	female = yes
 	1831.12.1 = {
@@ -41,7 +41,7 @@
 	name = "Dio" #DIO
 	dynasty = 283
 	religion = greed
-	culture = mushroom_kingdom
+	culture = anglo_mushroomite
 	#dna = "00000000000"
 	#properties = "00000000000"
 	father = 8751

@@ -9,7 +9,7 @@ max_settlements = 1
 b_peachs_castle = castle
 
 # Misc
-culture = mushroom_kingdom
+culture = anglo_mushroomite
 religion = seven_stars
 
 #History

@@ -6,7 +6,7 @@
 	female = yes
 #	dynasty = x
 	religion = shadow_queen
-	culture = utiliy
+	culture = utility
 	#dna = "00000000000"
 	#properties = "00000000000"
 	add_trait = species_eldritch_abomination #Closet thing to a demon, also, I just realized this trait doesn't have the immortal function so this trait isn't gonna work
@@ -14,9 +14,12 @@
 #	race = x #Should be of the same race as the Shadow Sirens due to their similar appearances to one another
 	historical = yes
 	disallow_random_traits = yes #Done so that the Shadow Queen won't get unfitting traits
-	979.7.22 = { #This date is a reference to the release date of Paper Mario: The Thousand-Year Door in Japan.
+	4.7.22 = { #This date is a reference to the release date of Paper Mario: The Thousand-Year Door in Japan.
   		birth = yes
 		effect = { set_character_flag = is_the_shadow_queen }
+	}
+	50.1.1 = { 
+		immortal_age = 25
 	}
 	2004.7.22 = { #Defeated at the end of Paper Mario: The Thousand-Year Door
 		death = yes
