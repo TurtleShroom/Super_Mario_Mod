@@ -1,0 +1,17 @@
+Current Members:
+	TurtleShroom
+	TSF4
+	VictorMarcelle
+	Iustinus Tempus
+	Darkgamma
+	Heitri
+	BenJTBTW
+
+Former Members:
+	Avrolancaster
+	
+Imported from Other Mods:
+	Clean Slate
+		"[...] [A] clean, stable, readable base from which other modders can "jump off" to create their own mods more easily. Any actual gameplay changes will be purely the result of bug fixing, oversight correction, or code modernization. This should also result in a speed boost for those using the mod by itself."
+		https://forum.paradoxplaza.com/forum/index.php?threads/mod-resource-cleanslate.1339429/
+		https://github.com/ck2plus/CleanSlate

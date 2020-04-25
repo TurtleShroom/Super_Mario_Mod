@@ -1,13 +1,24 @@
-# e_mushroom_empire
-500.1.1={
-	law = agnatic_succession
-	law = succ_gavelkind
+985.11.12 ={
+	liege = d_mushroomland
+	holder = 1001 #Orion Geastrales
 }
 
-#800.1.1={
-#	liege=k_mushroomland
-#}
+1041.11.12 ={
+	holder = 1004 #Powehi Geastrales
+}
+
+1072.11.19 ={ #Temporary until more characters are made
+	holder = 0
+}
+
+1921.6.1 ={
+	holder = 2001 #Plum Toadstool
+}
+
+1977.6.1 ={
+	holder = 2003 #Apricot Toadstool
+}
 
 1981.7.9 = {
-	holder = 256
+	holder = 256 #Mario Mario
 }

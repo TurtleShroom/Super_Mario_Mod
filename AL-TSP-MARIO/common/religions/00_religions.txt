@@ -1257,58 +1257,6 @@ personality_cult = {
 		religious_clothing_head = 3
 		religious_clothing_priest = 7
 	}
-
-	boolish = { #Boo and Generic Ghost Religion
-#		Not sure if this should be Dogmatic or Personality Cult, as it matches both
-
-		graphical_culture = norsegfx
-		
-		color = { 240 248 255 }
-		
-		icon = 5
-		heresy_icon = 5
-		
-		crusade_name = HALLOWED_EVE
-		scripture_name = BOOK_OF_THE_DEAD
-		priest_title = MAGICIAN
-
-		high_god_name = KING_BOO
-
-		god_names = {
-			KING_BOO GOD_LADY_BOW DARK_MAGIC BETELGEUSE
-		}
-		
-		evil_god_names = {
-			THE_LIGHT TUBBA_BLUBBA GOD_E_GADD
-		}
-
-		piety_name = FEAR
-
-		character_modifier = {
-			diplomacy = -2
-			intrigue = 2
-		}
-
-		priests_can_marry = yes
-		priests_can_inherit = no
-		female_temple_holders = yes
-		landed_kin_prestige_bonus = yes
-		dislike_tribal_organization = no
-
-		allow_looting = yes
-
-		allow_in_ruler_designer = yes
-		raised_vassal_opinion_loss = no
-
-		religious_clothing_head = 5
-		religious_clothing_priest = 9
-
-		intermarry = dogmatic
-		intermarry = outlaw
-		intermarry = witchcraft
-		intermarry = prognosticus_faiths
-		intermarry = lunatheology
-	}
 }
 
 lunatheology = {
@@ -2010,5 +1958,55 @@ supernatural_group = {
 
 		religious_clothing_head = 3
 		religious_clothing_priest = 3	
+	}
+	boolish = { #Boo and Generic Ghost Religion
+
+		graphical_culture = norsegfx
+		
+		color = { 240 248 255 }
+		
+		icon = 5
+		heresy_icon = 5
+		
+		crusade_name = HALLOWED_EVE
+		scripture_name = BOOK_OF_THE_DEAD
+		priest_title = MAGICIAN
+
+		high_god_name = KING_BOO
+
+		god_names = {
+			KING_BOO GOD_LADY_BOW DARK_MAGIC BETELGEUSE
+		}
+		
+		evil_god_names = {
+			THE_LIGHT TUBBA_BLUBBA GOD_E_GADD
+		}
+
+		piety_name = FEAR
+
+		character_modifier = {
+			diplomacy = -2
+			intrigue = 2
+		}
+
+		priests_can_marry = yes
+		priests_can_inherit = no
+		female_temple_holders = yes
+		landed_kin_prestige_bonus = yes
+		dislike_tribal_organization = no
+
+		allow_looting = yes
+
+		allow_in_ruler_designer = yes
+		raised_vassal_opinion_loss = no
+
+		religious_clothing_head = 5
+		religious_clothing_priest = 9
+
+		intermarry = dogmatic
+		intermarry = outlaw
+		intermarry = witchcraft
+		intermarry = prognosticus_faiths
+		intermarry = lunatheology
 	}
 }

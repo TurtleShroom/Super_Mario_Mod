@@ -4,7 +4,7 @@
 1751 = {
 	name = Garland #Daisy's father, Daisy mentioned her father in games including Mario Party 3 and Fortune Street, named after the general name a daisy chain which is a garland
 	dynasty = 4001
-	religion = baskism 
+	religion = tennis_religion 
 	culture = chaian
 	add_trait = species_men
 	add_trait = canonical_character
@@ -24,7 +24,7 @@
 	name = Daisy #Daisy
 	female = yes
 	dynasty = 4001
-	religion = baskism 
+	religion = tennis_religion 
 	culture = anglo_mushroomite
 	#dna = "00000000000"
 	#properties = "00000000000"
