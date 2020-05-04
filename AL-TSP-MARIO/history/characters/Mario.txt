@@ -26,6 +26,7 @@
 	religion = seven_stars 
 	culture = mario_brothers
 	add_trait = species_men
+	add_trait = canonical_character
 	historical = yes
 	1904.11.3 = { #November 11th is a reference to her first appearance, "The Great Hereafter", the forty-fifth live-action segment of The Super Mario Bros. Super Show!
 		birth = yes

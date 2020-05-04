@@ -4,7 +4,7 @@
 9001 = {
 	name = "Iustinus"
 	dynasty = 3268
-	religion = shine_sprites
+	religion = pianta_imperialism
 	culture = jellyfish_islands
 	#dna = "00000000000"
 	#properties = "00000000000"

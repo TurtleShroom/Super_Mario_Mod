@@ -29,7 +29,7 @@ decisions = {
 		}
 	}
 	
-	#Ztar Faith follower is a jackass
+	#Ztar Faith follower is a jack-A
 	ztar_a_wish = {
 		
 		is_high_prio = yes
@@ -80,7 +80,7 @@ decisions = {
 #		
 
 	#Steal from liege
-steal_from_liege = {
+	steal_from_liege = {
 		
 		is_high_prio = yes
 	
@@ -144,7 +144,7 @@ steal_from_liege = {
 	}
 
 #Gambling Decision
-gamble_decision = {
+	gamble_decision = {
 		
 		is_high_prio = yes
 	
@@ -186,9 +186,9 @@ gamble_decision = {
 		}
 	}
 
-	
+#	# original scrambler mechanic to test Mario religions on a vanilla rendition setting
 #	#lololol
-#fuck_shit_up = {
+#	screw_it_up = {
 #		
 #		is_high_prio = yes
 #	
@@ -197,7 +197,7 @@ gamble_decision = {
 #		}
 #		
 #		allow = {
-#		always = yes
+#			always = yes
 #		}
 #		
 #		effect = {

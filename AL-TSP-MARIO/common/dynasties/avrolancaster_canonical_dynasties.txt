@@ -1,0 +1,48 @@
+9900102=
+{
+	name="Toad"
+	culture="mushroom_kingdom"
+}
+
+#9900103=
+#{
+#	name="T"
+#	culture="mushroom_kingdom"
+#}
+
+9900101=
+{
+	used_for_random = no
+	name="Toadsworth"
+	culture="mushroom_kingdom"
+}
+
+9900104=
+{
+	used_for_random = no
+	name="Shroomlock"
+	culture="mushroom_kingdom"
+}
+
+9900201=
+{
+	used_for_random = no
+	name="Yoshi"
+	culture="yoshi_island"
+}
+
+9900206=
+{
+	used_for_random = no
+	name="Munchakoopa"
+	culture="yoshi_island"
+}
+
+9900303=
+{
+	used_for_random = no
+	name="de Chucklehuck"
+#	culture="chateaux" # To be added
+	culture="beanbean_kingdom"
+}
+

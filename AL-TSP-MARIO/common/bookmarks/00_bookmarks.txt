@@ -20,7 +20,7 @@ bm_smb = { #Super Mario Bros.
 			dna = aldccxlhgaf #Make this accurate at some point
 			properties = ai0afa000000 #Make this accurate at some point
 			religion = "seven_stars"
-			culture = "mario_brothers"
+			culture = mario
 			government = "feudal_government"
 			dynasty = 250
 		}

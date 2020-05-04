@@ -1,11 +1,13 @@
 3751 = {
 	used_for_random = no
 	name = "Kujo"
-	culture = "waterlander"
+#	culture = "waterlander" # To be added
+	culture = mushroom_kingdom
 }
 
 3752 = {
 	used_for_random = no
 	name = "Higashikata"
-	culture = "waterlander"
+#	culture = "waterlander" # To be added
+	culture = mushroom_kingdom
 }

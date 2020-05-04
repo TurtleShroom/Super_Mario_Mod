@@ -1,0 +1,7 @@
+
+1984.9.13=
+{
+	holder = 9940003
+	liege = k_beanbean_kingdom
+}
+

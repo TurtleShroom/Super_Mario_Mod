@@ -1,0 +1,7 @@
+
+1984.9.13=
+{
+	law = succ_patrician_elective
+	holder = 9950000
+}
+

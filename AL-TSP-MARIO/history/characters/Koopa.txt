@@ -147,7 +147,7 @@
 }
 
 1257 = {
-	name = "Jeffrey" #Bowser's brother, named after Jeffrey Jey, the singer of "Blue (Da Ba Dee)",
+	name = "Blue Bowser" # Bowser's brother, and yes, this is his canonical name
 #	dynasty = x
 	religion = greed 
 	culture = bowser
@@ -198,7 +198,7 @@
 }
 
 1259 = {
-	name = Kammy #Kammy Koopa, for the purpose of this Mod, Kammy and Kamek are not related to Bowser by blood but have the same role as Toadsworth did as Regent for Peach
+	name = Kammy # Kammy Koopa, for the purpose of this Mod, Kammy and Kamek are not related to Bowser by blood but have the same role as Toadsworth did as Regent for Peach
 	female = yes
 #	dynasty = x
 	religion = greed 

@@ -1,0 +1,156 @@
+9930001 = {
+	name = "Bush"
+	religion = beanstar_faith
+	culture = beanbean_kingdom
+	add_trait = species_beanie
+	
+	1966.1.1 = {
+		birth = yes
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}
+
+9930002 = {
+	name = Cork
+	religion = beanstar_faith
+	culture = beanbean_kingdom
+	dynasty = 9900303
+	add_trait = species_beanish
+	1966.1.1 = {
+		birth = yes
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}
+
+9930003 = {
+	name = Cask
+	religion = beanstar_faith
+	culture = beanbean_kingdom
+	employer = 9930002
+	dynasty = 9900303
+	add_trait = species_beanish
+	1966.1.1 = {
+		birth = yes
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}
+
+
+9930004 = {
+	name = Chuckalola
+	religion = beanstar_faith
+	culture = beanbean_kingdom
+	female = yes
+	add_trait = species_beanie
+	1966.1.1 = {
+		birth = yes
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}
+
+9930005 = {
+	name = Cannellini
+	religion = beanstar_faith
+	culture = beanbean_kingdom
+	add_trait = species_beanish #Assuming this is a Beanish
+	1966.1.1 = {
+		birth = yes
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}
+
+9930006 = {
+	name = "Jeongjeong" # Assuming this is one of the Oho Jee species, name is reference to character from "Avatar" cartoon who describes fire-based power as ultimately tearing men apart
+	religion = happiness
+	culture = beanbean_kingdom
+	add_trait = species_oho_jee
+	add_trait = lunatic # Oho Jees are CONSANTLY ON FIRE
+	1966.1.1 = {
+		birth = yes
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}
+
+9930007 = {
+	name = Coco
+	religion = beanstar_faith
+	culture = beanbean_kingdom
+	add_trait = species_beanish #Assuming this is a Beanish
+	1966.1.1 = {
+		birth = yes
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}
+
+9930008 = {
+	name = Gigi
+	religion = beanstar_faith
+	culture = beanbean_kingdom
+	female = yes
+	dynasty = 9900310
+	add_trait = species_beanie
+	1966.1.1 = {
+		birth = yes
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}
+
+9930009 = {
+	name = Merri
+	religion = beanstar_faith
+	culture = beanbean_kingdom
+	female = yes
+	employer = 9930008
+	dynasty = 9900310
+	add_trait = species_beanie
+	1966.1.1 = {
+		birth = yes
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}
+
+9930010 = {
+	name = Boddle
+	religion = beanstar_faith
+	culture = beanbean_kingdom
+	add_trait = species_beanie
+	1966.1.1 = {
+		birth = yes
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}
+
+
+9930011 = {
+	name = Jojora
+	religion = beanstar_faith
+	culture = beanbean_kingdom
+	female = yes
+	add_trait = species_beanie
+	1966.1.1 = {
+		birth = yes
+	}
+	2066.12.12 = {
+		death = yes
+	}
+}
