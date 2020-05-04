@@ -10,6 +10,6 @@ b_bear_pines = castle
 
 # Misc
 culture = kremling
-religion = seven_stars
+religion = kremling_religion
 terrain = woods
 #History

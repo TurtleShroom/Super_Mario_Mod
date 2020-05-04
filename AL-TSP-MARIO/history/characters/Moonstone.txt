@@ -1,0 +1,78 @@
+#Moonstone
+#3001-3250
+
+3001 = {
+	name = Aleister #Ashley's father, named after Aleister Crowley
+	dynasty = 3000
+	religion = witchcraft 
+	culture = diamond_city_men
+	add_trait = species_men
+	historical = yes
+	1964.6.6 = {
+		birth = yes
+	}
+	1984.6.6 = { 
+		add_spouse = 3002
+	}
+	1994.6.6 = {
+		death = {
+			death_reason = death_missing #It's no doubt she doesn't live with her parents but it's very ambiguous if her parents are alive elsewhere in the world
+		}
+	}
+}
+
+3002 = {
+	name = Morgan #Ashley's mother, named after Morgan le Fay
+	female = yes
+	religion = witchcraft 
+	culture = diamond_city_men
+	add_trait = species_men
+	historical = yes
+	1964.6.6 = {
+		birth = yes
+	}
+	1994.6.6 = {
+		death = {
+			death_reason = death_missing #It's no doubt she doesn't live with her parents but it's very ambiguous if her parents are alive elsewhere in the world
+		}
+	}
+}
+
+3003 = {
+	name = Ashley #Ashley
+	female = yes
+	dynasty = 3000
+	religion = witchcraft 
+	culture = diamond_city_men
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 3001
+	mother = 3002
+	add_trait = species_men
+	add_trait = canonical_character
+	historical = yes
+	disallow_random_traits = yes #Done so that Ashley won't get unfitting traits
+	1989.12.2 = { #The date is a reference to the release date of WarioWare: Touched! in Japan
+		birth = yes
+		effect = { set_character_flag = is_ashley_moonstone }
+	}
+	1995.12.2 = {
+		add_trait = brooding
+		add_trait = timid
+	}
+	2001.12.2 = {
+		remove_trait = brooding
+		remove_trait = timid
+		add_trait = shy
+		add_trait = wroth
+		add_trait = scholar
+		add_trait = erudite
+		add_trait = brave #unfazed by monsters
+	}
+	2005.12.2 = {
+		add_trait = scholarly_theologian
+	}
+	2069.12.2 = {
+		death = yes
+	}
+}

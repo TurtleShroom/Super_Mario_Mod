@@ -1,0 +1,91 @@
+#Narce
+#5001-5250
+
+5001 = {
+	name = Drool #Dribble's father
+	dynasty = 3005
+	religion = temple_of_form
+	culture = diamond_city_men
+	add_trait = species_generic_animal #Dog
+	historical = yes
+	1943.6.1 = {
+  		birth = yes
+	}
+	1961.6.1 = { 
+		add_spouse = 5002
+	}
+	2023.6.1 = {
+		death = yes
+	}
+}
+
+5002 = {
+	name = Saliva #Dribble's mother
+	female = yes
+	religion = temple_of_form
+	culture = diamond_city_men
+	add_trait = species_generic_animal #Dog
+	historical = yes
+	1942.6.1 = {
+  		birth = yes
+	}
+	2022.6.1 = {
+		death = yes
+	}
+}
+
+5003 = {
+	name = Dribble #Dribble
+	dynasty = 3005
+	religion = temple_of_form
+	culture = diamond_city_men
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 5001
+	mother = 5002
+	add_trait = species_generic_animal #Dog
+	add_trait = canonical_character
+	disallow_random_traits = yes #Done so that Dribble won't get unfitting traits
+	historical = yes
+	1963.12.15 = { #December 15th is a reference to the release date of 3DS WarioWare, Inc.: Mega Microgame$! in Australia
+  		birth = yes
+		effect = { set_character_flag = is_dribble_narce }
+	}
+	2043.12.15 = {
+		death = yes
+	}
+}
+
+5004 = {
+	name = Spittle #Dribble's daughter
+	female = yes
+	dynasty = 3005
+	religion = temple_of_form
+	culture = diamond_city_men
+	father = 5003
+	add_trait = species_generic_animal #Dog
+	historical = yes
+	1983.3.18 = {
+  		birth = yes
+	}
+	2003.3.18 = { #The date she got married
+		add_spouse_matrilineal = 5005 #Billy
+	}
+	2063.3.18 = {
+		death = yes
+	}
+}
+
+5005 = {
+	name = Slobber #Dribble's daughter's husband
+	religion = temple_of_form
+	culture = diamond_city_men
+	add_trait = species_generic_animal #Dog
+	historical = yes
+	1984.6.1 = {
+  		birth = yes
+	}
+	2064.6.1 = {
+		death = yes
+	}
+}

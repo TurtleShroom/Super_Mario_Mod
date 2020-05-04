@@ -10,6 +10,6 @@ b_mt_dynamite = castle
 
 # Misc
 culture = kremling
-religion = seven_stars
+religion = kremling_religion
 terrain = mountain
 #History

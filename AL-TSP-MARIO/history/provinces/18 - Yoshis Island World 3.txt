@@ -10,6 +10,6 @@ b_yoshis_island_world_3 = castle
 
 # Misc
 culture = yoshi_island
-religion = seven_stars
+religion = happiness
 
 #History

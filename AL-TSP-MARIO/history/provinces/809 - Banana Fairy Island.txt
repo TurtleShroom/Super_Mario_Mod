@@ -10,6 +10,6 @@ b_banana_fairy_island = castle
 
 # Misc
 culture = kongobongo
-religion = seven_stars
+religion = kong_religion
 
 #History

@@ -1,0 +1,32 @@
+#Munchakoopas
+#5751-6000
+
+5751 = {
+	name = "Yoshisaur" # According to old strategy guides and other third-party Enclosed Instruction Books(TM), this is Yoshi's full name and "Munchakoopa" is his surname
+	dynasty = 1006
+	religion = happiness
+	culture = yoshi_island
+	#dna = "00000000000"
+	#properties = "00000000000"
+	add_trait = species_the_yoshmeister
+	add_trait = canonical_character
+	add_trait = kind
+	add_trait = honest # For the purposes of this Mod, THE Yoshi does NOT commit tax fruad. More dishonorable Yoshis, however.......
+	historical = yes
+	disallow_random_traits = yes #Done so that Yoshi won't get unfitting traits
+	1957.11.21 = { #This date is a reference to the release date of Super Mario World in Japan
+  		birth = yes
+		effect = { set_character_flag = is_yoshisaur_muchakoopas }
+		give_nickname = nick_yoshi
+	}
+	1958.8.5 = { #I'm gonna place the events of Super Mario World 2: Yoshi's Island here
+		effect = {
+			add_friend = 256 #Mario Mario
+			add_friend = 257 #Luigi Mario
+		}
+		add_trait = brave
+	}
+	2037.11.21 = {
+		death = yes
+	}
+}

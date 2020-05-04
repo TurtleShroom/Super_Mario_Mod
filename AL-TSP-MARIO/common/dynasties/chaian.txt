@@ -1,0 +1,11 @@
+4001 = {
+	used_for_random = no
+	name = "Bruisewort"
+	culture = "chaian"
+}
+
+4002 = {
+	used_for_random = no
+	name = "Wasurenagusa"
+	culture = "chaian"
+}

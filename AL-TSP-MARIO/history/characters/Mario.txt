@@ -1,0 +1,227 @@
+#Mario
+#251-500
+
+251 = {
+	name = Pio #Grandpapa Pio Mario, this name was mentioned by Charles, as Mario, in San Diego Comic-Con 2012
+	# Due to well-known, consistent contradictions by individual Nintendo employees, including Miyamoto himself, declarations by word of mouth will only be viewed as canon if it is convenient for the purposes of the Mod, which is why the canonical Trait is not present
+	dynasty = 250
+	religion = seven_stars 
+	culture = mario_brothers
+	add_trait = species_men
+	historical = yes
+	1909.7.12 = { #July 12th was when the San Diego Comic-Con 2012 started
+		birth = yes
+	}
+	1927.7.12 = {
+		add_spouse = 252 #Mia
+	}
+	1989.12.1 = { #The Super Mario Bros. Super Show! ends, I made him about 80 years old when he dies which about the life expectancy for male Italians, this death age will be used for all of the males in here
+		death = yes
+	}
+}
+
+252 = {
+	name = Mia # Grandmama Mia Mario, this name was mentioned by Charles, as Mario, in San Diego Comic-Con 2012
+	female = yes
+	religion = seven_stars 
+	culture = mario_brothers
+	add_trait = species_men
+	historical = yes
+	1904.11.3 = { #November 11th is a reference to her first appearance, "The Great Hereafter", the forty-fifth live-action segment of The Super Mario Bros. Super Show!
+		birth = yes
+	}
+	1989.11.3 = { #The Super Mario Bros. Super Show! ends, I made her about 85 years old when she dies which about the life expectancy for female Italians, this death age will be used for all of the females in here
+		death = yes
+	}
+}
+
+253 = {
+	name = Marco #Named after Mark Segale, the son of Mario A. Segale who is the man who Mario is named after
+	dynasty = 250
+	religion = seven_stars 
+	culture = mario_brothers
+	father = 251
+	mother = 252
+	add_trait = species_men
+	add_trait = canonical_character
+	historical = yes
+	1927.8.3 = { #August 3 is a reference to his first appearance in "Super Mario Issun-boshi"
+		birth = yes
+	}
+	1945.8.3 = {
+		add_spouse = 502 #Luigina Rigassi
+	}
+	2007.8.3 = {
+		death = yes
+	}
+}
+
+254 = {
+	name = Luigeena #It is not revealed which sides of the family any of the relatives hail from, so I made Aunt Luigeena the daughter of Pio Mario
+	female = yes
+	dynasty = 250
+	religion = seven_stars 
+	culture = mario_brothers
+	father = 251
+	mother = 252
+	add_trait = species_men
+	add_trait = canonical_character
+	historical = yes
+	1928.9.18 = {  #September 18 is a reference to his first appearance in "Mama Mia Mario", the eleventh live-action segment of The Super Mario Bros. Super Show!
+		birth = yes
+	}
+	1946.9.18 = {
+		add_spouse_matrilineal = 255 #Mareeus
+	}
+	2013.9.18 = {
+		death = yes
+	}
+}
+
+255 = {
+	name = Mareeus #Fictional, the name is a made-up variant, just like how Luigeena is a made-up variant of Luigina
+	religion = seven_stars 
+	culture = mario_brothers
+	add_trait = species_men
+	1928.4.9 = {
+		birth = yes
+	}
+	2008.4.9 = {
+		death = yes
+	}
+}
+
+256 = {
+	name = Mario #Mario of the Mario Brothers
+	dynasty = 250
+	religion = seven_stars 
+	culture = mario_brothers
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 253
+	mother = 502
+	add_trait = species_men
+	add_trait = twin
+	add_trait = canonical_character
+	historical = yes
+	disallow_random_traits = yes #Done so that Mario won't get unfitting traits
+	1957.10.11 = {  #"According to the Insiders' Calendar included in the second issue of Nintendo Power, Mario's birthday is October 11th"
+		birth = yes
+		effect = { 
+			set_character_flag = is_mario_mario 
+			add_friend = 257 #Luigi Mario
+		}
+	}
+	1973.10.11 = {
+		add_trait = fortune_builder #The Mario Bros. were plumbers (Mario was a carpenter before that) before they became heroes in the Mushroom Kingdom
+		add_trait = architect
+		add_trait = brave
+	}
+	2037.10.11 = {
+		death = yes
+	}
+}
+
+257 = {
+	name = Luigi #Luigi of the Mario Brothers
+	dynasty = 250
+	religion = seven_stars 
+	culture = mario_brothers
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 253
+	mother = 502
+	add_trait = species_men
+	add_trait = twin
+	add_trait = tall
+	add_trait = canonical_character
+	historical = yes
+	disallow_random_traits = yes #Done so that Luigi won't get unfitting traits
+	1957.10.11 = { #Born same day as Mario so they can be twins
+		birth = yes
+		effect = { set_character_flag = is_luigi_mario }
+	}
+	1973.10.11 = {
+		add_trait = fortune_builder #The Mario Bros. were plumbers/carpenters before they became heroes in the Mushroom Kingdom
+		add_trait = architect
+	}
+	2037.10.11 = {
+		death = yes
+	}
+}
+
+258 = {
+	name = Marianne # It is not revealed which sides of the family any of the relatives hail from, so I made cousin Marianne the daughter of Aunt Luigeena
+	female = yes
+	dynasty = 250
+	religion = seven_stars 
+	culture = mario_brothers
+	father = 255
+	mother = 254
+	add_trait = species_men
+	add_trait = twin
+	add_trait = canonical_character
+	historical = yes
+	1959.9.7 = {  #September 7 is a reference to his first appearance in "Marianne and Luigeena", the fourth live-action segment of The Super Mario Bros. Super Show!
+		birth = yes
+	}
+	2044.9.7 = {
+		death = yes
+	}
+}
+
+259 = {
+	name = Luigeena #It is not revealed which sides of the family any of the relatives hail from, so I made cousin Luigeena the daughter of Aunt Luigeena
+	female = yes
+	dynasty = 250
+	religion = seven_stars 
+	culture = mario_brothers
+	father = 255
+	mother = 254
+	add_trait = species_men
+	add_trait = twin
+	add_trait = tall
+	add_trait = canonical_character
+	historical = yes
+	1959.9.7 = {  #September 7 is a reference to his first appearance in "Marianne and Luigeena", the fourth live-action segment of The Super Mario Bros. Super Show!
+		birth = yes
+	}
+	2044.9.7 = {
+		death = yes
+	}
+}
+
+259 = {
+	name = Luna # Fictional, the name is a reference to actor Moon Unit Zappa (what a name!), the one who played cousin Marilyn 
+	female = yes
+	dynasty = 250
+	religion = seven_stars 
+	culture = mario_brothers
+	father = 251
+	mother = 252
+	add_trait = species_men
+	1929.4.11 = { 
+		birth = yes
+	}
+	2014.4.11 = { 
+		death = yes
+	}
+}
+
+260 = {
+	name = Marilyn #It is not revealed which sides of the family any of the relatives hail from, so I made cousin Marilyn the daughter of Luna Mario
+	female = yes
+	dynasty = 250
+	religion = seven_stars 
+	culture = mario_brothers
+	mother = 259
+	add_trait = species_men
+	add_trait = canonical_character
+	historical = yes
+	1960.9.22 = {  #September 22 is a reference to his first appearance in "Wild Thing", the fifteenth live-action segment of The Super Mario Bros. Super Show!
+		birth = yes
+	}
+	2045.9.22 = { 
+		death = yes
+	}
+}

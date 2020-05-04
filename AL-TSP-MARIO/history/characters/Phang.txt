@@ -1,0 +1,87 @@
+#Phang
+#4751-5000
+
+4751 = {
+	name = Johnny #Fictional
+	dynasty = 3004
+	religion = temple_of_form
+	culture = diamond_city_men
+	add_trait = species_men
+	add_trait = tall
+	1922.6.1 = {
+  		birth = yes
+	}
+	1953.6.1 = { 
+		add_spouse = 3502
+	}
+	2002.6.1 = {
+		death = yes
+	}
+}
+
+4752 = {
+	name = Jennie #Fictional
+	female = yes
+	religion = temple_of_form
+	culture = diamond_city_men
+	add_trait = species_men
+	1923.6.1 = {
+  		birth = yes
+	}
+	2003.6.1 = {
+		death = yes
+	}
+}
+
+4753 = {
+	name = Jimmy #Jimmy P.
+	dynasty = 3004
+	religion = temple_of_form
+	culture = diamond_city_men
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 4751
+	mother = 4752
+	add_trait = species_men
+	add_trait = canonical_character
+	historical = yes
+	1958.5.23 = {
+  		birth = yes
+	}
+	2038.5.23 = {
+		death = yes
+	}
+}
+
+4754 = {
+	name = James #Fictional
+	dynasty = 3004
+	religion = temple_of_form
+	culture = diamond_city_men
+	father = 4751
+	mother = 4752
+	add_trait = species_men
+	1959.6.1 = {
+  		birth = yes
+	}
+	2039.6.1 = {
+		death = yes
+	}
+}
+
+4755 = {
+	name = Jamie #Fictional
+	female = yes
+	dynasty = 3004
+	religion = temple_of_form
+	culture = diamond_city_men
+	father = 4751
+	mother = 4752
+	add_trait = species_men
+	1960.6.1 = {
+  		birth = yes
+	}
+	2040.6.1 = {
+		death = yes
+	}
+}

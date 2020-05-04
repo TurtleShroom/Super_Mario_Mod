@@ -1,5 +1,0 @@
-1984.9.13={
-	holding_dynasty = 9900702 # Angelo - makes this a FAMILY_PALACE type Holding
-	liege = d_crab_islands
-	holder=9970002
-}

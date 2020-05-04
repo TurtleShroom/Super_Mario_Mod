@@ -10,6 +10,6 @@ b_thirsty_gulch = castle
 
 # Misc
 culture = dryite
-religion = seven_stars
+religion = dryite_pagan
 
 #History

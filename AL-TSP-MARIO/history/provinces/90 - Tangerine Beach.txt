@@ -10,6 +10,6 @@ b_tangerine_beach = castle
 
 # Misc
 culture = eel_islands
-religion = seven_stars
+religion = shine_sprites
 
 #History

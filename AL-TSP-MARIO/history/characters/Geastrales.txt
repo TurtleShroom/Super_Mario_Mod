@@ -1,0 +1,99 @@
+#Geastrales
+#1001-1250
+
+1001 = {
+	name = Orion #Rosalina's father that was mentioned in the final chapter in the French version of Super Mario Galaxy, named after the star constellation of Orion
+	dynasty = 267
+	religion = seven_stars 
+	culture = mushroom_kingdom
+	add_trait = species_men
+	historical = yes
+	961.11.12 = { #November 12th is a reference to the release date of Super Mario Galaxy in US
+		birth = yes
+	}
+	981.11.12 = { 
+		add_spouse = 1002
+	}
+	1041.11.12 = {
+		death = yes
+	}
+}
+
+1002 = {
+	name = Starfruit #Rosalina's mother, named after the star fruit as to be a slight nod to the crazy hypothesis that Mario and Peach are actually Rosalina's parents, which is not recognized in this Mod
+	female = yes
+	religion = seven_stars 
+	culture = mushroom_kingdom
+	add_trait = species_men
+	historical = yes
+	962.11.16 = { #November 16th is a reference to the release date of Super Mario Galaxy in EU
+		birth = yes
+	}
+	1007.11.16 = { #Something had to kill Rosalina's mother when Rosalina was still a child/teenager
+		add_trait = illness
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+
+1003 = {
+	name = Rosalina #Rosalina
+	female = yes
+	dynasty = 267
+	religion = seven_stars 
+	culture = mushroom_kingdom
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 1001
+	mother = 1002
+	health = 100
+	add_trait = species_men
+	add_trait = tall
+	add_trait = canonical_character
+	historical = yes
+	disallow_random_traits = yes #Done so that Rosalina won't get unfitting traits
+	991.11.1 = { #November 1th is a reference to the release date of Super Mario Galaxy in Japan
+		birth = yes
+		effect = { set_character_flag = is_rosalina }
+		add_trait = brooding
+		add_trait = affectionate
+	}
+	1007.11.1 = { #Rosalina been described by the Mario Wiki as wise, mature, lonely, introverted, and kind
+		remove_trait = brooding
+		remove_trait = affectionate
+		add_trait = scholarly_theologian
+		add_trait = kind
+		add_trait = patient
+		add_trait = humble
+		add_trait = scholar
+		add_trait = erudite
+		add_trait = immortal
+		add_trait = cannot_marry
+		immortal_age = 16 #This makes her actually appear young
+	}
+	2007.11.1 = {
+		effect = { add_friend = 256 } #Mario Mario
+	}
+	9999.12.31 = {
+		death = yes
+	}
+}
+
+1004 = {
+	name = Powehi #Rosalina's brother, named after the first photographed black hole: this is a nod to the fact that nothing is known about him and he disappeared after SMG1
+	dynasty = 267
+	religion = seven_stars 
+	culture = mushroom_kingdom
+	father = 1001
+	mother = 1002
+	add_trait = species_men
+	add_trait = canonical_character
+	historical = yes
+	992.11.19 = { #November 19th is a reference to the release date of Super Mario Galaxy in Australia
+		birth = yes
+	}
+	1072.11.19 = {
+		death = yes
+	}
+}

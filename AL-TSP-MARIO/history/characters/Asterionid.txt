@@ -1,0 +1,22 @@
+#Asterionid
+#7751-8000
+
+7751 = {
+	name = "Bifun" #Bifun
+	dynasty = 763
+	religion = piracy
+	culture = pirate
+	#dna = "00000000000"
+	#properties = "00000000000"
+	add_trait = species_minotaur
+	add_trait = canonical_character
+	historical = yes
+	disallow_random_traits = yes #Done so that Bifun won't get unfitting traits
+	1962.3.13 = { #This date is a reference to the release date of Wario Land: Super Mario Land 3 in US.
+  		birth = yes
+		effect = { set_character_flag = is_bifun }
+	}
+	2042.3.13 = {
+		death = yes
+	}
+}

@@ -1,0 +1,44 @@
+#Opal
+#2751-3000
+
+2751 = {
+	name = Lisa #Mona's mother, note: she should not be in contact with one another as she is always on trips, the name is a pun on Mona Lisa
+	female = yes
+	dynasty = 3001
+	religion = temple_of_form 
+	culture = diamond_city_men
+	add_trait = species_men
+	historical = yes
+	1957.6.1 = {
+		birth = yes
+	}
+	2037.6.1 = {
+		death = yes
+	}
+}
+
+2752 = {
+	name = Mona #Mona
+	female = yes
+	dynasty = 3001
+	religion = temple_of_form 
+	culture = diamond_city_men
+	#dna = "00000000000"
+	#properties = "00000000000"
+	mother = 2751
+	add_trait = species_men
+	add_trait = canonical_character
+	historical = yes
+	disallow_random_traits = yes #Done so that Mona won't get unfitting traits
+	1987.3.21 = { #March 21th is a reference to the release date of WarioWare, Inc.: Mega Microgame$! in Japan
+		birth = yes
+		effect = { set_character_flag = is_mona_opal }
+	}
+	2003.3.21 = {
+		add_trait = diligent
+		add_trait = just
+	}
+	2067.3.21 = {
+		death = yes
+	}
+}

@@ -3,28 +3,63 @@ technology = {
 	titles = {
 		d_badlands
 		d_bowser_land
+		d_cheese_land
+		d_chomping_clouds
+		d_clockwork_castle
+		d_cloudy_heights
 		d_coin_land
 		d_cookie_land
 		d_damp_oasis
 		d_dark_world
-		d_desert_land
+		d_desert_oasis
+		d_down_under_land
+		d_dusty_desert_desolation
 		d_enigma
+		d_frigid_peninsula
+		d_fungusville
 		d_giant_land
 		d_gordon
 		d_grass_land
 		d_grassy_fortress
 		d_grassy_pipe_land
+		d_heavenly_coast
 		d_ice_land
+		d_icy_lake
 		d_magma_mountain
+		d_mirage
+		d_misty_land
+		d_narrow_bay
 		d_neo_bowser_city
+		d_ocean_side
+		d_palm_oasis
 		d_pipe_land
+		d_pipe_maze
+		d_pipe_prison
+		d_piranha_island
+		d_rumble_volcano
 		d_shadowland
 		d_sizzling_desert
 		d_sky_land
+		d_snow_flow
 		d_snowball_mountain
+		d_the_archipelago
+		d_the_big_moat
+		d_the_burning_peninsula
+		d_the_fjord
+		d_the_forzen_coast
+		d_the_jungles
 		d_the_lake_of_fire
+		d_the_oceanic_inlet
+		d_the_pyramids
+		d_three
+		d_thunder_island
+		d_tiny_huge_island
+		d_toad_river
 		d_traitors_bay
-		d_water_land
+		d_trouters
+		d_turtlevania
+		d_victoria
+		d_whiteout_valley
 		d_world_e
 		d_yoshi_desert
 	}

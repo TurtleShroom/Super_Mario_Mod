@@ -10,6 +10,6 @@ b_sweet_orange_island = castle
 
 # Misc
 culture = eel_islands
-religion = seven_stars
+religion = shine_sprites
 
 #History

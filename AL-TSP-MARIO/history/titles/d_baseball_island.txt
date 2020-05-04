@@ -1,8 +1,8 @@
-# e_baseball_island
+# e_linguine_empire
 500.1.1={
 	law = agnatic_succession
 	law = succ_gavelkind
 }
 800.1.1={
-	liege=k_baseball_island
+	liege=k_diamond_land
 }

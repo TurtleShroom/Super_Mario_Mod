@@ -1,0 +1,182 @@
+250 = {
+	used_for_random = no
+	name = "Mario"
+	culture = "mushroom_kingdom"
+}
+
+251 = {
+	used_for_random = no
+	name = "Rigassi"
+	culture = "mushroom_kingdom"
+}
+
+252 = {
+	used_for_random = no
+	name = "Toadstool"
+	culture = "mushroom_kingdom"
+}
+
+253 = {
+	name = "Toadi"
+	culture = "mushroom_kingdom"
+}
+
+254 = {
+	name = "Tee" #The last name is "T." but as a last name, it is a bit strange due to the period so I changed it to Tee but still be pronounced the same
+	culture = "mushroom_kingdom"
+}
+
+255 = {
+	name = "Fungi"
+	culture = "mushroom_kingdom"
+}
+
+256 = {
+	name = "Toadofsky"
+	culture = "mushroom_kingdom"
+}
+
+257 = {
+	name = "Toadster"
+	culture = "mushroom_kingdom"
+}
+
+258 = {
+	name = "Toadman"
+	culture = "mushroom_kingdom"
+}
+
+259 = {
+	name = "Todojewski"
+	culture = "mushroom_kingdom"
+}
+
+260 = {
+	name = "Toadsworth"
+	culture = "mushroom_kingdom"
+}
+
+261 = {
+	name = "Starshade"
+	culture = "mushroom_kingdom"
+}
+
+262 = {
+	name = "Wooster"
+	culture = "mushroom_kingdom"
+}
+
+263 = {
+	name = "Banktoad"
+	culture = "mushroom_kingdom"
+}
+
+264 = {
+	name = "Mailtoad"
+	culture = "mushroom_kingdom"
+}
+
+265 = {
+	name = "Hinttoad"
+	culture = "mushroom_kingdom"
+}
+
+266 = {
+	name = "Shroomlock"
+	culture = "mushroom_kingdom"
+}
+
+267 = {
+	used_for_random = no
+	name = "Geastrales"
+	culture = "mushroom_kingdom"
+}
+
+268 = {
+	name = "Bluetoad"
+	culture = "mushroom_kingdom"
+}
+
+269 = {
+	name = "Redtoad"
+	culture = "mushroom_kingdom"
+}
+
+270 = {
+	name = "Yellowtoad"
+	culture = "mushroom_kingdom"
+}
+
+271 = {
+	name = "Purpletoad"
+	culture = "mushroom_kingdom"
+}
+
+272 = {
+	name = "Goldtoad"
+	culture = "mushroom_kingdom"
+}
+
+273 = {
+	used_for_random = no
+	name = "Capitoline"
+	culture = "mushroom_kingdom"
+}
+
+274 = {
+	used_for_random = no
+	name = "Wadlow"
+	culture = "mushroom_kingdom"
+}
+
+275 = {
+	name = "Toad"
+	culture = "mushroom_kingdom"
+}
+
+276 = {
+	name = "Washingtoad"
+	culture = "mushroom_kingdom"
+}
+
+277 = {
+	name = "Toadley"
+	culture = "mushroom_kingdom"
+}
+
+278 = {
+	name = "Spore"
+	culture = "mushroom_kingdom"
+}
+
+279 = {
+	name = "Fettuccine"
+	culture = "mushroom_kingdom"
+}
+
+280 = {
+	name = "von Funghen"
+	culture = "mushroom_kingdom"
+}
+
+281 = {
+	name = "E"
+	culture = "mushroom_kingdom"
+}
+
+282 = {
+	used_for_random = no
+	name = "Joestar"
+	culture = "mushroom_kingdom"
+}
+
+283 = {
+	used_for_random = no
+	name = "Brando"
+	culture = "mushroom_kingdom"
+}
+
+284 = {
+	name = "Pendleton"
+	culture = "mushroom_kingdom"
+}

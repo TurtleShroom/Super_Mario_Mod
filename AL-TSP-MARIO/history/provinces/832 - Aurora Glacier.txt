@@ -10,6 +10,6 @@ b_aurora_glacier = castle
 
 # Misc
 culture = kongobongo
-religion = seven_stars
+religion = kong_religion
 
 #History

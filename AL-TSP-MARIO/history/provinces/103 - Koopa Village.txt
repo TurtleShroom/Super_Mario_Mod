@@ -10,6 +10,6 @@ b_koopa_village = castle
 
 # Misc
 culture = koopa
-religion = seven_stars
+religion = koopa_pagan
 
 #History

@@ -10,6 +10,6 @@ b_salty_shore = castle
 
 # Misc
 culture = kremling
-religion = seven_stars
+religion = kremling_religion
 
 #History

@@ -1,0 +1,88 @@
+#Iwata
+#1-250
+
+1 = {
+	name = Satoru #Satoru Iwata
+	dynasty = 1
+	religion = seven_stars #?
+	culture = oriental_men
+	#dna = "00000000000"
+	#properties = "00000000000"
+	add_trait = species_men
+	historical = yes
+	disallow_random_traits = yes #I'm trying to stay as faith as I can to the real Iwata but I'm also trying to make sure I don't go overboard with the traits and making him the most OP character in the game
+	1959.12.6 = { 
+		birth = yes
+	}
+	1976.12.6 = {
+		add_trait = fortune_builder #Managed to turn HAL from going bankrupt into a successful business and managed to get Nintendo into getting its highest grossing period but during he also reigned during Nintendo's lowest profiting point which was the WiiU era so I'm unsure about giving him the midas_touched trait
+		add_trait = gamer #closest thing to a video gamer lifestyle
+		add_trait = genius #Made a whole new program just for Pokémon Gold and Silver that managed to half the size of the game's files which allowed more room, created his own video games when he was around 16, and got himself a Commodore and dismantled it just so he has a better understanding of it. "Iwata's proficiency in programming led many to refer to him as a "genius" in the subject, with some likening him to a Japanese Bill Gates."
+		add_trait = gregarious #Nintendo's staff says he is very humorous, I'm also using the trait as a reference to Nintendo Directs he used to do
+		add_trait = kind #During the downturn of profits of the WiiU era, he gave up on his paychecks so his employees won't get laid off.
+	}
+	1990.1.1 = { #It's unknown when Iwata married his wife so I went with the average marrying age in Japan, which is about 31.1 for men
+		add_spouse = 2
+		add_trait = chaste #making sure Iwata stays faithful to his wife
+		effect = { #making sure Iwata stays faithful to his wife
+			add_lover = 2 
+			add_friend = 2
+		}
+	}
+	2002.5.24 = { 
+		add_trait = administrator #Becomes CEO and President of Nintendo
+	}
+	2014.6.5 = { 
+		add_trait = cancer #bile duct cancer
+	}
+	2015.7.11 = {
+		death = yes
+	}
+}
+
+2 = {
+	name = Kayoko #Kayoko Iwata
+	religion = seven_stars #?
+	culture = oriental_men
+	add_trait = species_men
+	historical = yes
+	1961.6.12 = { #It's actually not know when she was born as the information is not publicly known
+		birth = yes
+	}
+	1990.1.1 = { #It's unknown when Kayoko married her husband so I went with the average marrying age in Japan, which is about 29 for women
+		add_trait = chaste #making sure Kayoko stays faithful to her husband
+	}
+	2045.6.12= { #I went with the average life expectancy of Japan, which is about 84 years old for women
+		death = yes
+	}
+}
+
+3 = {
+	name = Masato #There is so little information on Iwata's son that even his name is unknown so I have to fictionalize him, he is gonna be based off of Max from the Pokémon anime as Max's design is based off of him and using influences from Iwata
+	dynasty = 1
+	religion = seven_stars #?
+	culture = oriental_men
+	father = 1
+	mother = 2
+	add_trait = species_men
+	add_trait = quick
+	historical = yes
+	1995.12.5 = { #It's actually not know when he was born as the information is not publicly known, the birthday, December 12th, is a reference to the first episode that Max appears in
+		birth = yes
+	}
+	2001.12.5 = {
+		add_trait = curious
+	}
+	2007.12.5 = { 
+		add_trait = gamer
+		add_trait = kind
+		add_trait = erudite
+		remove_trait = curious
+	}
+	2011.12.5 = { 
+		add_trait = fortune_builder
+	}
+	2076.12.5= { #I went with the average life expectancy of Japan, which is about 81 years old for men
+		death = yes
+	}
+}

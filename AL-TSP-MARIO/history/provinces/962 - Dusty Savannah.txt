@@ -10,6 +10,6 @@ b_dusty_savannah = castle
 
 # Misc
 culture = yoshi_island
-religion = seven_stars
+religion = happiness
 
 #History

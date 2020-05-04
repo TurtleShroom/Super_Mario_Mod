@@ -1,7 +1,0 @@
-
-1984.9.13=
-{
-	holder = 9950004
-	liege = d_isle_delfino
-}
-

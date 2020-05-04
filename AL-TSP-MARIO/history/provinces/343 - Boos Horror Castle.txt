@@ -10,6 +10,6 @@ b_boos_horror_castle = castle
 
 # Misc
 culture = pirate
-religion = seven_stars
+religion = boolish
 
 #History

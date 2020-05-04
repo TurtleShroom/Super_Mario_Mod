@@ -10,6 +10,6 @@ b_driftwood_shore = castle
 
 # Misc
 culture = pirate
-religion = seven_stars
+religion = pillow
 
 #History

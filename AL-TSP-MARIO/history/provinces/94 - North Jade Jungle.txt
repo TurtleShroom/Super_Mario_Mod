@@ -10,6 +10,6 @@ b_north_jade_jungle = castle
 
 # Misc
 culture = lavalava
-religion = seven_stars
+religion = happiness
 terrain = jungle
 #History

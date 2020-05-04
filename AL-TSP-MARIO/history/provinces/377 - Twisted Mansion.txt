@@ -10,6 +10,6 @@ b_twisted_mansion = castle
 
 # Misc
 culture = pirate
-religion = seven_stars
+religion = boolish
 
 #History

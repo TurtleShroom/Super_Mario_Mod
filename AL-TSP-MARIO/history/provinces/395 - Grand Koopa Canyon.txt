@@ -10,6 +10,6 @@ b_grand_koopa_canyon = castle
 
 # Misc
 culture = koopa
-religion = seven_stars
+religion = koopa_pagan
 
 #History

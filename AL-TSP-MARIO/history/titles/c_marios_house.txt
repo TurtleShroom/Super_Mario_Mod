@@ -1,8 +1,13 @@
-# e_1_0
+# e_mushroom_empire
 500.1.1={
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-800.1.1={
-	liege=k_1_0
+
+#800.1.1={
+#	liege=k_mushroomland
+#}
+
+1981.7.9 = {
+	holder = 256
 }

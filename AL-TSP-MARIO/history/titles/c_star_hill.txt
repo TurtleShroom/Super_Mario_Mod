@@ -1,8 +1,8 @@
-# e_empire_of_land_and_sea
+# e_mushroom_ring
 500.1.1={
 	law = agnatic_succession
 	law = succ_gavelkind
 }
 800.1.1={
-	liege=k_waterfront
+	liege=k_seaside
 }

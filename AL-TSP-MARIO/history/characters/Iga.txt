@@ -1,0 +1,82 @@
+#Iga
+#4251-4500
+
+4251 = {
+	name = Tanega #Kat and Ana's father, joke on *Tanega*shima
+	dynasty = 2750
+	religion = temple_of_form
+	culture = ouji_men
+	add_trait = species_men
+	historical = yes
+	1969.6.1 = {
+  		birth = yes
+	}
+	1989.6.1 = { 
+		add_spouse = 4252
+	}
+	2049.6.1 = {
+		death = yes
+	}
+}
+
+4252 = {
+	name = Shima #Fictional, joke on Tanega*shima*
+	female = yes
+	religion = temple_of_form
+	culture = ouji_men
+	add_trait = species_men
+	1969.6.1 = {
+  		birth = yes
+	}
+	2049.6.1 = {
+		death = yes
+	}
+}
+
+4253 = {
+	name = Kat #Kat
+	female = yes
+	dynasty = 2750
+	religion = temple_of_form
+	culture = ouji_men
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 4251
+	mother = 4252
+	add_trait = species_men
+	add_trait = canonical_character
+	add_trait = twin
+	historical = yes
+	disallow_random_traits = yes #Done so that Kat won't get unfitting traits
+	1999.6.6 = { #June 6th is a reference to the release date of WarioWare, Inc.: Mega Microgame$! in Australia
+  		birth = yes
+		effect = { set_character_flag = is_kat_iga }
+	}
+	2079.6.6 = {
+		death = yes
+	}
+}
+
+4254 = {
+	name = Ana #Ana
+	female = yes
+	dynasty = 2750
+	religion = temple_of_form
+	culture = ouji_men
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 4251
+	mother = 4252
+	add_trait = species_men
+	add_trait = canonical_character
+	add_trait = twin
+	historical = yes
+	disallow_random_traits = yes #Done so that Ana won't get unfitting traits
+	1999.6.6 = {
+  		birth = yes
+		effect = { set_character_flag = is_ana_iga }
+	}
+	2079.6.6 = {
+		death = yes
+	}
+}

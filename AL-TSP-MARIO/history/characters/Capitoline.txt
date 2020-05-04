@@ -1,0 +1,69 @@
+#Capitoline
+#2251-2500
+
+2251 = {
+	name = Wario #Wario
+	dynasty = 273
+	religion = greed 
+	culture = mario_brothers
+	#dna = "00000000000"
+	#properties = "00000000000"
+	add_trait = canonical_character
+	add_trait = species_men
+	add_trait = strong
+	add_trait = greedy
+	add_trait = greed_religion_trait
+	add_trait = gluttonous
+	historical = yes
+	disallow_random_traits = yes #Done so that Wario won't get unfitting traits
+	1957.10.21 = { #October 21th is a reference to the release date of Super Mario Land 2: 6 Golden Coins in Japan
+		birth = yes
+		effect = { set_character_flag = is_wario_capitoline }
+	}
+	1962.10.21 = {
+		effect = {
+			add_friend = 3503 #Jimmy Thang - "Rumored childhood friend of Wario"
+			add_friend = 256 # Mario Mario - In 1993 AD, an in-house booklet for private distribution to third-parties for keeping Nintendo characters in-character explicitly declares 1) that Wario is not related by blood to the Mario Brothers, and that 2) Wario was a childhood friend of Mario until his envy and greed consumed him, which is why he captured Mario's Castle in SML2
+		}
+	}
+
+	1968.10.21 = {
+		effect = { 
+			remove_friend = 256 # Mario Mario - See above, at some point Wario had a falling out with Mario due to his bitter greed and envy of Mario's success 
+			add_rival = 256 # Mario Mario - Wario's greatest rival is Mario, stemming back to childhood according to various comics and the Super Mario-Kun manga, where their rivalry is a major theme.
+		}
+		add_trait = proud
+		add_trait = envious
+	}
+
+	1980.10.21 = { # For the purposes of this Mod, Wario makes his move in "Super Mario Land II" before the events of SMB1
+		add_trait = adventurer
+	}
+
+	2003.3.21 = { #WarioWare, Inc.: Mega Microgame$! happens
+		effect = {
+			add_friend = 5003 #Dribble Nacre
+			add_friend = 5251 #Spitz Pearl
+			add_friend = 2752 #Mona Opal
+			add_friend = 5504 #9-Volt
+			add_friend = 3751 #Orbulon Celestine
+			add_friend = 4501 #Dr. Crygor
+			add_friend = 4253 #Kat Iga
+			add_friend = 4254 #Ana Iga
+		}
+		add_trait = gamer
+	}
+	2004.10.14 = { #WarioWare: Twisted! happens
+		effect = {
+			add_friend = 5506 #18-Volt
+		}
+	}
+	2004.12.2 = { #WarioWare: Touched! happens
+		effect = {
+			add_friend = 3003 #Ashley
+		}
+	}
+	2037.10.21 = {
+		death = yes
+	}
+}

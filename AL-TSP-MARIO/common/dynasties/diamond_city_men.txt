@@ -1,0 +1,71 @@
+3000 = {
+	used_for_random = no
+	name = "Moonstone"
+	culture = "diamond_city_men"
+}
+
+3001 = {
+	used_for_random = no
+	name = "Opal"
+	culture = "diamond_city_men"
+}
+
+3002 = {
+	used_for_random = no
+	name = "Thang"
+	culture = "diamond_city_men"
+}
+
+3003 = {
+	used_for_random = no
+	name = "Crygor"
+	culture = "diamond_city_men"
+}
+
+3004 = {
+	used_for_random = no
+	name = "Phang"
+	culture = "diamond_city_men"
+}
+
+3005 = {
+	used_for_random = no
+	name = "Narce"
+	culture = "diamond_city_men"
+}
+
+3006 = {
+	used_for_random = no
+	name = "Pearl"
+	culture = "diamond_city_men"
+}
+
+3007 = {
+	used_for_random = no
+	name = "Volt"
+	culture = "diamond_city_men"
+}
+
+3008 = {
+	used_for_random = no
+	name = "Jadeite"
+	culture = "diamond_city_men"
+}
+
+3009 = {
+	used_for_random = no
+	name = "Cricket"
+	culture = "diamond_city_men"
+}
+
+3010 = {
+	used_for_random = no
+	name = "Mantis"
+	culture = "diamond_city_men"
+}
+
+3011 = {
+	used_for_random = no
+	name = "Fordite"
+	culture = "diamond_city_men"
+}

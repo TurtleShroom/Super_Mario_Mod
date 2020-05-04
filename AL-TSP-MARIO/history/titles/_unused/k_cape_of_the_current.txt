@@ -1,5 +1,0 @@
-# k_cape_of_the_current
-500.1.1={
-	law = agnatic_succession
-	law = succ_gavelkind
-}

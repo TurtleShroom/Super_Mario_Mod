@@ -10,6 +10,6 @@ b_gelato_beach = castle
 
 # Misc
 culture = delfino
-religion = seven_stars
+religion = shine_sprites
 
 #History

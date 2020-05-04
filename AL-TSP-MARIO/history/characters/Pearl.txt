@@ -1,0 +1,26 @@
+#Pearl
+#5251-5500
+
+5251 = {
+	name = Spitz #Spitz
+	dynasty = 3006
+	religion = temple_of_form
+	culture = diamond_city_men
+	#dna = "00000000000"
+	#properties = "00000000000"
+	add_trait = species_generic_animal #Cat
+	add_trait = canonical_character
+	historical = yes
+	disallow_random_traits = yes #Done so that Spitz won't get unfitting traits
+	1961.12.16 = { #December 16th is a reference to the release date of 3DS WarioWare, Inc.: Mega Microgame$! in Japan
+  		birth = yes
+		effect = { set_character_flag = is_spitz_pearl }
+	}
+	1982.12.16 = { #I feel like him and Dribble knew each for a long before the events of WarioWare
+		# (Actually, Spitz is Dribble's employer)
+		effect = { add_friend = 5003 } #Dribble Nacre
+	}
+	2041.12.16 = {
+		death = yes
+	}
+}

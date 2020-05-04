@@ -1,5 +1,0 @@
-# e_the_crab_and_the_sea
-500.1.1={
-	law = agnatic_succession
-	law = succ_gavelkind
-}

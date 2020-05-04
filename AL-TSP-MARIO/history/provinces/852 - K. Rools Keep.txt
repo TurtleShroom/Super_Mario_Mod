@@ -10,6 +10,6 @@ b_k_rools_keep = castle
 
 # Misc
 culture = kremling
-religion = seven_stars
+religion = kremling_religion
 
 #History

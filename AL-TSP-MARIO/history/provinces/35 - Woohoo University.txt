@@ -10,6 +10,6 @@ b_woohoo_university = castle
 
 # Misc
 culture = beanbean_kingdom
-religion = seven_stars
+religion = beanstar_faith
 
 #History

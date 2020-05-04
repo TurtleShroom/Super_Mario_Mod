@@ -10,6 +10,6 @@ b_toad_harbor = castle
 
 # Misc
 culture = dryite
-religion = seven_stars
+religion = dryite_pagan
 
 #History

@@ -1,0 +1,20 @@
+#Cricket
+#6751-7000
+
+6751 = {
+	name = "Jackie" #Young Cricket, named after Jackie Chan
+	religion = temple_of_form
+	culture = diamond_city_men
+	dynasty = 3009
+	add_trait = species_men
+	add_trait = canonical_character
+	historical = yes
+	disallow_random_traits = yes #Done so that Young Cricket won't get unfitting traits
+	1990.1.12 = { #This date is a reference to the release date of WarioWare: Smooth Moves in EU
+  		birth = yes
+		effect = { set_character_flag = is_young_cricket }
+	}
+	2070.1.12 = {
+		death = yes
+	}
+}

@@ -10,6 +10,6 @@ b_waluigi_island = castle
 
 # Misc
 culture = mario_brothers
-religion = seven_stars
+religion = lucienism
 
 #History

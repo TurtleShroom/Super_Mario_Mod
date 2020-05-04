@@ -1,0 +1,221 @@
+#Brando
+#8751-9000
+#This will contain spoilers, however I, Iustinus, will try to keep any and all of my notes to an absolute minimum as to minimize spoilers.
+
+8751 = {
+	name = "Dario"
+	dynasty = 283
+	religion = greed
+	culture = mushroom_kingdom #About as close to England culture in the mod
+	add_trait = species_men
+	add_trait = greed_religion_trait
+	1827.2.11 = {
+  		birth = yes
+	}
+	1880.1.1 = {
+		death = {
+			death_reason = death_drank_poison
+			killer = 8753
+		}
+	}
+}
+
+8752 = {
+	name = "Dione" #Name unknown
+	dynasty = 0
+	religion = seven_stars
+	culture = mushroom_kingdom
+	add_trait = species_men
+	female = yes
+	1831.12.1 = {
+  		birth = yes
+	}
+	1879.1.1 = {
+		death = {
+			death_reason = death_poor_health
+		}
+	}
+}
+
+8753 = {
+	name = "Dio" #DIO
+	dynasty = 283
+	religion = greed
+	culture = mushroom_kingdom
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 8751
+	mother = 8752
+	add_trait = species_men
+	historical = yes
+	disallow_random_traits = yes #Done so this character won't get unfitting traits
+#	race = x #Making sure that his transformation from human to a vampire will make sure that he sill looks human
+	1867.4.3 = {
+  		birth = yes
+	}
+	1883.4.3 = {
+  		add_trait = ambitious
+		add_trait = selfish
+		add_trait = proud
+		add_trait = cruel
+		add_trait = deceitful
+		add_trait = erudite
+		add_trait = shrewd
+	}
+	1888.4.3 = {
+		add_trait = elusive_shadow #While educated to be a lawyer, I feel like this trait is a better trait fit for him
+		remove_trait = species_men
+  		add_trait = species_vampire_generic
+		add_trait = impaler
+		religion = lucienism
+		immortal_age = 21
+	}
+	1889.8.9 = {
+		add_trait = robust
+		add_trait = scarred
+	}
+	1990.7.1 = {
+		death = {
+			death_reason = death_murder_unknown_combustion
+			killer = 8512
+		}
+	}
+}
+
+8754 = {
+	name = "Mariko" #Name unknown
+	dynasty = 1556
+	religion = seven_stars
+	culture = waterlander
+	add_trait = species_men
+	female = yes
+	1964.6.4 = {
+  		birth = yes
+	}
+	2044.6.4 = {
+		death = yes
+	}
+}
+
+8755 = {
+	name = "Donatella" #Name unknown
+	dynasty = 1557
+	religion = seven_stars
+	culture = delfino
+	add_trait = species_men
+	female = yes
+	1964.4.6 = {
+  		birth = yes
+	}
+	2044.4.6 = {
+		death = yes
+	}
+}
+
+8756 = {
+	name = "Sonia" #Name unknown
+	dynasty = 0
+	religion = seven_stars
+	culture = crab_islands
+	add_trait = species_men
+	female = yes
+	1964.10.10 = {
+  		birth = yes
+	}
+	2044.10.10 = {
+		death = yes
+	}
+}
+
+8757 = {
+	name = "Emmanuelle" #Name unknown
+	dynasty = 0
+	religion = seven_stars
+	culture = crab_islands
+	add_trait = species_men
+	female = yes
+	1964.2.2 = {
+  		birth = yes
+	}
+	2044.2.2 = {
+		death = yes
+	}
+}
+
+8758 = {
+	name = "Giorno"
+	dynasty = 1556
+	religion = seven_stars
+	culture = delfino
+	#dna = "00000000000"
+	#properties = "00000000000"
+	add_trait = species_men
+	father = 8753
+	mother = 8754
+	historical = yes
+	disallow_random_traits = yes #Done so that this character won't get unfitting traits
+	1985.4.5 = {
+  		birth = yes
+		add_trait = bastard
+	}
+	1993.4.5 = {
+  		religion = al_koopone
+	}
+	2065.4.5 = {
+		death = yes
+	}
+}
+
+8759 = {
+	name = "Donatello"
+	dynasty = 1557
+	religion = lucienism
+	culture = delfino
+	add_trait = species_men
+	father = 8753
+	mother = 8755
+	1986.8.6 = {
+  		birth = yes
+		add_trait = bastard
+	}
+	2012.8.6 = {
+		death = {
+			death_reason = death_battle
+			killer = 8514
+		}
+	}
+}
+
+8760 = {
+	name = "Rikiel"
+	dynasty = 0
+	religion = lucienism
+	culture = crab_islands
+	add_trait = species_men
+	father = 8753
+	mother = 8756
+	1988.1.9 = {
+  		birth = yes
+		add_trait = bastard
+	}
+	2076.1.9 = {
+		death = yes
+	}
+}
+
+8761 = {
+	name = "Ungalo"
+	dynasty = 0
+	religion = lucienism
+	culture = crab_islands
+	add_trait = species_men
+	father = 8753
+	mother = 8757
+	1988.9.1 = {
+  		birth = yes
+		add_trait = bastard
+	}
+	2076.9.1 = {
+		death = yes
+	}
+}

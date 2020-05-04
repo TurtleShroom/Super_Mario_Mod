@@ -10,6 +10,6 @@ b_old_clockworks = castle
 
 # Misc
 culture = pirate
-religion = seven_stars
+religion = boolish
 
 #History

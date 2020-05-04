@@ -1,5 +1,0 @@
-1984.9.13={
-	holding_dynasty = 9900800 # Leatherback - makes this a FAMILY_PALACE type Holding
-	liege = d_angelfish_island
-	holder=9980000
-}

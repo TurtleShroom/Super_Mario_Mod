@@ -10,6 +10,6 @@ b_pyramid_park = castle
 
 # Misc
 culture = dryite
-religion = seven_stars
+religion = dryite_pagan
 terrain = desert
 #History

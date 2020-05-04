@@ -10,6 +10,6 @@ b_twilight_town = castle
 
 # Misc
 culture = twilighter
-religion = seven_stars
+religion = twilight_towner
 
 #History

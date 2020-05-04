@@ -1,7 +1,8 @@
-
-1984.9.13=
-{
-	holder = 9980004
-	liege= d_turtle_islands
+# e_the_sun
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
 }
-
+800.1.1={
+	liege=k_turtle_islands
+}

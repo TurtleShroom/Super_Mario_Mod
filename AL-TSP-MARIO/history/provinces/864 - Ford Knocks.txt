@@ -10,6 +10,6 @@ b_ford_knocks = castle
 
 # Misc
 culture = kremling
-religion = seven_stars
+religion = kremling_religion
 
 #History

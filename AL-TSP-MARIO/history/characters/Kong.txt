@@ -1,0 +1,561 @@
+#Kong
+#751-1000
+
+751 = {
+	name = Kingly #Cranky Kong's great grandfather (yes, he is real, he was mentioned in Donkey Kong Country 3: Dixie Kong's Double Trouble!)
+#	dynasty = x
+	religion = kong_religion 
+	culture = utility
+	add_trait = species_greater_kong
+	add_trait = strong
+	add_trait = robust
+	add_trait = tall
+	add_trait = canonical_character
+	historical = yes
+	1866.8.6 = {
+		birth = yes
+	}
+	1946.8.6 = {
+		death = yes
+	}
+}
+
+752 = {
+	name = Rocky #Fictional
+#	dynasty = x
+	religion = kong_religion 
+	culture = utility
+	father = 751
+	add_trait = species_greater_kong
+	add_trait = strong
+	add_trait = stubborn
+	add_trait = aggressive_leader
+	add_trait = duelist
+	1891.8.10 = {
+		birth = yes
+	}
+	1971.8.10 = {
+		death = yes
+	}
+}
+
+753 = {
+	name = Hunky #Fictional
+#	dynasty = x
+	religion = kong_religion
+	culture = utility
+	father = 752
+	add_trait = species_greater_kong
+	add_trait = strong
+	add_trait = fair
+	add_trait = lustful
+	1916.9.16 = {
+		birth = yes
+	}
+	1986.9.16 = {
+		death = yes
+	}
+}
+
+754 = {
+	name = Strongly #Cranky Kong
+#	dynasty = x
+	religion = kong_religion
+	culture = utility
+	father = 753
+	add_trait = species_greater_kong
+	add_trait = strong
+	add_trait = wroth
+	add_trait = quick
+	add_trait = stubborn
+	add_trait = canonical_character
+	historical = yes
+	1941.7.9 = { #July 9th is a reference to the original Donkey Kong game's release date
+		birth = yes
+		effect = { set_character_flag = is_cranky_kong }
+	}
+	1961.7.9 = { 
+		add_spouse = 755
+	}
+	1981.6.1 = {
+		name = Donkey
+	}
+	1991.7.9 = {
+		give_nickname = nick_cranky
+	}
+	2021.12.1 = {
+		death = yes
+	}
+}
+
+755 = {
+	name = Pretty #Wrinkly Kong
+	female = yes
+	religion = kong_religion
+	culture = utility
+	add_trait = species_greater_kong
+	add_trait = fair
+	add_trait = canonical_character
+	historical = yes
+	1942.9.7 = {
+		birth = yes
+	}
+	1992.9.7 = {
+		give_nickname = nick_wrinkly
+	}
+	1999.8.27 = { #August 27, 1999, was when Donkey Kong 64 was demoed at 1999 Spaceworld
+		death = yes
+	}
+}
+
+756 = {
+	name = Donkey #DK Jr
+#	dynasty = x
+	religion = kong_religion
+	culture = utility
+	father = 754
+	mother = 755
+	add_trait = species_greater_kong
+	add_trait = strong
+	add_trait = canonical_character
+	historical = yes
+	1957.6.15 = { #July 9th is a reference to the Donkey Kong Jr game's release date
+		birth = yes
+		effect = { set_character_flag = is_donkey_kong_junior }
+	}
+	1993.1.21 = { #reference to the latest SNES release date of Super Mario Kart, also a nod to the (false) Great Banana War
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+
+757 = {
+	name = Donkey #DK
+#	dynasty = x
+	religion = kong_religion
+	culture = utility
+	add_trait = species_greater_kong
+	add_trait = strong
+	add_trait = canonical_character
+	father = 755
+	historical = yes
+	1973.11.21 = { #November 21th is a reference to the Donkey Kong Country's release date
+		birth = yes
+		effect = { set_character_flag = is_donkey_kong }
+	}
+	1989.11.21 = {
+		add_trait = robust
+	}
+	2053.11.21 = {
+		death = yes
+	}
+}
+
+758 = {
+	name = Shorty #Fictional
+#	dynasty = x
+	religion = kong_religion
+	culture = utility
+	father = 753
+	add_trait = species_greater_kong
+	add_trait = dwarf
+	1942.6.1 = {
+		birth = yes
+	}
+	2022.6.1 = {
+		death = yes
+	}
+}
+
+759 = {
+	name = Ugly #Fictional
+#	dynasty = x
+	religion = kong_religion
+	culture = utility
+	father = 758
+	add_trait = species_greater_kong
+	add_trait = ugly
+	1958.6.1 = {
+		birth = yes
+	}
+	2038.6.1 = {
+		death = yes
+	}
+}
+
+760 = {
+	name = Candy #Candy Kong
+	female = yes
+#	dynasty = x
+	religion = kong_religion
+	culture = utility
+	father = 759
+	add_trait = species_greater_kong
+	add_trait = fair
+	add_trait = tall
+	historical = yes
+	1974.11.26 = { #November 26th is a reference to the Donkey Kong Country's release date in Japan
+		birth = yes
+		effect = { set_character_flag = is_candy_kong }
+	}
+	2054.11.26 = {
+		death = yes
+	}
+}
+
+761 = {
+	name = Normandy #Fictional
+#	dynasty = x
+	religion = kong_religion
+	culture = utility
+	father = 753
+	add_trait = species_greater_kong
+	1943.6.1 = {
+		birth = yes
+	}
+	2023.6.1 = {
+		death = yes
+	}
+}
+
+762 = {
+	name = Yankee #Fictional
+#	dynasty = x
+	religion = kong_religion
+	culture = utility
+	add_trait = species_greater_kong
+	father = 761
+	1962.6.1 = {
+		birth = yes
+	}
+	1978.6.1 = { 
+		add_spouse = 763
+	}
+	2042.6.1 = {
+		death = yes
+	}
+}
+
+763 = {
+	name = Liberty #Fictional
+	female = yes
+	religion = kong_religion
+	culture = utility
+	add_trait = species_lesser_kong
+	1961.2.2 = {
+		birth = yes
+	}
+	2041.2.2 = {
+		death = yes
+	}
+}
+
+764 = {
+	name = Dixie #Dixie Kong
+	female = yes
+#	dynasty = x
+	religion = kong_religion
+	culture = utility
+	father = 762
+	mother = 763
+	add_trait = species_lesser_kong
+	add_trait = twin
+	add_trait = canonical_character
+	historical = yes
+	1978.11.17 = { #November 17th is a reference to the GBC Donkey Kong Country's release date in EU
+		birth = yes
+		effect = { set_character_flag = is_dixie_kong }
+	}
+	2058.11.17 = {
+		death = yes
+	}
+}
+
+765 = {
+	name = Tiny #Tiny Kong
+	female = yes
+#	dynasty = x
+	religion = kong_religion
+	culture = utility
+	father = 762
+	mother = 763
+	add_trait = species_greater_kong
+	add_trait = twin
+#	add_trait = tall
+	add_trait = canonical_character
+	historical = yes
+	1978.11.17 = { #November 17th is a reference to the GBC Donkey Kong Country's release date in EU
+		birth = yes
+		effect = { set_character_flag = is_tiny_kong }
+	}
+	2058.11.17 = {
+		death = yes
+	}
+}
+
+766 = {
+	name = Weakly #Fictional
+#	dynasty = x
+	religion = kong_religion
+	culture = utility
+	father = 761
+	add_trait = weak
+	1963.6.1 = {
+		birth = yes
+	}
+	1983.6.1 = { 
+		add_spouse = 767
+	}
+	2043.6.1 = {
+		death = yes
+	}
+}
+
+767 = {
+	name = Smartly #Fictional
+	female = yes
+	religion = kong_religion
+	culture = utility
+	add_trait = quick
+	1964.2.2 = {
+		birth = yes
+	}
+	2050.2.2 = {
+		death = yes
+	}
+}
+
+768 = {
+	name = Chunky #Chunky Kong
+#	dynasty = x
+	religion = kong_religion
+	culture = utility
+	father = 766
+	mother = 767
+	add_trait = species_greater_kong
+	add_trait = slow
+	add_trait = strong
+	add_trait = tall
+	add_trait = shy # Chunky is bashful and visibly expresses rather humorous discomfort ("Who, me? Nah...") when selected in DK64
+	add_trait = canonical_character
+	historical = yes
+	1983.11.22 = { #November 22th is a reference to the Donkey Kong 64's release
+		birth = yes
+		effect = { set_character_flag = is_chunky_kong }
+	}
+	2063.11.22 = {
+		death = yes
+	}
+}
+
+769 = {
+	name = Kiddy #Kiddy Kong
+#	dynasty = x
+	religion = kong_religion
+	culture = utility
+	father = 766
+	mother = 767
+	add_trait = species_greater_kong
+	add_trait = strong
+	historical = yes
+	1991.11.22 = { #November 22th is a reference to the Donkey Kong Country 3's release
+		birth = yes
+	}
+	2071.11.22 = {
+		death = yes
+	}
+}
+
+770 = {
+	name = Titchy #Fictional
+#	dynasty = x
+	religion = kong_religion
+	culture = utility
+	father = 753
+	add_trait = species_lesser_kong
+	1941.6.1 = {
+		birth = yes
+	}
+	2024.6.1 = {
+		death = yes
+	}
+}
+
+771 = {
+	name = Dinky #Fictional
+#	dynasty = x
+	religion = kong_religion
+	culture = utility
+	father = 770
+	add_trait = species_lesser_kong
+	1957.6.1 = {
+		birth = yes
+	}
+	2037.6.1 = {
+		death = yes
+	}
+}
+
+772 = {
+	name = Diddy #Diddy Kong
+#	dynasty = x
+	religion = kong_religion
+	culture = utility
+	father = 771
+	add_trait = species_lesser_kong
+	add_trait = canonical_character
+	historical = yes
+	1978.11.20 = { #November 20th is a reference to the GBC Donkey Kong Country's release date in US
+		birth = yes
+		effect = { set_character_flag = is_diddy_kong }
+	}
+	1994.11.20 = {
+		effect = {
+			add_friend = 757 #DK
+		}
+	}
+	1996.6.2 = {
+		add_lover = 764 #Dixie Kong
+		effect = {
+			add_friend = 764
+		}
+	}
+	2058.11.20 = {
+		death = yes
+	}
+}
+
+773 = {
+	name = Swaggy #Fictional
+#	dynasty = x
+	religion = kong_religion
+	culture = utility
+	father = 753
+	add_trait = species_lesser_kong
+	1945.6.1 = {
+		birth = yes
+	}
+	2025.6.1 = {
+		death = yes
+	}
+}
+
+774 = {
+	name = Funky #Funky Kong
+#	dynasty = x
+	religion = kong_religion
+	culture = utility
+	father = 773
+	add_trait = species_greater_kong
+	add_trait = canonical_character
+	add_trait = skilled_tactician # Logistics master and arms dealer
+	add_trait = logistics_expert
+	historical = yes
+	1971.1.21 = { #January 21th is a reference to the GBC Donkey Kong Country's release date in Japan
+		birth = yes
+	}
+	1990.6.1 = {
+		effect = {
+			add_friend = 757 #DK
+		}
+	}
+	2051.1.21 = {
+		death = yes
+	}
+}
+
+775 = {
+	name = Swanky #Swanky Kong
+#	dynasty = x
+	religion = kong_religion
+	culture = utility
+	father = 773
+	add_trait = species_greater_kong
+	add_trait = gregarious
+	historical = yes
+	1972.12.24 = { #December 24th is a reference to the Donkey Kong Country 2's release date in Japan
+		birth = yes
+	}
+	2052.12.24 = {
+		death = yes
+	}
+}
+
+776 = {
+	name = Stocky #Fictional
+#	dynasty = x
+	religion = kong_religion
+	culture = utility
+	father = 753
+	add_trait = species_greater_kong
+	add_trait = strong
+	add_trait = dwarf
+	1946.6.1 = {
+		birth = yes
+	}
+	2026.6.1 = {
+		death = yes
+	}
+}
+
+777 = {
+	name = Lanky #Lanky Kong
+#	dynasty = x
+	religion = kong_religion
+	culture = x
+	father = 776
+	add_trait = species_greater_kong
+	add_trait = is_fat # HE HAS NO STYLE
+	add_trait = slow # HE HAS NO GRACE
+	add_trait = ugly # THIS KONG HAS A FUNNY FACE
+	add_trait = canonical_character
+	historical = yes
+	1973.12.6 = { #December 6th is a reference to the Donkey Kong 64's release date in EU
+		birth = yes
+		add_trait = strong # HE CAN HANDSTAND, WHEN HE NEEDS TO
+		add_trait = gregarious # AND STRETCH HIS ARMS OUT, JUST FOR YOU
+		effect = {
+			set_character_flag = is_lanky_kong
+			set_character_flag = he_has_no_style
+			set_character_flag = he_has_no_grace
+			set_character_flag = this_kong_has_a_funny_face
+		}
+	}
+	2053.12.6 = {
+		death = yes
+	}
+}
+
+778 = {
+	name = Heather #Bluster's mother
+	female = yes
+	dynasty = x
+	religion = kong_religion
+	culture = x
+	father = 753
+	add_trait = species_greater_kong
+	historical = yes
+	1947.6.1 = {
+		birth = yes
+	}
+	2027.6.1 = {
+		death = yes
+	}
+}
+
+779 = {
+	name = Bluster #Bluster Kong
+	dynasty = x
+	religion = kong_religion
+	culture = x
+	mother = 778
+	add_trait = species_greater_kong
+	historical = yes
+	1968.8.4 = { #September 4th is a reference to the first time the Donkey Kong Country show aired on TV
+		birth = yes
+	}
+	2048.8.4 = {
+		death = yes
+	}
+}

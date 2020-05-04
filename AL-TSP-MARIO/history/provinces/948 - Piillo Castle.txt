@@ -10,6 +10,6 @@ b_piillo_castle = castle
 
 # Misc
 culture = pirate
-religion = seven_stars
+religion = pillow
 
 #History

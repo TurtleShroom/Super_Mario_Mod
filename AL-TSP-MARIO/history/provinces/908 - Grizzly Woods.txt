@@ -10,6 +10,6 @@ b_grizzly_woods = castle
 
 # Misc
 culture = kremling
-religion = seven_stars
+religion = kremling_religion
 terrain = woods
 #History

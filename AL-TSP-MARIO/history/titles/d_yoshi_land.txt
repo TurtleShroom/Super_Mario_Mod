@@ -1,8 +1,8 @@
-# e_mushroom_empire
+# e_linguine_empire
 500.1.1={
 	law = agnatic_succession
 	law = succ_gavelkind
 }
 800.1.1={
-	liege=k_eastern_mushroomland
+	liege=k_linguine_land
 }

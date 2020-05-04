@@ -1,0 +1,49 @@
+#Uniques
+nick_la_koopa = {} #Poopa La Koopa
+nick_kooky = {} #Ludwig von Koopa
+nick_big_mouth = {} #Morton Koopa Jr.
+nick_bully = {} #Roy Koopa
+nick_kootie_pie = {} #Wendy O. Koopa
+nick_hop = {} #Iggy Koopa
+nick_hip = {} #Lemmy Koopa
+nick_cheatsy = {} #Larry Koopa
+nick_cranky = {} #Cracky Kong
+nick_wrinkly = {} #Wrinkly Kong
+nick_blue_bowser = {} #Jeffrey Koopa/Blue Bowser
+nick_yoshi = {} #T. Yoshisaur Munchakoopas/Yoshi
+
+#Generic
+nick_big_candy = {
+	allow = {
+		higher_real_tier_than = DUKE # Must be a king
+		trait = gluttonous
+		NOT = {
+			is_republic = yes
+			is_theocracy = yes
+		}
+	}
+	chance = {
+		factor = 20
+		modifier = {
+			factor = 2
+			trait = drunkard
+		}
+	}
+}
+
+nick_big_candy2 = {
+	allow = {
+		trait = gluttonous
+		is_republic = yes
+		NOT = { is_theocracy = yes }
+		NOT = { is_fuedal = yes }
+		NOT = { is_tribal = yes }
+	}
+	chance = {
+		factor = 10
+		modifier = {
+			factor = 3
+			trait = drunkard
+		}
+	}
+}

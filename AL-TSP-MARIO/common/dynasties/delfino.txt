@@ -1,0 +1,291 @@
+1500 = {
+	name = "Doot-Doot"
+	culture = "delfino"
+}
+
+1501 = {
+	name = "Barbaro"
+	culture = "delfino"
+}
+
+1502 = {
+	name = "Capo"
+	culture = "delfino"
+}
+
+1503 = {
+	name = "Costello"
+	culture = "delfino"
+}
+
+1504 = {
+	name = "Deniro"
+	culture = "delfino"
+}
+
+1505 = {
+	name = "Drago"
+	culture = "delfino"
+}
+
+1506 = {
+	name = "Esposito"
+	culture = "delfino"
+}
+
+1507 = {
+	name = "Falcone"
+	culture = "delfino"
+}
+
+1508 = {
+	name = "Bonanno"
+	culture = "delfino"
+}
+
+1509 = {
+	name = "Maroni"
+	culture = "delfino"
+}
+
+1510 = {
+	name = "Carbone"
+	culture = "delfino"
+}
+
+1511 = {
+	name = "Capone"
+	culture = "delfino"
+}
+
+1512 = {
+	name = "Coppola"
+	culture = "delfino"
+}
+
+1513 = {
+	name = "Coppola"
+	culture = "delfino"
+}
+
+1514 = {
+	name = "Gallo"
+	culture = "delfino"
+}
+
+1515 = {
+	name = "Genovese"
+	culture = "delfino"
+}
+
+1516 = {
+	name = "Gotti"
+	culture = "delfino"
+}
+
+1517 = {
+	name = "Juliano"
+	culture = "delfino"
+}
+
+1518 = {
+	name = "Leo"
+	culture = "delfino"
+}
+
+1519 = {
+	name = "Lombardo"
+	culture = "delfino"
+}
+
+1520 = {
+	name = "Delfino"
+	culture = "delfino"
+}
+
+1521 = {
+	name = "Pianta"
+	culture = "delfino"
+}
+
+1522 = {
+	name = "Napolitano"
+	culture = "delfino"
+}
+
+1523 = {
+	name = "Pagano"
+	culture = "delfino"
+}
+
+1524 = {
+	name = "Borgia"
+	culture = "delfino"
+}
+
+1525 = {
+	name = "Ricco"
+	culture = "delfino"
+}
+
+1526 = {
+	name = "Russo"
+	culture = "delfino"
+}
+
+1527 = {
+	name = "Santoro"
+	culture = "delfino"
+}
+
+1528 = {
+	name = "Scalise"
+	culture = "delfino"
+}
+
+1529 = {
+	name = "Scarfo"
+	culture = "delfino"
+}
+
+1530 = {
+	name = "Scarpa"
+	culture = "delfino"
+}
+
+1531 = {
+	name = "Vitale"
+	culture = "delfino"
+}
+
+1532 = {
+	name = "Zito"
+	culture = "delfino"
+}
+
+1533 = {
+	name = "Bufalino"
+	culture = "delfino"
+}
+
+1534 = {
+	name = "Colombo"
+	culture = "delfino"
+}
+
+1535 = {
+	name = "DeCavalcante"
+	culture = "delfino"
+}
+
+1536 = {
+	name = "Gambino"
+	culture = "delfino"
+}
+
+1537 = {
+	name = "Genovese"
+	culture = "delfino"
+}
+
+1538 = {
+	name = "Lucchese"
+	culture = "delfino"
+}
+
+1539 = {
+	name = "Patriarca"
+	culture = "delfino"
+}
+
+1540 = {
+	name = "Trafficante"
+	culture = "delfino"
+}
+
+1541 = {
+	name = "Bruno"
+	culture = "delfino"
+}
+
+1542 = {
+	name = "Bufalino"
+	culture = "delfino"
+}
+
+1543 = {
+	name = "Camorra"
+	culture = "delfino"
+}
+
+1544 = {
+	name = "Genna"
+	culture = "delfino"
+}
+
+1545 = {
+	name = "Morello"
+	culture = "delfino"
+}
+
+1546 = {
+	name = "Lanzetta"
+	culture = "delfino"
+}
+
+1547 = {
+	name = "Rizzuto"
+	culture = "delfino"
+}
+
+1548 = {
+	name = "Cotroni"
+	culture = "delfino"
+}
+
+1549 = {
+	name = "Musitano"
+	culture = "delfino"
+}
+
+1550 = {
+	name = "Bianco"
+	culture = "delfino"
+}
+
+1551 = {
+	name = "Corona"
+	culture = "delfino"
+}
+
+1552 = {
+	name = "Gelato"
+	culture = "delfino"
+}
+
+1553 = {
+	name = "Noki"
+	culture = "delfino"
+}
+
+1554 = {
+	name = "Pinna"
+	culture = "delfino"
+}
+
+1555 = {
+	name = "Sirena"
+	culture = "delfino"
+}
+
+1556 = {
+	used_for_random = no
+	name = "Giovanna"
+	culture = "delfino"
+}
+
+1557 = {
+	used_for_random = no
+	name = "Versus"
+	culture = "delfino"
+}

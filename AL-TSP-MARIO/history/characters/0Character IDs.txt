@@ -1,0 +1,110 @@
+#Iwata (Iwata)
+#1-250
+
+#Mario (Mario Brothers)
+#251-500
+
+#Rigassi (Mario Brothers' Mother's side of the family)
+#501-750
+
+#Kong (Donkey Kong)
+#751-1000
+
+#Geastrales (Rosalina)
+#1001-1250
+
+#Koopa (Bowser and the Koopalings)
+#1251-1500
+
+#Legume (Queen Bean and Prince Peasley)
+#1501-1750
+
+#Bruisewort (Daisy)
+#1751-2000
+
+#Toadstool (Peach)
+#2001-2250
+
+#Capitoline (Wario)
+#2251-2500
+
+#Wadlow (Waluigi)
+#2501-2750
+
+#Opal (Mona)
+#2751-3000
+
+#Moonstone (Ashley)
+#3001-3250
+
+#Iscariot (Victoad) *Easter egg
+#3251-3500
+
+#Thang (Jimmy T.)
+#3501-3750
+
+#Celestine (Orbulon)
+#3751-4000
+
+#Ludlamite (Lulu)
+#4001-4250
+
+#Iga (Kat and Ana)
+#4251-4500
+
+#Crygor (Dr. Crygor and Penny)
+#4501-4750
+
+#Phang (Jimmy P.)
+#4751-5000
+
+#Narce (Dribble)
+#5001-5250
+
+#Pearl (Spitz)
+#5251-5500
+
+#Volt (9-Volt, 5-Volt, 18-Volt)
+#5501-5750
+
+#Munchakoopas (Yoshi)
+#5751-6000
+
+#Syrup (Captain Syrup)
+#6001-6250
+
+#Uca
+#6251-6500
+
+#Jadeite (Joe)
+#6501-6750 
+
+#Cricket
+#6751-7000 (Young Cricket)
+
+#Mantis
+#7001-7250 (Master Mantis)
+
+#Fordite
+#7251-7500 (Mike)
+
+#Oofoosoot (TSF4) *Easter egg
+#7501-7750
+
+#Asterionid (Bifun)
+#7751-8000
+
+#Erebos (The Shadow Queen)
+#8001-8250
+
+#Siren (The Shadow Sirens)
+#8251-8500
+
+#Joestar *Easter egg
+#8500-8750
+
+#Brando *Easter egg
+#8750-9000
+
+#Tempus (Iusti) *Easter egg
+#9000-9250

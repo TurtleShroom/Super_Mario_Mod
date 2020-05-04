@@ -1,8 +1,8 @@
-# e_war_and_peace_land
+# e_linguine_empire
 500.1.1={
 	law = agnatic_succession
 	law = succ_gavelkind
 }
 800.1.1={
-	liege=k_barrier_pathland
+	liege=k_wiggler_land
 }

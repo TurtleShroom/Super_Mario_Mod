@@ -10,6 +10,6 @@ b_eastern_ruin_area = castle
 
 # Misc
 culture = dryite
-religion = seven_stars
+religion = dryite_pagan
 
 #History

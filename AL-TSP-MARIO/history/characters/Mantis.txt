@@ -1,0 +1,22 @@
+#Mantis
+#7001-7250
+
+7001 = {
+	name = "Bruce" #Master Mantis, named after Bruce Lee
+	religion = temple_of_form
+	culture = diamond_city_men
+	dynasty = 3010
+	add_trait = species_men
+	add_trait = shrewd
+	add_trait = patient
+	add_trait = canonical_character
+	historical = yes
+	disallow_random_traits = yes #Done so that Master Mantis won't get unfitting traits
+	1946.1.15 = { #This date is a reference to the release date of WarioWare: Smooth Moves in US
+  		birth = yes
+		effect = { set_character_flag = is_master_mantis }
+	}
+	2026.1.15 = {
+		death = yes
+	}
+}

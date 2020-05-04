@@ -10,6 +10,6 @@ b_pirate_port = castle
 
 # Misc
 culture = pirate
-religion = seven_stars
+religion = piracy
 
 #History

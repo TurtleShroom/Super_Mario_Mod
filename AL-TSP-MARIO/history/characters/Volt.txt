@@ -1,0 +1,133 @@
+#Volt
+#5501-5750
+
+5501 = {
+	name = One #Fictional
+	dynasty = 3007
+	religion = temple_of_form
+	culture = diamond_city_men
+	add_trait = species_men
+	1943.12.16 = {
+  		birth = yes
+	}
+	2023.12.16 = {
+		death = yes
+	}
+}
+
+5502 = {
+	name = Five #5-Volt
+	female = yes
+	dynasty = 3007
+	religion = temple_of_form
+	culture = diamond_city_men
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 5501
+	add_trait = species_men
+	add_trait = canonical_character
+	historical = yes
+	disallow_random_traits = yes #Done so that 5-Volt won't get unfitting traits
+	1973.10.14 = { #October 14th is a reference to the release date of WarioWare: Twisted! in Japan
+  		birth = yes
+		effect = { set_character_flag = is_five_volt }
+	}
+	1989.10.14 = { 
+		add_trait = gamer
+	}
+	1992.10.14 = {
+		add_spouse_matrilineal = 5503 #Four
+	}
+	2053.10.14 = {
+		death = yes
+	}
+}
+
+5503 = {
+	name = Four #9-Volt's father
+	religion = temple_of_form
+	culture = diamond_city_men
+	add_trait = species_men
+	historical = yes
+	1972.6.1 = {
+  		birth = yes
+	}
+	1988.6.1 = {
+  		add_trait = brave #firefighter
+	}
+	2052.6.1 = {
+		death = yes
+	}
+}
+
+5504 = {
+	name = Nine #9-Volt
+	dynasty = 3007
+	religion = temple_of_form
+	culture = diamond_city_men
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 5503
+	mother = 5502
+	add_trait = species_men
+	add_trait = canonical_character
+	historical = yes
+	disallow_random_traits = yes #Done so that 9-Volt won't get unfitting traits
+	1994.12.16 = { #December 16th is a reference to the release date of 3DS WarioWare, Inc.: Mega Microgame$! in EU
+  		birth = yes
+		effect = { set_character_flag = is_nine_volt }
+	}
+	2003.3.21 = { #WarioWare, Inc.: Mega Microgame$! happens
+		add_trait = gamer
+	}
+	2074.12.16 = {
+		death = yes
+	}
+}
+
+5505 = {
+	name = Two #Fictional
+	dynasty = 3007
+	religion = temple_of_form
+	culture = diamond_city_men
+	father = 5501
+	add_trait = species_men
+	1974.6.1 = {
+  		birth = yes
+	}
+	2054.6.1 = {
+		death = yes
+	}
+}
+
+5506 = {
+	name = Eighteen #18-Volt
+	dynasty = 3007
+	religion = temple_of_form
+	culture = diamond_city_men
+	#dna = "00000000000"
+	#properties = "00000000000"
+	father = 5505
+	add_trait = species_men
+	add_trait = strong
+	add_trait = tall
+	add_trait = canonical_character
+	historical = yes
+	disallow_random_traits = yes #Done so that 18-Volt won't get unfitting traits
+	1994.5.19 = { #May 19th is a reference to the release date of WarioWare: Twisted! in Australia
+  		birth = yes
+		effect = { set_character_flag = is_eighteen_volt }
+	}
+	2004.10.14 = { #WarioWare: Twisted! happens
+		add_trait = gamer
+		effect = {
+			add_friend = 5504 #9-Volt
+		}
+	}
+	2010.5.19 = {
+		add_trait = just
+	}
+	2074.5.19 = {
+		death = yes
+	}
+}

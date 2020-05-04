@@ -10,6 +10,6 @@ b_tightrope_tropics = castle
 
 # Misc
 culture = kremling
-religion = seven_stars
+religion = kremling_religion
 
 #History

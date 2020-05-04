@@ -10,6 +10,6 @@ b_twilight_house = castle
 
 # Misc
 culture = pirate
-religion = seven_stars
+religion = boolish
 
 #History

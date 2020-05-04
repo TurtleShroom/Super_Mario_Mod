@@ -10,6 +10,6 @@ b_pirates_grotto = castle
 
 # Misc
 culture = pirate
-religion = seven_stars
+religion = piracy
 
 #History

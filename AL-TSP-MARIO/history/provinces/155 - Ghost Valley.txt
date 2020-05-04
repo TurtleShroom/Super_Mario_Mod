@@ -10,6 +10,6 @@ b_ghost_valley = castle
 
 # Misc
 culture = pirate
-religion = seven_stars
+religion = boolish
 
 #History

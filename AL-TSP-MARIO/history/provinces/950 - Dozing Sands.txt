@@ -10,6 +10,6 @@ b_dozing_sands = castle
 
 # Misc
 culture = pirate
-religion = seven_stars
+religion = pillow
 
 #History

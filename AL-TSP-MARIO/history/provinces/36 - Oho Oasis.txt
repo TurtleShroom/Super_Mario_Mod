@@ -10,6 +10,6 @@ b_oho_oasis = castle
 
 # Misc
 culture = hoohooligan
-religion = seven_stars
+religion = beanstar_faith
 
 #History
