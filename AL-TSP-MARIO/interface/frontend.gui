@@ -1294,13 +1294,13 @@ guiTypes = {
 				#	clickSound = click
 				#}
 
-				guiButtonType = {
-					name = "extend_browser_window"
-					position = { x = -180 y = -100 }
-					quadTextureSprite = "GFX_featured_ruler_arrow_round_left"
-					orientation = "UPPER_LEFT"
-					clickSound = click
-				}
+				#guiButtonType = {
+				#	name = "extend_browser_window"
+				#	position = { x = -180 y = -100 }
+				#	quadTextureSprite = "GFX_featured_ruler_arrow_round_left"
+				#	orientation = "UPPER_LEFT"
+				#	clickSound = click
+				#}
 
 				###### TEST BUTTONS ######
 
@@ -6010,12 +6010,12 @@ guiTypes = {
 			position = { x = 273 y = 18 }
 		}
 
-		iconType = {
-			name = "highlighted_ruler_icon"
-			spriteType = "GFX_highlighted_ruler_save"
-			position = { x = 270 y = 4 }
-			pdx_tooltip = "HIGHLIGHTED_RULER_SAVE_TOOLTIP"
-		}
+		#iconType = {
+		#	name = "highlighted_ruler_icon"
+		#	spriteType = "GFX_highlighted_ruler_save"
+		#	position = { x = 270 y = 4 }
+		#	pdx_tooltip = "HIGHLIGHTED_RULER_SAVE_TOOLTIP"
+		#}
 
 		iconType = {
 			name = "shattered_icon"
